@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Heat Pump Clothes Dryer?"
+headline: "What Is a Heat Pump Clothes Dryer?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2023-11-17
+basePath: https://library.homeserve.com/m/
+heroImage: 12ed19340cde13b9/webimage-What-Is-a-Heat-Pump-Clothes-Dryer.png
+heroAltDescription: "illustration of how a heat pump dryer works"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If you’ve ever wondered how dryers do their thing, we’ll show you how the heat pump clothes dryer advances the technology."
+articleAbstract: "If you’ve ever wondered how dryers do their thing, we’ll show you how the new kid on the block — the heat pump clothes dryer — advances the technology."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is a Heat Pump Clothes Dryer?"
+  parent: Appliances
+---
+  Some say the old ways are the best ways, but not many would argue that hanging clothes on a line is better than using a dryer. No one running their hands through a freshly fluffed towel or taking in the aroma of freshly dried clothes would agree with that take.
+
+**This May Also Interest You:** [**How Much Does an Air-Source Heat Pump Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/air-source-heat-pump/)
+
+If you’ve ever wondered how dryers do their thing, we’ll show you how the new kid on the block — the heat pump clothes dryer — advances the technology. We'll unveil the magic behind its genius and reveal how it distinguishes itself from its more conventional counterparts.
+
+What Is a Heat Pump Clothes Dryer?
+----------------------------------
+
+A heat pump clothes dryer operates much like your everyday dryer but with a thoughtful twist. Instead of depending solely on electricity or gas for heat, it uses a heat pump system to dry laundry. What's truly incredible is its ability to conserve energy, minimize its environmental impact and offer a ventless drying experience that's both innovative and eco-friendly. Consequently, its boundary-pushing technology has resulted in it being the only type of dryer that’s [Energy Star-certified](https://www.energystar.gov/products/heat_pump_dryer).
+
+How Is It Different From a Normal Gas or Electric Dryer?
+--------------------------------------------------------
+
+Traditional dryers use electricity or natural gas to produce hot air that dries wet clothes by evaporating moisture. The dryers then expel this warm, moist air outside through a vent. One of this system's downsides is there are only certain places where you can locate your dryer because it needs to be vented.
+
+A heat pump clothes dryer operates within a closed-loop system, recirculating air and capturing the heat it generates. Consequently, it only uses [40% to 50%](https://www.energystar.gov/ia/partners/pt_awards/SEDI_Fact_Sheet_H.pdf) of the energy of a traditional dryer drying the same amount of clothes. Let’s look at what that really means for you and how your clothes are dried.
+
+### How Heat Pump Clothes Dryers Work
+
+A heat pump dryer is exceptionally efficient in drying clothes and conserving energy. It accomplishes this through a series of intricate processes:
+
+*   The dryer draws ambient air from your laundry space and passes it over the damp clothes in the drum.
+*   Its heat exchanger contains a refrigerant, which absorbs heat from the surrounding air.
+*   As the air passes over your wet laundry, it absorbs moisture from the clothes, and this moisture-laden air is directed to the heat exchanger.
+*   The absorbed moisture releases its heat to the refrigerant, causing it to evaporate and turning the warm, moist air into hot, dry air, which is then circulated back into the drum.
+*   The moisture becomes water vapor, which the dryer condenses back into liquid form, collecting it in a reservoir or directing it to a drain.
+*   This cycle continues until your clothes are thoroughly dry, all while the heat pump system recirculates and reuses the heated air.
+
+**More Related Articles:**
+
+*   [What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+*   [How Much Does It Cost to Install or Replace an Air Handler?](https://www.homeserve.com/en-us/blog/cost-guide/air-handler/)
+*   [HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+*   [The Do’s and Don'ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+
+Are Heat Pump Clothes Dryers Ventless?
+--------------------------------------
+
+Heat pump clothes dryers are ventless. Instead of expelling the warm, moist air outside, they harness the power of condensation. Here's how:
+
+*   The heat exchanger cools the hot, moisture-laden air, causing the moisture to condense into liquid water.
+*   The condensed water collects in a reservoir, which you can periodically empty. Some models can direct this water to a drain, making them even more convenient.
+*   Now free of moisture, the dry and warm air is recirculated into the drum to continue the drying process.
+
+This closed-loop system saves energy and eliminates the need for a vent. The advantage of being ventless is that you have fewer restrictions on where to place the dryer within your home.
+
+How Much Does a Heat Pump Clothes Dryer Cost?
+---------------------------------------------
+
+Several factors, including the brand, model and features, determine a heat pump dryer’s cost. Generally, they’re more expensive than traditional dryers but more affordable in the long term due to energy cost savings. Moreover, their eco-friendly operation aligns with sustainability goals, making them an appealing choice for environmentally conscious consumers.
+
+As with all appliances, there are budget-friendly models with basic features and other models with lots of bells and whistles, priced accordingly. As of late 2023, you can expect to pay around $900 (CAD 1,230) for an entry-level model and upward of $2,600 (CAD 3,552) for a top-of-the-range one.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

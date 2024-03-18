@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is Sick Building Syndrome?"
+headline: "What Is Sick Building Syndrome?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-08-23
+basePath: https://library.homeserve.com/m/
+heroImage: 46620b3fe8136387/Blog-Sick-Building-Syndrome-graphic.jpg
+heroAltDescription: "Illustration of a building with a face"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Sick building syndrome is a possibility if you experience unexplained symptoms when you're in a particular building."
+articleAbstract: "Sick building syndrome is a possibility if you experience unexplained symptoms when you're in a particular building."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is Sick Building Syndrome?"
+  parent: Interior-Home-Home-Improvement
+---
+  Feeling sick of going to work every day is common, but if you feel physically ill whenever you're in the office — or whenever you return home from the office — it could be something more.
+
+**This May Also Interest You:** [**Allergies Are Nothing to Sneeze at. Here Are 12 Ways to Allergy-Proof Your Home**](https://www.homeserve.com/en-us/blog/how-to/allergy-proof-your-home/)
+
+Sick building syndrome is a possibility if you experience unexplained symptoms when you're in a particular building.
+
+What Is Sick Building Syndrome?
+-------------------------------
+
+Sick building syndrome refers to a situation where time spent in a building causes acute health issues without a specific illness causing the issues. It's difficult to pinpoint the cause, but the symptoms tend to get better quickly once you leave the building. The symptoms typically affect multiple people in the building, but not everyone is affected in the same way.
+
+What Are the Symptoms?
+----------------------
+
+The symptoms of sick building syndrome can vary based on the root cause. Some common symptoms include:
+
+*   Watery eyes
+*   Runny nose
+*   Sneezing
+*   Headaches
+*   Skin irritation
+*   Dizziness
+*   Shortness of breath
+*   Hoarseness
+*   Fatigue
+*   Concentration issues
+*   Nausea
+*   Aches
+
+These symptoms can come from many causes, but you might suspect sick building syndrome if you only experience them in a certain building or in one area of a building. You'll notice the symptoms going away when you're not in that space. Sick building syndrome is also likely the issue if multiple people have similar symptoms that occur long-term when in the building.
+
+**More Related Articles:**
+
+*   [5 Reasons You Need a Dehumidifier in Your Home](https://www.homeserve.com/en-us/blog/home-improvement/dehumidifier-benefits/)
+*   [Heat Your Home Safely This Winter: Carbon Monoxide Safety Tips](https://www.homeserve.com/en-us/blog/home-improvement/carbon-monoxide-safety/)
+*   [Out With the Mold and in With the New: How to Clean Mold](https://www.homeserve.com/en-us/blog/how-to/mold-removal/)
+*   [How Much Does a Mold Inspection Cost?](https://www.homeserve.com/en-us/blog/cost-guide/mold-inspection/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+
+What Are the Possible Causes?
+-----------------------------
+
+The causes of sick building syndrome can vary and be difficult to identify. It's often caused by something in the air or in materials inside the building. Some potential causes include:
+
+*   Airtight building with poor ventilation
+*   Mold or fungal growth
+*   Chemicals such as formaldehyde, cleaners or pesticides
+*   Carbon monoxide
+*   Insect or bird droppings
+*   Dust
+
+What Should You Do If You Suspect You Have Sick Building Syndrome?
+------------------------------------------------------------------
+
+If you suspect you have sick building syndrome, document your symptoms and any conditions inside the building that could be the cause. Taking photos of things like discolored ceiling tiles or damp surfaces can help. Going to the doctor can also provide evidence. Keep a copy of your medical records related to the symptoms.
+
+If the symptoms are occurring at your workplace, talk to your boss or the HR department to bring up your concerns. Filing a written complaint helps create a paper trail. Document the conversations you have in case the company isn't responsive. You can report the situation to OSHA for investigation if your company doesn't do anything about it.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

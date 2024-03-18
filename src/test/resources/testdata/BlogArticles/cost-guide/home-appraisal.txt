@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Home Appraisal Cost?"
+headline: "How Much Does a Home Appraisal Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-10-28
+basePath: https://library.homeserve.com/m/
+heroImage: 1f8631faa717632c/Blog-GettyImages-1223036235.jpg
+heroAltDescription: "Male real estate appraiser in a blue shirt taking pictures of property with an iphone"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A home appraisal can make or break the home sale, so it's important to prepare your home — and your budget — as much as possible."
+articleAbstract: "A home appraisal can make or break the home sale transaction, so it's important to prepare your home — and your budget — as much as possible."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does a Home Appraisal Cost?"
+  parent: Interior-Cost-Guide
+---
+  Getting a [home appraisal](https://www.discover.com/home-loans/articles/the-home-appraisal-process/) is like waiting to hear back after a first date. How did you do? Are you and the appraiser on the same page? Will things move forward or come to a screeching halt?
+
+**This May Also Interest You:** [**What Do You Need a Property Survey for and How Much Does One Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/property-survey/)
+
+A home appraisal can make or break the home sale transaction, so it's important to prepare your home — and your budget — as much as possible.
+
+What’s a Home Appraisal?
+------------------------
+
+A home appraisal is a third-party assessment of a home’s [fair market value](https://smartasset.com/financial-advisor/fair-market-value), which is the price the property would sell for in an open market without any restrictions. Appraisals are completed by qualified real estate appraisers who are professionally licensed and have the proper training and experience to get the job done.
+
+Why Might You Need to Get an Appraisal?
+---------------------------------------
+
+An appraisal is typically required by a mortgage lender during a home sale transaction. While the buyer and seller may come to their own agreement on the price, the lender requires an appraisal to obtain an objective value of the home and ensure the requested loan amount is appropriate.
+
+The mortgage lender will only lend an amount that's proportionate to the appraised value, even if that value is lower than the buyer and seller’s negotiated price. In that case, the sale may fall through, unless the buyer can make up the difference or negotiate a lower price with the seller.
+
+What Will the Appraiser Check?
+------------------------------
+
+An appraiser [evaluates](https://www.forbes.com/advisor/mortgages/how-home-appraisals-work/) everything from the inside of a home to the sale prices of similar homes in the area. When assessing the inside of a home, an appraiser looks at the number of bedrooms, as well as health considerations, such as whether there's a functioning heating and cooling system.
+
+The appraiser will also look at any improvements you've made to the home. It’s worth making a list of these upgrades for the appraiser's review to ensure nothing is missed.
+
+The appraiser will also assess the entire exterior of the home, which is why you may want to consider doing a property survey beforehand to make sure there's no dispute about where your property begins and ends.
+
+Lastly, appraisers use the sale prices of similar nearby properties, as well as trends in property values, as factors to determine the home value.
+
+Appraisals through government-backed lenders — including the Federal Housing Administration and the U.S. Department of Veterans Affairs — have stricter requirements, including evaluating whether there's working electricity or if there's evidence of mold. If you're working with one of these government agencies for your loan, be prepared for a more in-depth report.
+
+**More Related Articles:**
+
+*   [First-Time Homebuyers: Here's What to Replace First After Moving Into a New House](https://www.homeserve.com/en-us/blog/home-improvement/first-replacements-after-moving/)
+*   [Will Building an Addition Add to Your Home Value?](https://www.homeserve.com/en-us/blog/home-improvement/addition-home-value/)
+*   [How Much Value Does a Kitchen Remodel Add to Your Home?](https://www.homeserve.com/en-us/blog/home-improvement/kitchen-remodel-home-value/)
+*   [What to Expect When They're Inspecting: Your Home-Inspection Checklist](https://www.homeserve.com/en-us/blog/home-improvement/what-to-expect-home-inspection/)
+*   [How Much Does Homeowners Insurance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/homeowners-insurance/)
+
+How Much Does It Cost?
+----------------------
+
+According to [Bankrate](https://www.bankrate.com/mortgages/how-much-does-an-appraisal-cost/), the cost of a house appraisal can range from $300 to $800 (CAD 412 to CAD 1,099) for a single-family home, with large properties and homes in major metropolitan areas falling at the higher end of the spectrum. These price ranges are dependent on factors such as house size, unusual features, the extent of disrepair, availability of comparative pricing and even seasonal conditions that may make it difficult to evaluate the home. Appraisers typically charge an hourly rate or a flat fee.
+
+What Helps or Hurts a Home Appraisal?
+-------------------------------------
+
+Anything that makes your home look outdated or unappealing will negatively impact the appraisal. You should consider making any necessary home improvements that will increase the house value. This can include anything from planting a tree to stripping your floors. You may be able to recover the cost of such renovations when you sell the house.
+
+If you have been renting out your house and intend to sell it, make sure to first assess any damage your tenant(s) may have done. It's also imperative to have reliable insurance to protect yourself from any tenant claims of injury arising from damage to the home.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pBbYRM89xxc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Even the HomeServe TikTok guy can’t #DIY everything!"></iframe>

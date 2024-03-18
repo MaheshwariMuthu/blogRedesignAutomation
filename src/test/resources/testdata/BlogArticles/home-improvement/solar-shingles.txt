@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Solar Shingles: All About Solar Shingles"
+headline: "What Are Solar Shingles ... and Do They Work?"
+author: Mark Soto
+tags: ["post"]
+publishDate: 2021-08-16
+basePath: https://library.homeserve.com/m/
+heroImage: 4f75ec79e2d23a49/Blog-GettyImages-648595140.jpg
+heroAltDescription: "Laying solar shingles or tiles "
+metaDescriptions: "Solar roof shingles are an alternative to traditional panels. But are they right for your home? Here’s what you need to know."
+articleAbstract: "Solar roof shingles are designed using advanced irradiance technology capable of analyzing the roof’s sun exposure and generating electricity. But are they right for your home? Here’s what you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Are Solar Shingles and Do They Work?"
+  parent: Electrical-Home-Improvement
+---
+  Solar shingles are a modern upgrade — both in aesthetics and durability — compared to traditional, rack-mounted solar panels. At the intersection of design and energy generation, solar shingles appeal to developers, architects and homeowners alike.
+
+**This May Also Interest You:** [**What’s It Like to Go Solar? 5 Things They Don’t Tell You in the Brochure**](https://www.homeserve.com/en-us/blog/home-improvement/solar-panels/)
+
+Solar roof shingles are designed using advanced irradiance technology capable of analyzing the roof’s sun exposure and generating electricity. Roofs that use solar shingles are carefully designed with almost identical inactive tiles to create a seamless roof that achieves a high energy output.
+
+But are they right for your home? Here are some factors to consider.
+
+### Can a Solar Shingle Roof Power a House?
+
+Like conventional panels, solar shingles can power an entire home. Jessie Schiavone, CEO of [SunStyle](https://www.sunstyle.com/), says that since fully integrated solar roofs make use of all productive roof surface area, these systems can often generate excess energy beyond what your household consumes. This energy can then be stored in a battery for later use. You can also use it to charge an electric vehicle or feed it back into a shared electrical grid in exchange for energy credits.
+
+### How Long Do Solar Shingles Last?
+
+The expected life expectancy of solar shingles is around 30 years. The shingles do not stop producing at this point, but power output will begin to degrade over time. Though solar roofs may continue to generate electricity and serve as a protective weather screen beyond this point, each manufacturer has its own product and performance warranty.
+
+The typical power performance warranty for solar shingles is the same as solar panels because the core cell technology is the same. You can expect to get at least 90% of the system’s rated power after 10 years and at least 80% of the rated power after 25 to 30 years.
+
+It should be noted that since solar roofs are a new technology, it hasn’t been officially confirmed whether they live up to the 30-year expectancy.
+
+### How Do Solar Tiles Work?
+
+Like solar panels, solar shingles transform light from the sun into usable power through the photovoltaic effect. Schiavone explains that photons (light) from the sun are captured by photovoltaic cells, which are traditionally made from two layers of a semiconductor material such as mono- or polycrystalline silicon. These photons disrupt the electrical balance of the cell, forcing a flow of electrons to pass through wire ribbons to form a circuit.
+
+To increase productivity, solar shingles contain multiple solar cells interconnected to form a module. This module is capable of being electrically wired to other shingles in series for a more significant generation. For durability, these cells are sandwiched between front and back sheets made from solar tempered glass.
+
+### Solar Shingles Vs. Panels
+
+When discussing efficiency, it’s important to note that solar shingles employ the same photovoltaic technology used in traditional rack-mounted panels. Schiavone explains that since efficiency is a measure of power production per square meter, this means most solar panels and shingles will be roughly as efficient as each other and any other photovoltaic product made with the same type of solar cell.
+
+Panels generally generate more watts per unit since panels have a larger surface area than shingles. Solar shingle roofing systems are designed with this in mind. By covering a greater percentage of the roof, the same power output can be achieved by either type of system.
+
+While you might be able to achieve a similar energy output, solar shingles are, on average, more expensive than solar panels.
+
+In terms of durability, solar shingles can possibly last up to 30 years. On the other hand, solar panels have an expected life of 20 to 25 years. But as previously mentioned, since these are both relatively new technologies, this lifespan is not a 100% guarantee.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install Solar Panels?](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+*   [How to Install Solar Panels 6 Steps to Daylight Savings](https://www.homeserve.com/en-us/blog/how-to/install-solar-panels/)
+*   [When to Install Home Solar Panels](https://www.homeserve.com/en-us/blog/how-to/install-home-solar-panels/)
+*   [How Much Does It Cost to Install an Electric Car Charging Station?](https://www.homeserve.com/en-us/blog/cost-guide/ev-charging-station-installation/)
+*   [Electric Car Charging at Home: Everything You Need to Know](https://www.homeserve.com/en-us/blog/how-to/charge-electric-vehicle-at-home/)
+
+### How Much Do Solar Shingle Roofs Cost?
+
+When it comes to solar roofing, it’s difficult to give an average price range. The final cost of the roof is dependent upon several factors, including roof size, orientation and complexity. Schiavone advises that you keep in mind that a solar roof is both the structural roof and photovoltaic module in one. Hence, the cost tends to be comparable to a high-quality conventional roof with the addition of solar panels or shingles. Tax credits or other rebates vary locally, but they may provide additional savings.
+
+### Are Solar Shingles Worth It?
+
+With a combination of active solar shingles and similar inactive tiles that cover the entire roof surface for a seamless and uniform look, they deliver on both function and aesthetics.
+
+While they have a high upfront cost, they can save you money in the long run. Not only are they more durable than the average asphalt roof, but they also increase property value and help you save on energy costs.
+
+Whether you're in the market for a roof replacement or are planning a new construction, solar shingles are a high-quality roofing solution. For homeowners looking for an aesthetic roof that can save them a lot on energy bills, they are certainly worth it.

@@ -1,0 +1,42 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Best Washing Machines Buying Guide
+headline: Your clothes will stay fresh with these Washing Machines
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment']
+publishDate: 2019-01-25
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: WashingMachine.jpg
+heroAltDescription: Woman Using Washing Machine
+metaDescriptions: Considering a new washing machine for your home? Consider these factors and the most popular models.
+articleAbstract: Dirty laundry piling up? Considering a new washing machine purchase? Think about this before you buy.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Best Washing Machines Buying Guide
+  parent: Appliances-Buying-Guide
+---
+
+Gone are the days of saving quarters and lugging my bags of laundry to the laundromat. I'm finally buying a brand-new washing machine -- all for me, myself and I. Yep, _I’m adulting now_. And while I'm in the upgrading-my-life mode, I decided that I may as well choose the best washing machine possible.
+
+::: blog-info
+So that has led me on a mission to find the washing machine of my dreams (_I would love to get the Samsung Azure blue front loader that I saw recently on [HGTV](https://www.hgtv.com/){target="_blank"}. But pretty sure it’s not in my budget._) So, I'm starting with some much-needed research to find expert insight and advice. Here’s what I learned about how to choose the best washing machine for your laundry needs:
+
+## The considerations
+
+Keep in mind that the washing machine of my dreams may not be the one of yours. However, there are a few tricks to [choosing the right washing machine for your home](/en-us/blog/buying-guide/washing-machine-dryer){target="_blank"}, including your personal laundry needs, a shortlist of must-have features and energy efficient preferences. Additionally, you might prefer some washing machine styles over others. For instance, [stackable washer-dryer combos](/en-us/blog/buying-guide/stackable-washer-dryer-combos){target="_blank"} make sense for certain spaces, but some people are partial to the top-loading washing machines that aren't available in stackable form. Once you narrow down your options, choosing the best washing machine will become a far less daunting endeavor.
+
+## The best washing machines
+
+After conducting more than 100 hours of research, _WireCutter_ concludes that the [LG WM3770HWA](https://thewirecutter.com/reviews/the-best-washer-and-dryer/){target="_blank"} is the washing machine that would win the popularity contest for most homeowners. This LG model won based on the company's reputation for reliability, as well as the machine's quick cycle times and superior cleaning performance. _Digital Trends_ also named the LG WM3770HWA Turbowash one of the best washing machines available, highlighting its [smart features, high capacity and impressively fast cycles](https://www.digitaltrends.com/home/best-washing-machines/){target="_blank"} as reasons for the shining review.
+
+If you'd rather have a top-load washing machine, _CNET_ named the [Kenmore Elite 31633](https://www.cnet.com/topics/washing-machines/best-washing-machines/){target="_blank"} as a prime choice. For a few hundred dollars less, you can get the Kenmore 22352, which _CNET_ called the "best no-frills washing machine."
+
+According to _The Spruce_, the best overall front-loading washing machine is the [Samsung AddWash WF6500](https://www.thespruce.com/best-washing-machines-4107080){target="_blank"}, while the Whirlpool High-Efficiency Washer gets the win for top-load models. If you want a stackable machine, _The Spruce_ highlights the Samsung 4.2 Cu. Ft. High-Efficiency as a superior option. Other top-tier options, according to the experts at Good Housekeeping, include the [Electrolux Front Load Perfect Steam Washer, Samsung FlexWash and the GE 3.9 Cu. Ft. DOE Washer](https://www.goodhousekeeping.com/appliances/washer-reviews/g105/washing-machine-reviews/){target="_blank"}.
+
+## The upkeep
+
+Remember that while these washing machines are all good choices, you'll still need to perform regular appliance maintenance to extend the machine's life and efficiency. It helps to be familiar with [common washer and dryer problems](/en-us/blog/home-improvement/common-washer-dryer-problems){target="_blank"} so you can help to avoid a laundry crisis. Plus, don't forget that [cleaning your washing machine](/en-us/blog/how-to/clean-washing-machine){target="_blank"} is a thing you should do at least four times a year. _(I know, hard to believe, but you do have to clean your washing machine!)_
+
+Being prepared for home repairs and system breakdowns is always a good strategy. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+:::

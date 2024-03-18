@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean a Bathroom Exhaust Fan"
+headline: "How to Clean a Bathroom Exhaust Fan"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-10-22
+basePath: https://library.homeserve.com/m/
+heroImage: 89626e7c81c9684/Blog-BathroomExhaustFan_MSchmitz_0006.jpg
+heroAltDescription: "A person s finger points to the dust that has accumulated between the slats of a bathroom fan grate"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Giving your bathroom fan a little TLC once in a while can make your home a safer, more pleasant place to be.  Here's a step-by-step cleaning guide."
+articleAbstract: "Giving your bathroom fan a little TLC once in a while can make your home a safer, more pleasant place to be.  Here's a step-by-step cleaning guide."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clean a Bathroom Exhaust Fan"
+  parent: HVAC-How-To
+---
+  
+
+Although most people barely give it a second thought, your exhaust fan is the powerhouse of your bathroom. This oft-forgotten appliance removes moisture and odors, helping to prevent mold growth and improve indoor air quality. Therefore, giving your bathroom fan a little TLC once in a while can make your home a safer, more pleasant place to be.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install an Exhaust Fan in the Bathroom?**](https://www.homeserve.com/en-us/blog/cost-guide/bathroom-fan-installation/)
+
+Fortunately, anyone can perform this essential maintenance task with the proper knowledge and a few basic household items.
+
+How Do You Clean a Bathroom Exhaust Fan?
+----------------------------------------
+
+Cleaning a bathroom exhaust fan is a straightforward process that only takes about 20 minutes. Before you start, grab a microfiber cloth, a can of forced air and your vacuum cleaner.
+
+<img class="detail-image" src="https://library.homeserve.com/m/7900e75698a8bd3d/Blog-GettyImages-476375723.jpg" alt="Close up of female hands installing clean bathroom fan vent cover from ceiling"/>
+
+### 1\. Remove and Clean the Vent Cover
+
+It's essential to switch off the power supply to the fan first to avoid an electric shock. Pull the vent cover gently downward until you can access the wire clips, then press the clips together and pull them out of the fan housing.
+
+If your vent cover has a light, you can remove any dirt and dust with a vacuum cleaner and then wipe it with a cloth. Don't submerge it in water, as this can damage the electric components and pose an electric shock risk when you plug the fan back in. If it doesn't have a light, you can wash the cover by scrubbing it thoroughly with warm water and dish soap.
+
+### 2\. Clean the Fan
+
+You can remove dust from the fan itself using the crevice attachment on your vacuum cleaner. Take care not to press too hard against the components to avoid damaging the fan. If the dirt proves stubborn to remove, you can use the brush attachment to loosen grime around hard-to-reach areas. Next, use a slightly dampened cloth to wipe off any caked-on dirt.
+
+### 3\. Clean the Motor
+
+Unplug the fan before removing the small screws that hold the motor in position. Keep the screws somewhere safe, as you'll need them later. It's worth taking a photo to help you remember how the fan fits together, so you can reassemble it easily afterward. The motor will drop out when you remove the screws, so hold it with one hand to stop it from falling on the floor and breaking.
+
+Once you've removed the motor, remove any visible dust with your vacuum cleaner and use a can of forced air to clean the fan blades. You can also wipe the motor with a damp cloth to remove stubborn dirt.
+
+### 4\. Replace the Motor and Vent Cover
+
+First, slot the fan motor back into position and replace the screws to secure it inside the fan housing. Plug the motor in, then slot the mounting wires on the vent cover into the slots on the housing. Finally, push the vent cover back into position.
+
+**More Related Articles:**
+
+*   [Exhaust Options: A DIY Bathroom Fan Installation Overview](https://www.homeserve.com/en-us/blog/how-to/install-bathroom-fan/)
+*   [As the Seasons Change, So Should the Direction of Your Ceiling Fan](https://www.homeserve.com/en-us/blog/home-improvement/ceiling-fan-direction/)
+*   [How Much Does It Cost to Install a Ceiling Fan?](https://www.homeserve.com/en-us/blog/cost-guide/ceiling-fan-installation/)
+*   [4 Ways to Clean Your Ceiling Fan (No. 3 Is Pretty Clever!)](https://www.homeserve.com/en-us/blog/how-to/clean-ceiling-fan/)
+*   [How to Wire a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/wire-ceiling-fan/)
+
+How Often Do You Need to Clean a Bathroom Exhaust Fan?
+------------------------------------------------------
+
+How often you need to clean your bathroom fan depends on how much you use it. However, it's usually best to clean it roughly every six months to keep it in perfect working order. You should clean your exhaust fan as soon as possible if you notice any of the following:
+
+*   Condensation on bathroom mirrors and windows
+*   Visible dirt or dust on the vent cover
+*   Odors that linger despite turning the fan on
+*   Moldy surfaces
+
+A thorough cleaning can breathe new life into a malfunctioning bathroom exhaust fan. However, it may be time to replace the unit if you're still noticing excessive moisture, funky smells or mold growth after cleaning and reassembling your fan. Your fan may also make a loud whirring or banging sound as it approaches the end of its lifespan.
+
+Alternatively, you could call a professional to inspect and repair your fan. However, as bathroom exhaust fans typically last no longer than 10 years, it's often more cost-effective to replace the fan than it is to keep repairing an older unit.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

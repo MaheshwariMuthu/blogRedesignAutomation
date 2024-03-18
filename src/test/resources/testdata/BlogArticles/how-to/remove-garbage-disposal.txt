@@ -1,0 +1,99 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Remove a Garbage Disposal"
+headline: "How to Remove a Garbage Disposal"
+author: Mark Soto
+tags: ["post"]
+publishDate: 2021-04-09
+basePath: https://library.homeserve.com/m/
+heroImage: 76d1f99d778b356/Blog-GarbageDisposal_MSchmitz_0003.jpg
+heroAltDescription: "close up of a sink s garbage disposal"
+metaDescriptions: "There are certain procedures to follow and things to know when removing a garbage disposal. Read this guide to learn how to remove a garbage disposal properly."
+articleAbstract: "Removing a garbage disposal is a lot easier than it might seem but you still need to do it with care. Here is a step-by-step way on how to do remove a garbage disposal properly."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Remove a Garbage Disposal"
+  parent: Plumbing-How-To
+---
+  
+
+**Garbage Disposal Removal at a Glance**
+
+* **What you’ll need:** pliers, screwdriver, bucket, wrench, voltage detector, garbage disposal wrench
+* **Step 1:** Unplug power
+* **Step 2:** Remove drain pipe
+* **Step 3:** Remove dishwasher drain hose
+* **Step 4:** Hold disposal from bottom
+* **Step 5:** Disconnect disposal from sink
+* **Step 6:** Remove wires from disposal
+* **Step 7:** Remove mounting ring from sink
+
+There are a variety of reasons why you might want to remove your garbage disposal. Perhaps it [routinely leaks](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-leaking/) or [simply stops working](https://www.homeserve.com/en-us/blog/how-to/fix-garbage-disposal/) due to a [lack of routine maintenance](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-maintenance-tips/), and you need to replace it. You might also want to get rid of it entirely if your home uses a septic tank system that doesn’t play nice with garbage disposals.
+
+**This May Also Interest You:** [**Garbage Disposal Not Working? Here's How to Fix Common Issues**](https://www.homeserve.com/en-us/blog/how-to/fix-garbage-disposal/)
+
+Like even some of the most routine household maintenance tasks, removing a garbage disposal might seem beyond your skillset, but it’s actually a pretty simple thing to do. Regardless, you still need to follow specific procedures for your own safety and to prevent future problems from arising. Whether you’re [replacing the garbage disposal or permanently removing it](https://www.homeserve.com/en-us/blog/cost-guide/install-garbage-disposal/), here’s what you need to know.
+
+Tools & Equipment
+-----------------
+
+While you don’t need a lot of implements to remove the garbage disposal, certain items will make it much easier and safer. Some tools you will need include pliers, a screwdriver, a bucket, a wrench and a voltage detector. You’ll also need a garbage disposal wrench, which the disposal likely came with, though you can [buy a new one](https://www.homedepot.com/p/InSinkErator-Jam-Buster-Wrench-Accessory-for-Garbage-Disposals-WRN-00/100135761) if you’ve lost it.
+
+Removing a Garbage Disposal, Step by Step
+-----------------------------------------
+
+Follow these seven steps to remove your garbage disposal:
+
+<img class="detail-image" src="https://library.homeserve.com/m/6f713b0390635b21/Blog-484745695.jpg" alt="checking the garbage disposal"/>
+
+### 1\. Unplug the Power
+
+The very first step you need to take before you start any work with your garbage disposal — whether you [plan to clean](https://www.homeserve.com/en-us/blog/how-to/clean-garbage-disposal/), [unclog](https://www.homeserve.com/en-us/blog/how-to/unclog-garbage-disposal/) or remove it — is to disengage the power going to it. Go to your breaker box and find the circuit breaker for your garbage disposal, and turn it off. [HGVT recommends](https://www.youtube.com/watch?v=C_pnSC_Uxck) that you test the wire with a voltage detector to be completely sure there isn’t any live electrical current.
+
+### 2\. Remove the Drain Pipe
+
+Once you’ve cut the power, it’s time to unplug the drain pipe from the disposal. Place a bucket below the pipe to catch any water that might still be in it. You can use pliers or a wrench to loosen the fitting around it. Once you’ve removed the fitting, then just pull the pipe with your hand.
+
+### 3\. Remove the Dishwasher Drain Hose
+
+If you don’t have a dishwasher connected to the disposal, you can skip this step. If you do, then you'll need to follow this additional step. There will be a dishwasher drain hose that’s connected to your disposal with a hose clamp. First, use a screwdriver to loosen up the screw of the hose clamp and simply disconnect the hose from it. You might also just need to use pliers to do it if it doesn’t have a screw-drive.
+
+### 4\. Hold the Disposal From the Bottom
+
+If you have a partner with you, have them hold the bottom of the disposal before you fully disconnect it from the sink. If you’re doing this by yourself, place a box or something underneath it so that it can hold the disposal once you remove it from the sink. Since the disposal is quite heavy, it can damage whatever it falls on if you don’t take precautions.
+
+<img class="detail-image" src="https://library.homeserve.com/m/3b9fd2f332db029c/Blog-DisposalRemoval_Erossi_00082.jpg" alt="a garbage disposal is removed by using a screwdriver in the provided loops for leverage "/>
+
+### 5\. Disconnect the Garbage Disposal From the Sink
+
+After the drain pipe and dishwasher hose have been disconnected, it’s time to fully remove the garbage disposal. The garbage disposal will be connected to the sink with a mounting ring, which is located right under the sink’s drain hole.
+
+Grab your disposal wrench tool and insert it into one of the loops on the mounting ring and turn it to the left until the disposal becomes loose enough to remove by hand. You might need to use some force to remove it. You can also hold on to the mounting bracket with your other hand for more leverage. Once the disposal has become loose enough, use your hand to turn it more and remove it.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install or Replace a Garbage Disposal](https://www.homeserve.com/en-us/blog/cost-guide/install-garbage-disposal/)
+*   [Why Is My Garbage Disposal Leaking?](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-leaking/)
+*   [Garbage Disposal Do's and Don'ts](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-maintenance-tips/)
+*   [How to Install a Garbage Disposal on Your Own](https://www.homeserve.com/en-us/blog/how-to/install-garbage-disposal/)
+*   [How to Deep Clean a Garbage Disposal](https://www.homeserve.com/en-us/blog/how-to/clean-garbage-disposal/)
+
+### 6\. Remove Wires From the Disposal
+
+At this point, you still need to remove any wires that connect the disposal to your home’s power. Once again, double-check that there aren’t any live wires by using your handy voltage checker.
+
+There will be wires hidden and covered by a plate on the bottom of the garbage disposal. Unscrew the electrical cover plate and unscrew any wire nuts inside that are holding wires together. Apart from these wires, there will still be another wire that goes into the disposal and is tightened by screws. Simply remove the screws and pull the wire out.
+
+### 7\. Remove the Mounting Ring From the Sink
+
+Once those previous steps are done, you have the option to remove the mounting ring from the sink. If you plan on permanently removing the garbage disposal, you’ll need to follow this step. If you’re simply [replacing it with a newer model](https://www.homeserve.com/en-us/blog/how-to/install-garbage-disposal/), you might not need to remove the mounting ring since the newer model might simply fit into it.
+
+Assuming you want to remove it, it’s relatively straightforward. Just remove the snap ring, and the mounting ring will come right off. Then use a screwdriver or wrench to remove the nut holding the sink flange. Use a scraper to remove any leftover plumbers putty around the sinkhole and add the new sink flange.
+
+(From here, if you’re removing the disposal permanently but keeping the sink, you’ll of course need to reconnect the sink to drain pipes so that the water has someplace to go.)
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5j759jOLiwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Troubleshoot Simple Electrical Issues"
+headline: "How to Troubleshoot Simple Electrical Issues"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-12-16
+basePath: https://library.homeserve.com/m/
+heroImage: 1cd6d061dc0d403f/Blog-GettyImages-524373562_CMYK.jpg
+heroAltDescription: "electrician fixing electrical outlet"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Dealing with electrical problems can be frustrating, but luckily, most common issues have simple solutions."
+articleAbstract: "Dealing with electrical problems can be frustrating, but luckily, most common issues have simple solutions. You may not even need to call an electrician."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How to Troubleshoot Simple Electrical Issues"
+  parent: Electrical-Home-Improvement
+---
+  It can feel pretty intimidating when you experience any kind of home electrical problem. For good reasons, too: Your electrical system is a (mostly) unseen network of wires, complex connections and potentially dangerous electrical charges. That said, some of the more common issues have pretty simple solutions, even if your overall electrical knowledge is lacking.
+
+**This May Also Interest You:** [**How Much Do Electrical Repairs Cost? A Comprehensive Guide**](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+Are you currently experiencing any of these common electrical issues? Read on to find the source of the problem before hiring a professional.
+
+Light Switch Is Not Working
+---------------------------
+
+Although it might sound obvious, if you’ve got a light switch that won’t work, start by checking the light bulbs in the light fixture. While modern-day LED light bulbs last longer than the bulbs of yesteryear, they still can malfunction from time to time. You may want to try a new bulb in the fixture before investigating further.
+
+When your light switch isn’t working, one of the most common causes is a broken switch mechanism. If the switch feels loose when operating it, it’s likely this is the issue. If the toggle is broken, you’ll need to replace the switch altogether. Likewise, if the switch feels warm to the touch, or makes a humming or buzzing sound, it means that there is certainly a defective component in the switch, and it will need to be replaced as soon as possible.
+
+Another common reason a light switch won’t work is due to a tripped circuit breaker or a blown fuse. Head to your service panel and find the appropriate breaker or fuse. If you notice the breaker is tripped, reset it. If the fuse is blown, you’ll need to replace it. A tripped circuit breaker could indicate a short circuit in the wiring, especially if it continues to happen. If that’s the case, you may want to hire a licensed electrician to fix the issue.
+
+Flickering Lights
+-----------------
+
+Aside from being annoying, flickering lights could be a clear indication that you have a larger electrical issue in your home. They can even be fire hazards.
+
+If you notice that your lights are flickering, start by tightening any loose bulbs in your light fixtures before you gear up to do any further investigative work. Bulbs can loosen over time, and if the bulb isn’t making proper contact with the base, it will cause the light to flicker.
+
+After checking for any loose bulbs, head over to the light switch. Old, outdated switches, especially dimmers, often aren’t compatible with newer LED lights. Double-check the ratings on the bulbs and switches to make sure they’re compatible. Loose wiring in the switch itself can cause flickering as well. Additionally, old outlets and loose wiring can also produce electrical shocks. If you notice that your cords and switches are emitting small shocks or sparks when you use them, you’ll want to replace them. Just make sure that you’ve turned off the power at the breaker panel before doing work on any switch or outlet.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets with GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+*   [Wrong Kind of Blowout? Why Your Hair Dry Trips the Circuit Breaker](https://www.homeserve.com/en-us/blog/home-improvement/why-does-hair-dryer-trip-circuit-breaker/)
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-it-cost-to-replace-or-upgrade-an-electrical-panel/)
+
+Abnormally High Electrical Bills
+--------------------------------
+
+Without a doubt, the largest contributors to high energy use are appliances that are left plugged in when you’re not using them. Although many modern appliances are designed to use less electricity than their older counterparts, some continue to draw electricity for as long as they are plugged in. Start by connecting these [vampire appliances](https://www.homeserve.com/en-us/blog/how-to/phantom-loading/) to power strips. Turn the power strips off at night when you’re not using them. That’ll ensure that your devices aren’t receiving power when you’re not using them.
+
+While you’re looking at your appliances, start rethinking how you use them. Dishwashers, washing machines and dryers all use tremendous amounts of energy. Try to maximize the efficiency of each machine by filling them to capacity while you run them. That way, you’ll limit the number of times you run each appliance, keeping those energy bills as low as possible.
+
+Finally, another common cause of abnormally high electric bills is older, malfunctioning equipment. Case in point: Though refrigerators can last upwards of a decade, their seals and door gaskets can start deteriorating much sooner than that. When that happens, the fridge has to work harder to keep your food cold. Age-related inefficiency applies to dishwashers, dryers and even furnaces as well. Age wears down any mechanical appliance and causes it to use more energy to run, no matter how well you’ve cared for your equipment.
+
+Power Surges and Brownouts
+--------------------------
+
+Although power surges and brownouts are two different things, they often share similar root causes. Both can be caused by external forces like lightning or a tree limb falling on a power line outside your home. In these situations, investing in a surge protector or UPS (uninterruptible power system) can help prevent any damage to your appliances that might occur.
+
+That said, both power surges and brownouts can also occur due to internal forces as well. For example, electrical overloads — caused when too many electrical devices are plugged into the same circuit — are a common source of both power surges and brownouts. Additionally, faulty or damaged wiring can also lead to an electrical fault which can cause both a power surge and a brownout to occur. If you’re experiencing repeated power surges or brownouts, you can make sure your devices aren’t overloading circuits. For example, large appliances like refrigerators and air conditioners shouldn’t share a circuit with other devices. Finally, you may want a licensed electrician to determine if your home wiring is in good condition and up to code.
+
+Act Sooner Rather Than Later
+----------------------------
+
+It’s important to note that even though many of these common electrical issues might have a simple fix, they might also indicate larger, more complex problems that might even pose a safety hazard. That’s why it’s important to act as soon as you become aware of any electrical issue in your home.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

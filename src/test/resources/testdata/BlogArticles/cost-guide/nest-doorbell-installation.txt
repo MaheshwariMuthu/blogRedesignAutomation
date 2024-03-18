@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install a Nest Doorbell?"
+headline: "How Much Does It Cost to Install a Nest Doorbell?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-09-26
+basePath: https://library.homeserve.com/m/
+heroImage: 28b60b92adf2d984/Blog-GoogleNestDoorbell_JamesYarema_0002.jpg
+heroAltDescription: "A white Google Nest Doorbell video security device with a black circular camera is affixed to a brown stucco exterior wall."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Considering a smart doorbell? Here’s how much you should expect to spend on Nest Doorbell installation."
+articleAbstract: "One of the factors that often concerns people considering a smart doorbell is the installation cost. Here’s how much you should expect to spend on Nest Doorbell installation."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install a Nest Doorbell?"
+  parent: Exterior-Cost-Guide
+---
+  If you're worried about missing an important delivery or even having packages stolen from your doorstep, a video doorbell could be a good investment for you. A Google Nest Doorbell is a popular choice among security-conscious homeowners. They come with a range of smart features, including familiar face recognition and even a carbon monoxide alarm.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install or Replace a Doorbell?**](https://www.homeserve.com/en-us/blog/cost-guide/doorbell-installation/)
+
+One of the factors that often concerns people considering a smart doorbell is the installation cost. Here’s how much you should expect to spend on Nest Doorbell installation.
+
+How Much Does It Cost to Install a Nest Doorbell?
+-------------------------------------------------
+
+If you feel comfortable doing it yourself, you can install a Nest Doorbell for free. You'll need to drill holes to attach the doorbell to an exterior wall and wire the doorbell up. The Nest Doorbell comes with straightforward step-by-step instructions to help with installation, and those with a little DIY know-how should be able to complete the job in around half an hour.
+
+However, if you're not confident in your ability to complete a Nest Doorbell installation, you can have a technician do the work for you relatively cheaply. If you purchase [Nest's installation service](https://www.security.org/doorbell-camera/nest/), it should cost about $99.99 (CAD 133), according to Security.org. The price will vary if you decide not to have your doorbell installed by a Nest technician, but you can expect the fee to be roughly comparable.
+
+Does Geek Squad Install Nest Doorbells?
+---------------------------------------
+
+[Best Buy’s Geek Squad](https://www.bestbuy.com/site/video-doorbell-install/5732321.p?skuId=5732321) currently offers an installation service for smart doorbells — including Nest Doorbells — for $149.99 (CAD 200). This fee includes removing the existing doorbell and attaching the new one to an exterior wall. The customer must supply the smart doorbell ready for installation. The technician will also demonstrate how to operate the new doorbell, change the batteries and connect it to your home network.
+
+However, Geek Squad won't modify your doorbell wiring system to install a new Nest Doorbell. If you don't already have a doorbell installed or your existing doorbell's wiring is unsuitable for installing a smart doorbell, you may be better off considering the battery-operated model. Geek Squad also only offers installation services in certain areas, and you may need to pay an extra fee if you live further afield.
+
+**More Related Articles:**
+
+*   [How to Install or Replace a Doorbell](https://www.homeserve.com/en-us/blog/how-to/doorbell-installation/)
+*   [How to Set Up a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/setup-ring-doorbell/)
+*   [How Much Does It Cost to Install a Ring Doorbell?](https://www.homeserve.com/en-us/blog/cost-guide/ring-doorbell-installation/)
+*   [Take a Ring Off It: How to Remove a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/remove-ring-doorbell/)
+*   [How to Install a Video Doorbell](https://www.homeserve.com/en-us/blog/how-to/install-video-doorbell/)
+
+Does a Nest Doorbell Require Hardwiring?
+----------------------------------------
+
+Whether your Nest Doorbell installation requires wiring depends on which model you choose. You can purchase a battery-operated version that doesn't require you to connect it to a doorbell wiring system. However, the disadvantage is that you will need to remember to change or recharge the batteries reasonably regularly.
+
+Alternatively, you can choose to install a wired or battery-operated Nest Doorbell using your existing doorbell's wiring. If your doorbell is battery-operated, wiring it will allow it to charge itself continuously. However, it's important to check that your existing system meets the power and voltage requirements for Nest doorbell installation. According to [Google Support](https://support.google.com/googlenest/answer/9247132?hl=en#zippy=%2Cif-your-home-doesnt-have-a-doorbell), these doorbells require a voltage between 16 and 24 V AC and between 10 and 40 VA of power.
+
+If your current writing setup isn't adequate to support Nest Doorbell installation, you'll need to hire an electrician to upgrade it. Otherwise, you could consider using the Nest doorbell with the power adaptor and running the cable inside to an interior electricity outlet.
+
+Is There a Monthly Subscription Fee for Nest Doorbells?
+-------------------------------------------------------
+
+You don't need to purchase a subscription to stream footage from your Nest Doorbell to a compatible device. However, you won't have access to more advanced features, such as alerts and footage storage, unless you subscribe.
+
+The most affordable plan costs $6 (CAD 8) a month and covers any Nest devices installed in your home under a single subscription. It provides intelligent alerts and a 30-day event history. Google’s Nest Aware Plus Plan costs $12 (CAD 16) per month and offers a 60-day event history and up to 10 days of 24-hour video history.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

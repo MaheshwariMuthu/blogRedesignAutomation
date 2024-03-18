@@ -1,0 +1,54 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "It's For the Birds: AI-Powered Bird Buddy Gamifies Birdwatching"
+headline: "It's For the Birds: AI-Powered Bird Buddy Gamifies Birdwatching"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2023-01-11
+basePath: https://library.homeserve.com/m/
+heroImage: 6a000eab357dba09/Blog-Bird_Buddy_lifestyle_image_1.jpg
+heroAltDescription: "Bird Buddy smart bird feeder product image"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The Bird Buddy is an AI-powered bird feeder that allows you to get up close and personal with your feathered friends."
+articleAbstract: "The Bird Buddy  is an AI-powered bird feeder with a camera that allows you to get up close and personal with your feathered friends."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "It's For the Birds: AI-Powered Bird Buddy Gamifies Birdwatching"
+  parent: Exterior-Home-Home-Improvement
+---
+  
+
+_Bird Buddy image_
+
+How close can you get with a bird? Following a recent encounter with a pigeon **(see video below)**, we can tell you that a bird on a mission to get some food will get all kinds of familiar. Traditional bird feeders offer a meal in return for a show you can watch from your window. The Bird Buddy — showcased at this year’s [CES](http://ces.tech) (formerly the Consumer Electronics Show) — lets you get even more up close and personal.
+
+**This May Also Interest You:** [**How to Keep Your Lawn Green While Also Conserving Water**](https://www.homeserve.com/en-us/blog/how-to/conserve-water-on-lawn/)
+
+The Bird Buddy smart bird feeder comes equipped with a high-res camera that will capture and record your feathered friends as they snack at your bird feeder. It connects to your phone via Wi-Fi, letting you view short recordings of your visitors and sending you notifications when a bird stops by.
+
+<img class="detail-image" src="https://library.homeserve.com/m/3e229e52559eb4f1/Blog-CES2023_IMG_3727.jpg" alt="Bird Buddy app in use"/>
+
+The app does more than show you the birds — it teaches you about them. The Bird Buddy recognizes over 1,000 species and can identify them thanks to artificial intelligence. According to a press release, while you learn about the species flying about your area, “You are also contributing extremely important information to a database of bird migrations and populations, helping experts better understand and protect them.”
+
+<img class="detail-image" src="https://library.homeserve.com/m/1698618c76c26573/Blog-BirdBuddyUserGeneratedImages.jpg" alt="birds in a wide angle lens"/>
+
+_Bird Buddy images  
+
+_
+
+Bird Buddy purportedly is one of the top crowd-funded products of all time — and it’s pretty clear why. The wide-angle lens of the camera lends itself to bird photos that look like selfies. Plus, the app gamifies birdwatching with a collect-’em-all, trading-card-style format that unlocks new species as they visit your feeder.
+
+The Bird Buddy has several available attachments, including a [solar roof](https://mybirdbuddy.com/collections/frontpage/products/solar-roof) that can power the device, a [suet ball holder](https://mybirdbuddy.com/collections/frontpage/products/suet-ball-holder) and a [drinking fountain](https://mybirdbuddy.com/collections/frontpage/products/water-fountain). If you don’t opt for the solar roof, you will need to recharge the detachable battery every five to 15 days with a USB-C cable.
+
+The Bird Buddy is available now. At the time of publishing, the product has sold out, but the manufacturer is taking preorders for the next go-round. The Bird Buddy starts at $199 for the base model. Mounts, accessories and the solar roof come in the Pro Bundle, which goes for $315.
+
+<img class="detail-image" src="https://library.homeserve.com/m/4db6a66c8327d688/Blog-Bird_Buddy_lifestyle_image_5.jpg" alt="Bird Buddy smart bird feeder product image"/>
+
+_Bird Buddy image_
+
+_This is part of our CES 2023 coverage. Follow along here and on our social media channels:_
+
+*   [_Instagram_](https://www.instagram.com/homeserve_usa/)
+*   [_TikTok_](https://www.tiktok.com/@homeserveusa?is_from_webapp=1&sender_device=pc)
+*   [_YouTube_](https://www.youtube.com/@HomeServeUSA)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/oyA0RA-jRuc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Everyone Loves In-N-Out"></iframe>

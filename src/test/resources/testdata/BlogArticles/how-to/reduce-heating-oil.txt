@@ -1,0 +1,110 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Am I Using So Much Heating Oil? Reduce Heating Oil Consumption"
+headline: "Why Am I Using So Much Heating Oil? Here's How to Reduce Your Consumption"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-07-09
+basePath: https://library.homeserve.com/m/
+heroImage: 31357f6fddb12794/Blog-OilHeaterTank_MDavis_IMG_7598.jpg
+heroAltDescription: "Oil heater tank in basement"
+metaDescriptions: "Here's a look at several reasons why you may be consuming more oil than necessary and some simple ways you can reduce the costs of heating your home."
+articleAbstract: "Excess consumption of home heating oil can make household fuel costs skyrocket, especially when the weather gets cold. Here's a look at several reasons why you may be consuming more oil than necessary and some simple ways you can reduce the costs of heating your home."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "What Are Some Efficiency Measures You Can Take to Reduce Heating Oil Consumption?"
+  parent: HVAC-How-To
+---
+  
+
+**Reducing Heating Oil Consumption at a Glance**
+
+*   Get energy audit
+*   Improve insulation
+*   Maintain heating system
+*   Turn down heat
+*   Install smart thermostat
+*   Upgrade boiler or furnace
+
+If you've ever found yourself asking why you’re going through so much heating oil, you're not alone. Excess consumption of home heating oil can make household fuel costs skyrocket, especially when the weather gets cold.
+
+**This May Also Interest You:** [**What Is the Difference Between Propane and an Oil Furnace?**](https://www.homeserve.com/en-us/blog/buying-guide/propane-oil-furnace-differences/)
+
+Let’s look at several reasons why you may be consuming more oil than necessary and some simple ways you can reduce the costs of heating your home.
+
+Why Am I Using So Much Heating Oil?
+-----------------------------------
+
+How much heating oil you use depends on your household’s needs, the temperature outside, the region you live in and a multitude of other factors. However, if you think you’re using more heating oil than you should be, there may be several possible causes of excess consumption:
+
+* **Unseasonable weather:** The warmer the weather, the less heating oil you’ll use. If it’s colder than usual outside or if the cold weather lasts longer than it normally does, you might end up using more heating oil to keep your home at your preferred temperature.
+* **Poor insulation:** A drafty home can cause excessive heating oil consumption. If your home isn’t properly insulated, heat can escape through windows, gaps around doors and improperly insulated electrical outlets, making it difficult to keep your home warm.
+* **Inefficient heating systems:** Inefficient heating systems can burn through heating oil too quickly, increasing your oil consumption and raising your heating costs. These inefficiencies may result from a unit's age or a lack of routine maintenance.
+* **Thermostats set too high:** When you nudge your thermostat up, you could be increasing your heating oil usage more than you realize. Even a single degree can impact your energy bill.
+
+How Much Heating Oil Will I Use Per Day?
+----------------------------------------
+
+During the 182-day period spanning between October and March, households using oil-based heating systems consumed an average of [500 gallons of oil](https://smoenergy.com/blog/how-much-oil-do-i-burn-in-a-day/), or about 2.75 gallons per day, according to SMO Energy. Knowing how much heating oil your household consumes can help you budget for heating expenses and properly schedule automatic delivery so you don’t end up with an empty tank and a cold home. Understanding your heating oil consumption can also help you find ways to stretch your fuel and save money.
+
+How much heating oil you’ll use depends on a variety of factors, including:
+
+*   The size of your home
+*   Your home’s layout
+*   Your heating system's energy efficiency
+*   How many people occupy your house
+*   Your average thermostat setting
+*   Heating degree days (days that fall below a base temperature)
+
+How Can I Reduce Heating Oil Consumption?
+-----------------------------------------
+
+Reducing your home’s fuel oil consumption can lower your heating bill, and even slight reductions can add up to significant savings over time. Although you can’t control the weather, which plays a large role in fuel consumption, there are several simple ways to become more fuel-efficient:
+
+### Get an Energy Audit
+
+When you understand why you’re using so much heating oil, you can more easily pinpoint ways to improve your heating efficiency. Many local fuel providers or utility companies offer free energy audits to customers, so give yours a call to schedule a visit. These inspections can help you identify places where heat may be escaping or other ways energy is being wasted.
+
+<img class="detail-image" src="https://library.homeserve.com/m/52981348c31811e/Blog-SprayFoamInsulation_MDavis_IMG_7613.jpg" alt="Spray foam insulation in basement"/>
+
+### Improve Insulation
+
+Adding insulation to exterior walls can significantly improve your home’s energy efficiency and reduce fuel oil costs, but if a large project isn’t in your budget, there are several low-cost ways to improve your home’s insulation and keep heat from escaping:
+
+*   Hang shades or heavy drapes on windows.
+*   Keep your windows closed and locked.
+*   Caulk around light switches and outlets.
+*   Replace single-pane windows with newer energy-efficient products.
+*   Seal or insulate your ducts.
+
+### Maintain Your Heating System
+
+HVAC tune-ups and other preventative maintenance should be performed annually to keep your system operating at peak efficiency and minimize oil consumption. Tune-ups typically include a full inspection of your system to make sure all components are working properly, plus a thorough cleaning and replacement of filters.
+
+**More Related Articles:**
+
+*   [Getting Warmer … Narrow Down Why Your Heater Isn’t Working With These Troubleshooting Tips](https://www.homeserve.com/en-us/blog/home-improvement/heater-not-working/)
+*   [Everything to Know About Boilers](https://www.homeserve.com/en-us/blog/buying-guide/boilers/)
+*   [Need a New Furnace? Here’s What You Should Know](https://www.homeserve.com/en-us/blog/cost-guide/new-furnace-cost/)
+*   [How to Relight Your Furnace Pilot Light in 5 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/pilot-light-furnace/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+
+### Turn Down the Heat
+
+You may be surprised how much you can save just by turning your thermostat down a few degrees. For every degree you lower the temperature in your house, you can [save approximately 1%](https://www.energy.gov/energysaver/articles/turn-down-temp-dont-let-your-pipes-freeze) on your home heating bill. For an easy way to save, try turning down the heat while you’re out or when you’re sleeping.
+
+<img class="detail-image" src="https://library.homeserve.com/m/24f6afcda96bdd/Blog-Nest-home-security-and-temperature-control.jpg" alt="Nest home security and temperature control"/>
+
+### Get a Smart Thermostat
+
+Smart thermostats can reduce your heating oil consumption by letting you control your heating system remotely. Turning down the temperature while you're out and warming up your house prior to arrival can reduce your oil consumption and save you money. Smart thermostats can also analyze your energy usage so you can make smarter decisions about how to keep your home warm without breaking the bank.
+
+### Upgrade Your Furnace or Boiler
+
+If you have an old, inefficient heating system, it may be time for an upgrade. Through features such as zoning systems and variable-speed operation, newer, energy-efficient furnaces and boilers stretch your home heating oil for savings on your energy bill.

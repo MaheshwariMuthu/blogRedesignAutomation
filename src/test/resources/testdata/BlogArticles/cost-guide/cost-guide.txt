@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Cost Guide
+  parent: Blog
+  url: /en-us/blog/category/cost-guide/
+permalink: false
+---

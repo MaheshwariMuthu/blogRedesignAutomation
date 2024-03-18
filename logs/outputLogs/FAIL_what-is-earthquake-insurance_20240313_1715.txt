@@ -1,0 +1,150 @@
+Browser Used: firefox
+
+Article Page URL:  https://contentful-blogs-dev.netlify.app/blogs/home-improvement/what-is-earthquake-insurance
+
+Article title <Earthquake Insurance: What It Covers and How Much It Costs> MATCHED
+
+Article author <Michael Franco> MATCHED
+
+Article publishDate <January 19, 2024> MATCHED
+
+Article image <https://library.homeserve.com/m/26b432028a85d9a7/Blog-GettyImages-185243509.jpg> MATCHED
+
+Block1_Paragraph 1 MATCHED
+
+	It happens from time to time: A big earthquake dominates headlines around the world with reports of crumbling structures, missing people and widespread chaos. It’s all pretty scary when you think about it, especially since we don’t know when or where another earthquake is going to strike next.
+
+Block1_Paragraph2_link 1 MATCHED
+
+	Homeowners Vs. Renters Insurance: What’s the Difference?|https://www.homeserve.com/en-us/blog/home-improvement/homeowners-vs-renters-insurance/
+
+Block1_Paragraph 2 MATCHED
+
+	This May Also Interest You: Homeowners Vs. Renters Insurance: What’s the Difference?
+
+Block1_Paragraph3_link 1 MATCHED
+
+	Volcano Discovery|https://www.allquakes.com/earthquakes/archive/2022.html
+
+Block1_Paragraph3_link 2 MATCHED
+
+	20,000 earthquakes|https://www.usgs.gov/faqs/why-are-we-having-so-many-earthquakes-has-naturally-occurring-earthquake-activity-been
+
+Block1_Paragraph 3 MATCHED
+
+	But relax, there’s some good news here: Major earthquakes are still fairly uncommon. According to Volcano Discovery, less than 140 earthquakes with magnitudes above 6.0 on the Richter scale were recorded in 2022. But what you may not realize is that smaller, less newsworthy earthquakes happen all the time. In fact, roughly 20,000 earthquakes happen every year, causing all sorts of issues for homeowners, from cracked foundations and walls to damage to personal belongings like televisions and furniture.
+
+Block1_Paragraph4_link 1 MATCHED
+
+	seismically active areas|https://www.usgs.gov/natural-hazards/earthquake-hazards/science/introduction-national-seismic-hazard-maps?qt-science_center_objects=0#qt-science_center_objects
+
+Block1_Paragraph 4 NOT MATCHED
+
+	Truth is, damage from an earthquake isn't that rare, especially if you live in seismically active areas. So, if you’d like some peace of mind to go along with those anxiety-relieving deep breathing techniques, you might want to consider purchasing earthquake insurance. Not sure where to begin Here’s the “what-you-need-to-know” about earthquake insurance.
+
+	Truth is, damage from an earthquake isn't that rare, especially if you live in seismically active areas. So, if you’d like some peace of mind to go along with those anxiety-relieving deep breathing techniques, you might want to consider purchasing earthquake insurance. Not sure where to begin? Here’s the “what-you-need-to-know” about earthquake insurance.
+
+Heading 1: < How Much Does It Cost to Add Earthquake Insurance? > MATCHED
+
+Block2_Paragraph1_link 1 MATCHED
+
+	Rocket Mortgage|https://www.rocketmortgage.com/learn/earthquake-insurance
+
+Block2_Paragraph 1 MATCHED
+
+	According to Rocket Mortgage, the cost of earthquake insurance premiums in the United States can fall anywhere between $800 and $5,000 (CAD 1,094 and CAD 6,835) a year. High deductibles are also a hallmark of earthquake insurance, at about 10% to 20% of your coverage limit. The reason deductibles are so high is that the damage from earthquakes tends to be structural and, as a result, can be quite costly.
+
+Block2_Paragraph 2 MATCHED
+
+	Here’s a little rundown of what this might look like. Say you purchase full coverage for your $400,000 (CAD 546,774) home. With a 20% deductible, you’ll be responsible for paying for $80,000 (CAD 109,355) of damage before your insurance kicks in. Likewise, if the damage from the tremor is less than $80,000 (CAD 109,355), you’ll be paying out-of-pocket for the whole kit and caboodle, making all those monthly premiums as pointless as a wooden frying pan.
+
+Block2_Paragraph 3 MATCHED
+
+	As you might expect, the closer you are to a fault line, the higher the premium you’re likely to pay for insurance. Other determining factors include the age of your home, the material your house is made of and how much it would cost to rebuild your home.
+
+Heading 2: < Is Earthquake Insurance Worth the Cost? > MATCHED
+
+Block3_Paragraph1_link 1 MATCHED
+
+	Insurance Information Institute|https://www.iii.org/article/background-on-earthquake-insurance-and-risk
+
+Block3_Paragraph1_link 2 MATCHED
+
+	29 other states|https://worldpopulationreview.com/state-rankings/earthquakes-by-state
+
+Block3_Paragraph 1 MATCHED
+
+	Simply put, purchasing adequate earthquake coverage can be expensive, but if you live in a high-risk area, it’s probably worth it. Due to this cost-to-risk factor, the Insurance Information Institute says only 23% of homeowners in the United States have earthquake insurance, leaving wide swaths of the population unprotected. And while California might have a reputation for being a high-risk area, recent data show that at least 29 other states are at risk for seismic activity as well. And this includes states you might not associate with earthquakes, like South Carolina, Tennessee, Missouri and Illinois. The fact is, a damaging earthquake can happen anywhere, at any time, so it pays to be prepared.
+
+Block3_Paragraph 2 MATCHED
+
+	Still wondering if you should buy earthquake insurance? Let’s look at it this way: If you have enough cash set aside to rebuild your home, replace your personal belongings and cover your mortgage while doing so, you might not need to purchase insurance coverage. But for the rest of us, it’s probably a worthwhile investment.
+
+Block3_Paragraph 3 MATCHED
+
+	More Related Articles:
+
+Block3_List4_link 1 MATCHED
+
+	What Is Condo Insurance and What Does It Cover?|https://www.homeserve.com/en-us/blog/home-improvement/condo-insurance/
+
+Block3_List4_link 2 MATCHED
+
+	How Much Does Homeowners Insurance Cost?|https://www.homeserve.com/en-us/blog/cost-guide/homeowners-insurance/
+
+Block3_List4_link 3 MATCHED
+
+	What’s the Difference Between a Home Warranty and Home Insurance?|https://www.homeserve.com/en-us/blog/buying-guide/home-warranty-home-insurance-differences/
+
+Block3_List4_link 4 MATCHED
+
+	How to Do a Home Inventory Before Disaster Strikes|https://www.homeserve.com/en-us/blog/how-to/create-home-inventory/
+
+Block3_List4_link 5 MATCHED
+
+	What Does Homeowners Insurance Cover ... and What Doesn’t It?|https://www.homeserve.com/en-us/blog/home-improvement/what-does-homeowners-insurance-cover/
+
+Block3_List 4 MATCHED
+
+	What Is Condo Insurance and What Does It Cover?
+How Much Does Homeowners Insurance Cost?
+What’s the Difference Between a Home Warranty and Home Insurance?
+How to Do a Home Inventory Before Disaster Strikes
+What Does Homeowners Insurance Cover ... and What Doesn’t It?
+
+Heading 3: < Better Safe Than Sorry > MATCHED
+
+Block4_Paragraph 1 MATCHED
+
+	When it comes to purchasing earthquake insurance — or any insurance policy, for that matter —it pays to read the fine print. While fire and water damage caused by a quake are covered by most standard homeowner insurance policies, any “shake” damage from a tremor won’t be and will need to be purchased separately. While the vast majority of earthquakes are small and don’t cause any damage, just one high-magnitude earthquake can cause irreparable structural damage to your home.
+
+Block4_Paragraph 2 MATCHED
+
+	For example, brick, stone and adobe homes are inflexible and not built to withstand earthquakes — so in that situation, purchasing a policy is a smart idea. Likewise, if your home is made of a more flexible, “tremor-proof” material like wood or steel, the shaking from an earthquake can undermine your foundation, still causing major structural problems for your home.
+
+Heading 4: < Increasing Seismic Activity > MATCHED
+
+Block5_Paragraph1_link 1 MATCHED
+
+	Insurance Journal|https://www.insurancejournal.com/news/national/2021/06/15/618657.htm
+
+Block5_Paragraph 1 MATCHED
+
+	According to Insurance Journal, which quotes a study done by Rystad Energy, the number of earthquakes with a magnitude of 2.0 or greater has been increasing in key oil-producing regions of the United States. Seismic activity quadrupled in 2020, and it’s expected to continue increasing if oil drilling keeps its current pace. Rystad Energy says the trend is pointing not only toward more frequent events but larger ones as well, making earthquake coverage even more of a necessity in certain parts of the country.
+
+Block5_Paragraph 2 MATCHED
+
+	Adding earthquake coverage can be frustratingly costly, but aside from the high monthly premiums and deductibles, you should consider earthquake insurance as essential coverage for your home, especially if you live in a high-risk area.
+
+Block5_Paragraph 3 MATCHED
+
+	The truth is, the unknowns surrounding homeownership — and life in general — can feel unsettling, to say the least. But being proactive and adding safeguards like earthquake insurance can help you regain a sense of control and some of that highly sought-after peace of mind. You can’t predict the future, but you can certainly prepare for it as best you can.
+
+Block5_Paragraph 4 MATCHED
+
+	All CAD conversions are based on the exchange rate on the date of publication.
+
+Block5_Video 5 MATCHED
+
+	https://youtube.com/embed/-w93u9ICMks
+

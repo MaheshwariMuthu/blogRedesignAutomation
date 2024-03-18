@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Best instagram accounts to follow if you love DIY Home improvement
+headline: Best instagram accounts to follow if you love DIY Home improvement
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2019-09-11
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: DIYHomeImprovementHS.jpg
+heroAltDescription: Best instagram accounts to follow if you love DIY Home improvement
+metaDescriptions: 
+articleAbstract: Love DIY home improvement? Follow these Instagram accounts for lots of DIY inspo. 
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Best instagram accounts to follow if you love DIY Home improvement
+  parent: Home Improvement & Maintenance
+---
+
+:::: blog-info
+Staying at home during the coronavirus has fueled my Instagram habit...big time! Lots of free time, means lots of sharing on the super popular, 10 year old, photo-sharing app. (Insta, once beloved by hipsters, but now used by almost everyone, was just a wee San Fran start-up company back in 2010, and now has [more than 500 million daily active users](https://blog.hubspot.com/marketing/instagram-stats&targetText=With%20more%20than%20500%20million,have%20a%20presence%20on%20Instagram.#targetText=The%20Ultimate%20List%20of%20Instagram%20Stats%20%5B2019%5D{target="_blank"}).)
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+Feed your Instagram habit by checking out these great home decor and improvement ideas:
+
+## Renovation raconteurs
+
+If you have a big home renovation on the horizon or are seriously considering one, these three accounts may be right up your alley:
+
+[@mrkate](https://www.instagram.com/mrkate/){target="_blank"}: Nearly a million Instagram followers (plus 3.5 million on her Creative Weirdos [YouTube](https://www.youtube.com/){target="_blank"} channel) go to Mr. Kate for home renovation advice, including room-specific ideas and broad-scale advice on which design aesthetics to follow.
+[@arrowsandbow](https://www.instagram.com/arrowsandbow/){target="_blank"}: Ashley Petrone, the interior designer behind this account, aims to illustrate her personality (and that of her family) through design choices, particularly furniture. Especially recommended if you want a beach-house vibe for your house or are considering something like an outdoor kitchen.
+[@conklinhouse](https://www.instagram.com/conklinhouse/){target="_blank"}: Fans of home renovation approaches that are modernist-leaning (and more than a little bit quirky) should check out Clare Conklin's Instagram - for example, house numbers used as dresser drawer handles!
+
+## DIY details
+
+Driven to do more with less (as in spending less money) in your renovations? If so, check out these Instagramers:
+
+::: list-square
+* [@younghouselove](https://www.instagram.com/younghouselove/){target="_blank"}: This account documents the tribulations of Sherry Petersik and her partner John as they go about radically renovating their year-round home as well as two beach houses that have definitely seen better days. Great for motivation if you're mired in a long improvement process that sometimes doesn't feel like it's going to end.
+* [@angelarosehome](https://www.instagram.com/angelarosehome/){target="_blank"}: Renovation doesn't have to break the bank to effectively and creatively spruce up your home, a fact that designer Angela Rose truly takes to heart in her celebration of innovative and [affordable DIY home improvement](/en-us/blog/home-improvement/cheap-ideas){target="_blank"} solutions.
+* [@sugarandcloth](https://www.instagram.com/sugarandcloth/){target="_blank"}: Ashley Rose - no relation to the aforementioned Angela - specializes in trendy, smart _(some might say hipster)_ aesthetics for her various home design and crafting ideas, but explains how her followers can do similarly crafty things with design through DIY ingenuity and force of will.
+:::
+
+[Learn More About Home Repair Plans Near You]({{ migrationData.homepage }}){target="_blank"}
+
+## Specific style showcases
+
+Does your home renovation project have a specific architectural style? Look to the following accounts for some relevant advice and inspiration:
+
+::: list-square
+* [@francois_et_moi](https://www.instagram.com/francois_et_moi/){target="_blank"}: Tudor style isn't what anyone would consider an _en vogue_ home aesthetic, but Erin Francois is working overtime to bring her interior into the 21st century. Her account is great for color scheme and accent ideas.
+* [@renovating.no.66](https://www.instagram.com/renovating.no.66/){target="_blank"}: Take a (digital) trip across the pond to see how U.K. art teacher Rachael slowly but surely fixed up a Victorian home into a bespoke interior designer's dream.
+* [@thegoldhive](https://www.instagram.com/thegoldhive/){target="_blank"}: As of September 2019, museum curator Ashley is still in the process of restoring a century-old Craftsman house in San Diego she bought in 2015. The photos are great, but her blog is also excellent for detailed, sensible home renovation ideas.
+:::
+
+Whether you’re a homeowner looking to renovate or relax, being prepared for life’s home repair hassles is always a good idea. Learn how repair [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the cost of covered repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+::::

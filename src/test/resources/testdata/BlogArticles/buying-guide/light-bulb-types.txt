@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Lightbulb Buying Guide"
+headline: "Lightbulb! Here's What You Need to Know Before You Go Lightbulb Shopping"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-02-12
+basePath: https://library.homeserve.com/m/
+heroImage: 1b97d660ff8ada62/Blog-486548489.jpg
+heroAltDescription: "lightbulbs"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "There are a lot of lightbulbs out there to choose from. Here's all you need to know to pick out a light that suits your needs."
+articleAbstract: "Although the number of lightbulb options available might be panic-inducing, fear not. Here's all you need to know to pick out a light that suits your needs."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Lightbulb! Here's What You Need to Know Before You Go Lightbulb Shopping"
+  parent: Electrical-Buying-Guide
+---
+  With all the different styles and options available, shopping for lightbulbs can be overwhelming, to say the least. And while modern technology has given us more types of lightbulbs to choose from, modern lighting generally lasts longer and is more environmentally friendly than ever before. By knowing a few key bits of information, you easily find the right bulb for your needs without all of the unnecessary confusion.
+
+**This May Also Interest You:** [**What Are Watts? Here’s How to Find Out What Watt Lightbulb You Need**](https://www.homeserve.com/en-us/blog/home-improvement/what-watt-light-bulb/)
+
+In the market for some new home lighting? Here’s what you should know before you head to the store:
+
+Types of Bulbs
+--------------
+
+### Light-Emitting Diode Bulbs (LED)
+
+Without question, LEDs are the most energy-efficient, longest-lasting and most versatile lightbulbs available. Lasting from nine to 22 years, LEDs are available in a variety of different shapes and sizes as well. It’s estimated that LED bulbs use nearly 90% less energy than incandescent or halogen bulbs. This is because LEDs are simply more efficient at converting wattage into light. So, for example, an LED bulb will use very low wattage, but it will be able to emit the same brightness as traditional light sources. To ease confusion, many manufacturers will include incandescent equivalent wattages on the packaging.
+
+In today’s world, LEDs are ubiquitous. Most bulbs on the shelves of retailers are LEDs. This means that regardless of what size or shape bulb you’re looking for, you can probably find an LED that will work in your fixture.
+
+### Compact Fluorescent Bulbs (CFL)
+
+A compact fluorescent lightbulb is a type of fluorescent lightbulb that has been compressed into the size of a traditional incandescent bulb. They’re easily identifiable in the store due to their spiral-tube appearance. While they might take a few moments to “warm up” to reach their full brightness, they’re anywhere from 50% to 80% more energy efficient than incandescent bulbs. They also last seven to nine years.
+
+### Incandescent and Halogen Bulbs
+
+Incandescent and halogen lightbulbs are the classic style bulbs used as the traditional “household lightbulb.” Incandescent bulbs only last about a year and aren’t nearly as bright as other types of bulbs.
+
+And while halogen bulbs are more efficient than traditional incandescent, they still aren’t much of a match for LEDs. Because of this inherent inefficiency, most incandescent and halogen products will be phased out by August 2023.
+
+**More Related Articles:**
+
+*   [Lightbulb Moment! Here are 5 Ways to Remove a Broken Lightbulb](https://www.homeserve.com/en-us/blog/how-to/remove-broken-lightbulb/)
+*   [How to Replace an Oven Lightbulb](https://www.homeserve.com/en-us/blog/how-to/oven-light-bulb-replacement/)
+*   [Deck the House: How to Hang Outdoor Holiday Lights](https://www.homeserve.com/en-us/blog/how-to/holiday-lighting-installation/)
+*   [How to Install a Ceiling Light: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-ceiling-light/)
+*   [Recessed Lights or Ceiling Lights? Here’s How to Choose What’s Best for Your Space](https://www.homeserve.com/en-us/blog/home-improvement/recessed-lighting-vs-ceiling-lights/)
+
+Wattage, Lumens and Color Temperature — Oh My!
+----------------------------------------------
+
+Because the world of lightbulbs is rapidly changing, getting the correct brightness and color can be a bit overwhelming. For example, in years past, one might look at wattage to determine the brightness of a particular bulb. However, instead of measuring the brightness of the bulb, the wattage actually refers to the amount of energy a bulb uses to produce light. Because incandescent bulbs are so inefficient compared to LEDs, the wattage required to produce the same amount of light is much higher. When shopping for LEDs, forget watts. Instead, consider the lumens of the bulb. Lumens refer directly to how bright the bulb is; the higher the number of lumens, the brighter the bulb. For example, if you need to replace a 100-watt incandescent bulb, you’ll want to purchase an LED bulb with 1,600 lumens.
+
+Finally, when purchasing a lightbulb, you’ll want to consider what color temperature suits your usage. Traditional incandescent lights had one shade of white light. Now, bulbs are manufactured with different tones of warmth. Lightbulb packaging includes a “light appearance” label that refers to the color temperature measured in Kelvins (K). Generally, the lower the number, the warmer the light. So, for living room fixtures or table lamps, pick a bulb with around 2,700K to 3,000K. This will give you a warm, yellow glow similar to that of a traditional incandescent bulb. For task lighting, choose a cooler, bluish light with around 5,000K.
+
+Other Considerations
+--------------------
+
+It used to be that lightbulbs had just one simple function — to produce light. However, lightbulbs are equipped with an array of different features and functionalities. For example, do you want the option to dim your lights? In most cases, all models of LED bulbs are available in dimmable versions, but you’ll need to check the packaging for details. Make sure the package specifically is labeled dimmable prior to installation.
+
+Another popular style is “smart” bulbs. These are LED bulbs enabled with Wi-Fi or Bluetooth capabilities that allow you to turn them on and off from a smart device of your choice. Having smart bulbs can allow you to easily control the lights in your home, even when you’re not at home, to help mitigate your energy bills and increase your home security.
+
+A Little Light on the Subject
+-----------------------------
+
+Although the sheer number of options available might be panic-inducing, fear not. As long as you know and understand a few key criteria, you’ll have all the information you need to pick out a light that suits your needs.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

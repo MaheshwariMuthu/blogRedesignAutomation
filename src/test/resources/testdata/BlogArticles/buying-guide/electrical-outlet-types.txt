@@ -1,0 +1,86 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Different Types of Electrical Outlets"
+headline: "8 Different Types of Electrical Outlets Homeowners Should Know"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-15
+basePath: https://library.homeserve.com/m/
+heroImage: 462038cbd4c678b8/Blog-iStock_12748128_outlet_plug_CMYK_XLARGE.jpg
+heroAltDescription: "plugging in to a wall outlet"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Not all outlets are created equal. Here's an overview of some common electrical outlets."
+articleAbstract: "Not all outlets are created equal, with many built to serve pretty specific purposes. Here's an overview of the most commonly used outlets in the U.S."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "X Different Types of Electrical Outlets"
+  parent: Electrical-Buying-Guide
+---
+  
+
+Electricity is woven into almost every aspect of everyday life. At home, we rely on it for everyday routines — to charge devices, dry our hair, brew coffee and toast bread. It keeps the lights on, both indoors and out, and runs our computers at work. But how much thought do we give to the various types of outlets we use to plug our lighting, appliances and devices into?
+
+**This May Also Interest You:** [**Watt’s Too Much? How Much You Can Plug Into One Outlet**](https://www.homeserve.com/en-us/blog/home-improvement/overloaded-outlet/)
+
+The truth is, not all outlets are created equal. Many are built to serve pretty specific purposes. Read on for an overview of some of the most commonly used outlets in the U.S.
+
+15-Amp
+------
+
+By far, the 15-amp is the most common outlet found in homes throughout the United States. In most cases, you’ll notice three slots into which an electrical device can be plugged. The longer vertical slots are neutral, while the third slot below is a grounding hole. The 15-amp outlet is ideal for devices that use less power, like lamps, alarm clocks and other small appliances.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2698ecf9171872b9/Blog-Electricity_MSchmitz_0001-jpeg.jpg" alt="samsung plug in socket"/>
+
+20-Amp
+------
+
+Another common electrical outlet found in homes is the 20-amp outlet. 20-amp outlets look very similar to 15-amp outlets in that they both typically have three slots, but you can easily tell them apart by noticing the [T-shaped prong](https://pennaelectric.com/electrician-blog/15-amp-vs-20-amp-outlet/) on one of the top vertical slots. You’ll often find 20-amps only in certain areas throughout your home, as these outlets are designed for higher-powered devices like power tools, computers or air-fryers.
+
+GFCI
+----
+
+GFCI outlets — or ground-fault circuit interrupter outlets — are specially designed to protect users against dangerous ground faults. If a “current leak” is detected, the GFCI immediately shuts off power to the outlet. In other words, if water gets into a device or splashes the outlet itself, the GFCI will quickly shut off, preventing electric shock. This is especially important in high moisture areas like bathrooms, kitchens or outdoors. Most building codes require GFCI outlets to be installed in kitchens and bathrooms, so you should double-check to make sure you have them in these areas. You can identify them by the "TEST” and "RESET" buttons found in the middle of the outlet.
+
+<img class="detail-image" src="https://library.homeserve.com/m/63a3f11fe38d4b8f/Blog-ElectricalOutlet_MSchmitz_0005.jpg" alt="electrical outlet on glass wall"/>
+
+AFCI
+----
+
+Like GFCI outlets, AFCI (arc-fault circuit interrupter) outlets are designed to protect users against electrical accidents. An AFCI outlet works to prevent electrical fires by interrupting power when an arc fault is detected, a common source of electrical fires. Arc faults are typically caused by damaged or loose wiring. Like GFCI outlets, AFCI outlets should be labeled at the bottom of the receptacle. They’re also equipped with “RESET” and “TEST” buttons, like GFCI outlets.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets with GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+*   [How Your Home’s Electrical System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-electrical-system/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/6e29d6f62a833866/Blog-USBoutlet_ERossi_1.jpg" alt="close up shot of a USB home power outlet"/>
+-------------------------------------------
+
+USB Outlets
+-----------
+
+Because many of our everyday-use devices are powered by USB, wall outlets with USB ports are increasingly becoming the receptacle of choice for many homeowners. USB outlets look like traditional pronged outlets, with at least one or more USB ports built in. These receptacles are inexpensive and incredibly convenient, especially if you’re someone prone to losing your phone charger. (And honestly, aren’t we all?)
+
+Tamper-Resistant Outlets
+------------------------
+
+Another increasingly common type of outlet found in new construction homes is the so-called tamper-resistant receptacle. Designed to prevent foreign objects from being inserted into the slots, tamper-resistant outlets feature a special shutter that only opens when the correct plug is inserted into the outlet, making these an ideal choice for homeowners with small, curious children who seem to be magnetically drawn to dangerous outlet holes.
+
+Smart Outlets
+-------------
+
+Unless you’ve been hiding under a rock, you’ve probably heard the word “smart” thrown around the world of home appliances and other devices. As the name suggests, smart outlets are simply outlets that you can control via your smartphone. Say you’re lying in bed and you want to turn off the floor lamp in the living room before you drift off to sleep. With a smart outlet, simply pick up your phone and power off the outlet. While smart outlets are typically more [expensive than their non-smart counterparts](https://www.amazon.com/Kasa-Smart-Outlet-Wall-TP-Link/dp/B07N3CK3MM), they allow homeowners to actually [reduce energy consumption](https://www.atlanticenergyco.com/post/smart-plug-energy-savings/#:~:text=Smart%20plugs%20create%20the%20ability,when%20no%20one%20is%20home.) in the long term.
+
+Combination Outlets
+-------------------
+
+Combination or switch outlets are another common household outlet. Put simply, these are outlets that feature both a switch and a traditional pronged outlet within the same outlet box. By installing combination outlets, you’re getting more bang for your buck as these devices combine two separate functions. You might commonly install combination outlets in bathrooms where an additional outlet is needed for a hairdryer or curling iron.
+
+Plugged In
+----------
+
+With a basic knowledge of what electrical outlets serve what function, you can properly identify the existing outlets in your home and choose the correct outlet for your specific needs. You’ll also be better informed should you opt to upgrade any outlets in the future. This info can also help keep you and your family safe, reducing the risk of circuit overload or electric shock.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/qpoqCRPHjqE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

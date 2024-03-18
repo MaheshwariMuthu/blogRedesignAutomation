@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Does My House Flood but Not My Neighbor's?"
+headline: "Why Does My House Flood but Not My Neighbor's?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-20
+basePath: https://library.homeserve.com/m/
+heroImage: 39c8271051037372/Blog-GettyImages-73271468.jpg
+heroAltDescription: "Man sitting in flooded living room using phone"
+metaDescriptions: "Why does your house flood, but not your neighbor’s? Your houses are literally right next to each other. So, what gives?"
+articleAbstract: "Why does your house always flood after heavy rain, but not your neighbor’s? Your houses are literally right next to each other. So, what gives?"
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Does My House Flood and Not My Neighbor's? (Causes)"
+  parent: Interior-Home-Home-Improvement
+---
+  It’s that dreaded aftermath of heavy rain: The soggy, puddle-filled yard, and then, the flooded garage and basement. Next thing you know, it’s time to break out the rain boots for a mere walk to the mailbox and ready the shop-vac for the inevitable cleanup.
+
+**This May Also Interest You:** [**My Basement Flooded ... Now What? 7 Steps to Take in the Immediate Aftermath of the Flood**](https://www.homeserve.com/en-us/blog/home-improvement/basement-flooding-tips/)
+
+Flooding can be a frustrating mess for any homeowner. It can wreak havoc on your prized landscaping and, worse, regular flooding can lead to a host of home-related issues like water stains, mold and mildew growth and, eventually, cracked foundations. In fact, studies repeatedly show that [flooding is the most costly natural disaster in the United States.](https://www.fbiic.gov/public/2010/mar/FloodingHistoryandCausesFS.PDF)
+
+But the problem can feel exacerbated by the fact that _this seems to only happen to you._ Why does your house flood, but not your neighbor’s? Your houses are literally right next to each other. So, what gives?
+
+Know Your Flood Risk
+--------------------
+
+When it comes to flooding, no two properties are created equal. In fact, even next-door neighbors with very similar lots can have vastly different flood risks. Some common reasons why your house is prone to flooding include:
+
+### Waterways
+
+One of the most common reasons you may have an increased flood risk as compared to your neighbors is simply that you live closer to a water source. While living close to water has its share of benefits, if your house is closer in proximity to a creek, lake or bay, it’s likely that your house will flood more often than theirs. Oftentimes, a high river might flood only one side of the street. Or a storm might cause a bay to surge, only flooding the homes in a specific vicinity. If you’re not sure where the water is coming from, you can visit [FEMA’s Flood Map Service Center](https://msc.fema.gov/portal/home) to find a flood map of your area to examine flood patterns of the past.
+
+### Elevation
+
+Another common reason why a house is more likely to flood is a difference in elevation. If your property is located on a flat lot and your neighbor lives on a hill, your house is more susceptible to flooding in the event of heavy rain or when a river swells. Sounds pretty obvious, right? Well, it’s not always limited to large elevation shifts like mountains or hills. Sometimes a mere 50-foot difference between your home’s elevation and your neighbor’s is all that’s needed to keep your house in danger of flooding while they stay high and dry.
+
+### Flood Adaptation Projects
+
+Communities that exist near or along bodies of water typically have infrastructure specifically designed to keep flooding at bay. Sometimes these are large embankments like levees or seawalls, or sometimes they’re larger mitigation systems that drain into wetlands. Homes that are built closer to these adaptation structures are much less likely to flood than homes farther away. If your home regularly floods, you might be too far from the adaptations to benefit.
+
+### Drainage Issues
+
+Determining the cause of your flooding issues may be one of the most complex problems you’ll have to solve as a homeowner. Sometimes the issue has little to do with the location of your house and more to do with improper drainage in your yard. In other words, when it rains, water collects in non-ideal places, wreaking havoc on your landscaping and slowly seeping into your basement, crawlspace or even worse, your front door.
+
+The truth is, many [drainage problems](https://www.hgtv.com/outdoors/gardens/planting-and-maintenance/solving-common-drainage-problems#:~:text=The%20majority%20of%20drainage%20problems,gutter%20water%20from%20the%20property.) stem from an incorrect slope or pitch in your yard that doesn’t work to divert water away but instead directs it toward your house. One common way to solve drainage issues is to install a French drain, which is a perforated pipe buried in gravel that accepts rainwater and diverts it to a more desirable location. Bear in mind that French drains have a tendency to get clogged and will need to be replaced every five years or so.
+
+### Downspout Problems
+
+Believe it or not, one of the most common drainage issues homeowners face is malfunctioning downspouts. Downspouts are lightweight tubes that lead from your gutter to the ground and, when working correctly, direct excess rainwater away from your home. Oftentimes, leaves, sticks and other debris can clog gutters and downspouts, causing water to accumulate in one area. With enough rainfall, the water can overflow and seep into your home.
+
+Sometimes, a downspout simply isn’t long enough and doesn’t divert the water as far as needed from your house. In this case, you can install a downspout extension. An extension is usually just an additional section of the downspout that is added to the bottom elbow of your downspout. You can also use corrugated flex pipe to maneuver around any plants or other sensitive landscaping. Burying the corrugated flex pipe and creating an underground drainage system is the best choice for diverting water. If your house is at the bottom of a hill, sometimes you need to direct water all the way to the street.
+
+**More Related Articles:**
+
+*   [How Much Do Flood Damage Repairs Cost?](https://www.homeserve.com/en-us/blog/cost-guide/water-damage-restoration/)
+*   [No Water in the Basement! Here’s How to Protect Your Home From Severe Flooding](https://www.homeserve.com/en-us/blog/how-to/basement-flooding-tips/)
+*   [How Much Does It Cost to Waterproof a Basement?](https://www.homeserve.com/en-us/blog/cost-guide/basement-waterproofing/)
+*   [Sump Pumps: Everything You Need to Know](https://www.homeserve.com/en-us/blog/home-improvement/how-sump-pump-works/)
+*   [Au Revoir, Standing Water! How to Install a French Drain in 8 Steps](https://www.homeserve.com/en-us/blog/how-to/how-to-install-a-french-drain/)
+
+Avoiding Water Disputes
+-----------------------
+
+Make sure you’ve carefully examined your property for these common flood risks. If you still haven’t determined the cause of your water issues, it could be that your neighbor’s drainage system (or lack thereof) is diverting water onto your property. Generally speaking, if the natural slope of your neighbor's property causes water to spill onto yours, you’ll need to develop a way to divert the water to a desirable location. In this case, a French drain, as mentioned earlier, is a common solution to this problem. Another option is to construct a decorative berm, or a raised barrier that separates the two areas and safely channels water away from your property.
+
+Additionally, if your neighbor has recently had landscaping alterations to their home, sometimes those changes can affect the way water flows. If you suspect this might be the case, the first step is to talk to your neighbor about the problem in a peaceful way. Chances are, you can figure out a solution together. Of course, if your neighbor is unwilling to acknowledge the problem, you can bring the issue before your homeowners association, if you both belong to one. If these options don’t help resolve the matter, you may be able to take legal action if the problem persists.
+
+If your home has a history of flooding, it can feel frustrating and unfair, especially if the folks living next door are dry, footloose and fancy-free after a night of heavy rains. But, by investigating the potential causes of your home’s flooding and taking action whenever possible, you can begin to feel a bit more in control and less victim to the whims of Mother Nature. And who knows? Maybe next time she deals you a downpour, you can leave the rainboots and shop-vac at rest and wave to the neighbors without envy for once.

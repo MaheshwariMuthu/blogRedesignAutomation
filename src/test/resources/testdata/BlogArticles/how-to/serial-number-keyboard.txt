@@ -1,0 +1,57 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Find the Serial Number on Your Computer Keyboard"
+headline: "How to Find the Serial Number on Your Computer Keyboard"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-01-16
+basePath: https://library.homeserve.com/m/
+heroImage: 41352216d1d25400/Blog-IMG_3933.jpg
+heroAltDescription: "Apple brand wireless keyboard on a desk"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A keyboard serial number is an alphanumeric code that identifies your device. Discover why you might need to know this number and how to find it if you do."
+articleAbstract: "This article defines what a keyboard serial number is. It also covers why you might need to know your keyboard's serial number and where to find it."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Find the Serial Number on Your Computer Keyboard"
+  parent: Appliances-How-To
+---
+  
+
+Did you know your keyboard has its own serial number?
+
+**This May Also Interest You:** [**How to Find the Serial Number on Your Appliances and Gadgets**](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+We get it; almost every device you own has its own identifying number, so it’s hard to keep track of them all. But knowing the serial numbers of your devices can help in a warranty claim situation. It’s also something you can provide to the police in the event that your device is stolen. Here’s how to locate the serial number on your keyboard.
+
+What Is a Serial Number for Your Keyboard?
+------------------------------------------
+
+A keyboard serial number is a series of numbers, letters or a combination of both. Some serial numbers may have punctuation such as slashes or dashes, and in rare cases, they may contain special characters.
+
+The purpose of serial numbers is to provide unique identifiers for every specific keyboard. This is in contrast to a model number, which identifies the type of keyboard you have. Every keyboard has both a model number and a serial number. Each keyboard has its own serial number, but you can have thousands, or even millions, of keyboards that have the same model number.
+
+Why Would You Need to Know Your Keyboard’s Serial Number?
+---------------------------------------------------------
+
+Most people don't need to know the serial number of their keyboard for any day-to-day purpose. However, serial numbers are commonly required if you need to make a warranty claim or get a keyboard repaired.
+
+If you're dealing with a laptop, each major component typically has its own serial number, including the keyboard. This can be important information when repairing the laptop. Suppose you want to sell the laptop in the future. In that case, you may also need to have information about the keyboard serial number if you have upgraded the laptop or replaced the keyboard for any reason. This provides the buyer with more information about the state of the computer.
+
+<img class="detail-image" src="https://library.homeserve.com/m/53f32b276a8ab18b/Blog-IMG_3934.jpg" alt="Back of an Apple brand wireless keyboard with a finger pointing to the serial number"/>
+
+How Do You Find the Serial Number on Your Keyboard?
+---------------------------------------------------
+
+The method by which you locate the serial number depends on the type of keyboard you have.
+
+External wired or wireless keyboards — those that are separate components from the computer itself — typically have stickers on the bottom. If you have this type of keyboard, flip it over and look for stickers with model and serial numbers on them. The serial number is located next to a label that reads something like "Serial Number," "S/N," "Serial No." or "Serial #."
+
+On [Apple wireless keyboards](https://support.apple.com/en-us/HT201806), look for a 17-character string of letters and numbers on the back of the device.
+
+The task can be a bit more difficult if you need to get the serial number for a laptop keyboard. If the keyboard came with the laptop, you may be able to provide the serial number of the laptop itself. You may be able to find the laptop's serial number on stickers on the bottom of the laptop itself. You can also consult any paperwork that came with the laptop to see if it lists the serial numbers for parts, such as the keyboard and monitor.
+
+However, in many cases, the serial number is printed or stuck on the keyboard part itself and can't be seen without taking the laptop partially apart. You may want to leave this up to a qualified laptop repair person and only worry about noting the serial number in a case when the laptop is already apart for repairs.
+
+The good news is that, if you’re being asked to provide a serial number for a keyboard, chances are good that it’s the external kind with an easy-to-locate sticker.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/qpoqCRPHjqE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Find Your iPhone or Android Smartphone Serial Number"></iframe>

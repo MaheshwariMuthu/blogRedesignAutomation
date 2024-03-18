@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Home Efficiency for Earth Day"
+headline: "6 Home Efficiency Measures You Can Take This Earth Day"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-04-22
+basePath: https://library.homeserve.com/m/
+heroImage: 5af583e91d12bbc2/Blog-Earth_Day_Image_2967.jpg
+heroAltDescription: "Earth Day Home Efficiency lightbulb"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Aiming for a more energy-efficient home this Earth Day? Here's how to reduce your home’s energy output."
+articleAbstract: "Aiming for a more energy-efficient home this Earth Day? Here's how to reduce your home’s energy output, without sacrificing comfort or spending too much."
+category: ["How To"]
+eleventyNavigation:
+  key: "X Home Efficiency Measures You Can Take This Earth Day"
+  parent: Interior-Home-How-To
+---
+  Since 1970, the U.S. has been celebrating [Earth Day](https://www.epa.gov/history/epa-history-earth-day) each April in support of environmental protection measures and caring for the Earth. Annual trash clean-ups and recycling drives on Earth Day are great ways to pitch in and help reduce your carbon footprint.
+
+**This May Also Interest You:** [**How to Keep Your Lawn Green While Also Conserving Water**](https://www.homeserve.com/en-us/blog/how-to/conserve-water-on-lawn/)
+
+But in addition to these yearly events, there are steps you can take at home that will help conserve energy and increase your home’s efficiency year-round. Below is a list of easy ways to reduce your home’s energy output, without sacrificing comfort or spending lots of money.
+
+How to Conserve Energy at Home
+------------------------------
+
+### Swap Out Your Lightbulbs
+
+One of the simplest ways to conserve energy in your home is by swapping out your old incandescent light bulbs for new LED bulbs. Incandescent bulbs are very inefficient, losing 90% or more of their energy as heat rather than light. And yet, they’re still widely used — despite the wide availability of more efficient alternatives, like CFL (compact fluorescent) and LED bulbs. CFL bulbs are pretty good alternatives, but LED bulbs are the most efficient of the bunch, so opt for those if you can. Although they’ll cost you more up front, either option will save you significantly on energy costs in the long run, and they last you years longer than their incandescent counterparts.
+
+### Adjust the Thermostat
+
+When it comes to energy savings and setting your thermostat, know that you don’t have to go to extremes or sacrifice comfort in order to conserve energy. A few degrees can make a huge difference in energy savings, and you probably won’t even notice the slight shift in temperature! Energy-saving experts recommend setting your thermostat to 68 degrees Fahrenheit (20 degrees Celsius) in the winter to lower energy costs, and a few degrees lower at night to further increase savings and promote a good night’s sleep. In the summer months, the U.S. Department of Energy recommends setting your thermostat to 78 degrees Fahrenheit (CAD 26 degrees Celsius).
+
+These temps should still keep your home pretty comfortable year-round, but responsibly so. Give these settings a try, and adjust a degree or two according to your preferences if necessary. Make sure to adjust your settings further when you go out of town to conserve even more energy while you’re away. Smart thermostats help make this easy, but you can always manually set your thermostat the old-fashioned way, too.
+
+### Seal Windows and Doors
+
+Poorly sealed doors and windows are notorious energy sucks, so to keep energy from being wasted in your home, make sure all your windows and doors are tightly sealed. If you feel a cool draft in winter or warmth seeping in during the summertime, it might mean your seals aren’t as secure as they should be. You can buy inexpensive, self-adhesive weatherstripping to help fill the gaps between your door and window frames, but you might also need to recaulk your windows if the caulk is old and cracking. Additionally, make sure to check the gaps under your doors. Sometimes these spaces are so large that something like a [door sweep](https://www.amazon.com/Absolute-Living-Triangular-Draft-Stopper/dp/B09L7P83VD/ref=asc_df_B09L7P83VD/?tag=hyprod-20&linkCode=df0&hvadid=598546745739&hvpos=&hvnetw=g&hvrand=14839343717106835234&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010265&hvtargid=pla-1659047256613&psc=1) is needed to help keep air from entering or escaping.
+
+**More Related Articles:**
+
+*   [15 Ways to Save on Your Electric Bill](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+*   [How to Use Insulation to Save Energy and Money](https://www.homeserve.com/en-us/blog/home-improvement/insulation-tips/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [What Is Vampire Power and How Do I Reduce It?](https://www.homeserve.com/en-us/blog/how-to/phantom-loading/)
+*   [4 Ways to Make Your Refrigerator More Efficient](https://www.homeserve.com/en-us/blog/home-improvement/refrigerator-efficiency-tips/)
+
+### Switch to Smart Power Strips
+
+Some appliances that are plugged in act as power “vampires,” draining power unnecessarily when not in use. Because it can be difficult to remember and inconvenient to unplug all electronics after every use, investing in a few smart power strips can help make this energy-saving strategy a whole lot easier. With smart power strips, you can set the strip to turn off at certain times of day, and turn off appliances and electronics from an accompanying app on your phone even when you’re away from home, so there’s less energy waste and worry if, say, you accidentally left the coffeemaker plugged in when you left for vacation.
+
+### Get a Home Energy Audit
+
+Another easy energy-saving strategy is scheduling a home energy audit. Many energy companies offer this service for free, and the information you can take away from meeting with a home energy specialist can be incredibly helpful. They can inspect for potential areas of energy loss, due to poorly sealed windows and doors or a lack of insulation, and recommend more energy-efficient measures to take in your home. Sometimes these energy auditors will even provide a box of free energy-saving tools — like LED bulbs, weatherstripping and even low-flow valves for your faucets to help conserve water, so that you can start improving your home’s energy efficiency straight away.
+
+### Have Your HVAC System Serviced
+
+Having your HVAC serviced annually can help reduce the amount of energy you waste from having a dirty, old, or neglected HVAC system. Plan to get your HVAC serviced at least once a year, or ideally twice — during the fall and spring — before you’ll really need it performing its best for the chilly winters and hot summer months. Having clean HVAC coils can save you around 15% on your energy bill. And don’t forget to change your filters regularly! Clean filters can save you another 15% in heating and cooling costs.
+
+Earth Day Every Day
+-------------------
+
+This Earth Day, see what actions you can take that’ll help with energy conservation all year long. Now that you know ways to save energy year-round, you can start implementing these energy conservation techniques throughout your home one by one, until your home is operating more efficiently than ever. An energy-efficient home is better for the planet, and it can save you money — making it a win-win for both you and the Earth.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

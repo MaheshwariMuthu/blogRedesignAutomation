@@ -1,0 +1,91 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Install or Replace a Shower Drain"
+headline: "How to Install or Replace a Shower Drain"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-07-07
+basePath: https://library.homeserve.com/m/
+heroImage: 1fa354177aa164ca/Blog-GettyImages-1190264737.jpg
+heroAltDescription: "tools"
+metaDescriptions: "You can install a shower drain as part of a home renovation project or replace an existing one when you notice a leak. Here's how."
+articleAbstract: "A shower drain is an important plumbing fixture that captures water and directs it toward your home’s sewage system. You can install a shower drain as part of a home renovation project or replace an existing one when you notice a leak. Here's how."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install or Replace a Shower Drain"
+  parent: Plumbing-How-To
+---
+  A shower drain is an important plumbing fixture that captures water and directs it towards your home’s sewage system. You can install a shower drain as part of a home renovation project or replace an existing one when you notice a leak.
+
+**This May Also Interest You:** [**How to Unclog a Shower Drain**](https://www.homeserve.com/en-us/blog/how-to/unclog-shower-drain/)
+
+Doing this project DIY-style — whether you’re installing or replacing — shouldn’t take you more than an afternoon. Keep on reading to find out how.
+
+How Do You Install a Shower Drain?
+----------------------------------
+
+The type of shower drain you install depends on several factors, including the flooring material and your particular scenario. Below are two popular options when it comes to installing a shower drain.
+
+### How to Install a Shower Drain on a Prefabricated Shower Pan
+
+When renovating a bathroom, a new shower drain should always be part of the process. A drain assembly — which consists of a drain body, strainer, compression gasket, compression nut, compression wrench, drain nut, fiber gasket and rubber gasket — will cost you between $7 and $60 at your nearest hardware store. This is the piece you will attach to a preformed shower pan, a one-piece base that is usually made from acrylic and reinforced with fiberglass.
+
+You’ll need some plumber’s putty to act as a sealant between the shower pan and the drain assembly. Roll the putty into a half-inch bead and wrap it around the underside of the drain body flange. Insert the drain body through the hole of the shower pan from the top and press down firmly (do not twist) to form an even seal.
+
+At the bottom of the shower pan, place the rubber gasket and fiber gasket (in that order) onto the drain body. Insert the drain nut and tighten it with your hand. When it gets too hard to turn, use a set of adjustable pliers or a wrench to tighten it all the way through. Use your index finger to remove any excess putty from the top of the drain.
+
+For this part, get a buddy to help you lower the shower pan onto the shower base. The shower base, in this scenario, is the substructure of the shower’s subfloor. It will have a drain hole with a 2-inch drain pipe located in the middle. The drainpipe should be positioned in the center of the drain body as you’re lowering the shower pan onto the shower base.
+
+Once this is done, grab the compression gasket and insert it from the top of the hole, bevel side up, making sure that it fits in the space between the drain body and pipe. Push it down until it sets at the bottom.
+
+Next, thread the compression nut over the drain pipe. Insert the compression wrench into the compression nut and tighten with a screwdriver. Finish the shower drain install by snapping strainer or drain cover onto the drain body.
+
+### How to Install a Shower Drain for a Tile Floor
+
+Since tiles are square (in most cases), you will need a drain assembly with a square strainer. There are essentially three parts to a tile floor assembly: the drain barrel (where the strainer is attached), drain body and clamping ring.
+
+Begin installing the shower drain after you’ve finished installing the subfloor and drain pipe. Fit the drain body over the drainpipe, ensuring that the flange is resting on the subfloor. Use solvent cement to bond them together.
+
+Next comes the bottom mortar bed. Be sure to cover the drain body with a clean rag before you apply it so the drainpipe remains clean. Lay down the layer of mortar starting from the wall. Make sure there is a slope every ¼ inch per foot, all the way to the drain’s opening. The mortar bed should be flush with the drain body’s flange.
+
+Wait for the mortar bed to dry. Afterward, install a pan liner on top of it. This is a waterproof membrane that catches any water that seeps through the mortar bed and directs it towards the drain. Cut a hole in the membrane around the drain hole and around the inner and outer mounting holes of the drain body. Screw some bolts into the outer mounting holes to secure the pan liner and drain body to the subfloor.
+
+Place the clamping ring above the membrane. Align its mounting holes with the ones on the drain body and screw it in. This will sandwich the membrane between the drain body and the clamping ring. Fill the shower floor with 2 to 3 inches of water to check if the membrane has any leaks.
+
+If there are no leaks, screw the drain barrel into the clamping ring; stop when it reaches the height you want. Leave at least 1 inch of space between the drain body and the top of the drain barrel. Apply another mortar bed layer on top of the pan membrane and finish installing the tile floor once it’s dry.
+
+**More Related Articles:**
+
+*   [How to Remove a Bathtub Drain](https://www.homeserve.com/en-us/blog/how-to/remove-bathtub-drain/)
+*   [How to Remove a Bathtub Stopper](https://www.homeserve.com/en-us/blog/how-to/remove-bathtub-stopper/)
+*   [15 Common Plumbing Problems Every Homeowner Needs to Watch Out For](https://www.homeserve.com/en-us/blog/how-to/plumbing-drainage-problems/)
+*   [How to Replace a Shower Handle](https://www.homeserve.com/en-us/blog/how-to/replace-shower-handle/)
+*   [Showerhead Stuck? Here’s How to Remove It](https://www.homeserve.com/en-us/blog/how-to/showerhead-removal/)
+
+Replacing a Shower Drain
+------------------------
+
+Is the floor underneath your shower showing signs of water damage? If so, there may be a leak that requires the shower drain to be replaced. If you do this yourself, you won’t have to call a plumber for a costly replacement. Here’s how.
+
+### How to Replace a Shower Drain from Underneath
+
+If the shower drain replacement is on a prefabricated shower pan, you have to go at it from the bottom. This will allow you to effectively take the drain assembly apart. Be sure to turn off the electricity in the area you’ll be working in before you begin. Then, use a flat screwdriver to pop the strainer out of the drain body to expose the compression nut. Insert your compression wrench into the compression nut and turn it counterclockwise with a screwdriver to unscrew it.
+
+Using a combination of a utility knife and drywall saw, cut a rectangular hole in the ceiling beneath the drain. Make sure the hole is big enough to fit adjustable pliers and is along the joist so you have something to support the new drywall when patching it up. Use the adjustable pliers to loosen the drain until you can remove the rest of it with your hand. Follow that up by removing the rubber and fiber gaskets as well.
+
+If you see that the drainpipe is welded or glued to a U-shaped pipe (also called the P-trap), you'll need to cut it. This will make it easier to push out the drain pipe and cut out the drain body. However, you'll need to know how to replace a shower drain trap as well once you cut it. Without the P-trap, sewer gases can travel into your home through the drain line. In addition to the unpleasant smell, long-term exposure to this gas can be harmful.
+
+Install a new drainpipe in the shower base and repeat the steps on how to install a shower drain on a prefabricated shower pan. Repeat the above steps for installation — from inserting the drain body, to tightening the drain nut, to snapping the drain cover on top of the drain. However, since the shower pan is already on the floor, you don’t have to struggle with lowering and positioning it.
+
+Assemble a new P-trap by gluing its pieces together and gluing the assembly to the drainpipe. Turn on the water and dash back downstairs to see if there are any leaks. If there are no leaks, patch up the drywall.
+
+### How to Replace a Shower Drain from the Top
+
+When performing a shower drain replacement on tile flooring, you don’t need to go underneath. Start by unscrewing the drain barrel, cleaning the drainpipe and covering the hole to prevent debris from falling in it. Then, carefully pry out the tiles around the shower drain and chisel that area until the subfloor and mounting bolts are exposed. Unscrew the bolts and remove the clamping ring and drain body.
+
+Install the new tile floor assembly while patching up the membrane and mortar bed. Don’t forget to check for leaks when you’re done. To patch the membrane, cut a new piece of membrane to fit the area you destroyed. Make holes for the drain and the mounting holes of the drain body. Apply caulk along the chiseled area and apply the patch. Leave the caulk to dry and patch the mortar bed with deck mud.
+
+Down the Drain
+--------------
+
+By following the steps outlined above, you should be able to confidently install or replace a shower drain on your own. You’ve even learned how to plumb a shower drain by installing a brand-new P-trap. Not only is doing this by yourself cost-effective, but it is oh-so-satisfying when you watch the water — and not the hard-earned cash you could have spent on a plumber — go down the drain.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/mlM1kuECosQ?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

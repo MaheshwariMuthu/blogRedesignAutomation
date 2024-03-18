@@ -1,0 +1,73 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Is Your Air Conditioner or Furnace Too Big? Here's How to Tell"
+headline: "Is Your Air Conditioner or Furnace Too Big? Here's How to Tell"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2023-10-19
+basePath: https://library.homeserve.com/m/
+heroImage: 308c30ade542b7a6/Blog-GettyImages-1408150741.jpg
+heroAltDescription: "Man adjusting the temperature on the thermostat of his house"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "HVAC equipment that's too big or too small for your home can affect how the system operates."
+articleAbstract: "HVAC equipment that's too big or too small can affect how the system operates. Here's what to know about HVAC system sizing and how to tell if your unit is too big."
+category: ["How To"]
+eleventyNavigation:
+  key: "Is Your Air Conditioner or Furnace Too Big? Here's How to Tell"
+  parent: HVAC-How-To
+---
+  If you're not an HVAC pro, you might not know that air conditioner and furnace units come in different sizes. And choosing the correct size isn't something that the average homeowner can do on their own.
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+Equipment that's too big or too small for your home can affect how the system operates.
+
+How to Tell That Your HVAC Unit Is Too Big
+------------------------------------------
+
+Bigger isn't always better, especially when it comes to heating and cooling your home. It might seem like a larger unit would make you more comfortable, but it can do the opposite. Equipment that's too big for your space can wear down faster, shortening the life of the machinery. It can also make your home very uncomfortable. The following signs could mean your home needs a smaller HVAC unit.
+
+### Short Cycling
+
+Short cycling means your furnace or air conditioner shuts off and turns back on frequently. This happens because it reaches the set temperature quickly because the equipment is too powerful for the space. It shuts off and then turns back on shortly after. Short cycling causes wear on the components of the HVAC equipment. Pay attention to how long your air or heat stays on. If it only runs a few minutes before clicking off, it might be too large.
+
+### Uncontrolled Humidity
+
+In the summer, your air conditioner helps pull moisture out of the air to keep humidity under control. Short cycling due to oversized equipment doesn't allow enough time to remove humidity from the air. You might notice that your home feels muggy, or condensation might form on surfaces. All that extra moisture in the air can encourage mold and mildew growth.
+
+### High Energy Bills
+
+Is your furnace too big if your energy bills are high? It could be. There are lots of possible explanations for an occasional spike in your utility bills, but consistent increases could be a sign of a problem. When your heat or AC is too large, it shuts on and off frequently, which puts more strain on it. That could cause your energy use to increase. If you've noticed other signs of a too-big system, check your past utility bills to see if they increased.
+
+### Inconsistent Temperatures
+
+You might notice some rooms are warmer or cooler than others. This happens because the rooms closest to the unit heat or cool quickly. The home comfort system shuts off before the other rooms can reach a comfortable temperature. Walk through your home and pay attention to how each room feels.
+
+### Loud Operation
+
+Air blowing through your ductwork should be noticeable but not so loud that it interferes with you hearing things. A system that runs loudly might be oversized. The excess noise comes from too much air being forced through the vents.
+
+What to Do About an Oversized HVAC Unit
+---------------------------------------
+
+The most effective way to deal with an oversized furnace or air conditioner is to replace it with a more appropriately sized system. However, that's a very costly option, especially if your current equipment is newer and works fine otherwise.
+
+You might be able to deal with some of the effects in other ways. To control the humidity, consider installing a whole-house dehumidifier or using smaller freestanding units. This can help reduce mold growth and make the air feel more comfortable, but it won't stop the wear on the unit.
+
+Another possible solution is giving the equipment a larger air to cool. You can do this by having more ductwork added to areas that aren't currently cooled, like your garage or a home addition. With more cooling area, the equipment might be a more appropriate size.
+
+What Size Air Conditioner or Furnace Do You Need?
+-------------------------------------------------
+
+Choosing the correct size of air conditioner or furnace isn't simple. It's something that an HVAC professional should do. While the size of your home is an important factor, there are other details that play into the sizing, including:
+
+*   Ductwork condition
+*   Insulation and construction materials
+*   Climate
+*   Number of windows and doors
+*   Anything that generates heat, such as direct sun exposure, heat-generating appliances and fireplaces
+*   Number of people in the home
+*   Ceiling height
+
+Reliable HVAC companies visit your home to evaluate all the factors. They calculate the correct size of equipment based on those details. Researching local HVAC contractors can help you choose a reputable one to avoid another oversized unit.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

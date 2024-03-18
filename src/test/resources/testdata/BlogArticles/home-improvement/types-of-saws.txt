@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Different Types of Saws"
+headline: "8 Different Types of Saws and How to Use Them"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-01-09
+basePath: https://library.homeserve.com/m/
+heroImage: 2a088b6f54ad742a/original/MiterSaw_Erossi_0685.gif
+heroAltDescription: "a powered miter saw lowers on a piece of alder wood at a 90 degree angle."
+metaDescriptions: "Need a saw, but don’t know where to start? Here’s our list of some of the most common saws and how they work."
+articleAbstract: "Looking to fill out your saw collection, but don’t know where to start? Here’s our list of some of the most common saws and how they work."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Are the Different Types of Saws and What Are They Used For?"
+  parent: Appliances
+---
+  Becoming a homeowner opens you up to all sorts of new knowledge and experiences. Sometimes it’s what you might least expect. For example, things like water drainage mitigation and gutter maintenance take up _way_ more of your time than you’d ever possibly imagine.
+
+**This May Also Interest You:** [**10 Tools You Probably Don’t Have (But Definitely Should)**](https://www.homeserve.com/en-us/blog/buying-guide/tools-everyone-needs/)
+
+But, being a homeowner also gives you opportunities to test your DIY skills (or lack thereof). If you’re a homeowner who likes to get down and dirty with those house projects — like building or repairing a deck, taking care of your own landscaping or even “finishing” projects like putting up board and batten in a living room — it can be incredibly useful to have a working knowledge of certain tools.
+
+Along with a hammer, a screwdriver and a drill, a saw is one of the most important tools to have in your home. Saws come in a wide variety of styles, all designed for different purposes.
+
+Looking to fill out your saw collection, but don’t know where to start? Here’s our list of some of the most common saws and how they work.
+
+Types of Hand Saws
+------------------
+
+Generally speaking, hand saws are saws that are operated manually rather than being electric or gas-powered. Hand saws run the gamut from smaller, specific task-oriented saws to larger, multipurpose ones. While they don’t offer as much force as a powered saw, they sometimes are preferred because of their inherent portability and versatility.
+
+### Crosscut Saw
+
+The iconic crosscut saw is perhaps the most common type of saw found in workshops across America. While there are several styles of crosscut saws, the most common is a large-toothed saw with a handle on one end that’s used to cut across the grain of a piece of wood. This simple, no-frills design dates back literally thousands of years and still remains an essential saw for cutting lumber, executing basic carpentry, cutting a tree limb or any other woodcutting need. If you own only one saw, make sure it’s a crosscut saw.
+
+### Hack Saw
+
+Another popular type of hand saw is the so-called hack saw. Equipped with a thin, fine-toothed blade, the hack saw is designed for cutting metal or plastic pipes, rods or brackets. The hack saw has a sturdy, U-shaped frame with a pistol grip handle that uses tension to hold the blade in place. They typically measure either 10 or 12 inches (although 6-inch hack saws are also available). While it's true that powered reciprocating saws can cut through pipes quicker than hack saws, the hand-powered versions still remain preferable for precise cuts.
+
+### Coping Saw
+
+Like the hack saw, the coping saw uses tension to secure its blade and is best suited for precision work. Coping saws are small, typically measuring about 6 inches, and consist of a hard, yet flexible thin steel blade that’s used to create intricate shapes in woodworking. Lightweight and maneuverable, coping saws are best suited for coped joint moldings, but can also be used for the precise cuts involved in fretwork in a pinch.
+
+### Bow Saw
+
+A bow saw is a common outdoor-use hand saw primarily meant for cutting through logs and trimming trees. Similar in appearance to the crosscut saw, a bow saw has a long blade with sharp teeth that remove wood chips and other debris as you saw through material. While a crosscut saw has a thick blade, bow saw blades are long and narrow, which helps them cut through larger pieces of wood. A bow saw requires considerable more effort than a chainsaw, but can be preferred for its ease of use for smaller projects.
+
+**More Related Articles:**
+
+*   [4 Superfluous Tools You Can Do Without](https://www.homeserve.com/en-us/blog/buying-guide/useless-tools/)
+*   [Where Can You Rent Tools? And How Much Does It Cost?](https://www.homeserve.com/en-us/blog/cost-guide/rent-tools/)
+*   [What Are the Different Types of Screwdrivers and Their Uses?](https://www.homeserve.com/en-us/blog/home-improvement/types-of-screwdrivers/)
+*   [What Is Screwdriver ‘Cam Out’ and How Can I Avoid It?](https://www.homeserve.com/en-us/blog/home-improvement/screwdriver-cam-out-explained/)
+*   [Splash Course: How to Use a Power Washer](https://www.homeserve.com/en-us/blog/how-to/use-power-washer/)
+
+Types of Power Saws
+-------------------
+
+In contrast to hand saws, power saws are any saws that are powered either by electric or gas motors. They can be portable or stationary. They’re often more efficient than hand saws. While you may be able to saw more quickly with a power saw, they are more expensive and might not always be as precise as a hand saw. That said, power saws are essential for those larger, unwieldy projects and can save you massive amounts of time and effort.
+
+### Circular Saw
+
+Other than the power drill, the circular saw is the most popular power tool. This popularity is in no doubt due to the sheer efficiency and versatility of the circular saw. Aptly named due to the shape of its blade, the circular saw is powered by electricity and can cut through various sizes of lumber with ease. They’re also lightweight and portable, unlike table saws, their larger and more cumbersome cousins. Another benefit: You can equip them with different types of blades to cut through almost anything — wood, metal, stone or tile.
+
+### Jigsaw
+
+The jigsaw is another popular, versatile handheld power saw. Used for making both straight and curved cuts, a jigsaw has a small, very firm blade that is designed for precision cuts. They’re great for cutting patterns in thinner materials like plywood or particleboard, but can also be used to cut through metal, tile and ceramics, provided you use the correct blade. In all honesty, any woodworker’s shop would be incomplete without a jigsaw.
+
+### Miter Saw
+
+Like a circular saw, miter saws use a round blade that is pushed downward to cut the material. That said, miter saws are largely stationary saws that are specifically designed for making so-called miter joints — joints connected seamlessly at an angle. While not the most versatile type of powered saw out there, the miter saw performs its specific job excellently.
+
+A compound miter saw, on the other hand, uses a radial arm instead of a lever like a traditional miter saw. This allows for greater precision and a variety of cuts, including miter, straight and compound cuts. Think of it as a miter saw on steroids.
+
+### Chainsaw
+
+Typically gasoline-powered, chain saws are one of the most widely used power saws for outdoor use. Extremely portable and a true workhorse, the chainsaw is for cutting through larger logs, felling trees and pruning large branches. A chainsaw consists of a thin metal frame that supports a roller chain carrying sharp saw teeth at intervals along its length. When the motor is cranked, the chain rotates at high speeds. If your home is situated in a wooded area, owning a chainsaw might be a wise decision as it can help you clear fallen trees quickly and easily. While they can be unwieldy at times due to their heavy vibration, they’re available in a variety of sizes, so you should be able to find one that best suits your needs.

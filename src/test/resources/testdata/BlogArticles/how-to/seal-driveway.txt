@@ -1,0 +1,149 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Seal a Driveway"
+headline: "How to Seal Your Driveway"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2022-01-30
+basePath: https://library.homeserve.com/m/
+heroImage: 11210874acd96982/Blog-GettyImages-488569298.jpg
+heroAltDescription: "Broom being used to seal blacktop Asphalt Driveway"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Preserve your driveway’s structure and appearance by learning how to seal your driveway."
+articleAbstract: "Cracks and potholes aren’t only unsightly, but can lead to expensive structural damage over time. To avoid this fate (and beautify your driveway in the process)  learn how to seal your driveway in seven simple steps. "
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Seal Your Driveway"
+  parent: Exterior-Home-How-To
+---
+  
+
+**Sealing a Driveway at a Glance:**
+
+* **Step 1:** Check weather
+* **Step 2:** Clean driveway
+* **Step 3:** Fill cracks
+* **Step 4:** Apply oil spot primer
+* **Step 5:** Mix sealer
+* **Step 6:** Cut in edges
+* **Step 7:** Apply sealer
+
+Your driveway takes a beating. Between exposure to the elements and bearing the weight of vehicles, driveways inevitably develop structural and cosmetic defects like cracks and potholes over time. To repair these problems and prevent them from reoccurring in the future, you can apply a sealer (or “sealcoat”) over your driveway.
+
+**This May Also Interest You:** [**How Much Does Driveway Sealing Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/driveway-sealing/)
+
+Not only do driveway sealers protect and preserve your driveway’s structural integrity, but they can also significantly improve its appearance. Read on to learn how to seal your driveway — whether it’s concrete or asphalt — in seven steps.
+
+What Are the Different Types of Driveway Sealers?
+-------------------------------------------------
+
+There are several types of driveway sealers to choose from, but the main consideration is the type of driveway you have.
+
+If you have an asphalt driveway, your options include asphalt-based and filler sealer. If you have a concrete driveway, you can either use a penetrating sealer or a cure-and-seal product.
+
+### Asphalt-Based
+
+<img class="detail-image" src="https://library.homeserve.com/m/7cf72c9526cb99b8/Blog-GettyImages-488569316.jpg" alt="Asphalt Driveway sealing blacktop paving"/>
+
+These are mostly composed of the same asphalt your driveway is made of. They form a hard protective layer over the driveway’s surface. Asphalt-based sealers typically last the longest, but they’re often the most expensive.
+
+### Filler Sealer
+
+Filler sealers are designed to simultaneously seal your driveway and fill cracks over 1/8 inch wide. They mostly consist of an asphalt base but have certain additives (like sand) that are used to fill small recessions. Although their ability to fill cracks is convenient, filler sealers don’t usually last as long as strictly asphalt-based sealers.
+
+### Penetrating
+
+Penetrating concrete sealers soak into your driveway’s porous concrete to provide a protective layer against water, UV rays, oil and chemicals. They can either be water- or solvent-based, with each offering different levels of protection and coverage.
+
+### Cure-and-Seal
+
+Cure-and-seal products are primarily for freshly-poured concrete driveways. They promote proper curing of the concrete while adding a protective layer to the surface. They are not, however, designed for existing driveways, making them less common than penetrating sealers.
+
+Regardless of the type of sealer you use, it’s important to accurately measure your driveway to determine the amount of sealer you’ll need. Different types of sealers have different coverage rates, so it’s important to cross-reference your driveway’s dimensions with the rated coverage of the sealer you’re considering.
+
+How to Seal Your Driveway
+-------------------------
+
+### Tools & Materials
+
+*   Driveway sealer
+*   Driveway crack filler
+*   Caulking gun
+*   Driveway repair mix
+*   Steel tamper (optional)
+*   Driveway cleaner
+*   Oil spot primer (optional)
+*   Garden hose or power washer
+*   Pressure washer soap or garden hose applicator attachment
+*   Stiff-bristle push broom
+*   Blower (optional)
+*   Electric drill
+*   Grout mixing paddle
+*   Hole saw (optional)
+*   Surface protection (optional)
+*   2-inch by 4-inch disposable paint brushes
+*   Hand trowel or putty knife (optional)
+*   Work gloves
+*   Lawn edger or string trimmer
+*   Floor squeegee
+
+### Step 1: Check the Weather
+
+Driveway sealant takes 24 to 48 hours to dry, and requires dry conditions and overnight temperatures above 50 degrees F to properly cure. Consequently, avoid scheduling this project when there’s cold weather or rain in the forecast.
+
+### Step 2: Clean Your Driveway
+
+Driveway sealers need a clean surface to properly adhere to, so thoroughly cleaning your driveway is one of the most important steps for a successful outcome.
+
+Start by clearing away any vegetation on and around your driveway. This includes weeds or grass growing out of any cracks and potholes on your driveway, along with grass and shrubs overhanging the outside edges of your driveway.
+
+Vegetation growing out of cracks and potholes can often be removed by pulling them by hand, digging them out with a hand trowel or knocking them down with a string trimmer. Grass that’s growing over the edges can be trimmed back using a lawn edger or string trimmer. Once all the vegetation has been cleared away, use a blower or push broom to remove clippings and debris from the driveway’s surface.
+
+Next, wash your driveway with a driveway cleaner. Place the solution into a soap nozzle on a power washer or into a garden hose applicator attachment, and spray the solution over your whole driveway. Remove the soap nozzle or applicator attachment once you’re done. Scrub the solution into the driveway with a stiff-bristle push broom, then use the garden hose or power washer to rinse off the driveway with clean water.
+
+Allow your driveway to dry completely before proceeding to the next step.
+
+**More Related Articles:**
+
+*   [Do I Need to Seal My Concrete For Winter? Probably. Here’s How](https://www.homeserve.com/en-us/blog/how-to/seal-concrete/)
+*   [How to Resurface Your Asphalt or Blacktop Driveway](https://www.homeserve.com/en-us/blog/how-to/resurface-asphalt-driveway/)
+*   [Weeds, Whacked! 5 to Kill Weeds in your Driveway or Sidewalk](https://www.homeserve.com/en-us/blog/how-to/kill-weeds/)
+*   [How Much Does a Heated Driveway Cost?](https://www.homeserve.com/en-us/blog/cost-guide/heated-driveway/)
+*   [Dreaming of a Heated Driveway? Here’s What You Need to Know Before Installing One](https://www.homeserve.com/en-us/blog/home-improvement/heated-driveway/)
+
+### Step 3: Fill Cracks and Holes
+
+While a driveway sealer may be able to fill cracks under 1/8 inch wide (especially filler sealer products), larger cracks and holes need to be filled with a separate driveway crack filler.
+
+For cracks between 1/8 and 1/2 inches wide, install a driveway crack filler into a caulking gun and apply the filler into the cracks. Some crack fillers are self-leveling, while others will need to be manually leveled — with a putty knife or hand trowel — until they’re flush with the surrounding surface.
+
+For larger cracks and potholes, fill them with a driveway repair mix. Apply the mixture into the area you’re filling, and use a straight board or hand trowel to level it out until it’s flush with the driveway’s surface. Depending on the mixture, it might need to be slightly compacted (with your foot or a steel tamper) or subjected to heat (with a blow torch) for it to properly cure.
+
+### Step 4: Apply Oil Spot Primer (Optional)
+
+Even after scrubbing your driveway down with a driveway cleaner, there may still be some lingering oil stains that can inhibit the sealer’s bond to the driveway’s surface. When that’s the case, an oil spot remover should be applied to the affected area to promote effective adhesion. Simply apply the primer to the stained area with a disposable paintbrush, and allow it to dry for the period of time recommended by the manufacturer.
+
+### Step 5: Mix the Sealer
+
+Remove the lid from the bucket of driveway sealer, and insert a grout mixing paddle attached to an electric drill into the bucket. Thoroughly mix the sealer until it achieves a smooth consistency and even color.
+
+To avoid splashes and spills during the mixing process, you can use a hole saw to cut a hole in the center of the lid for inserting the paddle into. By making a hole just large enough for the shaft of the paddle to fit through, any splashes will be deflected by the lid instead of escaping out of the top.
+
+Alternatively, you can place the bucket on top of some form of surface protection (like a tarp, drop cloth, cardboard, etc.) to absorb splashes while mixing the sealer.
+
+### Step 6: Cut In Edges (Optional)
+
+Dip a 4-inch wide, disposable paintbrush into the bucket of sealer, and apply sealant around all four edges of your driveway. Although this step isn’t required, cutting in the edges this way often produces a nicer finish. It also ensures that the edges are thoroughly covered with sealer.
+
+### Step 7: Apply the Sealer
+
+Beginning at one corner of your driveway, pour out enough sealant to cover a 5- to 10-foot section in a U-shaped pattern. Depending on what the manufacturer specifies, either use a stiff-bristled push broom or floor squeegee to push and pull the sealer until you have a nice, even coat. Repeat these steps on the remainder of your driveway until you’ve achieved an even coat of sealer throughout. Allow this coat to fully dry based on the manufacturer’s recommended cure time — often 12 to 24 hours.
+
+Once the first coat is dry, repeat the above steps to apply a second coat if required.
+
+### How Long Do You Need to Stay Off the Driveway After Sealing It?
+
+As a general rule, you can usually walk on your driveway after about 12 hours and drive on it after 24 hours of applying the sealer. However, it’s often recommended to double those figures to ensure it’s fully cured. Temperature can also affect dry times, so it’s best to wait an additional 24 hours in colder weather.
+
+In any case, refer to the manufacturer's specific instructions regarding the length of time you should stay off your driveway.

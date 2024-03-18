@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Seal a Window AC Gap"
+headline: "How to Seal a Window AC Gap"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-06-21
+basePath: https://library.homeserve.com/m/
+heroImage: 485f4f072a4b74a8/Blog-LGWindowACUnit_AWiesen_011.jpg
+heroAltDescription: "A window unit air conditioner is positioned in a window."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Air getting in from around your window AC unit? These solutions will keep pests and moisture out while making cooling season as energy efficient as possible."
+articleAbstract: "Air getting in from around your window AC unit? These solutions will keep pests and moisture out while making cooling season as energy efficient as possible."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Seal a Window AC Gap"
+  parent: HVAC-How-To
+---
+  When the summer months hit and those outdoor temperatures start rising, that means it’s time to crank up the AC. And while most people have a central air condition system installed in their home, having it blast away at full capacity isn’t always the most affordable or energy-efficient option, especially if you don’t need to keep your entire house cool. That’s where window air conditioners come in. Not only can they help lower those skyrocketing cooling costs, but they are also a lot more energy efficient than central AC systems, especially if you install a newer model.
+
+**This May Also Interest You:** [**The Do’s and Don’ts of Caulking Windows**](https://www.homeserve.com/en-us/blog/how-to/caulk-your-windows/)
+
+That said, window air conditioning units need to be installed properly in order for you to truly reap the benefits of their energy efficiency. While they’re generally known for their quick and easy installations — just open your window enough to fit the unit and attach it to the frame —doing so haphazardly can lead to air leaks around the perimeter of the unit, not only decreasing energy efficiency, but allowing pests and moisture to enter your house as well.
+
+To prevent these air leaks from occurring in the first place, it’s important to follow the manufacturer's installation instructions completely, including any insulation methods that might be included. However, even if you’ve completed a thorough and proper installation, air gaps might still be present in your window. In that scenario, how do you make sure you’re properly sealing those leaks? Luckily, there are several solutions that are reliable, long-lasting solutions that will help keep those energy bills low while keeping moisture and pests out to boot!
+
+Locating Air Leaks
+------------------
+
+It’s important to note that, when it comes to window air conditioning air leaks, they’re not always visible. In many cases, air could be filtering into your home without you even realizing it. To test for invisible air leaks, use the candle method. Power the air conditioner off and hold a lit candle near it. Move the candle around the perimeter of the air conditioner and then around the side panels of the window. If the candle flickers, there’s an air leak.
+
+Regardless of the size of the air leak, it’s important to do what you can to create a tight seal around your window ac unit to prevent air loss. Looking for some ways to prevent air loss around your window unit? Here are some effective solutions.
+
+Sealing Your Window AC Unit Gap
+-------------------------------
+
+### Weatherstripping
+
+If you’ve recently installed your window air conditioning unit, there’s a good chance that it came with a piece of flexible insulating material called weatherstripping. Weatherstripping is an excellent window-gap filler solution for leaks of any size. If it wasn’t included, you can purchase weatherstripping from any home improvement store, but know upfront that there are several different types of weatherstripping material available. The best kind for this project is the peel-and-stick foam insulation variety. Feel free to layer the material until the gap is completely sealed if one layer doesn’t adequately cover the gap.
+
+### Caulking
+
+While weatherstripping and foam insulation create an insulating seal that will help block out drafts, pests and other undesirable elements, it’s a best practice to use it in conjunction with another insulation method. Caulking is a great accompaniment to weatherstripping as it can help prevent excess moisture from filtering into your home. Where you’ll use weatherstripping to seal to the interior of your window, apply caulk to the exterior. Make sure, however, that you purchase a caulk that’s approved for exterior use, so that it creates a strong seal that can stand up against the harsh elements of the outdoors. Apply a continuous bead of caulk around the edges of the unit to create a complete seal. Then, use a damp rag or your finger to smooth the caulk out, making sure you have a tight seal.
+
+**More Related Articles:**
+
+*   [Make Sure Your Window Wells Are Well Maintained With This Checklist](https://www.homeserve.com/en-us/blog/home-improvement/window-well-maintenance/)
+*   [How Much Do Different Types of Window Treatments Cost?](https://www.homeserve.com/en-us/blog/cost-guide/window-treatments/)
+*   [How to Hang Curtains and Curtain Rods](https://www.homeserve.com/en-us/blog/how-to/hang-curtain-rods/)
+*   [How to Clean Windows to Get That Streak-Free Shine](https://www.homeserve.com/en-us/blog/how-to/clean-windows/)
+*   [How to Install Window Blinds: Your DIY Guide](https://www.homeserve.com/en-us/blog/how-to/blinds-installation/)
+
+### Window Insulation Kit
+
+Another way to ensure that your window unit is airtight is to purchase a window insulation kit. Available from any home improvement store like Lowes or Home Depot, these kits typically consist of a plastic film that can be applied to the entire window to add an additional seal that will fill in any gaps. It's not very practical for the lower portion of the window that holds your air conditioner in place, but if you notice a leak from the upper sash, it could be a good fix.
+
+The window plastic is easy to install, as well. Cut the plastic to fit the size of a known air gap. Sometimes this material has an adhesive backing that will keep the plastic against the window, while other brands might require the use of double-sided tape to adhere it across the windowpane. Once the material has adhered to the window, use a hair dryer to blow warm air across the plastic material to shrink-wrap the plastic film against the window, creating a nice seal.
+
+### Preventing Leaks
+
+Installing a window AC unit is a great way to keep small spaces cool without breaking the bank by using excess electricity. That said, it’s important to make sure any and all window gaps are properly sealed and filled in order to maintain that energy efficiency. While it might take some trial and error, using the solutions outlined above should effectively seal gaps of any size, allowing you to enjoy your AC without losing energy efficiency in the process.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Insulate Windows | Cheap and Easy with Plastic Film"></iframe>

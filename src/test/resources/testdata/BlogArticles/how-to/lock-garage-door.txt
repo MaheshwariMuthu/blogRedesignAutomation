@@ -1,0 +1,113 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Can You Lock Your Garage Door?"
+headline: "Can You Lock Your Garage Door?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-08-06
+basePath: https://library.homeserve.com/m/
+heroImage: 20f9d4ad4922cb84/Blog-GettyImages-1022207778.jpg
+heroAltDescription: "A pair of human hands open a white garage door manually from the inside"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Did you know you can lock your garage door? Here's what to know about measures you can take to secure your garage."
+articleAbstract: "Did you know you can lock your garage door? Here's what to know about measures you can take to secure your garage."
+category: ["How To"]
+eleventyNavigation:
+  key: "Can You Lock Your Garage Door?"
+  parent: Exterior-Home-How-To
+---
+  Most garage doors do come with a built-in lock, but it is not always the most secure option. The built-in lock is typically a spring-loaded tab latch that engages when the door is closed. It is designed to keep the door from opening accidentally, but it is not very difficult to defeat.
+
+**This May Also Interest You:** [**Locked Out? How Much Does a Locksmith Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/locksmith-services/)
+
+A determined burglar could easily pry the latch open with a crowbar or other tool. Here are some basics about how to lock your garage door, along with options for improving its security.
+
+The Basics
+----------
+
+Aside from the tab lock, which is manually engaged with a simple turn from the inside of the garage, most modern garage doors come with a centrally located T-handle lock, which requires a key to engage and disengage the lock. When locked, it prevents the garage door from being opened manually or automatically.
+
+In addition to the T-handle lock, many garage doors also feature a built-in slide bolt lock. This lock secures the door by engaging a metal rod into the track, preventing the door from being lifted. These locks are typically operated manually, often using a latch or handle.
+
+How Do You Use Your Garage Door Lock?
+-------------------------------------
+
+Locking a garage door depends on the type of locking mechanism present. For garage doors equipped with a T-handle lock, follow these steps:
+
+**Step 1:** Close the garage door completely.
+
+**Step 2:** Insert the key into the T-handle lock.
+
+**Step 3:** Turn the key clockwise to engage the lock.
+
+**Step 4:** Remove the key, ensuring the lock remains engaged.
+
+For garage doors with a slide bolt lock, follow these steps:
+
+**Step 1:** Close the garage door fully.
+
+**Step 2:** Locate the slide bolt lock mechanism on the inside of the door.
+
+**Step 3:** Push the metal rod of the lock into the track until it engages.
+
+**Step 4:** Test the lock's effectiveness by attempting to lift the door slightly. It should remain secure.
+
+Remember, it's essential to keep the keys to your garage door locks in a safe place and avoid leaving them unattended or easily accessible.
+
+Assessing Your Garage Door and Security Needs
+---------------------------------------------
+
+Before choosing a garage door lock, it is crucial to assess your garage door type, construction and security requirements. Consider the following factors:
+
+### Door Material
+
+Determine if your garage door is made of wood, metal, or another material, as this may affect the type of lock suitable for installation.
+
+### Existing Locking Mechanism
+
+Check if your garage door already has a built-in lock, such as a
+
+T-handle lock or a slide bolt lock. Assess its effectiveness and determine if additional security measures are necessary.
+
+### Desired Level of Security
+
+Evaluate the level of security you desire for your garage. Consider factors like the value of the items stored inside, the location of your property and the prevalence of break-ins in your area.
+
+**More Related Articles:**
+
+*   [Here’s How Much It Costs to Install or Replace a Deadbolt](https://www.homeserve.com/en-us/blog/cost-guide/deadbolt-installation/)
+*   [How to Install a Deadbolt: Get Your Home Security on Lock in 6 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/install-deadbolt/)
+*   [What Does This Button Do? How to Use the Toggle Switch on a Mortise Lock Door](https://www.homeserve.com/en-us/blog/home-improvement/use-mortise-lock-door-toggle-button/)
+*   [How to Remove a Doorknob: A Quick Guide](https://www.homeserve.com/en-us/blog/how-to/remove-doorknob/)
+*   [Take a Ring Off It: How to Remove a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/remove-ring-doorbell/)
+
+Beefing Up Security
+-------------------
+
+While the basics might be fine for keeping your garage safe from easy access, additional security locks can be installed to enhance the protection of your garage contents. There are various types of garage door locks available in the market, each with its own advantages. Here are four common options to consider:
+
+### T-Handle Locks
+
+These locks are centrally located on the garage door and require a key to engage and disengage. They are relatively simple to install and provide a basic level of security.
+
+### Slide Bolt Locks
+
+Installed on the inside of the garage door, slide bolt locks secure the door by engaging a metal rod into the track, preventing it from being lifted. These locks offer enhanced security and are typically operated manually.
+
+### Deadbolt Locks
+
+Deadbolt locks are surface-mounted and provide a higher level of security. They require a key or code to lock and unlock and are commonly used in conjunction with existing locks.
+
+### Electronic Locks
+
+Battery-operated or hardwired keypad locks are gaining popularity and offer convenience and enhanced security. They allow you to set a unique access code, eliminating the need for physical keys. Some models also feature smartphone integration and remote access control.
+
+Before installing additional security locks, consider consulting a professional locksmith or garage door expert to ensure compatibility with your door type and mechanism.
+
+Additional Security Measures
+----------------------------
+
+While installing a garage door lock significantly enhances security, you can further reinforce the protection of your garage by implementing additional measures. Consider installing security cameras, motion sensor lights, or an alarm system to deter potential intruders. Reinforcing the garage door itself with a solid-core or metal door can also provide an added layer of security.
+
+Your garage door can offer an entry point to the rest of your home, and some homeowners neglect to secure it. Hopefully, this guide has given you all you need to keep your garage and its contents locked down tight and to improve security if needed.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/WxLCpLN-OwA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Manually Open a Garage Door"></iframe>

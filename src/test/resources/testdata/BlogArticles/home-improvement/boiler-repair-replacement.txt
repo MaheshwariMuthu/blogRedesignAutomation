@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Signs Your Boiler Needs to Be Repaired or Replaced"
+headline: "4 Signs Your Boiler Needs to be Repaired or Replaced"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-11-06
+basePath: https://library.homeserve.com/m/
+heroImage: 63162ad04eebc9cb/Blog-OilHeater_MDavis_IMG_0763.jpg
+heroAltDescription: "A modern residential boiler system in a historic East coast home"
+metaDescriptions: "Your boiler is a critical household appliance. Here's how to monitor it and keep it in good, safe, working order."
+articleAbstract: "Your boiler is a critical household appliance. You should inspect it at least once a year. Here's how to monitor it and keep it in good, safe, working order."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Signs Your Boiler Nees to be Repaired or Replaced"
+  parent: HVAC-Home-Improvement
+---
+  To put it mildly, your boiler is one of the most important household appliances you have. It’s responsible for keeping your family nice and warm during those cold fall and winter months. That’s why it’s essential to keep an eye on your boiler system throughout the year and to correct any issues that may arise.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install or Replace a Boiler?**](https://www.homeserve.com/en-us/blog/cost-guide/boiler-replacement/)
+
+As you inspect your boiler — which you should do at least once a year — keep an eye out for some of these common problems, which might indicate it’s time for a repair or replacement.
+
+1\. Your Boiler Is Too Old
+--------------------------
+
+Simply put, if your boiler is over 15 years old, you’ll probably need to replace it sooner rather than later. Like any other major household appliance, a boiler experiences a lot of wear and tear. To be clear, your boiler gets a lot of use, and you’d be wise to preemptively replace your unit before a major malfunction leaves you without heat when you most need it. Even if your boiler hasn’t failed yet, older boilers will decline in performance and efficiency, and they can even be dangerous. Aside from age, there are some other more noticeable signs that point to your boiler being too old.
+
+Corrosion is one of the most apparent signs of an aging boiler. In order for corrosion to occur, the metal and water must come into contact with oxygen — this signals that there’s a leak somewhere in the boiler feed and there’s air in the system. And while most boilers are designed to resist corrosion for many years, it’s still inevitable that corrosion will occur at some point along the line.
+
+2\. Your Boiler Is Making Strange Noises
+----------------------------------------
+
+As a general rule, boilers should be quiet. If you’re hearing a noise emanating from anywhere in your boiler system, there’s probably an issue somewhere. For example, a loud humming or buzzing noise could indicate an issue with the boiler’s circulator pump. The pump operates with a spring-loaded coupling, and when that breaks — after, say, the pump jams — the coupling will make a noise. If a faulty circulator pump might be the issue, call a technician to come repair or replace it as soon as possible.
+
+Another boiler noise you might hear that points to a larger problem is a banging or knocking sound. This sound could possibly indicate that there’s water trapped in your system’s return lines. Water is heated in your boiler and then distributed to a radiator to heat your home; when the water cools off, it heads back down to the boiler. If the return lines aren’t sloped back down enough towards the boiler, water can get trapped inside the lines. If you feel up to it, you can make some adjustments yourself. Adjust the pitch of your radiator with a shim, or you can use coat hangers to adjust the slope of your return pipes.
+
+3\. Your Boiler Is Using More Energy
+------------------------------------
+
+Aside from readily noticeable signs like corrosion or loud noises, there are other less apparent signals that your boiler might need repair or replacement sooner rather than later. For example, when your boiler experiences a decrease in energy efficiency, it typically points to major problems that need addressing.
+
+There are several reasons why a boiler might start becoming less and less efficient. In some cases, dirty water could be clogging up some of the internal components of the boiler system. Boiler sludge forms when the dirty water changes into steam, leaving behind a deposit on the boiler tubes and other elements of the system that affects the overall performance of the heating system.
+
+In other cases, a broken thermostat that doesn’t shut off at the programmed thermostat setting can lead to increased energy consumption. Additionally, a malfunctioning zone valve could keep the boiler running when it’s not supposed to, which could also be a cause of increased energy consumption.
+
+**More Related Articles:**
+
+*   [How Does a Pellet Stove Work?](https://www.homeserve.com/en-us/blog/home-improvement/pellet-stove/)
+*   [Add Fuel to the Fire: Calculating the Cost to Run a Wood- or Pellet-Burning Stove](https://www.homeserve.com/en-us/blog/cost-guide/run-wood-stove-pellet-stove/)
+*   [How Much Does Heating Oil Cost?](https://www.homeserve.com/en-us/blog/cost-guide/home-heating-oil/)
+*   [Why Am I Using So Much Heating Oil? Here’s How to Reduce Your Consumption](https://www.homeserve.com/en-us/blog/how-to/reduce-heating-oil/)
+*   [How Does Heating Your Home With Oil Work — and Who’s Still Using It?](https://www.homeserve.com/en-us/blog/home-improvement/home-heating-oil/)
+
+4\. Your Boiler Is Leaking Water
+--------------------------------
+
+Leaking water around your boiler is another tell-tale sign that you’ve got boiler problems. While it’s a pretty common issue, a leaky boiler means that there’s a part somewhere that’s not working properly. It could be caused by corrosion, a faulty water pipe connector, or a damaged pump or valve.
+
+A boiler’s standard pressure should be somewhere between 18 and 21 psi. If your boiler is operating higher than 21 psi, it could be leaking as a safety mechanism to prevent an explosion. However, sometimes sediment can accumulate inside the boiler preventing the pressure valve from closing completely. To check to see if you have sediment buildup in the pressure valve of your system, turn off your boiler and let it cool down. Then, open the pressure valve and let the water exit into a bucket or bowl. Inspect the water that comes out of the valve. Is it clear? If not, then you probably have sediment buildup inside the tank.
+
+Another main cause of leaking boilers is overheating, which causes damage to pipe connections. When the water temperature becomes too high, the water pressure throughout the system increases, causing broken connections and valves.
+
+In any event, a leaking boiler should be addressed immediately. It might need just a simple repair, or it might point to a larger issue that warrants a complete boiler replacement.
+
+Stay Ahead of the Game
+----------------------
+
+Whether you have an electric or gas boiler, it’s always crucial to perform proper maintenance on it year-round. Doing so will allow you to roll carefree into the cold season, saving you enough time and energy to focus more on mastering that perfect cup of hot chocolate.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,79 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Use a Dishwasher"
+headline: "Don't Get Lost in the Wash: How to Use Your Dishwasher Efficiently"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-04-06
+basePath: https://library.homeserve.com/m/
+heroImage: 7277aa9984c4fb9/Blog-Dishwasher_MSchmitz_0002.jpg
+heroAltDescription: "setting the dishwasher"
+metaDescriptions: "Do you really know how to use a dishwasher to get the most out of a wash? Try these tips for using your dishwasher efficiently."
+articleAbstract: "Here's how to use your dishwasher — from the prerinse, to the drying cycle. Learn how to prevent food grit and streaks on glass and save energy at the same time."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Use a Dishwasher"
+  parent: Appliances-How-To
+---
+  **Using Your Dishwasher at a Glance**
+
+* **Step 1:** Remove large food bits
+* **Step 2:** Load top rack
+* **Step 3:** Load bottom rack
+* **Step 4:** Run wash and dry cycle
+
+Automatic dishwashers were a great step forward when they were invented in the late 1800s. They’ve been around long enough that many of us grew up with a dishwasher in the house, and we probably use one nearly every day. However, not everyone knows how to use a dishwasher efficiently.
+
+**This May Also Interest You:** [**Common Dishwasher Problems and How to Fix Them**](https://www.homeserve.com/en-us/blog/home-improvement/common-dishwasher-problems/)
+
+Using your dishwasher efficiently saves energy, water and dishwasher detergent. Running the dishwasher well also gets rid of bits of food and can prevent water spots, streaks and unpleasant residue. Using a dishwasher can be broken down into three broad categories: clearing dishes off, loading the dishwasher and drying the dishes. Here’s a walkthrough of each one.
+
+Prepping the Dishes
+-------------------
+
+Before you load the dishwasher, it can be helpful to give the dirty dishes a cursory rinse in the sink, or at least scrape off larger food bits into the trash or garbage disposal. This suggestion is not to be confused with the controversial (and largely debunked) “pre-rinse,” where you meticulously scrub every last bit of mess off the dishes before loading them in the dishwasher. Most, if not all, contemporary dishwashers are designed to handle even the crustiest ketchup splotches — and thoroughly rinsing dishes may even be an _impediment_ to dishwasher performance. But a halfhearted rinsing or scraping off of larger food particles can prevent clogging without wasting too much time or water.
+
+Loading the Dishwasher
+----------------------
+
+You can usually load dishes and glasses into the dishwasher as you clear them off, but you should pay attention to how you load the dishwasher while you work.
+
+Always load the dishwasher in such a way as to allow hot, soapy water to reach the whole surface of every item. If you load a dish in a position that blocks the dishwasher’s spray arm, an entire section behind that dish might not get properly cleaned.
+
+### Load the Top Rack
+
+The top rack of your dishwasher is a good place to put glasses, cups, long utensils and other items that might get knocked around on the lower rack. This is also where you want to put plastic containers and anything else marked “top rack only.” Some dishwashers even have a basket on the top rack where you can put the nozzles and other components of bottles and travel cups when you disassemble them. Remember that water pressure is typically lower in this part of the dishwasher, so try to use it just for gently used items that don’t need a solid jet of water to clean them.
+
+**More Related Articles:**
+
+*   [Settle the Debate: How to Load a Dishwasher the Right Way](https://www.homeserve.com/en-us/blog/how-to/load-dishwasher/)
+*   [How to Unclog a Dishwasher](https://www.homeserve.com/en-us/blog/how-to/unclog-dishwasher/)
+*   [Should You Repair or Replace a Dishwasher?](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-repair-replacement/)
+*   [You Won’t Believe How Much Water Dishwashers Use](https://www.homeserve.com/en-us/blog/buying-guide/dishwasher-water-use/)
+*   [How to Clean a Dishwasher](https://www.homeserve.com/en-us/blog/how-to/clean-dishwasher/)
+
+### Load the Bottom Rack
+
+Dishes on the bottom rack are closer to the spray arm and tend to get higher pressure from the water jets. They also get the runoff from dishes on the top rack. This makes the bottom rack ideal for plates and pans. Put your silverware in the basket to keep it from falling through the racks.
+
+After you finish loading, you can put the dishwashing detergent (_not_ dish soap) in the loading cups. These are generally located on the inside of the door.
+
+### Things to Remember as You Load
+
+As you load the dishwasher, try to keep a few general rules in mind:
+
+*   Heavy items go on the lowest rack possible.
+*   Leave space between fragile glassware since the water might knock them around.
+*   Don’t crowd utensils together too closely in the basket. The water might not be able to reach everywhere.
+*   Line plates up in rows to get the most out of limited space.
+*   Small or lightweight items on the bottom rack might be pushed over or flipped by the water pressure.
+*   Only use the recommended type and amount of detergent in the loading cups. Using too much can easily cause streaks.
+
+Drying and Unloading the Dishes
+-------------------------------
+
+When the wash cycle is finished, your dishwasher might have the option of a hot dry cycle. This may or may not be worth using. The heating element in the bottom of the dishwasher can dry dishes faster than regular drip drying, preventing streaks on your glasses. However, it can also be an unnecessary use of energy. Using the heated drying cycle can also melt plastic items that may have fallen into the well of the dishwasher compartment.
+
+Consider skipping this step. Instead, crack open the dishwasher door to let the steam out when it’s done. If there’s still water on your dishes when you remove them, dry them off with a towel before putting them away.
+
+_Being prepared for unexpected home repairs is much better than the alternative. You can do so with a home repair plan from HomeServe. With a plan in place, you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available where you live._<br><iframe width="473" height="281" src="https://www.youtube.com/embed/RA6_ur9QGLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

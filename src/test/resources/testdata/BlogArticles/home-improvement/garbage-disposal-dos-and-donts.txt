@@ -1,0 +1,143 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "8 Things You Should Never Put Down the Garbage Disposal (and 5 Things You Can)"
+headline: "8 Things You Should Never Put Down the Garbage Disposal (and 5 Things You Can)"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-04-30
+basePath: https://library.homeserve.com/m/
+heroImage: 32cfbbdaaff045bf/webimage-GarbageDisposalDonts_MSchmitz_0001.jpg
+heroAltDescription: "putting coffee grounds and egg shells down sink drain"
+metaDescriptions: "While garbage disposals can grind up a lot of waste, they’re not indestructible. Here's what you can (and can't) put in your disposal."
+articleAbstract: "Don't use your garbage disposal for anything that’s not food. But what foods are okay to dump down the disposal, and which are a recipe for a drain disaster? Here's what you should (and shouldn't) put in your garbage disposal."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0919
+stickyDisplayText: Call today for a local plumber.
+lightboxCopy: Local plumbing pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/plumbers/hs/same_day
+  large:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner1.png
+      alt: Plumbing eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner2.jpg
+      alt: Plumbing eLocal Banner 2
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Things You Should and Shouldn't Put Down the Garbage Disposal"
+  parent: Plumbing-Home-Improvement
+---
+  Your garbage disposal is a powerhouse. Drop in some food scraps, and it's whisked down the drain in just a few seconds, all without any effort on your part. But even this power has its limits. While garbage disposals can grind up an incredible amount of waste, they’re not indestructible.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}  
+
+**This May Also Interest You:** [**Garbage Disposal Not Working? Here’s How to Fix Common Issues**](https://www.homeserve.com/en-us/blog/how-to/fix-garbage-disposal/)
+
+The golden rule: Don't use your garbage disposal for anything that’s not food. No cardboard egg cartons, cigarette butts, paper towels or plastic wrappers. Make sure your silverware doesn’t slip down the drain, either. If you happen to break a glass or dish in your sink, clean the pieces out of the disposal before you run it.
+
+So, what’s okay to dump down the disposal, and what food items are a recipe for a drain disaster? Read on to find out.
+
+Disposals Are Different
+-----------------------
+
+According to [Consumer Reports](https://www.consumerreports.org/garbage-disposals/foods-you-can-cant-put-down-a-garbage-disposal/), the type of scraps your disposal can handle largely depends on the horsepower of the motor. A 1 hp unit will be able to grind through tougher stuff, like bones and fibrous peels. If you have a 0.5 hp disposal, you’ll want to be more cautious. Another important factor to consider is the state of your drain pipes. Newer pipes can handle a lot more waste than old ones.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+Don’t Put These Down the Disposal
+
+Here are eight things to avoid putting in your garbage disposal:
+
+### 1\. Coffee Grounds
+
+This is a common one. Coffee grounds have a strong smell, so the logic is that emptying the filter into the garbage disposal will eliminate drain odors. Don’t fall victim to this kitchen myth; throwing big clumps of coffee grounds into the disposal will just clog your drain line.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+### 2\. Eggshells
+
+A shell or two now and then probably won’t cause a clog, but [Consumer Reports](https://www.consumerreports.org/garbage-disposals/foods-you-can-cant-put-down-a-garbage-disposal/) warns that a steady diet of eggshells will eventually lead to buildup and clog your drain. They simply don’t break down as well as other foods.
+
+### 3\. Shellfish Parts
+
+Clam and oyster shells are incredibly hard. Your disposal will have a tough time grinding them up, so it’s best not to bother. You may want to hold the shrimp tails and lobster shells, too, as these may be tough for some systems to get through.
+
+### 4\. Starchy Foods
+
+According to [Family Handyman](https://www.familyhandyman.com/list/15-things-you-should-never-put-down-a-garbage-disposal/), you’ll want to avoid putting starchy foods — rice, pasta, beans and oatmeal — down your disposal. Think about it: When you cook these foods from dry, you add water, which makes them expand. They’ll continue to expand the longer they’re exposed to water, posing drain-clogging danger.
+
+### 5\. Big Bones
+
+You’ll notice “small bones” is a section in the approved-for-disposal category, but the same cannot be said of their larger counterparts. The garbage disposal is not the place to drop a bunch of picked-clean rib bones or any such thing.
+
+### 6\. Oil, Fat and Grease
+
+That bacon grease is liquid right after you’ve finished cooking, but you know what’ll happen if you leave the pan out for an hour or two. That’s why you don’t ever want to pour oils, fats or grease down the disposal. Somewhere down the drain, they’ll solidify and stop up the pipes. The same goes for fatty foods like raw meat, poultry skin, nuts and nut butters.
+
+### 7\. Fibrous Produce and Peels
+
+For the most part, produce is good to go in the garbage disposal, but there are exceptions to every rule. Some fibrous or stringy scraps will either clog the drain or give your grinder grief. Avoid putting these in your garbage disposal:
+
+*   Celery
+*   Rhubarb
+*   Corn husks
+*   Pumpkin innards
+*   Artichokes
+*   Onion skins
+*   Banana peels
+
+### 8\. Chemicals and Paint
+
+These are _technically_ non-food items and are thus covered by the aforementioned “golden rule,” but this is worth a second reminder. Don’t pour harsh drain cleaners down your disposal. [Family Handyman](https://www.familyhandyman.com/list/15-things-you-should-never-put-down-a-garbage-disposal/) says this is harmful to the disposal itself and may be corrosive to the drain line. Oil and latex paint are also no-nos as they’ll cling to the drain pipes and harden.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install or Replace a Garbage Disposal?](https://www.homeserve.com/en-us/blog/cost-guide/install-garbage-disposal/)
+*   [How to Deep Clean a Garbage Disposal](https://www.homeserve.com/en-us/blog/how-to/clean-garbage-disposal/)
+*   [Why Is My Garbage Disposal Leaking?](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-leaking/)
+*   [How to Install a Garbage Disposal on Your Own](https://www.homeserve.com/en-us/blog/how-to/install-garbage-disposal/)
+*   [How to Unclog Your Garbage Disposal](https://www.homeserve.com/en-us/blog/how-to/unclog-garbage-disposal/)
+
+Put These Down the Disposal
+---------------------------
+
+Here are five things it’s OK to put in the garbage disposal:
+
+### 1\. Produce Scraps
+
+Apple cores, the cut-off ends of carrots, corn cobs and most other fruit and veggie scraps can all be put through the disposal. This is the kind of stuff these machines are made to handle. Grinding citrus peels can even help ward off odors.
+
+### 2\. Fruit Pits
+
+Now, this one’s controversial. Some — like [Consumer Reports](https://www.consumerreports.org/garbage-disposals/foods-you-can-cant-put-down-a-garbage-disposal/) — say most disposals can grind up avocado and peach pits with ease. However, [Bob Vila](https://www.bobvila.com/slideshow/15-things-never-to-put-down-your-garbage-disposal-51749) recommends taking fruit pits to the trash because they could break or dent the disposal’s blades.
+
+### 3\. Meat and Small Bones
+
+Cooked meat can be broken up easily by most disposals, as can small fish or chicken bones. You may want to proceed with caution on that front, though. If you’re questioning whether a bone is too big to be ground by the disposal, just toss it.
+
+### 4\. Leftovers and Cooked Food
+
+You can use the disposal to get rid of that casserole that’s been sitting in the fridge for a week, or pretty much any other cooked food you’re not going to eat. Just be careful if your leftovers contain any of the items listed in the previous section.
+
+### 5\. Ice
+
+Ice is hard, but it melts so quickly that it’s not harmful to the disposal. In fact, you should make it a regular habit to throw a few ice cubes in the disposal as grinding ice sharpens the blades.
+
+  
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._
+
+::: responsive-iframe
+<iframe width="1072" height="603" src="https://www.youtube.com/embed/mlM1kuECosQ?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5j759jOLiwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

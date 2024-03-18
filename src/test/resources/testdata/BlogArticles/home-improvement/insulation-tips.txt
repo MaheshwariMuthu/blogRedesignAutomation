@@ -1,0 +1,79 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Use Insulation to Save Energy and Money"
+headline: "How to Use Insulation to Save Energy and Money"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-09-16
+basePath: https://library.homeserve.com/m/
+heroImage: 27c2dd50581af5b4/original/InsulationBlown_Erossi_1286351910.gif
+heroAltDescription: "insulation is blown into a residential attic"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Explore ways to use home insulation to cut your energy consumption and save on your utility bills year-round."
+articleAbstract: "Explore ways to use home insulation to cut your energy consumption and save on your utility bills year-round."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How to Use Insulation to Save Energy and Money"
+  parent: Interior-Home-Home-Improvement
+---
+  
+
+Chilly winters and hot summers can send your heating and cooling bills soaring as you try to keep your house comfortable — especially if you're short on home insulation.
+
+**This May Also Interest You:** [**How Much Does Spray Foam Insulation Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/spray-foam-insulation-costs/)
+
+When you insulate your home, you give your HVAC system a bit of a break, which can save on energy use. Here are some ways to insulate and save money.
+
+How Can Insulation Help Save Energy?
+------------------------------------
+
+Air sealing and insulating a home cuts heating and cooling costs by an average of 15%, which translates to about 11% of your total energy costs, according to the [Environmental Protection Agency](https://www.energystar.gov/campaign/seal_insulate/methodology). All types of insulation cut down on heat transfer into and out of your house, thanks to air pockets that minimize heat movement. In the summer, it helps block the hot outdoor air from entering your home, making it easier for your air conditioner to cool your home with less work and energy consumption. In the winter, it traps the heated air inside your home, allowing your furnace to keep the space warmer without running as much.
+
+What Are Some Ways to Insulate Your Home to Save Energy and Money?
+------------------------------------------------------------------
+
+Your home likely has some insulation, but it might not have enough to make a big difference. You can add insulation to many areas of your home. If you're building a new home or completely remodeling an older home, focus on key areas to insulate. Here are some insulation tips for cutting your energy bills.
+
+### Insulate the Attic
+
+The large attic space makes it the perfect place for heat to escape in the winter and cold air to escape in the summer. To insulate your attic well, fill the gaps between the attic floor joists with insulation. Adding insulation between the beams and rafters of the roof also helps improve overall insulation. Don't forget to insulate access doors to the attic.
+
+### Insulate the Exterior Walls
+
+Exterior walls are another significant source of heat transfer if they lack insulation. If you're building new or have the walls torn out for a renovation, it's much easier to add insulation to the walls. For an existing home, adding wall insulation takes more work. Blown-in insulation can be a good solution for existing homes.
+
+### Insulate Your Foundation and Basement
+
+The lower level of your home can also benefit from insulation. In the winter, you might notice your basement feels cooler than the upper floors. Adding insulation can create more consistency, which is helpful if you have finished basement spaces. Even in an unfinished basement, deciding to insulate can help keep adjacent spaces more comfortable.
+
+**More Related Articles:**
+
+*   [How Much Does an Insulated Garage Door Cost?](https://www.homeserve.com/en-us/blog/cost-guide/insulated-garage-door/)
+*   [How to Draft-Proof Your Home](https://www.homeserve.com/en-us/blog/how-to/draft-proof-home/)
+*   [How to Insulate Windows](https://www.homeserve.com/en-us/blog/how-to/insulate-windows/)
+*   [How Much Does It Cost to Insulate Your Attic?](https://www.homeserve.com/en-us/blog/home-improvement/attic-insulation/)
+*   [Here’s How to Apply Plastic Film to Insulate Your Windows](https://www.homeserve.com/en-us/blog/how-to/window-insulation-film-installation/)
+
+### Insulate Ductwork
+
+Your HVAC system can experience energy loss when the ductwork passes through unconditioned spaces. Heated and cooled air can escape in those unconditioned areas and waste energy. You can reduce that loss by sealing your ductwork and installing insulation around the ducts.
+
+### Insulate Plumbing
+
+You can reduce energy use in a similar way by insulating your hot water pipes. The insulation helps reduce heat loss in the water as it travels through the pipes, so the water is hotter when it reaches your faucet. If you have a conventional water heater with a tank, consider insulating it to prevent standby heat loss. Water heater blankets are an easy option that can help keep the stored water hot.
+
+### Insulate Floors Over Certain Areas
+
+A room over a garage, crawlspace or other uninsulated and unheated areas can have major temperature fluctuations. In the winter, when your garage is cold, the floor and room above it usually feel colder, which might prompt you to crank up the heat. Hot summer days might make that room feel hotter than other spaces and cause you to run fans or lower the temperature on your air conditioner, which uses more energy.
+
+Adding a layer of insulation between those spaces and the floor of the room above them can reduce heat transfer and make the room more comfortable. You should notice that the room is more consistent with the other spaces in your home, so it doesn't need extra heating or cooling.
+
+More Home Insulation Tips
+-------------------------
+
+***Havean**[**energyaudit**](https://www.homeserve.com/en-us/blog/home-improvement/home-energy-audit/)* *done.** This can help identify the areas where insulation will benefit your home the most.
+* **Seal your home.** Gaps and cracks around your home offer another way for heat transfer to happen. Combine air sealing with insulating to have the greatest effect on your energy bills.
+* **Check the R-value.** Insulation has an R-value that represents how well it insulates your home. A higher number offers greater insulating power. The [U.S. Department of Energy](https://www.energy.gov/energysaver/insulation) provides R-value recommendations based on where you live.
+
+With the right home insulation, you can improve the comfort of your space, use less energy and save money on your power bills.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Insulate Windows | Cheap and Easy with Plastic Film"></iframe>

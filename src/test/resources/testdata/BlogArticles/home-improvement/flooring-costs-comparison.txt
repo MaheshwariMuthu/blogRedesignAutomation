@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Kind of Floor Should I Install? Comparing Flooring Costs"
+headline: "What Kind of Floor Should I Install? Comparing Flooring Costs"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-08-19
+basePath: https://library.homeserve.com/m/
+heroImage: 54e3c67e2de4e765/Blog-GettyImages-1227548950.jpg
+heroAltDescription: "Set of design materials."
+metaDescriptions: "With so many options out there, finding the right flooring for your space can be a challenge. Here's a cost comparison."
+articleAbstract: "Your head is spinning with potential flooring options. One of the key factors you’re likely looking  at — besides the design, of course — is price. For your cost-comparison convenience, we’ve gathered all our flooring cost guides here."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Kind of Floor Should I Get? Comparing Flooring Costs"
+  parent: Interior-Home-Home-Improvement
+---
+  
+
+The living room carpet is looking a little … _sad._ It’s time for a change. But to what? Hardwood is a classy addition to any home, but it can be prohibitively pricey. Tile — though cold to the touch — can offer a unique look. What about synthetic options? Or should you just stick with carpet?
+
+**This May Also Interest You:** [**What’s the Difference Between Laminate and Vinyl Flooring?**](https://www.homeserve.com/en-us/blog/home-improvement/laminate-versus-vinyl-flooring/)
+
+Now your head is spinning with potential flooring options. One of the key factors you’re likely looking at — besides the design, of course — is price. For your cost-comparison convenience, we’ve gathered all our flooring cost guides below.
+
+<img class="detail-image" src="https://library.homeserve.com/m/3b8f9d3f88444174/Blog-GettyImages-153478044.jpg" alt="Man installing a wood floor shown from above"/>
+-------------------------------------------
+
+Wood Floors
+-----------
+
+There’s a hardwood floor for almost every budget. At the cheaper end of the spectrum, you can install pine or oak floors for $3 to $10 per square foot. Middle-tier options like birch or maple cost between $8 and $15 per square foot. Exotic woods are expensive — upwards of $20 per square foot. Read more about [hardwood flooring costs](https://www.homeserve.com/en-us/blog/cost-guide/hardwood-floor-installation/).
+
+Want the wood look for less? Consider eco-friendly bamboo flooring, which starts at $5 per square foot. Read more: [How Much Does Bamboo Flooring Cost?](https://www.homeserve.com/en-us/blog/cost-guide/bamboo-flooring-installation/)
+
+If you don’t want to shell out for new floors, you can [refinish your existing hardwood](https://www.homeserve.com/en-us/blog/cost-guide/refinish-hardwood-floors/) for anywhere from 50 cents to $8 per square foot.
+
+<img class="detail-image" src="https://library.homeserve.com/m/58f43cc37f61776f/Blog-GettyImages-1264877062.jpg" alt="The worker installing new vinyl tile floor"/>
+-------------------------------------------
+
+Synthetic Options
+-----------------
+
+Laminate and vinyl are high-durability, synthetic flooring options that both fall in a similar price range. The major difference between the two is that vinyl can work in wet spaces like bathrooms and laundry rooms, while laminate needs to stay dry.
+
+Vinyl generally costs between 50 cents and $2 per square foot but may run up to $6 per square foot if you opt for luxury planks. Installation costs $1 to $3 per square foot. [Find more pricing information here.](https://www.homeserve.com/en-us/blog/cost-guide/vinyl-flooring-installation/)
+
+Laminate costs $2 to $6 per square foot, plus $4 to $8 per square foot for installation. Read more: [How Much Does It Cost to Install Laminate Flooring](https://www.homeserve.com/en-us/blog/cost-guide/laminate-flooring-installation/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/decd2e768b06020/Blog-GettyImages-1264160683.jpg" alt="Worker grinding the floor using a single disc machine"/>
+-------------------------------------------
+
+Concrete and Cement
+-------------------
+
+Polished concrete can give your home an industrial or modern look. The good news is that there’s likely a concrete subfloor hiding under your tile, hardwood or carpet. The per-square-foot cost to polish this existing concrete is between $2 and $15. If you don’t already have a concrete subfloor, it costs $4 to $8 per square foot to lay a new slab. [Here’s our concrete floor cost guide.](https://www.homeserve.com/en-us/blog/cost-guide/polished-concrete-floors/)
+
+Terrazzo is a composite material made of stone chips set in cement or epoxy. It’s a stylish option for both indoor and outdoor use. Depending on local labor prices, expect a terrazzo floor to cost between $15 and $30 per square foot. [Read more about terrazzo flooring costs.](https://www.homeserve.com/en-us/blog/home-improvement/terrazo-tile/)
+
+To protect existing cement floors in your basement or garage, add an [epoxy coating](https://www.homeserve.com/en-us/blog/cost-guide/epoxy-garage-floor/) for about $10 per square foot.
+
+Tile Floors
+-----------
+
+From bathrooms to entryways to kitchens, tile is versa_tile_. Typically, labor and materials are lumped together into one installation cost. To lay standard ceramic tile, a contractor will charge you between $7 and $15 per square foot. Prices go up from there, especially if you pick a more expensive tile like marble or granite. Check out our [tile floor cost breakdown](https://www.homeserve.com/en-us/blog/cost-guide/tile-installation-costs/).
+
+<img class="detail-image" src="https://library.homeserve.com/m/5f04cee194834a9b/Blog-GettyImages-171270824.jpg" alt="Installer Using Carpet Stretcher on New Bedroom Floor"/>
+-------------------------------------------
+
+Carpeting
+---------
+
+The previous flooring options are _cool_, for sure. But some rooms require a bit of warmth underfoot. Installation costs depend on the quality and material of the carpet you pick, so the price per square foot ranges from $1 to $20. Labor will be an additional 5 cents to $2 per square foot. [Read more about carpet costs.](https://www.homeserve.com/en-us/blog/cost-guide/carpet-installation/)
+
+Baseboards
+----------
+
+Trim adds a finishing touch to your new flooring installation, no matter what type you go with. Expect to pay between 60 cents and $1.20 per linear foot; solid wood is pricier than MDF. Installation costs $4.50 to $6 per square foot. [Learn more here.](https://www.homeserve.com/en-us/blog/cost-guide/install-baseboard/)
+
+Radiant Floor Heating
+---------------------
+
+Changing up your floor gives you an opportunity to add radiant heating underneath. This can make any type of flooring warm, even on cold winter mornings. On average, you’ll pay $10 to $25 per square foot to install a radiant heating system, depending on whether you go with a water-, air- or electrically heated system. [Here's our radiant floor heating cost guide.](https://www.homeserve.com/en-us/blog/cost-guide/radiant-floor-heating/)

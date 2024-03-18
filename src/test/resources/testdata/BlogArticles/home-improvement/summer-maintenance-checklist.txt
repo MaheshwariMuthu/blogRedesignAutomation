@@ -1,0 +1,88 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Summer Home maintenance checklist
+headline: Summer Home maintenance checklist
+author: Team HomeServe
+tags: ['post', 'Maintenance']
+publishDate: 2018-06-21
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: Sprinkler.jpg
+heroAltDescription: Garden sprinkler
+metaDescriptions: 
+articleAbstract: Summer is here, so get your house ready with these summer home maintenance tips!
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Summer Home maintenance checklist
+  parent: Home Improvement & Maintenance
+---
+
+::: blog-info
+It's time to give your home the boost it needs to keep you happy and cool all summer long. Follow this summer home maintenance checklist to prep your home for the hot days to come:
+
+## Exterior maintenance
+
+### 1\. Get your outdoor cooling unit serviced.
+
+Performing a DIY [central air conditioning checkup](/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist){target="_blank"} is key to making sure you can enjoy cooling benefits all summer long. And if you have yet to get your HVAC system professionally serviced this year, now is the time to do so.
+
+### 2\. Inspect the sprinkler system.
+
+Make sure there aren't leaks or clogs in the irrigation lines and nozzles. Adjust the sprinkler heads so that your lawn - rather than sidewalks or windows - are sufficiently watered.
+
+### 3\. Clean out the gutters.
+
+You probably did this step as part of your [spring home maintenance](/en-us/blog/home-improvement/spring-home-maintenance-checklist){target="_blank"}, but summer storms can be rough on your gutters, so it's a good idea to make sure your draining system is in top shape.
+
+### 4\. Inspect the roof.
+
+Take advantage of the mild weather to climb up on the roof and check for damage or debris from spring and winter weather.
+
+### 5\. Clean outdoor cooking equipment.
+
+Get the grill ready for summer barbecues with a deep clean. Scrub it with a wire brush and liquid grill cleaner. Alternatively, try this [vinegar and aluminum foil cleaning method](https://www.todayshomeowner.com/video/how-to-clean-a-grill-using-aluminum-foil-and-vinegar/){target="_blank"} from Today's Homeowner.
+
+### 6\. Wash the windows.
+
+You'll be surprised how much more natural light will find its way inside when you perform some simple window cleaning. A simple solution of warm water and a touch of dishwashing liquid will do the trick. Plus, you can use a strip applicator or squeegee to cover more surface area.
+
+### 7\. Add a fresh layer of mulch.
+
+You may have refreshed your landscaping to prep for spring, but now it's the time for new mulch. It keeps the weeds away and helps the soil retain water during the heat of summer.
+
+### 8\. Power wash everything.
+
+The warm weather is the perfect reason to get out there and deep clean the siding, deck and concrete walkways of your home.
+
+### 9\. Refresh woodwork.
+
+Prep your fencing, deck and play equipment for outdoor living this summer. Inspect them for damage, and then get to work reinforcing, re-staining, resealing and repainting as necessary.
+
+### 10\. Refill cracks in cement.
+
+Use concrete repair caulk or asphalt crack sealer to fix cracks or holes in sidewalks, walkways and driveways.
+
+## Interior maintenance
+
+### 1\. Deep clean the refrigerator.
+
+Dust and debris buildup makes your refrigerator work twice as hard, making the unit hot to the touch - not a great combination for the hot summer months! Make sure to clean the coils underneath or behind your fridge. Also check that the gaskets are keeping the doors closed tightly – so you can keep your favorite summer foods and treats cold.
+
+### 2\. Dust the fans.
+
+Get fans ready to keep you cool without pushing around extra dust. Don't forget the tops of ceiling fan blades. If you don't have an extendable duster, secure a cloth or dryer sheet to a paint roller.
+
+### 3\. Replace filters.
+
+There are three important filters to change for summer: air conditioning, water and ice maker. Check the current filters before you head out to make a purchase – so to avoid buying the incorrect filter replacements.
+
+### 4\. Vacuum the vents.
+
+No more whirling vents! Use a vacuum to get the dust out of them and help ensure your HVAC system can cool your home efficiently all summer long.
+
+### 5\. Perform routine safety checks.
+
+Any change in season is the ideal time to give your safety systems a checkup. Press the test button on all of your smoke and carbon monoxide alarms. If you don't hear anything, replace the batteries immediately. Survey your home for electrical hazards or damages, such as overloaded outlets, cords under rugs or frayed wiring. Test your circuit breaker to make sure it's working properly.
+
+Being prepared before home maintenance issues arise is always a good strategy. Plans from HomeServe can help with the costs of covered repairs. [See what plans]({{ migrationData.homepage }}){target="_blank"} are available in your area.
+:::

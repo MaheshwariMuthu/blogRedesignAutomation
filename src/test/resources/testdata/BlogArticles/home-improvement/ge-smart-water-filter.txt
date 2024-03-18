@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "GE Smart Water Filter Features"
+headline: "GE Smart Filtration Systems: Smart Features and How They Work"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-01-10
+basePath: https://library.homeserve.com/m/
+heroImage: 318d5ef97f71e0b/Blog-Water-Filter-product-image-side.jpg
+heroAltDescription: "A white GE brand smart whole house water filtration system sits against a white background"
+metaDescriptions: "Here’s what you should know about GE’s smart water filtration system — from its filtration technology to its smart features."
+articleAbstract: "A smart water filtration system can make it easier to manage your home's drinking water supply and could even help you avert a plumbing disaster. Here’s what you should know about GE’s smart water filtration system."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "GE Smart Filtration Systems: Smart Features and How They Work"
+  parent: Appliances
+---
+  
+
+_Manufacturer image_
+
+A whole-house water filtration system is essential if you're concerned about impurities in your tap water. These popular systems are now getting a smart makeover.
+
+**This May Also Interest You:** [**How Much Do Home Water Filtration Systems Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/water-filter-installation/)
+
+A smart water filtration system can make it easier to manage your home's drinking water supply and could even help you avert a plumbing disaster. Here’s what you should know about GE’s smart water filtration system.
+
+What’s a Smart Water Filtration System?
+---------------------------------------
+
+A [GE smart water filter](https://www.geapplianceparts.com/store/parts/spec/GXWH70M) has an integrated Wi-Fi communication card that connects the system to your smartphone. This feature lets you control your GE smart water filter system remotely and receive performance updates. Some models without built-in Wi-Fi connectivity have a Wi-Fi ConnectPlus module portal, allowing you to turn them into smart devices by plugging in a separate module.
+
+Like regular water filtration systems, a GE smart water filter has cartridges that remove lead and other impurities from your home's water supply. Therefore, you can access filtered water from all your home's faucets.
+
+GE Smart Whole-House Water Filter System Features
+-------------------------------------------------
+
+One of the primary benefits of a GE smart water filter system is that you can remotely control and monitor your water supply via a smartphone. This feature makes it easy to monitor your day-to-day water usage. You can also shut off your water supply even when you're not at home. You’ll receive immediate alerts if you leave a faucet running or the system detects a leak, which could help prevent household floods or high water bills.
+
+GE smart whole-house water filtration systems are also straightforward to install by pushing the fitting connectors together. You won't need to solder or heat the connectors if you have 3/4-inch pipes, but you'll need additional fittings to install the filtration system with 1-inch pipes.
+
+Some GE smart water filtration systems use a process known as reverse osmosis to purify water. Reverse osmosis removes impurities by pushing the water forcibly through a membrane. Other models use dual-stage precarbon and postcarbon filters to remove contaminants. You can [change the filters](https://www.homeserve.com/en-us/blog/how-to/clean-icemaker-filter/) on most GE smart water filters by twisting the old cartridge free and then turning and locking the new cartridge in place without any tools.
+
+**More Related Articles:**
+
+*   [Have Hard Water? Here’s How to Know — and How to Treat It](https://www.homeserve.com/en-us/blog/how-to/spot-and-treat-hard-water/)
+*   [What Is a Water Softener?](https://www.homeserve.com/en-us/blog/home-improvement/water-softener-explained/)
+*   [Installing a Water Softener Isn’t So Hard: A 6-Step Guide](https://www.homeserve.com/en-us/blog/how-to/water-softener-installation/)
+*   [How Much Does a Water Softener Cost?](https://www.homeserve.com/en-us/blog/cost-guide/water-softener-installation/)
+*   [How to Clean Your Icemaker and Change the Filter](https://www.homeserve.com/en-us/blog/how-to/clean-icemaker-filter/)
+
+How Do You Connect to the GE Smart Water Filter System?
+-------------------------------------------------------
+
+You'll need to install the [SmartHQ app](https://www.geappliances.com/connect) on your smartphone to connect to your GE smart water filter. If you already have an account, sign in to get started. Otherwise, create an account, click on the verification link in the welcome email and sign in.
+
+Next, select your appliance brand from the welcome menu and click on the smart water filter category. Choose the GE smart whole-house water filter from the list of available appliances and follow the on-screen instructions to set up the Wi-Fi connection.
+
+How Often Do You Have to Change the Filter?
+-------------------------------------------
+
+Generally, you should change your filter cartridge at least [every three months](https://products.geappliances.com/MarketingObjectRetrieval/Dispatcher?RequestType=PDF&Name=31-6000101-1.pdf&_ga=2.5765872.257242049.1638811003-1241849972.1638811003), or sooner if you notice that the water is flowing more slowly from your faucets. However, certain filter types may require changing more or less frequently, so you should defer to the manufacturer's instructions on the filter packaging.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Improve Shower Water Pressure"
+headline: "Let It Flow: Improve Low Water Pressure in the Shower"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-08-29
+basePath: https://library.homeserve.com/m/
+heroImage: 144eacf2b06e05b/Blog-GettyImages-1171056666.jpg
+heroAltDescription: "water showerhead in bathroom"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Is your water pressure low? Start by checking this guide to get your shower working to its full potential."
+articleAbstract: "Is your water pressure low? Start by checking this guide to get your shower working to its full potential."
+category: ["How To"]
+eleventyNavigation:
+  key: "Let It Flow: Improve Low Water Pressure in the Shower"
+  parent: Plumbing-How-To
+---
+  A hot, exhilarating shower is one of life’s true pleasures. That’s why, if you have low water pressure in the shower, it can be a real buzz kill. Low water pressure in the shower can be caused by a number of different reasons. Sometimes, it can be a signal that you’ve got larger plumbing system issues, like a leak or corroded piping.
+
+**This May Also Interest You:** [**5 Reasons You Have Slow Hot Water Flow — and 5 Fixes You Can Try**](https://www.homeserve.com/en-us/blog/home-improvement/slow-hot-water-flow/)
+
+But before you call a plumber, take a moment to investigate the situation yourself; there might be an easier way to improve the water pressure in your shower without replacing all of your pipes.
+
+Why Is the Water Pressure in My Shower so Low?
+----------------------------------------------
+
+### You’ve Got a Dirty Showerhead
+
+Over time, showerheads accumulate limescale and other mineral deposits, especially if you live in an area that has hard water. Eventually, these deposits will create clogs, but long before then, you’ll notice a significant decrease in water flow when you’re taking a shower. These mineral deposits, sometimes referred to as limescale, will look a bit like corrosion on the showerhead.
+
+They can be removed from your showerhead by unscrewing it and submerging it in a bowl of white vinegar overnight. After the soak, clear away any remaining deposits from the spray holes with a toothpick. The scale should be able to be removed fairly easily; if not, you should look to purchase a new showerhead. After cleaning, screw the showerhead back on and give it a test run to check the water flow.
+
+### It’s a Low-Flow Showerhead
+
+If you’ve never had satisfactory water pressure in your shower, it might be that you have a so-called low-flow showerhead installed. Specifically designed to conserve water usage, older versions of these low-pressure showerheads reduce water pressure significantly. If you suspect that you may have an outdated low-flow showerhead, you’ve got some options: Remove the restricting filter on the showerhead, or replace it with a new showerhead. Luckily, If you do decide to replace the showerhead, newer low-flow models don’t have the same low-water pressure issues their predecessors have.
+
+### The Main Shutoff Valves are Partially Closed
+
+If you’re experiencing low water pressure throughout your entire house, it could be that one of your water main shutoff valves isn’t fully open. Most properties have two water main shutoff valves, one located outside (typically curbside) and the other in your house (usually in a garage or crawlspace). If you know where your curbside main shutoff is, go outside and check to see if the valve is open all of the way. The shutoff valve will either have a round handle that should be turned counterclockwise all the way, or it will have a lever that should be parallel to the water line pipe. In both instances, make sure they are all the way open.
+
+Your other main shutoff is usually located inside your home. It’s a good idea to double-check that valve to make sure it’s open all of the way, too. Take a close look at the house shutoff valve. If it looks too corroded, the valve might break, and water will flood into your home. In this situation, call a plumber to address the problem and replace your shutoff valves.
+
+**More Related Articles:**
+
+*   [Here’s How to Hack Your Low-Flow Showerhead ... But Should You?](https://www.homeserve.com/en-us/blog/how-to/low-flow-showerhead/)
+*   [8 Shower Storage Solutions](https://www.homeserve.com/en-us/blog/buying-guide/shower-storage/)
+*   [How to Replace a Shower Valve](https://www.homeserve.com/en-us/blog/how-to/shower-valve-replacement/)
+*   [Showerhead Stuck? Here’s How to Remove It](https://www.homeserve.com/en-us/blog/how-to/showerhead-removal/)
+*   [How Much Does It Cost to Replace a Showerhead?](https://www.homeserve.com/en-us/blog/cost-guide/shower-head-replacement/)
+
+### You’re Having Problems With Your Water Heater
+
+Another common source of low water pressure issues in a shower is sediment in your water heater. If you’re experiencing significantly lower water pressure when you turn on the hot water, it could be that sediment and scale have built up in your water heater and caused a blockage of some kind. Other signs you have sediment in your tank include visible leaks around the drain valve and popping or rumbling noises coming from the tank. If you suspect you might have sediment in your water heater tank, it will need to be flushed as soon as possible. Though [flushing a water heater](https://www.homeserve.com/en-us/blog/how-to/flush-water-heater/) is certainly a doable home project, don’t hesitate to reach out to a plumber if you feel at all uncomfortable tackling it yourself.
+
+### The Water Supply Pressure Is Low
+
+If your water pressure isn’t just relegated to the shower — i.e., the water pressure is low throughout your home — it’s possible that the water supply coming into your home is too low. This is especially common if you are on a well, but it can affect municipal water systems as well. If this is the case, installing a shower pump can increase your water pressure significantly. There are a few different types of shower pumps that depend largely on the type of water system you have in your home.
+
+### You’ve Got Old Pipes
+
+There are several reasons that you might be experiencing low water pressure in the shower. In many cases, these involve easy fixes that can get you back to full power in very little time at all.
+
+That said, low water pressure can be a sign you have wider plumbing issues. For example, if your pipes are corroded, they can become blocked and leaky over time. If your pipes are blocked and there’s a leak anywhere in your plumbing system, it can lead to low water pressure. If you live in an older home with old pipes, call a plumber to properly diagnose and repair the plumbing system as soon as possible.
+
+Before you call the plumber, make sure you’ve investigated the problem yourself. Who knows? You may be able to increase water pressure and save a few bucks in the process.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

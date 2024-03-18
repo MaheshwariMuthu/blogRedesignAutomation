@@ -1,0 +1,107 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Make Your Home Accessible to People With Disabilities"
+headline: "How to Make Your Home Accessible to People With Disabilities"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-03-11
+basePath: https://library.homeserve.com/m/
+heroImage: 2ef4cf28d8e4229a/Blog-GettyImages-922569490.jpg
+heroAltDescription: "restroom grab bars by toilet"
+metaDescriptions: "When disabilities occur, the lifestyle impact can feel overwhelming. But with a few improvements, your home can continue to be a safe, welcoming place for all who live there."
+articleAbstract: "When physical disabilities impact anyone in a household due to age, medical issues or injuries, ensuring that the home continues to be a comfortable and safe space for all, and that those with physical challenges can retain their dignity while being well cared for, is, in our book, the very definition of home. Here are some ideas on how to make your home accessible for people with disabilities."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Make Your House Accessible for the Disabled"
+  parent: Interior-Home-How-To
+---
+  **Home Accessibility Measures at a Glance:**
+
+*   Look for grants or other public assistance.
+*   Consult Americans with Disabilities Act standards.
+*   Install ramps or chair lifts.
+*   Lower kitchen counters, sinks, stove, cabinets and light switches.
+*   Widen doorways and hallways.
+*   Enlarge bathrooms, install grab bars, and eliminate access barriers and tripping hazards.
+*   Install smart technology to easily operate basic household functions.
+*   Keep rooms clean, clear of clutter and well-lit.
+
+Our homes should be spaces that nurture us throughout all phases of our lives, no matter what condition our bodies are in. When disabilities impact anyone in a household due to age, medical issues or injuries, ensuring that the home continues to be a comfortable and safe space for all, and that those with physical challenges can retain their dignity while being well cared for, is, in our book, the very _definition_ of home.
+
+**This May Also Interest You:** [**10 Tips to Improve Indoor Air Quality in Your Home**](https://www.homeserve.com/en-us/blog/how-to/improve-indoor-air-quality/)
+
+Here are some ideas on how to make your home a welcoming place for all, including those with disabilities.
+
+Pro Tip: Check for Cash
+-----------------------
+
+Before developing a plan to make your home more accessible to those with disabilities, look into any grants or funding options that may exist in your state. Sometimes you can get rebates or upfront cash to help with the expense of the project. If one of the homeowners is a veteran with a service-related disability, the U.S. Department of Veterans Affairs offers a [Specially Adapted Housing grant](https://www.va.gov/housing-assistance/disability-housing-grants/) that tops out at more than $100,000. Non-veterans can check with the [National Directory of Home Modification and Repair Resources](https://homemods.org/national-directory/), which offers a state-by-state guide to available resources.
+
+Is an Accessible Home Worth More?
+---------------------------------
+
+While on the topic of money, people often wonder if a disabled-accessible house is worth more than a conventional house. The short answer is: It depends. If the home is located in a retirement community or other area where accessible features might be in high demand, retrofitting it could make it more attractive to potential buyers and, thus, increase the asking price.
+
+It also depends on the type of modifications you make. Wider doorways, hallways and easy-access showers are likely to appeal to every buyer. Other modifications are easy to reverse, such as grab bars. However, if you've lowered counters or moved electrical switches, the cost increases for buyers who do not have physical disabilities to augment the house to suit their needs.
+
+Accessibility Standards
+-----------------------
+
+So, is it necessary to comply with Americans with Disabilities Act guidelines for accessible dwellings when retrofitting a private home? It’s not, although looking at [the most recent set of guidelines](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c4), published in 2010, can certainly help guide you as you design and create a more accessible home.
+
+Step It Up
+----------
+
+A great place to start when making a home more accessible is to take a look at the stairs. If there are any exterior stairs that lead into the house, you'll likely want to replace them with a ramp. If possible, installing your ramp to the side or back of the house will make it less obtrusive and less likely to dramatically alter your home's curb appeal.
+
+The ADA requires that ramps have a 1:12 ratio, meaning that for every inch in height, there needs to be a foot in length. So a 24-inch-high rise would need a 24-foot-long ramp in order to comply. Wood ramps can be more attractive than metal options, but the latter are preferable if you plan to remove the ramp when it’s no longer needed.
+
+If the entry to the home is quite high, or if you simply don't have the space to build a ramp with the right slope, you may want to consider external lifts. Such lifts can accommodate a single wheelchair with an occupant and can reach heights of 14 feet. They can be purchased and installed for less than $4,000 in most markets.
+
+Internal stairs are also a concern. Chair lifts can be installed on longer staircases that connect a home’s floors, and can accommodate either straight or curved staircases. Small ramps can be installed on minor steps that lead from one room to another. Prefabricated ramps are available for purchase, or you can work with a contractor to have one built. Threshold ramps are also a good idea to install if there is even a slight height difference between two rooms.
+
+Get Low, Go Wide
+----------------
+
+One of the more extensive, but necessary, upgrades to make a home more accessible is to widen your halls and doorways. The ADA recommends that doorways be at least 36 inches wide and hallways at least 48 inches wide. These are the minimums, and will allow most scooters and wheelchairs to move about without major impediments — but keep in mind that the more space you can allow for mobility equipment, the better. If you’re able, taking down walls between rooms can create a modern open-plan look, while also making it easy for wheelchair users to move about.
+
+Depending on the needs of an individual with a disability, you may also want to lower your kitchen counters, sinks, stove and cabinets so that the counters rise no more than 36 inches from the floor. This can be done throughout the entire kitchen, or just a portion of it.
+
+Moving important items to lower storage space can also be helpful, as can going with a side-by-side refrigerator rather than one in which frozen items or other top-shelf goods may be out of reach. Stoves with front-access knobs make them easier to operate while seated. Replacing faucets with models that work automatically by touch or a wave of the hand can also make things easier for someone with physical challenges.
+
+A Better Bathroom
+-----------------
+
+Even when home occupants are fully physically able, the bathroom can be a hazardous place — with the [Centers for Disase Control and Prevention reporting](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6022a1.htm) that, in 2008, nearly 22 million people over the age of 15 suffered injuries in the bathroom, with about 235,000 of those incidents resulting in a visit to the emergency room. So having a bathroom that can safely accommodate the needs of someone with physical challenges is all the more critical.
+
+To make bathrooms more accessible for people with disabilities, it's key to ensure that there’s enough space for both them and caretakers to move around comfortably. This likely means expanding the size of the bathroom by, for example, taking over a closet or space from another room. Bathrooms should also have grab bars installed wherever someone needs support getting up or moving around, such as near the toilet or outside the shower.
+
+Installing a toilet seat riser makes it easier for someone with limited mobility to get on and off the commode, while using a shower chair helps with bathing needs. If the bathroom has a tub, you'll want to convert it to one designed to open on the side for easy access. If there’s a shower, ensuring that there is no lip or other barrier at the entrance will make things easier and eliminate a potential tripping hazard.
+
+Speaking of tripping hazards: The bathroom floor should be free of rugs or mats that can get in the way and make it hard for a wheelchair to roll.
+
+Get Smart
+---------
+
+Thanks to advances in the field of technology known as the Internet of Things, or IoT, it’s now easier than ever to control devices around your home using your voice or a smartphone. Appliances like smart washers, dryers, crock pots, coffee makers and ovens can all be operated from the palm of your hand with the accompanying apps.
+
+Voice control has also come a long way and makes it easier than ever for someone with mobility issues to control their environment with minimal movement. Smart hubs like Google Nest or Amazon Echo can be connected to locks, video doorbells, cameras, thermostats and lights, all of which can then be controlled simply by speaking into the air. These devices also provide an easy way to get news and entertainment without having to fuss with a remote control, while some can even be used as intercoms to improve whole-home communications.
+
+**More Related Articles:**
+
+*   [5 Tips for Carbon Monoxide Safety](https://www.homeserve.com/en-us/blog/home-improvement/carbon-monoxide-safety-tips/)
+*   [What You Need to Know About Gas Safety](https://www.homeserve.com/en/blog/2019/june/about-gas-safey)
+*   [What to Expect When They're Inspecting: Your Home-Inspection Checklist](https://www.homeserve.com/en-us/blog/home-improvement/what-to-expect-home-inspection/)
+*   [How to Clean and Disinfect Your Home During COVID-19](https://www.homeserve.com/en-us/blog/how-to/covid-home-disinfect-cleaning-tips/)
+*   [Should You Use Your Oven’s Self-Cleaning Feature — and, If So, How?](https://www.homeserve.com/en-us/blog/how-to/use-ovens-self-cleaning-feature/)
+
+Clean and Bright
+----------------
+
+Lastly, when making a home more accessible, you'll want to use your common sense to make the environment as navigable as possible. That means eliminating any furniture you don't need in order to keep walkways and other areas clutter-free. You'll want to examine your home's flooring, as well. If you have thick carpeting, that will make it difficult for a wheelchair or scooter to operate, so you might want to switch over to vinyl, laminate or hardwood.
+
+Also, it's best to have bright lighting in as many places as possible to make movement worry-free. And, speaking of lighting, if you choose not to use smart light bulbs to enable voice control, you might want to consider lowering the switches in your rooms so that they can be reached from a wheelchair — a relatively simple job that an electrician could accomplish for you in a few hours.
+
+When disabilities come about, the lifestyle impact can feel overwhelming. But with some well-thought-out improvements and tweaks, your home can continue to be a nurturing and helpful space that everyone can enjoy for years to come.
+
+_As you're making changes to make life easier and safer for those with disabilities, you might also want to consider other ways to protect the residents of your home. A plan from HomeServe is a way to do just that. When an issue arises, you can call our 24/7 repair hotline, and we will send a local, expert technician to handle repairs, up to the benefitted amount. Learn more about plans from HomeServe today._<br><iframe width="520" height="281" src="https://www.youtube.com/embed/8VoPsAM69RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

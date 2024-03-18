@@ -1,0 +1,129 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean an AC Filter"
+headline: "How to Clean Your AC Filter in 7 Simple Steps"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-02-23
+basePath: https://library.homeserve.com/m/
+heroImage: 7e4e414dc28fb6f0/Blog-DirtyHVACFilter_Rossi_2864.jpg
+heroAltDescription: "very dirty furnace filter"
+metaDescriptions: "Cleaning your air conditioner filter is a simple DIY task for homeowners. Learn how to properly clean an AC filter and how to spot the signs of a dirty one."
+articleAbstract: "An air conditioner filter that's dirty can't do its job sufficiently, and that can lead to pollen, pet dander, dust and other debris ending up in parts of your home where it shouldn't be. Learn how to clean your AC filter and how often, as well as how to detect a dirty one."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clean an AC Filter"
+  parent: HVAC-How-To
+---
+  
+
+Cleaning an air conditioner filter can help you breathe easier — and not just by reducing the amount of dust in your home. An air filter that's dirty can't do its job sufficiently, and that can lead to pollen, pet dander, dust and other debris ending up in parts of your home where it shouldn't be.
+
+**This May Also Interest You:** [**10 Tips to Improve Indoor Air Quality in Your Home**](/en-us/blog/how-to/improve-indoor-air-quality/)
+
+Cleaning your AC filter isn't rocket science, and with the right tools and a little bit of instruction, it can be a simple do-it-yourself project. Before we delve into how to clean an AC filter, let's go over some signs it needs to be swapped out.
+
+Signs You Need to Change Your Home's Air Filter
+-----------------------------------------------
+
+If you haven't marked your calendar to change your air filter, there are a few indicators that you need a new one (or to rinse out your reusable one).
+
+### The Air in Your House Isn't Cool
+
+If you notice that your AC unit isn’t producing cool air like normal, or if the air that comes out is warm, then you may need to change your filter.
+
+### The HVAC Unit Is Hot
+
+If the outdoor heating, ventilation and air conditioning unit is hot to the touch, or if you can feel warm air coming out of the back, then the air filter may be clogged.
+
+### Your Power Bill Is Higher
+
+Many energy companies will give you a year-to-year comparison (if your energy bill doesn’t include this, ask your power company) of your historic use. If your bill is notably higher than in the past, it means your HVAC unit may be working harder due to a dirty, inefficient filter.
+
+### Your Allergies Are Worse
+
+Even in homes with HEPA or hypoallergenic filters, eventually the filter fills up. If your allergies are aggravated, it could be time to change or clean the filter.
+
+### Dust Around the Air Vents
+
+The air filter is designed to remove dust from the air, and if you notice dust near the vents, it could mean that — instead of being trapped in the fibers of the filter — the dust is traveling through your home’s ductwork.
+
+If you’ve changed your air filter and still notice one or more of these issues occurring with your HVAC unit, then there’s likely something else wrong with it. Preventive maintenance can reduce the likelihood of larger repairs, as these packages troubleshoot issues before there’s a breakdown. A maintenance call when you notice the first sign of air conditioner trouble can potentially save you money and perhaps reduce the need for emergency repairs.
+
+<img class="detail-image" src="https://library.homeserve.com/m/10ad48093f077c88/Blog-GettyImages-183796537.jpg" alt="HVAC unit"/>
+-------------------------------------------
+
+Cleaning Your AC Filter: Step-by-Step
+-------------------------------------
+
+The tools you’ll want to gather to [clean a reusable air filter](https://www.wikihow.com/Change-a-Home-Air-Filter) or replace a disposable one are fairly commonplace, and this is considered a beginner-level project. Here’s what you’ll need:
+
+*   A screwdriver to remove the vent cover
+*   A handheld vacuum or a vacuum with a hose attachment
+*   A hairdryer with a cool setting
+*   Your replacement air filter (if you use disposable filters)
+
+Expect the whole process to take less than 2 hours. The steps for cleaning an AC filter are as follows:
+
+### 1\. Kill the Power
+
+Start by shutting off the unit.
+
+### 2\. Remove the Vent Cover
+
+Unscrew the vent cover or use the cover release lever to remove the cover.
+
+### 3\. Clean the Cover
+
+Wipe the vent cover down with warm, soapy water (you don't need a special cleaning solution) to remove dirt and debris.
+
+### 4\. Vacuum Out the Filter
+
+Using your vacuum, remove the dirt and dust from your reusable filter, making sure to get both sides of the filter.
+
+### 5\. Wash the Filter
+
+Once the larger bits of dirt are removed, wash the filter with warm water in a bathtub. Make sure not to soak the filter, but rather use running water to wash smaller pieces of dirt away — or you can, instead, clean the filter outdoors with a garden hose.
+
+### 6\. Dry It Thoroughly
+
+Carefully dry the filter with the hairdryer on cool — not warm — to remove all moisture completely. A damp air filter is an environment conducive to mold growth.
+
+### 7\. Replace the Filter
+
+Once the filter is completely dry, replace it. (If you're using a disposable air filter, you can skip steps 3-6).
+
+**More Related Articles:**
+
+*   [Is an Air Filter Subscription Service Worth the Cost?](/en-us/blog/home-improvement/air-filter-subscription/)
+*   [How to Install a New Air Filter in Your Heating or Cooling System](/en-us/blog/how-to/install-air-filter/)
+*   [How to Change a Furnace Filter](/en-us/blog/how-to/change-furnace-filter/)
+*   [Ways to Make Your Central Air Conditioner More Efficient](/en-us/blog/home-improvement/central-air-conditioner-energy-efficiency-tips/)
+*   [How to Clean an Air Conditioner](/en-us/blog/how-to/clean-air-conditioner/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/2736eae9b38ec552/Blog-154918540.jpg" alt="clean air filters"/>
+-------------------------------------------
+
+Can You Clean and Reuse AC Filters?
+-----------------------------------
+
+Washable, reusable filters can, of course, be cleaned — but disposable paper filters can't. Paper filters aren't designed to shed water after they get wet, and so they should be thrown away. Even if you don’t plan to wash a disposable air filter, other methods of cleaning, such as vacuuming, won’t get all the debris out, and a vacuum won’t reach the inner fibers of the filter, designed to trap and hold particles.
+
+A washable, reusable air filter may be very convenient, as it limits trips to the store, plus it’s more environmentally friendly compared to a filter that ends up in a landfill. However, for other people, reusable air filters may not be as effective. For those who suffer from allergies, for example, cleaning the air filter can trigger a bad reaction, especially since all those allergens — mold spores, dust mites, pollen and pet dander — have concentrated in the air filter. Other people, especially those with older units, may simply not be able to find a reusable filter that fits their HVAC system.
+
+How Often Should I Change My AC Filter?
+---------------------------------------
+
+Knowing _when_ to change the air filter is just as important as knowing how and what kind. Plus, a [clean air conditioner](/en-us/blog/how-to/clean-air-conditioner/) is more efficient, [saving you money](/en-us/blog/how-to/install-air-filter/) in the long run.
+
+The general rule of thumb for changing your home’s HVAC or furnace filter is to do so every 90 days. If you miss a change in the fall or spring, the filter may still be effective, but changing it for summer and winter is critical. In the summer, pollen counts are higher, and a new filter will be more effective, especially for those with seasonal allergies. And, in the winter, the dust from the home’s air ducts can quickly accumulate in the filter, so a new one will be able to trap more particles.
+
+However, if you have pets in the home, you should change the filter more often, as pet hair and dander can quickly coat the filter and reduce its effectiveness. People who live in areas with high pollen counts may need to change the filter more often, too.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="406" height="281" src="https://www.youtube.com/embed/Ahxfi9LugzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

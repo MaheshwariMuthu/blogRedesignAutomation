@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to get rid of ants in the kitchen
+headline: How to get rid of ants in your kitchen naturally
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment']
+publishDate: 2019-07-03
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: ants in kitchen.jpg
+heroAltDescription: How to Remove Ants from kitchen
+metaDescriptions: Are ants invading your kitchen? Here’s how you can get rid of them.
+articleAbstract: Are ants invading your kitchen? Here’s how you can get rid of them.
+category: ['How To']
+
+eleventyNavigation:
+  key: How to get rid of ants in the kitchen
+  parent: How To
+---
+
+Unexpected guests are one thing. I love a good pop in. Unexpected and unwelcome is another story. And when they outstay their welcome? _Oh boy_.
+
+[1]: {{ migrationData.planspage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+:::: blog-info
+All it takes is accidentally leaving food out one time, and the worker ants will come, ready to carry the crumbs back to their queen. And they won't just make one trip. Once they're in, the ants will keep coming, upholding their terrible guest reputation. (_At least they're consistent?_)
+When the ants come marching in, here are some natural ways to get rid of them:
+
+## The vinegar trick
+
+Fun fact: Ants hate the smell of vinegar. Plus, it can [remove the scent from the trails](https://www.thespruce.com/get-rid-of-ants-cheaply-and-naturally-1388157){target="_blank"} that they follow in and out of your house, according to the Spruce. So what's your move? Mix a solution of equal parts vinegar and water, and then use it to wipe down countertops, cupboards, baseboards and any other areas where you've seen the ants crawling. Keep repeating the process until they finally get the hint.
+
+## The coffee cure
+
+Save your used coffee grounds and sprinkle them in the soil around the perimeter of your house and throughout the garden. If you can find the area where the ants are entering your house, place some extra coffee grounds there for good measure. Like vinegar, ants hate the smell of coffee grounds and will head the opposite direction.
+
+## The toxic shutout
+
+Place cucumber and citrus peels in the areas where you see ants. Cleansers with cucumber or citrus scents can also help. According to Care2 Causes, [the peels are toxic to the fungi that ants feed on](https://www.care2.com/causes/10-ways-to-keep-those-pesky-ants-out-of-your-kitchen.html){target="_blank"}, so they won't want to go near them.
+
+[Learn More About Home Repair Plans Near You](https://www.homeserveusa.com/sc/lp/dlp/available-home-repair-plans){target="_blank"}
+
+## The minty medicine
+
+Break out the cleaning supplies and give your kitchen surfaces a good freshen up. Finish with a few drops of essential peppermint oil on a damp cloth, as the minty smell can help repel ants. Alternatively, soak cotton balls in peppermint oil and place them in the areas that are attracting ants, such as window sills, countertops and garbage cans.
+
+## The herbal remedy
+
+Deter ants with a mix of spices and seasonings you have on hand, such as cinnamon, mint, pepper, cloves and garlic. Sprinkle the herbs in the areas where you see the ants, as well as around the exterior of your house.
+
+## The soapy fix
+
+According to Care 2 Cause, dish soap can also help you get rid of the unwelcome guests. Squeeze a thin line of the soap around baseboards, windows, doors and wherever you notice the ants gathering. You can also mix the soap with water, put it in a spray bottle and douse the ant mounds with the solution.
+
+## The baking soda method
+
+Follow the trail of ants to find the colony, and dust the mound with baking soda to stop the invasion at its source. Farmers' Almanac then suggested [spraying the mound with vinegar](https://www.farmersalmanac.com/repel-ants-naturally-27673){target="_blank"}.
+
+## Stop the ants from coming back
+
+Now that the unwelcome guests are finally gone, you'll want to make sure they stay away. Here are some steps you can take to prevent ant invasions:
+::::
+
+::: list-square
+* Clean your kitchen and appliances on a regular basis. (Try this cleaning hack!)
+* Keep bay leaves in cabinets, drawers and containers.
+* Don't let shrubs and trees get too close to the house, as the branches and bushes will act as bridges the ants crawl along to get to your house.
+* [Fix leaks](/en-us/blog/how-to/fix-common-plumbing-leaks){target="_blank"} as soon as you notice them to make sure your plumbing is sealing the ants out.
+* Complete [seasonal maintenance tasks](/en-us/blog/home-improvement/summer-maintenance-checklist){target="_blank"} to keep your home systems in tip-top shape.
+
+Being prepared for HVAC repairs is always a good strategy. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+:::
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}

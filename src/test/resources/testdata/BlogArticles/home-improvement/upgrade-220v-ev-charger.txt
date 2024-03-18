@@ -1,0 +1,59 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Should I Upgrade My 220-Volt EV Charger?"
+headline: "Should I Upgrade My 220-Volt EV Charger?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-07-15
+basePath: https://library.homeserve.com/m/
+heroImage: 6c61857795c31435/Blog-EV_charging_iStock-512550615.jpg
+heroAltDescription: "Electric vehicle charging"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Are there faster alternatives to a 220-volt EV charger? Learn how much upgrading a 220v electric car charger costs and whether it's worth it."
+articleAbstract: "Installing a super-fast Level 3 charger may seem like a no-brainer at first, but this speed comes at a significant cost. Here's what to know about upgrading your 220-volt EV charger."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Should I Upgrade My 220-Volt EV Charger?"
+  parent: ElectricVehicles-Home-Improvement
+---
+  If you need to charge your electric vehicle quickly between journeys, you may wonder if there's a faster, better way to top up your battery. 220-volt EV chargers are significantly quicker than the Level 1 chargers that come free with most electric cars, but they can still feel frustratingly slow when you need to fuel up on a time limit.
+
+**This May Also Interest You:** [**Electric Car Charging at Home: Everything You Need to Know**](https://www.homeserve.com/en-us/blog/how-to/charge-electric-vehicle-at-home/)
+
+Of course, you could simply drive to your nearest public charging station to use an ultra-fast commercial EV charger. However, you may be yearning for the convenience of speedy charging in the comfort of your own home.
+
+220-Volt EV Chargers: Are There Better, Faster Options?
+-------------------------------------------------------
+
+220-volt EV chargers are Level 2 chargers. Level 2 chargers come with various voltage ratings, and 240-volt models are the most common. However, there's no significant advantage in replacing your 220-volt EV charger with a 240-volt model because the difference in charging speed and performance is negligible.
+
+There's only one alternative to electric car charging at 220 volts — installing a Level 3 home charging station. These chargers, also known as DC Fast charging stations, deliver much faster charging rates than Level 2 chargers. A Level 3 charger can charge your vehicle within an hour, compared to between 4 and 10 hours using a Level 2 model. Advances in EV technology could enable even faster charging in the future. However, as we'll explain below, Level 3 chargers are unsuitable for most homes.
+
+How Much Does It Cost to Upgrade a 220-Volt Electric Car Charger?
+-----------------------------------------------------------------
+
+Installing a super-fast Level 3 charger may seem like a no-brainer at first, but this speed comes at a significant cost. According to [HomeGuide](https://homeguide.com/costs/electric-car-charging-stations-cost#level-3), Level 3 chargers cost between $10,000 and $40,000 (CAD 13,193 and CAD 52,773) for the unit alone. Hiring a professional to install the charger costs $4,000 to $50,000 (CAD 5,277 to CAD 65,966) on average, adding up to an eye-watering $14,000 to $90,000 (CAD 18,471 to CAD 118,739) in total.
+
+You'll almost certainly need to significantly upgrade your home's electrical system to accommodate a powerful Level 3 charger. How much this costs depends on your existing system, but you'll likely need to upgrade or replace your electrical circuit panel to allow it to deliver enough electricity. According to data from [Fixr](https://www.fixr.com/costs/install-electrical-circuit-panel-upgrade), replacing an electric panel costs between $1,000 and $3,500 (CAD 1,319 and CAD 4,618). Upgrading an electric panel is costlier, with most homeowners spending between $1,500 and $5,000 (CAD 1,979 and CAD 6,597).
+
+Your electrician may recommend additional upgrades to support your new charger safely. [HomeGuide](https://homeguide.com/costs/electrician-cost-per-hour) says electrician rates vary significantly by job type and area, but the average hourly rate is around $50 to $130 (CAD 66 and CAD 172).
+
+Alternatively, you could consider switching to a different Level 2 charger if you're unhappy with your current model's performance. According to [Fixr](https://www.fixr.com/costs/home-electric-vehicle-charging-station#electric-car-charging-station-installation-cost), most homeowners spend between $600 and $1,200 (CAD 792 and CAD 1,583) on the charger itself and an extra $420 to $800 (CAD 554 to CAD 1,055) for professional installation.
+
+**More Related Articles:**
+
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-it-cost-to-replace-or-upgrade-an-electrical-panel/)
+*   [Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load](https://www.homeserve.com/en-us/blog/how-to/are-phantom-loads-adding-to-your-electric-bill/)
+*   [How Much Does Electricity Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-electricity-cost/)
+*   [15 Ways to Save On Your Electric Bill](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+
+Is Upgrading a 220-Volt EV Charger Worth It?
+--------------------------------------------
+
+Generally, Level 3 chargers are only practical for commercial networks and public charging stations. Even if the astronomical installation costs don't put you off, your utility provider is unlikely to permit you to install these EV chargers. Grids supplying domestic buildings rarely have the capacity to supply Level 3 charging stations, and installing one in your home could place significant pressure on your local electricity supply.
+
+If your local infrastructure can support a Level 3 charger, upgrading from a 220-volt electric car charger is rarely worth it. While these chargers allow you to make short turnarounds between long journeys, the cost is prohibitive for most homeowners. Overall, it's probably cheaper to charge your car at a public Level 3 charging station when you're in a rush than installing your own. Using public chargers is usually more expensive than a home charger, but even frequent use won't approach the cost of installing your own Level 3 charger.
+
+All CAD conversions are based on the exchange rate on the date of publication.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2K4e4feg7_8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="EV Charger Installation | 4 Things to Consider"></iframe>

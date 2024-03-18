@@ -1,0 +1,73 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install an Exhaust Fan in the Bathroom?"
+headline: "How Much Does It Cost to Install an Exhaust Fan in the Bathroom?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-06-22
+basePath: https://library.homeserve.com/m/
+heroImage: 307ab67543a6fdbf/Blog-IMG_3822_ExhaustFan_LL.jpg
+heroAltDescription: "bathroom exhaust fan mounted on ceiling"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Exhaust fan installation costs can vary dramatically depending on the size of the fan. Here's what to know."
+articleAbstract: "Exhaust fan installation costs can vary dramatically depending on the size of the fan, the way it's mounted, and how much labor is required to install roof vents or complete the wiring."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install an Exhaust Fan in the Bathroom?"
+  parent: HVAC-Cost-Guide
+---
+  Bathroom ventilation or exhaust fans are designed to pull damp, dank air out of rooms that otherwise don’t get a lot of circulation. Exhaust fans attach to the ceiling or sometimes to a light fixture. Running an exhaust fan can keep humidity levels down, leaving your mirrors fog-free and reducing the risk of mold growth. In some cases, they can also vent out odors.
+
+**This May Also Interest You:** [**Exhaust Options: A DIY Bathroom Fan Installation Overview**](https://www.homeserve.com/en-us/blog/how-to/install-bathroom-fan/)
+
+Installation costs can vary dramatically depending on the size of the fan, the way it's mounted, and how much labor is required to install roof vents or complete the wiring. We've compiled a cost guide to help you understand how much you can expect to pay to replace or install a bathroom exhaust fan.
+
+Does My Bathroom Need a Fan?
+----------------------------
+
+Building codes vary between municipalities. Section R303 of the [International Residential Code](https://codes.iccsafe.org/content/IRC2021P2) covers the requirement for ventilation in residential properties. Bathrooms are generally required to have ventilation, either in the form of windows or a fan.
+
+Replacing an existing fan is usually a simple job. However, if you're installing a bathroom fan, you may need to get a permit to cover the electrical wiring. Seek advice from your city and contact a licensed electrician to perform the installation.
+
+How Much Does It Cost to Install a Ventilation Fan?
+---------------------------------------------------
+
+According to [Bob Vila](https://www.bobvila.com/articles/cost-to-install-bathroom-fan/), the average cost of a bathroom fan installation is around $383 (CAD 514), but how much you can expect to pay depends on whether you're upgrading an existing fan or if you need to install roof vents, run new wires and fit humidity sensors.
+
+A small bathroom ceiling fan can be purchased for as little as $60 (CAD 81), but the average cost is [$75 to $125](https://www.inchcalculator.com/cost-to-install-bathroom-ventilation-fan/) (CAD 101 to CAD 168), with more feature-rich fans costing a lot more.
+
+According to [Bob Vila](https://www.bobvila.com/articles/cost-to-install-bathroom-fan/)_,_ the labor cost for an electrician to install a bathroom exhaust fan is between $50-$100 per hour (CAD 66.84 to CAD 133.68). A direct replacement of an existing fan with a newer model would be around $200 to $400 (CAD 268 to CAD 537), including labor costs. Installing a simple exhaust fan, plus wiring, new ducts and a roof vent, could cost from $500 to $1,500 (CAD 671 to CAD 2,103). If installation of a new vent hose is required, it could add between $100 and $350 (CAD 134 and CAD 470), depending on the complexity of the job.
+
+Some modern fans have sophisticated features, such as a Bluetooth remote-control option or automation based on detected humidity levels. Fans with these features cost more and may also have higher labor costs for installation due to the need for extra sensors or circuitry.
+
+Overall, the cost to install a roof vent in a property without one is likely to be the most expensive part of any quote.
+
+**More Related Articles:**
+
+*   [What’s the Span of Your Fan? Here’s How to Measure for a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/measure-ceiling-fan/)
+*   [How to Remove a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/remove-ceiling-fan/)
+*   [How Much Does it Cost to Install or Replace a Ceiling Fan?](https://www.homeserve.com/en-us/blog/cost-guide/ceiling-fan-installation/)
+*   [How to Wire a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/wire-ceiling-fan/)
+*   [4 Ways to Clean Your Ceiling Fan (No. 3 Is Pretty Clever!)](https://www.homeserve.com/en-us/blog/how-to/clean-ceiling-fan/)
+
+Do I Need an Electrician to Install a Bathroom Exhaust Fan?
+-----------------------------------------------------------
+
+Installing a bathroom fan in a room that doesn’t currently have one is a significant job because you'll need to have an experienced contractor fit the wiring and run air ducts to vent the air out of the room through the wall or roof.
+
+You'll need to have an electrician request the permit and install the fan for you. If you don't have those permits, you have no guarantee that the electrical wiring is safe, which could cause problems with your home insurance or complicate the process if you decide to sell your property.
+
+Can I Install a Bathroom Fan Myself?
+------------------------------------
+
+Installing a bathroom fan plus ducts is not a job for the average DIY enthusiast. Replacing a ceiling fan where the wiring and vents are already in place is a simpler job. If you have all the tools and an understanding of electrical safety, check out our guide on [how to install an exhaust fan](https://www.homeserve.com/en-us/blog/how-to/install-bathroom-fan/) to give you an idea of what the job entails.
+
+Choose the Right Fan for Your Bathroom
+--------------------------------------
+
+When you're shopping for an exhaust fan for your bathroom, it's easy to be tempted by a stylish looking one, ignoring other factors such as size or efficiency. Be sure to read the specifications of any fan you buy to make sure it will work in your bathroom.
+
+Consider how noisy the fan is when in operation, especially if your bathroom is near a study or bedroom. Look at how powerful the ventilation features are and how easy it is to replace any filters.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/8mzG-IJupUA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Ceiling Fan Direction | Summer vs. Winter"></iframe>

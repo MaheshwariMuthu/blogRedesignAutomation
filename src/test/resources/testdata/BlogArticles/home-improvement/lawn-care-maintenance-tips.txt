@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Take Care of Your Lawn"
+headline: "Bought a House With a Lawn for the First Time? Here's How to Take Care of It"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-11-12
+basePath: https://library.homeserve.com/m/
+heroImage: 620d87833b855ced/Blog-daniel-watson-8vBpYpTGo90-unsplash.jpg
+heroAltDescription: "green lawn mower mowing grass"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Maintaining your lawn is just one piece of the homeownership puzzle, but it’s one that shouldn’t be overlooked. Here's how to do it like a seasoned pro."
+articleAbstract: "Lawn care doesn’t have to be a daunting task. With a little know-how and some willingness to work a bit, basic lawn maintenance is a task that most homeowners can handle on their own."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Bought a House With a Lawn for the First Time? Here's How to Take Care of It"
+  parent: Exterior-Home-Home-Improvement
+---
+  
+
+Buying a new home is a big step, and with that comes a host of new responsibilities. In addition to figuring out how to furnish and care for your home, you’ll also need to consider how to maintain your yard. A healthy lawn adds curb appeal and makes your outdoor spaces more enjoyable.
+
+**This May Also Interest You:** [**Mow Money: Here’s How Much Lawn Care Services Cost**](https://www.homeserve.com/en-us/blog/cost-guide/lawn-service-cost/)
+
+The good news is that lawn care doesn’t have to be a daunting task. In fact, with a little know-how and some willingness to work a bit, basic lawn maintenance for a new home is a task that most homeowners can handle on their own. Read on to learn more about the tenets of basic lawn maintenance, so you move into your home with some new lawn care knowledge — even if you don’t have a mower yet!
+
+Basic Lawn Maintenance Tasks Everyone Should Perform
+----------------------------------------------------
+
+All yards are different, but when it comes to lawn maintenance, the most important order of business is typically grass care. Grass maintenance is one of those areas that can start to feel overwhelming pretty quickly if you’re a lawn newbie and start hearing terms like “lawn fertilizer,” “soil pH” and “grass types.”
+
+Yes, grass is something you can certainly geek out on — if you’re into that kind of thing. But if you’re like the rest of us and are just trying to keep your grass cut and yard looking decent, please know that you don’t have to know _all_ the lawn things to be a good grass steward.
+
+Here’s a crash course:
+
+<img class="detail-image" src="https://library.homeserve.com/m/280c677dacbd7ab1/Blog-GettyImages-173702889.jpg" alt="A green colored electric lawnmower with an electrical cord attached to it is stopped on a well maintained green lawn in front of a green wheelbarrow and landscaped trees and shrubbery"/>
+
+### Mowing
+
+If you have grass in your new yard, mowing is going to be your top priority when it comes to lawn-care maintenance. The main considerations when it comes to mowing are mowing heights and mowing frequency.
+
+Although it can be tempting to mow your grass as low as possible to give you a longer stretch between mowings, cutting your grass too low can stress it out, especially in the summer. Aim for a grass height of around three inches, maybe even four, in the peak of summer. The exception to this rule would be in the spring (when you can go a little shorter to trim dead grass blades off warm season grasses) and for the last mow of the fall (when a lower cut can help keep snow mold at bay).
+
+As far as mowing frequency goes, late spring and summer will likely require weekly mowing, although every five to six days is often ideal in mid-summer. Depending on temperatures where you live, you can typically start to spread out your mowing to every week and a half starting around September or October when grasses grow slower, until giving your lawn one final cut before winter sets in.
+
+**More Related Articles:**
+
+*   [Should You Upgrade to Electric Lawn Tools?](https://www.homeserve.com/en-us/blog/buying-guide/electric-lawn-tools/)
+*   [How to Fertilize Your Lawn for Fall](https://www.homeserve.com/en-us/blog/how-to/fertilize-lawn-in-fall/)
+*   [Rake It or Leave It? Here's Why You May Just Wanna Leave Your Leaves Where They Fall](https://www.homeserve.com/en-us/blog/home-improvement/should-you-rake-leaves/)
+*   [How to Keep Your Lawn Green While Also Conserving Water](https://www.homeserve.com/en-us/blog/how-to/conserve-water-on-lawn/)
+*   [Got Brown Patches and Bald Spots? Here’s How to Fix Lawn Damage](https://www.homeserve.com/en-us/blog/how-to/fix-lawn-damage/)
+
+### Watering
+
+Watering your lawn is an often overlooked, but important part of overall lawn care if you want your grass looking its best. Rather than light daily watering, deeper, more saturating watering sessions are the way to go for healthy, happy grass. The average lawn needs 1 to 1.5 inches of water a week, so aim to water your lawn once or twice a week, preferably in the early morning or evening, when temperatures are cooler so as to prevent excess evaporation. You also want to make sure not to overwater your grass, which can lead to root rot and fungus growth. To avoid this, make sure your lawn can fully absorb each watering cycle, without leaving any standing water. You can also pull back to shorter or less frequent waterings if you think you may be overwatering.
+
+<img class="detail-image" src="https://library.homeserve.com/m/262cf7c698a7aad3/Blog-GettyImages-180709301.jpg" alt="Broadcast Spreader Applying Fertilizer to Grass"/>
+
+### Seeding and Weeding
+
+If you are mowing and watering your lawn regularly, well done. Those two tasks will go a long way in terms of yard health. If you want to take lawn care to the next level, you can now turn to weeding and seeding your lawn. Adding grass seed to bare patches in your lawn can give your yard a more cohesive and cared-for look. The best time to add grass seed to your yard is usually early fall, but check on the particulars for your climate and seed type to be sure. Also, check the weed seed percentages on the back of your grass seed bag and try to shoot for the lowest percent possible to ensure you’re adding the right kind of new plant life to your yard.
+
+Weeding is hardly the most glamorous part of lawn care, but it does help ensure your grass can grow unencumbered, without having to compete for resources with other plants. Depending on personal preference and the severity of weeds, you may want to tackle your weeds by hand, or you may want to use a weed killer, or herbicide. The downside to herbicides is that many of them contain chemicals that can pollute soil and waterways, which can harm animal life. If you want to avoid herbicides, know that there are [hand-weeding tools](https://www.lowes.com/pd/Fiskars-200s-Hand-Tool-Weeder/1001459644?cm_mmc=shp-_-c-_-prd-_-sol-_-ggl-_-LIA_SOL_242_Tools-Watering-Storage-Sheds-_-1001459644-_-local-_-0-_-0&ds_rl=1286981&gclid=Cj0KCQjw48OaBhDWARIsAMd966BzzSbs7w-TG3vvIZgnHEPAnrB4qapofS-XKToyg4G3a6f3pqHASW4aAiXsEALw_wcB&gclsrc=aw.ds) out there to help make the job easier, along with [weeding tool sets](https://www.homedepot.com/p/Ames-Weeding-Garden-Tool-Set-Set-of-3-5957800/315043658?source=shoppingads&locale=en-US&&mtc=SHOPPING-RM-RMP-GGL-D28I-028_011_TOOLS-PB-AMES_TRUE_TEMPER_INC-NA-SMART-NA-NA-MK577871838-NA-BT3-8379-CON-NA-NA&cm_mmc=SHOPPING-RM-RMP-GGL-D28I-028_011_TOOLS-PB-AMES_TRUE_TEMPER_INC-NA-SMART-NA-NA-MK577871838-NA-BT3-8379-CON-NA-NA-71700000099604899-58700007991185891-92700072718029177&gclid=Cj0KCQjw48OaBhDWARIsAMd966BpsC2WQXYtHbhnn7UR_GGFGa6uN2rtwzFJUXgwSD2ZcMn9G_fQi68aAktcEALw_wcB&gclsrc=aw.ds) for larger weed issues.
+
+Healthy Lawn, Happy Homeowner
+-----------------------------
+
+Although maintaining your lawn is just one piece of the homeownership puzzle, it’s one that shouldn’t be overlooked. Keeping your lawn healthy helps to showcase your home and makes your yard more inviting, so you can enjoy life to the fullest in your new home, both inside and out.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

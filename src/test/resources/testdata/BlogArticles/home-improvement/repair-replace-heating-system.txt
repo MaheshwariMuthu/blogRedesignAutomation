@@ -1,0 +1,100 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Should You Repair or Replace Your Heating System?"
+headline: "Should You Repair or Replace Your Heating System?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-27
+basePath: https://library.homeserve.com/m/
+heroImage: 302688ed33cfa27e/Blog-iStock-133979971-cold-guy.jpg
+heroAltDescription: "freezing cold man wearing scarf and fur hat"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "This handy guide explains how to decide whether to repair your heating system or replace it altogether."
+articleAbstract: "There are several factors to consider in deciding whether to repair or replace your heating system, including your budget and the system's age. This handy guide will help you weigh the pros and cons."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Should You Repair or Replace Your Heating System?"
+  parent: HVAC-Home-Improvement
+---
+  A broken heating system is enough to make anyone's heart sink, especially if problems arise during colder months. This situation poses a dilemma for homeowners: Is it better to repair or replace your heating system?
+
+**This May Also Interest You:** [**What Do I Do If My Heat Goes Out?**](https://www.homeserve.com/en-us/blog/home-improvement/broken-furnace-stopgaps/)
+
+There are several factors to consider, including your budget and the system's age. This handy guide explains how to decide whether to repair your system or replace it altogether.
+
+Comparing Repair and Replacement Costs
+--------------------------------------
+
+### Furnace
+
+According to [HomeGuide](https://homeguide.com/costs/new-furnace-replacement-cost), the national average cost to replace a furnace is $3,700 (CAD 4,600), with a typical price range of $2,000 to $5,400 (CAD 2,500 to CAD 6,800).
+
+The average cost to repair a furnace is significantly cheaper, coming in at around $360 (CAD 450), based on data from [Fixr](https://www.fixr.com/costs/repair-furnace). However, how much you pay for furnace repairs varies considerably depending on what's wrong with it. A filter replacement could cost as little as $85 (CAD 105), but replacing the condenser and evaporator coils will likely set you back around $2,050 (CAD 2,570). Therefore, you'll need to weigh the value of your furnace against the repair costs when deciding whether to repair or replace it.
+
+### Boiler
+
+On average, it costs around [$6,100](https://homeguide.com/costs/boiler-replacement-cost) (CAD 7,650) to replace your boiler with a new model. Your bill might fall between $2,200 and $7,000 (CAD 2,750 and CAD 8,800) for a standard boiler, and $4,000 and $10,000 (CAD 5,000 and CAD 12,500) for a high-efficiency unit.
+
+The cost of repairing a boiler is around [$500](https://howmuch.net/costs/boiler-repair) (CAD 630) on average. Fixing a straightforward issue like clearing mineral deposits could set you back $75 to $250 (CAD 95 to CAD 315), but repairing or replacing a faulty valve could cost up to $1,000 (CAD 1,250). Therefore, if you're deciding whether to repair or replace your boiler purely on cost, repairing it is often the more affordable option.
+
+### Heat Pump
+
+It costs between [$2,500 and $7,000](https://homeguide.com/costs/heat-pump-cost#replacement) (CAD 3,100 and CAD 8,880) to replace a heat pump, assuming you already have ductwork and an air handler installed. It will cost significantly more if you need to install new ducts or remove an old furnace.
+
+Meanwhile, the average cost to repair a heat pump is [$650](https://www.fixr.com/costs/heat-pump-repair) (CAD 815), with a typical price falling between $250 and $950 (CAD 315 and CAD 1,190). A simple repair, such as recharging the refrigerant, could set you back just $90 (CAD 115). Repair costs could reach as high as $3,500 (CAD 4,400) for a major job like replacing a broken compressor. In that case, you might be better off shelling out for a new unit.
+
+### Radiant Floor Heating
+
+According to [Bob Vila](https://www.bobvila.com/articles/radiant-floor-heating-cost/), installing a new radiant floor heating system costs about $3,800 (CAD 4,800) on average, though you might pay anywhere from $1,700 to $6,000 (CAD 2,100 to CAD 7,500). Costs can vary considerably depending on the size of your home and the system type.
+
+How much it costs to repair radiant floor heating depends on the issue and its location. The average repair cost is around [$400](https://www.homesace.com/price/how-much-does-radiant-floor-heating-cost) (CAD 500), but you could end up spending as much as $1,000 (CAD 1,250), or as little as $100 (CAD 125).
+
+**More Related Articles:**
+
+*   [Here’s How Long All the Systems in Your Home Will Last](https://www.homeserve.com/en-us/blog/home-improvement/home-systems-lifespan/)
+*   [How Much Does It Cost to Replace a Boiler?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-replacement/)
+*   [4 Signs Your Boiler Needs to Be Repaired or Replaced](https://www.homeserve.com/en-us/blog/home-improvement/boiler-repair-replacement/)
+*   [How Much Does It Cost to Install a Heat Pump?](https://www.homeserve.com/en-us/blog/cost-guide/heat-pump/)
+*   [It’s Too](https://www.homeserve.com/en-us/blog/how-to/turn-down-radiator/) Hot in Here! How to Turn Down Your Radiator
+
+When Is It Better to Replace Your Heating System?
+-------------------------------------------------
+
+Taking a look at the significantly lower price of repair, you might be wondering whether it ever makes sense to replace your heating system. If the repair costs are around 50% or more of what it would cost you to install a new system, you probably want to think about a replacement. You might also be better off replacing your system if it keeps breaking down or it's reaching the end of its expected lifespan. Otherwise, you could end up spending a lot on repairing the system only to replace it soon anyway.
+
+When Is It Better to Repair Your Heating System?
+------------------------------------------------
+
+Generally, it's a good idea to repair your heating system if the costs to repair it are significantly cheaper than buying and installing a new system. If your system is relatively new and otherwise in good condition, you're usually better off paying to have it fixed.
+
+How Long Do Different Types of Heating Systems Typically Last?
+--------------------------------------------------------------
+
+Knowing how long your system should last can help you decide whether to repair or replace your heating system. It’s not worth repairing a system that’s already in its last years of usable life.
+
+The figures below are based on average lifespans. Your system's brand, quality and how well you maintain it can affect how long it lasts.
+
+### Furnace
+
+The average lifespan for a furnace is between [15 and 20 years](https://www.bobvila.com/articles/how-long-does-a-furnace-last/). You can extend your furnace's lifespan by maintaining it carefully and installing the correct furnace size for your property.
+
+### Boiler
+
+You can expect your boiler to last between [10 and 15 years](https://www.homeserve.co.uk/living/heating-and-cooling/how-long-do-boilers-last/). Servicing your boiler annually and picking the correct unit size for your home can help improve its lifespan.
+
+### Heat Pump
+
+According to Home Inspection Insider, the average heat pump has a [15-year lifespan](https://homeinspectioninsider.com/how-long-should-a-heat-pump-last/). Maintaining your heat pump correctly can help it last between 20 and 25 years. However, living in a coastal climate can reduce your heat pump's lifespan to around 10 years.
+
+### Radiant Floor Heating
+
+How long your radiant floor heating system lasts depends on your system type. You can expect an electric system to last around [15 years](https://www.realhomes.com/us/advice/radiant-floor-heating), and hydronic systems can last 25 years or longer with proper maintenance.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

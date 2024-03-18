@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Should I Test My Water Heater's Pressure Relief Valve?"
+headline: "Should I Test My Water Heater's Pressure Relief Valve?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-03
+basePath: https://library.homeserve.com/m/
+heroImage: 1aded574f4bfec36/Blog-GettyImages-174625704.jpg
+heroAltDescription: "water heater"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Testing your water heater pressure relief valve should be at the top of your home maintenance checklist."
+articleAbstract: "A stuck or faulty pressure relief valve could allow the pressure inside your tank to reach dangerous levels — with potentially explosive results. Testing your water heater pressure relief valve should be at the top of your home maintenance checklist."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Should I Test My Water Heater's Pressure Relief Valve?"
+  parent: Plumbing-Home-Improvement
+---
+  
+
+It can be all too easy to forget about your water heater when everything appears to be working correctly. However, a stuck or faulty pressure relief valve could allow the pressure inside your tank to reach dangerous levels — with potentially explosive results. Therefore, testing your water heater pressure relief valve should be at the top of your home maintenance checklist.
+
+**This May Also Interest You:** [**Why Is My Tankless Water Heater Banging?**](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+
+You don't need to be a professional plumber to check your water heater's safety mechanisms. With the right knowledge, even novice DIY-ers can test their water heater pressure relief valves.
+
+What Is a Water Heater Pressure Relief Valve?
+---------------------------------------------
+
+A water heater pressure relief valve is exactly what it says on the tin: a safety mechanism that prevents excessive pressure from building up in your water heater's tank. Without it, there would be a risk of the tank bursting and flooding your house. A bursting water tank can also cause serious injury and damage to your home's structure, so keeping the pressure relief valve in good working order is essential.
+
+Pressure inside your water tank occurs when the water expands and produces steam as it heats. The hotter the water, the greater the potential for high pressure. Although some pressure is normal and can escape through the pipes supplying your fixtures, the pressure relief valve activates when the pressure exceeds safe levels. It releases some hot water and steam until the pressure level normalizes.
+
+Where Is It Located?
+--------------------
+
+A water heater pressure relief valve is a short, flat lever attached to a pipe running through the water heater. Its location varies depending on what water heater model you have, but you can usually find it above the tank or high up on one of the sides.
+
+<img class="detail-image" src="https://library.homeserve.com/m/9fcf9429f49b60f/Blog-Dominion_WATERHEATER_SHMQ32CDFCB4_07.jpg" alt="Water heater repair"/>
+
+Should You Test It?
+-------------------
+
+Sometimes, a water heater's pressure relief valve can get stuck due to a build-up of deposits. Corrosion can also damage the valve and stop it from working correctly. A stuck or broken valve could allow the pressure inside your tank to exceed the safe limit, so it's crucial to test it regularly.
+
+How Do You Test a Water Heater Pressure Relief Valve?
+-----------------------------------------------------
+
+You can test your water heater pressure relief valve by opening it slightly with a bucket underneath to catch dripping water. Don't force the valve open if you feel resistance. You'll know that your valve is working properly if you can see or hear water and gas escaping. If you can't see water escaping, or you can't turn the valve easily, it's time to call a plumber to repair or replace the valve. You should also call a plumber if you see signs that the valve is leaking, such as water pooling on the floor under the tank.
+
+Once you've completed the test, close the valve carefully. It's important to be gentle to avoid damaging it.
+
+Sometimes, a water heater pressure relief valve will start leaking after you test it, even if the test shows that it's working correctly. You can often solve this problem by gently opening and closing the valve a few times to remove any deposits stopping it from shutting. Call a plumber to check and repair the leak if this doesn't work.
+
+**More Related Articles**
+
+*   [How to Replace the Anode Rods on Your Water Heater](https://www.homeserve.com/en-us/blog/how-to/replace-water-heater-anode-rods/)
+*   [What’s the Deal With Self-Cleaning Water Heaters?](https://www.homeserve.com/en-us/blog/home-improvement/self-cleaning-water-heater/)
+*   [How to Flush your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [How to Turn Off Your Water Heater — and When It May Come Up](https://www.homeserve.com/en-us/blog/how-to/turn-off-water-heater/)
+*   [Tired of Tepid? Here’s How to Turn Up the Temp on Your Water Heater](https://www.homeserve.com/en-us/blog/how-to/turn-up-water-heater/)
+
+How Often Do You Need to Test a Water Heater Pressure Relief Valve?
+-------------------------------------------------------------------
+
+You should test your water heater pressure relief valve once or twice each year. The more often you check the valve, the higher the chances of detecting a problem early and preventing a costly leak or burst tank.
+
+### Preventing Issues With the Pressure Relief Valve
+
+One of the most effective ways to prevent problems with your water heater's pressure relief valve is to ensure that the drain line is installed correctly. It should angle downwards and match the valve's exhaust port size to allow water to drain properly and prevent corrosion. It's also essential to use a drain line made from heat-resistant material, like copper. You should call a plumber to replace the drain line if you're concerned that your installation is incorrect.
+
+Insulating the drain line can stop it from freezing in cold weather. A frozen drain line will stop the pressure release valve from functioning correctly, even if it's otherwise in good condition.
+
+What Safety Precautions Should You Take?
+----------------------------------------
+
+When you open a water heater pressure relief valve, the water that drips out will be very hot. Therefore, it's essential to wear protective gloves and eyewear and avoid opening the valve all the way. You may also wish to consider wearing protective clothing to protect your skin against burns.
+
+When Should You Replace a Water Heater Pressure Relief Valve?
+-------------------------------------------------------------
+
+You will need to replace your water heater pressure relief valve if it's stuck or damaged. A plumber can tell you whether it's best to repair the valve or replace it altogether. Furthermore, it's wise to replace the valve every five years or so, especially if it hasn't been tested recently.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

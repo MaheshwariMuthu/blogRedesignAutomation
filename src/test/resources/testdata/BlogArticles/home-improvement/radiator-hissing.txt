@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is My Radiator Hissing?"
+headline: "3 Reasons Your Radiator Is Hissing (and 3 Fixes You Can Try)"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-06-15
+basePath: https://library.homeserve.com/m/
+heroImage: 2db6d2d5d956a2ee/Blog-GettyImages-1072789340.jpg
+heroAltDescription: "male plumber working on a residental radiator"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If your radiator is hissing, there's an issue that needs to be addressed. Here are some quick fixes."
+articleAbstract: "Many radiator problems make themselves known with a banging, gurgling or hissing sound. If you've noticed your radiator hissing, that's a sure sign there's an issue that needs to be addressed. Here are some quick fixes."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My Radiator Hissing?"
+  parent: HVAC-Home-Improvement
+---
+  Modern heating systems have been replacing radiators for decades, but some older homes and apartments — particularly those on the East Coast — still rely on radiant heat to ward off the winter chill. Although radiators are the workhorses of home heating options, they still need some attention to keep running efficiently. Many problems make themselves known with a banging, gurgling or hissing sound. If you've noticed your radiator hissing as it heats your home, that's a sure sign there's an issue that needs to be addressed.
+
+**This May Also Interest You:** [**How to Bleed Your Radiator**](https://www.homeserve.com/en-us/blog/how-to/bleed-furnace/)
+
+Fortunately, this often requires only an easy fix that can get your radiator back in top form and allow you to have the peace and quiet you deserve.
+
+Why Is My Radiator Hissing?
+---------------------------
+
+A noisy radiator is not just an irritant; it's a sign the system has a problem. Because there are a few causes behind a radiator making noise, it's important to pinpoint the issue so it can be addressed.
+
+### There Might Be a Leak
+
+One of the most common culprits for a hissing radiator is leaking air. Inspect the unit to see if there are any cracks or holes in the metal that are allowing air to escape. Because many radiators use steam to generate heat, it may be possible to identify the problem area by watching for leaking steam or water. Remember to check around any connections or valves in case the fittings are leaky.
+
+Applying some diluted dish soap can help pinpoint a hidden leak. Watch for bubbling, and remember to remove the soap when the source of the leak is found. Also, it's important to note that some radiators can get hot, so this must be done with care.
+
+### Bad Radiator Air Valve
+
+Another issue that can get a noisy radiator hissing is a problem with the air valve. The radiator air valve — sometimes called the air vent or steam valve — is found on one-pipe steam boiler systems. The vent remains open to allow air to enter the radiator until it begins the heat cycle. Once the cycle begins, as the radiator fills with steam, the heat-sensitive valve closes to lock the steam inside. For this type of radiator, a minor amount of intermittent hissing is normal and reflective of the valve changing positions. Sometimes, the valve can get stuck in its open position, allowing steam to escape. If hissing is sustained during the heating cycle, a faulty radiator steam valve could be to blame.
+
+### Trapped Air
+
+For hot water radiators that do not use steam, hissing noises can happen when air is trapped within the radiator. These types of radiators are not vented and are built to be closed systems. The water is boiled and then dropped into the radiator to heat the cast iron, dispersing radiant heat throughout the room. Sometimes, air can travel to the radiator as water is pushed through the pipes. These air bubbles can make a hissing sound when heated.
+
+**More Related Articles:**
+
+*   [Is It Safe to Put Things on or Near Your Radiator?](https://www.homeserve.com/en-us/blog/home-improvement/can-you-put-items-on-radiator/)
+*   [It’s Too Hot in Here! How to Turn Down Your Radiator](https://www.homeserve.com/en-us/blog/how-to/turn-down-radiator/)
+*   [Noisy Radiator: Why Does My Heating System Clang?](https://www.homeserve.com/en-us/blog/home-improvement/heating-system-clang/)
+*   [How to Fix a Radiator Leak in 4 Steps](https://www.homeserve.com/en-us/blog/how-to/fix-radiator-leak/)
+*   [What’s the Difference Between a Furnace and a Heat Pump?](https://www.homeserve.com/en-us/blog/home-improvement/furnace-heat-pump-differences/)
+
+How Do I Fix It?
+----------------
+
+Most causes of radiator hissing are simple to fix if you feel you're up to the task. Remember to always turn your radiator off and allow it to cool before attempting any repairs. Don't be afraid to call in a professional if you don't feel comfortable fixing it yourself.
+
+### Radiator Leaks
+
+Once the leak is located and the radiator is cool, drain any water using the bleed valve. If the leak is due to a poor connection, the best solution is to either replace the fitted part or apply some thread seal tape to see if it fixes the problem. If the leak is found along the body of the radiator, it will likely need to be replaced. These types of leaks are usually caused by corrosion, which means the integrity of the entire unit is suspect.
+
+### Air Valve Replacement
+
+Once your radiator is cool and empty of any water, remove the faulty air valve using a wrench and spanner. Make sure the old and new valves match in size. If they don't, it might be necessary to remove the olives (ring-like pipe fittings) from the pipes. Fit the new valve on and use the wrench and spanner to tighten the nuts, taking care to tighten them slowly to prevent damaging the threading. Once the valve is replaced, refill the radiator with water and bleed it once to release the trapped air.
+
+### Releasing Trapped Air
+
+Once it has cooled, it's time to [bleed the radiator](https://www.homeserve.com/en-us/blog/how-to/bleed-furnace/) to release the air trapped inside. Begin by laying down towels or rags under the bleed valve located on the top of the radiator. Use a screwdriver or bleed key to slowly turn the valve until you hear a hissing sound. This is the air escaping the radiator. Keep it open until you see water begin to squirt out, then turn the valve to close it.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

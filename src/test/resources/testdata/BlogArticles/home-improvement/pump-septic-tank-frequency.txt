@@ -1,0 +1,58 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Often You Should Pump Your Septic Tank and Why"
+headline: "How Often Should I Pump My Septic Tank?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-02-12
+basePath: https://library.homeserve.com/m/
+heroImage: 5afac4579feb266b/Blog-GettyImages-1280678065.jpg
+heroAltDescription: "a man is pumping a septic tank from the backyard using a green hose from a large truck"
+metaDescriptions: "Scheduling inspections and regular pumping ensures that your septic system will operate at peak performance for many years. Here's what you need to know."
+articleAbstract: "Scheduling inspections and regular pumping ensures that your septic system will operate at peak performance for many years. Here's what you need to know about how often to pump your septic tank."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Often Should I Pump My Septic Tank?"
+  parent: Plumbing-Home-Improvement
+---
+
+According to the EPA, more than 1 in 5 households in the United States use a septic tank system. Still, the prospect of owning and maintaining a septic system can make some homeowners a little anxious. And no wonder: They’re large, seemingly complex wastewater systems buried in your yard. Just like anything unfamiliar, they can be intimidating. But rest easy, septic system skeptics: Taking care of your septic tank isn’t especially difficult or expensive.
+
+**This May Also Interest You:** [**How to Keep Septic Tank Pumping Costs to a Minimum**](https://www.homeserve.com/en-us/blog/cost-guide/septic-tank-pumping-costs/)
+
+With proper maintenance, septic tank systems can provide high-quality wastewater management for your household for many years.
+
+What Is a Septic Tank?
+----------------------
+
+Septic tanks are generally used in homes that aren’t served by city sewers — but, contrary to what you might think, they’re not found exclusively in rural areas. A surprising number of people living in urban and suburban areas utilize septic tanks, too.
+
+Aside from managing a home’s wastewater, a well-designed septic system has benefits that can extend to public health and the environment. Instead of sending a home’s waste to a centralized wastewater treatment facility via a sewer system, septic tanks manage and treat wastewater independently by removing pollution while replenishing aquifers and groundwater.
+
+Septic tanks work by allowing wastewater to flow into a large two-chamber tank where the solid waste settles to the bottom and the remaining liquid passes along through perforated pipes and into a drain field, where it’s absorbed into the surrounding soil.
+
+Pump It Up
+----------
+
+While septic system maintenance is rather minimal, septic tanks need to be pumped regularly. A tank’s pumping frequency depends on a few key factors: household size, amount of wastewater produced and tank size. In general, it’s recommended that a family of four with a 1,000-pound tank have it pumped every three to five years.
+
+That said, tank pumping isn’t always needed so frequently. Septic-tank pumping service providers can send a technician to your home to inspect your tank. They’ll make sure it’s operating properly and measure the tank’s waste levels. By having your tank inspected, you could _save_ money by not paying to have it pumped unnecessarily.
+
+Without an inspection, it may be difficult to find out when your tank is getting too full. There are, however, a few clear signs that your tank needs pumping. For example, standing water or pooling water in your yard, or lush, green grass growing near your drain field can signal that your tank is too full. A full tank might even emit some pretty nasty odors inside and outside your house.
+
+Depending on your region, pumping your tank can cost anywhere from [$200 to $500](https://www.homeadvisor.com/cost/plumbing/clean-septic-tank/#:~:text=On%20average%2C%20it%20costs%20%24400,pay%20between%20%24250%20to%20%24600.) — but, neglecting to inspect and pump your tank regularly could lead to some costly repairs. A failed septic system, or one that’s severely overloaded, can even lead to flooding inside your home.
+
+**More Related Articles:**
+
+*   [What's the Difference Between Septic and Sewer?](https://www.homeserve.com/en-us/blog/home-improvement/difference-between-septic-and-sewer/)
+*   [3 Signs of Sewer and Septic Issues](https://www.homeserve.com/en-us/blog/home-improvement/sewer-septic-back-up/)
+*   [How to fix a Clogged Sewer Line](https://www.homeserve.com/en-us/blog/how-to/fix-clogged-sewer-line/)
+*   [Does a Home Warranty cover Water and Sewer Lines?](https://www.homeserve.com/en-us/blog/buying-guide/water-sewer-line-home-warranty-coverage/)
+*   [5 Plumbing Myths Every Homeowner Should Know](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-system-myths/)
+
+Maintenance Is Key
+------------------
+
+Scheduling inspections and pumping your tank regularly ensures that your septic system continues to operate at peak performance for many years. While septic systems might seem scary, a well-designed, properly maintained septic system can operate with no interruption for many years.
+
+_You never know when your home's plumbing systems that feed into your septic system might need repair. See how plans from HomeServe can help you be prepared for the costs associated with covered plumbing repairs._

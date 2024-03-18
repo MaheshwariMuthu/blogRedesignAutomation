@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "CES 2024: 7 Cool Smart Home Products We’re Excited to See"
+headline: "CES 2024: 7 Cool Smart Home Products We’re Excited to See"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2024-01-09
+basePath: https://library.homeserve.com/m/
+heroImage: 532663eb85b96be7/Blog-IMG_7069_LLeazenby.jpg
+heroAltDescription: "photo of CES 100 sign"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "HomeServe is leaving home! Follow our CES 2024 coverage."
+articleAbstract: "HomeServe is leaving home! Follow our CES 2024 coverage."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "CES 2024: 7 Cool Smart Home Products We’re Excited to See"
+  parent: Interior-Home-Home-Improvement
+---
+  HomeServe has left home! We have traveled to Las Vegas this week for [CES 2024](https://www.ces.tech/). Formerly known as the Consumer Electronics Show, CES is one of the biggest trade shows of its kind, with some 4,000 exhibitors — from major brands like Kohler, Panasonic and GE to scrappy startups hoping to make a splash in their space — showcasing a gang of technological innovations. Some of these products, no doubt, may prove to be blue-sky fantasies that never really make it out of the concept stage, but many others can give us a glimpse into the future of smart home tech that is transforming how we manage, power, protect, conserve and live in our households.
+
+**This May Also Interest You: CES 2024:** [**Get Smart: 5 Essential Smart Home Devices For Every Area of Your Home**](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-devices/)
+
+CES kicks off today and runs through Friday in multiple locations along the famed Las Vegas strip, including Mandalay Bay, the Venetian and the Las Vegas Convention Center. The HomeServe Editorial team is on site and reporting on what we see live from the exhibit floor. You can follow along with the news [right here on the HomeServe blog](https://www.homeserve.com/en-us/blog/), as we focus on the areas nearest and dearest to our hearts — and most relevant to our readers — including products pertaining to your heating, ventilation and air conditioning, plumbing and electrical systems, as well as home appliances.
+
+Also be sure to check out our live CES videos on HomeServe social media channels:
+
+*   [TikTok](https://www.tiktok.com/@homeserveusa)
+*   [Instagram](https://www.instagram.com/homeserve_usa/)
+*   [YouTube Shorts](https://www.youtube.com/@HomeServeUSA/shorts)
+
+It should go without saying that, in so-called Sin City though we may be, what happens in Vegas, in this case, will pointedly _not_ stay in Vegas — and least not where the latest tech trends and innovations coming down the pike and into your home are concerned. We’ve already got a jackpot’s worth of products we’re excited to see, and we haven’t so much as pulled a single slot machine lever.
+
+Here are seven cool things we’ll be looking for at CES 2024:
+
+[1\. GE Profile UltraFast With Ventless Heat Pump Technology](https://www.homeserve.com/en-us/blog/home-improvement/ge-profile-heat-pump-tech-ces-2024/)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This is an all-in-one washer dryer combo that promises to cut your laundry-loading burden in half by enabling you to wash and dry your clothes in the same machine, in one fell swoop.
+
+[2\. FreePower for Countertop](https://www.homeserve.com/en-us/blog/home-improvement/freepower-ces-2024/)
+---------------------------------------------------------------------------------------------------------
+
+Tired of having your whole family’s digital devices taking up every outlet in the house and their chargers covering every surface? Now you can wirelessly charge your smartphone on the same surface you chop broccoli on.
+
+[3\. Hisense Smart Built-In Dishwasher](https://www.homeserve.com/en-us/blog/home-improvement/hisense-dishwasher-ces-2024/)
+---------------------------------------------------------------------------------------------------------------------------
+
+This dishwasher lets you load the dishwasher, shut the door, start the cycle and go about your business. The smart device determines for itself how much soap it will need to dispense, so you needn’t concern yourself with detergent, and it’ll even pop the door open when it’s done in order to let air in for faster drying.
+
+[4\. Current Model G Electric Grill](https://www.homeserve.com/en-us/blog/home-improvement/current-backyard-ces-2024/)
+----------------------------------------------------------------------------------------------------------------------
+
+This smart, Wi-Fi-enabled outdoor electric grill heats up in just 10 minutes and can get to 700 degree Fahrenheit, and can be controlled via a smartphone app that will send you a notification when it’s time to take the meat off — all while reducing CO2 emissions.
+
+[5\. Sevvy Smart Cooker](https://www.homeserve.com/en-us/blog/home-improvement/sevvy-smart-cooker-ces-2024/)
+------------------------------------------------------------------------------------------------------------
+
+This countertop cooker sends electric currents through the food, allowing it to cook inside at the same speed as outside, reducing energy use by a purported 90% while preserving an estimated 40% of the food’s nutritional content due to lower temperatures and reduced total cook times.
+
+[6\. iFLO Smart HVAC Drain Line Cleaner](https://www.homeserve.com/en-us/blog/home-improvement/iflo-ces-2024/)
+--------------------------------------------------------------------------------------------------------------
+
+This smart system automatically keeps your AC drain line clean — something _you’re_ supposed to be doing manually, but probably aren’t — releasing microbes to eliminate the goop that builds up in your line and prevents condensation from flowing, resulting in malfunctioning air conditioning, mold growth and possible water damage.
+
+[7\. Alertify Property Monitor](https://www.homeserve.com/en-us/blog/home-improvement/alertify-ces-2024/)
+---------------------------------------------------------------------------------------------------------
+
+This property-nanny device specializes in detecting smoking, excessive noise and elevated occupancy levels in order to prevent damage from parties and other undesirable activities when, for example, your teen offspring are home and you’re out of town or you’re renting out your house. When a prohibited activity is detected, you’ll get real-time alerts to your phone or computer letting you know what’s happening.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2K4e4feg7_8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="EV Charger Installation | 4 Things to Consider"></iframe>

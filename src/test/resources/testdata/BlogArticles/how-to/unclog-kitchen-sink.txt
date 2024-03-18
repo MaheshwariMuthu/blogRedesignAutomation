@@ -1,0 +1,165 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Kitchen sink not draining? Here are 6 ways to unclog it
+headline: Kitchen sink not draining? Here are 6 ways to unclog it
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment']
+publishDate: 2020-06-09
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: unclog-sink.jpg
+heroAltDescription: How  to Unclog Sink
+metaDescriptions: Before you spend your hard-earned money on a plumber, you can use a plunger and a snake to clear up clogs.
+articleAbstract: Is your kitchen sink not draining? Here’s how you can fix it.
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0919
+stickyDisplayText: Call today for a local plumber.
+lightboxCopy: Local plumbing pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/plumbers/hs/same_day
+  large:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner1.png
+      alt: Plumbing eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner2.jpg
+      alt: Plumbing eLocal Banner 2
+category: ['How To']
+
+eleventyNavigation:
+  key: Kitchen sink not draining? Here are 6 ways to unclog it
+  parent: Plumbing-How-To
+---
+
+:::: blog-info
+There I was, minding my own business, washing the dishes after dinner like I always do. Just moments into scrubbing and rinsing the frying pan, I noticed that the water wasn't draining from the sink. I checked to see if anything was blocking the drain opening - nothing. I switched on the garbage disposal, but that was only a temporary fix. As I continued washing dishes, the drainage was only getting slower. With a clogged sink on my hands, my after-dinner cleanup was about to get more intense.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+I'm sure I'm not the only one to experience the inconvenience of clogged drains. Clogged kitchen sinks are among the most common drainage issues to plague homeowners, largely because food debris and soap residue are nightmares for smooth draining. Thankfully, clogged drains are also one of the easiest home repairs to make on your own. However, before you roll up your sleeves and get into the do-it-yourself spirit, make sure you're aware of the [plumbing myths](/en-us/blog/home-improvement/plumbing-system-myths){target="_blank"} that could lead you astray.
+
+When it comes to the kitchen sink, for instance, don't think Drano and other chemical-based drain cleaners are the easy, go-to fix. The chemicals can sometimes cause more damage to your system, even if the clog seems fixed initially. Plus, backsplash from stubborn blockages could seriously harm your skin and eyes. You can avoid these catastrophes with other clog repair methods, some using common household items and others requiring some straightforward plunger or plumber's snake action.
+
+Don't call the plumber yet! There's a good chance you can fix the problem yourself with one of these six methods to unclog a kitchen sink:
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+## 1. Attack with boiling water
+
+When hair, grease, soap residue and other debris get stuck in your drain, boiling water may be all your pipes needs to loosen the blockage. It's the simplest fix, which means it should be your first move when trying to unclog a sink.
+
+Easy as 1-2-3, here are the steps to follow:
+
+* Bring half a gallon of water to a boil on your stove or use a kettle to heat the water.
+* Pour the boiling water directly into the drain opening.
+* Turn on the faucet to see if the water drains in a steady fashion. If it's still draining slowly or standing still in the sink, repeat the process.
+
+Important note: Don't try this method if your drain is attached to PVC pipes, as the boiling water could melt or damage the plastic.
+
+If the boiling water fails to dislodge the clog after the second try, it's time to move on to another method. Unfortunately, you have yourself a sink clog that's too stubborn for the simple boiling water approach.
+
+## 2. Check the garbage disposal
+
+If your sink has a garbage disposal, it could be the culprit of your drainage issues. If the clog is in the disposal, turning it on will usually break up the blockage. Overheated or dysfunctional disposals may not even turn on, but you can activate the reset switch at the side or bottom of the unit for an easy reboot. After resetting the disposal, try turning it on again to clear the clog.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+If you turn on the disposal and hear a low humming sound, the unit could be jammed or broken. Before doing anything to [fix your disposal](/en-us/blog/how-to/fix-garbage-disposal){target="_blank"}, remember to disconnect the power to the unit and never - and we mean never - stick your hand in the disposal. From there, you can try to break up the clog in the disposal by turning the blades manually. You can do that by inserting an Allen wrench into the hole on the bottom of the disposal, and twisting until you feel less resistance, meaning the blockage is beginning to break up. If that doesn't work, follow these [tips to unclog your garbage disposal](/en-us/blog/how-to/unclog-garbage-disposal){target="_blank"}. Once unclogged, turn the power back on and test the disposal. If all looks and sounds good, turn the faucet to see if the sink drainage is back to normal.
+
+Keep in mind that your garbage disposal inspection may not reveal any clogs or issues, in which case you can skip straight to a different unclogging method.
+
+## 3. Plunge away the blockage
+
+Once you establish that the disposal isn't the problem, it's time to bring out the plunger. But keep in mind: While you can use the toilet plunger if it's all you have on hand, Dengarden suggested [using a flat-bottomed](https://dengarden.com/home-improvement/How-to-Clear-a-Clogged-Kitchen-Sink-Drain){target="_blank"} one for the job. With your plunger at the ready, follow these steps:
+
+* Fill the sink with hot water until it's about halfway full and creates a seal around the drain.
+* Position the plunger over the drain and begin pumping up and down quickly several times.
+* Remove the plunger and wait to see if the water drains.
+* Repeat the process until the water drains freely.
+
+If the sink still isn't draining properly after multiple plunging attempts, you know the drill. Time to try a different method.
+
+## 4. Break it down with baking soda and vinegar
+
+This approach is a natural alternative to using chemical drain cleaners on clogged drains. Much to your convenience, baking soda and vinegar are also common household items that you're likely to already have in your kitchen. Follow these steps to let the mixture work its magic:
+
+* Remove standing water from the sink with a cup or bowl.
+* Pour one cup of baking soda down the drain, using a spatula or spoon to push the powder down the drain if necessary.
+* Pour one cup of white vinegar down the drain opening.
+* Place a stopper or cover on the drain to seal the opening.
+* Let the mixture sit for 15 minutes.
+* Remove the cover and run hot tap water down the drain.
+* Use boiling water to break up more intense clogs.
+
+As with any unclogging method, this natural alternative doesn't have a 100% success rate. However, if it seems like you're making progress on the clog after completing the steps, repeat the process to double down on the blockage.
+
+## 5. Try the plumber's snake
+
+The clogs that put up a fight will require the strength of a plumber's snake to battle the blockage. The tool has a coiled spiral snake that reaches down into the drain. Once the snake hits an obstruction, you can crank the handle to dislodge the debris and pull it out of the drain. Electric snakes pack even more power to tackle clogged drains.
+
+If you don't have a plumber's snake, you can create a makeshift one with a wire coat hanger. Simply use a pair of needle-nose pliers to unwind the hanger into a long piece of wire. Keep the hooked end, as this is what you'll use to grab onto the debris. If necessary, you can use the pliers to adjust the angle of the hook so that it can easily fit through the drain opening.
+
+No matter which tool you're using, simply feed it down the drain a few feet at a time. Try not to push too roughly, as you might accidentally push the clog further down the pipe. When you feel the tip of your tool hit an obstruction, hook it on and pull the debris up through the drain. Keep doing this until you feel confident that the blockage is gone. Run hot water down the drain to see if you're right.
+
+## 6. Clean the P-trap
+
+If the water is still not draining correctly, there might be a blockage in the P-trap, aka the elbow-shaped pipe under your sink. Food, grease and other debris may be stuck in the pipe, causing your sink to drain slowly or not at all because the water hits a snag on its way down.
+
+The fix is disassembling the pipe to clean out the gunk that's causing the blockage. Warning: This task can get a little messy, so you might want to prepare yourself with gloves, goggles and towels. When you're ready, follow these steps to clean the P-trap:
+
+* Place a bucket underneath the pipe. This will catch any backed up water or debris that may fall out when you open the P-trap.
+* Unscrew the connectors on the trap that hold the curved piece to the vertical and horizontal drain pipe. There should be a slip nut on either end of the P-trap.
+* Remove the P-trap and clean the pipe of all debris, grime and residue.
+* Reconnect the trap.
+* Turn on the faucet to run water down the drain.
+
+If the drainage situation is still not up to par, the clog may be farther up the pipe. Back under the sink you go to find the source of the blockage. Here's what to do when you get there:
+
+* Repeat the steps to remove the P-trap.
+* Remove the horizontal pipe that connects the system to the wall.
+* Feed a plumber's snake, auger or coat hanger into the wall pipe. When you feel an obstruction, use your tool to pull the blockage out from the pipe.
+* Repeat the process until you remove all debris.
+* Reassemble the pipes and P-trap, tightening the connectors by hand. (Pro tip from Home Depot: [Do not over-tighten](https://www.homedepot.com/c/ah/how-to-unclog-a-sink/9ba683603be9fa5395fab90b9840228){target="_blank"}, as this may cause the connectors to crack.)
+* Run hot water to flush the drain.
+
+Before you celebrate your handiwork, check under the sink while the water's running to make sure there isn't any leaking from the pipes. If you do notice leaks, make sure all the connectors are tightened. Once you're free from the drips, dry any water spillage from under the sink or on the floor and you're good to go.
+
+If you've made it to this point and your sink still isn't draining, there could be a larger issue at play. It's time to give in and [schedule an appointment with a plumber](/en-us/blog/home-improvement/professional-plumber-repairs){target="_blank"} for a professional fix.
+
+## How to prevent future clogs
+
+Now that your kitchen sink is draining properly again, make sure you're taking measures to prevent clogs from coming back. The most important preventative measure is refraining from disposing of harmful items down the drain. That includes:
+
+* Grease, fats and oils.
+* Meat.
+* Coffee grounds.
+* Egg shells.
+* Starchy foods, such as pasta, rice or bread.
+* Fruit peels, pits and stickers.
+* Gum.
+* Paint.
+* Paper products, such as paper towels or food wrappers.
+
+Instead, pour cooking grease in an old can and dispose of the container once it's full. You can add certain waste, including coffee grounds, to mulch or compost piles.
+
+The Home Depot also advised homeowners not to overload the garbage disposal. Try not to grind more than one cup of food waste at a time, and, of course, avoid sending any of the above items to the disposal. Another pro maintenance tip: Create an equal solution of vinegar and water, and freeze the mixture in an ice cube tray. About once a month, grind a few of the cubes down your disposal to scrape away food-waste buildup and keep the unit fresh. Here are more [garbage disposal do's and don'ts](/en-us/blog/home-improvement/garbage-disposal-maintenance-tips){target="_blank"} to keep your drains clean and clear.
+
+Another good habit for your pipes sake is running hot water down the drain after each sink use to keep everything clear. You might also want to use a drain cover to catch debris before they cause damage in the pipes.
+
+While clogged drains are an easy DIY fix, being prepared for serious plumbing troubles before they arise is always a good strategy. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+::::
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5j759jOLiwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+

@@ -1,0 +1,73 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Smart Utility Meter?"
+headline: "Why Your Utility Company Wants to Install a Smart Meter"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-06
+basePath: https://library.homeserve.com/m/
+heroImage: 52211ef9d813471e/Blog-SmartWaterMain_ERossi_3794.jpg
+heroAltDescription: "A new  smart  water meter sits inline with a residential water main"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Has your utility company sent you a notice about installing a smart meter? Here's everything you should know."
+articleAbstract: "Has your utility company sent you a notice about installing a smart meter? Here's everything you should know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "My Utility Company Wants to Install a Smart Meter. What's That?"
+  parent: Exterior-Home-Home-Improvement
+---
+  A smart meter is much like a traditional meter that keeps track of how much electricity your household uses. However, a smart meter doesn’t require a meter reader to come out and record your usage each month.
+
+**This May Also Interest You:** [**How Much Do Utilities Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/utilities/)
+
+The smart meter automatically communicates usage data and other metrics to the utility company. This includes information such as current and voltage levels.
+
+What Is a Smart Utility Meter?
+------------------------------
+
+A smart utility meter is a digital device. It remotely communicates with the utility company, usually sending data about your home’s energy usage incrementally during the day — typically once every 15 minutes to an hour.
+
+In addition to consumption data, smart meters also communicate other important information to the utility company. For example, most alert the utility company to a power outage, reducing the amount of time it takes to dispatch technicians for repairs.
+
+Why Does My Utility Company Want to Install a Smart Meter?
+----------------------------------------------------------
+
+According to the [National Electrical Manufacturers Association](https://www.nema.org/standards/technical/meters-and-sockets/smart-meter-benefits-for-utilities), smart meters benefit utility companies in several ways:
+
+* **They provide customer information in real-time.** Unlike traditional meters that are read monthly, smart meters can provide near up-to-the-minute usage stats. This allows the utility company to identify peak usage periods.
+* **They can give instant alerts for outages or other system problems.** Because data from customers’ smart meters is sent to the utility regularly, utilities can more easily respond to issues like outages. The company can find out exactly where and when power was disrupted.
+* **They can be used for remote disconnection of utility services.** This saves man-hours and other expenses for the company.
+* **They offer better analytical abilities.** Searching for the source of a power sag, swell or disruption can be tedious and expensive in the absence of smart meter data.
+
+Are Smart Meters Free?
+----------------------
+
+Utility companies typically don’t charge the customer for installing a smart meter. Smart meters are usually installed as part of an upgrade to local utilities. Still, there may be additional fees charged by some utilities.
+
+**More Related Articles:**
+
+*   [How Much Does Electricity Cost?](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/)
+*   [More Power to You: How to Read Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/read-electricity-bill/)
+*   [Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load](https://www.homeserve.com/en-us/blog/how-to/phantom-loading/)
+*   [How to Take Advantage of Time-of-Use Rates and Lower Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/save-electricity-during-peak-hours/)
+*   [Do You Have to Call 811 Before You Dig? Yes. Here’s Why](https://www.homeserve.com/en-us/blog/home-improvement/what-is-811/)
+
+What Are Some of the Pros and Cons of a Smart Meter?
+----------------------------------------------------
+
+There are several advantages to having a smart meter instead of a traditional meter. Smart meters provide outage notifications in real time, which can be handy if you’re not home. It can also provide consumers with more control of the cost of their electricity and give them the ability to track their own energy usage. The latter allows consumers to improve their energy usage by discovering patterns in overuse.
+
+One con of implementing smart meters is that consumers are often reluctant to change to a new process. Some consumers may be wary of the new collection process for their data and may be worried about privacy issues. In some areas, there are additional fees for smart meters, which results from the utility trying to recoup its expenses in installing the meters.
+
+More ominously, some smart meters have been known to [overheat and catch on fire](https://www.wired.com/2012/09/self-combusting-smart-meters/) in the past. Still, even with this potential peril, the majority of the millions of smart meters in the country have proven to be very safe to use. There’s also the myth that these meters emit high levels of radiation. A report by the [California Council on Science and Technology](https://ccst.us/) determined that there were no “potential health impacts from smart meters.”
+
+Are Smart Meters Just for Electricity?
+--------------------------------------
+
+No. They are also used — although less widely — to measure the consumption of other utilities. For example, smart meters may be implemented to record usage and metrics regarding natural gas or water usage.
+
+The Bottom Line
+---------------
+
+Smart meters were once considered the exception, but this isn't the case anymore. In fact, the [Federal Energy Regulatory Commission](https://cms.ferc.gov/sites/default/files/2020-12/2020%20Assessment%20of%20Demand%20Response%20and%20Advanced%20Metering_December%202020.pdf) released a report in 2020 noting that usage of smart meters in the U.S. has more than doubled since 2011. Of the 154 million working electrical meters in the country, nearly 57% of them are smart meters. It was estimated that smart meter installation would reach 90 million in 2020.

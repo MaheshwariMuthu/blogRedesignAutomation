@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Homeowners vs. Renters Insurance: What's the Difference?"
+headline: "Homeowners Vs. Renters Insurance: What's the Difference?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-07-20
+basePath: https://library.homeserve.com/m/
+heroImage: 2fe18eb9d1626146/Blog-GettyImages-1180932025.jpg
+heroAltDescription: "Man and house model calculating with calculator"
+metaDescriptions: "There are several differences you’ll find between a homeowners insurance policy and a renters insurance policy. Here are a few of the most important ones."
+articleAbstract: "Homeowners need homeowners insurance, and renters need renters insurance. There are several differences you’ll find between a homeowners insurance policy and a renters insurance policy. Here are a few of the most important ones."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Homeowners Vs. Renters Insurance: What's the Difference?"
+  parent: Interior-Home-Home-Improvement
+---
+  
+
+This one seems pretty self-explanatory, right? Homeowners need homeowners insurance, and renters need renters insurance. In either case, insurance is essential for protecting your property and belongings. But they aren’t exactly the same thing. The type of coverage offered in these policies varies based on your needs as a homeowner or renter.
+
+**This May Also Interest You:** [**How Much Does Homeowners Insurance Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/homeowners-insurance/)
+
+There are several differences you’ll find between a homeowners insurance policy and a renters insurance policy. Here are a few of the most important ones.
+
+Is Homeowners Insurance the Same as Renters Insurance?
+------------------------------------------------------
+
+The main difference between the two is that homeowners insurance covers the building and its contents, while renters insurance covers your unit but not the building. If you rent, your landlord is responsible for purchasing separate insurance to cover the building.
+
+That said, there are many similarities between homeowners and renters insurance. Both policy types include personal property coverage, which means that you can file a claim if your belongings are damaged or stolen. They also include personal liability coverage, which means that the policy will cover your legal fees if, say, someone is injured while on your property.
+
+Both homeowners and renters insurance include additional living expenses coverage to help pay for alternative accommodation if your home is inhabitable following a fire or other disaster. Your policy will also cover medical payments if you or someone else is injured in your home.
+
+Is Renters Insurance Cheaper Than Homeowners Insurance?
+-------------------------------------------------------
+
+Apart from coverage, the most significant difference between homeowners and renters insurance is the price.
+
+According to Insurance.com, the average cost for homeowners insurance in the United States is [$1,824 per year](https://www.insurance.com/home-and-renters-insurance/home-insurance-basics/average-homeowners-insurance-rates-by-state), assuming coverage worth $200,000 and a $1,000 deductible. However, policy prices will vary depending on various factors, including your property age, type and how much personal property coverage you need. The most influential factor affecting homeowners insurance prices is where you live.
+
+Renters insurance cover is significantly cheaper, costing an average of [$325 per year](https://www.insurance.com/average-renters-insurance-rates) — assuming you opt for $100,000 in personal liability coverage. Like homeowners insurance, rates will vary depending on your area and how much coverage you want for your personal belongings.
+
+<img class="detail-image" src="https://library.homeserve.com/m/178261477fd6d1d6/Blog-GettyImages-1165384568.jpg" alt="Europe modern complex of residential buildings"/>
+-------------------------------------------
+
+Do Renters Need Homeowners Insurance?
+-------------------------------------
+
+Renters are only responsible for insuring their home's contents, so they don't need to pay for homeowners insurance. Meanwhile, the landlord insures the building itself.
+
+It's important for renters to make sure they have adequate insurance in place to protect their personal belongings and ensure medical and liability coverage. Some landlords only accept tenants with renters insurance to avoid financial disputes in case of injury or damage.
+
+**More Related Articles:**
+
+*   [How to Do a Home Inventory Before Disaster Strikes](https://www.homeserve.com/en-us/blog/how-to/create-home-inventory/)
+*   [Does Homeowners Insurance Cover Plumbing Repairs?](https://www.homeserve.com/en-us/blog/buying-guide/homeowners-plumbing-insurance/)
+*   [Got Plumbing Problems? Here’s What Plumbing Issues Homeowners Insurance Covers … and What It Doesn’t](https://www.homeserve.com/en-us/blog/buying-guide/plumbing-system-home-warranty-coverage/)
+*   [What’s the Difference Between a Home Warranty and Home Insurance?](https://www.homeserve.com/en-us/blog/buying-guide/home-warranty-home-insurance-differences/)
+*   [What Does Homeowners Insurance Cover … and What Doesn’t It?](https://www.homeserve.com/en-us/blog/home-improvement/what-does-homeowners-insurance-cover/)
+
+Do You Need to Change Your Homeowners Insurance If You Rent Your House?
+-----------------------------------------------------------------------
+
+If you decide to rent out your property, it's important to check that your current homeowners insurance policy is adequate. Most people renting out their home will need to purchase a specialized landlord policy, but it may depend on how long and how often you intend to have tenants in the property.
+
+According to the [Insurance Information Institute](https://www.iii.org/article/coverage-for-renting-out-your-home), your homeowners policy may allow you to rent out your home for a short period — such as if you intend to rent out a spare room for a big football game. You should always check with your insurer beforehand and provide a formal notification. However, if you do this regularly, it constitutes business activity, requiring hotel or bed and breakfast coverage.
+
+If you intend to do a long-term rental, you will need to purchase landlord insurance. These policies tend to cost more than regular homeowners insurance because you are statistically more likely to file a claim. Landlord insurance covers the building and any of your personal property left on the premises. It also includes liability and medical coverage and is likely to reimburse you for lost earnings if you can't rent it out for a certain period because of a covered event.

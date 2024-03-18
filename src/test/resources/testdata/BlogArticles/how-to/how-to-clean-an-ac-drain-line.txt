@@ -1,0 +1,108 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean an AC Drain Line"
+headline: "How to Clean an AC Drain Line"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2023-02-26
+basePath: https://library.homeserve.com/m/
+heroImage: 5deb28aa46146bb6/Blog-CondensateDrainClean_Erossi_3340.jpg
+heroAltDescription: "pvc pipe being used as a condensation drain for an air conditioner"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Learn how to clean an AC drain line to prevent water damage and mold growth in five simple steps, here."
+articleAbstract: "If your AC drain line becomes clogged, water damage and mold growth in and around your AC can result, or your air conditioner may stop working entirely. Here's how to keep it clean."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clean an AC Drain Line"
+  parent: HVAC-How-To
+---
+  
+
+The drain line is an essential, yet often overlooked, part of your air conditioner. If it becomes clogged, water damage and mold growth in and around your AC can result, or your air conditioner may stop working entirely.
+
+**This May Also Interest You:** [**How to Maintain Your Central Air Conditioner: 3 Top Tasks**](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-tips/)
+
+Here’s how to keep it clean and functioning in tip-top shape.
+
+What Is an AC Drain Line?
+=========================
+
+Your air conditioning unit cools your home by removing moisture and heat from the air. The moisture that’s captured during this process (called condensate) drips into a drain pan at the bottom of the indoor evaporator coil unit. The condensate is then shuttled outdoors through a small drain line — also called a condensate drain line — attached to the bottom of the pan. That is, unless the drain line becomes clogged.
+
+How Can I Tell If My AC Drain Line Is Clogged?
+==============================================
+
+Many modern air conditioning units have sensors inside the drain pan that alerts you if a clog is detected in the drain. However, if you have an older unit without this feature, look for the following signs of a clogged drain line:
+
+* **Full drain pan:** If the drain line is clogged, water will back up into and fill up the drain pan.
+* **Water around the indoor unit:** If there’s water on the ground around your AC’s indoor evaporator coil unit, water may be overflowing from the drain pan because of a clog in the drain line.
+* **AC won’t turn on:** Some units have sensors inside the drain pan that shuts off power to the unit if it detects that the drain pan is full. This feature prevents water damage to the air conditioner and surrounding floor that may result from water overflowing from the pan.
+* **Musty odor when the AC is running:** Standing water inside the drain pan can cause mold and mildew to develop. If you smell a musty, mildewy odor in your home when the air conditioner is running, it’s likely because the moldy air inside the drain pan is circulating through your HVAC system.
+
+Why Is my AC Drain Line Clogged?
+================================
+
+The moist environment of your air conditioner’s drain pan and drain line creates the perfect environment for mold and algae to develop. Over time, these substances can accumulate inside the drain line to the point that they clog it completely. In addition, dirt, debris, insects and other foreign objects may make their way into the line and cause it to clog.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/3e4fb4acdc18f492/Blog-CondensateDrainClean_Erossi_3339.jpg" alt="pouring white vinegar down a pvc pipe being used as a condensation drain for an air conditioner"/>
+===========================================
+
+How to Clean an AC Drain Line
+=============================
+
+Tools and Materials
+-------------------
+
+*   Gloves
+*   Flushing solution: Vinegar, bleach, hot water or hydrogen peroxide
+*   Wet-dry vacuum (optional)
+*   Rag, duct tape or wet-dry vacuum drain line attachment (optional)
+
+Step 1: Turn Off Your Air Conditioner
+-------------------------------------
+
+While there’s minimal risk of electrocution when cleaning the drain line, you can play it safe by shutting off the power to your AC before working on it. Turn the power off at the thermostat, then turn off the breaker that controls the AC on your home’s main electrical panel.
+
+Step 2: Identify the Drain Line
+-------------------------------
+
+Locate the outdoor and indoor portion of your drain line. The outdoor segment is typically a 3/4-inch PVC pipe with an open end that allows water to drain out of, and is often located near the air conditioner’s outdoor condenser unit. The indoor portion will be connected to the drain pan on the bottom of the indoor evaporator coil unit.
+
+Step 3: Find the Access Point
+-----------------------------
+
+Once you’ve identified the indoor drain line, find the access point that will allow you to get inside the line. On most drain lines, this will be a T-shaped fitting with a cap on top.
+
+Pull off the cap and take a look inside. If you can see the blockage or large pieces of debris, put on a pair of gloves and remove as much material as you can by hand.
+
+Step 4: Flush the Line
+----------------------
+
+With the cap removed, pour in a solution that will break down the blockage and kill any mold or algae that’s causing the clog.
+
+You can use 1 cup of distilled white vinegar, liquid bleach, hot water or hydrogen peroxide. However, do not mix bleach and vinegar together since that produces a [poisonous gas](https://www.homeserve.com/en-us/blog/home-improvement/household-cleaners-not-to-mix/).
+
+Allow the solution to sit for at least 30 minutes, or until the clog clears. As it sits, monitor the outdoor drain for evidence that the clog has cleared, such as the flushing solution, dirty water or debris coming out of the line. After you suspect the clog has cleared, flush out the line with water to remove any residual material. Verify that the line is draining properly.
+
+Step 5: Use A Wet-Dry Vacuum (If Necessary)
+-------------------------------------------
+
+If the flushing solution fails to clear the clog, you can try to remove the blockage with a wet-dry vacuum. Place the end of the vacuum hose over the open end of the drain line, then seal the gap between the hose and line with a rag or duct tape. Alternatively, you can use a [drain line adapter](https://www.amazon.com/gp/product/B01LYZ6REM/ref%3Das_li_tl?ie=UTF8&tag=topfoostorev-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LYZ6REM&linkId=8b65f08af29b77948b69dbac721d2357) that’s specifically designed to connect a wet-dry vac’s hose to the end of a
+
+3/4-inch drain line. In either case, run the vacuum for a few minutes to suck the clog out of the line.
+
+How Do You Prevent AC Drain Line Clogs?
+=======================================
+
+The best way to prevent your AC drain line from clogging is to flush the line every one to three months. Doing so will kill any mold or algae growing inside the line and clear out any built-up dirt or debris.
+
+Having your air conditioner inspected annually by a qualified HVAC technician is another excellent way to monitor the conditioner of your AC’s drainage system and prevent clogs. In addition to the drain line, they will inspect your evaporator and condenser coils, blower fan and motor and filter. They’ll also perform any necessary [maintenance tasks](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-tips/) that will maximize the lifespan and efficiency of your AC while preventing expensive repairs down the road.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

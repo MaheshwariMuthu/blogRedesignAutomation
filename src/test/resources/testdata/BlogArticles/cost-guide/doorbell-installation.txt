@@ -1,0 +1,63 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install or Replace a Doorbell?"
+headline: "How Much Does It Cost to Install or Replace a Doorbell?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-10-01
+basePath: https://library.homeserve.com/m/
+heroImage: 7c2098fbe9511806/Blog-GettyImages-133913957.jpg
+heroAltDescription: "Doorbell"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "When it comes to doorbell installation costs, how much you end up paying depends on your setup and needs."
+articleAbstract: "When it comes to doorbell installation costs, how much you end up paying depends on your setup and needs. Here’s what you need to know."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install or Replace a Doorbell?"
+  parent: Exterior-Cost-Guide
+---
+  Most of the time, your doorbell just sits there on the frame, ignored. When you're waiting for an important delivery or visitor, however, its chime is the only sound you want to hear. If your doorbell is quiet or sometimes fails to ring, it's a good idea to replace it before it causes you to miss deliveries — or worse, visits from friends!
+
+**This May Also Interest You:** [**How to Install a Video Doorbell**](https://www.homeserve.com/en-us/blog/how-to/install-video-doorbell/)
+
+When it comes to doorbell installation costs, how much you end up paying depends on your setup and needs. Here’s what you need to know.
+
+Doorbell Installation Costs: How Much Is It?
+--------------------------------------------
+
+According to [Porch.com](https://porch.com/project-cost/cost-to-install-a-doorbell), the average cost of installing a doorbell is about $300 (CAD 400), including materials and labor. Most homeowners pay somewhere between $225 and $355 (CAD 300 and CAD 470). The cost to replace doorbells is usually slightly less than the cost of installing one, especially if it's possible to use the existing doorbell's wiring system with the new bell.
+
+If you need to drill new channels for the wires, fit a new socket or install new chimes, the installation cost will be higher. Fortunately, it's often possible to reuse wiring from your existing doorbell installation, so an upgrade or replacement for an old doorbell is usually a fairly simple and inexpensive job.
+
+How Much Does It Cost to Add a Wired Doorbell?
+----------------------------------------------
+
+Costs for a doorbell can vary significantly, depending on whether the bell is a simple battery-operated one, a wired doorbell or one of the more modern, internet-connected video devices such as a Ring doorbell. For the purposes of this guide, we're considering the cost of plain old wired doorbells without additional security features.
+
+The average cost of a wired doorbell is about $150 (CAD 200), including installation labor, but this can vary. If you're just replacing certain parts rather than installing a whole new system, costs can be much lower. [This Old House](https://www.thisoldhouse.com/curb-appeal/21016684/how-to-fix-a-doorbell) notes these prices for common replacement parts:
+
+* **Doorbell button**: $7(CAD 9)
+* **Chime:** $15 to $80 (CAD 20 to CAD 105)
+* **Transformer:** $12 (CAD 16)
+
+If your home doesn't currently have a wired doorbell, installing one will require running some electrical wiring from the door to an electrical socket and to wherever you wish to have chimes located. This is a fairly simple job, but it does require some tools and an understanding of how to work with electricity safely — meaning you’ll probably want to call an electrician.
+
+In most cases, it takes an electrician two to three hours to install a wired doorbell. Labor costs should be around $100 to $250 (CAD 130 to CAD 330). If you want to install a smart video doorbell, expect the job to take slightly longer to account for any testing or potential technical issues that arise when setting the doorbell up. That means costs will be higher, too.
+
+**More Related Articles:**
+
+*   [How to Install or Replace a Doorbell](https://www.homeserve.com/en-us/blog/how-to/doorbell-installation/)
+*   [How to Set Up A Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/setup-ring-doorbell/)
+*   [Take a Ring Off It: How to Remove a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/remove-ring-doorbell/)
+*   [How Much Does It Cost to Install a Nest Doorbell?](https://www.homeserve.com/en-us/blog/cost-guide/nest-doorbell-installation/)
+*   [How to Install a Video Doorbell](https://www.homeserve.com/en-us/blog/how-to/install-video-doorbell/)
+
+Do You Need an Electrician to Install a Doorbell?
+-------------------------------------------------
+
+If you're confident in your home improvement skills and know how to work with electrical systems, you can install a doorbell yourself. For most people, however, fitting a wired doorbell is a job best left to the professionals. This is particularly true if you're planning on installing a doorbell with wireless features; a DIY installation attempt could void the product’s warranty.
+
+Electricians and experienced general contractors are better equipped than amateurs to do the job right the first time around. They can also troubleshoot issues with the transformer or wiring — leading to a quicker and easier installation process.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

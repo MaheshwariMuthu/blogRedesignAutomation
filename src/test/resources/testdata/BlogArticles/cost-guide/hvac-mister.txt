@@ -1,0 +1,63 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install an HVAC Mister?"
+headline: "How Much Does It Cost to Install an HVAC Mister?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-10-19
+basePath: https://library.homeserve.com/m/
+heroImage: 7f6e235aac4e9efb/Blog-How-Much-Does-It-Cost-to-Install-an-HVAC-Mister.jpg
+heroAltDescription: "illustration of AC unit with mister"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "An AC cooling system can help your air conditioning system run more efficiently, saving you money on energy and HVAC repairs."
+articleAbstract: "If energy costs are taking the shine off your summertime fun, an HVAC misting system could be well worth the investment. These clever gadgets can help your air conditioning system run more efficiently, saving you money on energy and HVAC repairs."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install an HVAC Mister?"
+  parent: Plumbing-Cost-Guide
+---
+  Ah, summertime. Pool days, barbecues, vacations ... and sky-high cooling bills. According to the [National Energy Assistance Directors Association](https://neada.org/wp-content/uploads/2023/07/summercoolingestPR.pdf), soaring temperatures led to a predicted 11.7% increase in cooling bills in the summer of 2023, with households spending $61 (CAD 83) more on average to cool their homes.
+
+**This May Also Interest You:** [**Should You Repair or Replace Your Air Conditioner?**](https://www.homeserve.com/en-us/blog/home-improvement/repair-replace-air-conditioner/)
+
+If rocketing energy costs are taking the shine off your summertime fun, an HVAC misting system could be well worth the investment. These clever gadgets can help your air conditioning system run more efficiently, saving you money on energy and HVAC repairs.
+
+What Is an HVAC Misting System?
+-------------------------------
+
+HVAC misting systems, such as Mist-n-Save or Cool-n-Save, attach to an existing AC unit. They connect to a faucet to supply the unit with a constant flow of water. The mister unit then creates a fine water mist around the air conditioner's condenser.
+
+Fine mist evaporates almost instantly, and the process requires heat. Therefore, the mist removes some of the heat from the air when it evaporates to reduce the load on your air conditioner's condenser.
+
+Most misting systems turn on automatically when your AC's condenser starts operating. Therefore, you won't waste energy or water running your HVAC misting system when your air conditioner isn't running.
+
+Installing an HVAC misting system can make your air conditioner more efficient and stop it from working as hard. Some companies claim their misting systems can prolong the lifespan of an air conditioner and reduce the cost of running your HVAC system. For example, the makers of [Cool-n-Save](https://coolnsave.com/) say the product can reduce your cooling bills by 30% or more.
+
+**More Related Articles:**
+
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [New to BTUs? Here’s What to Know About BTUs When Shopping for an Air Conditioner](https://www.homeserve.com/en-us/blog/home-improvement/btu-air-conditioning/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+*   [Keep Your Cool With Our Top 5 Picks for Window AC Units](https://www.homeserve.com/en-us/blog/buying-guide/best-apartment-window-air-conditioners/)
+*   [Got Central Air? Use This Top-to-Bottom Air Conditioner Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist/)
+
+How Much Does DIY Mister Installation Cost?
+-------------------------------------------
+
+You can purchase AC mister kits online and from home improvement stores. These systems are relatively simple to install because they don't usually require plumbing or electrical work. Some units include solar panels, making them free to run. Therefore, you can often install an HVAC misting system yourself without hiring a professional.
+
+How much an [AC mister kit costs](https://coolnsave.com/shop/) depends on the brand, but relatively few models are available on the market. The Cool-n-Save mister is a popular option and costs $99.95 (CAD 136) from the company's website, and you won't need any additional materials or tools to attach it to your air conditioner. You can expand your misting system by adding three extra misting heads for around $19.95 (CAD 27). Expect to spend an additional $19.95 (CAD 27) if you need a longer hose to reach your outdoor faucet.
+
+Some manufacturers recommend installing filters to maintain air quality while using an AC misting system. You should purchase filters from the company that made your mister to ensure compatibility. Cool-n-Save charges $29.95 (CAD 41) for a pack of three replacement filters, and each filter lasts around three months.
+
+Some AC mister kits may qualify for a [Residential Clean Energy Credit](https://www.irs.gov/credits-deductions/residential-clean-energy-credit#:~:text=If%20you%20invest%20in%20renewable,residential%20clean%20energy%20tax%20credit.). This credit covers 30% of the cost of installing energy-saving devices that meet certain standards. You can apply for the credit by [filling out Form 5695](https://www.irs.gov/forms-pubs/about-form-5695) on the IRS website.
+
+How Much Does It Cost to Have an HVAC Misting System Installed by a Pro?
+------------------------------------------------------------------------
+
+Installing an HVAC misting system is a quick job, and the process often takes less than an hour. If you're unable to install the system yourself, you could consider hiring an HVAC professional to install it for you.
+
+According to [HomeGuide](https://homeguide.com/costs/hvac-repair-cost), most HVAC technicians charge a minimum callout fee of $75 to $200 (CAD 102 to CAD 272), which covers the first hour of work. Therefore, you'll pay a professional at least $75 (CAD 102), even if they complete the job in under an hour. These figures cover labor only and don't include the cost of an AC mister kit.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/J1jEVTAq4io?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Change Your Ceiling Fan Direction"></iframe>

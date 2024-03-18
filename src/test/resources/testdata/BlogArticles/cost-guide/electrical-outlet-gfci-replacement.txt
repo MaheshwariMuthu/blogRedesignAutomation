@@ -1,0 +1,79 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Replace Outlets With GFCI?"
+headline: "How Much Does It Cost to Replace an Electrical Panel and Ground Outlets With GFCI?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-03-31
+basePath: https://library.homeserve.com/m/
+heroImage: 63a3f11fe38d4b8f/Blog-ElectricalOutlet_MSchmitz_0005.jpg
+heroAltDescription: "electrical outlet on glass wall"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Find out how much it might cost you to replace an electrical panel and ground outlets with GFCI."
+articleAbstract: "Older homes may not have GFCI outlets installed. Find out how much it might cost you to replace an electrical panel and ground outlets with GFCI. "
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Replace an Electrical Panel and Ground Outlets With GFCI?"
+  parent: Electrical-Cost-Guide
+---
+  GFCI stands for “ground-fault circuit interrupter.” This type of outlet protects you and your family from injury and prevents appliances from overloading a circuit. The [National Electrical Code](https://www.ecmweb.com/national-electrical-code/code-basics/article/20898894/nec-requirements-for-groundfault-circuit-interrupters-gfci#:~:text=Per%20210.8%2C%20you%20must%20install,a%20commercial%20or%20industrial%20occupancy.) requires home and building owners to install these outlets in rooms that can be damp or wet, such as the laundry room, bathroom and kitchen.
+
+**This May Also Interest You:** [**The Homeowner’s Guide to Replacing Electrical Outlets**](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+
+Older homes may not have GFCI outlets installed in these places. Find out how much it might cost you to replace an electrical panel and ground outlets with GFCI.
+
+Cost Breakdown: Replacing an Electrical Panel and Outlets With GFCI
+-------------------------------------------------------------------
+
+Usually, the cost to replace electrical panels and ground outlets with GFCI will break into two main expenses:
+
+* **Cost of supplies and materials:** This includes prices of GFCI outlets, circuit breakers and miscellaneous supplies, such as connectors, wires and fittings.
+* **Labor costs:** Electricians typically either charge on an hourly basis or per job.
+
+According to [HomeGuide](https://homeguide.com/costs/gfci-outlet-cost), the material cost to install GFCI outlets can range from $12 to $40 (CAD 16 to CAD 55), depending on quality. An electrician may charge anywhere from $50 to $130 (CAD 70 to CAD 180) per hour, and depending on their skill level, location and local competition. It takes about one to three hours to finish installation, and most electricians charge a minimum service fee of one hour. For a single GFCI-protected outlet, be prepared to pay $90 to $200 (CAD 125 to CAD 275) in total.
+
+You can make the most of this cost by following the local building codes to find your exact GFCI protection needs. If you’re doing this job yourself, make sure you have the proper insurance. Or, it might be easier and safer to call a certified electrician. Improper installation can be riskier and costlier than paying a professional a few dollars for their in-depth knowledge.
+
+How Does It Work?
+-----------------
+
+A GFCI outlet offers protection by breaking the circuit when there is an imbalance between the outgoing and incoming power. It usually has three holes: one for the neutral wire, one for the ground wire and another for the hot wire. Once a GFCI plug is integrated into your electrical panel, it can track the current in real-time to detect fluctuations before they become a fire hazard.
+
+As soon as it finds any change in the circuit's electrical flow, GFCI will cut off the power.
+
+How Does GFCI Differ From GFI Outlets?
+--------------------------------------
+
+Though most electrical experts use these terms interchangeably, there is a slight difference between [GFCI and GFI](https://www.homeserve.com/en-us/blog/buying-guide/electrical-outlet-types/). GFCI stands for “ground-fault circuit interrupter,” while GFI stands for “ground-fault interrupter.” The word “circuit” is the difference between the two.
+
+GFCI protects your entire circuit, and you can install it on your electrical distribution panel to protect several plugs and outlets throughout your home. On the other hand, GFI is a local interrupter used on the outlet, not the panel. So, GFCI gives you protection over multiple outlets, while inline GFI protectors protect your individual devices or appliances.
+
+**More Related Articles:**
+
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-it-cost-to-replace-or-upgrade-an-electrical-panel/)
+*   [15 Ways to Save on Your Electric Bill](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+*   [Electrical Repair Cost Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+Should I Replace All My Outlets With GFCI?
+------------------------------------------
+
+If you're renovating your house or installing new outlets, it's a good idea to use GFCI receptacles in your kitchen, bathrooms and other areas near a water supply. The cost to replace an electrical panel and ground outlets with GFCI is much less compared to the heavy damage these systems may experience without proper protection.
+
+General electrical code requires installation of a GFCI plug within 6 feet of appliances, such as washing machines, water heaters, wet bars or sinks. These receptacles are also useful in unfinished basements, garages and in other outdoor spaces.
+
+You don't necessarily need to replace all the outlets in your home, but if you have questions, reach out to a trusted electrician for a consultation.
+
+Can You Replace a Regular Outlet With a GFCI Outlet?
+----------------------------------------------------
+
+If you want the added circuit protection, you should use GFCI outlets to replace regular outlets. Remember, regular outlets have no grounded protector. So, they can’t save you from a short circuit in a faulty appliance or device. A GFCI outlet kills the power before it escapes the faulty equipment and gives you a shock.
+
+Do You Need an Electrician to Install a GFCI?
+---------------------------------------------
+
+If you have basic knowledge of electrical wiring, you may be able to [install a GFCI](https://www.familyhandyman.com/project/how-to-install-gfci-outlets/) outlet without professional help. However, if you have older wiring and outlets, it may be best to let a certified electrician handle the job.
+
+Whether or not you can do it yourself also depends on the number of wires attached to an outlet. You can replace the regular outlets with three wires attached to them. If the outlet has more than three wires attached, this indicates its position amid a network of circuits and wires. If that’s the case, you’ll want to call a licensed professional to sort them out.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

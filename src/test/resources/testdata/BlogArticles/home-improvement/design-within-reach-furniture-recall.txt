@@ -1,0 +1,40 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Design Within Reach Recalls Furniture Due to Violation of Federal Lead Paint Ban"
+headline: "Design Within Reach Recalls Furniture Due to Violation of Federal Lead Paint Ban"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-11-02
+basePath: https://library.homeserve.com/m/
+heroImage: 42bbff723a4408fe/Blog-ArcFurnitureRecall_DesignWithinReach.jpg
+heroAltDescription: "Black circular metal chair on a white background."
+metaDescriptions: "Design Within Reach is recalling about 200 pieces of furniture due to a violation of the federal lead paint ban."
+articleAbstract: "Design Within Reach is recalling about 200 pieces of furniture in the Arc Collection due to a violation of the federal lead paint ban. The CPSC is warning consumers to stop using the recalled barstools, chairs and tables immediately. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Design Within Reach Recalls Arc Collection Furniture Due to Violation of the Federal Lead Paint Ban "
+  parent: Interior-Home-Home-Improvement
+---
+  [Design Within Reach](https://www.dwr.com/) is recalling about 200 pieces of furniture in the Arc Collection due to high lead levels in the products’ surface paint. The Consumer Product Safety Commission is warning consumers to stop using the recalled barstools, chairs and tables immediately.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the Oct. 28 [recall alert](https://www.cpsc.gov/Recalls/2022/Design-Within-Reach-Recalls-Arc-Collection-Furniture-Due-to-Violation-of-the-Federal-Lead-Paint-Ban-Recall-Alert), the surface paint on the furniture pieces contains levels of lead that exceed amounts allowed under the [federal lead paint ban](https://www.cpsc.gov/Business--Manufacturing/Business-Education/Lead/Lead-in-Paint). This poses a risk of lead poisoning. The CPSC says lead is toxic if ingested by young children, and it can cause adverse health effects.
+
+Design Within Reach of Stamford, Conn., has not received reports of injuries related to this recall.
+
+This recall involves chairs, barstools and tables in the Arc Collection of furniture. To check if your piece falls under this recall, check the white label on the product against this list of [affected stock keeping unit, or SKU, codes](https://www.cpsc.gov/Recalls/2022/Design-Within-Reach-Recalls-Arc-Collection-Furniture-Due-to-Violation-of-the-Federal-Lead-Paint-Ban-Recall-Alert).
+
+The pieces were manufactured in Mexico and sold at Design Within Reach studios and outlets nationwide, as well as online at [DWR.com](http://dwr.com) and [Ebay.com](http://ebay.com) between April 2021 and July 2021 for $270 to $500.
+
+If you own a recalled piece, you should stop using it and contact Design Within Reach for instructions on how to return the product to receive a full refund. The company is contacting all known purchasers directly.
+
+If you haven’t been contacted by a representative, call Design Within Reach at 800-338-2107 or email [recall\_info@hermanmiller.com](mailto:recall_info@hermanmiller.com). If you email the company, make sure to include the identifying information as listed on the [recall page](https://www.dwr.com/customerservice-recalls.html?lang=en_US) on the company’s website. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Hobby Lobby Issues Recall After Stools Break During Use, Posing Injury Risk](https://www.homeserve.com/en-us/blog/home-improvement/hobby-lobby-stool-recall/)
+*   [Fall Hazard: Kohl’s Recalls Antigravity Chairs After Reports of Injuries](https://www.homeserve.com/en-us/blog/home-improvement/kohls-antigravity-chair-recall/)
+*   [Ivena International Recalls 70,000 Shower Benches Sold at Costco Due to Fall Risk, Injuries](https://www.homeserve.com/en-us/blog/home-improvement/shower-benches-recall/)
+*   [Fall Risk Prompts Recall of 3,100 Sauder Woodworking Bar Stools](https://www.homeserve.com/en-us/blog/home-improvement/sauder-woodworking-barstools-recall/)
+*   [Watch Your Seat: 3,100 StyleWell Dining Chair Sets Recalled for Fall Risk](https://www.homeserve.com/en-us/blog/how-to/Wood-Windsor-Dining-Chair-Recall/)<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?start=2&feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

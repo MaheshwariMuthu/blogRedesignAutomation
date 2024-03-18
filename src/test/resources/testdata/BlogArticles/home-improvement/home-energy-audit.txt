@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Home Energy Audit?"
+headline: "What's a Home Energy Audit and What Can It Tell You?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-04-13
+basePath: https://library.homeserve.com/m/
+heroImage: 7cd8a0313eeeb918/Blog-AdobeStock_176259740.jpg
+heroAltDescription: "technician drilling into door frame"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "One way to help gain some insight into the workings of your home is through a home energy audit. Here's what you need to know."
+articleAbstract: "One way to help gain some insight into the workings of your home is through a home energy audit. An auditor can tell you how to make your home more energy efficient."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's a Home Energy Audit and What Can It Tell You?"
+  parent: Interior-Home-Home-Improvement
+---
+  When it comes to general home maintenance, the list of tasks can seem daunting — especially for new homeowners. How can you keep your house safe, comfortable _and_ functioning at its best without breaking the bank?
+
+**This May Also Interest You:** [**8 Home Efficiency Measures You Can Take This Earth Day**](https://www.homeserve.com/en-us/blog/how-to/earth-day-energy-efficiency/)
+
+Even knowing what to do and where to start can be overwhelming at times. But the good news is, you don’t have to do it alone. One way to help gain some insight into the workings of your home is through a home energy audit.
+
+What Is a Home Energy Audit?
+----------------------------
+
+An energy audit for your home can provide invaluable information about the way your house uses and loses energy, helping you know where to begin with home repairs and upgrades and saving you hundreds or even thousands of dollars on your utility bills in the long run. In addition to saving money, home energy assessments can help you up your home’s comfort level in terms of climate. Plus, finding ways to use less energy is good for the planet.
+
+So, whether you’re wondering how well your home is insulated, noticing that your windows and doors are feeling a little drafty or are curious about how swapping out the lighting in your home could save you money, a home energy audit can help answer your questions.
+
+How Much Does It Cost?
+----------------------
+
+The cost of a home energy audit starts at around $100 (CAD 125) and varies greatly depending on the size of the home and scope of the inspection. On average, homeowners should expect to spend a few hundred dollars.
+
+But — and this is an important “but” — many utility companies offer discounted or even free energy audits for their customers. So make sure to check on those first to see what’s available. You may also want to compare the services offered to make sure that whatever route you take is going to provide a comprehensive enough audit to cover your range of concerns. You can search for certified energy auditors in your area through [Energy Star](https://www.energystar.gov/campaign/improvements/find_local_help), or you can try doing a quick online search for “home energy audit near me.”
+
+Who Performs a Home Energy Audit?
+---------------------------------
+
+Whether it’s through a private energy auditing company or your own utility company, your home energy audit should be performed by a trained professional. Some energy auditors are certified in the HERS (Home Energy Rating System) technique, but there are several other nationally recognized certifications as well.
+
+If, for some reason, you don’t want to call in the pros, there are plenty of online resources and videos on how to perform your own home energy audit. Keep in mind, though, that a DIY audit is typically far less accurate and comprehensive since you probably lack the specialized tools and knowledge that a professional auditing company can provide.
+
+How Do I Prepare for a Home Energy Audit?
+-----------------------------------------
+
+Prepping for a home audit is a pretty straightforward process. You’ll want to do a quick house check and clear any belongings or obstacles from areas the auditor may need to inspect, so make sure crawl spaces, furnaces and water heaters are unobstructed and easy to access.
+
+You can also go ahead and pull back your curtains, raise your blinds and make sure your windows and doors are closed. It’s also a good idea to make a mental note of any areas of concern you’ve already noticed in the house. Bonus points if you have access to the last 12 months of your utility bills. That way, the auditor can see your energy usage over the course of all four seasons. Finally, don’t forget to secure your pets.
+
+**More Related Articles:**
+
+*   [Don’t Get Lost in the Wash: How to Use Your Dishwasher Efficiently](https://www.homeserve.com/en-us/blog/how-to/use-dishwasher/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [15 Ways to Save on Your Electric Bill](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+*   [How Much Does Electricity Cost?](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/)
+*   [How Much Do Utilities Cost?](https://www.homeserve.com/en-us/blog/cost-guide/utilities/)
+
+What Gets Tested During an Energy Audit?
+----------------------------------------
+
+While the tests in an energy audit can vary a bit depending on the company, much of the process is pretty standard. Auditors will typically spend an hour or more assessing your home for its strengths and weaknesses when it comes to energy usage. They’ll check your water flow, electricity, heating and cooling systems, and overall insulation quality, then note areas where these resources are getting lost or wasted.
+
+Auditors often use blower door machines to check for air leakage around doors and windows, essentially measuring the overall airtightness of your home. Auditors may also conduct a thermographic inspection, which utilizes infrared cameras to see how temperature flows throughout the house and identifies areas that are significantly colder or warmer than the rest of the home. This also helps to detect air leaks and can assess the effectiveness of your home’s insulation, identifying potential problem areas where major temperature shifts occur.
+
+Some energy audit technicians will apply weather stripping or caulking to address air leakage issues. Many will also offer to replace showerheads with new low-flow ones, helping to lower your water bill. Your air conditioner, furnace and ductwork will also likely be examined to check the efficiency of your home’s heating and cooling systems.
+
+Some of the steps taken as part of a home energy audit can also work to improve your indoor air quality, but note that by making your home more airtight, you are also trapping more air particles inside. So, if you want a more in-depth report on your home’s air quality, it may be a good time to either schedule a separate home air-quality inspection, or purchase a plug-in [air-quality monitor](https://www.lowes.com/pd/AcuRite-Air-Quality-Monitor/5002187111?cm_mmc=shp-_-c-_-prd-_-lwn-_-ggl-_-LIA_LWN_243_Planters-And-Outdoor-Fashions-_-5002187111-_-local-_-0-_-0&ds_rl=1286981&gclid=CjwKCAiA_omPBhBBEiwAcg7smb0wJdAl1Mbn0d7JNx5936O6B0MzexYfvzKeGxG8uZHHjW0zqGGQ7xoCAVMQAvD_BwE&gclsrc=aw.ds) to keep track of your home’s air quality over time.
+
+What Can the Audit Tell You?
+----------------------------
+
+After they assess your home and identify any problem areas, a professional energy auditor will offer suggestions to help remedy or minimize these issues. Many will give your home a score, or rating, in terms of energy efficiency and overall performance.
+
+Most energy auditors will also provide you with general energy-saving tips to help make your home more energy-efficient through small changes, like swapping out light bulbs for more efficient LED ones. They may also recommend adding a timer system to your lights for further savings or suggest purchasing a smart thermostat to save on heating and cooling costs.
+
+Auditors may also advise you on some larger upgrades, like replacing poorly insulated exterior doors or single-paned windows. If your HVAC unit or hot water heater is older and inefficient, auditors may recommend a new energy-saving model. Again, these are just suggestions you’ll be free to pursue on your own, if you choose to do so.
+
+Are Home Energy Audits Worth It?
+--------------------------------
+
+There’s no doubt about it: Home energy audits can uncover all sorts of ways to save you money on your energy bills. They can also help make your house more eco-friendly and comfortable, keeping you cozier in the winter months and cooler in the summertime.
+
+With free audits offered by many utility companies, an energy inspection seems like a no-brainer. And even if you do end up paying for a consultation, you’re sure to up your home’s efficiency game and learn energy-saving strategies that will save you hundreds of dollars down the line. What’s more, you’ll be equipped with key knowledge about how your home uses energy — and that alone is pretty priceless.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

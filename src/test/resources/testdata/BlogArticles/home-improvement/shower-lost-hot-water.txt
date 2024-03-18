@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 'No Hot Water in Shower: Why'
+headline: Hot Water Ran Out While You’re in the Shower? 5 Reasons You're Freezin’
+author: Erin Wallace
+tags: ['post']
+publishDate: 2020-12-29
+basePath: https://library.homeserve.com/m/
+heroImage: 1ec253d872b025c5/Blog-RainShower_AWiesen_0010-JPG.jpg
+heroAltDescription: detail shot of hansgrohe rain shower head
+metaDescriptions: Discovering you have no hot water in the shower is never a welcome surprise. Find out why this happens and what you can do about it.
+articleAbstract: Learn the common reasons why showers run out of hot water and possible solutions, and get our recommendations for choosing a water-heater size.
+category: ['Home Improvement']
+eleventyNavigation:
+  key: 'No Hot Water in Shower: Why'
+  parent: Home Improvement & Maintenance
+---
+
+Warm water streams down your body, rinsing away the day&#39;s grime. You gently massage shampoo into your scalp and enjoy the steam-enhanced aroma of your favorite hair-care product. You&#39;re completely relaxed and then ... a blast of ice-cold water drenches your back without warning, sending a chilling shock through your entire body. There&#39;s no hot water. You have no idea why, or what to do about it. And you&#39;ve still got shampoo in your hair.
+
+**This May Also Interest You:** [**Water Heater Replacement and Installation Cost Guide**](/en-us/blog/cost-guide/water-heater-replacement-cost/)
+
+Running out of hot water suddenly is a common complaint from renters and homeowners alike — but just because it&#39;s common doesn&#39;t make it OK. We&#39;re here to explain why it happens and what you can do to fix this frigidly frustrating problem.
+
+## Here&#39;s What It Could Be...
+
+You can run the faucet for hours, but that doesn&#39;t mean it&#39;ll eventually start giving you hot water again. Your water temperature is based on several factors, some of which you can control and others that&#39;ll require maintenance or an equipment upgrade. Here are a few common reasons why you have no hot water in the shower:
+
+### 1. Your Water Heater Is Too Small
+
+Water heaters typically hold 20 to 80 gallons of water. That may sound like a lot, but the average person goes through [2.5 gallons per minute](https://www.epa.gov/watersense/showerheads) in the shower. You can&#39;t even take a 10-minute hot shower if you&#39;ve only got a 20-gallon water heater tank.
+
+### 2. Your Water Heater Needs a Different Setting
+
+Your water-heater thermostat should be set somewhere between 120 degrees and 140 degrees Fahrenheit. If yours sits on the lower end of that range, increase the temperature. That can help make showers tolerable.
+
+### 3. You&#39;ve Used Too Much Hot Water for Other Tasks
+
+You might be thinking: &quot;Why is this water already cold? I just got in here!&quot; But keep in mind, multiple appliances share your water heater. You might notice you have no hot water in the shower if you&#39;ve recently run a load of dishes. Doing laundry can also drain your hot-water supply.
+
+### 4. Your Water Heater Needs Maintenance
+
+Many people all but forget their water heater exists [until an issue arises](/en-us/repair-plans/hvac/water-heater-repair/), but just like other appliances in your home, it requires regular maintenance. Mineral buildup, broken parts or outdated electrical elements can all impact your hot-water supply. You should also check around the hot-water tank for signs that pipes are cracked, dented or leaking.
+
+### 5. Your Pipes Are Damaged
+
+If you have no hot water in the shower but you do have hot water in the sink, your pipes might be damaged. Look for condensation, cracks or other signs that something is wrong. Depending on what you find, you may need to consult a plumber.
+
+<img class="detail-image" src="https://library.homeserve.com/m/27013f0619e1d433/Blog-WaterHeaterControl_ERossi_3142.jpg" alt="Gas water heater temperature control"/>
+
+## How to Turn Up Your Water Heater
+
+<<<<<<< HEAD
+When you crank up your [water heater](https://www.homeserve.com/blog/2019/october/hot-water-heating-system-types), look for the dial or knob that controls your thermostat, usually located near the bottom of the appliance.
+=======
+When you crank up your [water heater](/en-us/blog/buying-guide/hot-water-heater-systems/), look for the dial or knob that controls your thermostat, usually located near the bottom of the appliance.
+>>>>>>> f78f29d8 (Clpj-567: Updated links & added More related article section)
+
+Gas water heaters usually have a single knob that requires just a quick turn to the left to bump up the temperature. Turn the knob clockwise if the temperature is too high.
+
+Electric water heaters, meanwhile, typically have a knob hidden behind a panel. You&#39;ll need a flat-head screwdriver to turn this knob, and you shouldn&#39;t do it until you&#39;ve shut off the power supply to the water heater by flipping the corresponding switch in your home&#39;s circuit-breaker box.
+
+As mentioned previously, your thermostat should be set somewhere between 120 degrees and 140 degrees. It&#39;s important that you don&#39;t exceed 140 degrees — even if you believe you have an anti-scald device. Generally, the human body cannot safely handle temps above 140 degrees.
+
+## What Type of Maintenance Does My Water Heater Require?
+
+<<<<<<< HEAD
+Your water heater can last for more than a decade if you [care for it properly](https://www.homeserve.com/blog/2018/february/how-to-maintain-a-hot-water-heater). Consider flushing your device once a year to prevent sediment buildup. You should also check for signs of broken or damaged parts, such as the dip tube, thermostat or electrical elements. Sometimes the thermostat just needs a quick reset if you don&#39;t have hot water.
+=======
+Your water heater can last for more than a decade if you [care for it properly](/en-us/blog/home-improvement/hot-water-heater-maintanence/). Consider flushing your device once a year to prevent sediment buildup. You should also check for signs of broken or damaged parts, such as the dip tube, thermostat or electrical elements. Sometimes the thermostat just needs a quick reset if you don&#39;t have hot water.
+>>>>>>> f78f29d8 (Clpj-567: Updated links & added More related article section)
+
+## What Size Water Heater Should I Have for My House?
+
+When shopping for a water heater, consider how much hot water your household needs. Each day, the average family uses 40 gallons of water for showering. You&#39;ll likely also want hot water for laundry or dishwashing.
+
+Consider a 40- to 50-gallon tank if you have two people in your home, and increase the count by 10 to 15 gallons for each additional household member. A tankless water heater is also an option for homes with high hot-water usage.
+
+_Appliances can malfunction at any time, often without warning. Minimize downtime and keep your appliances running smoothly when you&#39;re prepared with an appliance plan from [HomeServe](/en-us/repair-plans/why-buy-a-plan/). If an unexpected issue occurs, contact our skilled team around the clock via our repair hotline. We&#39;ll send a licensed local expert your way, so you can get back to enjoying hassle-free hot showers in a jiffy._
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LfJL3ADHwTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Your Water Heater Works"
+headline: "How Your Water Heater Works"
+author: Angela Noel
+tags: ["post"]
+publishDate: 2023-11-01
+basePath: https://library.homeserve.com/m/
+heroImage: 5860d86116fb4cec/Blog-GettyImages-1487523965.jpg
+heroAltDescription: "Unfinished basement mechanical room"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Your water heater is out of sight and out of mind ... until it stops producing hot water. Learn how your water heater works."
+articleAbstract: "Water heaters usually function on the principle of out of sight, out of mind. That can change in an instant, however, if it stops producing hot water. Learn how your water heater works."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Your Water Heater Works"
+  parent: Plumbing-Home-Improvement
+---
+  “Splish, splash...” the song echoes down the hall from the bathroom, mixed with the whoosh of running water. The cheery sounds are normal, even if the notes are a bit off-key, but within a few moments, they drift off mid-chorus. Instead, a confused call rings out, “Um, what happened to the hot water?”
+
+**This May Also Interest You:** [**5 Tell-Tale Signs Your Water Heater Isn’t Doing So Hot**](https://www.homeserve.com/en-us/blog/home-improvement/water-heater-warnings-signs/)
+
+Often hidden away in a garage or laundry room, water heaters usually function on the principle of out of sight, out of mind. That can change in an instant, however, if it stops producing hot water in the middle of your morning shower.
+
+When a sudden issue occurs, you may be unsure of what's wrong or how to fix it. Knowing how a water heater functions is a great way to identify most problems, and it can even help you understand simple maintenance steps you can use to prevent some issues before they happen.
+
+How Does a Water Heater Work?
+-----------------------------
+
+From bathing to running the dishwasher, hot water is crucial for your household to function comfortably. The fascinating thing about your home's hot water system is that, while it's so important, the process by which it works is actually quite simple.
+
+The most common types are heaters with tanks and tankless water heaters.
+
+In a traditional water heater, cold water is fed into a tank, where it's continuously heated and stored until needed. In newer styles without a tank, cold water is heated only when needed, which reduces energy consumption and costs.
+
+### Traditional Tank Water Heaters
+
+An electric water heater is a marvel of ingenuity. It uses basic science principles to function with very little effort.
+
+Cold water, usually from a city's water supply or a well, is fed into the water heater tank through a pipe called a dip tube. The dip tube is inserted through the top of the tank and dips into the bottom, hence the name.
+
+The cold water enters the bottom of the tank, where it's heated by one or two heating elements. As the water warms up, it rises to the top, the same way hot air naturally rises to the ceiling of your home.
+
+This scientific principle separates the heated water from the cold water as the tank refills during use. The cold water stays on the bottom near the heating elements, while the warm water moves upward into an outlet on the top of the tank that's connected to the pipes leading to your home's faucets and appliances.
+
+Gas water heaters work in a similar manner, except a small burner heats the water. They also require a ventilation system using a chimney and flue.
+
+How Does a Tankless Water Heater Work?
+--------------------------------------
+
+Sometimes called on-demand units, tankless water heaters only heat water when it's needed, instead of storing hot water. When you turn on a faucet, cold water is drawn through the tankless water heater. The flowing water automatically turns on the appliance and the powerful heat exchanger inside it.
+
+The heat exchanger takes energy from a fuel source, such as electricity or natural gas, transferring it into the cold water. This transfer rapidly heats the water before it moves out of the unit to the open faucet.
+
+When you turn the water off and stop the flow, the heater also turns off. This water heating system is highly energy-efficient, eliminating the constant need to reheat stored water.
+
+**More Related Articles:**
+
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)
+*   [How to Install a Tankless Electric Water Heater: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-tankless-electric-water-heater/)
+*   [How Much Does It Cost For a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+
+Common Water Heater Parts
+-------------------------
+
+While the principle behind how a water heater works is simple, your unit features multiple components. Learning the name and function of each part can help you better understand how the heater works and make informed decisions about repair and maintenance issues.
+
+* **Tank:** Most homeowners are familiar with the sight of the large cylinder tank holding their hot water. Made of metal, it's usually lined with a material such as glass to help prevent the tank from rusting or corroding.
+* **Drain valve:** Appropriately named, the drain valve is typically at the bottom of the tank and allows you to empty the tank when needed.
+* **Dip tube:** As the water input pipe, the dip tube must dispense cold water into the bottom of the tank. If installed incorrectly near the top, it will chill the warm water every time the tank fills, defeating the purpose of the unit.
+* **Hot-supply pipe:** The pipe that lets warm water exit the heater.
+* **Heating element:** Either made of a metal coil powered by electricity or a gas-powered burner, the element heats the water.
+* **Sacrificial anode rod:** Another tool to prevent corrosion, the anode rod naturally draws corrosive metals found in water to itself. This slowly erodes the rod while protecting the tank and other metal components, so it's essential to check and replace it regularly.
+* **Pressure relief valve:** This safety device prevents water pressure and heat from building to unsafe levels in your hot water tank.
+* **Thermostat:** A type of thermometer that reads the water temperature and switches the heating elements on and off.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/5j759jOLiwc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Retrieve a Wedding Ring that Went Down the Drain | 5 Steps"></iframe>

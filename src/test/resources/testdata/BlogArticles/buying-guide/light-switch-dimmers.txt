@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Light Switches and Dimmers FAQ"
+headline: "Everything You Need to Know About Light Switches and Dimmers"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-02-19
+basePath: https://library.homeserve.com/m/
+heroImage: 5f05d6c82e2c8bac/Blog-GettyImages-1219669706.jpg
+heroAltDescription: "Electrician working in home installing dimmer switched in wall"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "You don’t need to be an electrician to understand the basics of different light switches and dimmers. Here's what you need to know."
+articleAbstract: "You don’t need to be an electrician to understand the basics of different light switches and dimmers. Here's what you need to know."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Everything You Need to Know About Light Switches and Dimmers"
+  parent: Electrical-Buying-Guide
+---
+  If you didn't already know, the world of home lighting has expanded rapidly in recent years. Long gone are the days of monofunctional light switches simply used to turn on the lights in the room. When it comes to switches alone, choosing the right one can be overwhelming, to say the least. In addition to various different types of light switches, there are also several types of dimmer switches available, offering added aesthetic control and flexibility over your home lighting system.
+
+**This May Also Interest You:** [**Lightbulb! What You Need to Know Before You Go Lightbulb Shopping**](https://www.homeserve.com/en-us/blog/buying-guide/light-bulb-types/)
+
+Learning the different types of light switches and dimmers can seem intimidating, but you don’t need to be an electrician to understand the basics. In fact, knowing a few of the main types of switches and their dimmer counterparts can help you narrow down what type you need for your space.
+
+Common Types of Light Switches and Dimmers
+------------------------------------------
+
+### Single-Pole Switches
+
+Easy to install, single-pole switches and dimmers are generally used to control one light fixture in a specific room. These switches have two wires that are connected or separated by the switch mechanism. A single-pole switch is the most common type of light switch, and is best suited for bedrooms, bathrooms and closet spaces.
+
+### Three- and Four-Way Switches
+
+Three-way switches have three terminals used to control one fixture from two different locations. Three-way switches or dimmers are commonly installed in stairwells or at the ends of long hallways, so you can avoid having to walk a long distance in the dark to find a switch. A four-way switch works similarly to a three-way, except that it has four terminals to control one fixture from three locations. Four-way switches aren’t as common as three-way, but can be useful in large rooms with several entrances.
+
+### Multi-Location Dimmers
+
+When compared with three-way switches, multi-location dimmer switches are able to support a variety of dimming controls in more than one location. For example, a multi-location switch can be paired with compatible dimmer switches, non-dimming switches and even smart home systems and devices.
+
+### Double-Pole Switches
+
+Double-pole switches can control two fixtures without requiring a separate circuit breaker box. Although they aren’t especially common in residential settings, double-pole switches and dimmers can be found anywhere there’s a need to power large machinery and appliances.
+
+**More Related Articles:**
+
+*   [Lightbulb Moment! Here are 5 Ways to Remove a Broken Lightbulb](https://www.homeserve.com/en-us/blog/how-to/remove-broken-lightbulb/)
+*   [How to Replace an Oven Lightbulb](https://www.homeserve.com/en-us/blog/how-to/oven-light-bulb-replacement/)
+*   [Deck the House: How to Hang Outdoor Holiday Lights](https://www.homeserve.com/en-us/blog/how-to/holiday-lighting-installation/)
+*   [How to Install a Ceiling Light: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-ceiling-light/)
+*   [Recessed Lights or Ceiling Lights? Here’s How to Choose What’s Best for Your Space](https://www.homeserve.com/en-us/blog/home-improvement/recessed-lighting-vs-ceiling-lights/)
+
+### Dimmer Switches and Wiring
+
+If you want to add the pleasing aesthetic of a dimmer switch to your home, the good news is that doing so doesn’t require any change to your existing wiring. That said, you'll need to make sure that you’re replacing your existing switch with a dimmer equivalent. In other words, replace a single-pole light switch with a single-pole dimmer switch, a three-way switch with a three-way dimmer switch and so on.
+
+Because installing a dimmer switch doesn’t require any upgrades to your home wiring system, all you’ll need to decide is what type of control knob you want. Two of the most common styles include the rotary, which employs a circular turning knob to dim the lights, and the toggle style, which appears similar to a standard light switch with a smaller piece on the side that dims the lights. There are also rocker and tap dimmer controls. Finally, motion sensors and timers are other dimmer switch considerations to make.
+
+What About Dimming Lightbulbs?
+------------------------------
+
+A general rule of thumb regarding dimmer switches and light bulbs is to make sure that if you’re using LED lightbulbs, you purchase bulbs that are compatible with dimmer switches. And while this doesn’t necessarily apply to old-school incandescent bulbs — any incandescent could theoretically work with a dimmer switch — a new install of anything lighting-related in your home should serve as an opportunity to upgrade your lightbulbs to LEDs.
+
+While it might be an added cost to replace your perfectly good incandescent or halogen bulbs with an LED equivalent, the benefits will _come to light_ in the long run. LED bulbs use significantly less energy than incandescent bulbs, and they last significantly longer, so you’ll end up saving money on replacement bulbs and energy costs over time.
+
+Adding a New Light Switch
+-------------------------
+
+Purchasing a new light switch for your home can be overwhelming, but, hopefully, after understanding some of the basic light switch and dimmer options available, you’ll feel more confident before heading to the store. Adding a dimmer switch to your room will provide you with more flexibility when it comes to the lighting in a particular room. However, sometimes, choosing the right switch comes down entirely to how the light fixture is controlled within the circuit. And remember: If you need help determining what type of circuit your switch calls for, don’t hesitate to hire a licensed electrician to help you through the process.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

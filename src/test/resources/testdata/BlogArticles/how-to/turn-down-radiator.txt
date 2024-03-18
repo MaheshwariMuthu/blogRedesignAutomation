@@ -1,0 +1,73 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Turn Down a Radiator"
+headline: "It's Too Hot in Here! How to Turn Down Your Radiator"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-11-21
+basePath: https://library.homeserve.com/m/
+heroImage: 15ddfc18820900d0/Blog-Radiator_LLeazenby_0002.jpg
+heroAltDescription: "A white radiator stands in a bathroom against a white ceramic tile wall and on a white ceramic tile floor, surrounded by stainless steel pipes."
+metaDescriptions: "Is your radiator producing too much heat? Here are a few things you can try to dial it back a bit."
+articleAbstract: "Radiators often heat rooms too much, and it can be difficult to find the setting that produces the perfect heating level. Feeling too hot in your home? Here are a few things you can try before calling in a professional to look at your heating system. "
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Turn Down Your Radiator"
+  parent: HVAC-How-To
+---
+  
+
+_HomeServe photo by Lauren Leazenby_
+
+If your home is heated with a steam radiator system, you may feel like your heat works almost _too well_ sometimes. Radiators often heat rooms too much, and it can be difficult to find the setting that produces the perfect heating level.
+
+**This May Also Interest You:** [**Noisy Radiator: Why Does My Heating System Clang?**](https://www.homeserve.com/en-us/blog/home-improvement/heating-system-clang/)
+
+Feeling too hot in your home? Here are a few things you can try before calling in a professional to look at your heating system.
+
+How Does a Hot Steam Radiator Work? 
+------------------------------------
+
+Radiators are most prevalent in older buildings and homes because they’re an old-fashioned way to heat a space. They draw water from a boiler in your home through pipes and heat each room when the steam transfers heat into your space through a radiator. The hot water loses its heat and returns to the boiler to be reheated and distributed again.  
+
+When hot steam radiators were the most popular home heating source, people would open their windows in the middle of the winter to let cold air in as a means of reducing the temperature in a room. This isn’t very energy efficient, and it’s also not healthy to let the bitter cold inside your home. Two-pipe systems now allow much more control than original radiators, but they can still be finicky, and it’s not always easy to find the perfect setting. 
+
+How Do I Reduce the Heat in My Radiator? 
+-----------------------------------------
+
+Check your radiator for a thermostatic valve. This device lets you adjust the setting on the radiator so that you can control how much heat it puts out. Your radiator might not have a thermostatic valve if it’s older, but you can always have one installed if you wish to have more control of your radiator’s heat output.  
+
+Common places for a thermostatic valve include the base, near the floor or on the top on the left side. You know you’ve found it when you see a knob with numbers on it. Turn the knob to adjust the heat setting. If it’s too hot, simply turn the setting down. 
+
+How Do You Turn Off a Radiator? 
+--------------------------------
+
+There may be times you need to turn your radiator off completely due to maintenance or repairs around your home. If you don’t have a thermostatic valve, this is another way to lower the heat in the room. Look for a valve located at the base of the radiator on the right-hand side. The valve should be covered by a plastic knob without any numbers on it. Turn the value all the way to the right. It’s important to turn it all the way as leaving this valve open partially can damage the radiator or cause it to make clanking sounds. 
+
+**More Related Articles:**
+
+*   [How to Fix a Radiator Leak in 4 Steps](https://www.homeserve.com/en-us/blog/how-to/fix-radiator-leak/)
+*   [How Much Does Boiler Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-repair/)
+*   [How Much Does It Cost to Install or Replace a Boiler?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-replacement/)
+*   [How Does Heating Your Home With Oil Work — and Who’s Still Using It?](https://www.homeserve.com/en-us/blog/home-improvement/home-heating-oil/)
+*   [How Much Does Heating Oil Cost?](https://www.homeserve.com/en-us/blog/cost-guide/home-heating-oil/)
+
+How Do You Turn Down a Radiator Without a Thermostat? 
+------------------------------------------------------
+
+If you don’t have a thermostatic valve, you can purchase a radiator cover, which will reduce the heat it throws out into the room. You may also try putting a blanket or sheet over the radiator. The radiator won’t get hot enough to light cotton or wool on fire, but it could melt synthetic fabrics. Avoid using polyester and other blankets made of synthetic materials. 
+
+Some other ways to control the heat include turning the radiator off or adjusting the water flow to the radiator. You can adjust the flow of water to your radiators from the boiler. When less water flows through the pipes, it reduces the heat output that’s produced. 
+
+You may want to consider upgrading your radiator by installing a thermostatic valve if you have a one-pipe system. This is the most expensive option, but it gives you the most control. 
+
+How Do You Turn Down a Radiator Without a Knob? 
+------------------------------------------------
+
+If your radiator has a lockshield valve, you won’t be able to close the valve by turning a knob. These valves have a cover on them you can remove before using a wrench or a pair of pliers to open or close the valve. To turn it off, turn the valve clockwise. While you’re doing this, make sure to pay attention to any signs of leaks, as this could indicate a problem with your radiator.

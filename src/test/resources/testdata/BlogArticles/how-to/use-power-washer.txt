@@ -1,0 +1,97 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Use a Power Washer"
+headline: "Splash Course: How to Use a Power Washer"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-05-29
+basePath: https://library.homeserve.com/m/
+heroImage: 6e24b457e60c8bed/Blog-175589514.jpg
+heroAltDescription: "power washing deck"
+metaDescriptions: "New to power washing? You're in the right place. Follow these simple steps to learn how to use a power washer correctly."
+articleAbstract: "A power washer is a valuable tool for maintaining the exterior of your home and your yard. While it might take ages to clean a surface by hand with soap and water, you can clean a wooden deck, your siding or a paved driveway in mere minutes with high-pressure water. Follow these simple steps to learn how to use a power washer correctly.  "
+category: ["How To"]
+eleventyNavigation:
+  key: "Powerwashing Basics: What and How to Powerwash"
+  parent: Exterior-Home-How-To
+---
+  **Using a Power Washer at a Glance**
+
+* **Step 1:** Wear protective gear
+* **Step 2:** Connect water hose
+* **Step 3:** Choose pressure nozzle
+* **Step 4:** Check power
+* **Step 5:** Start power washer
+* **Step 6:** Prevent damage
+* **Step 7:** Turn it off
+
+A power washer is a valuable tool for maintaining the exterior of your home and your yard. While it might take ages to clean a surface by hand with soap and water, you can clean a wooden deck, your siding or a paved driveway in mere minutes with high-pressure water.
+
+**This May Also Interest You:** [**How to Clean Your Garage Floor**](https://www.homeserve.com/en-us/blog/how-to/clean-garage-floor/)
+
+New to power washing? You're in the right place. Follow these simple steps to learn how to use a power washer correctly.
+
+How Does a Power Washer Work?
+-----------------------------
+
+There are two types of power washers: electric and gas-powered. The best power washer for your home depends on your preference for fuel sources. Regardless of which type you select, your power washer has a fueled motor that powers a water pump. The pump speeds up the water supply from your garden hose or tap to produce intense pressure. The power washer connects to a high-pressure hose with a water gun at the end that supplies a water stream. When you pull the trigger on the gun, air and intense water pressure combine to produce the cleaning power these appliances are famous for.
+
+A power washer produces heavy-duty water pressure at roughly 75 times that of a regular garden hose. In terms of power, most experts recommend a power washer with a minimum of 2,000 PSI (pounds per square inch) and 2.5 GPM (gallons per minute) for general outdoor residential cleaning tasks. PSI is how water pressure is measured at its output. The higher the PSI, the more pressure you have to wash away dirt and grime. Around 2,000 to 3,000 PSI is fairly standard for home use. GPM is a measurement of the water supply to the spray wand. This represents the water power available to remove the dirt that you're penetrating with the pressure.
+
+How to Use a Power Washer
+-------------------------
+
+Using a power washer is fairly straightforward once you've purchased the right product for your needs. This step-by-step guide will take you through how to use a gas power washer, from start to finish.
+
+### 1\. Wear Protective Gear
+
+Before you start using your power washer, don the appropriate protective gear. To protect your eyes from the intense water spray, wear protective goggles. If you're using the power washer with cleaning chemicals, it's also a good idea to wear protective gloves and clothing.
+
+### 2\. Connect the Water Supply With a Garden Hose
+
+Ensure the power washer is on a flat surface. Check that the water strainer is in place and free of debris. Then, securely connect a garden hose to the washer. Attach the other end of the hose to your home's water supply via your outdoor tap.
+
+Next, connect the male end of the high-pressure hose that came with your product to the water outlet on the washer. Slide the plug on the end of the gun assembly onto the other end of the high-pressure hose. Make sure the collar snaps securely into place.
+
+### 3\. Choose Your Pressure Nozzle
+
+Select the pressure nozzle that best fits your cleaning task. Install it by pulling back the collar on the end of the gun and wand. Slip the nozzle in and release the collar.
+
+Power washers have different pressure nozzles that are color-coded according to how hard the water will hit the surface. Red indicates a strong flow, while white signals a gentler flow. Each nozzle should also have a measurement in degrees. This number indicates the angle of spray you'll get with that nozzle. Some standard nozzle sizes include 25 degrees and 40 degrees. The wider the angle of the nozzle, the gentler the spray. Nozzles that are 40 degrees might be ideal for cleaning a soft surface on a large area, like a wooden deck. When you go down to the 0-degree nozzle, the intensity is capable of damaging softer surfaces. This one is best for concrete or masonry.
+
+### 4\. Prepare to Power Up
+
+Turn on the water supply from your home's exterior tap where the hose is attached. The washer and the hose will fill up with water as it flows, so squeeze the trigger on the gun to release excess air in the unit before turning it on. Check that your gas power washer has enough fuel in the tank to begin.
+
+### 5\. Start the Power Washer
+
+Now, you can start the machine. Ensure the fuel valve is in the open position. Then, move the choke into the closed position. Move the throttle into the full-throttle position (to the left). Flick the engine switch to the "on" position.
+
+Hold the gun assembly and ensure it's pointing away from you at a surface you want to clean. Squeeze the trigger to release pressure and pull the recoil on the engine at the same time. Then, move the choke lever to the open position. Now, you're ready to start cleaning.
+
+### 6\. Prevent Damage
+
+Learn how to use your power washer correctly for the surface you're cleaning. For example, walls should be washed from top to bottom to avoid streaking. When you're cleaning a wall, refrain from using a high-pressure nozzle near windows, outlets or lights. You should spray areas from roughly 3 to 4 feet away. Keep the spray wand continuously moving in a sweeping motion. This prevents a high concentration of pressure in a single area, which could damage the surface. If you're cleaning a high-up area, get an extension wand. Never use a power washer while on a ladder.
+
+### 7\. Turn It Off
+
+When your cleaning task is complete, turn the engine switch back to the "off" position. Pressure will have built up in the system, so after turning the power washer off, you must squeeze the trigger to release the pressure in the gun assembly. Then, you can turn off your water supply tap and remove the nozzle from the gun. Disconnect both the high-pressure hose and the garden hose. Let any remaining water drain before coiling the hoses back up for storage.
+
+**More Related Articles:**
+
+*   [How to Stain and Seal a Deck](https://www.homeserve.com/en-us/blog/how-to/stain-seal-deck/)
+*   [Cleaning Gutters Doesn’t Have to Be Gut-Wrenching. Here’s a Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/gutter-cleaning/)
+*   [Keep Your Pool Running Swimmingly With These Maintenance Tips](https://www.homeserve.com/en-us/blog/cost-guide/pool-maintenance/)
+*   [Summer Home Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/summer-maintenance-checklist/)
+*   [Deciding on Siding? Here’s How Much Siding Installation Costs](https://www.homeserve.com/en-us/blog/cost-guide/siding-installation/)
+
+How to Use an Electric Power Washer
+-----------------------------------
+
+It's important to note that even the best electric power washer is likely to have a lower PSI output than a gas power washer. While the gas washers range from 2,000 to 3,000 PSI, electric power washers generally have a PSI between 1,300 to 1,700. It's also worth noting that electric power washers have a shorter lifespan because they are typically not as high-quality as their gas-powered counterparts.
+
+However, electric power washers offer the perk of an unlimited fuel source. You don't need to buy gas or oil to keep them running; you simply use our home power supply.
+
+Use an electric power washer using most of the steps listed above. The difference when using an electric power washer comes around Step 4. Instead of filling your unit’s tank, you'll need to plug the power washer into a power outlet on your home's exterior. Do this prior to turning on the water supply. Once the water is on, you'll still need to squeeze the trigger to release air as you would with a gas-powered device. Then, you can hit the "on" switch and begin cleaning.
+
+_When you're prepared with a home repair plan from HomeServe, you can rest easy knowing you're covered in the case of unexpected repairs. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._

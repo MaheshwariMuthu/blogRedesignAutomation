@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Measure for Replacement Blinds"
+headline: "How to Measure for Replacement Blinds"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2023-08-15
+basePath: https://library.homeserve.com/m/
+heroImage: 65d85d8032eacfe8/Blog-GettyImages-914545792.jpg
+heroAltDescription: "femal hands hold up a tape measure alongside a recently relaced window"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Measuring windows for blinds can seem overwhelming, but you don't need an engineering degree — despite how it might feel. Here's what to do."
+articleAbstract: "Measuring windows for blinds can seem overwhelming if you've never done it before, but you don't need an engineering degree — despite how it might feel.  Grab your tape measure and follow these tips on how to measure for blinds."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Measure for Replacement Blinds"
+  parent: Interior-Home-How-To
+---
+  Ready to freshen up your window coverings? Measuring windows for blinds can seem overwhelming if you've never done it before, but you don't need an engineering degree — despite how it might feel.
+
+**This May Also Interest You:** [**How Much Do Window Treatments Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/window-treatments/)
+
+Grab your tape measure and follow these tips on how to measure for blinds.
+
+How Do You Measure Your Windows for Replacement Blinds?
+-------------------------------------------------------
+
+Before you start taking measurements, you need to decide how you plan to mount your blinds. Your choices are inside and outside mounts. The measurements for inside-mount blinds will be slightly smaller since the window treatments sit inside the window frame. For outside mounts, the blinds need to be larger to cover the window completely because they attach to the outside of the window frame.
+
+### How to Measure Blinds for Inside Mounts
+
+When you measure windows for blinds with an inside mount, accuracy is especially important. The blind won't fit inside the window frame if it's too large, and you'll have excess space along the edges if you go too small.
+
+Start with the width, which you measure from the inside of the window frame. Take measurements at the top, middle and bottom, since windows aren't always perfectly even. Measure to the nearest 1/8 inch. Use the smallest measurement for the width.
+
+The length measurement is similar. You want three measurements: right, middle and left. Again, take it to the nearest 1/8 inch. But this time, go with the longest measurement to make sure you get complete coverage. A little extra length won't hurt anything, since you can adjust the blinds up or down.
+
+### How to Measure Blinds for Outside Mounts
+
+The measurements for outside mounts are a little more flexible, since you attach the window coverings to the outside of the window frame or to the wall if your window is recessed. Before you start measuring, decide how much you want the blinds to cover.
+
+For the width, it's common to cover the window trim completely without overhanging it to cover the wall. Another [common recommendation for outside-mount blinds](https://www.thespruce.com/measure-outside-mount-window-blinds-1976600) is to go 3 inches beyond the window on both sides. The extra width gives you more coverage to maximize privacy and light blockage. Measure the total width of the area you want to be covered by the blinds to the nearest 1/8 inch.
+
+The length is also somewhat flexible. A general guideline is to measure just past the bottom trim piece, measuring to the nearest 1/8 inch. You can go a little longer if you want extra length. Once you decide how long you want it, measure from the top point where you plan to mount the bracket to the lowest point where you want the blinds to stop.
+
+**More Related Articles:**
+
+*   [Bust the Dust: How to Clean Dirty Blinds](https://www.homeserve.com/en-us/blog/how-to/clean-blinds/)
+*   [How to Fix a Broken String on Your Blinds](https://www.homeserve.com/en-us/blog/home-improvement/fix-blinds-string/)
+*   [Keep Children Safe Around Blinds: Go Cordless](https://www.homeserve.com/en-us/blog/home-improvement/window-covering-safety/)
+*   [Don’t Cry! Here’s How to Clean Your Windows’ Weep Holes](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiJsP2M2MT7AhXVBjQIHX9kASkQFnoECAsQAQ&url=https%3A%2F%2Fwww.homeserve.com%2Fen-us%2Fblog%2Fhow-to%2Fclean-window-weep-holes%2F&usg=AOvVaw0uyEoOcJc7jWax8fZ155L7)
+*   [Make Sure Your Window Wells Are Well Maintained With This Checklist](https://www.homeserve.com/en-us/blog/home-improvement/window-well-maintenance/)
+
+How Long Should Blinds Be?
+--------------------------
+
+Inside-mount blinds should be the length of the opening to the nearest 1/8 inch. You don't want them much longer, or they'll look bunched at the bottom. Taking three measurements lets you find the longest part of the window.
+
+Outside-mount blinds can be a little long. You generally want them to extend to at least the bottom edge of the window frame. Adding up to an extra 3 inches past the window opening for the length gives you additional coverage and light blocking. Plus, it's not as noticeable if outside-mount blinds are longer than the window frame, since they're designed to cover the outside of the window anyway. However, you don't want them too long, or they might look out of place.
+
+Tips for Measuring for Blinds
+-----------------------------
+
+Still stressed about how to measure for blinds? The following tips can improve your results when you measure blinds:
+
+*   Check with the manufacturer for specific measuring guidelines.
+*   Use a metal tape measure for accuracy.
+*   Consider the depth for inside-mount blinds.
+*   Write your final measurements as width by height to avoid confusion.
+*   When you measure blinds, repeat the measurements for verification.
+*   Measure all windows individually, even if you think they're the same size, as there could be slight variations.
+
+Knowing how to measure blinds precisely ensures you get window coverings that fit well, offer adequate coverage and look nice.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Insulate Windows | Cheap and Easy with Plastic Film"></iframe>

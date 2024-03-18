@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is Greywater? What Is Blackwater?"
+headline: "What Is Greywater?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-18
+basePath: https://library.homeserve.com/m/
+heroImage: 20244df4a1d301a4/Blog-iStock_000007331670Large.jpg
+heroAltDescription: "water service line"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Greywater is wastewater that doesn't contain serious contaminants, and it's much easier to recycle than sewage."
+articleAbstract: "Greywater is wastewater from showers and sinks that's less likely to contain serious contaminants, and it's much easier to recycle than sewage."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is Greywater?"
+  parent: Plumbing-Home-Improvement
+---
+  Wastewater can be gross and may not be something you think of as beneficial for your home. However, not all wastewater is toxic or contaminated with sewage.
+
+**This May Also Interest You:** [**Pipe Burst? Here’s What to Do Next**](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+
+Greywater is wastewater from showers and sinks that's less likely to contain serious contaminants, and it's much easier to recycle than sewage.
+
+What Are the Different Types of Wastewater?
+-------------------------------------------
+
+There are two types of domestic wastewater: greywater and blackwater. People produce domestic wastewater by everyday living, and essentially all used water becomes greywater or blackwater.
+
+In many homes and apartments, a city sewer system handles wastewater. Other homes use septic systems, while motor homes have holding tanks. Water is also sometimes categorized as stormwater runoff or industrial wastewater.
+
+What Is Greywater?
+------------------
+
+Greywater is water that someone has used or contaminated with soap, household cleaners or small amounts of food. Greywater comes from many sources, including:
+
+*   Bathroom sinks
+*   Showers and bathtubs
+*   Washing machines
+*   Burst freshwater pipes
+
+Many systems classify kitchen sink drainage as blackwater because of germs from food or raw meat. However, kitchen sink wastewater is categorized as greywater in some states. Additionally, most RVs send kitchen sink waste to the greywater holding tank.
+
+While greywater isn't fresh, it doesn't contain human waste like urine or feces. Because greywater doesn't contain serious toxins or pathogens, it's safer to handle and easier to treat.
+
+What Is a Greywater System?
+---------------------------
+
+A greywater system uses special plumbing and a filter to allow greywater to be used in yards and flower gardens. A filter removes lint, hair and debris from greywater. The water is then sent through an irrigation system or drip lines to water landscaping such as:
+
+*   Grass
+*   Bushes
+*   Flowerbeds
+*   Fruit trees
+
+You should usually avoid using greywater systems to irrigate vegetable gardens. It's not potable water, and experts advise against having greywater in direct contact with edible parts of a plant.
+
+Greywater irrigation systems have downward sloping pipes or pumps to carry water to the areas of a property where irrigation is desired. Water from showers, laundry machines and dishwashers can be an ideal source of irrigation water, although sometimes you'll need to switch to a lower phosphorus soap. Using a greywater system for irrigation can conserve water, save money and reduce the strain on septic systems.
+
+**More Related Articles:**
+
+*   [Top 3 Signs You Have Septic or Sewer Issues](https://www.homeserve.com/en-us/blog/home-improvement/sewer-septic-back-up/)
+*   [How Do You Find Your Septic Tank?](https://www.homeserve.com/en-us/blog/how-to/find-septic-tank/)
+*   [Never Flush These 11 Things Down Your Toilet](https://www.homeserve.com/en-us/blog/home-improvement/things-to-never-flush-down-toilet/)
+*   [How Much Does a Septic Tank System Cost?](https://www.homeserve.com/en-us/blog/cost-guide/septic-tank-system-cost/)
+*   [Flood Insurance: What Does It Cover and How Much Does It Cost?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-flood-insurance/)
+
+What Is Blackwater?
+-------------------
+
+Blackwater is water that contains human waste or sewage. Human feces and urine contaminate water with bacteria and viruses, making it hazardous to clean up and treat.
+
+Toilets are an obvious source of blackwater, but sewer back-ups or floods can also leave you with damage from contaminated water. Floodwater is often treated as blackwater because it could have easily mixed with sewage or toxins.
+
+Many water systems handle blackwater and greywater separately. RVs and boats often have separate holding tanks for each type of wastewater. Irrigation and other greywater recycling systems can't use blackwater due to the risk of spreading dangerous germs and bacteria.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

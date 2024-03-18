@@ -1,0 +1,91 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Gas Safety Guide: 7 Tips to Keep in Mind"
+headline: "Gas Safety Guide: 7 Tips to Keep in Mind"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-06
+basePath: https://library.homeserve.com/m/
+heroImage: 4c696545bcac0593/Blog-shutterstock_377058310_GasMeter.jpg
+heroAltDescription: "technician fixing gas meter"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Gas safety is important to keep in mind in your day-to-day life. These home gas safety tips will help you stay safe."
+articleAbstract: "Owning a home comes with lots of safety concerns, but gas safety is one of the most important things to keep in mind in your day-to-day life. These gas safety tips will help you stay safe."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Gas Safety Guide"
+  parent: Interior-Home-Home-Improvement
+---
+  
+
+Owning a home comes with lots of safety concerns, but gas safety is one of the most important things to keep in mind in your day-to-day life.
+
+**This May Also Interest You:** [**Here’s How to Turn Off Your Gas Supply Valves**](https://www.homeserve.com/en-us/blog/how-to/gas-shutoff-valve/)
+
+Ignoring natural gas safety can cause health risks to your family — including death — and can cause explosions or fires. Here are gas safety tips you need to know to stay safe.
+
+Signs of a Gas Leak
+-------------------
+
+Recognizing the signs of a gas leak can help you get your family out of your home before the situation gets serious. If you have a gas stove or any gas appliances in your home, you should be aware of these signs. Potential indicators of a gas leak include:
+
+*   Rotten egg smell
+*   Hissing sound near gas lines
+*   Unexplained increase in gas use
+*   Bubbles in standing water outside your home
+*   Unexplained death of plants inside your home
+*   Feeling ill for no reason, including headaches, nausea, breathing difficulties, dizziness and fatigue
+
+If you notice these signs, leave the house immediately and call 911 or the emergency line for your gas company.
+
+Gas Safety Tips Every Homeowner Should Know
+-------------------------------------------
+
+Being aware of potential gas issues can help you avoid dangerous situations. The following gas safety tips can help you stay safe.
+
+<img class="detail-image" src="https://library.homeserve.com/m/f5e5da88dc28f3a/Blog-CarbonMonoxideDetector_MSchmitz_0001-copy.jpg" alt="A human hand replaces the 9-volt battery in a home smoke alarm and carbon monoxide detector"/>
+
+### Use Carbon Monoxide Detectors
+
+If you have natural gas running into your home, you need a carbon monoxide detector on every level. When a gas-powered appliance doesn't work correctly, it can produce carbon monoxide, which is colorless, odorless and invisible. Breathing carbon monoxide can cause physical symptoms to the point of losing consciousness and possibly death. Having working carbon monoxide detectors in your home is the only way to know if you have a carbon monoxide leak.
+
+### Practice Stove, Burner and Grill Safety
+
+If you have a gas stove, ensure you turn the knobs off completely to avoid letting gas leak into your home. Clean the burners well after each use to make sure there's no grease, oil or food debris that could start a fire the next time you light the burner. Clear the area completely of flammable objects before using your stove, and never leave the stove unattended while in use. If you have a gas grill, never use it indoors. Instead, position it outdoors away from any structures.
+
+<img class="detail-image" src="https://library.homeserve.com/m/348091ba57b83666/Blog-GasStove_MSchmitz_0001.jpg" alt="A black gas range stovetop has all four burners on emitting blue flames under black metal stove grates."/>
+
+### Store and Use Combustibles Safely
+
+Paint, solvents, gasoline and other combustible materials should never be stored near your gas appliances. Store them in proper containers away from ignition sources. When using combustible products, such as varnish or paint stripper, shut off gas appliances because pilot lights could ignite the vapors. Ventilate the area well while using the products.
+
+**More Related Articles:**
+
+*   [Is It Safe to Warm Your House With a Gas Oven or Stove?](https://www.homeserve.com/en-us/blog/home-improvement/gas-stove-for-heat/)
+*   [When’s the Last Time You Replaced You Replaced Your Appliances’ Hoses?](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [Gas Stove Vs. Electric Stove: Which Is Best For You?](https://www.homeserve.com/en-us/blog/buying-guide/gas-vs-electric-stove/)
+*   [How to Relight Your Water Heater’s Pilot Light](https://www.homeserve.com/en-us/blog/how-to/light-water-heater-pilot-light/)
+*   [How to Relight Your Furnace Pilot Light in 5 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/pilot-light-furnace/)
+
+### Follow Space Heater Guidelines
+
+Space heaters can help keep you warm, but they're also potentially hazardous if you don't use them correctly. Keep space heaters away from stored gasoline or other combustibles. If you use a gas space heater, choose a vented model to decrease the risk of issues. Only use the type of fuel specified by the space heater manufacturer.
+
+<img class="detail-image" src="https://library.homeserve.com/m/9e9aa5fec9ccb47/Blog-AdobeStock_100927192.jpg" alt="fixing pipe parts"/>
+
+### Locate Your Gas Shut-Off Valve
+
+Your home has a main gas shut-off valve that you should use in case of an emergency. Locate the gas shut-off valve now so you know exactly where it is in case you need it. The valve is typically on the main gas line coming into your home before it reaches the first gas appliance. You should simply need to turn the valve to shut off all gas going into your home.
+
+### Take Care of Pilot Lights
+
+Gas appliances use a pilot light as the ignition source when needed. The flame burns constantly, but it can go out if there's an issue with the appliance. In older appliances without as many safety features, the gas that runs to the pilot light can continue even when the light goes out, which can create a dangerous buildup of gas. If you need to relight the pilot light, wait at least 5 minutes to let all the gas disperse. If your pilot light keeps going out, call a professional to identify and repair the issue.
+
+<img class="detail-image" src="https://library.homeserve.com/m/786e6eb8677dfe0e/Blog-CleanYourOven_MSchmitz_0002.jpg" alt="view inside a dirty oven"/>
+
+### Maintain Gas Appliances
+
+Schedule regular, professional maintenance on your gas appliances to ensure they're in good working order. The technician can check for leaks, run tests and identify malfunctioning parts on the gas appliances before they cause a risk to your family. Making little repairs now can stop them from becoming worse, which usually costs more to fix and could put you at risk of carbon monoxide poisoning or fires. They'll also check the ventilation system to ensure the gas appliances are operating correctly.
+
+Some appliances need additional maintenance. For example, a gas fireplace needs to be inspected and cleaned every year. Gas furnaces need new air filters regularly, and they need to have all components inspected by an HVAC professional.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

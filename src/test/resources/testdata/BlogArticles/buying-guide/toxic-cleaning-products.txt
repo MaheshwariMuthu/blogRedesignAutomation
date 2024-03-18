@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Safe Cleaning Products that aren't actually safe
+headline: Safe Cleaning Products that aren't actually safe
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2019-01-22
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: CleaningProducts.jpg
+heroAltDescription: Safe Cleaning Products that aren't actually safe
+metaDescriptions: In an age of much marketing hype, how do we determine which options are the truly safe cleaning products? We're breaking it down.
+articleAbstract: Here’s what you need to know about safe cleaning products - and those masquerading as safe.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Safe Cleaning Products that aren't actually safe
+  parent: Buying Guide
+---
+
+:::: blog-info
+I recently watched the ["Stink!" documentary on Netflix](https://stinkmovie.com/){target="_blank"}. And wow...mind blown. The movie brings to light some rather unsettling facts about toxic chemicals and their presence in our cleaning products. The worst part is that even some of the so-called "eco-friendly" products I thought were top-notch choices are actually not as safe as they are made out to be. _(Seriously, who knew?!)_
+
+So, in an age of much marketing hype, how do we determine which options are the truly safe cleaning products? Here's what I found out:
+
+## The toxic issue
+
+"Stink!" drives home this hard-to-face reality: **the use of toxic chemicals in cleaning chemicals is unregulated.** Manufacturers conceal the toxic ingredients under the term "fragrance," which doesn't have any Federal safety regulations attached to it. Even well-known eco-friendly brands are guilty of capitalizing on this practice.
+
+Often linked to chronic health problems, these chemicals have no business being in your home. According to Women's Voices for the Earth, the toxic ingredients may cause [fertility problems, birth defects, asthma and respiratory disorders, increased breast cancer risk and hormone disruption](https://www.womensvoices.org/safe-cleaning-products/){target="_blank"}.
+
+## The purchase decision
+
+Practicing mindful shopping is key to making sure only safe cleaning products end up in your cart. Pay attention to key indicators, including ingredient lists, packaging and manufacturing location. _Treehugger_._com_ advises [buying products with recyclable packaging](https://www.treehugger.com/green-home/how-identify-truly-green-products.html){target="_blank"}, as well as those made domestically or locally. Trustworthy certifications like the Leaping Bunny logo (which stands for no animal testing), also suggest the product is truly green.
+
+Additionally, the [Environmental Working Group](https://www.ewg.org/){target="_blank"} is a trusted resource for identifying harmful ingredients and helping consumers to make better-informed shopping decisions. 
+
+## The brands we know: truths revealed
+
+Sneaky labels and advertising make buying safe cleaning products a challenge. What makes it even more complicated is that certain brands have products that are deemed safe, and others in the same brand lineup that are not safe. To help you make the right decision, here's a look at some of the most popular green cleaning brands and how they stack up on the [EWG safety scale](https://www.ewg.org/guides/cleaners){target="_blank"}:
+
+### 1\. Method
+
+While advertised as “naturally-derived” and “biodegradable”, Method cleaning products are not as safe as they'd like you to think. While the laundry detergent and multiple surface cleaners get a [B rating](https://www.ewg.org/guides/search?utf8=%E2%9C%93&q=method&x=0&y=0&page=1&per_page=15){target="_blank"} from EWG, many of their products receive C, D and F ratings.
+
+### 2\. Mrs. Meyer's
+
+Mrs. Meyer's cleaning products are slightly better than Method's, with many of their products earning [B or C ratings](https://www.ewg.org/guides/search?utf8=%E2%9C%93&q=mrs.+meyer%27s&x=0&y=0&page=1&per_page=15){target="_blank"}. Only one product gets an F: Mrs. Meyer's Clean Day Scent Free Laundry Detergent.
+
+### 3\. Better Life
+
+The [laundry detergent and dish liquids, soap and gel](https://www.ewg.org/guides/search?utf8=%E2%9C%93&q=better+life&x=0&y=0&page=1&per_page=15){target="_blank"} are safe bets from this brand, earning A ratings from EWG.
+
+### 4\. Green Works
+
+Don't let the name mislead you: the majority of Green Works cleaning products have [unwanted toxins](https://www.ewg.org/guides/search?utf8=%E2%9C%93&q=green+works&x=0&y=0&page=1&per_page=15){target="_blank"}.
+
+### 5\. Ecover
+
+These products are relatively safe bets, with EWG never reporting anything over a [moderate concern](https://www.ewg.org/guides/search?utf8=%E2%9C%93&q=ecover&x=0&y=0&page=1&per_page=15){target="_blank"}.
+
+### 6\. ECOS
+
+Several ECOS products get [A ratings](https://www.ewg.org/guides/search?utf8=%E2%9C%93&q=ecos&x=0&y=0&page=1&per_page=15){target="_blank"}, and their ingredient disclosure is generally fair. However, avoid this brand's laundry detergents, which earn low EWG scores.
+
+### 7\. Seventh Generation
+
+It's a mixed bag on this brand as well, so reference the [EWG verdicts](https://www.ewg.org/guides/search?utf8=%E2%9C%93&q=seventh+generation&x=0&y=0&page=1&per_page=15){target="_blank"} to determine which Seventh Generation cleaning products you should buy.
+
+Once you stock up on the best non-toxic cleaning products, you'll have the tools to safely clean and maintain your home. Follow these guides for the ultimate deep-cleaning rituals:
+
+::: list-square
+* [How to clean your hardwood floors for that flawless shine](/en-us/blog/how-to/clean-hardwood-floors){target="_blank"}
+* [How to clean an oven](/en-us/blog/how-to/clean-oven){target="_blank"}
+* [How to keep your drains smelling fresh](/en-us/blog/home-improvement/shower-drain-smells){target="_blank"}
+:::
+
+As you rethink your purchase of certain cleaning products, consider doing your research on how you can help be prepared for unexpected repairs and breakdowns in your home. A good idea is to look into a home repair or home warranty plan. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+::::

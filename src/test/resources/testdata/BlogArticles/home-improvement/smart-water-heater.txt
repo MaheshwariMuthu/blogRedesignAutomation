@@ -1,0 +1,85 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Smart Water Heater?"
+headline: "What Is a Smart Water Heater?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-02-17
+basePath: https://library.homeserve.com/m/
+heroImage: 1aded574f4bfec36/Blog-GettyImages-174625704.jpg
+heroAltDescription: "water heater"
+metaDescriptions: "A smart water heater can offer you more control over your energy consumption. Here's what you need to know."
+articleAbstract: "Smart devices offer you total control over functions that were once a mystery. With a smart water heater, you can schedule when you want it to turn on and off from an app on your phone."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is a Smart Water Heater?"
+  parent: Appliances
+---
+  These days, smart devices allow unprecedented control over your appliances, often via smartphone apps or virtual assistants like Amazon Alexa and Google Assistant. You can remotely control thermostats, refrigerators, outlets, lighting — and even your water heater.
+
+**This May Also Interest You:** [**5 Best Smart Refrigerators for Various Household Needs**](https://www.homeserve.com/en-us/blog/buying-guide/the-best-smart-refrigerators/)
+
+Not really into smart devices? Even if you won’t use some of its features, a smart water heater may lower your monthly energy bill. Still not convinced? Read on to learn more.
+
+What’s So Smart About ’Em?
+--------------------------
+
+Smart water heaters turn on and heat water only when you need them to. Some systems work by measuring your water consumption patterns and adapting automatically. Others operate based on a schedule you choose.
+
+They come in both tanked and tankless configurations. Or, you can purchase external, retrofitting systems that can make a smart device out of your existing gas or electric water heater.
+
+How Do You Control a Smart Water Heater?
+----------------------------------------
+
+You can control a smart water heater from a smartphone app. Smart water heaters establish a wireless connection to your device, typically using Bluetooth or Wi-Fi. On the app, you can turn the heater on and off, set schedules and adjust temperature. Most apps also let you monitor your water and energy consumption.
+
+How Much Does a Smart Water Heater Cost?
+----------------------------------------
+
+For a retrofitting controller, you can expect to pay about $150. This enables you to have all the features of a smart water heater on the model you already have.
+
+If you’re looking to swap your existing water heater with a smart model, expect to spend at least $1,000 for installation. Tankless models are more expensive, and can cost up to $2,000. Comparing costs, a traditional water heater without the added smart functionality costs $650 on average.
+
+Tanked or Tankless?
+-------------------
+
+Here are some differences between traditional systems with reservoirs and tankless systems:
+
+### Tanked
+
+Most water heaters fall into this category. They have an insulated tank where the water is heated and stored until you need it. This can give you hot water more readily while the reservoir is full. But once it runs out, it can take a while for the water to get hot again.
+
+### Tankless
+
+Tankless water heaters are generally more energy efficient because they heat water as you need it instead of storing gallons of water in a tank. They also take up less space. These systems often cost more than tanked systems.
+
+**More Related Articles:**
+
+*   [Is A Tankless Water Heater Worth It?](https://www.homeserve.com/en-us/blog/buying-guide/tankless-water-heater/)
+*   [Here’s How Much it Will Cost to Replace a Water Heater](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-replacement-cost/)
+*   [Best Water Leak Detectors 2020](https://www.homeserve.com/en-us/blog/buying-guide/best-water-leak-detectors/)
+*   [Smart AC Not a Dumb Idea If You’re Looking to Cut Climate-Control Costs](https://www.homeserve.com/en-us/blog/buying-guide/smart-ac/)
+*   [How to Drain a Water Heater the Right Way](https://www.homeserve.com/en-us/blog/how-to/drain-water-heater/)
+
+Reasons to Upgrade to a Smart Water Heater
+------------------------------------------
+
+### Control
+
+A smart system can give you complete control over your water heater. If you want to have a hot shower every morning at 7 a.m., you can program that in. You can also easily check your water usage.
+
+With the ability to turn your water heater off on in just a few clicks, you also have more control over your energy consumption. This can save you on your monthly energy bills.
+
+### Predicts Patterns
+
+The system is also great if you prefer to be hands-off. It can learn your household’s hot water patterns and adjust automatically. As your patterns change — if you switch to nightly baths instead of morning showers, for example — the smart system adapts to meet your needs.
+
+### Alerts
+
+Smart technology can also offer peace of mind, whether you’re home or away. If something goes wrong with your water heater, the system will alert you on the app. You can choose which alerts you want to get, like warnings about leaks or system failures.
+
+### Safety
+
+Bacteria flourish when tanked water heaters sit full of lukewarm water. Legionella bacteria, which can cause Legionnaires’ disease, is not something you want in your home. Smart water heaters can keep track of water temperature. You can program them to cycle on in regular intervals to kill harmful bacteria.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="560" height="315" src="https://www.youtube.com/embed/LfJL3ADHwTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

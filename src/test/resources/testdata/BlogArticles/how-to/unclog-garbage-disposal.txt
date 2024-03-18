@@ -1,0 +1,85 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Unclog a Garbage Disposal"
+headline: "How to Unclog a Garbage Disposal"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2022-10-16
+basePath: https://library.homeserve.com/m/
+heroImage: f41d0db1d6e0ff4/Blog-GettyImages-461899345.jpg
+heroAltDescription: "Under the sink "
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Garbage disposals can make kitchen cleanup a snap —unless they become clogged. Learn how to unclog a garbage disposal in six easy steps."
+articleAbstract: "Garbage disposals can make kitchen cleanup a snap —unless they become clogged. Learn how to unclog a garbage disposal in 6 easy steps."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Unclog a Garbage Disposal"
+  parent: Plumbing-How-To
+---
+  Garbage disposals offer a number of benefits. They save time and effort during kitchen cleanup and cut down on the amount of kitchen waste you would otherwise toss in the trash — also benefiting the environment by reducing the amount of methane-producing trash in landfills.
+
+**This May Also Interest You:** [**How to Deep-Clean Your Garbage Disposal**](https://www.homeserve.com/en-us/blog/how-to/clean-garbage-disposal/)
+
+However, they can occasionally clog, especially if you don’t use enough water while you’re running it, use hot water while you’re running it (spreading grease and fat through your pipes), overload the disposal or grind up certain food items like potato and banana peels that are notorious clog-causers.
+
+Whatever the reason may be for your stopped-up system, read on to learn how to unclog a garbage disposal in six easy steps.
+
+Getting Started
+---------------
+
+Each of the individual steps that follow may work on its own to unclog your garbage disposal. If there is standing water in your sink that ends up draining after a particular step, that’s a good indication that the clog has cleared. If there isn’t standing water in your sink, run some water down the drain to see if the clog has cleared. Once you’ve verified the unit is unclogged, you can skip down to the sixth step to get your disposal up and running again.
+
+### Tools & Materials
+
+*   Pliers or tongs
+*   Allen wrench
+*   White vinegar
+*   Baking soda
+*   Sink plunger or brand-new toilet plunger
+*   Drain stopper
+
+Unclogging a Garbage Disposal: Step-by-Step
+-------------------------------------------
+
+### Step 1: Cut the Power
+
+Shut off the power to your garbage disposal to prevent injury while you’re working on the unit. If your garbage disposal is plugged into an electrical outlet underneath the sink, unplug it from the outlet. If your unit is hardwired (permanently connected to the electrical wires in the wall), shut off the breaker that controls the garbage disposal in your home’s main electrical panel.
+
+### Step 2: Manually Check the Drain
+
+Insert a pair of tongues or pliers into the drain to remove any obstructions. You can grab and remove larger debris and wiggle the tool around to dislodge any smaller material that may be causing the clog. Never insert your hand directly into the garbage disposal, even with the power off.
+
+### Step 3: Manually Rotate the Blades
+
+Many garbage disposals have a hexagonal-shaped port on the bottom of the unit that’s used to manually rotate the blades when the disposal gets clogged. If your disposal has one of these, it likely came with an L-shaped Allen wrench (also called a “hex wrench”) that fits into the port and usually gets stored underneath the sink where the unit is located. If you can’t find this Allen wrench, you can use a standard Allen wrench set instead. In most cases, a 1/4-inch wrench will work.
+
+Insert the Allen wrench into the port, and begin rotating it back and forth as far as you can in both directions. You should be able to progressively turn the wrench more and more until you can achieve a full 360-degree rotation as the clog becomes dislodged.
+
+If your garbage disposal doesn’t have this hexagonal port, you can manually turn the blades by inserting a wooden handle (like the one on a plunger) down the drain and into the unit instead.
+
+With the blades free, use pliers or tongues to remove any large material that became dislodged and couldn’t be removed in the previous step.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install a Garbage Disposal?](https://www.homeserve.com/en-us/blog/cost-guide/install-garbage-disposal/)
+*   [8 Things You Should Never Put Down the Garbage Disposal (and 5 Things You Can)](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-dos-and-donts/)
+*   [How to Reset Your Garbage Disposal (Pssst ... It’s Way Easy!)](https://www.homeserve.com/en-us/blog/how-to/reset-garbage-disposal/)
+*   [Garbage Disposal Not Working? Here’s How to Fix Common Issues](https://www.homeserve.com/en-us/blog/how-to/fix-garbage-disposal/)
+*   [How to Remove a Garbage Disposal](https://www.homeserve.com/en-us/blog/how-to/remove-garbage-disposal/)
+
+### Step 4: Use a Natural Cleaner
+
+Although you may be tempted to use a liquid drain cleaner to clear your clog, they can damage the plastic components in and around your garbage disposal. Instead, make a natural drain cleaner by mixing 1/2 cup vinegar and 1/4 cup baking soda together and pouring it down the drain. Wait for about 20 minutes for the cleaner to take effect.
+
+### Step 5: Plunge the Drain
+
+If you have a double sink, use a drain stopper to plug the drain on the second sink. Otherwise, wastewater will shoot out of the drain as you plunge the other side. You can either hold down the stopper with your non-dominant hand while you plunge, or you can place a weight on top of it.
+
+Place either a sink plunger or standard (but unused) toilet plunger over the top of the garbage disposal drain and add water to your sink until it covers the plunger’s bottom lip. Push the plunger up and down using modest force (too much force can damage your sink) and without completely lifting the plunger off the drain. Repeat this process at least five times before lifting the plunger off the drain to see if the clog has cleared. You can repeat this process several times if your initial attempts aren’t successful.
+
+### Step 6: Restore Power and Test
+
+Garbage disposals are equipped with a red reset button that’s connected to an internal breaker responsible for shutting off the unit’s power when it gets clogged, overheats or detects an internal electrical issue. Locate the reset button on the bottom of the unit, and feel whether it’s popped out roughly 1/4 inch. If so, press it in until it clicks and rests flush.
+
+Plug the power cord back into the electrical outlet or flip the breaker back on. Run water down the drain and turn on the garbage disposal to confirm that it’s working and to rinse any residual material down the drain.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/5j759jOLiwc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Retrieve a Wedding Ring that Went Down the Drain | 5 Steps"></iframe>

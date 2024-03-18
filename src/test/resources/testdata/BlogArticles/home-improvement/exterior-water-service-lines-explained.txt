@@ -1,0 +1,55 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What's an Exterior Water Service Line?"
+headline: "What's an Exterior Water Service Line?"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-24
+basePath: https://library.homeserve.com/m/
+heroImage: 556150edd6c0be83/Blog-HOMESERVEUSA-WSLDIGSHOOT-DAY2-2017DAVENOONANMODERNFOTOGRAPHIC-67of75.jpg
+heroAltDescription: "replace water sewer line"
+metaDescriptions: "A water service line carries water from the public main into your home. Because it's on your property, you pay for repairs. Here's what you need to know."
+articleAbstract: "If there’s water coming out of your taps, you probably have a water service line buried on your property. An exterior water service line carries water from the public main into your home. Sounds simple enough. But when it comes to who’s responsible for repairs, it can get a little complicated."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is an Exterior Water Service Line?"
+  parent: Plumbing-Home-Improvement
+---
+  
+
+If there’s water coming out of your taps, you probably have a water service line buried on your property. An exterior water service line carries water from the public main into your home. Sounds simple enough. But when it comes to who’s responsible for repairs, it can get a little complicated.
+
+**This May Also Interest You:** [**Does a Home Warranty Cover Water and Sewer Lines?**](https://www.homeserve.com/en-us/blog/buying-guide/water-sewer-line-home-warranty-coverage/)
+
+The path water takes to get to your faucet has three major components:
+
+1\. Water Distribution Main
+---------------------------
+
+This large underground pipe acts as a community water supply. It brings water within the vicinity of your home, but not _into_ it. It’s owned and maintained by the city or other local government entity and usually runs under the street in front of your house.
+
+2\. Private Water Service Line
+------------------------------
+
+Water from the distribution main enters your home through your water service line. Like a water main, this line is buried underground. Practically, however, it’s a lot more like the plumbing in your home — which is clearly owned and maintained by you, the homeowner. Because it’s buried on _your_ property, the water service line is _your_ responsibility.
+
+Invading tree roots, corroding pipes and massive clogs can damage this line, and you’ll be on the hook for repairs. Unfortunately, homeowners insurance generally doesn’t cover water service line repairs or replacements.
+
+3\. Public Water Service Line
+-----------------------------
+
+Depending on your municipality, there may be a portion of the service line that belongs to the local government because it runs under public land. In this case, the pipe becomes your responsibility at the point it meets the property line.
+
+(If it's unclear how this works, here’s a [handy diagram](https://pipespy.com/blog/water-line-replacements/) from Pipe Spy.)
+
+**<img class="detail-image" src="https://library.homeserve.com/m/2f0635eeb64c02a6/Blog-HOMESERVEUSA-WSLDIGSHOOT-DAY2-2017DAVENOONANMODERNFOTOGRAPHIC-30of75.jpg" alt="replace water sewer line"/>**
+
+**More Related Articles:**
+
+*   [Pipe Burst? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+*   [5 Things You Should Know About Your Plumbing Vents](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-vents/)
+*   [Prevent Frozen-Pipe Problems by Knowing These Things Down Cold](https://www.homeserve.com/en-us/blog/how-to/frozen-pipes/)
+*   [15 Plumbing Problems Every Homeowners Needs to Watch Out For](https://www.homeserve.com/en-us/blog/how-to/plumbing-drainage-problems/)
+*   [Plumbing Repair Cost Guide](https://www.homeserve.com/en-us/blog/cost-guide/plumbing-repair-costs/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ut21k0-1KZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

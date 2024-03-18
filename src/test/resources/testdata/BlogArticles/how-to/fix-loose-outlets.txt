@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Fix Loose Outlets"
+headline: "Why Do Plugs Fall Out of My Outlets?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-08-15
+basePath: https://library.homeserve.com/m/
+heroImage: 1d3ff54a3b44af49/Blog-LoosePlug_MSchmitz_0001.jpg
+heroAltDescription: "A white Apple computer charger is loosely plugged into a wall socket with a gray hardwood floor and a metal cocktail cart in the background"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Do your appliances' plugs keep falling out of a particular socket? Here's how to fix the issue."
+articleAbstract: "Loose electrical outlets and plugs are among the most common home outlet issues and typically only require a quick fix to solve the problem. Here's what to know."
+category: ["How To"]
+eleventyNavigation:
+  key: "Why Do Plugs Fall Out of My Outlets?"
+  parent: Electrical-How-To
+---
+  When it comes to electrical outlets, it’s simple: You expect them to work. From charging phones to making smoothies and running an air diffuser, the outlets are there, ready to be used. That’s why, when you have a loose outlet and plugs keep falling out of the socket, it can really be frustrating.
+
+**This May Also Interest You:** [**Watt’s Too Much? How Much Can You Plug Into One Outlet?**](https://www.homeserve.com/en-us/blog/home-improvement/overloaded-outlet/)
+
+Although they might seem pretty mysterious, loose electrical outlets and plugs are among the most common home outlet issues and typically only require a quick fix to solve the problem.
+
+Frustrating Problem, Simple Solutions
+-------------------------------------
+
+When a plug won’t stay in an outlet, there’s either an issue with the plug's prongs or the outlet itself. Start by examining the prongs on your device. Are they bent or twisted in any way? If so, their damage may not allow them to stay in the outlet properly. To make extra sure, you may want to plug a few different devices into the outlet. If the prongs of the device seem to be to blame, you may want to consider having a professional electrician replace the plug for you.
+
+On the other hand, if the prongs look straight, then the issue most likely stems from the outlet itself. To solve the problem, it’ll help to have an accurate diagnosis as to the exact cause of the problem.
+
+Reasons Why a Plug Won’t Stay in an Outlet
+------------------------------------------
+
+There are generally two reasons why a plug won’t stay in an outlet. Either the contact points in the receptacle are worn out, or the outlet face is too loose. No matter the scenario, you’ll want to fix your outlets sooner rather than later, as both issues can be fire hazards. They can also expose you to direct voltage. That said, fixing the problem depends largely on what’s causing your loose outlets.
+
+### Worn-Out Contact Points
+
+If your outlet face seems secure, but you’ve still got a loose plug, chances are there’s an issue with the receptacle itself. The receptacle refers to the two (or three) prong slots on the outlet. Over time, the internal contact points in a receptacle can become worn out. Aside from the annoyance of having a plug that won’t stay in your outlet, worn-out contact points can cause an arc or become a fire hazard.
+
+If you think you might have a worn-out receptacle, you’ll need to replace it with a new outlet. Fortunately, replacing an outlet is a relatively easy task that most homeowners can tackle themselves.
+
+If you ever feel uncomfortable handling electrical components in your home, don’t hesitate to call a licensed electrician.
+
+To replace an old outlet, start by removing it. Make sure that you’ve shut off power to the outlet by flipping the circuit breaker in the electrical panel. Again, use a voltage tester to make sure there’s no power still in the outlet after switching off the breaker.
+
+Once the power’s off, take out the two mounting screws and pull the outlet from the wall. Then, look at the side of the outlet. You should see two screw terminals with electrical wires attached to them. Unscrew the screw terminals just until you’re able to remove each wire, then take out the outlet from the box.
+
+When the worn-out outlet has been removed, take your new outlet and connect the wire to the corresponding terminal screws on the outlet. Connect the black wire to the brass terminal screw and connect the white to the silver. From there, connect the bare ground wire to the green terminal screw. To secure them, tighten the terminal screws and place the outlet in the electrical box. Finally, secure the outlet to the electrical box with the mounting screws and replace the cover. Turn the breaker back on, and test your new outlet.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets With GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Wrong Kind of Blowout? Why Your Hair Dryer Keeps Tripping the Circuit Breaker](https://www.homeserve.com/en-us/blog/home-improvement/hair-dryer-tripping-circuit-breaker/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+### Loose Outlet Face
+
+All outlets are secured and mounted inside your wall using an electrical box. Often, outlets are mounted to electrical boxes that are installed too far away from the wall. Eventually, this causes loose electrical wiring, leading to big problems. A loose outlet can pull and disconnect wiring, leading to sparks, electrical shock and a host of other electrical hazards.
+
+To fix a loose outlet, you’ll need a voltage tester, a screwdriver and outlet shims. As with any electrical project, start by shutting the power off to the outlet using the appropriate circuit breaker in your electrical panel. Then, to double-check, use the voltage tester to make 100% sure that there isn’t any power to the outlet before you start inspecting the situation.
+
+If the outlet appears to be too far away from the wall, you’ll need to use the outlet shims to fill in the gaps between the box and the outlet screws. Unscrew the outlet from the wall and then place the shims onto the screws. Depending on how far away the box is, you may need a few shims on each screw to fill up the space. From there, screw the outlet back onto the outlets. When it’s secure, turn the circuit breaker back on.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

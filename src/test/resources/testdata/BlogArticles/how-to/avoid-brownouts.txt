@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Do Your Part to Avoid Brownouts in the Summer"
+headline: "Do Your Part to Avoid Brownouts in the Summer"
+author: Lee Soren
+tags: ["post"]
+publishDate: 2023-09-09
+basePath: https://library.homeserve.com/m/
+heroImage: 154463d5deba1bc4/Blog-HowtoAvoidBrownouts_CrowdContent.jpg
+heroAltDescription: "Illustration of several streets of houses"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If the lights are flickering on a bright summer day, it might be a brownout. Explore several ways to help prevent power brownouts in your service area."
+articleAbstract: "If the lights are flickering on a bright summer day, it might be a brownout. Explore several ways to help prevent power brownouts in your service area."
+category: ["How To"]
+eleventyNavigation:
+  key: "Do Your Part to Avoid Brownouts in the Summer"
+  parent: Electrical-How-To
+---
+  If the lights start flickering on a beautiful summer day — not a single cloud in sight — surely your house must be haunted.
+
+**This May Also Interest You:** [**How Much Does Electricity Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/)
+
+Before you call Ghostbusters (or your trusty electrician), think again. It’s probably just a brownout.
+
+What Is a Power Brownout?
+-------------------------
+
+A brownout is a type of electrical outage that results from reduced power flowing to the electrical grid feeding your home. During a brownout, electronics and electrical appliances may turn off, and the lights may flicker or dim. Typically, the power returns after a few moments.
+
+Brownouts can happen accidentally. However, they’re often planned by your power company to prevent overload to an electrical grid when demand spikes to levels the utility can’t safely accommodate. This drop in voltage can prevent dangerous power surges that may result.
+
+Why Do They Often Happen on Hotter Days in the Summer?
+------------------------------------------------------
+
+The extreme heat that often comes during summer months can create conditions that result in power brownouts. During a heat wave, millions of electrical customers may run their air conditioners during the scorching midday hours, causing excessive strain on the electrical grid. Consequently, the utility company may temporarily reduce the power flowing to a portion or all of the grid.
+
+However, although brownouts are often associated with summer, they may also occur during winter cold snaps due to excessive heating demands.
+
+Brownouts Vs. Blackouts: How to Tell the Difference
+---------------------------------------------------
+
+Unlike brownouts, blackouts are always unplanned, and they're often caused by natural events, such as lightning strikes or strong winds. Blackouts typically involve a complete power loss to the electrical grid, usually due to equipment failure. In other words, they affect everything that requires electricity to run. On the other hand, brownouts may only affect certain areas of your home.
+
+While brownouts are usually brief, blackouts may cause outages that last anywhere from minutes to days. It only returns after the utility company fixes the problem.
+
+Some electrical outages may be referred to as rolling blackouts. These power interruptions are closer to brownouts than true blackouts because they’re deliberately enacted by a utility company. Essentially, the utility turns off the power to one neighborhood at a time on a rolling basis to balance the power supply during periods of excessive demand while minimizing the disruption to customers.
+
+**More Related Articles:**
+
+*   [More Power to You: How to Read Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/read-electricity-bill/)
+*   [How to Take Advantage of Time-of-Use Rates and Lower Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/save-electricity-during-peak-hours/)
+*   [How Much Electricity Do Holiday Lights Use?](https://www.homeserve.com/en-us/blog/home-improvement/holiday-lights-electricity-use/)
+*   [How to Install Whole-House Surge Protection](https://www.homeserve.com/en-us/blog/how-to/whole-house-surge-protector-installtion/)
+*   [Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load](https://www.homeserve.com/en-us/blog/how-to/phantom-loading/)
+
+Avoid Contributing to Electrical Brownouts in the Summertime With These Tips
+----------------------------------------------------------------------------
+
+With record-setting temperatures in many areas, it’s more important than ever to avoid contributing to electrical brownouts. You can do your part by:
+
+* **Conserving energy.** To do your part, turn off lights and devices when you aren’t using them, switch to energy-efficient LED light bulbs and unplug nonessential items, such as phone chargers.
+* **Taking advantage of off-peak hours.** When there’s likely to be high cooling demands, use energy-intensive devices and appliances during times when power demands are lower, such as early mornings. However, peak times vary depending on the season and your region, so contact your utility for specifics. Some companies even charge lower prices for off-peak energy use.
+* **Joining a demand response program.** Many utility companies offer demand response programs, which notify you when energy demands are high so you can turn off nonessential items. If your home uses smart technologies, you can even do this automatically. As an added bonus, some utility companies offer a financial incentive for joining these programs.
+* **Investing in energy-saving appliances.** If it’s time to replace your fridge, choose an energy-saving model. Just look for the Energy Star label on the display or packaging.
+* **Insulating your home.** When it's hot, keep the cold air in by caulking or weather-stripping around your windows, adding insulation to attics, crawl spaces and exterior walls, and attaching sweeps to the bottom of exterior doors. These steps can help prevent brownouts — and save you money — during winter cold snaps, too.
+* **Going solar.** Distributed energy resources, such as rooftop solar systems, reduce demand on power grids. These systems can power a home and feed back into the grid, so you'll earn credit from the utility. Plus, because the battery stores power, it can also help power your home if you do experience an outage.
+
+Alone, you can't keep brownouts from occurring, but you can start a chain reaction. Do your part, and encourage friends, family and neighbors to do the same.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

@@ -1,0 +1,60 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Change a Lightbulb"
+headline: "Let's Shed Some Light on the Situation: How to Change a Lightbulb"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-04-05
+basePath: https://library.homeserve.com/m/
+heroImage: 2b0e51bbb8f5e8c8/Blog-GettyImages-1203054691.jpg
+heroAltDescription: "Woman Bulb replacement at home"
+metaDescriptions: "What do you really know about one of the most common household chores? Here's how to change a lightbulb safely and without fuss."
+articleAbstract: "How many people does it take to change a lightbulb? Just one — you! You likely already know how to do this simple chore, but here's a refresher course, plus some tips and tricks."
+category: ["How To"]
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/how-to/change-lightbublb/', 'en-us'], ['https://www.homeserve.co.uk/living/how-to/how-to-change-a-light-bulb/', 'en-gb']]
+
+eleventyNavigation:
+  key: "How to Change a Lightbulb"
+  parent: Electrical-How-To
+---
+  Most people don’t think of changing a lightbulb as being under the umbrella of home improvement. However, it is one of those necessary chores you have to take care of from time to time. As long as the fixture is within reach, changing a lightbulb is easy.
+
+**This May Also Interest You: How Much Does It Cost to Install Recessed Lighting**
+
+You probably already know how to change a lightbulb, but here’s a refresher course — plus some tips and tricks.
+
+Safely Changing a Lightbulb
+---------------------------
+
+Remember that lamps and other fixtures can give you a shock if you aren’t careful. Before you go to change a lightbulb, always check to make sure the power is cut off. You can usually do this by switching the lamp off the way you normally would, though you may want to unplug the lamp, too. For hardwired lights, you can turn off the power at the fuse box by flipping the appropriate switch.
+
+Electricity isn’t the only safety concern when you’re changing a lightbulb. If the light was on for a while before burning out, it could still be hot to the touch, depending on what kind of bulb was in it. Wait a few minutes to let the bulb cool before you remove the old bulb. This shouldn’t take too long, since most lightbulbs are made from thin glass that doesn’t retain heat for very long.
+
+Removing the Bulb
+-----------------
+
+How you remove the bulb depends on the [type of bulb](https://www.homeserve.com/en-us/blog/buying-guide/light-bulb-types/) and how it’s mounted. The most common type of lightbulb base is threaded like a screw. You can get this type of bulb out of the socket by gently twisting it counter-clockwise. Be careful not to drop the bulb if it’s coming out of a ceiling lighting fixture or another high place; bulbs with a screw fitting tend to come loose with just a few turns.
+
+Your burned-out bulb might have a different type of attachment mechanism, which calls for a different approach. Bayonet mounts, which have prongs that jut directly into the fixture, are common among fluorescent bulbs. These can often be pulled straight out of the base. Other types of bulbs might snap on or take a just a half or quarter turn to loosen from the socket.
+
+**More Related Articles:**
+
+*   [What Are the Types of Lightbulbs?](https://www.homeserve.com/en-us/blog/buying-guide/light-bulb-types/)
+*   [How to Install a Dimmer Switch](https://www.homeserve.com/en-us/blog/how-to/how-to-install-a-dimmer-switch/)
+*   [Transforming a Room: How to Change a Light Fixture](https://www.homeserve.com/en-us/blog/how-to/change-light-fixture/)
+*   [Top 4 Benefits of Lighting Control Systems](https://www.homeserve.com/en-us/blog/buying-guide/lighting-control-system-benefits/)
+*   [How to Wire a Light Switch in Your Home](https://www.homeserve.com/en-us/blog/how-to/wire-light-switch/)
+
+How to Replace a Lightbulb
+--------------------------
+
+Once you have the old bulb out, you’re ready to put in a replacement. Always replace a burned-out bulb with one that’s as similar as possible to it. Most lamps have a narrow range of bulb designs they can accept, which is usually denoted on a sticker somewhere on the base of the lamp. In general, try to get a lightbulb with the same or lower wattage as the bulb you’re replacing. Going higher can be unsafe and cause the bulb or socket to melt from overheating.
+
+Make sure your new bulb is securely seated inside the socket. As a rule, you can tell if your new bulb is in tight enough if there’s little or no give when you gently twist the bulb clockwise. When you’re confident it has a good connection, you can restore power to the fixture and turn on the light switch to test it.
+
+Cleaning Up Afterward
+---------------------
+
+Lightbulbs tend to be made of thin glass that is easily broken. That’s why it’s a good idea to handle the old bulb carefully until you can throw it away. For incandescent bulbs, you can put the old bulb in the packaging that came with your new bulb and toss it in the garbage. If the bulb drops and breaks, carefully sweep up any shards. If you’re disposing of a compact fluorescent lamp (CFL) or another bulb that contains mercury, the Environmental Protection Agency advises that you don’t throw these [in your regular garbage](https://www.epa.gov/cfl/recycling-and-disposal-cfls-and-other-bulbs-contain-mercury). Instead, take them to a local recycling center.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._

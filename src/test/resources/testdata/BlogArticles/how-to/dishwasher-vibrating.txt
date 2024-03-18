@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is My Dishwasher Vibrating?"
+headline: "Why Is My Dishwasher Vibrating?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-08-26
+basePath: https://library.homeserve.com/m/
+heroImage: 36231f23fa1c04b5/Blog-IMG_3774_Dishwasher1_LL.jpg
+heroAltDescription: "white dishwasher mounted under countertop"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Many dishwasher vibrating sounds can be solved with a little investigation and quick and easy fixes. Here's what you need to know."
+articleAbstract: "Many dishwasher vibrating sounds can be solved with a little investigation and quick and easy fixes. Here's what you need to know."
+category: ["How To"]
+eleventyNavigation:
+  key: "Why Is My Dishwasher Vibrating?"
+  parent: Appliances-How-To
+---
+  The dishwasher. That magical kitchen helper that returns a bin full of clean dishes every evening. Typically, its hum as it soaps and rinses is simply a pleasant background murmur.
+
+**This May Also Interest You:** [**Weird Sound Coming From the Dishwasher? How to Diagnose Dishwasher Noises**](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-making-noise/)
+
+But what if, all of a sudden, it is not? If your dishwasher is making a loud vibrating, grinding or other jarring noise, you need to figure out what’s going on and how to make it stop. Many dishwasher vibrating sounds can be solved with a little investigation and quick and easy fixes.
+
+Dishwasher Vibrating Noises: 4 Easy Fixes
+-----------------------------------------
+
+### Remove Foreign Objects
+
+One of the most common causes of dishwasher vibrating sounds is foreign items that have fallen from the dishwasher’s racks. A spoon, fork, or other utensil that has fallen onto the bottom of the dishwasher will rattle around as the machine is running. Open the bottom rack and check to make sure no objects have fallen. Remove them, and your vibrating noise should be gone.
+
+### Check the Filter
+
+Unwanted items can get stuck in other places too. Most dishwashers have a filtration system to prevent foreign objects like silverware or large pieces of food from going down the drain. The vibrating noise could be because something is blocking the filter. Check the filter by removing the bottom rack and then the spray arms. You’ll see the filter unit. Lift off the top part of the filter. Using a small spoon, carefully clean out any hard objects that may be trapped in there. If you found something in the filter that doesn't belong there, that could be the cause of the dishwasher’s unusual vibration. Rinse the filter and replace it. If a dish gets broken during the wash cycle, it’s a good idea to check the filtration system immediately. A piece of glass or plastic may be caught in there, and removing it before the next cycle will prevent any possible future damage to the filter.
+
+### Learn to Load
+
+If your dishwasher’s loud vibrating noises come and go, perhaps the dishwasher isn’t loaded correctly. If you’re running a load full of heavy pots and pans, they could be shifting during the wash cycle and banging against one another, the dishwasher's walls, or the spray arms. Don’t overload the racks; leave a little space between large items and secure smaller items in the top rack. The spray arms should have enough space to rotate freely. Correctly stacked dishes won’t cause any noise.
+
+### Correct Dishwasher Installation
+
+An incorrectly installed dishwasher, or one that has shaken itself loose, can also be the cause of vibrations from the appliance.
+
+Your dishwasher should be placed on a flat surface that can support its weight. If you’re unsure, use a level to check. If it’s not level, you may need to place a piece of wood or other stabilizer beneath it to balance it. If it’s level, make sure there’s space between the dishwasher and the wall, counter, and cupboards. There should be a clear gap. Check the drain hose too. Is it hitting the dishwasher, cabinet or wall? That could be causing the loud noises. Adjust the hose if necessary.
+
+**More Related Articles:**
+
+*   [Install a Dishwasher Yourself: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-dishwasher/)
+*   [How Much Does a Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)
+*   [What’s the Deal With Countertop Dishwashers?](https://www.homeserve.com/en-us/blog/home-improvement/countertop-dishwashers/)
+*   [How Much Do Countertop Dishwashers Cost?](https://www.homeserve.com/en-us/blog/cost-guide/countertop-dishwashers/)
+
+Time to Call a Pro
+------------------
+
+If these fixes haven’t solved your dishwasher’s vibrating noises, there may be a more significant problem. The loud noises could be coming from the machine’s circulation pump or a defective drain pump motor or bearings. The impeller (which forces the water through the drain hose) could be damaged or loose. The inlet valve may have deteriorated, or you may have a defective drain valve. These issues are best left to a dishwasher repair professional. Unfortunately, most of these items can’t be fixed; they will need to be replaced.
+
+There are some clues to watch out for to avoid minor issues turning into big problems. If a consistent humming sound comes from the dishwasher, the motor may be on its way out. A worn-out drain pump will result in abnormal hot water circulation affecting the wash cycle. And if your dishes aren’t clean or are still wet after the dry cycle, the heating element could be to blame.
+
+How Old Is Your Dishwasher?
+---------------------------
+
+The typical lifespan of this appliance is about 10 years. If your dishwasher is approaching this age, investing in a new machine might be wiser than repairing the problem. You can make sure your dishwasher lasts as long as possible by not running it every day, only running full loads, and always following the manufacturer’s recommendations when it comes to maintenance and repairs.
+
+All dishwashers will make sounds when going through their fill, wash or drain cycles. Knowing which sounds are normal and correct for your machine will help you identify faulty noises sooner.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/Ss3da5F_Nk4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Clean Your Dishwasher (Properly)"></iframe>

@@ -1,0 +1,31 @@
+--------------------------------------------------------------------------
+|ArticleName				|Title	|Author	|Date	|Image	|
+--------------------------------------------------------------------------
+|scratched-stainless-steel			|Pass	|Pass	|Pass	|Pass	|
+|screen-door-repair-versus-replacement	|Pass	|Pass	|Pass	|Pass	|
+|shutter-installation			|Pass	|Pass	|Pass	|Pass	|
+|sick-building-syndrome			|Pass	|Pass	|Pass	|Pass	|
+|security-deposit-return			|Pass	|Pass	|Pass	|Pass	|
+|seer-rating				|Pass	|Pass	|Pass	|Pass	|
+|shower-storage				|Pass	|Pass	|Pass	|Pass	|
+|second-story-addition			|Pass	|Pass	|Pass	|Pass	|
+|seal-ac-window-gap			|Pass	|Pass	|Pass	|Pass	|
+|seal-concrete				|Pass	|Pass	|Pass	|Pass	|
+|screened-in-porch			|Pass	|Pass	|Pass	|Pass	|
+|screwdriver-cam-out-explained	|Pass	|Pass	|Pass	|Pass	|
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|ArticleName				|Heading		|Paragraph		|Link			|List			|Image			|Video			|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|scratched-stainless-steel			|Pass: 7 Fail: 0	|Pass: 14 Fail: 0	|Pass: 0 Fail: 0	|Pass: 3 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|screen-door-repair-versus-replacement	|Pass: 3 Fail: 0	|Pass: 12 Fail: 0	|Pass: 9 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|shutter-installation			|Pass: 9 Fail: 0	|Pass: 14 Fail: 0	|Pass: 10 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|sick-building-syndrome			|Pass: 4 Fail: 0	|Pass: 10 Fail: 0	|Pass: 6 Fail: 0	|Pass: 3 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|security-deposit-return			|Pass: 11 Fail: 0	|Pass: 22 Fail: 0	|Pass: 15 Fail: 0	|Pass: 3 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|seer-rating				|Pass: 3 Fail: 0	|Pass: 11 Fail: 0	|Pass: 13 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|shower-storage				|Pass: 11 Fail: 0	|Pass: 21 Fail: 0	|Pass: 8 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|second-story-addition			|Pass: 4 Fail: 0	|Pass: 14 Fail: 0	|Pass: 9 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|seal-ac-window-gap			|Pass: 6 Fail: 0	|Pass: 12 Fail: 0	|Pass: 6 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|seal-concrete				|Pass: 8 Fail: 0	|Pass: 22 Fail: 0	|Pass: 9 Fail: 0	|Pass: 2 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|screened-in-porch			|Pass: 4 Fail: 0	|Pass: 16 Fail: 0	|Pass: 8 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|screwdriver-cam-out-explained

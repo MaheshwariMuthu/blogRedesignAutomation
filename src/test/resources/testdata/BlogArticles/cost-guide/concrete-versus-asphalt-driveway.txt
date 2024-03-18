@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Is a Concrete or Asphalt Driveway Cheaper?"
+headline: "Is a Concrete or Asphalt Driveway Cheaper?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-11-06
+basePath: https://library.homeserve.com/m/
+heroImage: 9ec2748e0803443/Blog-GettyImages-175401103.jpg
+heroAltDescription: "View of a modern suburb home on a hill side in California "
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "There are pros and cons to concrete and asphalt driveways, so it really comes down to which option provides better value to you."
+articleAbstract: "There are pros and cons to both concrete and asphalt driveways, so it really comes down to which option provides better value to you. Keep these things in mind as you make your decision."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "Is a Concrete or Asphalt Driveway Cheaper?"
+  parent: Exterior-Cost-Guide
+---
+  Which is better for a driveway: concrete or asphalt? This is a question many homeowners grapple with as they decide how they should finish their drives.
+
+**This May Also Interest You:** [**Dreaming of a Heated Driveway? Here’s What You Need to Know Before Installing One**](https://www.homeserve.com/en-us/blog/home-improvement/heated-driveway/)
+
+There are pros and cons to both, so it really comes down to which option provides better value to you. Keep these things in mind as you make your decision.
+
+What's the Difference Between Concrete and Asphalt?
+---------------------------------------------------
+
+The basic difference between asphalt and concrete is the binder used to hold everything together. Both concrete and asphalt use sand and crushed stone to form a base called aggregate. With concrete, cement is added to the concrete aggregate to bind it together. The cement is actually a mixture of finely ground natural substances that hardens when mixed with water. Asphalt, on the other hand, uses a petroleum-based tar-like substance that hardens with the addition of additives.
+
+How Do You Decide Which Is Best for Your Driveway?
+--------------------------------------------------
+
+The climate of your region affects the two materials differently. Asphalt tends to weaken and soften in hot climates, like Arizona. As you drive over the softened asphalt, ruts may develop, and it may break apart.
+
+Conversely, concrete isn't as good for colder climates, like Minnesota. The constant thawing and freezing — along with the deteriorating effects of road salt — can easily pockmark and crack concrete surfaces and break them apart.
+
+The look you want to achieve also plays a role. Concrete allows for more design options than asphalt. With concrete, you can etch or stain it. It can also be stamped with special designs to get the appearance you want. You can alter its color by using different finishes. An asphalt driveway is typically rolled to compress it into shape. Some sealants allow you to change the color or tint, but most only provide the color black as an option.
+
+**More Related Articles:**
+
+*   [How to Resurface Your Asphalt or Blacktop Driveway](https://www.homeserve.com/en-us/blog/how-to/resurface-asphalt-driveway/)
+*   [How Much Does a Heated Driveway Cost?](https://www.homeserve.com/en-us/blog/cost-guide/heated-driveway/)
+*   [Kick Asphalt Costs to the Curb: A Gravel Driveway Is Cheaper](https://www.homeserve.com/en-us/blog/cost-guide/gravel-driveway/)
+*   [How Much Does Driveway Sealing Cost?](https://www.homeserve.com/en-us/blog/cost-guide/driveway-sealing/)
+*   [Splash Course: How to Use a Power Washer](https://www.homeserve.com/en-us/blog/how-to/use-power-washer/)
+
+How Much Does It Cost to Install a Concrete Driveway?
+-----------------------------------------------------
+
+The cost varies depending on the size of the driveway and design. The more elaborate the design, the more it will cost. According to [HomeGuide](https://homeguide.com/costs/concrete-driveway-cost), a concrete driveway costs $4 to $8 (CAD 5.49 to CAD 11) per square foot. Based on those numbers, a 24-foot by 24-foot concrete driveway will cost between $2,300 and $4,600 (CAD 3,156 and CAD 6,312).
+
+The concrete itself generally runs between $2 and $3 (CAD 2.74 and CAD 4.12) per square foot. Concrete driveways with stamped designs cost more — expect to pay up to $18 (CAD 25) per square foot for concrete stamped to look like stones or tiles. These costs don't include site-preparation work and permits. Breaking up an existing concrete driveway and hauling the debris away usually runs between $1 and $3 (CAD 1.37 and CAD 4.12) per square foot.
+
+How Much Does It Cost to Install an Asphalt Driveway?
+-----------------------------------------------------
+
+Asphalt driveways﻿ are less expensive to install, but the long-term maintenance costs are higher since this material typically needs more care and attention than concrete. The cost for installation is $2 to $4 (CAD 2.74 to CAD 5.49) per square foot. With that in mind, a 24-foot by 24-foot asphalt driveway will run between $1,152 and $2,304 (CAD 1,581 and CAD 3,161).
+
+How Long Do Concrete and Asphalt Last?
+--------------------------------------
+
+Both concrete and asphalt driveways will last as intended, provided the proper maintenance is done. A concrete driveway is designed to last about 30 years, while an asphalt one should last up to 20 years. An asphalt driveway should be resealed every 2 to 3 years. Concrete driveways need to be kept clean and free of residue and materials that can eat through the cement.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

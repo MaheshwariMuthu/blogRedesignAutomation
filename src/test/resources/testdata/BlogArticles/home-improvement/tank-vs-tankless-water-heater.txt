@@ -1,0 +1,82 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Tank Vs. Tankless Water Heater: What's the Difference?"
+headline: "What's the Difference Between Tank and Tankless Water Heaters?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-08-23
+basePath: https://library.homeserve.com/m/
+heroImage: 93f29b3350a82c0/Blog-tanksVStankless_Erossi.jpg
+heroAltDescription: "side by side image of a traditional tank and modern tankless water heater"
+metaDescriptions: "Need a new water heater? Comparing the features of tank and tankless models can help you decide which is best for your home."
+articleAbstract: "You probably don't think about your water heater too often — until it stops working, of course. When you replace your water heater, understanding the differences between a tank and tankless models can help you choose the best unit for your home."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's the Difference Between Tank and Tankless Water Heaters?"
+  parent: HVAC-Home-Improvement
+---
+  You probably don't think about your water heater too often — until it stops working, of course. Nothing ruins your morning like an unexpectedly cold shower. If your water heater is beyond repair or consistently fails to keep up with your family’s hot water needs, it might be time to install a new one.
+
+**This May Also Interest You:** [**How Much Does It Cost to Repair or Replace Your Water Heater?**](https://www.homeserve.com/en-us/blog/cost-guide/repair-or-replace-water-heater/)
+
+When you replace your water heater, understanding the differences between a tank and tankless models can help you choose the best unit for your home.
+
+Tank Vs. Tankless
+-----------------
+
+Both tank and tankless water heaters have benefits. A tankless water heater is much smaller, which works well when space is limited. It delivers hot water instantly, so you don't have to freeze while you wait for the shower to warm up. However, a tankless water heater is usually more expensive than a tanked water heater, which may push that option off the table if you have a small budget.
+
+Comparing the specifics can help you decide which is best for your situation:
+
+### How a Tankless Water Heater Works
+
+High-powered burners heat the water quickly in a tankless water heater. The water runs through the heat exchanger and then to your faucets or appliances when you need hot water. It heats the water on-demand instead of storing hot water in the tank until you need it. You can have a whole-house tankless water heater or smaller, on-demand water heaters that sit at each faucet or appliance.
+
+### How a Tank Water Heater Works
+
+A traditional tank water heater heats the water and stores it in a large tank, which usually ranges from 20 to 80 gallons. The tank is insulated to help keep the water hot. When you turn on a hot water tap, the hot water comes out of the top of the tank. Cold water then goes into the bottom of the tank to replace the water that you use. If you take a long shower, several people shower at once or you use multiple appliances that demand hot water, you can run out. That results in cold water coming out of the taps until the tank can heat more.
+
+Cost Comparison
+---------------
+
+The price difference can influence your decision. Tankless water heater costs range from [$1,200 to $5,000](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/), while a traditional tank water heater runs from $1,300 to $2,000. If you currently have a tank water heater and are switching to a tankless water heater, you might run into extra expenses for new wiring and plumbing changes. If you're on a budget, a tank water heater is usually the most affordable option.
+
+### Is a Tankless Water Heater Worth the Cost?
+
+Whether a tankless water heater is worth it depends on what you want. If a tankless water heater is in your budget, it’s great to have hot water as soon as you want it without worrying about running out. Keep in mind that a tankless water heater can also have difficulty keeping up with demand if you're, say, running the dishwasher and trying to shower at the same time. A tankless water heater typically costs more upfront, but it can save more energy and money over time.
+
+Life Expectancy of Water Heaters
+--------------------------------
+
+Comparing the life expectancy of a tank and tankless water heaters can help you decide which option to choose. A tankless water heater usually lasts longer than 20 years, while tank water heaters usually only last 10 to 15 years. Investing more upfront on a tankless water heater means you won't have to replace it again for a long time. This saves you money and takes the hassle out of replacing your unit. If you choose a tank water heater, regular maintenance, such as flushing the water heater, can extend its life.
+
+**More Related Articles:**
+
+*   [Does a Home Warranty Cover Water Heater Repair and Replacement?](https://www.homeserve.com/en-us/blog/buying-guide/water-heater-replacement-home-warranty-coverage/)
+*   [How to Install or Replace a Gas Water Heater](https://www.homeserve.com/en-us/blog/how-to/install-gas-water-heater/)
+*   [Your Guide to Draining a Water Heater](https://www.homeserve.com/en-us/blog/how-to/drain-water-heater/)
+*   [How to Test a Water Heater Element](https://www.homeserve.com/en-us/blog/how-to/test-water-heater-element/)
+*   [Don’t Forget to Flush! A 6-Step Guide for Flushing Your Gas or Electric Water Heater](https://www.homeserve.com/en-us/blog/how-to/flush-water-heater/)
+
+Tank Vs. Tankless Water Heater Installation
+-------------------------------------------
+
+The small size of a tankless water heater makes installation easier in a cramped location. However, if you're switching from a tank water heater, your home will likely need more work to accommodate the tankless water heater. Plumbing and wiring changes can make the installation process longer and more complicated. You'll also likely pay more if you switch to a unit with a different power source, such as switching from a gas model to an electric water heater.
+
+Energy Efficiency
+-----------------
+
+Tankless water heaters are generally more efficient than traditional tank water heaters. The [U.S. Department of Energy](https://www.energy.gov/energysaver/tankless-or-demand-type-water-heaters) says that, compared to tank water heaters, tankless models are between 24% and 34% more efficient if you use less than 41 gallons of hot water each day. Traditional tank water heaters have to keep the water heated all the time in case you need hot water. A tankless water heater only heats the water when you need it, which is why it uses less energy.
+
+Tankless water heaters usually last longer and save energy, which can offset the additional cost it takes to install a tankless water heater. If you choose a tank water heater, look at the energy efficiency and insulation. An Energy Star-rated water heater can save you on your utility bills.
+
+Save Water
+----------
+
+One of the biggest perks of a tankless water heater is the fast delivery of hot water. You can enjoy a hot shower instantly. You may also save water because you don't have to let the tap run until the hot water reaches the fixture you're using. If your current tank water heater doesn't keep up with your water demands but you don't want to switch to a tankless unit, consider upgrading to a larger tank size. You can stick with the tank water heater style while having more hot water to last.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/LfJL3ADHwTY?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

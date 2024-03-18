@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Fix a Doorbell"
+headline: "How to Fix a Doorbell: 4 Troubleshooting Tips to Try"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-10-31
+basePath: https://library.homeserve.com/m/
+heroImage: 7c2098fbe9511806/Blog-GettyImages-133913957.jpg
+heroAltDescription: "Doorbell"
+metaDescriptions: "Read this guide to learn how to diagnose your problem and get back with a working doorbell in no time."
+articleAbstract: "Fixing a doorbell is a pretty straightforward home repair. Read this guide to learn how to diagnose your problem and get back with a working doorbell in no time."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Fix a Doorbell"
+  parent: Electrical-How-To
+---
+  
+
+The doorbell. It’s one of those household gadgets you never think twice about. That is, until it stops working. And when it does, you’re often left scratching your head. Luckily, fixing a doorbell is a pretty straightforward home repair.
+
+**This May Also Interest You:** [**How to Install or Replace a Doorbell**](https://www.homeserve.com/en-us/blog/how-to/doorbell-installation/)
+
+Read on to learn how to diagnose your problem and get back with a working doorbell in no time.
+
+Determine the Problem: Troubleshooting Your Doorbell
+----------------------------------------------------
+
+Generally speaking, if your doorbell doesn’t work, there are four possible issues that could be causing the problem: the button, chime, transformer or wiring. Fortunately, no matter what the issue is, repairing a broken doorbell is usually a pretty easy fix.
+
+### If It’s the Button...
+
+When troubleshooting possible issues with your doorbell, the button is the place to start. In fact, in most cases, it’ll be the button that’s causing the problem. Because they’re located outside, buttons often fall prey to weather-related issues, like water and ice exposure. Sometimes dust or debris might be clogging it up. Start by pressing the button firmly. Is it moving, or is it stuck? If it’s stuck, try spraying around it with WD-40 to loosen it up.
+
+However, if your button is moving freely and still not working, you’ll need to take things a step further. Start by unscrewing the doorbell button and then find the two wires attached to the back of the unit. Touch the two wires together. If the bell rings, then you’ve got a broken button and you’ll need to replace it.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6f198e4c8cd32179/Blog-GettyImages-1255262839.jpg" alt="An image of the inside of a broken doorbell panel on a wall in a home"/>
+
+### Could It Be the Chime Box?
+
+If your button isn’t the issue, the problem could be coming from the chime box — also called the bell unit — located in your house. It’s the unit that creates the sound of your doorbell.
+
+First, remove the unit’s decorative cover and check to see if the wires are attached. If everything looks good, use a voltmeter to find out if the electrical connections are receiving power. Connect the probes of the voltmeter to each wire. Then, ask a friend or family member to help you by pressing the doorbell button. If the meter lights up, that indicates that power is coming to the chime box, but the mechanism that creates the sound isn’t working.
+
+Just like any home appliance, dust and other debris can interfere with the device. Try lightly cleaning the armatures with rubbing alcohol and see if that helps. If not, you’ll need to replace it.
+
+**Tip:** While you’re welcome to do so, there’s no need to turn off the power while you’re replacing a doorbell button or chime. A transformer reduces the typical 120 volts to around 10 to 16 volts. In other words, it won’t give you a shock if you accidentally touch the wires.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install or Replace a Doorbell?](https://www.homeserve.com/en-us/blog/cost-guide/doorbell-installation/)
+*   [How to Set Up A Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/setup-ring-doorbell/)
+*   [Take a Ring Off It: How to Remove a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/remove-ring-doorbell/)
+*   [How Much Does It Cost to Install a Nest Doorbell?](https://www.homeserve.com/en-us/blog/cost-guide/nest-doorbell-installation/)
+*   [How to Install a Video Doorbell](https://www.homeserve.com/en-us/blog/how-to/install-video-doorbell/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/7aa0831c420f1d0f/Blog-DoorBell_Transformer_Erossi_6056.jpg" alt="close up of a residential doorbell transformer mounted to an electrical junction box."/>
+
+### Check the Transformer
+
+If the voltmeter doesn’t register an electric signal when the doorbell button is pressed, you’ll then want to take a look at the transformer. It’s a small box, usually black or silver, that’s located somewhere in your house. Sometimes they’re located inside or near the chime box itself, but they could also be near your security alarm keypad, if you have one. Many doorbell transformers are installed in utility rooms or the area in which the HVAC unit or furnace is kept, as well.
+
+Before performing any work on your transformer, you’ll want to make sure that you turn off the power. Doorbells work on very low voltage, so if you’re doing work on the button or the chime box, there’s no need to shut off the main power — but the transformer is an exception.
+
+When you open the transformer, first check for any loose or disconnected wires. If the wires are attached, move on to testing the transformer. Using your voltmeter, connect the probes to the screw terminals, then turn your power back on. If the meter shows a reading lower than the recommended 10 to 16 volts, the transformer will need to be replaced.
+
+Unless you are experienced with electrical work, replacing a transformer can be tricky business. It’s recommended that you hire a pro to do this job for you.
+
+### If All Else Fails, Look at the Wiring
+
+If your transformer is operational, the issue probably lies in the wiring that makes up the doorbell circuit. Sometimes, faulty wiring can occur as a result of water exposure or rodent damage. If you live in an older home, wires can be subject to dry rot. If you can locate the break, you might not need to replace the whole length of wire. To replace the broken length of wire, you’ll need to join the unbroken portion of wire with a new portion using a wire nut.
+
+Again, if you don’t feel confident with electrical work, you’re better off calling in a professional to repair your wiring. Plus, wire breaks can happen anywhere, and even just locating them can be difficult.
+
+Simple Solutions
+----------------
+
+As you can see, a broken doorbell isn’t cause for alarm. In most cases, you can get your doorbell back up and running in an hour or so. If you don’t feel like getting your hands dirty, consider purchasing a wireless doorbell system. They are easy to set up and require fewer working parts than a traditional hardwired device.

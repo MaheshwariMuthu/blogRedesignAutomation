@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install or Replace an Air Handler?"
+headline: "How Much Does It Cost to Install or Replace an Air Handler?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-08-11
+basePath: https://library.homeserve.com/m/
+heroImage: 3c2d165f56f60e75/Blog-AirHandler_Erossi_072EB963735D.jpg
+heroAltDescription: "a new ceiling mounted air handler hangs in a new Florida home"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Air handlers can make your HVAC system more efficient, but they can be pricey to purchase and install. Here’s what to know."
+articleAbstract: "Air handlers can make your HVAC system more efficient, but they can be pricey to purchase and install. Here’s how much you'll shell out for a new air handler."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install or Replace an Air Handler?"
+  parent: HVAC-Cost-Guide
+---
+  An air handler is part of your HVAC system that helps circulate warm or cold air around your premises. Air handlers can make your HVAC system more efficient, but they can be pricey to purchase and install.
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+Here’s how much you'll shell out for a new air handler.
+
+Is an Air Handler Necessary?
+----------------------------
+
+Air handlers are often installed alongside air conditioners. They suck in air and move it around your home and often include heating and cooling elements, air filters and blowers.
+
+You might benefit from an air handler if you live in a hot or moderate climate. Air handlers with cooling coils can complement your air conditioner in hot weather by removing additional heat from the air and circulating the cool air more efficiently. If your air handler has a heating element, it could also help keep your home warm during colder months.
+
+You're less likely to need an air handler in very cold climates because they don't produce enough heat to keep your home warm, even if they have an integrated heating element. Installing a furnace is a far more efficient way to warm your home in cold areas.
+
+What's the Difference Between an Air Handler and Air Conditioner?
+-----------------------------------------------------------------
+
+Air handlers differ significantly from air conditioners because, unlike an air conditioner, they don't cool the air inside your home. Instead, they distribute the cold air once it's been cooled by your air conditioner. Although some modern air handlers include a cooling element, they won't cool your home efficiently without a coexisting air conditioning unit.
+
+Similarly, air handlers are different from heaters because they don't produce heat independently. However, they can be used alongside a heat pump to distribute warm air more effectively around your home.
+
+What Size Air Handler Do I Need?
+--------------------------------
+
+The easiest way to figure out what size air handler you need is to hire an engineer to inspect your home and do a load calculation. This will tell you the tonnage capacity you need. You can then purchase an air condenser and air handler unit to match the tonnage. Generally, it's best to choose air condenser and air handler units with the same capacity.
+
+Alternatively, you can use your home's square footage to calculate what size air handler you need. As a rule of thumb, [HomeSteady](https://homesteady.com/12002495/how-to-size-an-air-handler) says dividing your house’s square footage by 500 will tell you what tonnage you require. However, this calculation is based on average requirements per square foot, so it's not as accurate as consulting an expert HVAC technician.
+
+**More Related Articles:**
+
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [How Much Does It Cost to Replace an AC Compressor?](https://www.homeserve.com/en-us/blog/cost-guide/ac-compressor-replacement/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Is an HVAC Tune-up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+How Much Do the Different Sizes of Air Handlers Cost?
+-----------------------------------------------------
+
+Air handler costs depend more on the quality of your chosen unit than the size. You should expect to pay somewhere between $650 (CAD 863) for a basic model and $5,600 (CAD 7,431) for a premium air handler. However, most people pay between about $1,500 and $3,400 (CAD 1,990 and CAD 4,512) for a new air handler without installation, according to data from [HomeGuide](https://homeguide.com/costs/air-handler-cost).
+
+Don't forget to factor in the costs of installation when you're pricing your project. Professional installation starts from around $800 (CAD 1,062), but prices can reach as high as $1,800 (CAD 2,389) depending on the model, location and project complexity.
+
+How Long Does an Air Handler Last?
+----------------------------------
+
+Generally, an HVAC system should last [between 15 and 20 years](https://www.achrnews.com/articles/132909-hvac-system-life-cycles-how-long-should-it-last), including the air handler.
+
+How long an air handler lasts depends on how often you use your air conditioning system and how long you run it for. Purchasing an air handler that's too big or small for your home could place it under additional strain, so sizing your air handler correctly is essential if you want it to last. Maintaining and servicing your air handler regularly can help prolong its lifespan as much as possible.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

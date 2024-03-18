@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Remove Snow From Solar Panels"
+headline: "How to Remove Snow From Solar Panels"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-24
+basePath: https://library.homeserve.com/m/
+heroImage: f0f5be00667b6be/Blog-GettyImages-182466149.jpg
+heroAltDescription: "Snow covered solar panels on the roof"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Removing snow from solar panels may be as simple as waiting for it to melt or knocking it down using a snow rake."
+articleAbstract: "If you live in a cold-weather climate, you may need to add solar panel snow removal to your list of winter chores. Removing snow from solar panels may be as simple as waiting for it to melt or knocking it down using a snow rake."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Remove Snow From Solar Panels"
+  parent: Electrical-How-To
+---
+  As the cost of installing solar panels drops, many homeowners are turning to this renewable energy source to power their homes, reaping benefits such as lower energy bills and increased home values. However, if you live in a cold-weather climate, you may need to add solar panel snow removal to your list of winter chores.
+
+**This May Also Interest You:** [**What’s It Like to Go Solar? 5 Things They Don’t Tell You in the Brochure**](https://www.homeserve.com/en-us/blog/home-improvement/solar-panels/)
+
+Removing snow from solar panels may be as simple as waiting for it to melt or knocking it down using a snow rake.
+
+Do Solar Panels Work With Snow on Them?
+---------------------------------------
+
+Whether you have solar panels or more modern solar shingles, your array may still be able to produce energy after a snowfall, depending on how much snow has accumulated. If there's only a dusting of snow on the panels, sunlight can typically still reach the surface to generate electricity. However, larger accumulations may reduce or prevent energy production.
+
+What Happens If Snow Builds Up on Solar Panels?
+-----------------------------------------------
+
+When snow accumulates on solar panels or shingles, the weight can place stress on the frames, particularly at the mounting points. If the snow drifts, creating uneven weight distribution, it can lead to microcracks. Frameless systems are typically thicker and sit closer to the roof, so they withstand snow accumulation better than framed panels.
+
+Snow may also have benefits for your solar panel system. As snow accumulates, it bonds with dirt on the panels, and when it melts, the dirt washes away, leaving your panels cleaner and more energy-efficient.
+
+How Do You Remove Snow From Your Solar Panels?
+----------------------------------------------
+
+You don’t always have to remove snow from your solar shingles or panels, particularly if it's melting quickly. However, if you live in an area that experiences heavy, wet precipitation, you may need to clear snow-covered solar panels to prevent damage. You can do so using one of the following methods:
+
+* **Brushing.** Roof rakes come with telescoping handles so you can remove snow from your roof while remaining safely on the ground. Soft roof rakes, which have a nonabrasive, squeegee-style head, are ideal for cleaning snow-covered solar panels without leaving scratches. Some manufacturers sell dedicated solar panel snow rakes specifically for this purpose.
+* **Blowing.** Connect a rigid plastic air hose to a leaf blower to blow snow off solar panels. Although this method is typically more effective on light snowfalls, the warm air produced may increase the melt rate so heavier snow slides away.
+* **Melting.** If you live in a snowy region, you may want to invest in a solar panel heater, which is designed to melt snow from your panels. This method should typically be used as snow accumulates rather than after the fact.
+* **The Nerf method.** Use a soft, plastic-free toy, such as a Nerf football, to knock snow off solar panels. Although this won’t remove the snow completely, it may reduce the accumulation so what remains can easily melt away.
+
+Never use rock salt, car wax or hot water to remove snow from solar panels because these substances can damage the array, and be sure to consult the manufacturer before attempting snow removal to avoid voiding your warranty. Most importantly, when removing snow from solar panels, safety should always be the first priority.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install Solar Panels](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+*   [What Are Solar Shingles … and Do They Work?](https://www.homeserve.com/en-us/blog/home-improvement/solar-shingles/)
+*   [How Much Do Solar Shingles Cost?](https://www.homeserve.com/en-us/blog/cost-guide/solar-shingles/)
+*   [Thinking About a Solar Water Heater? Here Are the Pros and Cons](https://www.homeserve.com/en-us/blog/home-improvement/solar-water-heater/)
+*   [How Much Does It Cost to Install a Solar Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/solar-water-heater/)
+
+Solar Energy, Net Metering and Winter Days
+------------------------------------------
+
+Bad weather may impact your electric bill less than you think. That’s largely due to net metering, a system wherein your utility company awards you credits in exchange for the power you produce. Because you'll generate a larger percentage of solar energy during the summer months, these credits offset the cost of electricity used at night or during bad-weather periods.
+
+Safeguarding Your Home During Winter Months
+-------------------------------------------
+
+If you live in a cold-weather climate and plan on switching to solar energy, you may want to prepare ahead for snow. Have your solar installers position the panels at a steeper angle to minimize snow accumulation or purchase solar panel snow guards to promote snow shedding.

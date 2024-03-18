@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Home Maintenance tips For COVID-19
+headline: 3 Home Maintenance tips you need to know while sheltered in place
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2020-04-15
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: home-maintainence-tips-covid-01-full.jpg
+heroAltDescription: Home Maintainence Tips During COVID
+metaDescriptions: Keep these home maintenance tips in mind before taking on new projects during COVID-19
+articleAbstract: Keep these home maintenance tips in mind before taking on new projects during COVID-19.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Home Maintenance tips For COVID-19
+  parent: Home Improvement & Maintenance
+---
+
+:::: blog-info
+When everybody’s stuck indoors, we all take a different approach to home maintenance.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+::::
+
+Some people will start to notice annoying little issues that need fixing. Others may have a burst of energy and inspiration, leading them toward new DIY projects. And then there are the folks (like me) who just want to cuddle up on the couch and forget about the responsibilities of homeownership.
+
+Either way, keep these considerations in mind before you get too comfortable — or embark on any home maintenance endeavors while sheltered in place:
+
+## 1\. There may be more Home Maintenance work ahead
+
+Skimming my news feed I came across an opening line that really hit home (pun intended, sorry not sorry).
+
+“You may have noticed that despite a global pandemic, [things around your apartment still break](https://nymag.com/strategist/article/easy-home-repair.html){target="_blank"}, wear out, and stop working,” home improvement expert Joseph Truini wrote in a recent article for New York Magazine.
+
+Couldn’t be more true! (Why can’t the universe just hang on a minute and let us deal with one disaster at a time?)
+
+Truini went on to explain how to fix basic issues, like [unclogging your toilet](/en-us/blog/how-to/unclog-backed-up-toilet){target="_blank"} or figuring out how to patch things up after “you got stressed and punched a hole in the wall.” (I mean, who else can relate?)
+
+But it’s helpful to remember that while you and your family remain sheltered in place for weeks on end, you’re putting more pressure on your essential home systems than usual. Don’t be surprised if your [sometimes-faulty dishwasher](/en-us/blog/cost-guide/dishwasher-replacement-cost){target="_blank"} finally busts for good, or your home’s [heating and cooling system goes kaput](/en-us/blog/cost-guide/hvac-system-replacement-cost){target="_blank"} when you make the switch over to air conditioning as temperatures rise.
+
+## 2\. A solid Home Repair Plan can see you through
+
+Because your home’s plumbing, heating and cooling, and electrical systems are being used heavily, it’s essential that you have some protective measures in place.
+
+HomeServe offers a variety of affordable [repair plans]({{ migrationData.homepage }}){target="_blank"} for each of these essential systems. The right plan can help offset the costs of covered repairs when things go awry.
+
+Under uncertain circumstances, a home warranty plan is absolutely worth it. This is even more true if you aren’t able to finance a big emergency fix or if you need the peace of mind and assistance that a reliable local contractor can provide.
+
+## 3\. Home Improvement Centers may be open — But be careful
+
+If you happen to be the handy homeowner type, you can still get the tools you need for minor fixes and DIY projects. Although guidelines are constantly changing, in many states, home improvement stores are still open for business.
+
+This doesn’t exactly mean you should gather up the family for a big weekend shopping trip, though. The Centers for Disease Control and Prevention still emphasizes the importance of staying at home and limiting exposure to other people. If you do need a particular tool or some supplies for a DIY repair or home maintenance project, be sure to [adhere to all CDC COVID-19 guidelines](https://www.cdc.gov/coronavirus/2019-ncov/index.html){target="_blank"} before heading out.
+
+To reduce opportunities for the transmission of the virus, consider a curbside pickup service or order your supplies online and have them delivered. Rather than driving out to the sprawling home improvement chain in your area, support small businesses and shop with a local hardware store.
+
+## HomeServe is here to help
+
+If you run up against a minor issue or a major repair problem, don’t panic. We’ve loaded up our blog with helpful [how-to guides and repair cost estimates](/en-us/blog){target="_blank"} to help you keep things under control while sheltered in place.
+
+If you’re not protected with a home repair plan, [enter your ZIP]({{ migrationData.homepage }}){target="_blank"} code to see which plans from HomeServe are available in your area.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}

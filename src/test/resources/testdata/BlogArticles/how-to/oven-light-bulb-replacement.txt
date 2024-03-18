@@ -1,0 +1,119 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Oven Light Bulb Replacement: How to Change Your Oven Light"
+headline: "How to Replace an Oven Lightbulb"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-04-29
+basePath: https://library.homeserve.com/m/
+heroImage: 74f183c7c20d6d62/original/OvenLightFlicker_MSchmitz_0001.gif
+heroAltDescription: "inside of a dark residential oven as the internal light bulb flickers"
+metaDescriptions: "Has your oven light gone out? Follow our five-step oven light bulb replacement guide."
+articleAbstract: "Most of us only notice our oven light when it has gone out. But don't worry: Changing your oven light is much easier than you may think. Follow our simple steps for oven light bulb replacement and you'll no longer have to sit there wondering whether your soufflé fell."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-310-1912
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/appliance_repair/hs/a_call_away
+  large:
+      image: /en-us/assets/images/blog/appliances_elocal_banner1.png
+      alt: Appliances eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/appliances_elocal_banner2.png
+      alt: Appliances eLocal Banner 2
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Replace Your Oven Lightbulb"
+  parent: Appliances-How-To
+---
+  
+
+**Changing an Oven Lightbulb at a Glance**
+
+* **Step 1:** Shut off power
+* **Step 2:** Locate lightbulb
+* **Step 3:** Remove bulb cover
+* **Step 4:** Replace lightbulb
+* **Step 5:** Replace bulb cover
+
+That little light in the back of your oven may be one of its most useful features. It lets you check on the cooking process to make sure things are rising or browning as they should be — and that you’re not going to end up with a charred mess. Most importantly, it shines some light on your culinary masterpieces without the need to open the oven door.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**How to Clean an Oven: Wipe Away Your Kitchen’s Dirty Secret in 8 Steps**](https://www.homeserve.com/en-us/blog/how-to/clean-your-oven/)
+
+Most of us only notice our oven light when it has gone out. Changing your oven light is much easier than you may think. Follow our simple steps to easily replace the bulb and ensure you never have to bake in the dark again.
+
+<img class="detail-image" src="https://library.homeserve.com/m/3928c8e48c66e415/webimage-OvenLightOn_MSchmitz_0001.jpg" alt="interior of an oven with lightbulb"/>
+-------------------------------------------
+
+Buy the Right Bulb
+------------------
+
+First, you need to purchase the correct replacement lightbulb. Most ovens use a standard 40-watt incandescent appliance bulb, but others may require halogen bulbs up to 50 watts. For example, most [GE ovens](https://products.geappliances.com/appliance/gea-support-search-content?contentId=17370) use one of three types, depending on the model:
+
+*   40-watt appliance bulb
+*   120/130-volt halogen bulb with two straight pin terminals
+*   120/130-volt halogen bulb with two looped terminals
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+Check your oven’s user manual for the bulb type. You can also usually find the specifications printed on the old bulb.
+
+Step-by-Step Instructions
+-------------------------
+
+### 1\. Cut the Power
+
+Make safety a priority. Before attempting to remove the dead lightbulb, make sure the oven is completely cooled down to avoid burning yourself. As lightbulb replacement is an electrical job, it’s also a good idea to unplug the appliance. If the plug is located behind the stove and is difficult to reach, it may be easier to flip the circuit breaker.
+
+### 2\. Clear a Workspace and Find the Bulb
+
+Removing all the racks from inside the stove makes it easier to reach the bulb. No matter the type of oven you have, the light will be protected by a cover. Halogen bulb covers are quite small, while incandescent bulb covers are bulkier and easier to spot.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+The light is usually located at the back of the oven, in the top left- or right-hand corner. Use a flashlight to help locate it.
+
+### 3\. Remove the Lightbulb Cover
+
+Once you’ve located the bulb cover, take a look to see if it’s secured with wire clips or a metal ring. These need to be released before you remove the cover. Most should come off with a gentle counterclockwise twist.
+
+If you’re struggling to remove the cover, try wiggling it from side to side. If it still doesn't budge, the cover could be stuck due to grease buildup. It’s probably been a while you last gave the appliance a good wipe down, hasn’t it? Use this as an excuse to give your oven a thorough clean after which the bulb’s cover should come off easily.
+
+**More Related Articles:**
+
+*   [Lightbulb Moment! Here are 5 Ways to Remove a Broken Lightbulb](https://www.homeserve.com/en-us/blog/how-to/remove-broken-lightbulb/)
+*   [Should You Use Your Oven’s Self-Cleaning Feature — and, If So, How?](https://www.homeserve.com/en-us/blog/how-to/use-ovens-self-cleaning-feature/)
+*   [Did You Know an Oven, Range and Stovetop are Different?](https://www.homeserve.com/en-us/blog/buying-guide/oven-range/)
+*   [Choosing the Right Oven/Cooktop for Your Kitchen](https://www.homeserve.com/en-us/blog/buying-guide/oven-cooktop/)
+*   [Let’s Shed Some Light on the Situation: How to Change a Lightbulb](https://www.homeserve.com/en-us/blog/how-to/change-lightbublb/)
+
+### 4\. Swap the Bulbs
+
+Gently hold the lightbulb between your fingers and turn it counterclockwise to loosen and remove it from the socket.
+
+If your oven takes a halogen bulb, it's worth noting that oils in your skin can damage new bulbs and decrease their lifespan. Handle the bulb with a tissue or while wearing cotton gloves to avoid touching the light with your fingers.
+
+Remove the new bulb from the packaging. If you're replacing an incandescent bulb, take a close look to ensure the filament is intact. There’s no need to over-tighten a bulb, so screw it in by turning clockwise until you feel a slight resistance.
+
+### 5\. Test Your Handiwork
+
+Once the oven light is changed, replace the cover and any clips that were removed. Restore power to the oven and switch it on.
+
+If you’ve followed these simple steps and the oven is still dark, there could be an issue with the bulb housing or socket. You may need to call in a professional to repair this.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

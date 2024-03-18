@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Do Plumbing Upgrades Increase Home Value?"
+headline: "Do Plumbing Upgrades Increase Home Value?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-09-08
+basePath: https://library.homeserve.com/m/
+heroImage: 6ad522c9b2cb4d39/Blog-GettyImages-1312311075.jpg
+heroAltDescription: "Toolbox near pipe system of bathtub with hydromassage "
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Do plumbing upgrades make your home more valuable? We explore which projects offer the highest ROI."
+articleAbstract: "Understanding how plumbing upgrades impact your home's value can help you determine which projects are sound investments. We explore which projects offer the highest ROI."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Do Plumbing Upgrades Increase Home Value?"
+  parent: Plumbing-Home-Improvement
+---
+  Certain home upgrades can increase your house's value and make it easier to sell. However, it's important to upgrade your home strategically to ensure your projects yield the best possible return on investment.
+
+**This May Also Interest You:** [**Plumbing Repair Cost Guide**](https://www.homeserve.com/en-us/blog/cost-guide/plumbing-repair-costs/)
+
+Many homeowners want to know whether plumbing upgrades can boost their home's value and attractiveness to buyers. These upgrades range from affordable projects, such as replacing worn-out faucets, to budget-busting upgrades like repiping. According to data from [Bob Vila](https://www.bobvila.com/articles/cost-to-repipe-a-house/), repiping a house costs an eye-watering $7,500 (CAD 10,057) on average, with most homeowners spending between $1,500 and $15,000 (CAD 2,001 and CAD 20,114).
+
+Understanding how plumbing upgrades impact your home's value can help you determine which projects are sound investments. Below, we'll explore which projects offer the highest ROI and explain whether you should upgrade plumbing before moving.
+
+Does New Plumbing Increase Your Home's Value?
+---------------------------------------------
+
+Whether plumbing upgrades increase your home's value depends on the type of upgrade and the condition of your existing fixtures and pipework. If your existing piping is in good condition and meets your household water needs, upgrading is unlikely to impact your home's value significantly.
+
+However, if you notice signs of a worn-out system, such as regular leaks and water pressure fluctuations, plumbing upgrades could increase the resale price and make it more sellable. Issues like leaks can cause structural damage and contribute to mold growth, which could be off-putting to potential buyers.
+
+Which Plumbing Upgrades Have the Highest ROI?
+---------------------------------------------
+
+Determining the ROI on plumbing upgrades isn't an exact science because the returns depend on multiple factors, including where you live and the age and condition of your system. For example, replacing a leaky faucet will likely yield a higher ROI than replacing one still in decent condition.
+
+Certain plumbing-related projects yield higher ROIs than others. According to the 2022 National Association of Realtors and National Association of the Remodeling Industry’s [Remodeling Impact Report](https://cdn.nar.realtor//sites/default/files/documents/2022-remodeling-impact-report-04-19-2022.pdf), you'll typically recoup around 71% of the cost of renovating a bathroom. This project costs around $35,000 (CAD 46,932) on average and increases the resale price of a typical family home by roughly $25,000 (CAD 33,523). Bathroom renovation could be a particularly wise move if your existing bathroom is in poor condition because an old, water-damaged bathroom can decrease your home's value.
+
+Adding a new bathroom isn't such a good investment. This project offers an average ROI of 63%, with most homeowners spending around $80,000 (CAD 107,272) for a $50,000 (CAD 67,045) increase in house value. Therefore, only 4% of realtors recommend installing a new bathroom before selling, while 24% recommend renovating the existing bathroom. However, this project could still be worth it if you don't intend to sell immediately — the surveyed homeowners felt adding a bathroom made their homes 44% more functional.
+
+**More Related Articles:**
+
+*   [9 Times When You Should Call a Plumber](https://www.homeserve.com/en-us/blog/home-improvement/professional-plumber-repairs/)
+*   [Pipe Burst? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+*   [3 Reasons Your Toilet Is Running — and How to Fix It](https://www.homeserve.com/en-us/blog/how-to/fix-running-toilet/)
+*   [Here’s How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+*   [9 Common Plumbing Myths — Busted](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-system-myths/)
+
+Should You Upgrade Plumbing Before Selling?
+-------------------------------------------
+
+Whether it's worth upgrading your plumbing before selling depends on your system's condition. If your system works well and meets your water needs, upgrades are probably a waste of money. Instead, it could be worth investing in the following home improvements to increase your home's value. These projects have higher average ROIs than most plumbing upgrades:
+
+*   Hardwood floor refinishing: 147% ROI
+*   New wood flooring: 118% ROI
+*   Installing or upgrading insulation: 100% ROI
+
+However, consider repairing or upgrading any faults, such as leaks or broken fixtures, to make your home more appealing to buyers. Many buyers get a plumbing inspection before buying a house, and any serious issues appearing on the report could make your home harder to sell or result in a lower offer. As a seller, you can check the condition of your plumbing system by paying for a plumbing inspection yourself. A [plumbing inspection](https://homeguide.com/costs/average-plumbing-estimates#inspection) typically costs $85 to $300 (CAD 114 to CAD 402) and can detect hidden leaks and other issues that could impact your sale and allow you to fix them.
+
+Plumbing upgrades with lower ROIs could still be worth it if you don't plan to sell right away, and they make your home more comfortable. Projects such as installing a new bathroom add functionality and may increase your happiness until it's time to sell.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Water Line Repair and Replacement | What You Can Expect to Pay"></iframe>

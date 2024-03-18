@@ -1,0 +1,82 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Are the Solar Rebates for 2022?"
+headline: "What Are the Solar Rebates and Credits for 2022?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-06-13
+basePath: https://library.homeserve.com/m/
+heroImage: 65157d8bff0ce042/Blog-GettyImages-1127159370.jpg
+heroAltDescription: "Electrician mounting solar panel on roof of modern house"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Learn what state and federal solar rebates or credits you can claim to make installing a solar system more affordable."
+articleAbstract: "Depending on where you live and when you install your system, you may be eligible for solar rebates or solar tax credits designed to incentivize installation of photovoltaic systems. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Are the Solar Rebates for 2022?"
+  parent: Exterior-Home-Home-Improvement
+---
+  Whether you're hoping to reduce your utility bills or do your bit for the environment, there are several good reasons to install a solar photovoltaic (PV) system. However, with the average installation project costing around [$16,000](https://www.forbes.com/advisor/home-improvement/average-cost-of-solar-panels/), the high price tag can quickly put the kibosh on your green energy ambitions.
+
+**This May Also Interest You:** [**What’s It Like to Go Solar? 5 Things They Don’t Tell You in the Brochure**](https://www.homeserve.com/en-us/blog/home-improvement/solar-panels/)
+
+Fortunately, in the U.S., various federal- and state-level schemes aim to make switching to solar energy more affordable. Depending on where you live and when you install your system, you may be eligible for solar rebates or solar tax credits designed to incentivize installation of PV systems.
+
+So, what help is available? Let's explore how the federal residential solar tax credit works and where to find the available incentives where you live.
+
+Federal Incentives Available to Homeowners Who Install Solar Panels in 2022
+---------------------------------------------------------------------------
+
+Homeowners who install a solar PV system in a home in the U.S. are eligible for the [federal residential solar tax credit](https://www.energy.gov/eere/solar/homeowners-guide-federal-tax-credit-solar-photovoltaics). You can also claim this credit if you rent your home but purchase your own system.
+
+You can only claim the solar tax credit for a system you own that you installed between January 1, 2006, and December 31, 2023. It doesn't apply to solar PV units leased from a third party. This tax credit is due to expire in 2024, but Congress may choose to renew it.
+
+If you install your system during the 2022 tax year, you can receive a 26% tax credit on the associated expenses, including:
+
+*   Labor fees
+*   Inspection and permit costs
+*   Energy storage devices, providing you install them in the same tax year
+*   Sales tax
+*   Solar panels or PV cells
+
+Keep in mind that this credit will drop to 22% in 2023.
+
+The federal residential solar tax credit reduces the amount of federal income tax you owe dollar-for-dollar. For example, a solar tax credit worth $500 would reduce the tax owed by $500. It is non-refundable, so you won't get a tax refund for the leftover amount if your solar tax credit exceeds the amount of tax you owe.
+
+You can usually claim the federal solar tax credit regardless of whether you bought your system outright or purchased it through a financing agreement. You aren't eligible for the credit if you purchased your PV system during the 2022 tax year but haven't yet installed it, as the IRS requires it to be "placed in service."
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install Solar Panels?](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+*   [What Are Solar Shingles … and Do They Work?](https://www.homeserve.com/en-us/blog/home-improvement/solar-shingles/)
+*   [How to Install Solar Panels: 6 Steps to Daylight Savings](https://www.homeserve.com/en-us/blog/how-to/install-solar-panels/)
+*   [How Much Does It Cost to Install a Solar Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/solar-water-heater/)
+*   [Thinking About a Solar Water Heater? Here are the Pros and Cons](https://www.homeserve.com/en-us/blog/home-improvement/solar-water-heater/)
+
+How Do You Apply for or Take Advantage of These Incentives?
+-----------------------------------------------------------
+
+It's worth speaking to a tax consultant to determine if you're eligible for the federal residential solar tax credit. If you are, you can apply using the [IRS Residential Energy Credits form](https://www.irs.gov/forms-pubs/about-form-5695) (IRS Form 5695) available on the IRS website.
+
+Credits, Rebates and Incentives Available on the State Level
+------------------------------------------------------------
+
+### State Solar Tax Credits
+
+Some states offer a state tax credit covering many of the expenses incurred when installing a solar PV system. The credit amount varies from state to state, and you can claim state and federal solar tax credits simultaneously. However, the total combined amount you can claim through both schemes is $10,000, which could affect how much federal tax you pay.
+
+### Utility Solar Rebates
+
+Your utility company may offer you a solar rebate for installing a solar PV system. In this situation, the company may pay you a fixed, one-off amount. This amount usually affects the size of your solar tax credit because the rebate is subtracted from your expenses before calculating tax credits.
+
+### State Solar Rebates
+
+Some states also offer a solar rebate to encourage residents to install solar PV systems. Unlike utility solar rebates, a state solar rebate doesn't affect your solar tax credit entitlement.
+
+These rebates are usually time-limited, and states may withdraw them once they reach their local solar uptake targets. The rebate amounts vary, but [EnergySage](https://www.energysage.com/solar/benefits-of-solar/solar-incentives/) estimates that they can save many homeowners between 10% and 20% on the cost of their system.
+
+How Do You Find What Incentives Are Available in Your State?
+------------------------------------------------------------
+
+You can claim the federal residential solar tax credit in any state, but other incentives vary widely by area. Fortunately, plenty of websites allow you to check what state-level solar tax credits, solar tax rebates and incentives you are potentially eligible for. [EnergySage](https://www.energysage.com/solar/benefits-of-solar/solar-incentives/) keeps an up-to-date list of the available incentives for each individual state.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/reJaChMAC_w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

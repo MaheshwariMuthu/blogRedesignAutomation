@@ -1,0 +1,90 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Flood Insurance: What Does It Cover and How Much Does It Cost?"
+headline: "Flood Insurance: What Does It Cover and How Much Does It Cost?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2024-01-01
+basePath: https://library.homeserve.com/m/
+heroImage: 476337ca2bad36a3/webimage-IndianaHouseFlood_WikimediaCommonsPublicDomain_0001.png
+heroAltDescription: "Flooded house"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "While having a home near a body of water can be great, it doesn’t come without its fair share of risk. That’s where flood insurance comes in."
+articleAbstract: "While having a home near a body of water can be delightful and even therapeutic, it doesn’t come without its fair share of risk. That’s where flood insurance comes in."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Flood Insurance: What Does It Cover and How Much Does It Cost?"
+  parent: Exterior-Home-Home-Improvement
+---
+  Water. We depend on it to live. It can be breathtakingly beautiful. And yet, it can be one of the most destructive forces on the face of the planet. It’s a dichotomy that’s shaped the entirety of human civilization.
+
+**This May Also Interest You:** [**How Much Do Flood Damage Repairs Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/water-damage-restoration/)
+
+For millennia, humans have been drawn to live near water, whether it be oceans, rivers or lakes. And while having a home near a body of water can be delightful and even therapeutic, it doesn’t come without its fair share of risk. That’s where flood insurance comes in.
+
+Risky Business
+--------------
+
+As wonderful as living near a body of water can be, it also presents the potential for some major damage and destruction in the form of flooding. In fact, flooding is the most common and costly natural disaster in the United States, according to [FEMA](https://www.fema.gov/press-release/20210318/fact-sheet-myths-and-facts-about-flood-insurance). Because of this, flood insurance is seen as essential in many high-risk areas throughout the country.
+
+But the truth is, even if you _don’t_ live in a high-risk zone, purchasing flood insurance is still probably a smart idea. [Over 20% of flood insurance claims come from outside high-risk zones.](https://www.fema.gov/sites/default/files/2020-05/FEMA_Floodsmart_AgentCommsFS3_High-LowMod_2019_PRP.pdf) Flash floods can occur pretty much anywhere the amount of rainfall exceeds the ability of the ground to absorb it. In other words, a flood can occur anywhere that receives rain.
+
+Flash floods can occur within minutes and may last over the course of days, weeks or even months. They can destroy buildings or rip trees from the ground, and the water can be [over 30 feet deep](https://www.noaa.gov/stories/deadly-and-destructive-power-of-water#:~:text=Flash%20floods%20can%20roll%20boulders,can%20trigger%20catastrophic%20mud%20slides.). But don’t worry; you can proactively take steps to protect your home from flood damage by purchasing flood insurance. Want to know more? Here are the ins and outs of this often-overlooked — yet highly important — form of insurance.
+
+What’s the Purpose of Flood Insurance?
+--------------------------------------
+
+Flood insurance provides you with financial protection in the event a flood damages your home or personal belongings. Because standard homeowner’s insurance doesn’t typically cover flood damage, it’s generally purchased as a separate policy. Flood insurance is usually purchased through FEMA’s National Flood Insurance Program, but more private flood insurance options have become available in recent years.
+
+If you live in a high-risk flood zone, chances are you’ll be required by your mortgage company to purchase flood insurance. Your specific address’s flood risk can be determined by using FEMA’s searchable [Flood Map Service Center](https://msc.fema.gov/portal/home).
+
+But even if you don’t live in a high-risk area, you can still purchase flood insurance through the NFIP, or you can shop around for private insurance companies instead.
+
+How Much Does Flood Insurance Cost?
+-----------------------------------
+
+According to [Forbes](https://www.forbes.com/advisor/homeowners-insurance/flood-insurance-cost/), the average cost of flood insurance in the United States is $859 (CAD 1,175) per year. For single-family homes, deductibles can range from $1,000 to $10,000 (CAD 1,368 to CAD 13,678). Generally, the larger your deductible, the lower your premium. That said, the amount you’ll pay depends largely on a number of key factors, including your property’s flood risk, the age of your home and the type of coverage you purchase.
+
+### Flood Risk
+
+The biggest factor determining the cost of your flood insurance premiums is the risk of flooding in your area. Unsurprisingly, the higher your area’s risk, the higher your premiums are likely to be.
+
+But just because your home is located in a floodplain doesn’t _always_ mean you’ll be paying those higher premiums. If your home is built on a hill or any other type of elevation, your premiums could be lower than the surrounding area. If you live in a high-risk flood zone, you’ll generally be required by your mortgage lender to obtain a so-called elevation certificate. However, even if an elevation certificate isn't required, your elevation can still sometimes be used to calculate a lower premium.
+
+### Age and Construction
+
+Another factor that largely determines the price you’ll pay for flood insurance is the age of your home and its construction. Newer homes or homes specifically designed to withstand flooding will naturally result in lower premiums overall. For example, materials like concrete or pressure-treated marine-grade plywood are commonly referred to as flood-resistant.
+
+Conversely, older homes built prior to the use of modern construction materials or methods might be more likely to be damaged in the event of a flood, so you’ll probably end up paying more for your monthly premiums.
+
+**More Related Articles:**
+
+*   [No Water in the Basement! Here’s How to Protect Your Home From Severe Flooding](https://www.homeserve.com/en-us/blog/how-to/basement-flooding-tips/)
+*   [What Does Homeowners Insurance Cover ... and What Doesn’t It?](https://www.homeserve.com/en-us/blog/home-improvement/what-does-homeowners-insurance-cover/)
+*   [How Much Does Homeowners Insurance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/homeowners-insurance/)
+*   [What’s the Difference Between a Home Warranty and Home Insurance?](https://www.homeserve.com/en-us/blog/buying-guide/home-warranty-home-insurance-differences/)
+*   [Got Plumbing Problems? Here’s What Plumbing Issues Homeowners Insurance Covers ... and What It Doesn’t](https://www.homeserve.com/en-us/blog/buying-guide/plumbing-system-home-warranty-coverage/)
+
+What Does Flood Insurance Cover?
+--------------------------------
+
+Generally speaking, there are two types of flood insurance coverage: building coverage and contents coverage. Purchasing building coverage alone is usually cheaper than purchasing both types of coverage. Building coverage typically reimburses you for any damage to the home itself. It also includes appliances and systems like water heaters, fuel tanks, refrigerators, stoves and dishwashers.
+
+Contents coverage, on the other hand, covers a host of personal items like clothing, furniture and electronics. However, some items overlap, and it can often be confusing as to what's insured by each type of coverage. For example, carpeting can sometimes fall under either building coverage or contents coverage, depending on how it was installed and what kind of flooring it was installed over. These little details are why it’s imperative you carefully read the fine print of whatever policy you’re considering.
+
+What Doesn’t Flood Insurance Cover?
+-----------------------------------
+
+Flood insurance covers damage caused by flooding, but as far as insurance goes, not all floods are created equal. For example, flooding caused by a sewer backup is not typically covered by flood insurance — unless the backup itself was caused by a flood.
+
+Moreover, flood insurance doesn’t typically cover any personal items in basements or any damage to landscaping, decks or septic systems. Finally, flood insurance doesn’t cover any temporary living expenses if you're unable to occupy your home during a flood or repair. Keep in mind that this list isn’t exhaustive, so be sure you understand what your specific policy covers and doesn’t cover.
+
+Your Risk, Your Choice
+----------------------
+
+Flooding is notorious for being the most costly type of natural disaster in the country. According to [Reuters](https://www.reuters.com/business/environment/cost-flood-damage-us-homes-will-increase-by-61-30-years-2021-02-22/#:~:text=The%20cost%20of%20flood%20damage,Management%20Agency%20representative%20Michael%20Grimm.), the cost of flood damage was about $17 billion per year between 2010 and 2018. Floods can cause major damage to your home and personal property.
+
+But unless you're required by your lender to purchase flood insurance, you may choose to opt out of this additional coverage. Despite sometimes high monthly premiums, flood insurance offers significant financial protection against the unpredictable nature of flooding. Ultimately, it’s your choice, but it’s best to carefully evaluate your options before making the decision to either seek coverage or skip out.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/f5lc2rpC1c8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Work hard, play hard. Amirite??!"></iframe>

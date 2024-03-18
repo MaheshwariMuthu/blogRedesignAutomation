@@ -1,0 +1,43 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Keep Children Safe Around Window Blinds: Go Cordless"
+headline: "Keep Children Safe Around Window Blinds: Go Cordless"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-10-08
+basePath: https://library.homeserve.com/m/
+heroImage: 18aec99c64387e79/webimage-Screen-Shot-2021-10-07-at-6-23-11-PM.png
+heroAltDescription: "Little girl with a bow in her hair reaches for the string on a set of white blinds covering the window in a white wall."
+metaDescriptions: "The cords hanging down from your blinds are a strangulation hazard to young children who can become tangled in them. "
+articleAbstract: "The cords hanging down from your blinds, shades and drapes aren’t just unsightly; according to the Consumer Product Safety Commission, they’re also a strangulation hazard to infants and young children who can become tangled in them. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Keep Children Safe Around Window Blinds: Go Cordless"
+  parent: Interior-Home-Home-Improvement
+---
+  The cords hanging down from your blinds, shades and drapes aren’t just unsightly; according to the [Consumer Product Safety Commission](https://www.cpsc.gov), they’re also a strangulation hazard to infants and young children who can become tangled in them.
+
+**This May Also Interest You:** [**Babyproofing Your House: A Child-Safety Checklist**](https://www.homeserve.com/en-us/blog/how-to/baby-proofing-house/)
+
+Every year, about nine children under age 5 die due to strangulation in the cords hanging from window coverings. According to the [CPSC](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Window-Covering), this added up to almost 200 strangulation incidents involving kids age 8 or younger between January 2009 and December 2020.
+
+When children get tangled in these cords, strangulation can occur in less than a minute. And because these incidents are often silent, parents and caregivers may not realize what’s happening until it’s too late. Resulting injuries range from a scar around the neck to quadriplegia and permanent brain damage.
+
+“Children have strangled to death on the cords of window blinds, shades, draperies and other window coverings, and this can happen in mere moments, even with an adult nearby,” said Robert Adler, CPSC acting chair. “The safest option when young children are present is to go cordless.”
+
+Cordless blinds and shades are available at many big-box and hardware stores, as well as online retailers. If you’re able to replace your existing window coverings with cordless options, you can eliminate a potential hazard in your home. Many products made after Dec. 15, 2018, are compliant with a [voluntary safety standard](https://onsafety.cpsc.gov/blog/2018/10/15/window-covering-safety-month-2018-got-kids-go-cordless/) that prohibits potentially hazardous cords.
+
+The CPSC recommends using cordless window coverings at least in rooms where children may be present — like children’s bedrooms and living areas. But if you can’t replace your blinds and drapes, here are a few things you can do to make your existing ones safer:
+
+*   Keep cords out of reach of children by making them as short as possible or affixing them high on the wall. Get rid of any dangling cords.
+*   Make sure cord stops or tension devices are installed and adjusted to limit how far the inner lift cords can move.
+*   Anchor continuous-loop cords to the floor.
+*   Keep cribs, beds, furniture and toys away from windows with blinds or shades, as children can climb up on furniture to gain access to cords.
+
+**More Related Articles:**
+
+*   [What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+*   [How to Fix a Broken String on Your Blinds](https://www.homeserve.com/en-us/blog/home-improvement/fix-blinds-string/)
+*   [How Much Do Different Types of Window Treatments Cost?](https://www.homeserve.com/en-us/blog/cost-guide/window-treatments/)
+*   [Bust the Dust: How to Clean Dirty Blinds](https://www.homeserve.com/en-us/blog/how-to/clean-blinds/)
+*   [How to Install Window Blinds: Your DIY Guide](https://www.homeserve.com/en-us/blog/how-to/blinds-installation/)<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

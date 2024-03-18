@@ -1,0 +1,34 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Fire-Related Property Damage Cited in Recall of B-Air Blower Fans"
+headline: "Fire-Related Property Damage Cited in Recall of B-Air Blower Fans"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-08-19
+basePath: https://library.homeserve.com/m/
+heroImage: 5e60cd3dcbbe20fe/Blog-BlowerFanRecall_Intertex.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "About 29,500 B-Air VP-33 blower fans have been recalled after reports of fire-related property damage totaling about $75,000."
+articleAbstract: "About 29,500 B-Air VP-33 blower fans have been recalled due to a fire risk. Importer Intertex has received five reports of the fans’ capacitors overheating, causing fire-related property damage totaling about $75,000. No injuries have been reported."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Intertex Recalls Blower Fans Due to Fire Hazard"
+  parent: Appliances
+---
+  About 29,500 B-Air VP-33 blower fans have been recalled due to a fire risk. Importer Intertex has received five reports of the fans’ capacitors overheating, causing fire-related property damage totaling about $75,000. No injuries have been reported.
+
+**This May Also Interest You:** [**What Do You Do When a Product is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the Aug. 18 [recall alert](https://cpsc.gov/Recalls/2021/Intertex-Recalls-Blower-Fans-Due-to-Fire-Hazard) from the Consumer Product Safety Commission, the recalled blower fans were manufactured in China, then sold at The Home Depot and Menard’s stores, and online at HomeDepot.com and Amazon.com between February 2013 and December 2017 for about $200.
+
+Only B-Air-branded VP-33 blower fans are involved in this recall. The West Chester, Pa.-based [manufacturer](https://b-air.com/vp33recall/) said the affected models were manufactured before Jan. 1, 2018, and have an Electrical Testing Labs (ETL) number on the label starting with “317.” Units manufactured after that date are not impacted by the recall.
+
+If you purchased a recalled blower fan, do not use it. Instead, contact Intertex for a free repair kit that includes an S-3 capacitor and installation instructions. Call the company at 800-465-7300, email [VP33recall@b-air.com](mailto:VP33recall@b-air.com) or visit [B-Air's website](https://b-air.com/vp33recall/) for additional information. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [LG Energy Solution Michigan Recalls Energy Storage Batteries Due to Reports of Smoke and Fire](https://www.homeserve.com/en-us/blog/home-improvement/home-energy-storage-batteries-recall/)
+*   [It’s Not the Heat, It’s the Dehumidifier: 2 Million New Widetech Dehumidifiers Recalled for Overheating, Burn Hazard](https://www.homeserve.com/en-us/blog/home-improvement/new-widetech-dehumidifier-recall/)
+*   [Burn Notice: ECHO EGI-2300 Watt Generators Recalled Due to Fire and Burn Hazards](https://www.homeserve.com/en-us/blog/home-improvement/echo-generator-recall/)
+*   [Real Flame Recalls 700 Fire Pits; the Wood Stored Underneath Can Catch Fire](https://www.homeserve.com/en-us/blog/home-improvement/real-flame-fire-pit-recall/)
+*   [‘Burning Smells, Flames and Smoking’ Cited in Recall of 42,000 Cove Appliance Dishwashers](https://www.homeserve.com/en-us/blog/home-improvement/cove-appliance-dishwasher-recall/)

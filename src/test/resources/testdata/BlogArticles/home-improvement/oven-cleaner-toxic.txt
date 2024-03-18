@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Is Oven Cleaner Toxic? Here's What You Need to Know"
+headline: "Is Oven Cleaner Toxic? Here's What You Need to Know"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-07-02
+basePath: https://library.homeserve.com/m/
+heroImage: 199865611a96ee65/Blog-GettyImages-1142449546.jpg
+heroAltDescription: "Person cleaning their residential oven with harsh chemicals and wearing red rubber gloves "
+metaDescriptions: "Some of the chemicals in common oven cleaners may be hazardous to your health. Here's how to use them safely."
+articleAbstract: "Oven cleaners spray on, sit for a while and break up all of the grime and grease that has accumulated in your dirty oven. They come with clear warnings that you should avoid contact with your eyes, skin and nose and that breathing in the fumes can be hazardous. Here's how to use chemical oven cleaners safely."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Should I Use Chemical Oven-Cleaning Products?"
+  parent: Appliances
+---
+  Most of us are wary of things that seem a little too good to be true. Oven cleaners spray on, sit for a little while and break up all of the grime and grease that has accumulated in your dirty oven. But at what cost does this convenience come?
+
+**This May Also Interest You:** [**No Hot Takes, Here: A Deep Dive on Deep Cleaning Your Oven**](https://www.homeserve.com/en-us/blog/how-to/clean-oven/)
+
+These oven cleaners come with clear warnings that you should avoid contact with your eyes, skin and nose and that breathing in the fumes can be hazardous. But is oven cleaner toxic even after you’ve finished cleaning?
+
+Can You Get Sick From Oven Cleaner?
+-----------------------------------
+
+If you’re not careful when using oven cleaner, you can suffer serious injuries. Among the risks are being blinded, chemical burns or experiencing an asthma attack. If you plan to use an oven cleaner, you need to wear thick and long latex gloves, safety glasses and possibly even a respirator to keep the chemicals from entering your lungs.
+
+Is Oven Cleaner Toxic?
+----------------------
+
+Many chemical oven cleaners sold in stores contain [butoxydiglycol](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi6-pyvhqnxAhXoB50JHWHIAaEQFjACegQIAhAE&url=https%3A%2F%2Fwww.ewg.org%2Fguides%2Fsubstances%2F152469-BUTOXYDIGLYCOL%2F&usg=AOvVaw0NJogDorcA5kkLkh7bBkLF) or [sodium hydroxide](https://www.ewg.org/guides/substances/5570-SODIUMHYDROXIDE/). According to the [Environmental Working Group](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjdpLuaiKnxAhVEQ80KHRGcDXcQFjAAegQIBBAD&url=https%3A%2F%2Fwww.ewg.org%2F&usg=AOvVaw3ypUHm_Zn8jt28xFgd-H-Z), both chemicals may be irritants to the skin, eyes and respiratory tract, depending on their concentration. It’s important to protect yourself while using them and keep them clear of children or pets. If ingested, call [poison control](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi_mYzCi6nxAhWHaM0KHdDGB3UQFjABegQIBhAD&url=https%3A%2F%2Fwww.poison.org%2F&usg=AOvVaw3-g3Y2z73Ii769HnB4gfLD). Always make sure you’ve got adequate ventilation when using oven cleaner as well.
+
+You also need to make sure that you’ve wiped all the residue out of your oven before turning it on. According to [Easy-Off](https://www.easyoff.us/easy-offreg-heavy-duty-oven-cleaner/#faq-7) — a popular brand of chemical oven cleaner — you should rinse your oven with a half-and-half solution of vinegar and water after using the cleaner. Turning on your oven after using a cleaner may also help get rid of lingering residue. Check the manufacturer's instructions on your specific product for guidance.
+
+Can You Clean Your Oven Without These Chemicals?
+------------------------------------------------
+
+While many manufacturers claim these products won’t leave behind harmful residue that can get into your food, it is easy to see why you’d want to be cautious. If you have to be so careful while you use it, you probably don’t want to get oven cleaner in your food. You may want to consider making your own oven cleaner if you’re feeling unsure about the ingredients in chemical ones.
+
+You can make a cleaning solution out of three parts baking soda, one part salt and one part water. All you need to do is scrub all the surfaces of your oven with this solution and let it rest for a while. If you’ve got a really nasty mess, you can leave it overnight before wiping it down with a wet cloth. This solution is also an effective cleaner for your electric stove.
+
+Most modern ovens have a self-cleaning feature that you can use. Your oven gets so hot that all the spilled food and grease turns to ash. Experts recommend only using this feature once or twice a year because the oven will reach over 800 degrees and could give off foul fumes during the cleaning process. Never use commercial oven cleaner in a self-cleaning oven.
+
+**More Related Articles**
+
+*   [Should You Use Your Oven’s Self-Cleaning Feature — and, If So, How?](https://www.homeserve.com/en-us/blog/how-to/oven-self-cleaning-feature/)
+*   [How to Clean an Oven: Wipe Away Your Kitchen’s Dirty Secret in 8 Steps](https://www.homeserve.com/en-us/blog/how-to/clean-your-oven/)
+*   [4 Surefire Methods for Cleaning the Crud Our of Your Microwave](https://www.homeserve.com/en-us/blog/how-to/clean-microwave/)
+*   [How to Replace an Oven Lightbulb](https://www.homeserve.com/en-us/blog/how-to/oven-light-bulb-replacement/)
+*   [How to Clean Your Gas Stovetop](https://www.homeserve.com/en-us/blog/how-to/clean-gas-stove-top/)
+
+Is It Safe to Be in the House When Cleaning Your Oven?
+------------------------------------------------------
+
+Using a self-cleaning oven is pretty simple, but it might make it unpleasant and even unsafe to hang around your home for a while. People have reported that the high temperatures their ovens have reached during the cleaning process have damaged their ovens, and the method the oven uses for cleaning can fill your kitchen with harmful fumes.
+
+One of the gases that can be produced by burning off all the grease and debris inside of your oven is carbon monoxide. If you ever plan to use your oven’s self-cleaning feature, you need a carbon monoxide detector. Keep the windows open with a cross breeze so that the fumes can leave your home. It’s best to choose a time to use this feature when you don’t plan on being inside your house.
+
+Some ovens clean themselves in less than an hour, while others may take 4 to 6 hours to clean. Not every oven lets you set the amount of time you’d like for it to clean itself, so check your oven’s instruction manual if you’d like to know more about its cleaning features. Don’t leave your property while your oven is cleaning itself in case you need to respond to a smoke alarm.
+
+Once the oven has finished its cleaning cycle, wait for it to cool down completely. You can remove the remaining debris with a damp cloth at this point. Because it’s possible to damage your oven with the self-cleaning feature, run the cycle only once or twice a year.

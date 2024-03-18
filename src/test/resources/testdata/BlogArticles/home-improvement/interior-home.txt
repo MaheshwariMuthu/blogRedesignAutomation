@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Interior-Home-Home-Improvement
+  parent: Home Improvement & Maintenance
+  title: Interior Home
+permalink: false
+---

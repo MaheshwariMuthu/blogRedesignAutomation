@@ -1,0 +1,142 @@
+Browser Used: firefox
+
+Article Page URL:  https://contentful-blogs-dev.netlify.app/blogs/cost-guide/air-conditioner-installation-cost
+
+Article title <How Much Does It Cost to Install an Air Conditioner?> MATCHED
+
+Article author <Team HomeServe> MATCHED
+
+Article publishDate <October 17, 2023> MATCHED
+
+Article image <https://library.homeserve.com/m/1275e67dcb19576d/Blog-GettyImages-944678614.jpg> MATCHED
+
+Block1_Paragraph 1 MATCHED
+
+	Air conditioning is essential for your comfort during hotter weather, but many homeowners are daunted by the potential costs of installing or upgrading a central air conditioning system.
+
+Block1_Paragraph2_link 1 MATCHED
+
+	What Size Air Conditioner Do I Need?|https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/
+
+Block1_Paragraph 2 MATCHED
+
+	This May Also Interest You: What Size Air Conditioner Do I Need?
+
+Block1_Paragraph 3 MATCHED
+
+	Knowing how much air conditioner installation costs can make planning this home improvement project more manageable.
+
+Heading 1: < How Much Does It Cost to Install a New Central AC Unit? > MATCHED
+
+Block2_Paragraph1_link 1 MATCHED
+
+	Fixr|https://www.fixr.com/costs/central-air-conditioner-installation
+
+Block2_Paragraph 1 MATCHED
+
+	According to Fixr, the average air conditioner installation cost is around $8,750 (CAD 11,952). However, prices could range between $5,800 and $14,400 (CAD 7,923 and CAD 19,670), depending on your existing system and which AC unit you choose.
+
+Block2_Paragraph 2 MATCHED
+
+	You can use average air conditioner installation prices per square foot to get a clearer idea of how much your project is likely to cost for your property. Generally, you should expect to pay between $2.90 and $7.20 (CAD 3.96 and CAD 9.84) per square foot, depending on whether you need new ducts installed and your AC model.
+
+Heading 2: < What Is the Average AC Unit Size? > MATCHED
+
+Block3_Paragraph1_link 1 MATCHED
+
+	Bob Vila|https://www.bobvila.com/articles/central-ac-unit-cost/
+
+Block3_Paragraph 1 MATCHED
+
+	What size air conditioner you need depends on several factors, including your room's square footage. Three-ton units are the most common size for residential properties, and, according to Bob Vila, the average cost for a 3-ton central air conditioner ranges between $3,400 and $5,400 (CAD 4,644 and CAD 7,376). However, a basic 3-ton model could cost as little as $1,700 (CAD 2,322), while an energy-efficient model could set you back as much as $11,000 (CAD 15,026).
+
+Heading 3: < How Much Do Other AC Sizes Cost? > MATCHED
+
+Block4_Paragraph1_link 1 MATCHED
+
+	HomeGuide|https://homeguide.com/costs/install-ac-unit-cost
+
+Block4_Paragraph 1 MATCHED
+
+	According to data from HomeGuide, most home central air conditioners are sized between 1.5 tons and 5 tons. A 1.5-ton air conditioner is suitable for cooling a single-bedroom or small mobile home and should cost between $2,000 and $5,000 (CAD 2,732 and CAD 6,830) installed. A 2-ton central air conditioner is generally the correct size for a small home, costing between $2,500 and $5,500 (CAD 3,415 and CAD 7,513).
+
+Block4_Paragraph 2 MATCHED
+
+	Toward the larger end of the scale, a 4-ton air conditioner is the correct size for many larger houses and costs between $3,500 and $7,500 (CAD 4,781 and CAD 10,245) installed. Large properties in warmer climates may require a 5-ton central air conditioner, for which you should expect to pay between $4,000 and $8,000 (CAD 5,464 and CAD 10,928) on average.
+
+Block4_Paragraph 3 MATCHED
+
+	More Related Articles:
+
+Block4_List4_link 1 MATCHED
+
+	So Your AC Went Kerplunk: Here’s What to Do Next|https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/
+
+Block4_List4_link 2 MATCHED
+
+	New to BTUs? Here’s What to Know About BTUs When Shopping for an Air Conditioner|https://www.homeserve.com/en-us/blog/home-improvement/btu-air-conditioning/
+
+Block4_List4_link 3 MATCHED
+
+	Hot This Summer? Here’s Everything You Need to Know to Keep Cool|https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/
+
+Block4_List4_link 4 MATCHED
+
+	Keep Your Cool With Our Top 5 Picks for Window AC Units|https://www.homeserve.com/en-us/blog/buying-guide/best-apartment-window-air-conditioners/
+
+Block4_List4_link 5 MATCHED
+
+	Got Central Air? Use This Top-to-Bottom Air Conditioner Maintenance Checklist|https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist/
+
+Block4_List 4 MATCHED
+
+	So Your AC Went Kerplunk: Here’s What to Do Next
+New to BTUs? Here’s What to Know About BTUs When Shopping for an Air Conditioner
+Hot This Summer? Here’s Everything You Need to Know to Keep Cool
+Keep Your Cool With Our Top 5 Picks for Window AC Units
+Got Central Air? Use This Top-to-Bottom Air Conditioner Maintenance Checklist
+
+Heading 4: < What Are the Labor Costs to Install an AC Unit? > MATCHED
+
+Block5_Paragraph1_link 1 MATCHED
+
+	about 2,273 square feet|https://www.statista.com/statistics/456925/median-size-of-single-family-home-usa/
+
+Block5_Paragraph1_link 2 MATCHED
+
+	Forbes|https://www.forbes.com/home-improvement/hvac/ac-installation-cost/
+
+Block5_Paragraph1_link 3 MATCHED
+
+	Architectural Digest|https://www.architecturaldigest.com/reviews/hvac/air-conditioner-cost
+
+Block5_Paragraph 1 MATCHED
+
+	As of 2021, the average American home measured about 2,273 square feet. Forbes says you should expect to pay between $500 and $2,500 (CAD 683 and CAD 3,415) in labor costs in a house measuring 2,000 square feet or larger. You may need to pay up to $150 (CAD 205) extra if you need to upgrade the electrical circuit, according to Architectural Digest. However, bear in mind that labor fees vary considerably depending on where you live and the complexity of the installation.
+
+Heading 5: < What Factors Affect Air Conditioner Installation Costs? > MATCHED
+
+Block6_Paragraph 1 MATCHED
+
+	One of the primary factors affecting air conditioner installation costs is your chosen unit's seasonal energy-efficiency rating (SEER). Generally, the higher the SEER, the more it will cost to purchase and install your air conditioner. However, efficient air conditioners cost less to run, potentially making them a more cost-effective solution in the long run.
+
+Block6_Paragraph 2 MATCHED
+
+	Another major factor influencing the cost of installing an AC unit is whether your home has existing, usable ductwork. Installing central air conditioning with existing ductwork is significantly cheaper, which means it's generally more affordable in a modern home. You should expect to pay between $800 and $1,800 (CAD 1,093 and CAD 2,459) extra in materials and labor costs if you need to install ductwork alongside your new AC.
+
+Block6_Paragraph 3 MATCHED
+
+	You should also consider your local climate when estimating how much air conditioner installation costs. You'll generally need a more powerful unit if outside temperatures get very hot where you live, and larger units tend to cost more.
+
+Block6_Paragraph 4 MATCHED
+
+	Although you can get a rough idea of what size air conditioner unit you need based on your home's square footage, other factors such as ceiling height and how much daylight each room gets can also make a difference. Therefore, the most accurate way to decide which air conditioner to buy is to arrange a home evaluation by an expert contractor who can calculate your home's requirements.
+
+Block6_Paragraph 5 MATCHED
+
+	All CAD conversions are based on the exchange rate on the date of publication.
+
+Block6_Video 6 MATCHED
+
+	https://youtube.com/embed/l6RoqfIe7HA
+

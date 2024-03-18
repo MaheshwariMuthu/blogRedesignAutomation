@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Remove Wall Anchors"
+headline: "How to Remove Wall Anchors: 3 Techniques to Try"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-08-21
+basePath: https://library.homeserve.com/m/
+heroImage: 7471ce9005ea13eb/Blog-GettyImages-1289346822.jpg
+heroAltDescription: "Close up view of person hand removing old plastic dowel, nylon wall plug from drywall with pliers at home. Home renovations concept."
+metaDescriptions: "Drywall anchors can be bulky, unsightly and hard to get rid of. Our guide lays out several easy techniques to remove an anchor with minimal damage."
+articleAbstract: "Drywall anchors can be bulky, unsightly and hard to get rid of. Our guide lays out several easy techniques to remove an anchor with minimal damage."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Remove Wall Anchors"
+  parent: Interior-Home-How-To
+---
+  
+
+**Removing Wall Anchors at a Glance**
+
+* **Method 1:** Pull it out with pliers
+* **Method 2:** Try to back anchor out
+* **Method 3:** Let anchor fall behind wall
+
+Drywall anchors are an essential part of hanging shelves, curtain rods or other items on a wall. But what do you do when you don't need the anchor anymore? They can be bulky, unsightly and hard to get rid of.
+
+**This May Also Interest You:** [**How to Install Floating Shelves (It’s Now as Hard as It Looks)**](https://www.homeserve.com/en-us/blog/how-to/diy-floating-shelves/)
+
+The good news is that you don't have to resign yourself to having a weird lump on the wall forever. Our guide lays out several easy techniques to remove a drywall anchor with minimal damage.
+
+Safety First
+------------
+
+A few of these techniques use power tools, so you need to exercise appropriate caution. Make sure to wear protective goggles when doing anything that could cause small particles to fly around.
+
+Something else to keep in mind is that all sorts of electrical wires and pipes live behind your walls. Go slow. Use a pipe and wiring detector to avoid accidentally hitting anything while you are removing the anchor. This can reduce your chances of ending up with leaky pipes or other problems.
+
+Identify the Anchor Type
+------------------------
+
+One of the key parts of removing drywall anchors is simply figuring out the type of anchor you have. The removal method you use can be very different depending on whether you have metal or plastic wall anchors. There are a few different types of wall anchors, including:
+
+* **Plastic expansion anchors:** This is the most common type of wall anchor. It's a plastic sleeve with ridges around the edges.
+* **Plastic screw anchors:** The plastic collar on this anchor looks similar to an expansion anchor, but its sides are threaded like a big screw.
+* **Steel hollow wall anchors:** These have a metal collar around the top that is a little wider than the screw itself.
+* **Toggle bolts:** From the outside, this looks like a regular screw. The inside will have a metal clip.
+
+3 Ways to Remove Wall Anchors
+-----------------------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/791e3edc0db6b997/Blog-GettyImages-1055286006.jpg" alt="worker with pliers pulls the plug out of the wall"/>
+
+### 1\. Attempt to Pull Out the Drywall Anchor Using Pliers
+
+If you have a plastic expansion anchor, a direct approach might work. Often, these anchors will come out if you just grip the collar with needle-nose pliers and pull backward. Apply slow, even pressure to the anchor. If it looks like the anchor is going to rip out a sizable chunk of drywall with it, stop pulling.
+
+### 2\. Try to Remove the Drywall Anchor by Backing It Out
+
+When direct pressure isn't enough, you might want to consider screwing the drywall anchor backward. This can be a good way of removing plastic screw anchors or some types of metal anchors.
+
+Select a screwdriver that's just slightly wider than the anchor mouth, and hammer it into place. For the hefty metal anchors often used to mount TVs and other heavy items, it can be helpful to drill a bit into the anchor collar instead of just using a screwdriver in place. Then, slowly turn the screwdriver or drill bit counterclockwise to back the anchor out.
+
+**More Related Articles:**
+
+*   [How to Hang Drywall: A 7-Step Overview](https://www.homeserve.com/en-us/blog/how-to/hang-drywall/)
+*   [How to Finish Drywall: Taping, Mudding and Sanding](https://www.homeserve.com/en-us/blog/how-to/tape-mud-sand-drywall/)
+*   [How Much Does Drywall Cost?](https://www.homeserve.com/en-us/blog/cost-guide/drywall-installation/)
+*   [How to Fix a Large Hole in Your Drywall](https://www.homeserve.com/en-us/blog/how-to/fix-large-hole-in-wall/)
+*   [How to Fix Nail Holes in Walls: A 7-step Guide](https://www.homeserve.com/en-us/blog/how-to/fix-nail-holes/)
+
+### 3\. If All Else Fails: Let the Anchor Fall Behind the Wall
+
+This method works for every anchor style out there. Essentially, it just involves removing the part of the anchor outside the wall and then letting the rest of the anchor fall into the wall. How you do this will depend on your anchor type. For a plastic expansion anchor, it might be as simple as just inserting a narrow screwdriver and hammering until the anchor falls down.
+
+When removing drywall anchors with a wide collar on the outside, you might want to remove the collar first. This can be done with a small cutting wheel on a drill held parallel to the wall. You can also try using a drill bit just slightly wider than the anchor and drilling straight into it. This can push the anchor back until it falls into the wall.

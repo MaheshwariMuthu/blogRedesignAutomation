@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Repair Your Dishwasher Door?"
+headline: "How Much Does It Cost to Repair Your Dishwasher Door?"
+author: Lee Soren
+tags: ["post"]
+publishDate: 2023-11-29
+basePath: https://library.homeserve.com/m/
+heroImage: 3a1e4c90df1ed125/Blog-GettyImages-184601678.jpg
+heroAltDescription: "Dishwasher Repair with Multimeter"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Dishwasher door problems can leave you in a lurch. Learn how much a dishwasher door repair job may cost you."
+articleAbstract: "From broken door latches to faulty control panels, dishwasher door problems can leave you in a lurch. Learn how much a dishwasher door repair job may cost you."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Repair Your Dishwasher Door?"
+  parent: Appliances-Cost-Guide
+---
+  If you find a puddle on your kitchen floor, don’t automatically blame the dog. It could be due to a broken dishwasher door.
+
+**This May Also Interest You:** [**Should You Repair or Replace Your Dishwasher?**](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-repair-replacement/)
+
+Before you head to the nearest home improvement store to buy a new appliance, you may want to consider having it repaired. Here’s how much a dishwasher door repair job may cost you.
+
+How Much Does It Cost to Fix a Broken Dishwasher Door?
+------------------------------------------------------
+
+[Bob Vila](https://www.bobvila.com/articles/dishwasher-repair-cost/) says you can expect to pay between $150 and $600 (CAD 205 and CAD 821) to fix a broken dishwasher door, which includes parts and labor. This range accounts for factors that impact price, such as the extent of the damage, the make and age of the dishwasher and whether you opt for brand-name or universal parts. For example, a small job, such as fixing a broken door latch, will be considerably less costly than replacing the entire dishwasher door.
+
+Some common dishwasher door problems you may experience include:
+
+* **Broken door latches:** If your dishwasher door won’t close, it might be a problem with the latch. To fix it, expect to pay between $150 and $250 (CAD 205 and CAD 342).
+* **Cracked door handles:** If your door handle breaks, you can expect to pay between $50 and $150 (CAD 68 and CAD 205).
+* **Malfunctioning door springs:** If your dishwasher door slams open, it’s probably due to a broken door spring, which will cost between $50 and $150 (CAD 68 and CAD 205) to replace. However, it can cost even more if you also need to replace associated parts, such as balance links and the spring assembly.
+* **Broken detergent dispensers:** Many dishwasher doors have built-in soap dispensers, which can eventually break from the wear and tear of opening and closing. To fix a detergent dispenser, you’ll pay an average of $50 (CAD 68), although repairs can range between $20 and $90 (CAD 27 and CAD 123).
+* **Faulty control panels:** To fix a faulty in-door dishwasher control panel, you can expect to pay from $90 to $250 (CAD 123 to CAD 342). Touch-screen control panels typically fall at the high end of the spectrum, while basic options cost less.
+* **Door leaks:** Repairing a door leak can run up to $300 (CAD 411), depending on the underlying reason for the problem.
+
+If you aren’t sure what’s wrong with your dishwasher door, a technician can troubleshoot the problem. However, many companies charge a standard service fee, which can range from $35 to $100 (CAD 48 to CAD 137).
+
+Can DIY Dishwasher Door Repair Save You Money?
+----------------------------------------------
+
+If you repair your dishwasher yourself, you’ll only incur the cost of the parts. That can save you the hourly labor charge of an appliance repair technician, which typically runs between $45 and $200 (CAD 62 and CAD 274) per hour.
+
+For example, professional door latch repair can cost up to $250 (CAD 342), but the part typically only costs between $10 and $50 (CAD 14 and CAD 68), according to [Forbes](https://www.forbes.com/home-improvement/plumbing/dishwasher-repair-cost/). However, if something goes wrong, you could potentially cause additional damage to your machine, which could cost you even more money — and you'd still need to call in a pro.
+
+How Much Does It Cost to Repair a Dishwasher Door That Has Broken Off Completely?
+---------------------------------------------------------------------------------
+
+Dishwasher doors are sturdy and they're meant to last, but if your door has broken off completely, you’ll probably need a professional to put it back on. That can cost between $45 and $200 (CAD 62 and CAD 274) an hour, depending on your region, the repair company, the complexity of the job and the experience level of the service technician. If your door was irreparably damaged, you may also incur the cost of replacement parts.
+
+How Much Does It Cost to Replace a Dishwasher Door?
+---------------------------------------------------
+
+Dishwasher doors rarely need to be replaced, but if your old one is damaged, [Fixr](https://www.fixr.com/costs/dishwasher-repair) says it’ll cost you between $150 and $600 (CAD 205 and CAD 821) for a new one. Doors for economy dishwashers are typically much less expensive than those for luxury models, and used parts may cost even less.
+
+When Should You Replace Rather Than Repair Your Dishwasher?
+-----------------------------------------------------------
+
+Fixing a dishwasher can be costly. In fact, repairs can sometimes cost more than replacing the dishwasher. If your appliance’s warranty period is over, the unit is [more than four years old](https://www.forbes.com/home-improvement/plumbing/dishwasher-repair-cost/) or it’s experienced multiple problems, you may be better off buying a new unit.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nWCVeH6wPmM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Dishwasher Cleaning Hack Exposed!!"></iframe>

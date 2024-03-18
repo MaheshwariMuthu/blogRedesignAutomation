@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is My Water Discolored?"
+headline: "Why Is My Water Discolored?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2023-09-06
+basePath: https://library.homeserve.com/m/
+heroImage: 5cc109784f8e74a3/Blog-GettyImages-523615224.jpg
+heroAltDescription: "a residential sink with contaminated brown water flowing from it "
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Brown or yellow tap water isn't something any homeowner wants to see. Here, we dive into discolored water to help you get to the bottom of the nastiness."
+articleAbstract: "Brown or yellow tap water isn't something any homeowner wants to see. Here, we dive into discolored water to help you get to the bottom of the nastiness."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My Water Discolored?"
+  parent: Plumbing-Home-Improvement
+---
+  There isn’t much that can unsettle someone more than seeing discolored water flowing from their faucet. If you’ve experienced this, you probably found it perplexing at first and wondered if it was safe to drink. Naturally, you would also wonder what caused the transformation.
+
+**This May Also Interest You:** [**Installing a Water Softener Isn’t So Hard: A 6-Step Guide**](https://www.homeserve.com/en-us/blog/how-to/water-softener-installation/)
+
+Here, we dive into discolored water to help you get to the bottom of the nastiness.
+
+What Are Some Reasons My Tap Water Is Discolored?
+-------------------------------------------------
+
+Brown or yellow water can have multiple sources, including:
+
+* **Rusty pipes:** One of the leading culprits for brown water is rusty pipes. Corrosion can occur in your water pipes over time, causing iron particles to mix with the water, giving it a brown hue.
+* **Water pressure changes:** Sudden water pressure changes, often caused by activities such as firefighting or hydrant use, can stir up sediment and minerals in the water mains. This disturbance can cause temporary changes in the color of the water coming from your tap.
+* **Water supply interruptions:** Maintenance work or repairs in the water supply system can dislodge sediment or rust particles. These particles then alter the water's color for a limited period until the natural flow washes them away.
+* **Water heater issues:** Sediment can build up in your water heater, causing discoloration when the water is heated.
+* **Naturally occurring minerals:** Depending on your location, minerals such as manganese and iron could occur naturally in your water source, leading to discoloration.
+* **Old plumbing systems:** If the plumbing system in and around your home is aging, it’s more prone to corrosion and sediment accumulation.
+
+**More Related Articles:**
+
+*   [How Much Does a Water Softener Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-a-water-softener-cost/)
+*   [How to Know if Your Bathtub Has Hard Water](https://www.homeserve.com/en-us/blog/home-improvement/hard-water/)
+*   [Plumbing Repair Cost Guide](https://www.homeserve.com/en-us/blog/cost-guide/plumbing-repair-costs/)
+*   [How Much Do Home Water Filtration Systems Cost?](https://www.homeserve.com/en-us/blog/cost-guide/water-filter-installation/)
+*   [How to Replace a Showerhead](https://www.homeserve.com/en-us/blog/how-to/change-shower-head/)
+
+Is It Safe to Drink Discolored Tap Water?
+-----------------------------------------
+
+If the water coming from your faucets is discolored, you’re probably wondering if it’s safe to drink. Generally, short-term exposure isn’t a significant health risk because discoloration is usually caused by minerals or sediments in the water supply. However, if you notice an unusual odor or taste, err on the side of caution and don’t drink it.
+
+### How to Address Discolored Water
+
+Here are some things you can do if you notice discolored water coming from your faucet. If the issue persists, contact your water supplier because it might be conducting maintenance and repair work in your area.
+
+* **Check if it's isolated.** Fill a glass with cold water and let it sit for a few minutes. If the water clears from the bottom up, the discoloration is likely due to your internal plumbing. If the water remains discolored, the issue might be with the water supplied to your home.
+* **Run the tap.** If you notice brown water, let your cold water tap run for about 20 minutes. This can help flush out any sediment or rust that might be the cause.
+* **Check the hot water.** If the discolored water is only coming from your hot water tap, your water heater might be the culprit. Consider having it inspected and flushed by a professional plumber.
+* **Install a filtration system.** This can help remove sediments and impurities that cause discoloration. It's a long-term solution that will improve the overall quality of your tap water.
+* **Check for rusty pipes.** If your pipes are old and rusty, consider having them inspected and replaced.
+* **Look to your water softener.** If your water source has high mineral content (you might know it as "hard water"), a water softener can help reduce mineral buildup.
+* **Address plumbing issues.** If you suspect plumbing issues, such as corrosion or sediment buildup, consult a professional plumber. They can identify and address the underlying problems.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nk_hBpyP3Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How Much Does Sewer Line Maintenance and Repair Cost?"></iframe>

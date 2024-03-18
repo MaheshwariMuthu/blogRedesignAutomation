@@ -1,0 +1,8 @@
+---
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/category/home-improvement/', 'en-us'], ['https://www.homeserve.co.uk/living/diy/', 'en-gb']]
+eleventyNavigation:
+  key: Home Improvement & Maintenance
+  parent: Blog
+  url: /en-us/blog/category/home-improvement/
+permalink: false
+---

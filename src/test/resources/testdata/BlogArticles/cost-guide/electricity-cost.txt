@@ -1,0 +1,95 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does Electricity Cost?"
+headline: "How Much Does Electricity Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-01-24
+basePath: https://library.homeserve.com/m/
+heroImage: 2698ecf9171872b9/Blog-Electricity_MSchmitz_0001-jpeg.jpg
+heroAltDescription: "samsung plug in socket"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "You probably don't think much about electricity costs, unless you have high rates. So, how much does electricity cost on average? We've got your answer."
+articleAbstract: "Electricity is one of the most highly variable utilities; prices are different from state to state. As of November 2021, the average rate per kilowatt-hour is 10.59 cents."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does Electricity Cost?"
+  parent: Electrical-Cost-Guide
+---
+  **Electricity Costs at a Glance**
+
+* **Average rate:** 10.59 cents (CAD 0.13) per kilowatt-hour
+* **Average electricity bill:** $115 (CAD 144) per month
+
+If you're like many consumers, you don't spend much time thinking about electricity costs — unless you live in an area with high rates. Electricity is one of the most highly variable utilities; prices are different from state to state.
+
+**This May Also Interest You:** [**How Much Do Utilities Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/utilities/)
+
+So, how much does electricity cost on average? As of November 2021, the average rate per kilowatt-hour is 10.59 cents (CAD 0.13), according to the [Energy Information Administration](https://www.eia.gov/electricity/state/).
+
+How Much Does Electricity Cost?
+-------------------------------
+
+Electricity costs in the United States can vary dramatically based on your location. In 2021, Louisiana offered the cheapest rates; residents pay an average of 7.51 cents (CAD 0.10) per kilowatt-hour. The most expensive electricity is in Hawaii, where costs come out to 27.55 cents (CAD 0.35) per kilowatt-hour.
+
+The region of New England has some of the highest electricity costs in the contiguous U.S.:
+
+*   Vermont: 16.33 cents (CAD 0.20)
+*   New Hampshire: 16.63 cents (CAD 0.21)
+*   Massachusetts: 18.19 cents (CAD 0.23)
+*   Rhode Island: 18.54 cents (CAD 0.24)
+*   Connecticut: 19.13 cents (CAD 0.24)
+
+Bear in mind that these are merely averages — electricity costs can swing wildly within the same state. In Michigan, for example, the average rate is 12.21 cents (CAD 0.15) per kilowatt-hour. If you live in the Upper Peninsula, however, you might pay as much as [25 cents](https://www.bridgemi.com/michigan-environment-watch/qa-demystifying-sky-high-electricity-rates-michigans-upper-peninsula) (CAD 0.31) per kilowatt-hour.
+
+Why Does the Price of Electricity Vary So Much From Place to Place?
+-------------------------------------------------------------------
+
+A number of factors affect your electricity rates, including:
+
+* **Number of local power plants:** The more plants there are, the more competition, which tends to keep prices in check.
+* **Type of fuel for power plants:** Coal-powered plants are cheaper than facilities that run on petroleum or natural gas.
+* **Consumer demand:** Higher demand often leads to higher prices.
+* **State price regulations:** States like Wisconsin, Idaho and Utah regulate electricity prices. Other states, including Michigan and Illinois, are deregulated.
+* **Geographic location:** Cost of transportation and availability of hydroelectric sources affect rates.
+* **Weather conditions:** Extreme cold or hot weather increases demand, which can increase electricity costs.
+
+In general, remote locations tend to have higher electricity costs than centrally located cities. Usually, this happens because the companies must transport the fuel to run the power plants; the farther the fuel must travel, the more expensive it is. That's why Hawaii has the most expensive electricity rates — the fuel must be shipped in.
+
+Unlike other utilities, electricity prices are rarely constant; they can change from hour to hour based on demand. Costs are lower when usage is low and higher during peak times. However, because many utility companies offer an average rate, you probably won't notice these differences.
+
+**More Related Articles:**
+
+*   [More Power To You: How to Read Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/read-electricity-bill/)
+*   [How to Take Advantage of Time-of-Use Rates and Lower Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/save-electricity-during-peak-hours/)
+*   [How Much Electricity Do Holiday Lights Use?](https://www.homeserve.com/en-us/blog/home-improvement/holiday-lights-electricity-use/)
+*   [How to Install Whole-House Surge Protection](https://www.homeserve.com/en-us/blog/how-to/whole-house-surge-protector-installtion/)
+*   [Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load](https://www.homeserve.com/en-us/blog/how-to/phantom-loading/)
+
+What's a Kilowatt-Hour?
+-----------------------
+
+A kilowatt-hour (kWh) is the unit of measure that's used to express electricity consumption. A single kilowatt-hour equals 1 kilowatt sustained for a full hour. If you have a device that draws 1,000 watts (1 kW) and you leave it on for an hour, you'd use one kilowatt-hour of electricity.
+
+How Much Is the Average Electricity Bill?
+-----------------------------------------
+
+In the U.S., the [average monthly electricity bill](https://www.eia.gov/todayinenergy/detail.php?id=46276) is $115 (CAD 144) per month. You may see a dramatically different number, depending on where you live. In Utah, for example, the average bill is $76 (CAD 95) per month. In Hawaii, it's $168 (CAD 210).
+
+Electricity rates are just one of the factors that affect your monthly bill. Some of the other factors are:
+
+* **Climate and weather:** Hot and cold climates require you to use the heating or air conditioning system, which drives up the monthly bill.
+* **Insulation and drafts:** If your home is drafty or poorly insulated, it loses warm or cool air to the outdoors. Your HVAC system works harder to maintain the interior temperature, using more electricity in the process.
+* **Behavior:** Turning off lights, using smart power strips and shutting down electronics when they're not in use reduces energy costs.
+* **Appliances:** Major appliances like stoves, refrigerators, washing machines, water heaters and dishwashers draw a great deal of electricity. The older an appliance is, the less efficiently it uses power.
+* **Supplemental power:** Residential wind turbines and solar panels can reduce your electric bill.
+
+How Do I Find Out My Current Electric Rate?
+-------------------------------------------
+
+The easiest way to find out your electric rate is to check out your most recent electricity bill. If that's not possible, you can also check your utility provider's website. Search for "current rates," and you should find a price schedule.
+
+Bear in mind that many electricity providers offer different rate options. If you're charged a flat rate, you'll pay the same price regardless of demand or time of day. If you have a varying rate, you'll pay different prices based on the time of day.
+
+_All CAD conversions are based on the exchange rate on the date of publication._

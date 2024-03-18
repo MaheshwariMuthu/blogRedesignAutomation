@@ -1,0 +1,60 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to Clean an Iron Skillet
+headline: How to Clean Your Cast-Iron Skillet Like an Old-Timey Pro
+author: Matt Schmitz
+tags: ['post']
+publishDate: 2020-12-25
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: cleaning-cast-iron-skillet.jpg
+heroAltDescription: cleaning cast iron skillet in kitchen sink
+metaDescriptions: Cast-iron cookware is versatile and durable, but requires a little extra care. Learn how to properly clean your cast-iron skillet in seven simple steps.
+articleAbstract: Cast-iron skillets have been used for cooking for literally centuries, and they still hold many advantages over modern nonstick pans in their versatile and durability. The main drawback is that they require a little extra care than you might be accustomed to, specifically when it comes to cleaning. Learn how to clean your cast-iron skillet in seven simple steps.
+category: ['How To']
+eleventyNavigation:
+  key: How to Clean an Iron Skillet
+  parent: Appliances-How-To
+---
+
+Cast-iron skillets have been used for cooking for literally centuries, and they still [hold many advantages](https://www.epicurious.com/expert-advice/the-health-benefits-of-cooking-with-a-cast-iron-skillet-article)
+over modern nonstick pans. Cast-iron cookware retains heat better, is naturally nonstick if properly cared for, is versatile enough for frying on the stove or baking in the oven, is generally cheaper and longer-lasting, actually fortifies your food with iron — and doesn&#39;t contain any of those disconcertingly unpronounceable coating chemicals like perfluorooctanoic acid (did ya _see_ that Mark Ruffalo movie, [&quot;Dark Waters&quot;](https://www.youtube.com/watch?v=RvAOuhyunhY)?). Plus it&#39;s heavy, so you can get a _sweet_ forearm pump while making breakfast. The main drawback is that they require a little extra care than you might be accustomed to, specifically when it comes to cleaning.
+
+**This May Also Interest You:** [ **Wood-Burning Stove and Fireplace Safety**](https://www.homeserve.com/en-us/blog/home-improvement/fireplace-wood-burning-stove-safety/)
+
+The additional effort is a fair tradeoff for getting to feel like you&#39;re a wagon-training pioneer cooking up bacon and griddle cakes out on the frontier, and it&#39;s really not that difficult. Here are seven simple steps for cleaning and caring for your cast-iron skillet:
+
+## 1. Rinse It Out
+
+Rinse your greasy, gunky cast-iron skillet thoroughly in hot water and dump all that cruddy, brownish water down the kitchen sink drain.
+
+## 2. Needs Salt
+
+Pour kosher salt into the skillet, covering the entire bottom of the pan with a robust layer of salt.
+
+## 3. Scrub It Up
+
+Use a damp sponge to scrub the inside of the pan thoroughly, using the grit of the salt&#39;s rough edges to break up the stubborn, stuck-on remnants of your most recent meal.
+
+## 4. Rinse Repeat
+
+Rinse the skillet out again in the sink, removing all that salt and burnt food residue you scrubbed off in the previous step.
+
+## 5. Dry It Out
+
+Dry the pan thoroughly with a paper towel or lint-free dishrag, inside and out (don&#39;t forget the bottom).
+
+## 6. Oil It Up
+
+Coat the entire inside of the skillet with a thin layer of cooking oil, first by pouring the oil into the pan, then spreading the oil across all the surfaces, inside and out, with a paper towel or rag. We emphasize: It should be a _thin_ layer — not so much that the oil runs when the pan is held at an angle. This is part of the skillet &quot;seasoning&quot; process, which will help preserve its look and natural nonstick properties.
+
+## 7. Make It Hot, Let It Cool
+
+This tip comes courtesy of [cast-iron cookware manufacturer Lodge](https://www.lodgecastiron.com/cleaning-and-care/cast-iron/science-cast-iron-seasoning), and completes the seasoning process: &quot;Preheat your oven to 350-450 degrees [Fahrenheit]. Place aluminum foil on the bottom rack of the oven to catch any excess oil. Put your cookware upside down on the center rack. This helps prevent oil from pooling on the cooking surface. Bake for 1 hour. … Turn off the heat and allow the cast iron skillet to cool in the oven.&quot;
+
+Annnd, _voila_! Your pan is returned to its appealing rustic-chic black color with a nice, sleek sheen — ready for you to mess up all over again.
+
+To see our skillet-scrubbing advice in action, watch the instructional video below.
+
+_Since we&#39;re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/os8TwrDhoGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

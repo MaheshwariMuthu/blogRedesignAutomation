@@ -1,0 +1,82 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Home Wind Turbine Installation"
+headline: "Home Wind Turbine Installation Guide"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-12-23
+basePath: https://library.homeserve.com/m/
+heroImage: 60318e00db2fe373/Blog-GettyImages-531122065.jpg
+heroAltDescription: "Wind Energy Turbine on Blue Sky Background"
+metaDescriptions: "Interested in installing a home wind turbine? Here's a look at the installation process."
+articleAbstract: "Green energy is a hot topic at the moment. Here, we explain the home wind turbine installation process, and how much power a wind turbine could generate for you."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install a Home Wind Turbine"
+  parent: Exterior-Home-How-To
+---
+  Green energy is a hot topic at the moment. Depending on where you live, you may be interested in solar power, wind power or even both.
+
+**This May Also Interest You:** [**How Much Does a Home Wind Turbine Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/home-wind-turbine/)
+
+Here, we explain the home wind turbine installation process, and how much power a wind turbine could generate for you.
+
+Should You Install a Wind Turbine for Your House?
+-------------------------------------------------
+
+It is possible to install a home wind turbine, but whether doing so would offer a worthwhile return on investment depends on where you live. If you don't see a lot of wind but have many clear, sunny days, solar shingles could be a better choice.
+
+It's also important to consider the laws in your area. Some authorities allow people to tie in their windmill generators to the energy grid, meaning you can send excess energy to the grid, saving you more money on your utility bills. In other areas, you can't do this, so excess power is used to charge a battery instead.
+
+How Big a Turbine Do You Need to Power a House?
+-----------------------------------------------
+
+The amount of power a wind generator can put out depends on where you live and how much wind that area usually sees. An average residential wind turbine can range in size from 400 watts to 20 kilowatts.
+
+According to the [U.S. Department of Energy](https://www.energy.gov/energysaver/installing-and-maintaining-small-wind-electric-system), most homes use around 877 kilowatt-hours of power per month. This means homeowners who live in an area where they see average annual wind speeds of 14 miles per hour would need at least a 15-kW-capable wind turbine to generate enough power to make a meaningful contribution to their annual bills.
+
+A small wind turbine for home use should be up to this task. If you have a large enough plot of land, you could install multiple small wind turbines to get enough power. Many people also have solar panels that they use to generate extra electricity on calm, clear days.
+
+Can You Install a Home Wind Turbine Yourself?
+---------------------------------------------
+
+Installing a home wind turbine could save you a lot of money on your energy bills, but it's not a simple task. If you've found yourself searching for information about how to install a wind turbine for your home, it's likely you don't have the skills to do so safely.
+
+Installing a DIY wind turbine could be dangerous because of the amount of power it consumes and the way it hooks up to your home's electrical grid. It's best to leave these jobs to the professionals.
+
+However, you can find some home wind turbine kits on the market. Always follow the manufacturer’s instructions. Before installing a home wind turbine kit, consider:
+
+*   Putting the wind generator in the best location to maximize the energy generated
+*   Ensuring you comply with any zoning requirements in your area
+*   Checking which size of wind turbine is best for your property
+*   Deciding whether to have a battery hookup or connect the generator to the grid
+
+**More Related Articles:**
+
+*   [Thinking About a Solar Water Heater? Here are the Pros and Cons](https://www.homeserve.com/en-us/blog/home-improvement/solar-water-heater/)
+*   [How Much Does It Cost to Install a Solar Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/solar-water-heater/)
+*   [What Are Solar Shingles … and Do They Work?](http://v)
+*   [How Much Does It Cost to Install Solar Panels?](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+*   [What’s It Like to Go Solar? 5 Things They Don’t Tell You in the Brochure](https://www.homeserve.com/en-us/blog/home-improvement/solar-panels/)
+
+Call a Professional
+-------------------
+
+Installing a wind turbine is really a job for skilled electricians. If you aren't a qualified electrician, it's a good idea to hire a contractor to install your wind turbine kit. Make sure any installer you work with is fully licensed, and check for any reviews or complaints with the [Better Business Bureau](http://www.bbb.org/).
+
+Legally, you may need to have the work certified by an electrician, so make sure they're able to do this. Keep a copy of the certificate to show to any prospective buyers if you decide to move in the next few years.
+
+Home Wind Turbine Maintenance
+-----------------------------
+
+A properly installed wind turbine should last for about 30 years with minimal maintenance. However, carrying out annual maintenance is important to prolong the lifespan of the turbine. Those tasks may include:
+
+*   Inspecting the turbine for loose bolts and connections
+*   Tightening bolts and resecuring electrical connections
+*   Ensuring the guy wires are properly tensioned
+*   Inspecting the turbine for corrosion
+*   Replacing any worn leading edge tape on the turbine blades
+*   Replacing worn bearings
+*   Replacing worn or corroded blades
+
+Turbine installers will usually provide a maintenance plan and can recommend a qualified party to carry out regular maintenance. Some maintenance tasks are ones you can do yourself, as long as proper safety protocols are followed. If you're in any doubt about how to perform a maintenance task, seek professional advice. Do not attempt to work on a tall turbine, or with electrical connections, without training and safety equipment.

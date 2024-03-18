@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Space Heater Safety: How to Avoid Fires and Burns"
+headline: "Space Heater Safety Guide: 8 Tips to Avoid Fires and Burns"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-12-12
+basePath: https://library.homeserve.com/m/
+heroImage: 24c78ff6aaece0be/webimage-istock_535419859_sg.png
+heroAltDescription: "burning electrical socket and plug"
+metaDescriptions: "Learn these space heater safety tips to keep your home toasty without risking fires, burns or other issues."
+articleAbstract: "Space heaters can be used to warm up a small area quickly. They can also cause a fire or burn hazard if you don't use them properly. Learn a few space heater safety tips before using one in your home this winter."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Space Heater Safety Guide"
+  parent: Appliances
+---
+  Space heaters help keep your toes warm, whether your home furnace needs a little help keeping your house heated or you simply like some extra heat. Space heaters can be used to warm up a small area quickly. They can also cause a fire or burn hazard if you don't use them properly.
+
+**This May Also Interest You:** [**7 Best Space Heaters for Your Specific Needs**](https://www.homeserve.com/en-us/blog/buying-guide/seven-best-space-heaters/)
+
+Learn a few space heater safety tips before using one in your home this winter.
+
+Are Space Heaters a Fire Hazard?
+--------------------------------
+
+Space heaters can be a fire hazard if you don't use them correctly. The unit heats up to keep you warm, but that same heat can also set nearby items on fire. This often happens when you put the heater too close to a flammable item, such as furniture, curtains, paper or flammable liquids. It can also happen if something falls on top of the heater or the heater tips over and touches something flammable. Keeping at least 3 feet (1 meter) between all flammable items and your heater makes it less of a fire hazard. Only using it when you're around is another way to prevent fires.
+
+What’s the Safest Kind of Space Heater?
+---------------------------------------
+
+Each type of space heater has different safety concerns and safe practices. Portable heaters are powered either by electricity or some type of fuel — usually propane, kerosene or natural gas. Electric space heaters are usually safer because they eliminate pilot lights and flames. You also don't have to refill the fuel source, which creates more potential for injuries or fires.
+
+Among electric heaters, models with no exposed heating elements are safer when it comes to fire risks and burn risks. Examples of models with enclosed heating elements include oil-filled, hydronic and ceramic space heaters. If you can see a glowing coil or bulb, it's not as safe because the heat source is exposed and could easily cause burns or fires.
+
+Is It Safe to Leave a Space Heater on While Sleeping?
+-----------------------------------------------------
+
+The safest use for a space heater is when you're awake and the heater is attended. If it overheats or catches something on fire while you're sleeping, it takes longer for you to be alerted to the fire. This can result in more damage, and it increases the risk of someone getting stuck in the house due to smoke or flames. It's also best to use the space heater for only short periods at a time. If you run it all day and night, it could overheat.
+
+How Likely Is It for a Space Heater to Catch on Fire?
+-----------------------------------------------------
+
+Space heaters are generally safe. The fire risk usually happens if you don't follow safety precautions. Older space heaters also have a higher risk of fires because they don't have as many safeguards. Newer models have built-in safety features, such as auto-shutoff in case of overheating or a tip-over, as well as a GFCI plug. Look for a heater with ETL or UL certification, which means it meets higher standards.
+
+**More Related Articles:**
+
+*   [Why Am I Using So Much Heating Oil? Here’s How to Reduce Your Consumption](https://www.homeserve.com/en-us/blog/how-to/reduce-heating-oil/)
+*   [How Much Does It Cost to Replace an Oil Furnace](https://www.homeserve.com/en-us/blog/cost-guide/oil-furnace-replacement/)
+*   [4 Signs Your Boiler Needs to be Repaired or Replaced](https://www.homeserve.com/en-us/blog/home-improvement/boiler-repair-replacement/)
+*   [How Much Does Boiler Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-repair/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+
+How Do You Use a Space Heater Safely?
+-------------------------------------
+
+It's important to practice safety around all types of heat and flames. Here are eight tips to keep you safe around space heaters:
+
+**1\.** Use it on a solid surface that's level and out of the way of foot traffic.
+
+**2.** Plug in the cord directly to the outlet instead of using an extension cord.
+
+**3\.** To prevent carbon monoxide poisoning, choose a vented space heater if it's fueled by gas.
+
+**4\.** Have a carbon monoxide detector in your home if you use a fuel-powered heater or other appliances that use combustion.
+
+**5.** Find a model with automatic shut-off features in case of overheating or tipping.
+
+**6.** Check the unit and electrical cord regularly to look for signs of damage.
+
+**7\.** Avoid using space heaters in bathrooms or other areas with water to reduce the risk of shocks.
+
+**8.** Always unplug the space heater when you're done using it.
+
+Space Heater Safety With Kids
+-----------------------------
+
+Kids can be at an increased risk of getting burned by a space heater. Avoid using space heaters in your child's room, and always supervise your kids when they're in an area with a space heater. Teach them the dangers of touching the portable heater from a young age. Talk about not going near the space heater and not putting toys or other objects inside. Choose a space heater with housing that stays cool to the touch and enclosed heating elements to reduce the risk of burns.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/8mzG-IJupUA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

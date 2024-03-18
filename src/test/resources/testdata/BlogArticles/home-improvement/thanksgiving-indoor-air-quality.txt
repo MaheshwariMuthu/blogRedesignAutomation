@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Does Thanksgiving Impact Indoor Air Quality?"
+headline: "How Does Thanksgiving Impact Indoor Air Quality?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-11-25
+basePath: https://library.homeserve.com/m/
+heroImage: 678a1233f9fad796/Blog-CleanYourOven_MSchmitz_0001.jpg
+heroAltDescription: "view inside a dirty oven"
+metaDescriptions: "Discover why Thanksgiving is one of the worst times for indoor air pollution, including how to protect yourself from poor air quality this festive season."
+articleAbstract: "This article explains why indoor air pollution is often a problem over Thanksgiving. It also describes how to reduce air pollution inside your home over the festive period."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Does Thanksgiving Impact Indoor Air Quality?"
+  parent: HVAC-Home-Improvement
+---
+  
+
+When you think about Thanksgiving, what springs to mind? Chances are you don't immediately think of air pollution. However, hosting a crowd over this festive period could wreak havoc on your indoor air quality.
+
+**This May Also Interest You:** [**11 Home Maintenance Tasks and Repairs to Complete Before Holiday Guests Arrive**](https://www.homeserve.com/en-us/blog/home-improvement/prepare-for-guests/)
+
+The truth is that Thanksgiving is a problem time for indoor air pollution. Here’s how to protect your family from poor air quality.
+
+Why Is Thanksgiving One of the Biggest Days of the Year for Indoor Air Pollution?
+---------------------------------------------------------------------------------
+
+Thanksgiving is one of the biggest days of the year for indoor air pollution for a couple of reasons. You're more likely to cook food more regularly and for longer than you do on most other days of the year. As you'll learn later in this article, cooking food indoors can have a significant negative impact on indoor air quality.
+
+Outdoor air pollution is also generally a [bigger problem in winter](https://www.accuweather.com/en/health-wellness/why-air-pollution-is-worse-in-winter/689434) than it is in the summer. Cold, dry air holds on to pollutants more readily. As warm air rises, many pollutants remain trapped in the cold layer of air nearest the ground. Polluted outdoor air inevitably makes its way indoors. Therefore, the double whammy of increased outdoor air pollution and increased activities causing indoor air pollution makes Thanksgiving a likely flashpoint for indoor air quality issues.
+
+How Does Cooking Indoors Impact Indoor Air Quality?
+---------------------------------------------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/348091ba57b83666/Blog-GasStove_MSchmitz_0001.jpg" alt="A black gas range stovetop has all four burners on emitting blue flames under black metal stove grates."/>
+
+According to the [California Air Resources Board](https://ww2.arb.ca.gov/resources/documents/indoor-air-pollution-cooking), cooking on a natural gas or propane stove releases carbon monoxide and volatile organic compounds such as formaldehyde into the air inside your home. [Wood stoves and fireplaces](https://www.citizensforcleanair.org/air-pollution-sources-in-grand-valley/wood-burning-stove-air-pollution/) can also cause high levels of fine particle and polycyclic aromatic hydrocarbon pollution. Carbon monoxide, VOCs and PAH are toxic to humans and animals and could even be fatal in high concentrations. Therefore, it's essential to install a carbon monoxide detector and test it regularly.
+
+Although electric hobs and cookers are generally less polluting than gas or wood stoves, you could still significantly increase the pollution inside your home if you cook food at a high temperature or let it burn. Doing so releases pollutants that cause various unpleasant symptoms, including airway irritation and headaches.
+
+Self-cleaning ovens can also cause pollution issues because they burn food residue at extremely high temperatures. Even bread toasters can increase the number of pollutant particles in your home, especially if you like your toast well done.
+
+**More Related Articles:**
+
+*   [Cooked to Odor: How to Get Rid of Lingering Cooking Smells](https://www.homeserve.com/en-us/blog/how-to/get-rid-of-cooking-smells/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [Sick Burn! 3 Ways to Clean That Nasty-Looking Scorched Pan](https://www.homeserve.com/en-us/blog/how-to/clean-scorched-pan/)
+*   [Should You Use Your Oven’s Self-Cleaning Feature — and If So, How?](https://www.homeserve.com/en-us/blog/how-to/oven-self-cleaning-feature/)
+
+What Are Some Other Sources of Indoor Air Pollution?
+----------------------------------------------------
+
+Cooking is one of the primary causes of indoor air pollution, but there are several other sources that you should be aware of. These include:
+
+*   Tobacco smoke
+*   Cleaning products
+*   Pesticides
+*   Asbestos
+*   Pressed wood products containing formaldehyde
+
+How Can You Improve Indoor Air Quality?
+---------------------------------------
+
+One of the simplest things you can do to improve indoor air quality at Thanksgiving and throughout the year is to ventilate cooking areas using an extractor fan hood or exhaust fan. If you don't have one, you can open windows to stop pollutants from building up.
+
+Many people worry that opening windows will simply let more outdoor air pollution inside their homes and compound the problem. However, studies by the [U.S. Environmental Protection Agency](https://www.epa.gov/iaq-schools/why-indoor-air-quality-important-schools) show that indoor air is often between two and five times more polluted than the air outdoors. Therefore, it's usually better for your indoor air quality to open windows than to allow pollutants from indoor sources to accumulate.
+
+Many household cleaning products and air fresheners — including scented candles and incense — contain chemicals that can cause skin and airway irritation. Switching to natural products like vinegar-based cleaners can significantly improve your indoor air quality. If someone in your household smokes, it's safest to ask them to smoke outside to prevent others from breathing in pollutants found in tobacco smoke.
+
+Finally, consider installing air filters to remove some of the pollutants from your indoor air. Ensure that any filter you use is a [high-efficiency particulate air](https://www.epa.gov/indoor-air-quality-iaq/what-hepa-filter-1) (HEPA) filter because these filters can remove around 99.97% of common indoor pollutants.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

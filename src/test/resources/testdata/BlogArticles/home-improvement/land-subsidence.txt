@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is Land Subsidence and How Do I Know It It's Happening to My Home?"
+headline: "What Is Land Subsidence and How Do I Know It It's Happening to My Home?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-09-01
+basePath: https://library.homeserve.com/m/
+heroImage: 1b733c94d9d35704/Blog-GettyImages-1420186775.jpg
+heroAltDescription: "Destroyed concrete flooring due to subsidence of the base soil"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Land subsidence can be expensive and stressful to treat, so it's essential to know the warning signs so you can catch the problem early."
+articleAbstract: "Land subsidence can be expensive and stressful to treat, so it's essential to know the warning signs so you can catch the problem early."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is Land Subsidence and How Do I Know It It's Happening to My Home?"
+  parent: Exterior-Home-Home-Improvement
+---
+  Sticky windows or wall cracks aren't just everyday annoyances — they could be signs of land subsidence.
+
+**This May Also Interest You:** [**How Much Does Foundation Repair Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/foundation-repair/)
+
+Land subsidence can be expensive and stressful to treat, so it's essential to know the warning signs so you can catch the problem early.
+
+What Is Land Subsidence?
+------------------------
+
+[Land subsidence](https://www.usgs.gov/special-topics/water-science-school/science/land-subsidence) happens when water is removed from rocks in the earth, causing the ground to sink. Human activities, such as groundwater pumping, are the most common causes of subsidence. While ground subsidence can sometimes lead to sinkholes, you may not notice sinking ground over wider areas.
+
+Soil subsidence beneath your home can cause structural issues. It's a global problem, but it happens more frequently in areas with aquifer systems drawing large amounts of water from the ground. Land subsidence causes particular issues in certain states, including California, Texas and Florida.
+
+What Are the Signs of Ground Subsidence?
+----------------------------------------
+
+Sinking ground can cause your home's foundation to move and crack. A certain amount of settling is normal and happens in all houses. However, the increased movement caused by land subsidence can lead to serious cracks in the walls and ceilings. You may notice wide cracks that expand rapidly or track diagonally across the interior or exterior of your home. Subsidence cracks often appear near doors and windows and may be wider at the top. More severe cracks are often visible from both inside and outside your home.
+
+Foundation movement due to land subsidence can cause other issues. Aside from wall cracks, common warning signs of subsidence include:
+
+*   Noticeably sloped floors
+*   Stuck or misaligned doors and windows
+*   Gaps behind skirting boards
+*   Creased wallpaper
+*   Cracks around the joints where an addition meets the rest of your home
+
+**More Related Articles:**
+
+*   [Make Sure Your Window Wells are Well Maintained With This Checklist](https://www.homeserve.com/en-us/blog/home-improvement/window-well-maintenance/)
+*   [How Much Does It Cost to Install or Replace a Basement Window Well?](https://www.homeserve.com/en-us/blog/cost-guide/window-well-replacement/)
+*   [6 Ways to Make Your Window Wells Look Great From the Inside or Outside](https://www.homeserve.com/en-us/blog/how-to/decorate-window-wells/)
+*   [How to Install or Replace a Window Well](https://www.homeserve.com/en-us/blog/how-to/window-well-installation/)
+*   [How Much Does It Cost to Waterproof a Basement?](https://www.homeserve.com/en-us/blog/cost-guide/basement-waterproofing/)
+
+Can You Stop Land Subsidence?
+-----------------------------
+
+Homeowners often can't do anything to stop land subsidence because it's generally caused by large-scale groundwater pumping. Governments can [manage land subsidence](https://www.washingtonpost.com/climate-solutions/2023/06/05/land-sinking-cities-recharge/) by installing aquifer recharge systems and reducing activities that cause subsidence.
+
+Occasionally, subsidence occurs due to large-scale leaks or tree roots intruding on your home's foundation. You can sometimes prevent the situation from worsening by removing trees or fixing leaks. Repairing major leaks affecting your home's foundation usually costs between $2,500 and $5,000 (CAD 3,352 and CAD 6,705).
+
+You may need to underpin your house if you have severe subsidence. Underpinning means reinforcing your foundation to stop it from moving. Hydraulic piers stabilize your home by rooting the foundation deeply in the ground. According to [HomeGuide](https://homeguide.com/costs/foundation-repair-cost), repairing a foundation costs between $4,000 and $10,000 (CAD 5,364 and CAD 13,409). Installing piers costs around $1,000 to $2,000 (CAD 1,341 to CAD 2,682) per pier, and most homes require at least eight piers.
+
+Depending on the extent of the damage, you may also need to repair cracks and other forms of structural damage. Contractors repair subsidence cracks by filling them with epoxy resin, which costs $250 to $800 (CAD 335 to CAD 1,073) per crack. Repairing warped walls typically costs between $5,000 and $15,000 (CAD 6,705 and CAD 20,114).
+
+What to Do If You Notice Signs of Land Subsidence
+-------------------------------------------------
+
+Land subsidence is a serious issue because it impacts your home's stability and makes it more vulnerable to collapse. Furthermore, large cracks can cause your home to leak, increasing the risk of mold and structural issues. Subsidence can also significantly devalue your home, so it's important to consult a professional as soon as you notice the warning signs.
+
+A structural engineer can diagnose subsidence and determine the best way to treat the issue. Hiring a structural engineer to assess your home typically costs between $500 and $3,000 (CAD 670 and CAD 4,023). Your engineer may ask you to get a soil report, which costs $500 to $3,000 (CAD 670 to CAD 4,023) on average.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Water Line Repair and Replacement | What You Can Expect to Pay"></iframe>

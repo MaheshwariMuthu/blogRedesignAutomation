@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------
+|ArticleName				|Title	|Author	|Date	|Image	|
+--------------------------------------------------------------------------
+|refinish-hardwood-floors			|Pass	|Pass	|Pass	|Pass	|
+|types-of-screwdrivers			|Pass	|Pass	|Pass	|Pass	|
+|improve-home-air-quality			|Pass	|Pass	|Pass	|Pass	|
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|ArticleName				|Heading		|Paragraph		|Link			|List			|Image			|Video			|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|refinish-hardwood-floors			|Pass: 9 Fail: 0	|Pass: 8 Fail: 0	|Pass: 2 Fail: 0	|Pass: 8 Fail: 1	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|
+|types-of-screwdrivers			|Pass: 13 Fail: 0	|Pass: 30 Fail: 0	|Pass: 13 Fail: 1	|Pass: 2 Fail: 0	|Pass: 5 Fail: 1	|Pass: 0 Fail: 0	|
+|improve-home-air-quality		

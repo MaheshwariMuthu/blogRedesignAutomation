@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is Freon? "
+headline: "Everything You Need to Know About Freon"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-02-16
+basePath: https://library.homeserve.com/m/
+heroImage: 5dfc815d13d7081c/Blog-GettyImages-991149522_Red_Bag.jpg
+heroAltDescription: "ac compressor"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Freon is a refrigerant in some AC units. Here’s a crash course on Freon, plus how to tell whether your system uses it."
+articleAbstract: "All AC systems — regardless of size — need a refrigerant in order to cool your home. Here’s a crash course on Freon, plus how to tell whether your system uses it."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Everything You Need to Know About Freon"
+  parent: HVAC-Home-Improvement
+---
+  So … You heard that Freon is banned, and now you're wondering if your cooling system uses it. Or, perhaps you've had an HVAC tech mention that your system's refrigerant is creeping up in price.
+
+**This May Also Interest You:** [**New to BTUs? Here’s What to Know About BTUs When Shopping for an Air Conditioner**](https://www.homeserve.com/en-us/blog/home-improvement/btu-air-conditioning/)
+
+All AC systems — regardless of size — need a refrigerant in order to cool your home. There are several different types, including Freon. Here’s a crash course on Freon, plus how to tell whether your system uses it.
+
+What Is Freon and What Is It Used For?
+--------------------------------------
+
+Many people use Freon as a generic term to describe all refrigerants, but it's technically a specific type. Freon is the trademarked name for R-22 refrigerant. A non-combustible gas, Freon is the refrigerant used in older AC units, including central air and mini-split systems. It circulates inside the AC unit, switching between gas and liquid forms to cool your home. You don't use up Freon during this process because it's a closed system, but your system can become low if there's a leak or other issues. Freon is also sometimes used in stand-alone freezers. Air conditioners made after 2003 likely use a different kind of refrigerant.
+
+Is Freon Banned?
+----------------
+
+Freon itself isn't banned, but the production and import of R-22 refrigerant are banned. The Freon that's already in existence can still be used, but the supplies will eventually dwindle without new production. Freon started to be phased out in the early 90s. While it's an effective refrigerant, it's also bad for the ozone layer when it's released into the environment. The main component in Freon is thought to contribute to global warming.
+
+Is It Still Manufactured?
+-------------------------
+
+Freon is no longer being manufactured, and it can't be imported into the United States. It has been going through a phase-out process. Manufacturers stopped making it in 2010 for new equipment. It continued to be produced for equipment that was already in service until 2020. After January 2020, manufacturing stopped, and the only Freon available going forward was the existing supply and any recycled Freon that's collected from older units. Due to the low supply, the price of Freon has increased.
+
+How Do I Know If My AC Unit Uses Freon?
+---------------------------------------
+
+The age of your unit is one indicator. If your AC was made in 2015 or later, it won't have Freon in it. Instead, it uses a safer refrigerant. Some air conditioners produced in December 2014 and earlier still used R-22 refrigerant.
+
+You can also tell by looking at the label that's on the unit. You can usually find it affixed to the compressor unit that's outside of your home. It should say the type of refrigerant. If you see "R-22" or "HCFC-22," your unit uses Freon. The replacement refrigerant is R-410A, so if you see this code on the label, you're in the clear. You can also ask your HVAC professional during your next tune-up, which should happen at least once per year.
+
+**More Related Articles:**
+
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [So You AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [Got Central Air? Use This Top-to-Bottom Air Conditioner Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist/)
+*   [Hot or Cold in Your Household? Split the Difference with a Mini Split Air Conditioner](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+
+Do I Need to Replace My AC Unit If It Uses Freon?
+-------------------------------------------------
+
+If your air conditioner uses Freon, you don't need to replace it _immediately_. There are no laws prohibiting you from using an R-22 system. As long as it's working well, you don't need to worry about the refrigerant since it doesn't need to be routinely topped off.
+
+However, if your AC system develops a leak, your only option to recharge the refrigerant is finding an HVAC technician with access to the existing supply of Freon. The price of Freon continues to grow since it's limited, and it will continue to be difficult to find Freon as more of the supply gets used.
+
+And, no, you can't simply start using the newer refrigerant type. The system relies on pressure to compress the gas, and the required pressure is different based on the type of refrigerant. You can have your system retrofitted to use the new refrigerant, but it's likely not a cost-effective option. If your unit is older anyway, it might not have much life left before more things start going wrong.
+
+You might decide to replace your Freon-using air conditioner if it's near the end of its life. A central air conditioner typically lasts between 12 and 17 years, according to [Bob Vila](https://www.bobvila.com/articles/how-long-does-an-air-conditioner-last/). If your air conditioner doesn't work well or has needed several repairs lately, replacing it might be a better option. Your new air conditioning system will have the newer refrigerant, which is better for the environment. It's easier and cheaper to recharge if your new system develops a leak in the future. Plus, a new air conditioner will likely be more energy-efficient, which can lower your utility bills.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

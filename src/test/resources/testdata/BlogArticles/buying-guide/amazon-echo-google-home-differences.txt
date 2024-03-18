@@ -1,0 +1,58 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 'Amazon Echo vs. Google Home: Which should you buy?'
+headline: 'Amazon Echo vs. Google Home: The voice command speaker battle begins'
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2018-11-08
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: google-home.png
+heroAltDescription: Google Home Assistant
+metaDescriptions: Amazon and Google have been going back and forth in a battle for smart speaker domination. Find out which device is best for you.
+articleAbstract: In today’s high tech world, the battle has amped up between smart speaker giants Amazon Echo® vs. Google Home®. Both get good reviews – but which one deserves to get top billing?
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: 'Amazon Echo vs. Google Home: Which should you buy?'
+  parent: Interior-Home-Buying-Guide
+---
+
+The Amazon Echo® vs. Google Home® debate has people picking sides. There are super fans dedicated to each brand. Which makes choosing a smart speaker a difficult decision. Here's some guidance to help you choose.
+
+[1]: {{ migrationData.planspage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+
+::: blog-info
+## The comparisons
+
+Both smart speakers have a similar repertoire of features and capabilities. However, a significant difference is that the Amazon Echo® is a few years older than the Google Home®, which means it currently has a longer list of features and partners. It’s important to read up on each devices and the services that each speaker supports (such as smart thermostats, lighting, Spotify®, YouTube®, Uber® and Netflix®) - to see which brand offers the features that you want and are most likely to use.
+
+[Learn More About Home Repair Plans Near You]({{ migrationData.planspage }}){target="_blank"}
+
+Of course, each smart speaker supports its own platforms, making the choice easy if you are already team Amazon® or team Google®. For instance, those obsessed with Amazon Prime® may lean toward the Echo while those who are already using Google Play Music® and Chromecast® may head in the direction of the Home.
+
+Smart speakers aren’t visually works of art, but each brand does offer a selection of colors and finishes to meet your design and interior decor preferences. As far as price goes, the Google Home® is slightly more expensive than the Amazon Echo®.
+
+## The offerings
+
+Both brands offer a family of smart speakers. Amazon® has the original, plus a smaller Amazon Echo Dot® and the more advanced Amazon Echo Plus®. Google® has versions called the Mini and the Max. New Amazon Echo® offerings also include the Spot, Show and Look, which have screens to accompany the speaker. 
+
+While the smaller smart speakers are comparable in price, the Google Home Max® is far more expensive than the Amazon Echo Plus®. The reasoning is that the Max can do everything the original can do, but it has far superior speaker quality. It’s designed for music lovers who want high audio quality with the bonus of smart features.
+
+[Get a Home Repair Plan Today]({{ migrationData.planspage }}){target="_blank"}
+
+## The decision
+
+Remember: one smart speaker does not fit all. That's why the best buying advice we can give you is to make your choice based on the features that are most important to you. Think about how you envision yourself using a smart speaker on a daily basis, and go for the one that best lends itself to your expectations. If you're a die-hard fan of either Amazon® or Google®, then your brand allegiance might make the decision easy for you.
+
+You can also lean on tech experts to help sway your decision based on their insider knowledge. For example, _Business Insider_ [favors the Amazon Echo®](https://www.businessinsider.com/best-smart-speaker-amazon-echo-vs-google-home){target="_blank"} when it comes to capability, services and security, but they give the Google Home® the win for voice recognition and search. The speakers tied on design and sound quality. While the tech experts at _Wirecutter_ had good things to say about both smart speaker brands, but the [Amazon Echo® earned the top slot](https://thewirecutter.com/reviews/amazon-echo-vs-google-home/){target="_blank"}. _Consumer Reports_ offered a more unbiased perspective, highlighting them as [two of the best smart speakers on the market](https://www.consumerreports.org/cro/smart-speakers/buying-guide/index.htm){target="_blank"}. (And while you’re in research mode, consider these top smart home automation solutions.)
+:::
+
+Your smart speaker may be able to tell you weather predictions, but it can't give you a warning when your home systems decide to break down.
+
+That’s why being prepared before home repair issues arise is always a good strategy. Plans from HomeServe can help with the costs of covered repairs. [See what plans]({{ migrationData.homepage }}){target="_blank"} are available in your area.
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}

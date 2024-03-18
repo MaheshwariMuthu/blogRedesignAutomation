@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why You Need to Have Your Insulation Inspected"
+headline: "Why You Need to Have Your Insulation Inspected"
+author: John Warbuck
+tags: ["post"]
+publishDate: 2023-08-09
+basePath: https://library.homeserve.com/m/
+heroImage: 79db1b97a3263d5/Blog-GettyImages-501533193.jpg
+heroAltDescription: "Architect Checking Insulation During House Construction"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Checking your home for insulation problems can save you money on energy bills and reveal problems before you need to make repairs."
+articleAbstract: "Checking your home for air leaks and insulation problems can save you money on energy bills and reveal minor problems before you need to make major repairs."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why You Need to Have Your Insulation Inspected"
+  parent: HVAC-Home-Improvement
+---
+  When was the last time you had a home insulation inspection? (Hint: “Never” is _not_ a great answer.)
+
+**This May Also Interest You:** [**How to Use Insulation to Save Energy and Money**](https://www.homeserve.com/en-us/blog/home-improvement/insulation-tips/)
+
+Checking your home for air leaks and insulation problems can save you money on energy bills and reveal minor problems before you need to make major repairs.
+
+What Is an Insulation Inspection?
+---------------------------------
+
+A home insulation inspection can reveal problems about your home you never considered. For example, if you purchased an older home, you may want to know if the insulation in your attic contains asbestos so that you can replace it with newer insulation. What you can learn from an insulation inspection includes:
+
+*   Whether you’ve lost insulation due to pests, water damage or roof damage
+*   If your insulation is keeping inside air in and outside air out
+*   An estimate of how much energy you’re wasting on energy to heat or cool your home
+
+A home insulation inspector will measure how thick your insulation is in your walls, attic, roof and ceilings. They also look for signs of damaged insulation, such as discolored pieces of insulation, loose fibers or granules. 
+
+Does a Professional Need to Perform the Inspection?
+---------------------------------------------------
+
+If you’re planning to sell your home or you need to certify the results of an attic insulation inspection or roof inspection, you need to hire a professional inspector. You can perform routine inspections yourself if you take adequate safety precautions and know what to look for throughout your home.
+
+### Safety
+
+Due to the risks, it’s recommended you wear a hard hat, eye protection and a ventilator mask when you’re inspecting insulation. Be careful when working in tight spaces, and stay mindful of any fibers that could contaminate your clothing during the inspection. Use foot protection to avoid injuries from nails on walking surfaces.
+
+### Correct Insulation Levels
+
+If you experience colder winters, you need to maintain higher insulation levels in your home. You can refer to [this guide](https://www.energystar.gov/saveathome/seal_insulate/identify_problems_you_want_fix/diy_checks_inspections) for the correct insulation levels in your walls, attic and roof.
+
+### Air Leaks
+
+Checking for air leaks in your home can be tricky. Some methods people use when inspecting their homes themselves include using a flashlight to see if light escapes through insulated areas of the home or burning incest to track the path of the smoke. If the smoke escapes from the walls, attic or roof, there is an air leak in your insulation.
+
+### When to Call a Professional
+
+If you have any concerns regarding asbestos contamination or don’t have adequate experience working with home insulation, it’s easier to schedule an inspection than to perform one yourself.
+
+**More Related Articles:**
+
+*   [How Much Does an Insulated Garage Door Cost?](https://www.homeserve.com/en-us/blog/cost-guide/insulated-garage-door/)
+*   [How to Draft-Proof Your Home](https://www.homeserve.com/en-us/blog/how-to/draft-proof-home/)
+*   [How to Insulate Windows](https://www.homeserve.com/en-us/blog/how-to/insulate-windows/)
+*   [How Much Does It Cost to Insulate Your Attic?](https://www.homeserve.com/en-us/blog/home-improvement/attic-insulation/)
+*   [Here’s How to Apply Plastic Film to Insulate Your Windows](https://www.homeserve.com/en-us/blog/how-to/window-insulation-film-installation/)
+
+When Do You Need to Have a Home Insulation Inspection?
+------------------------------------------------------
+
+It’s best practice to perform a roof insulation inspection whenever you’ve done repair work on your roof. You should also schedule an annual inspection every fall so that you’re able to make repairs before the winter.
+
+Other occasions for performing a home insulation inspection include:
+
+*   When preparing your home for sale or when purchasing a new home
+*   Immediately following any work on your home that could expose or disturb your insulation
+*   Whenever you’ve discovered water damage or pests in your home
+
+How Much Does an Insulation Inspection Cost?
+--------------------------------------------
+
+A home insulation inspection could cost up to $800 (CAD 1,060). The [average cost in the U.S.](https://www.fixr.com/costs/home-inspection) is closer to $400 (CAD 530). The factors that affect insulation inspection costs include:
+
+*   The location, size and type of home you own
+*   Whether you’re including an inspection of your HVAC system
+*   How many levels of your home an inspector needs to reach, such as crawl spaces, a basement or an attic
+*   The methods used to test your insulation levels
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Insulate Windows | Cheap and Easy with Plastic Film"></iframe>

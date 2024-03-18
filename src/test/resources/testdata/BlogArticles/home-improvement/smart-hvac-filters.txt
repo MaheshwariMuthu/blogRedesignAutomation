@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Smart Air Filter: How Do They Work?"
+headline: "Smart HVAC Filters: What Are They and How Do They Work?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-02-09
+basePath: https://library.homeserve.com/m/
+heroImage: 1738ec252faae563/webimage-hvac-repair-full.png
+heroAltDescription: "replace filter"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Inspired to keep healthier indoor air? Smart air filters might be the solution you’re looking for."
+articleAbstract: "Inspired to keep healthier indoor air? Smart air filters might be the solution you’re looking for. Here's everything you need to know."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Smart HVAC Filters: What Are They and How Do They Work?"
+  parent: HVAC-Home-Improvement
+---
+  For some reason, remembering to replace your home's air filters on time can feel like an impossible task. After all, you don’t necessarily _see_ them every day, and indoor air quality can be a hard thing to notice if you’re not actively monitoring it. Not to mention the million other items you have bearing down on you from your to-do list. It can often feel like too much.
+
+**This May Also Interest You:** [**Does My HVAC Filter Protect Against COVID-19?**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-filter-covid-19/)
+
+Replacing your filters every 90 days is really important. Clean air quality plays a vital role in our everyday [health and wellbeing](https://community.aafa.org/blog/why-healthy-indoor-air-quality-is-important). And having a dirty or clogged air filter can lead to higher [energy bills](https://www.bioenergyconsult.com/impact-of-clogged-air-filters/) as well.
+
+If remembering to replace your air filters on time feels like a herculean feat, then you may want to consider purchasing one that lets _you_ know when it needs to be replaced.
+
+What’s a Filtrete Smart Air Filter?
+-----------------------------------
+
+Air filters are some of the latest home care products that have made the jump into the smart home arena. The first of its kind, the [Filtrete Smart Air Filter](https://www.filtrete.com/3M/en_US/filtrete/products/~/Filtrete-Smart-MPR-2200-Premium-Allergen-Home-Pollutants-Air-Filters/?N=4315+3288870279+3294529207&rt=rud) keeps tabs on your heating and cooling system and will alert you when your filters need replacing. Not only do you get that much-needed reminder, but you’re able to check the [Filtrete Smart App](https://www.filtrete.com/3M/en_US/filtrete/smart-app/?utm_campaign=ba_filtrete_smart_air_filters&utm_medium=cpc&utm_source=google&utm_content=learn_b&utm_term=cbg-chim-filt-en_us-eng-filtrete_smart_air_purifi-cpc-google-na-na-na-jan21-na&gclid=CjwKCAiAz--OBhBIEiwAG1rIOm1cZpKoFhImLePG2aOtnEVsibNmRLC8tdNXEt2KrK_50vpJ5NBuJBoCB7IQAvD_BwE) to see how much life your filter has at any point in time.
+
+How Does the Filtrete Smart Air Filter Work?
+--------------------------------------------
+
+Filtrete’s Smart Air Filters come built with a small, Bluetooth-powered pressure sensor that monitors the airflow, fan speed and air quality of your HVAC system. The sensor on the filter detects changes in airflow over time. From there, the app determines how much life your filter has left.
+
+When it’s time to replace the filter, Filtrete’s app will show you what size filter you’ll need — and how many you’ll need — making it a useful addition to if your home has multiple filter locations, or if you have multiple properties. Filtrete also makes it easy to purchase replacement filters as well — either pointing you toward retailers near you that sell Filtrete products, or by shipping them directly to you.
+
+The Filtrete app also provides you with accurate data about your local air quality. By monitoring outdoor air pollution, you’ll be extra inspired to keep clean air in your home year-round.
+
+**More Related Articles:**
+
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [How Much Do UV Lights Cost for HVAC Systems?](https://www.homeserve.com/en-us/blog/cost-guide/uv-lights-hvac/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+
+Are Smart Filters Worth the Cost?
+---------------------------------
+
+Filtrete Smart Air Filters are convenient and simple to use, but they aren’t without their shortcomings. While the filters use smart technology to keep you up to date on the status of your indoor air quality, they lack some of the more integrative features inherent to other smart devices. For one, the filters won’t work with Amazon Alexa or Google Assistant. Similarly, the smart features operate solely from Bluetooth and don’t use Wi-Fi connectivity. So, if your filters are in the far reaches of your home — say, in a basement or crawlspace — you might lose some communication.
+
+These smart filters are only around $5 (CAD 6) more than other leading air filter brands, which isn't too shabby considering the fact that you’ll pretty much never leave your filter in long past its change date again. Filtrete uses MPR, or microparticle performance rating, to rate how well the filter captures microparticles. Filtrete’s smart filters capture particles between 0.3 and 1 micron in size, which include bacteria and viruses.
+
+Keeping Your Family Safe and Healthy
+------------------------------------
+
+According to the EPA, indoor air pollution is one of the top five [environmental risks](https://www.neefusa.org/health/asthma/health-impacts-indoor-air-quality#:~:text=Currently%2C%20indoor%20air%20pollution%20is,environmental%20risks%20to%20public%20health.&text=Indoor%20air%20pollutants%20can%20cause,worsened%20asthma%20symptoms%20among%20asthmatics.) to public health. That’s why it’s crucial to maintain the air inside your home. Luckily, it’s never been easier to ensure that you are replacing your HVAC filters as needed. By using smart air filters, you can keep tabs on the life of your air filters.
+
+You can take it a step further with a [Filtrete Smart Air Purifier](https://www.filtrete.com/3M/en_US/filtrete/products/smart-air-purifiers/?utm_campaign=is_filtrete_air_purifier&utm_medium=cpc&utm_source=google&utm_content=pdp_b&utm_term=cbg-chim-filt-en_us-is-filtrete_air_purifier_-cpc-google-na-na-na-apr21-na&gclid=CjwKCAiAz--OBhBIEiwAG1rIOsryEpr5feG7damO6k3x4qycDkUrGpmedtpe9bB4bTagQ-x1ekB90hoCDB4QAvD_BwE). These smart air purifiers are designed with True HEPA filters to ensure maximum filtration to maximize the healthiness of your home air. The best part? Sync them to the Filtrete Smart App, and suddenly you have an air quality control “hub” at your fingertips.
+
+Inspired to keep healthier indoor air? Smart air filters might be the solution you’re looking for.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

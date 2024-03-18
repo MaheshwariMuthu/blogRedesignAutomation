@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 'Things to do during COVID-19: Easy Home Improvement projects'
+headline: Keep busy during COVID-19 with these easy Home Improvement projects
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2020-04-10
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: home-improvement-covid-01-full.jpg
+heroAltDescription: 'Things to Do COVID-19: Easy Home Improvement Projects'
+metaDescriptions: If your family is looking for things to do while you shelter in place, these easy DIY home improvement projects will keep you busy.
+articleAbstract: If your family is looking for things to do while you shelter in place, these easy DIY home improvement projects will keep you busy.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: 'Things to Do COVID-19: Easy Home Improvement Projects'
+  parent: Home Improvement & Maintenance
+---
+
+::::: blog-info
+Don’t get me wrong — I cherish my family and the wonderful place we call home. But I don’t exactly love being cooped up with everyone in the house, even though I know how important it is for helping to flatten the curve and preventing the spread of coronavirus.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+Earlier this week I resolved to tackle all of the little irksome projects I've been putting off, one by one — and assigned everybody to a different zone around the house. The results? It’s helping us stay occupied and out of each other’s hair, plus our place is looking better than ever! 
+
+If your family is looking for things to do while you shelter in place, these easy DIY home improvement projects will keep you busy. In some areas, home improvement stores remain open. Just adhere to the [CDC’s COVID-19 guidance](https://www.cdc.gov/coronavirus/2019-ncov/index.html){target="_blank"} before going out. (In my state, we are asked to enforce the social distance guidelines and to wear a mask while out and about in the community.)
+
+## Organize your Closet or Garage
+
+Since the weather is starting to get nicer, a [garage cleanout](/en-us/blog/home-improvement/garage-organization-tips){target="_blank"} is a great project that gives you fresh air, a bit of a workout with all the heavy lifting and a major sense of accomplishment when it’s done. 
+
+Start by sweeping out the winter dirt and debris so you have a cleaner space to work with. Then gather everything in one place. Sort the belongings you plan to keep into heavy-duty plastic storage tubs and put them on sturdy shelving, then bundle up the rest in either garbage bags or donation bags.
+
+## Install a Closet System
+
+If it’s not so nice outside, get your closet in shape instead. Your basic process will be the same, but installing a [practical closet system](/en-us/blog/home-improvement/closet-organization-storage-ideas){target="_blank"} is a straightforward project that will help you keep your clothes more organized day-to-day. 
+
+## Tackle Patio improvement projects
+
+Summer is right around the corner. Now’s the time to re-lay your wobbly patio bricks, give the bench a fresh coat of paint or build the DIY firepit of your dreams. Maybe you want to clean out your shed — or put a new one up. If there are any similar outdoor projects you put on your “To-Do Someday” list, now is definitely the chance to get going. 
+
+## Get your Garden in shape
+
+The start of spring is also your opportunity to rid your flower beds and lawn of pesky weeds. With those out of the way, establish a plan for which vibrant annuals and delicious edibles you’ll be planting after the last frost date. If you dream big, plan diligently and work hard, you might just end up with a restful garden getaway that will feel like an oasis in your own backyard.
+
+## Patch up your Window and Door Screens
+
+As you open up the windows and doors to let the fresh air in, you definitely don’t want to invite insects into your home. Why not take a few minutes to examine each window and door screen for holes, then cover them up with a simple screen patch? If it’s looking really bad you may want to consider [replacing the entire screen](/en-us/blog/how-to/fix-screen-door){target="_blank"}.
+
+## Make your Home smarter
+
+Upgrading to smart home appliances can make a big difference. Try [installing a smart thermostat](/en-us/blog/how-to/install-thermostat){target="_blank"} so that your heating and cooling system can learn your routine and keep your electricity bills lower. You may also want to consider setting up other smart home systems like lighting, security cameras or speakers to make life that little bit easier.
+
+## Find a Home Repair Plan
+
+With an essential home system, you don’t always appreciate what you’ve got until it’s not working. Protect your family from the stress and financial burden of a heating and cooling, plumbing or electrical home system breakdown with a good repair plan. See what [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} are available in your area.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+:::::

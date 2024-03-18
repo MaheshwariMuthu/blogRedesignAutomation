@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: What to do if your Dryer won't spin
+headline: What to do if your Dryer won't spin
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2019-08-08
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: LaundryHS.jpg
+heroAltDescription: Doing Laundry
+metaDescriptions: Dealing with dryer belt, drum roller, idler pulley issues with your clothes dryer? Put a home warranty plan in place before it goes on the fritz.
+articleAbstract: Having issues with your clothes dryer? Having a home warranty plan in place before it goes on the fritz can help with covered costs.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: What to do if your Dryer won't spin
+  parent: Appliances
+---
+
+I remember the days of living in an apartment with a shared [washer and dryer](/en-us/blog/buying-guide/best-washing-machines){target="_blank"}. Waiting for one to be available, adding in my quarters, only to realize the machine was broken. It was an irritating experience to say the least, but now that I have my own washer and dryer, I'm living the dream. This, among all the other grown-up appliances I have to myself, is one of homeownership's key perks.
+
+[1]: https://www.homeserveusa.com/totalhomewarranty
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+:::: blog-info
+On the other hand, I can no longer complain to the landlord or building manager when the dryer stops spinning or encounters other problems, and then wait for everything to be fixed. It's my responsibility to troubleshoot the issue and devise the right plan of action now.
+
+So let’s look at some common issues that dryers encounter and how to approach them:
+
+## Make sure it's not a false alarm
+
+In some cases, a dryer might not run properly or dry your clothes because of a few simple issues. Trust me: Right after I bought my dryer, I once mistook an overloaded machine for a real, serious problem. In reality, the dryer had a feature that stopped it from running when it was overloaded, as a fire safety measure. _(Total rookie mistake.)_
+
+A quick look at the owner's manual clued me in, so be sure to read yours. FYI, some models have a similar feature that's set off by a lint-saturated screen instead of the machine's capacity.
+
+[Learn More About Home Repair Plans Near You](https://www.homeserveusa.com/totalhomewarranty){target="_blank"}
+
+## Diagnosing the problem
+
+There are a number of part-related malfunctions that stop a dryer from spinning. (Before checking for any of these potential part failures, be sure to stay safe and unplug your dryer to minimize the risk of electric shock.)
+
+::: list-square
+* ### Belt:
+According to _PartSelect_, a dryer belt that's [worn down or broken](https://www.partselect.com/Repair/Dryer/Will-Not-Tumble/){target="_blank"} won't properly turn the dryer's drum wheel even if the motor is working properly.
+* ### Idler pulley assembly:
+Over time, this part of the dryer - which adds tension to the belt so that it stays taut when clothes are loaded, and the machine is operating - can wear down. This problem usually creates a high-pitched squeaking sound at first, which then transitions to a lower and more abrasive scraping noise.
+* ### Motor:
+If you're hearing a humming noise from the dryer but the drum wheel won't turn, _DoItYourself_ classifies that as [a good sign of a motor problem](https://www.doityourself.com/stry/howdryerswork){target="_blank"}.
+* ### Capacitor:
+When the motor will start to turn the wheel but then stops once it has to reverse, your capacitor might be shorting out.
+:::
+
+## Go DIY or get professional repairs?
+
+To check on problems with the belt, pulley and drum rollers, follow these steps:
+
+Carefully remove the appliance's front panel.
+Try to gauge how flexible the belt is.
+If the belt moves slowly, that's a good thing; the opposite is not.
+In the idler pulley assembly, check if elements including the springs are weak and without tension. If so, that's a good sign.
+
+If you have some successful DIY experience with appliances, it's possible to replace parts like the belt and pulley yourself - you can order many of them online or find them at your local appliance retailer. Motors and capacitors are another thing entirely, and you shouldn't try to replace or repair either one of them on your own unless you have these skills. There's no shame in calling in the professionals when a dryer or any other appliance kicks the bucket.
+::::
+
+Don't be left high and (not) dry when a clothes dryer breaks down. Be prepared in advance with a [plan from TotalHome Warranty by HomeServe](https://www.homeserveusa.com/totalhomewarranty/plans-pricing){target="_blank"} as it can help with the costs of covered appliance and home system repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}

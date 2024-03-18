@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Signs Your Water Heater Isn't Working"
+headline: "5 Tell-Tale Signs Your Water Heater Isn't Doing So Hot"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-11-15
+basePath: https://library.homeserve.com/m/
+heroImage: 27b0b16de8c8f903/Blog-iStock-163520892.jpg
+heroAltDescription: "technician fixing water heater"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Hot water issues? Here are some warning signs that something is wrong with your water heater."
+articleAbstract: "Hot water issues? Here are some warning signs that something is wrong with your water heater and what those symptoms might mean for the health of your machine."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "5 Tell-Tale Signs Your Water Heater Isn't Working"
+  parent: Plumbing-Home-Improvement
+---
+  You might not give much thought to your water heater, but, like most things, water heaters get a lot more attention when they stop working properly. How can you tell if your water heater is having issues — even before something goes wrong?
+
+**This May Also Interest You:** [**What’s the Difference Between Tank and Tankless Water Heaters?**](https://www.homeserve.com/en-us/blog/home-improvement/tank-vs-tankless-water-heater/)
+
+Beyond the obvious (your hot water isn’t working), there are actually quite a few signs your water heater is going out. Learn what these symptoms might mean for the health of your machine.
+
+Broken Water Heater? Check For These 5 Common Problems:
+-------------------------------------------------------
+
+### Inconsistent Water Temperature
+
+One way to know that your water heater is not working as it should is if you’re experiencing inconsistent water temperatures. Inconsistent water temperature could signal an issue with the thermostat, but it could also point toward a problem with the heating element, which is a bigger issue to address. However, if your water is not staying heated for long enough, it may mean that nothing is actually broken; you just need a bigger tank. If inconsistent heating continues to be an issue with your water heater, have a licensed plumber come out to inspect the situation further.
+
+### Low Water Pressure
+
+Low water pressure is another possible warning sign that your water heater is acting up. Although other factors can influence water pressure, if you notice the water pressure from your taps is lower than usual when the warm or hot water is running, the issue is likely with buildup in your water heater. Sediment collects inside the water heater over time, causing blockages and lower flow. To fix this issue, you could call in a plumber to either clean the supply lines or replace the pipe. If you have a newer model water heater, you might want a plumber to try cleaning and flushing the sediment from the pipes first to see if that fixes the problem.
+
+### Discolored Water
+
+If your water starts to look murky or rusty, it may be a warning sign that your water heater is corroding. If a water heater tank begins to corrode, rust can build up pretty quickly, causing discolored water that doesn’t taste good. Although it’s likely not harmful, this rust can damage your appliances. Plus, no one wants rusty, murky water to shower or wash dishes with!
+
+Before replacing the entire water heater, you can try replacing the anode rod and see if that solves the problem. Anode rods are steel wires that have other components — like magnesium and aluminum — that help prevent corrosion in standard tank water heaters. However, they typically wear out faster than the water heaters themselves, meaning you’ll probably need to replace your anode rod every three to five years, depending on your water quality and usage.
+
+**More Related Articles:**
+
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)
+*   [How to Install a Tankless Electric Water Heater: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-tankless-electric-water-heater/)
+*   [How Much Does It Cost For a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+
+### Strange Noises
+
+Water heaters make some noise as part of their regular functioning, but if you start hearing unusual sounds coming from your water heater, it may signal that your water heater needs some work. If you hear a rumbling or banging sound, you could have sediment buildup in your tank that needs to be flushed out. Excess sediment buildup can also cause a popping sound. In addition to flushing out your tank, replacing your anode rod might be in order.
+
+A crackling or hissing sound, on the other hand, may indicate moisture buildup in a gas water heater. In an electric tank, it may mean something is obstructing the tank’s heating element. If this is the case, you may need to drain your tank or call a professional for further assistance.
+
+Whistling or high-pitched screeching sounds (yikes!) are usually related to pressure adjustments in your tank. If they continue, you may want to double-check that your pressure valves and your temperature valves are adjusted properly. If you aren’t comfortable addressing this on your own, you can call in a technician to come take a look.
+
+### Eggy Smell
+
+An eggy smell in your water is no fun, and it’s often a sign that your water heater is not working properly. Although other water issues, like sulfur bacteria in your water supply, can also cause your water to smell like eggs, if the issue is specific to your warm and hot water supply, then you can assume the problem stems from your water heater. Sulfur bacteria love the warm, wet conditions of a water heater tank. The bacteria can build up in your tank, causing that unpleasant rotten egg smell.
+
+Although it doesn’t mean that your water heater is broken, an eggy smell is something you’ll want to remedy ASAP. To kill the sulfur bacteria, some people suggest shocking the tank with bleach. This can be a little tricky to do, so you may want to try raising the temperature of your tank temporarily instead to kill the bacteria. You can also try replacing your magnesium anode with one of a different material. Aluminum rods tend to produce less sulfide bacteria than magnesium rods, which might be helpful if your water is prone to developing that sulfur smell.
+
+Broken Water Heater No More
+---------------------------
+
+If your water heater is exhibiting any of the warning signs above, it’s best to address them promptly to avoid bigger problems down the line. The good news is that many of these issues can be fixed without having to replace your water heater entirely, meaning you can get back to enjoying dependably hot showers again without breaking the bank.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

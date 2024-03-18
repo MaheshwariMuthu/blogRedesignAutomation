@@ -1,0 +1,84 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Garage Door Problems: Garage Door Repair"
+headline: "Common Garage Door Problems and How to Repair Them"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-11-26
+basePath: https://library.homeserve.com/m/
+heroImage: 2226a71c323c3ade/Blog-GarageDoorTrack_ERossi-1126.jpg
+heroAltDescription: "garage door track"
+metaDescriptions: "While they may seem complicated, garage doors are pretty simple to understand. If yours starts to malfunction, you’ll often be able to fix the problem yourself."
+articleAbstract: "While they may seem complicated, garage doors are pretty simple to understand. If yours starts to malfunction, you’ll often be able to fix the problem yourself."
+category: ["How To"]
+eleventyNavigation:
+  key: "Common Garage Door Problems and How to Repair Them"
+  parent: Exterior-Home-How-To
+---
+  When your garage-door opener is on the fritz, it can be pretty intimidating. After all, garage doors are heavy, and the opener’s system of motors, chains and springs can all seem pretty complicated. Luckily, garage-door openers are nothing to be afraid of. No matter the issue, they can usually be repaired or replaced without completely breaking the bank.
+
+**This May Also Interest You:** [**How Much Does It Cost to Repair a Garage Door?**](https://www.homeserve.com/en-us/blog/cost-guide/garage-door-repair-cost/)
+
+Curious as to what’s gone wrong with your garage door? Read on to diagnose your problem and get back up and running in no time.
+
+Your Garage Door Is Making Loud Noises
+--------------------------------------
+
+A noisy garage door is no fun, to say the least. One press of your wall switch, and you’ll send your family running through the house covering their ears. Depending on the type of noise it’s making, a loud garage door is usually a sign that something’s not quite right.
+
+### Rollers
+
+If your door is making a squeaking or grinding sound, its rollers might be either dirty or worn out. Start by giving them a good cleaning. Take an old toothbrush and brush away any dirt, debris or grease buildup you see, then wipe the rest away with a rag. That said, if your rollers seem loose or, conversely, are completely locked up, you’ll need to replace them as soon as possible.
+
+### Torsion Spring
+
+If your door is making loud popping noises, it signals that there might be an issue with your torsion spring. It could be that your torsion spring needs to be adjusted, lubricated or replaced.
+
+To lubricate your torsion spring, apply a thin, even line of lubricating oil over the top of the spring. Next, add a line of oil down the coil, ensuring that it has coated the entire spring. Once the spring has been properly oiled, run the garage door up and down to work the oil into the spring.
+
+A loud, popping sound could also indicate that you need a replacement torsion spring. Torsion springs typically become worn out after about 15,000 cycles. If the spring looks stretched out and isn’t bouncing back into shape, or if you notice a gap between the spring, you’ll want to have it replaced. Because working on torsion springs can be dangerous, it’s recommended that you call a professional for this task.
+
+Your Garage Door Won’t Open or Close
+------------------------------------
+
+Another one of the most common problems is a door that won’t open or close. If you’ve got a door that won’t move, start by replacing the batteries in the opener remote and taking a close look at the button to find any signs of damage.
+
+Some door openers have a lock mode. If you hold down on the button for several seconds, the lock becomes engaged. You’ll need to hold the button again for a few seconds to unlock the door. Other doors might have a manual lock that is engaged by pushing on a handle inside the garage door. Before moving on, ensure that your door isn’t simply locked.
+
+If your door isn’t locked and your remote is in working order, take a look at the opener unit itself. First, take a look at the light on the unit. If it’s not working, then it might’ve become disconnected from the power source. Check to see if it’s plugged in. If the light is working, head over to your breaker box and check the circuit breaker linked to the garage-door opener unit to see if the breaker’s been flipped.
+
+### Resetting Your Overhead Garage-Door Opener
+
+If the door’s circuit breaker is on, then take a moment to reset your overhead door opener. Depending on the system’s age, the resetting process can be a bit different. Older models use a series of DIP switches that must be toggled in either an off or on position, and the remote and the unit opener must match. However, newer models require you to press and hold a “learn” or “home” button for a number of seconds before you’re able to reprogram the opener.
+
+If you are still experiencing the issue after resetting your unit, then there’s potentially an issue with your motor — especially if you hear the motor working and the belt’s not moving. If this is the case, you’ll want to call a service professional to diagnose and repair the door opener for you.
+
+**More Related Articles:**
+
+*   [A DIY Guide to Replacing Your Garage-Door Spring](https://www.homeserve.com/en-us/blog/how-to/replace-garage-door-spring/)
+*   [How Much Do Smart Garage-Door Openers Cost?](https://www.homeserve.com/en-us/blog/cost-guide/smart-garage-door-opener-services/)
+*   [Is a Smart Garage Door Opener a Wise Investment?](https://www.homeserve.com/en-us/blog/home-improvement/smart-garage-door/)
+*   [How to Open a Garage Door Manually](https://www.homeserve.com/en-us/blog/how-to/open-garage-door-manually/)
+*   [How Much Does an Insulated Garage Door Cost?](https://www.homeserve.com/en-us/blog/cost-guide/insulated-garage-door/)
+
+Your Garage Door Isn’t Closing Properly
+---------------------------------------
+
+Sometimes, garage doors will begin to close as normal when you press your wall switch, but won’t make it through the full cycle. This can happen in multiple ways: Maybe it won’t fully close, or maybe it closes all the way and immediately goes back up. If this sounds like your situation, there could be a few elements at play here.
+
+### Limits
+
+Garage-door openers use a mechanism that’s programmed to stop at a certain place. It’s called a limit, and it lets the motor know when it’s reached the ground. If your limit is off, your garage door will stop somewhere before touching the ground. Usually, you can adjust your limit by twisting a screw in the motor, but be sure to check your specific opener’s instructions before attempting to adjust.
+
+### Safety Sensors
+
+If your garage door begins to close perfectly only to reverse before touching the ground, your photo-eye safety sensors are likely at fault. Garage-door openers work with the use of infrared photo-eye safety sensors. Located on either side of your door about 6 feet (2 meters) off the ground, the sensors determine if the path is clear before allowing the door to close, potentially preventing damage to a person or property.
+
+First, determine if the path is clear between the sensors. They’re very sensitive, and sometimes small objects can interfere with their signal. Then, find the LED light on each sensor that indicates that the sensor is on. If the light is flickering, that means they may have gotten bumped somehow. Try adjusting the sensor by hand until the light comes back on. You can also try wiping the lenses down with a clean cloth. Because the sensors are so sensitive, even dirty lenses can cause an interruption to the signal.
+
+You can also take a look at the wires leading to the safety sensors. If the wires have become twisted or damaged in some way, the door won’t work properly. If you suspect a larger issue with the sensors' electrical components, call a technician to repair your safety sensors.
+
+Have an ‘Open’ Mind
+-------------------
+
+While they may seem complicated, issues with your garage door are pretty simple to understand. If yours starts to malfunction, you’ll often be able to fix the problem yourself. And even if you do end up having to hire a professional, having a working understanding of garage-door basics can ensure that you’re a well-informed consumer.

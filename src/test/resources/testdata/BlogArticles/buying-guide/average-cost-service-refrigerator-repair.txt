@@ -1,0 +1,131 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Most Refrigerator Brands That Need Repairs
+headline: Check out the average cost to service these top 3 refrigerator brands
+author: Team HomeServe
+tags: ['post']
+publishDate: 2020-10-01
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: refrigerator-repairs-top-brands-01-full.jpg
+heroAltDescription: Most Refrigerator Brands That Need Repairs
+metaDescriptions: Learn which refrigerator brands have most repairs and the average refrigerator repair cost - according to new data from HomeServe.
+articleAbstract: The home appliance most likely to break? Your refrigerator. Learn the 3 refrigerator brands that are most likely to need servicing and what’s the average refrigerator repair cost.
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true 
+banner:
+  url: https://callapro.com/appliance_repair/hs/a_call_away
+  large:
+      image: /en-us/assets/images/blog/appliances_elocal_banner1.png
+      alt: Appliances eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/appliances_elocal_banner2.png
+      alt: Appliances eLocal Banner 2
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Most Refrigerator Brands That Need Repairs
+  parent: Appliances-Buying-Guide
+---
+
+:::::: blog-info
+::: mobile-top-margin
+Last summer, as I was preparing to take my eldest off to her first year of college _(sniff, sniff)_, I encountered the huge hassle of needing an emergency refrigerator repair. During the hottest week of the summer, my refrigerator just stopped working. All plans for a going away BBQ were scrapped (along with all the fresh food that I had bought.) Our last day together was spent with me trying to find someone to come perform a refrigerator repair – just hours prior to hitting the road.
+:::
+
+[1]: {{ migrationData.planspage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% else %}
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+{% endif %}
+
+According to HomeServe internal reporting, it’s been found that refrigerator repairs make up **an average of 33% of deployed service calls for appliance home warranty plans. That means that the appliance that is most likely to break in your home is your refrigerator.** _(And we all know it’s probably the one appliance in our homes that we use the most.)_
+
+Perhaps if I’d known in advance some of the [common refrigerator repair problems](/en-us/blog/home-improvement/common-refrigerator-problems){target="_blank"}, maybe I would have been able to avoid the hassle.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+::::: img-container
+:::: warning-signs
+![Refrigerator and double oven in kitchen side view](/en-us/assets/images/blog/buying-guide/refrigerator-repairs-top-brands-04-side.jpg)
+
+## 9 Common Refrigerator Repair Warning Signs
+::: list-none
+* A refrigerator that isn’t keeping items cold/frozen
+* An increase in your energy bill cost
+* A noisy refrigerator
+* A refrigerator that leaks water
+* A refrigerator with ice buildup in the freezer section
+* A refrigerator unit that cycles, or runs, too frequently
+* A refrigerator where the water dispenser doesn’t work
+* A refrigerator door that is “sweating”
+* A refrigerator light that isn’t working
+:::
+While knowing the warning signs before a refrigerator repair is needed is important, it’s also a good idea to make sure you’re ready for the financial burden associated with refrigerator repair costs.
+::::
+:::::
+
+## Top 3 refrigerator brands that need repair
+HomeServe research shows that some of the most expensive and trusted names in refrigerators also have the highest repair rates. According to data collected by HomeServe during April through June 2020, the top 3 refrigerator brands with the most service calls were:
+
+### 1. GE (16.4%)
+### 2. Whirlpool (16.0%)
+### 3. Frigidaire (13.4%)
+
+## Average refrigerator repair cost?
+General research shows that refrigerator repair costs can range from $100 to $400, depending on the manufacturer, model, and issue of the repair. And of course, the determined repair solution will affect how much you end up paying. According to _Fixr_._com_, [costs for common repairs](https://www.fixr.com/costs/refrigerator-repair){target="_blank"} can include:
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+* Replace refrigerator coils or thermostat: **Range = $100 to $200**
+* Change the condenser fan or compressor: **Range = $140 to $300**
+* Install new evaporator fan motor: **Range = $200 to $250**
+* Repair or replace the ice maker motor: **Range = $300 to $330**
+&nbsp;
+::: brand-img
+![Cost by brands illustration](/en-us/assets/images/blog/buying-guide/refrigerator-repairs-top-brands-03b-full.jpg)
+:::
+
+## Average cost to service the top 3 refrigerator brands?
+In my case, I had a GE refrigerator that was here in my home when I purchased it many years back. While it lasted a good long time, it did need a repair every so often. _(Wish I had been prepared with_ [_a plan from HomeServe_](/en-us/home-warranty/appliances/){target="_blank"} _as it would have saved me some money on refrigerator repairs.)_
+
+The recent data collected by HomeServe during April through June 2020, shows that if you have a GE, Whirlpool or Frigidaire refrigerator, it’s likely to breakdown. So you can expect to pay the following, on average, to repair the top 3 refrigerator brands:
+
+### 1. GE (Average = $290.40)
+### 2. Whirlpool (Average = $266.80)
+### 3. Frigidaire (Average = $234.40)
+
+It’s also important to remember that appliance repair costs can include parts, as well as the labor costs. When replacement parts are readily available, refrigerator repair times can sometimes only require a few hours by a professional technician.
+
+## The refrigerator repair cost variations
+Refrigerator repair costs can vary by factors such as [appliance make and model, home location, replacement parts required and problem severity](https://www.searshomeservices.com/blog/how-much-should-appliance-repairs-cost){target="_blank"}, according to Sears Home Services. For instance, lesser-known brands, older models with limited replacement parts availability and refrigerators with computerized components typically incur increased repair costs. Of course, service fees and hourly labor charges will also depend on the technician.
+
+## What to do with a decades old refrigerator?
+Before you say “yes” to a refrigerator repair, consider whether your hard-earned money should perhaps be put toward replacing it with a [brand-new fridge](/en-us/blog/buying-guide/refrigerator){target="_blank"}. Here are some things to consider:
+
+* **Age:** Deciding when to replace a fridge isn’t easy. _SF Gate_ suggests that [repairing refrigerators that are less than eight years old](https://homeguides.sfgate.com/decide-replace-refrigerator-26898.html){target="_blank"} and replacing those that have been around for 15+ years.
+* **Energy efficiency:** Refrigerators are one of the highest energy-consuming appliances you have. If you don't have an Energy Star-certified refrigerator, you might consider upgrading. Replacing an old refrigerator with an energy efficient model could save you [more than $300](https://www.energystar.gov/products/appliances/refrigerators){target="_blank"} over the next 5 years, according to the Environmental Protection Agency.
+* **Calculate your fridge’s life span:** Find out how much your old refrigerator or freezer [costs to operate](https://www.energystar.gov/index.cfm?fuseaction=refrig.calculator){target="_blank"} and how much you can save.
+
+## Maintenance is key
+Lastly, like many things in your home, maintenance is important. Keeping your refrigerator in good shape can sometimes help avoid repair costs. Things like keeping it clean on the inside to reduce the chances of accumulating bacteria; make sure there’s proper ventilation around the outside and inside, so don’t overcrowd it; look for tears, gaps or air leaks in the door gaskets; change your water filter and clean dust off the condenser coils a couple of times a year. Try some of these [DIY hacks to help improve the efficiency of your fridge](/en-us/blog/home-improvement/refrigerator-efficiency-tips){target="_blank"}.
+
+Being without a functioning refrigerator is a huge hassle. Knowing how much the average refrigerator repair cost is can be helpful. What’s even more helpful is being prepared prior to a refrigerator repair. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered appliance repairs.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% else %}
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+{% endif %}
+::::::

@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Read Your Electric Bill"
+headline: "More Power To You: How to Read Your Electricity Bill"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-08-24
+basePath: https://library.homeserve.com/m/
+heroImage: 1e5cfb1ca656444c/Blog-GettyImages-601022574.jpg
+heroAltDescription: "a recent electrical bill is displayed showing a bar graph of kilowatt usage"
+metaDescriptions: "Learning how to read your electricity bill can help you identify ways to save money."
+articleAbstract: "This article discusses how to understand an electric bill. It also reviews ways to reduce usage and save money."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Read Your Electric Bill"
+  parent: Electrical-How-To
+---
+  Most people don’t pay much attention to what’s on their electricity bills. It can be difficult to understand what everything on your bill actually stands for. You probably just want to see how much you owe this month so you can pay it and move on.
+
+**This May Also Interest You:** [**How Much Does Electricity Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/)
+
+If you know how to read your electricity bill, you may be able to determine when you use the most electricity. This can help you pay more attention during the times you’re using the most energy and find ways to reduce your usage. Knowing how to read your electricity bill can also help you determine whether you could save money by switching energy providers.
+
+We’ve broken down the basics for you.
+
+Units of Measurement on Your Electric Bill 
+-------------------------------------------
+
+Depending on your circumstances, you might not receive a separate utility bill for electricity, gas and water. If you’re paying for multiple services on a single bill, you need to know how each utility is displayed on your bill. Here are the primary units of measure that you will see: 
+
+* **Electricity**: Your electricity usage is displayed in kilowatt-hours. It’ll be abbreviated as kWh. 
+* **Natural Gas**: If you notice usage that is referred to as BTUs, it’s telling you how many British Thermal Units you’ve used, and this only refers to natural gas. 
+* **Water**: Your water usage is always displayed in gallons. 
+
+You’re paying for the amount of electricity that you use each month, and you also need to pay fees for the generation and delivery of that electricity in addition to other regulatory fees. Your bill itemizes these other charges so that you know how they're impacting your bill each month. Sometimes, you can save money by switching to an electricity company that doesn’t charge outrageous fees, even if the electricity cost is the same or more per kilowatt-hour.
+
+Calculate the True Cost of Your Electricity Per Hour 
+-----------------------------------------------------
+
+If you’re under the impression that your bill is calculated by multiplying the number of kilowatt-hours by a set cost per hour, you’re mistaken. Many electricity providers have tiered usage systems that increase the cost of your power once you surpass usage milestones. Once you understand how to read your electricity bill, you’re going to notice that you’re being billed different amounts for each tier and that the price continues to increase each time you move up to the next one. During certain times of the year, some utility companies may charge higher rates during peak usage periods.
+
+The billing structure you’ve selected may mask the true cost of your electricity. While there are plans that let you pay as you go for what you use each month, other plans consider the total amount of energy you used over the last year and average it out so that your bill is more predictable — or even the exact same — each month. This prevents the sudden price spikes that you’d expect to see in the summer when you’re using your air conditioning, but it also gives the impression that you’re using less power than you are.
+
+The way to determine the true cost of your electricity is to find the total number of kilowatt-hours that you’ve used and then to divide your usage bill by that number. Remember to exclude all the added fees when you’re performing this calculation. 
+
+**More Related Articles:**
+
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [What’s It Like to Go Solar? 5 Things They Don’t Tell You in the Brochure](https://www.homeserve.com/en-us/blog/home-improvement/solar-panels/)
+*   [How Much Does It Cost to Install Solar Panels?](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+*   [How to Install Solar Panels: 6 Steps to Daylight Savings](https://www.homeserve.com/en-us/blog/how-to/install-solar-panels/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+How to Save Money on Your Electric Bill 
+----------------------------------------
+
+Aside from shopping around for different providers, there are plenty of things that you can do to save money on your utilities by reducing your power consumption. Many of these steps you can take yourself. Consider doing the following: 
+
+* **Change your thermostat.** Changing the temperature by several degrees when you’re asleep or away from home can save you more money than you think. 
+* **Change your freezer and refrigerator temperatures.** Many people keep their fridges too cold, and it takes energy to maintain the internal temperature. Increasing the temperature just a little bit can keep these appliances from using as much power. 
+* **Check your insulation.** If you improve the insulation throughout your home, less heat escapes during the winter and your home stays cooler in the summer. Anything you can do to reduce your air conditioning use saves money. 
+* **Use energy-efficient appliances.** Replacing your old appliances with ones that have good energy efficiency ratings can pay for itself over time. 
+* **Adjust your daily habits.** Many people leave electronic devices running, forget to turn lights off and use too much hot water. Making some minor changes can reduce your usage. 
+* **Switch to high-efficiency light bulbs.** Modern light bulbs offer significant yearly savings, and some of them now let you change the color and brightness from mobile apps to set the mood however you like. 
+* **Buy a more efficient showerhead.** If you have an electric water heater, reducing your hot water usage can make a noticeable difference. 
+* **Use smart power strips.** Your electronic devices may still be drawing power when they’re turned off. Smart power strips detect when your devices aren’t in use and cut power to their circuit so you’re not wasting energy on electronics that are powered off. 
+* **Consider solar energy.** Installing solar panels can help you become energy independent by producing your own electricity. This also reduces your carbon footprint because you’re not getting power from sources that burn fossil fuels. 
+* **Perform an energy audit.** Contact your utility company and ask for a free energy audit. An inspector will arrive and review all the home improvements that you can make to reduce your bill.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/8VoPsAM69RQ?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

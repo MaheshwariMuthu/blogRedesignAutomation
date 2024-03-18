@@ -1,0 +1,92 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to Winterize Your Home
+headline: 'How To Winterize a House: Your No-Chill Checklist'
+author: Michael Franco
+tags: ['post']
+publishDate: 2020-12-18
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: weather-seal-on-windows.jpg
+heroAltDescription: man installing a weather seal onto windows
+metaDescriptions: Winterizing your home can save money on energy bills, reduce problems that could lead to costly repairs, and help keep you comfy as the flakes begin to fly.
+articleAbstract: Winterizing your home can save money on energy bills, reduce problems that could lead to costly repairs, and help keep you comfy as the flakes begin to fly. Here are the main tasks to address.
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ['How To']
+
+eleventyNavigation:
+  key: How to Winterize Your Home
+  parent: HVAC-How-To
+---
+
+If you live in a climate that&#39;s warm year-round, preparing your home for the onslaught of winter doesn&#39;t rise to the level of concern it does for denizens of colder climates. For the rest of us, the struggle of winterizing the house in advance of plunging temperatures, snow and ice is real.
+
+**This May Also Interest You:** [**5 Ways to Winterize Your Windows and Keep Your Home Warm**](/en-us/blog/cost-guide/winterize-your-windows/)
+
+Marking the following 10 tasks off your chilly-weather checklist can save money on energy bills, reduce problems that could lead to costly repairs and help keep you comfy as the flakes begin to fly.
+
+## 1. Look for Leaks
+
+Winterizing is just another way of referring to protecting your home from the harsher conditions of freezing temperatures, snow and ice. One of the most important ways to do this is to ensure that all potential leaks are sealed to prevent cold air from entering and warm air from escaping.
+
+You should take a tour around your home in the daylight to inspect for any holes or spaces where light comes through, and then repair those points. For small openings, caulk will get the job done. Larger spaces will likely necessitate using a can of spray foam. Areas to check for openings include any spots where plumbing or electrical conduits enter or exit your home (such as hose bibs), places where your foundation may have cracked, and around doors and windows.
+
+You may also want to add electrical-outlet insulation pads because, believe it or not, you can lose heat through these plentiful sockets found throughout your home. These foam pads fit between the outlet and the wall, and are easy and inexpensive to install.
+
+## 2. What About Windows?
+
+Now that you&#39;ve addressed those small gaps in your home&#39;s armor, it&#39;s time to address the larger ones — namely your doors and windows.
+
+[**According to the U.S. Department of Energy**](https://www.energy.gov/energysaver/design/windows-doors-and-skylights/update-or-replace-windows), up to 30% of heat loss can occur through windows. Your best bet is to install energy-efficient windows to keep heat in (and out in the summer). But if that&#39;s too expensive a project to tackle before the next winter, there are other steps you can take to keep cold air out and warm air in.
+
+If you have older windows in your home, covering them with storm windows on the outside of your house is a cheaper alternative than window replacement and can be as effective as using double-pane windows. Look for windows with a low-e coating, which dramatically reduces heat loss. The
+[**Department of Energy says**](https://www.energy.gov/energysaver/storm-windows) that low-e storm-window installation can cost about a quarter of the price of full-on window replacement, while reducing your heating bill by 12-33%.
+
+If storm-window installation is too costly (or if you already have them in place), you can improve the heat-retention capabilities of your windows by caulking openings, placing weather stripping (either foam or tape) in areas where the seal might be loose, or by installing insulated drapes.
+
+<img class="detail-image" src="/en-us/assets/images/blog/how-to/man-caulking-window.jpg" alt="man caulking exterior leaks and cracks on his home with sealant"/>
+
+## 3. Drafty Doors?
+
+Once your windows are looked after, check your doors for air leaks. A handy way to do so is to light a piece of incense and move it around a closed door. If you see the smoke blowing, you can patch the source of the leak using weatherstripping or draft stoppers that slide onto the bottom of the door when it&#39;s closed. Door sweeps should also be in place to stop drafts.
+
+## 4. Have You Checked on the Chimney?
+
+If you home has a fireplace, it will obviously get heavier usage in the winter, so be sure that it&#39;s been cleaned
+recently. The National Fire Protection Association says chimneys should be inspected once per year. If you decide not to use your fireplace in the winter, consider buying a chimney balloon, which inflates and blocks the opening so that heat can&#39;t escape.
+
+## 5. Clean your Gutters, Trim Trees
+
+While most winterizing projects take place inside your home, tending to the outside is important, too. Making sure your roof and gutters are clear and trimming any branches that overhang or touch your house will keep ice from building up and potentially damaging your home.
+
+## 6. Add Insulation
+
+To ensure your home stays as warm as possible in the winter months, be sure you have insulation installed wherever possible. That includes basement walls and your attic, as well as around your hot-water pipes and water heater if you have an older model (you can tell if it needs to be insulated if it&#39;s warm when you touch it).
+
+<img class="detail-image" src="/en-us/assets/images/blog/how-to/man-installing-insulation.jpg" alt="man wearing PPE installing fiberglass insulation in an attic space"/>
+
+## 7. Don&#39;t Forget to Flush
+
+Speaking of your water heater, pre-winter is a great time to flush it to remove any built-up sediment and keep it working efficiently.
+
+## 8. Breathe Better
+
+You should always have a regular air-filter changing schedule if you have forced-hot-air heating or cooling — but it&#39;s especially important in winter to be sure fresh filters are installed. That&#39;ll keep your heating system working efficiently and will help filter the air in your home that tends to be more closed up in the colder months.
+
+**More Related Articles:**
+
+*   [Prevent Frozen-Pipe Problems by Knowing These Things Down Cold](/en-us/blog/how-to/frozen-pipes/)
+
+## 9. Get With the Program
+
+If you don&#39;t already have one, a programmable thermostat is a great way to stay comfortable and save money in the winter months. You can have it reduce the heat when you&#39;re at work or otherwise out of the house, or when you sleep. Then, you can program it to raise the temperature again when you&#39;re up and about in your home.
+
+## 10. Reverse Ceiling Fans
+
+Most ceiling fans stay off in the winter, but they can be allies in keeping your home warm. Simply reverse the direction of the blades (usually done with a switch on the fan or via remote control), and it will push warm air down instead of creating a cooling breeze.
+
+_Winter can be especially hard on homes, so being prepared with a plan from HomeServe could prove to be an effective winterizing strategy. Once you have a plan in place and a covered issue arises, you can simply call the 24/7 repair hotline. A local, licensed and highly trained contractor will be sent out to you to get the job done to your satisfaction._

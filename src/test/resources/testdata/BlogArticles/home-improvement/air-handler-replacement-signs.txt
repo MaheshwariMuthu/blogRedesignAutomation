@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Do I Know If I Need a New Air Handler?"
+headline: "4 Signs You Need to Replace Your Air Handler"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-12-22
+basePath: https://library.homeserve.com/m/
+heroImage: 7583446d48402762/Blog-AirHandler_Erossi_CADC84CC39DD.jpg
+heroAltDescription: "a new ceiling mounted air handler hangs in a new Florida home"
+metaDescriptions: "Because air handlers are essential to maintaining the temperature of your home, it’s important know when their time's up."
+articleAbstract: "Because air handlers are essential to maintaining the temperature of your home, it’s important to know when to repair or replace them. Here's how."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Do I Know If I Need a New Air Handler?"
+  parent: HVAC-Home-Improvement
+---
+  It’s something that homeowners know all too well: Nothing lasts forever. That rings especially true for those bigger, more expensive appliances like HVAC systems. Truth is, these appliances are actually composed of several important components like furnaces, air conditioners, heat pumps and thermostats that all work in concert with one another to maintain your home’s climate. And while these individual elements are generally built to last for many years, if one stops working correctly, it’ll negatively affect the performance of the entire system.
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+The air handler is one of the most important components of an HVAC system. It’s often located inside the home and is responsible for moving the cold (or warm) air throughout your home. It houses the blower motor, evaporator coil and air filter. Because air handlers are essential to maintaining the temperature of your home, it’s important to know when to repair or replace them.
+
+Got an air handler on the fritz? Read on to see if you should replace this important HVAC component.
+
+What Are Some Signs You Need a New Air Handler?
+-----------------------------------------------
+
+### 1\. Weak or Inconsistent Air Flow
+
+Air handlers draw air from the return vent and send it through your HVAC duct system. If the airflow coming out of your vents seems weaker than usual or varies throughout the day, it might indicate that your air handler’s blower motor is dying. A malfunctioning air blower can increase the wear and tear on your air handler, causing it to crack and leak as well. Dirt and debris can also cause a motor to strain and malfunction. If this is the case, you can hire a certified HVAC technician to clean or repair the motor for you. That said, if your motor continues to malfunction, it may be necessary to replace your air handler.
+
+### 2\. Your Air Conditioner Freezes in the Summer
+
+It’s the dog days of summer, and ice is forming on your air handler. This is one of the telltale signs that something is afoot with your HVAC system, and there are several reasons why this might happen.
+
+Ice forms on your air conditioner when the temperature in the evaporator coils falls below freezing, meaning that the cold air is not being properly circulated through your HVAC system. It could mean that you have a clogged air filter, or even dirty evaporator coils. That’s why it’s crucial to stay on top of basic HVAC maintenance. However, a frozen air handler could also indicate that there’s a refrigerant leak somewhere within your HVAC system. Not only will this cause your unit to freeze, but — depending on where the leak is — it could potentially expose you and your family to toxic chemicals. If you suspect you may have a refrigerant leak, it may signal that your air handler needs to be replaced.
+
+### 3\. Reduced Energy Efficiency
+
+It’s pretty much a given that your energy bills are likely to fluctuate as the seasons change, but if your energy usage is drastically higher than usual, it could point toward a larger HVAC issue. When your heating and cooling systems begin to age, they need to work harder to maintain the temperature in your home. In order to prevent unwanted spikes in your monthly bills, it’s essential that you have your HVAC system serviced by a certified technician at least once a year. But even if you get your system checked regularly, a malfunctioning air handler could result in a skyrocketing monthly bill.
+
+**More Related Articles:**
+
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [How Much Does It Cost to Replace an AC Compressor?](https://www.homeserve.com/en-us/blog/cost-guide/ac-compressor-replacement/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credit and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Is an HVAC Tune-up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+### 4\. Your HVAC System Is Old
+
+Do you know the age of your air conditioning system? If not, it’s worth noting. The U.S. Department of Energy recommends that homeowners replace their HVAC system every 10 to 15 years. Although heating and cooling systems are meant to endure heavy usage, their components will start to wear out after 10 years. That means evaporator coils, motor blowers and condensers might all begin to exhibit signs of age. This also means that your air handler could start cracking and developing leaks as a result of age.
+
+Also, air conditioners that are over 10 years old might also use R-22 refrigerant, which is recognized as an environmental hazard. Beginning in 2020, manufacturers have completely phased out R-22 refrigerants. If you have an older unit that needs replacing, use this as an opportunity to invest in a more efficient and environmentally friendly air conditioning system.
+
+Do You Need to Replace an Air Handler If You Replace an AC Unit or Furnace?
+---------------------------------------------------------------------------
+
+HVAC systems comprise several important components that can make or break the system’s overall importance. If you suspect that the malfunctioning of your system is the result of a broken furnace or air conditioner (or any other component for that matter), it might be tempting to replace the component in question. After all, why spend extra money if you don’t have to?
+
+In most cases, however, it’s probably better to replace your entire system when a component needs replacement. Though it may be cheaper to replace just a specific part of the system, you’ll likely need to replace another part soon after, and you’ll end up spending more in the long run.
+
+Still, recognizing specific issues associated with your system can make diagnosing HVAC issues much simpler.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

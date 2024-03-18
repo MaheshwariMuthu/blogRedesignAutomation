@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Electrical-Cost-Guide
+  parent: Cost Guide
+  title: Electrical
+permalink: false
+---

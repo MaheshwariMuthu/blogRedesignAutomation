@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "4 Top Air Duct Maintenance Tips"
+headline: "4 Top Air Duct Maintenance Tips"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-12-15
+basePath: https://library.homeserve.com/m/
+heroImage: dd14909f95e31e6/Blog-GettyImages-185253422.jpg
+heroAltDescription: "Residential HVAC Duct Cleaning with a Power Brush"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Are your air ducts are in good working order? Here are four ways you can maximize the potential of your air duct system."
+articleAbstract: "Looking to make sure your air ducts are in good working order? Here are four ways you can maximize the potential of your air duct system."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Air Duct Maintenance Tips"
+  parent: HVAC-Home-Improvement
+---
+  Every day, your air duct system carries warm or cool air from your HVAC unit throughout your house, keeping your rooms at your own desired temperature. Since your air ducts take such good care of you and your family by delivering comfortable temps year round, it makes sense that you should take good care of them, too.
+
+**This May Also Interest You:** [**Should You Clean Your Home’s Air Ducts? We Clear the Air**](https://www.homeserve.com/en-us/blog/buying-guide/clean-air-ducts/)
+
+Luckily, air ducts are fairly easy to maintain and don’t have to be cleaned all that frequently. But by adding them to your annual HVAC maintenance to-do list — along with performing other semi-regular tasks like cleaning the cooling coils and emptying the drain pans — you can help keep your system happy. In addition to keeping that air flowing freely, maintaining your air ducts can also make your air healthier and prevent buildup that may cause bigger issues down the line.
+
+Looking to make sure your air ducts are in good working order? Here are four ways you can maximize the potential of your air duct system.
+
+Seal Duct Leaks
+---------------
+
+In case you didn’t know, air duct leakage is among the top energy wasters in homes. It’s estimated that, when a leak is present, around [20% to 30%](https://www.energystar.gov/campaign/heating_cooling/duct_sealing) of the air that moves through the duct system is wasted. And it’s not necessarily uncommon: Air duct joints and seals can loosen over time and become deformed or damaged. Dust and debris collected inside the ducts can contribute to duct leaks as well.
+
+Aside from hindering your HVAC system’s ability to do its job, air duct leakage can also lead to higher energy bills, varying temperatures throughout your house, mold growth and other air-quality issues. It’s certainly possible to tackle duct sealing yourself by using duct mastic sealant or metal tape, but for those hard-to-access areas, you may want to hire a licensed HVAC technician to come to assess your ductwork more thoroughly.
+
+Keep the Vents Clear
+--------------------
+
+Although it may seem harmless, placing furniture or any other type of obstruction in front of an air vent is never recommended. Not only does blocking an air vent keep air from circulating around the room, but it can also lead to more substantial problems down the line. For one, your HVAC system will have to work harder to cool or heat your home, putting unnecessary strain on the blower fan. A blockage can change the pressure in the system, potentially damaging your duct system as well. Finally, placing furniture over an air vent is also harmful to the furniture itself.
+
+If you’re unwilling to rearrange the layout of your room for the sake of an obstructed air vent, there are alternatives. You can install a magnetic air deflector or a vent extender that attaches to your air vent and can redirect the vent’s air flow away from under the piece of furniture.
+
+**More Related Articles:**
+
+*   [Can You Have Your Air Ducts Cleaned in the Winter?](https://www.homeserve.com/en-us/blog/home-improvement/air-duct-cleaning-winter/)
+*   [HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [Is an HVAC Tune-up Worth the Price? Yes, Yes It Is](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+Schedule a Cleaning
+-------------------
+
+Did you know that indoor air can be [two to five](https://www.epa.gov/report-environment/indoor-air-quality) times more polluted than the air outside? This is because dust, debris and other contaminants enter the living space and are continually recirculated. The truth is, even if you have high-quality HVAC air filters, impurities can still be present in your air duct system.
+
+Luckily, no evidence has ever suggested that dust levels in homes increase because of dirty air ducts. Still, excess accumulation of dust and debris can contribute to air duct damage, as well as mold and mildew growth. According to the [National Air Duct Cleaners Association](https://nadca.com/resources/blog/considering-air-duct-cleaning-we’ve-got-answers-top-five-faqs-homeowners-right-here), you should have your air ducts inspected once a year by an air duct cleaning service (one that’s certified by the NADCA) to ensure that all of your ducts are clean and clear, and cleaned as needed. Additionally, if you notice any mold growth or evidence of bugs and pests, or if your home has recently undergone any major renovation, you should consider scheduling an air duct cleaning.
+
+Schedule a Duct Test
+--------------------
+
+In an effort to make sure your heating and cooling system is firing on all cylinders, you should also consider having the pressure in your duct systems tested. A certified HVAC system professional can take readings of the air pressure within the duct system. Doing this can help determine if you have any air leaks in your system, as well as show how well the system is balanced. A test will also provide you with recommendations on how to improve the ductwork in your home to increase your system’s energy efficiency.
+
+It’s recommended that you have your ducts tested whenever you’re installing any new HVAC equipment, like an air conditioner or furnace. It’s also a good idea to have your duct system tested whenever you schedule a diagnostic tune-up on your HVAC system. Doing so will ensure your air ducts move air through your home with maximum efficiency.
+
+Get Your ‘Ducts’ in a Row
+-------------------------
+
+Proper air duct maintenance doesn’t have to be hard. Adding it to your home maintenance routine should help ensure your air ducts are clean, clear and airtight, so you can keep enjoying the pleasure of a well-functioning HVAC system all year long.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

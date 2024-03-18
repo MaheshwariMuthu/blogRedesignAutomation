@@ -1,0 +1,130 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Build a Deck"
+headline: "How to Build a Deck"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-05-18
+basePath: https://library.homeserve.com/m/
+heroImage: 6e4653e3ed6f3bbc/Blog-GettyImages-1198842612.jpg
+heroAltDescription: "A photo of a residential deck during the framing part of the construction phase "
+metaDescriptions: "Thinking of building your own deck? Here's what you need to know about the process, plus a how-to guide."
+articleAbstract: "With so many potential benefits, deciding to build a deck may seem like a no-brainer. But is this a project you can tackle yourself, or is it one better fit for the pros? The information outlined here will give you a sense of the deck-building process."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Build a Deck"
+  parent: Exterior-Home-How-To
+---
+  
+
+**Building a Deck at a Glance**
+
+* **Prep:** Design deck and purchase decking material
+* **Step 1:** Create footings
+* **Step 2:** Attach ledger board
+* **Step 3:** Cut and fasten framing
+* **Step 4:** Install decking
+
+If you build it, they will come. The “it” here, of course, is a backyard deck. And the “they” are all the friends you didn’t know you had — that is, until you build the deck of your dreams. Adding a deck to your home might be one of the best home improvement decisions you'll ever make. It’s a great way to add both value and comfort to your home. In addition to expanding the space where you can relax, dine and entertain guests, decks can also up the resale value and overall appeal of your house.
+
+**This May Also Interest You:** [**How Much Does It Cost to Build a Deck?**](https://www.homeserve.com/en-us/blog/cost-guide/cost-to-build-deck/)
+
+With so many potential benefits, deciding to build a deck may seem like a no-brainer. But is this a project you can tackle yourself, or is it one better fit for the pros? That depends on several factors, including your skill level, budget and, perhaps most crucially, the type of deck you’re looking to build.
+
+The information outlined below will give you a sense of the deck-building process. From there, you can decide if this is a project suited for your own hands, or if it’s better left in someone else’s.
+
+Is It Cheaper If You Build Your Own Deck?
+-----------------------------------------
+
+The answer here is a resounding yes. According to [NerdWallet](https://www.nerdwallet.com/article/mortgages/cost-to-build-deck), the average cost of adding a deck to your home is $14,360. Because labor costs make up about two-thirds of the total cost, building your own deck can save you a sizable chunk of money.
+
+Is It Hard to Build a Deck Yourself?
+------------------------------------
+
+While it sounds complicated, building a deck might not be as difficult as you might imagine. With the right tools and a basic understanding of carpentry fundamentals, you can build your own deck in a surprisingly short amount of time — provided that you have a solid plan of attack.
+
+### Use Online Resources
+
+For budding DIYers, there are several apps that help you plan and design all sorts of building projects. [Home Depot’s](https://www.bighammer.com/cqdesignstartneo/) Do-It-Yourself Deck Designer program allows you to choose from 70 deck building plans and adjust them to your personal needs. The app also generates and overlays a three-dimensional image of your deck design onto a picture of your home. Tools like these can be an essential step in planning out your deck project. What’s more, they will often calculate and print a list of every tool and material that you will need to complete the project, so it’s an incredibly useful asset.
+
+For quick estimates of decking costs, there are several decking calculators out there. Just enter the surface size of your deck and other specifics like the size of your boards and how much gap you’d like between each plank. While they’re not perfect, these calculators will give you a rough estimate of the materials cost and can certainly come in handy for DIYers.
+
+Options Aplenty
+---------------
+
+When it comes to building a deck, so much depends on the size and scope of your project, where the deck is positioned and the topography of your yard. Even your own design requirements like stairs and guardrails can all significantly impact your project in a variety of ways.
+
+Generally speaking, a deck should be wider than it is deep – some standard measurements for decks are 14 feet by 20 feet or 16 feet by 20 feet. Whatever size you’re considering, you want to make sure there’s plenty of space for your furniture and for people to move around and enjoy themselves.
+
+Choose Your Materials
+---------------------
+
+Other than size, one of the first choices you should make is what kind of material you’d like to use to build your deck. Depending on your budget and your desired features, you have several options to choose from.
+
+### Wood Decking
+
+Pressure-treated wood is the standard decking material. It’s a common choice among homeowners, but it’s not without regular maintenance. A deck made with treated wood does require yearly upkeep to preserve its integrity and appearance. For example, a wood deck needs to be sealed and treated once a year to avoid splintering, rotting or other signs of decay. Splintering wood can be pretty annoying and even dangerous to walk around on, so if you choose wood for your decking material, make sure you’re up for these tasks.
+
+Additionally, wood decks can be a veritable wonderland for wood-boring insects like ants, carpenter bees and termites. Without proper preventative measures, these pests can wreak havoc on your brand-new deck in a very short amount of time.
+
+### Composite Decking
+
+Another desirable option for material is composite decking. Composite material is typically made out of recycled plastics and wood byproducts. Those adverse to regular maintenance will find much to love about composite decking as it doesn’t really require any upkeep. Once your deck is built, all that’s left is to enjoy it!
+
+Composite decking can sometimes be more eco-friendly than pressure-treated wood. For example, composite decking uses wood byproducts and recycled plastics — some brands, such as Trex, use up to 95% recycled materials. Additionally, these planks never need to be stained, painted or sealed. Materials for a composite deck are often more expensive than those for wood decks, but with [skyrocketing lumber costs](https://www.npr.org/2021/03/30/982805743/lumber-prices-are-staying-sky-high-even-if-the-pandemic-ends-soon), the difference may not be as great as it once was. One drawback of composite decking is that it can get quite hot in direct sunlight. If you want to enjoy your deck barefoot and it will be located in an unshaded area, that's something to consider.
+
+Getting Started
+---------------
+
+Before you start building, don’t forget to get in contact with your local building department or homeowners association to obtain any necessary approvals and permits that you may need to build. Some elements of the project might even involve an inspection, so be sure to plan your work around this possibility. While you're at it, you might want to give 811 a call (the national call-before-you-dig number) to get your underground utility lines marked.
+
+While there isn’t a one-size-fits-all approach to building a deck, all decks share some essential elements, such as joists, footings, posts and beams, all of which provide structural support. Regardless of the shape and size of your project, we’ll walk you through the construction of a simple deck plan that you can adjust to suit your needs.
+
+**More Related Articles:**
+
+*   [How to Stain and Seal Your Deck](https://www.homeserve.com/en-us/blog/how-to/stain-seal-deck/)
+*   [How Much Is Too Much? Here’s a Guide to How Much Snow Your Roof or Deck Can Hold](https://www.homeserve.com/en-us/blog/home-improvement/roof-snow-load/)
+*   [How Much Does It Cost to Install a Hot Tub?](https://www.homeserve.com/en-us/blog/cost-guide/hot-tub-installation/)
+*   [How Much Does It Cost to Install a Porch Swing?](https://www.homeserve.com/en-us/blog/cost-guide/porch-swing-installation/)
+*   [How to Build a Fire Pit](https://www.homeserve.com/en-us/blog/how-to/build-fire-pit/)
+
+How to Build a Deck
+-------------------
+
+Here’s a four-step overview to help guide you in your deck-building project.
+
+### Step 1: Create Footings
+
+Once you have your design finalized, it’s important to create a layout for the location of your deck footings. Set into the ground, concrete footings provide the foundation for the deck and prevent settling.
+
+Use batter boards and masonry string to lay out the location of the footings. Start by laying out the perimeter of the deck with the string and batter boards. Once you ensure the strings are square, mark the footing locations using spray paint. The number of footings the deck needs depends on the size and scope of your design.
+
+Generally speaking, footings should be placed less than 8 feet apart. That said, if you’re planning on adding something heavy to your deck, like a hot tub, you’ll need to add more footings to support the load.
+
+Once the footings have been properly marked, start digging. Digging footings can be pretty exhausting work. While you can use a standard shovel for this job, make your life easier and rent a post-hole digger to dig these holes. The shapes of the holes will be more uniform, and you’ll be less tired (and sore) when finished. When the holes are dug, place concrete tube forms into the holes and fill those holes with mixed concrete. Before letting the concrete harden, place a J-bolt into each concrete footing, or sink a complete bracket directly into the concrete. Add anchor plates to the bolt if you've used them. Alternatively, you can sink your deck posts directly into the concrete. Just make sure they sit level.
+
+Give the concrete the time to dry that's indicated on the package, then attach your posts (usually 4x4s or 6x6s) to the brackets mounted in the concrete if you've chosen to go that route. Fasten the posts to the brackets, then use string and a level to ensure the top of the posts are all in line. Cut off any sections that are too high.
+
+### Step 2: Attach the Ledger Board
+
+The first step in framing your deck is installing a ledger board to the side of your house. This is a crucial step and care should be taken to make sure the ledger board is level and secure.
+
+Place the ledger board against the house, low enough so that the decking can be placed on top. Make sure the board is level and screw it into place using 3.8-inch lag screws. If you’re attaching it to masonry, make sure you’re using proper masonry bolts.
+
+For a free-standing deck, or one that’s not attached to a house, you won’t need a ledger board. Instead, the deck will use rim joists around the perimeter to support the joists and, eventually, the decking material.
+
+<img class="detail-image" src="https://library.homeserve.com/m/4ed9b71b38a96bed/Blog-GettyImages-1219218904.jpg" alt="Male construction worker building a wooden deck frame for a resideential terrace deck"/>
+
+### Step 3: Start Framing
+
+When the ledger board is attached and secure, start forming the perimeter of your deck. Cut your framing lumber to length and fasten steel brackets to connect them. Fit and fasten the perimeter boards onto the posts you've attached to the concrete footings. Once the perimeter of the deck is established, finish the frame and install treated joists. Start by attaching steel joist hangers every 16 inches, set in the joists and nail them in.
+
+<img class="detail-image" src="https://library.homeserve.com/m/361bf1b63aabd3f8/Blog-DeckConstruction_Rossi_0656.jpg" alt="bird s eye view of unfinished decking"/>
+
+### Step 4: Install the Decking
+
+When the joists have all been set and attached to the joist hangers, start installing the decking material. If you’re using a composite or vinyl material, follow the manufacturer's guidelines for correct installation as requirements can vary slightly depending on the brand. For treated wood, start by squaring the first plank and attaching it to the underlying joist. Be sure to use decking screws for this. Continue installing the decking with a 1/4-inch gap between each plank.
+
+Once the decking has been attached, scan for any unsecured materials and make sure the anchor brackets are firmly attached. All that’s left to do after that is stain or paint. Then, sit back and enjoy the view and brief moment of solitude before all those folks wanting to hang on the nicest deck in town come a’knockin’.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._

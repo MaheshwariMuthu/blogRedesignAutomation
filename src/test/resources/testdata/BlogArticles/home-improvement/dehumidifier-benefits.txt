@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Benefits of a Dehumidifier"
+headline: "5 Benefits of a Dehumidifier"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-10-08
+basePath: https://library.homeserve.com/m/
+heroImage: 2a4b0191fa4da684/Blog-GettyImages-1280015573.jpg
+heroAltDescription: "Dehumidifier in a bathroom"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A dehumidifier can dry out moist air in your home. Here are five of the benefits you can expect once you begin using one."
+articleAbstract: "A quality dehumidifier can go a long way toward drying out extra-moist air in your home. Here are five of the benefits you can expect once you begin using one."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "X Benefits of a Dehumidifier"
+  parent: HVAC-Home-Improvement
+---
+  If you live in an environment that is prone to extra-moist air, then a dehumidifier might be something you want to look into. These boxy appliances suck air from around them, and run that air over cold coils to cause the moisture to condense. The condensation is then collected in either a receptacle or directed outside of the home via a hose.
+
+**This May Also Interest You:** [**Get Rid of the Humidity: Here’s How to Use a Dehumidifier Effectively**](https://www.homeserve.com/en-us/blog/how-to/use-a-dehumidifier/)
+
+A quality dehumidifier can go a long way toward drying out the air in your home or in any space that is prone to extra moisture, such as a basement or crawl space.
+
+Choosing a Dehumidifier
+-----------------------
+
+Most dehumidifiers are rectangular suitcase-like appliances, usually on wheels. They are simply placed in an area prone to moisture and plugged into a standard outlet. Two of the major choices you'll have when deciding on a dehumidifier are its size and whether or not it allows draining via a hose outside of your space.
+
+When choosing a size for your dehumidifier, you'll want to take into account the size of the room in which it will operate, along with the moisture level. For example, for a very wet environment like a crawl space that measures about 500 square feet, you'll need a 30-pint dehumidifier. That same unit could also clear the moisture from a 1,500-square-foot room that is just a little damp. There are several [online calculators](https://dashboard.aprilairepartners.com/dehumidifier-calculator) to help you choose the right size.
+
+Next, if your unit will be pulling a lot of moisture out of the air every day, you'll likely want to buy a unit that can drain outside the home via a hose. Usually, all this takes is putting the dehumidifier on a high enough spot in a room or basement and drilling a hole through the wall for the hose to exit and channel the water outside via gravity. If the dehumidifier can't be raised to the right height, there are units with built-in pumps that can help push the water out.
+
+If the room where you need your dehumidifier is just a little damp, then you might find emptying the water receptacle daily or every few days is an easier way to go.
+
+**More Related Articles:**
+
+*   [How to Clean a Dehumidifier](https://www.homeserve.com/en-us/blog/how-to/clean-dehumidifier/)
+*   [How to Set Your Whole-House Humidifier for Winter](https://www.homeserve.com/en-us/blog/how-to/humidifier-setting-in-winter/)
+*   [High Humidity Can Harm Your Home. Here’s How to Head Off Damage](https://www.homeserve.com/en-us/blog/home-improvement/high-humidity/)
+*   [How to Change a Whole-House Humidifier Filter](https://www.homeserve.com/en-us/blog/how-to/whole-house-humidifer-filter/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+Benefits of a Dehumidifier
+--------------------------
+
+### 1\. Odor Buster
+
+An excessively moist environment can be a breeding ground for mold and mildew. These organisms can not only look unsightly, but they can give off an unpleasant smell that can trigger asthma flare-ups and other reactions in sensitive individuals.
+
+### 2\. Stuff Protector
+
+Mold and mildew can grow on walls, curtains, rugs, furniture and other household staples and easily ruin them. By keeping the environment too dry to encourage this growth, dehumidifiers help keep the items in your home free from damage.
+
+### 3\. Health Helper
+
+Speaking of damage, mold and mildew can wreak havoc on certain people's health. Allergies to the spores these substances produce can be as mild as watery eyes and running noses, to as severe as serious breathing difficulties. And even though a moist environment can keep dust particles from flying around the air, it can also help dust mites thrive, which can, again, lead to serious allergy complications. According to the [Asthma and Allergy Foundation of America](https://www.aafa.org/dust-mite-allergy/#:~:text=Dust%20mites%20thrive%20in%20temperatures,of%2070%20to%2080%20percent.), dust mites do best in higher humidity levels of between 70% and 80%.
+
+### 4\. Pest Repeller
+
+In addition to keeping dust mites at bay, a dehumidifier can keep away other pests like termites, earwigs, centipedes and roaches. Like all life, these insects need moisture to survive, and if they can't find it in your home, they'll move on to search for it elsewhere.
+
+### 5\. Lower Energy Costs
+
+When your air conditioners run, they work by removing moisture from the air before they can deliver their cooling currents. If your home is excessively humid, the AC units will have to work even harder to get the job done and, as a result, can run up your electric bill. Letting an AC system and dehumidifier work in tandem and cut power costs over the long run.
+
+With many great dehumidifiers coming in under a $500 (CAD 650) price tag and costing less than about 10 cents an hour to run, if you have a moisture problem in your home, adding one or more to the most problematic rooms is an investment that will pay dividends by warding off potential damage to your house and your health.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

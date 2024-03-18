@@ -1,0 +1,107 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Long Do Major Home Systems Last?"
+headline: "Here's How Long All the Systems in Your Home Will Last"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-02-05
+basePath: https://library.homeserve.com/m/
+heroImage: 4f1650b2729714fc/Blog-GettyImages-1152752411.jpg
+heroAltDescription: "external HVAC air conditioner"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "How long does a water heater last? What about electrical wiring? Here's a guide to the expected usable life of your home's systems."
+articleAbstract: "How long does a water heater last? What about electrical wiring, indoor plumbing or sewer lines? Here's a guide to the expected usable life of your home's systems."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Long Do Home Systems Last?"
+  parent: Interior-Home-Home-Improvement
+---
+  
+
+What’s the lifespan of your home’s most critical systems? This is something homeowners need to know to estimate when they might need to replace things. With the large price tag often attached to major systems, being able to plan for repairs and replacements by having a general timeline can help you budget.
+
+**This May Also Interest You:** [**4 Signs You Need to Replace Your Air Handler**](https://www.homeserve.com/en-us/blog/home-improvement/air-handler-replacement-signs/)
+
+How long a home system will last isn't always easy to know. The type of system you’re talking about influences the [expected lifespan](https://www.thisoldhouse.com/21018361/how-long-things-last) — from about 10 years for a water heater to 100 years or more for some sewer pipes. The following guide should give you a reference for the expected usable life of common systems.
+
+HVAC System
+-----------
+
+The typical lifespan for heating, cooling and ventilation systems is between 15 and 25 years. Some HVAC components last longer than others.
+
+* **Furnaces:** 15 to 20 years
+* **Heat pumps:** 16 years
+* **Air conditioners:** 10 to 15 years
+* **Thermostats:** 35 years
+
+While thermostats can last several decades, most people replace them more often due to technological advances.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2f621d54dd401580/Blog-WaterHeaterControl_ERossi_3141.jpg" alt="Gas water heater temperature control"/>
+
+Water Heater
+------------
+
+Your water heater's expected life can vary depending on the type. Traditional tank water heaters usually last about 10 years, whether they are gas- or electric-powered. Newer tankless water heaters can last 20 years or more.
+
+Electrical Wiring
+-----------------
+
+The materials used to make electrical wiring have a very long lifespan. Copper, for example, can hold up for [100 years or more](https://romanelectrichome.com/do-electrical-panels-expire/). However, the insulation that makes the wiring safe can crack and deteriorate much sooner, making it necessary to replace the wiring. Starting at around 25 years, your electrical wiring should be inspected by a licensed electrician to ensure it's still in good condition. Your electrical panel should be replaced after about 25 to 40 years to ensure safety. You might need to replace lighting controls and other electrical accessories after about 10 years.
+
+<img class="detail-image" src="https://library.homeserve.com/m/7e7079a6dde2d828/Blog-ModernCircutPanel_Erossi_4617-jpg.jpg" alt="electrical circuit panel with switches"/>
+
+Indoor Plumbing Fixtures
+------------------------
+
+Plumbing components have varying lifespans. In many cases, the material lasts a long time, but the components that make the plumbing fixture work can break down. For example, the porcelain on the toilet is long-lasting, but the internal parts may stop working. The same thing can happen with faucets. In some cases, you can replace the broken parts and keep using the fixture.
+
+* **Toilets:** 10 to 15 years
+* **Faucets:** 15 years
+* **PVC drain lines:** Indefinite (see maintenance section below)
+* **Cast iron drain lines:** 75 to 100 years
+
+Septic and Sewer Lines
+----------------------
+
+Septic systems typically last between [15 and 40 years](https://www.mrrooter.com/greater-syracuse/about-us/blog/2019/april/septic-tank-faqs/), with the tank's material being a major determining factor. Steel septic tanks tend to have the shortest lifespan — usually only lasting about 15 years, due to rusting. Concrete tanks can last 40 years or longer. A properly designed and well-maintained septic drain field can last for 50 years or more. 
+
+The [lifespan of sewer lines](https://www.thisoldhouse.com/plumbing/21303078/sewer-line-repair) also varies based on the material.
+
+* **Cast iron:** 75 to 100 years
+* **Clay and cement:** Up to 100 years
+* **PVC:** Over 100 years
+* **Orangeburg:** 50 years
+
+Clogging is a common issue with both septic and sewer lines. This usually happens if you flush things that shouldn't go down your toilet. Tree roots can also grow into the systems and cause clogging or damage.
+
+<img class="detail-image" src="https://library.homeserve.com/m/37c408c716f197fb/Blog-HOMESERVEUSA-WSLDIGSHOOT-DAY2-2017DAVENOONANMODERNFOTOGRAPHIC-34of75-red.jpg" alt="Dave Noonan all rights reserved   Modern Fotographic"/>
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Repair or Replace a Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/repair-or-replace-water-heater/)
+*   [How Much Does It Cost to Repair or Replace a Water Service Line?](https://www.homeserve.com/en-us/blog/cost-guide/main-water-line-repair-versus-replacement/)
+*   [Top 3 Signs You Have Septic or Sewer Issues](https://www.homeserve.com/en-us/blog/home-improvement/sewer-septic-back-up/)
+*   [HVAC System Stop Working? Try these Troubleshooting Tips Before You Call for Service](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+
+Water Service Lines
+-------------------
+
+Main water supply lines can be made of different materials, depending on the home's age. Some older pipe materials are no longer used, but they're still in use in older homes. The [expected lifespan](https://www.carneyphc.com/blog/plumbing/how-long-will-my-homes-water-line-last/) of different water main supply pipes include:
+
+* **PVC:** Indefinite (see maintenance section below)
+* **Lead:** 100 years
+* **Cast iron:** 70 to 100 years
+* **Copper:** 50 years
+* **Brass:** 40 to 70
+* **Galvanized steel:** 20 to 50 years
+
+Why Maintenance Is Important
+----------------------------
+
+While you can use the average lifespan as a guide for when home systems need to be replaced, maintenance can be a bigger determining factor in how long your systems last. Doing routine maintenance and handling home repairs quickly before problems get worse can help your home systems last longer.
+
+The maintenance requirements vary by system. HVAC systems, for example, typically need the most maintenance. Routine filter changes should happen at least once per year, but some systems might need filter changes as frequently as once per month. Regular tune-ups from an HVAC professional also help keep your system well-maintained.
+
+The way you use the systems also has an impact. If you put harsh cleaners down the drain, it can deteriorate your pipes, for example. If you flush anything other than toilet paper and human waste down the toilet, it can clog your septic tank or sewer lines, leading to a need for repairs. Using home systems properly and following recommendations helps them last longer and reduces the number of repairs you must do to keep them operational.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

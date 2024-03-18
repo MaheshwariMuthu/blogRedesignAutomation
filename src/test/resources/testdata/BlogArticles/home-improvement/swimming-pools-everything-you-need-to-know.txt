@@ -1,0 +1,53 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Putting in a Pool? Here’s Everything You Need to Know"
+headline: "Putting in a Pool? Here’s Everything You Need to Know"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-07-01
+basePath: https://library.homeserve.com/m/
+heroImage: 2ba38bc440f84bcc/Blog-SwimmingPool_EmelioGarcia_Unsplash_0001.jpg
+heroAltDescription: "man diving into swimming pool"
+metaDescriptions: "Installing a swimming pool in the backyard is a big decision. We’ve compiled everything you need to know about pools so you don’t get in over your head."
+articleAbstract: "Installing a swimming pool in the backyard is a big decision with a lot of factors — from the up-front costs to the maintenance and upkeep. We’ve compiled everything you need to know about pools so you don’t get in over your head. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Swimming Pools: Everything You Need to Know"
+  parent: Exterior-Home-Home-Improvement
+---
+  In places that don’t have a climate conducive to year-round swimming, pool ownership might seem too tedious to be worth it for a relatively brief window of enjoyment. Testing the water, monitoring chemical levels and skimming debris — these aren’t tasks most of us would like to add to our already lengthy to-do lists. However, when the seemingly inescapable summer heat rolls around, it’s easy to see why many homeowners choose to take on these chores and the associated maintenance costs.
+
+**This May Also Interest You:** [**Child Drownings Are on the Rise: How Parents and Pool Owners Can Keep Kids Swimming Safely**](https://www.homeserve.com/en-us/blog/home-improvement/child-drownings-increasing/)
+
+That’s not to mention the upfront cost of putting in a pool which, depending on the type you install, could put a lot of stress on your pocketbook. This is all just to say that installing a swimming pool in the backyard is a _big_ decision. We’ve compiled everything you need to know about pools to help you avoid getting in over your head.
+
+Pool Prices
+-----------
+
+Inground pools come in all shapes and sizes. On average, you’ll spend between $25,000 and $60,000 to install one — or $50 to $125 per square foot. Materials matter when it comes to cost, too. Vinyl and fiberglass pools are your more affordable options. [Read more about inground pool prices.](https://www.homeserve.com/en-us/blog/cost-guide/inground-pool/)
+
+On the other hand, concrete pools come in at the upper end of that price range and can be similarly expensive to maintain. [Here’s our concrete pool cost guide](https://www.homeserve.com/en-us/blog/cost-guide/concrete-pool-installation/).
+
+Perhaps you’re not ready to go all-in. Semi-inground pools are also an option. These pools aren’t completely buried in your yard, so they require less excavation. You can install a decent-sized one for under $24,000. [Find the pricing information here.](https://www.homeserve.com/en-us/blog/cost-guide/semi-inground-pool/)
+
+You can save quite a bit of cash by going with an above-ground pool. Opt for the inexpensive inflatable style that you can pack away every fall, or go for a more permanent metal or resin model. In any case, you’re looking at a total cost of about $1,850 to $5,000. Take a look at this [above-ground pool price breakdown](https://www.homeserve.com/en-us/blog/cost-guide/above-ground-pool-installation/). Or, if you’re the DIY type, save yourself several thousand dollars on installation costs and check out our step-by-step [above-ground pool installation guide](https://www.homeserve.com/en-us/blog/how-to/install-above-ground-pool/).
+
+Pool Heater Costs
+-----------------
+
+Depending on where you live, pool season may only be a few months long. A pool heater can extend your pool days from early spring to fall, all for about $3,000. But as with any appliance, pool heaters come with operating and installation costs. Read more: [How Much Does a Pool Heater Cost?](https://www.homeserve.com/en-us/blog/cost-guide/pool-heater-installation/)
+
+How ’Bout a Hot Tub?
+--------------------
+
+Maybe you like your water hotter than what a pool can offer. Coming in at $500 to $6,500, installing a hot tub can be a cheaper way to get a body of water in your backyard. Here’s [everything you need to know about hot tub costs](https://www.homeserve.com/en-us/blog/cost-guide/hot-tub-installation/). Installing one can even be a DIY project; just take a look at these [hot tub installation instructions](https://www.homeserve.com/en-us/blog/how-to/hot-tub-installation/).
+
+Maintenance Considerations
+--------------------------
+
+If you already have a pool, you know the costs don’t end at installation. Maintenance and upkeep will run you an average of $1,000 to $2,000 per year. You can save money by doing some of these tasks yourself. These articles should come in handy:
+
+*   [Keep Your Pool Running Swimmingly With These Maintenance Tips](https://www.homeserve.com/en-us/blog/cost-guide/pool-maintenance/)
+*   [How, When and Why to Drain Your Swimming Pool](https://www.homeserve.com/en-us/blog/how-to/drain-pool/)
+*   [How to Clean a Pool Filter](https://www.homeserve.com/en-us/blog/how-to/clean-pool-filter/)
+*   [How Much Does a Pool Liner Cost to Repair or Replace?](https://www.homeserve.com/en-us/blog/cost-guide/pool-liner-replacement/)

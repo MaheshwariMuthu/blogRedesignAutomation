@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Does Putting in a Pool Increase Home Value?"
+headline: "Does Putting in a Pool Increase Home Value?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-10-10
+basePath: https://library.homeserve.com/m/
+heroImage: 5ddd097124d81e04/Blog-GettyImages-661628598.jpg
+heroAltDescription: "A backyard in-ground pool surrounded by brick pavers sparkles in the sun"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A swimming pool adds fun to your backyard, but can it add value to your home? Learn about swimming pool ROI and whether to install a pool before you sell."
+articleAbstract: "Do you ever fantasize about cooling down in your own swimming pool on a hot day? The reality could be less of a daydream if you decide to sell your home. Here's what to know about pool ROI."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Does Putting in a Pool Increase Home Value?"
+  parent: Exterior-Home-Home-Improvement
+---
+  Do you ever fantasize about cooling down in your own swimming pool on a hot day? The reality could be less of a daydream if you decide to sell your home.
+
+**This May Also Interest You:** [**How Much Does an Inground Pool Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/inground-pool/)
+
+Realtors sometimes refer to swimming pools as "money pits," for good reason — they cost a lot to build, are expensive to maintain and don't offer a great ROI. So, do pools add value to a home, and should you take the plunge?
+
+Do Pools Add Value to Homes?
+----------------------------
+
+According to Jill Penman in an [Architectural Digest](https://www.architecturaldigest.com/story/5-outdoor-features-that-will-add-value-to-your-home) interview, adding a swimming pool to your home will almost always boost its value. How much it adds depends on several factors, including the type and style of the pool and whether pools are a must-have feature where you live. Understanding the factors impacting the ROI of a pool can help you determine whether it's a worthwhile investment.
+
+What's the ROI of Adding a Pool?
+--------------------------------
+
+The National Association of Realtors [Remodeling Impact Report for 2023](https://cdn.nar.realtor//sites/default/files/documents/2023-03-remodeling-impact-outdoor-features-03-17-2023.pdf) estimates that adding an inground pool offers an ROI of around 56%. The average cost to install a swimming pool is around $90,000 (CAD 122,898), and the project increases the value of a home by roughly $50,000 (CAD 68,278).
+
+Therefore, installing a pool probably isn't the best way to improve your home's resale value immediately before selling. In fact, only 1% of realtors recommend installing a pool before putting a house on the market.
+
+On the other hand, your pool's value to your home may extend beyond its resale value. Homeowners scored the project highly for joy, with 90% saying it increased their enjoyment of their homes, and 89% of respondents said they wanted to spend more time at home after completing their projects.
+
+What Factors Affect a Pool's Value to a Home?
+---------------------------------------------
+
+Generally, in-ground pools offer a better ROI than above-ground installations. Pools with free-form shapes or those made from durable, premium materials may increase value more than more budget-friendly rectangular pools. Today's Homeowner estimates that [above-ground and vinyl pools](https://todayshomeowner.com/general/guides/swimming-pool-worth-the-investment/) only improve your home's value by around 5%, compared to about 8% for concrete or fiberglass in-ground pools.
+
+Factoring in the cost of maintaining your pool until you sell can help you avoid a costly mistake. Often, homeowners compare the increase in their home's value to the initial installation costs. However, you'll also have to commit to a regular maintenance schedule to prevent your investment from degrading. According to [HomeGuide](https://homeguide.com/costs/pool-maintenance-cost), pool maintenance costs $3,000 to $6,000 (CAD 4,097 to CAD 8,193) annually, significantly eating into your returns.
+
+**More Related Articles:**
+
+*   [How Much Does an Above-Ground Pool Cost?](https://www.homeserve.com/en-us/blog/cost-guide/above-ground-pool-installation/)
+*   [How Much Does a Concrete Pool Cost? The Price Isn’t Set in Stone](https://www.homeserve.com/en-us/blog/cost-guide/concrete-pool-installation/)
+*   [Can You Install an Indoor Pool Without Getting in Over Your Head?](https://www.homeserve.com/en-us/blog/cost-guide/indoor-pool/)
+*   [How to Open Your Swimming Pool for the Summer](https://www.homeserve.com/en-us/blog/how-to/open-swimming-pool/)
+*   [Play It Safe With Anti-Vortex Pool Drain Covers: Here’s How to Install One](https://www.homeserve.com/en-us/blog/how-to/install-anti-vortex-drain-cover/)
+
+Does a Pool Make Your Home More Attractive to Buyers?
+-----------------------------------------------------
+
+Whether a pool makes your home more attractive to buyers depends on the housing market in your area. You can assess whether pools are a must-have feature by comparing your home to other houses at a similar price point. If most houses have pools where you live, you could find it harder to sell if you don't have one.
+
+Generally, pools are in high demand in warm climates where you can use an outdoor swimming pool throughout the year. Installing a pool in a cold climate is unlikely to appeal to buyers as much.
+
+Your pool's condition can also impact the desirability of your home. While buyers may see the value in a well-maintained pool, an old or worn-out pool could be off-putting. Buyers may worry about paying for expensive repairs and maintenance for a pool in poor condition. The age of your pool could be a particular sticking point if you have an above-ground or vinyl pool because they tend to degrade faster.
+
+Finally, consider the impact of a pool on your backyard's layout. Installing a pool could be a poor investment if it takes up most of your backyard.
+
+Should I Install a Pool?
+------------------------
+
+Overall, installing a pool could still be a worthwhile investment if it gives you enjoyment and you intend to stay in your current home for several years. However, it's probably not worth it if your primary aim is to increase your resale value. In this situation, you may be better off spending your budget on outdoor improvements with higher ROIs. For example, lawn care services offer an ROI of 217% and cost just $415 (CAD 567) on average.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

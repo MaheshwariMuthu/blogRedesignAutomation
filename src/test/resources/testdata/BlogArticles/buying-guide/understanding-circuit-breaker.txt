@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "A Homeowner's Guide to the Circuit Breaker Panel"
+headline: "What Am I Looking At? A Homeowner's Guide to the Circuit Breaker Panel"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-10-03
+basePath: https://library.homeserve.com/m/
+heroImage: 44fe2860ca1055e6/Blog-HomeServeUSA-THW-PhotoShoot-2019ModernFotographicbyDaveNoonan-180of247.jpg
+heroAltDescription: "technician checking fuse box"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If your home had a brain, it would be its circuit breaker panel, which makes it useful, but a little hard to understand. This handy guide should help."
+articleAbstract: "If your home had a brain, it would be its circuit breaker panel, which makes it useful, but a little hard to understand. This handy guide should help."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "What Am I Looking At? A Homeowner's Guide to the Circuit Breaker Panel"
+  parent: Electrical-Buying-Guide
+---
+  If your home had a brain, it would be its circuit breaker panel.
+
+**This May Also Interest You:** [**All Homeowners Should Know These Electrical Terms**](https://www.homeserve.com/en-us/blog/buying-guide/electrical-outlet-types/)
+
+That said, just like the brain, your electrical panel can be a bit hard to understand in terms of everything it does and all that goes on behind its innocuous-looking metal door. This handy guide should help.
+
+Where Can I Find My Circuit Breaker Panel?
+------------------------------------------
+
+Your circuit breaker panel can be found nearly anywhere in your home, although it is most commonly located in garages, basements or utility rooms. The panel may also be located inside a closet or cabinet as well. Sometimes homes have two circuit breaker panels controlling power to different parts of a house, such as a large addition or a second story, for example.
+
+What Does a Circuit Breaker Panel Do?
+-------------------------------------
+
+Your circuit breaker panel is command central for the electrical current that flows through your house. The main power line from your utility company first passes through an electrical meter outside your home, which monitors your power usage, and then it feeds directly into the circuit breaker panel. From there, it is distributed throughout your home via individual circuits. Each of these circuits, which you can think of as routes of electrical current, are connected to circuit breakers, which portion out power from the main current. If a breaker senses that there is too much power being called for on a specific circuit, it will "trip," or turn off, to protect your home.
+
+What Are the Different Parts of a Circuit Breaker Panel?
+--------------------------------------------------------
+
+Circuit breaker panels are usually grey or brown in color and are covered with a door. Once that door is open, it reveals a series of black boxes with switches arranged vertically. These switches are your circuit breakers, and each should be marked with a label to the left or right explaining what the breaker controls. Sometimes, instead of labels, there is a piece of paper attached to the inside of the door that matches the circuit's function to the breaker via a simple diagram.
+
+At the very top of the series of switches, you'll notice a main breaker. Sometimes, it might be below the panel. This is akin to the main power switch to your home. Flip it off, and all the power that leads to the other breakers and circuits is canceled out. The main breaker can come in handy if you are doing an electrical project in your home and you need to kill a circuit, but you don't know which switch to throw. That being said, when you turn off your main breaker, you turn off _all_ of your home's power, so that means there won't be any lights or outlets available to supply electricity to power tools.
+
+The main breaker is usually labeled with an amperage designation that's typically either 100 or 200 amps. This is an indication of the total amount of power that is able to be distributed around your home.
+
+You'll also notice markings on your other circuit breakers. The bulk of these will be marked with either a “15” or “20,” meaning that the circuit it controls contains either 15 or 20 amps. Most standard circuits in the home are 15-amp, although some appliances like refrigerators or microwaves need dedicated 20-amp circuits.
+
+You will also see some breakers in your panel that look welded together. These double breakers can deliver 30-, 40- or 50-amp service. They are used by even larger appliances such as dryers and electric ovens.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/replace-electrical-panel/)
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets With GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Why U Trippin’? 3 Reasons Your Circuit Breaker Trips](https://www.homeserve.com/en-us/blog/home-improvement/circuit-breaker-tripping/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+
+### Dead-Front Cover
+
+After you open your circuit breaker panel door, you will notice another sheet of metal surrounding your circuit breakers. This panel is known as the dead-front cover. This means that pretty much all you'll see when you open the door is more grey or brown metal and all of your circuit breaker switches. And that's really all a homeowner ever should see. Under no circumstances should a homeowner ever take off the dead-front cover because there is an incredible amount of power surging behind it, and the risk of electrocution is high.
+
+You might even think that it's OK to remove the dead-front cover if you turn off your main breaker. It's not. While turning off the main breaker stops power from flowing from the utility line into your home, _it does not_ stop power from energizing the circuit breaker panel. In some newer homes, there is an emergency disconnect switch located between the electrical meter and the panel that will deaden it — but still, unless you are very comfortable working with high voltage, it's best to leave anything requiring the removal of the dead-front cover to a pro.
+
+Restoring a Breaker
+-------------------
+
+What you can do, however, is feel free to turn your circuit breakers on and off. As mentioned, the breakers in your panel indicate how much amperage they can handle. If a power surge or a short results in a call for power that exceeds this amperage, the breaker will trip and cut power. When this happens, the breaker switch will move to the center of its box. To turn it back on, you can sometimes simply flip it back. Sometimes, you’ll need to move it all the way in the "off" direction before flipping it back on. Breakers on the left side of the panel are on when their switches are all the way to the right, and those on the right side are on when the switches are all the way to the left.
+
+If you discover that a breaker is tripping repeatedly, you can try unplugging appliances that might be causing the issue to see if it stops. If it doesn't, you'll want to leave the breaker off and call in an electrician to take a look at the situation.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

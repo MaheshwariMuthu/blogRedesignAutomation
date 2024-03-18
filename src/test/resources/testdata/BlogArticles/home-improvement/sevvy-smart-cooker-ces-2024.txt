@@ -1,0 +1,52 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "CES 2024: Energy-Savvy Sevvy Smart Cooker Keeps Heat Low, Nutrition High"
+headline: "CES 2024: Energy-Savvy Sevvy Smart Cooker Keeps Heat Low, Nutrition High"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2024-01-07
+basePath: https://library.homeserve.com/m/
+heroImage: 5826625d53004589/Blog-User-interface.jpg
+heroAltDescription: "photo of sevvy smart cooker user interface"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "We all know healthy eating is not easy, but Sevvy aims to make it more accessible for the average home chef with the new smart cooker."
+articleAbstract: "We all know healthy eating is not easy, but Sevvy aims to make it more accessible for the average home chef with the new Sevvy Smart Cooker."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "CES 2024: Energy-Savvy Sevvy Smart Cooker Keeps Heat Low, Nutrition High"
+  parent: Appliances
+---
+  
+
+If you’re like [47% of Americans](https://www.statista.com/chart/29019/most-common-new-years-resolutions-us/), one of your New Year’s Resolutions is to eat healthier in 2024. But perhaps that was also your resolution last year … and the year before … and the year before that. We all know healthy eating is not easy, but Sevvy aims to make it more accessible for the average home chef with the new smart cooker.
+
+**This May Also Interest You:** [**How to Choose the Right Oven or Cooktop for Your Kitchen**](https://www.homeserve.com/en-us/blog/home-improvement/oven-cooktop/)
+
+The Sevvy Smart Cooker received a [CES 2024 Best of Innovation](https://www.ces.tech/news/press-releases/ces-press-release.aspx?NodeID=e4009b7b-7d58-408f-9bbe-4b28feaeb312) award for its patented, low-temperature cooking technology, which the company claims will revolutionize the way we make our meals. The Consumer Technology Association honors hundreds of products each year at CES (formerly the Consumer Electronics Show) with Innovation Awards. Only a select few receive a Best of Innovation award for truly game-changing ideas.
+
+Sevvy’s Smart Cooker is a countertop appliance that, the company claims, uses 90% less energy to cook food than ovens or other cookers. But low doesn’t mean slow; Sevvy also says their smart cooker cooks quickly at these decreased temps. The result is a brand-new cooking method that preserves taste, reducing the need for added sugars, salt and fats. Sevvy claims this technology retains more than 40% of the food’s nutrients.
+
+To do this, Sevvy goes beyond surface level.
+
+<img class="detail-image" src="https://library.homeserve.com/m/83ae498206d0f23/Blog-Two-pans-in-Smart-Cooker.jpg" alt="photo of sevvy smart cooker pans"/>
+
+Most of the ways you cook your food (oven, stove, microwave etc.) heat up the outer layer of the food for the whole cooking time and the inner layers through convection due to that outside heat. Sevvy’s technology passes electrical currents through the food, meaning that each part of the food, inside and out, is heated to the same temperature at the same time. This lowers the temperature needed to thoroughly cook the food and decreases the total cooking time. And if you’ve spent any time in the kitchen, you know those two factors can help your food retain flavor and moisture.
+
+“This technology will make cooking and food preparation more sustainable, and help people prepare amazing food that benefits their health, taste buds and the planet,” said Kamiel de Leur, CEO of Sevvy.
+
+**More Related Articles:**
+
+*   [How Much Does a Stove or Oven Cost?](https://www.homeserve.com/en-us/blog/cost-guide/stove-oven/)
+*   [Gas Stove Vs. Electric Stove: Which Is Best For You?](https://www.homeserve.com/en-us/blog/buying-guide/gas-vs-electric-stove/)
+*   [How to Clean an Electric Stovetop](https://www.homeserve.com/en-us/blog/how-to/clean-electric-stove-top/)
+*   [How to Clean Your Gas Stovetop](https://www.homeserve.com/en-us/blog/how-to/clean-gas-stove-top/)
+*   [Should You Use Your Oven’s Self-Cleaning Feature — and, If So, How?](https://www.homeserve.com/en-us/blog/how-to/oven-self-cleaning-feature/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/4ec32a303460fafb/Blog-Sevvy-smart-cooker-product-1.jpg" alt="photo of woman using sevvy smart cooker on countertop"/>
+
+The Sevvy Smart Cooker received a CES 2024 Innovation Awards Best of Innovation award in the Home Appliances category. The [CES Innovation Awards](https://www.ces.tech/news/press-releases/ces-press-release.aspx?NodeID=e4009b7b-7d58-408f-9bbe-4b28feaeb312) is a competition put on each year by the Consumer Technology Association that honors products in 29 categories for “outstanding design and engineering.” This year, the CTA received over 3,000 product submissions. Out of those, an independent panel of industry expert judges selected about 500 products to be honored, and they deemed just 36 products “Best of Innovation.”
+
+“This honor serves a tremendous motivation for numerous future applications driving positive impacts on quality, sustainability and health,” de Leur said.
+
+Currently, the Sevvy Smart Cooker is only available to original brand manufacturers, but the Dutch company said it intends to introduce the product to the broader consumer market at a later date.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Clean Your Oven | Cleaning Oven Tips and Tricks"></iframe>

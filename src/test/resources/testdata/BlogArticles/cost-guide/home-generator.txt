@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Portable Generator Cost?"
+headline: "How Much Does a Portable Generator Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-07-20
+basePath: https://library.homeserve.com/m/
+heroImage: 5336cb29bf00dcd4/Blog-GettyImages-170165360.jpg
+heroAltDescription: "technician checking external HVAC unit"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Portable generators vary in price based on size."
+articleAbstract: "Portable generator prices vary widely, from affordable devices designed to power a single appliance to more expensive options capable of powering an entire house."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does a Portable Generator Cost?"
+  parent: Electrical-Cost-Guide
+---
+  
+
+A whole-house generator can be a worthwhile investment if you live in an area with frequent power outages, but it's not the best option for every household. A portable generator offers excellent flexibility if you need a power source for outdoor activities that can double as a home backup during a power cut.
+
+**This May Also Interest You:** [**Everything You Need to Know About Home Generators**](https://www.homeserve.com/en-us/blog/buying-guide/home-generators/)
+
+Portable generator prices vary widely, from affordable devices designed to power a single appliance to more expensive options capable of powering an entire house.
+
+What Is a Portable Generator?
+-----------------------------
+
+A portable generator is a device that provides temporary power during an outage or for outdoor recreational events such as tailgates. These devices usually run on gas or diesel and contain an engine. The engine powers a mini turbine that generates energy, which allows you to plug in your devices and keep running them in the case of a power outage.
+
+The primary difference between a whole-house and a portable generator is that you can take a portable model around with you. Most people attach appliances to a portable generator using extension cables. In contrast, you hardwire a whole-house generator into your home's electrical system. Therefore, portable generators are generally less powerful than whole-house generators.
+
+However, some portable generators are suitable for hardwiring, giving you added flexibility. You can hire an electrician to wire a new power transfer switch into your home's circuit panel. This costs between $400 and $1,000 (CAD 500 and CAD 1,250) and lets you attach a larger portable generator to the switch to power hardwired systems and appliances.
+
+<img class="detail-image" src="https://library.homeserve.com/m/1f4185e063d73e11/Blog-GettyImages-1185497933.jpg" alt="Portable  job site  diesel generator on the street"/>
+
+What Size Portable Generator Do I Need to Power Items In My House?
+------------------------------------------------------------------
+
+Generally, a portable generator won't be powerful enough to run all the appliances in your home or an HVAC system. Therefore, if you want a portable generator, you'll need to decide which appliances are essential in a power outage and choose a model powerful enough to run them all simultaneously. 
+
+All your electrical appliances and fixtures should have a label showing how many watts of electricity they require. Add the wattage of your essential appliances together. Next, divide the total by 1,000 to determine how many kilowatts you need your generator to provide. It's generally a good idea to select a portable generator that's slightly more powerful than you need. Ask a generator dealer or local electrician if you're unsure what size portable generator to buy.
+
+**More Related Articles:**
+
+*   [How to Perform a Generator Load Bank Test](https://www.homeserve.com/en-us/blog/how-to/generator-load-bank-test/)
+*   [Home Backup Generator Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/generator-maintenance/)
+*   [Feeling in the Dark? Here’s What to Do During a Power Outage](https://www.homeserve.com/en-us/blog/how-to/what-to-do-power-outage/)
+*   [How Much Does a Whole-House Generator Cost?](https://www.homeserve.com/en-us/blog/cost-guide/whole-house-generator/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/65a28e79631615a7/Blog-GettyImages-958416454.jpg" alt="Using a yellow portable inverter generator on the street "/>
+-------------------------------------------
+
+How Much Do Portable Generators Cost?
+-------------------------------------
+
+How much a [portable generator costs](https://home.costhelper.com/portable-generator.html) mainly depends on its size. However, factors such as the power source and manufacturer can also affect the price. 
+
+### 500 to 2,000 Watts
+
+A generator providing between 500 and 2,000 watts can only power a single appliance and requires frequent fuel top-ups. This size generator is most suitable for camping and outdoor parties, costing between $200 and $650 (CAD 250 and CAD 815). Alternatively, you could consider renting a generator for between $65 and $185 (CAD 80 and CAD 230) per day if you only need it as a one-off.
+
+### 3,000 to 6,500 Watts
+
+A portable generator of this size can provide enough power to run several appliances or lights during a power outage. Smaller models start at around $330 (CAD 415), but you could pay as much as $2,000 (CAD 2,500) for a diesel-powered generator toward the more powerful end of the scale. 
+
+### 7 to 8 Kilowatts
+
+A 7- to 8-kilowatt portable generator can run multiple appliances, lights and home systems simultaneously, but it may struggle to power a modern HVAC system. Expect to pay between $1,000 and $2,500 (CAD 1,250 and CAD 3,100) for these models. 
+
+### 10 to 18 Kilowatts
+
+A 10- to 18-kilowatt portable generator can produce enough power to run most of the fixtures in an average family home, including a modern HVAC system. These generators are significantly more expensive, costing $2,000 to $4,000 (CAD 2,500 to CAD 5,000).<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

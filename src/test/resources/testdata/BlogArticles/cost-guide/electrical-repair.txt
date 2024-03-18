@@ -1,0 +1,106 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Do Electrical Repairs Cost?"
+headline: "How Much Do Electrical Repairs Cost? A Comprehensive Guide"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-10-28
+basePath: https://library.homeserve.com/m/
+heroImage: 318dd8612bc3c6ea/Blog-ElectricalFuseBox_MDavis_IMG_7612.jpg
+heroAltDescription: "Electrical fuse box in basement with exposed wires"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Because of the high price of electrical work, being aware of the average costs may help you budget for repairs."
+articleAbstract: "Because of the high price of electrical work, being aware of the average costs associated with each project may help you budget for repairs."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Do Electrical Repairs Cost? A Comprehensive Guide"
+  parent: Electrical-Cost-Guide
+---
+  If you own a home, you should anticipate that you’ll need electrical repairs from time to time. Unfortunately, you should also expect that these are some of the more expensive home repairs you’ll face. Whether an outlet needs to be replaced or your entire home needs to be rewired, all electrical repair projects come with different costs.
+
+**This May Also Interest You:** [**Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?**](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+
+Because of the high price of electrical work, being aware of the average costs associated with each project may help you budget for repairs.
+
+Electrician Cost Per Hour
+-------------------------
+
+When you want to hire an electrician to complete any type of electrical project, there are some basic labor costs that you should be aware of. According to data from [Fixr](https://www.fixr.com/costs/electrician), most electricians charge an hourly rate of $40 to $120 (CAD 55 to CAD 165). If you’re hiring an electrician for a large job — like installing new wiring — this can quickly add up. Several factors play a part in what you'll pay for an electrician, including where you live, the electrician's reputation and what type of work needs to be done. More reputable electricians may charge higher rates because of how strong their reputation is.
+
+You can expect to pay upward of $150 (CAD 210) per hour for an emergency callout. Your electrician may also charge more if they have to travel a long distance to get to your home. Therefore, it's recommended that you search for an electrician who's nearby. Keep in mind that many electricians will charge an appearance or diagnostic fee for visiting your property and assessing the issue. In most situations, this fee will be slightly less than the hourly rate.
+
+While the labor involved with electrical work can make up most of the costs associated with a repair, the costs can also increase substantially if lots of materials are needed to complete the project in question. It's highly recommended that you seek estimates from several companies to give you a better idea of what the costs will be so you don’t end up spending more than you should. Along with providing a pricing estimate, the electrical system issues you're experiencing will be diagnosed.
+
+Electrician Costs by Type
+-------------------------
+
+There are several different types of electricians you could hire, which means that costs can differ based on that factor as well. While there are several types of electricians you’re probably not looking to hire — industrial, commercial, aviation, etc. — there are also a variety of different roles that residential electricians can take.
+
+For instance, some electricians specialize in low-voltage electrical work. While low-voltage electricians have many of the same tasks as general residential electricians, they will only perform maintenance and repair work if the voltage is less than 49 volts. Some of the work that low-voltage electricians perform include repairing home entertainment systems, diagnosing issues with fire alarms and maintaining home internet systems. For these smaller projects, you can expect the electrician to charge on the lower end of the spectrum, or around $50 (CAD 70) per hour.
+
+Cost to Replace Circuit Breaker or Electrical Panel
+---------------------------------------------------
+
+Electrical systems are comprised of many components, some of which cost much more to repair than others. If the circuit breaker or electrical panel in your home is old and outdated, it may be a good time to replace this home system. For this particular project, the materials and components needed can be costly. Keep in mind that some older homes have entirely obsolete circuit panels that only support 20 to 40 amps and don't include GFCI (ground-fault circuit interrupter) protection.
+
+If your circuit panel needs to be replaced, you can upgrade to a modern panel that better supports the increased electrical use that your home has. It's likely that your fuse box will also need to be replaced. The latest electrical codes require that electrical panels are equipped with GFCI protection, which ensures that the panel is immediately shut down when water is close to an outlet. Certain circuit breaker panels will also be outfitted with AFCI (arc-fault circuit interrupter) breakers. AFCI breakers are considerably more expensive than their standard counterparts and will likely cost you between $40 and $60 (CAD 55 to CAD 80) apiece, according to [HomeGuide](https://homeguide.com/costs/electrical-work-pricing-guide#list).
+
+If you want to upgrade your current electrical panel to a system that accommodates 100 amps, you can expect the project to come to about [$1,200 to $1,600](https://homeguide.com/costs/cost-to-replace-electrical-panel#100) (CAD 1,650 to CAD 2,200). On the other hand, a full system replacement can cost you between [$850 and $2,500](https://homeguide.com/costs/electrical-work-pricing-guide#panel) (CAD 1,200 and CAD 3,400).
+
+Keep in mind that your system upgrade doesn't need to stop at 100 amps; if you want to upgrade to a circuit panel that supports 400 amps, the total could be as high as [$4,000](https://home.costhelper.com/electrical-upgrading-electrical-service.html) (CAD 5,550). A 400-amp system is beneficial because it allows you to take future electrical upgrades into account.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets with GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+*   [Wrong Kind of Blowout? Why Your Hair Dry Trips the Circuit Breaker](https://www.homeserve.com/en-us/blog/home-improvement/why-does-hair-dryer-trip-circuit-breaker/)
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-it-cost-to-replace-or-upgrade-an-electrical-panel/)
+
+Wiring Costs
+------------
+
+Installing new electrical wiring can be costlier than most other electrical projects because of the work that needs to be done. When you install new wiring in your home, the number of lighting fixtures, receptacles and switches will dictate what the project costs. [HomeGuide](https://homeguide.com/costs/electrical-work-pricing-guide) says you can expect new wiring costs to be an average of $6 to $8 (CAD 8 to CAD 11) for every linear foot of wire. Each switch or receptacle will cost around $100 to $250 (CAD 140 to CAD 340) to add or replace. When you're completing a major renovation in your home, the costs associated with the new wiring could be around $2,500 to $6,000 (CAD 3,400 to CAD 8,200) for a three-bedroom house.
+
+### Cost to Wire a House
+
+If your entire home needs to be rewired, expect to shell out quite a bit. The complexity of the project means that the electrician will likely take many hours to complete the project. The electrician's hourly rate can play a big role in what the project costs will be. Since plaster and drywall repairs are often needed when rewiring an entire home, you can expect to pay between $1,500 and $10,000 (CAD 2,100 and CAD 13,700), based on data from [Thumbtack](https://www.thumbtack.com/p/cost-to-rewire-a-house).
+
+### Cost to Rewire a Light Switch
+
+Rewiring or replacing a light switch is, comparatively, an affordable electrical project. When you want to rewire or replace a single switch, plan for total costs to amount to [$50 to $150](https://www.fixr.com/costs/install-light-switch#cost-to-replace-a-light-switch-by-type) (CAD 70 to CAD 200). However, the average cost for rewiring one switch will be lower if several switches need to be rewired at the same time.
+
+### Cost to Add Light Fixtures
+
+Whether you want to install recessed lights or ceiling fans mounted with lights, you’ll probably need to call an electrician to help. The average cost of installing a light fixture is between [$280 and $1,000](https://www.thumbtack.com/p/lighting-installation-cost) (CAD 390 and CAD 1,400). Keep in mind that this is the national average. If you live in an area with a high cost of living, you can expect electrician costs to be higher. If you would like to install recessed lighting, you’ll pay around $175 to $225 (CAD 240 to CAD 310) per light.
+
+### Cost to Repair or Replace Electrical Outlet
+
+Over time, all electrical outlets will start to experience general wear and tear that makes them less effective. It's also possible for a power surge to damage an electrical outlet even when the outlet is in good working condition. Because electrical outlets aren't too expensive, it's much more common for the outlet to be replaced entirely as opposed to being repaired. The cost you pay to have an electrical outlet replaced depends on the type of outlet that's installed in your home. [Forbes](https://www.forbes.com/advisor/home-improvement/outlet-installation-cost/) says the average price for a receptacle is between $125 and $175 (CAD 170 and CAD 240), though these costs can increase substantially if you decide to purchase a receptacle that includes a higher current or GFCI protection.
+
+Call a Professional or DIY?
+---------------------------
+
+With all these numbers being thrown around, you may be considering doing the work yourself instead of hiring a professional. It would certainly save you some cash. But beware that electrical work is tricky stuff. You should almost always opt for contacting a professional electrician when your home requires repair work.
+
+While nearly all home improvement projects have their risks, performing electrical work is considerably more dangerous if you don't have experience with this kind of work. Mistakes with wiring can be costly. For instance, if you accidentally use old wiring on your project, it might not be sufficient for handling an increased current. In this situation, you might unknowingly create a fire risk that would endanger the occupants of your home.
+
+Even though you'll need to spend some money to hire an experienced and reputable electrician for the job, they can complete any electrical project safer and quicker than you would likely be able to. While licensed electricians will cost you around $40 to $120 (CAD 55 to CAD 165) per hour, most electricians have a minimum price that you need to pay before they make a service call.
+
+FAQs
+----
+
+### How Do You Estimate How Much an Electrical Job Will Cost?
+
+If you want to get an idea of how much an electrical job will cost before any work begins, you should request an estimate from an electrician you're thinking about hiring. Keep in mind that the aforementioned prices only indicate national averages. These numbers can’t take every project factor into account, which is why it's recommended that you request price estimates from at least three electricians before hiring. When an electrician arrives at your home, they will assess the damage, write up a report and provide you with a standard estimate of the project costs.
+
+### Why Does Electrical Work Cost This Much?
+
+Hiring an electrician can be expensive. Though the costs for electrical work might seem high, remember that the work itself is dangerous and carries some risk. This is why electricians charge a high price that you must agree to pay before they get to work. No matter how safe an electrician is when performing electrical work, they put themselves at risk of electric shock, burns and similar hazards. Because of these risks — as well as the technical nature of the work — electricians are more expensive to hire than other home improvement professionals.
+
+### Can I Rewire a House Myself?
+
+While it's technically possible to rewire your own home, this can be very dangerous and isn't always legal. If the electrical work is relatively minor, it's possible to perform this work on your own without any special permits. However, electrical permits are almost always required before you can rewire a home. Without a permit, the work you perform would be illegal, which could result in hefty fines being levied against you. According to [HomeGuide](https://homeguide.com/costs/building-permit-cost#electrical), these permits could cost you anywhere from $50 to $350 (CAD 70 to CAD 480), depending on the scope of the project.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

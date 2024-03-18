@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What You Need to Know About Heated Driveways"
+headline: "Dreaming of a Heated Driveway? Here's What You Need to Know Before Installing One"
+author: Mark Soto
+tags: ["post"]
+publishDate: 2021-10-15
+basePath: https://library.homeserve.com/m/
+heroImage: 73daf6a3e9828477/original/GettyImages-173575939.gif
+heroAltDescription: "graphic simulation and animation of a snow covered driveway that is slowly becoming clear of ice"
+metaDescriptions: "Installing a heated driveway is the best way to ensure you won't be shoveling snow this winter. Here's what you should know about them."
+articleAbstract: "Heated driveways not only add additional value to a home but also provide the obvious benefit of a snow-free parking space. Find out everything you need to know about them here."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Heated Driveways: What You Need to Know Before Installing One"
+  parent: Exterior-Home-Home-Improvement
+---
+  Installing a heated driveway adds value to a home and provides numerous benefits aside from just the obvious convenience. For those who live in snow-heavy areas, heated driveways are a huge timesaver and often eliminate the need to shovel after a heavy snowstorm.
+
+**This May Also Interest You:** [**How Much Does a Heated Driveway Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/heated-driveway/)
+
+Another pro is that they eliminate the need to spread de-icing chemicals, many of which are toxic and harmful to the material, environment and pets. They protect both the homeowner and anyone visiting the property from slip and fall risks which can cause injury and costly insurance claims. Some heated driveways also help protect finished surfaces, increasing the overall life of the driveway.
+
+If you’re considering installing a heated driveway, here’s a guide on everything you need to know.
+
+Types of Heated Driveways
+-------------------------
+
+When it comes to heated driveways, there are two main types: electric and hydronic. Additionally, there are different variations within these two types of systems. The main difference between them is how each system melts the snow.
+
+### Electric Driveway Systems
+
+With electrically heated driveway systems, electrical current is run through cable or mats, which causes the material to generate heat. ​​Drew Mauro, operations manager for [Green Wave Distribution](https://www.greenwavedist.com/), explained that these cables or mats are manufactured with corrosion-resistant coatings and installed underneath the driveway surface. How effective the corrosion resistance varies per manufacturer, so it’s essential to research before purchasing.
+
+Electric driveways can be broken down into two different types: line voltage and self-regulating. Line voltage systems heat up very quickly and can be turned on when the snow starts to fall. While this might sound convenient, the downside is that line-voltage systems utilize a large amount of electricity very quickly.
+
+Self-regulating systems are turned on during the start of the season and turned off at the end. They are constantly running and adapt to temperature changes. Since they don’t have to elevate their temperature to melt snow quickly, these systems utilize low-voltage power and less electricity. Additionally, since they’re always on, it reduces thermal cycling, which can cause cracks in a driveway.
+
+### Hydronic Driveway Systems
+
+Hydronic heated driveway systems function by running a mixture of heated water and antifreeze through a series of tubing in a closed loop. Mauro said that, just like electrically heated driveways, the tubing is installed underneath the finished driveway material. They are fed by a boiler, so they can run on different fuel sources.
+
+In general, most hydronic heated driveways utilize PEX tubing. Since boiler systems can run on a variety of fuels, you should research fuel costs in your area and select a boiler system that runs on the least expensive fuel source.
+
+How Much Do Heated Driveways Cost?
+----------------------------------
+
+You can expect to pay anywhere between $4,000 to $16,000 for installation. Three primary factors that affect pricing are the length of the driveway, surface material and how it’s heated.
+
+Electrically heated driveways have a lower upfront cost than hydronic heated driveways since they don’t require additional mechanical equipment. While hydronic systems tend to have a higher upfront cost than electric systems, they can be less expensive to operate over a longer time. However, the maintenance cost for a hydronic system is often greater than that of the electric system, which has no moving parts.
+
+The bigger the space, the more capacity is needed to melt the snow. Mauro said some customers will only install heated tire tracks for large driveways to reduce overall costs. Sometimes people place total element coverage in the areas they park the cars and then run two tire tracks down the length of the driveway.
+
+### Operating Costs
+
+The operating costs for heated driveways depend on many factors, including the type of system, its size and its location. It’s important to check the local electricity, gas, and oil costs prior to selecting one. In areas with high electricity rates, hydronic systems may be a better option. The reverse is true in areas with low electricity rates, as electric systems may have lower operating costs.
+
+**More Related Articles:**
+
+*   [Non-Salt Awesome Sauce Alternatives for De-icing Your Driveway](https://www.homeserve.com/en-us/blog/how-to/deicing-driveway/)
+*   [How Much Does Driveway Sealing Cost?](https://www.homeserve.com/en-us/blog/cost-guide/driveway-sealing/)
+*   [Weeds, Whacked! 5 Ways to Kill Weeds In Your Driveway or Sidewalk](https://www.homeserve.com/en-us/blog/how-to/kill-weeds/)
+*   [How to Resurface Your Asphalt or Blacktop Driveway](https://www.homeserve.com/en-us/blog/how-to/resurface-asphalt-driveway/)
+*   [Kick Asphalt to the Curb: A Gravel Driveway Is Cheaper](https://www.homeserve.com/en-us/blog/cost-guide/gravel-driveway/)
+
+How Much Snow Can They Handle?
+------------------------------
+
+System designs are based on [ASHRAE](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj0gYu26IHzAhUYa80KHYoMC7wQFnoECAgQAw&url=https%3A%2F%2Fwww.ashrae.org%2F&usg=AOvVaw24ivn5xQgkhJZk4TYvdlyU) snow-free ratio classifications, of which there are three. As a general statement, Mauro said most systems are designed to melt snow as it falls up to 2 inches per hour. For critical applications, some designs can assure there is never standing snow or ice at any time regardless of the snowfall rate. Each system design is based on the site location, conditions, type of finished materials and requested ASHRAE classification.
+
+Do Heated Driveways Crack?
+--------------------------
+
+Like traditional driveways, the surface material used for heated driveways can eventually crack after years of heavy use. However, heating a driveway can often help extend the life of the material. Since you’re not using rock salt for de-icing, you don’t damage the asphalt or concrete. Plus, less use of rock salt is also good for the environment.
+
+Overall, heated driveway systems can be a great way to add value and, most of all, convenience to your home. If you’re considering installing a new driveway, now’s the time to consider a heated one. Both system and operating costs vary, so it’s crucial to research fuel and electricity prices in your area before purchasing a system.

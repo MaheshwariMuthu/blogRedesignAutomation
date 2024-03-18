@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Should You Use Your Oven’s Self-Cleaning Feature — and, If So, How?"
+headline: "Should You Use Your Oven’s Self-Cleaning Feature — and, If So, How?"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-01-23
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: stove-auto-clean.gif
+heroAltDescription: Person activating the self-cleaning feature on a GE oven
+metaDescriptions: Do you use your oven's self-cleaning feature or do you clean your oven by hand? Learn about how this convenient feature works and whether you should be using it.
+articleAbstract: Anti-self-cleaning-oven sentiment abounds on the home-enthusiast-blog circuit, with many advising against ever using the feature. Reasons offered include blown fuses, overheated control panels, carbon-monoxide emissions, excessive smoke and even full-on house fires. Do you use yours? If not … why?
+category: ["How To"]
+eleventyNavigation:
+  key: "Should You Use Your Oven’s Self-Cleaning Feature — and, If So, How?"
+  parent: Appliances-How-To
+---
+
+We’ve got “smart homes” that let you adjust the temperature via phone app before you come home. We’ve got surveillance cameras in our doorbells. Heck, we’ve even got adorable little robots that scoot around and vacuum your floor while you’re out. And, yet, the so-called self-cleaning oven still feels like a gee-whiz technological marvel straight outta “The Jetsons” — despite said marvel having existed in the non-cartoon world since the early 1960s. Do you use yours? If not … why?
+
+__This May Also Interest You:__ [__Choosing the Right Oven/Cooktop for Your Kitchen__](https://www.homeserve.com/en-us/blog/buying-guide/oven-cooktop/)
+
+If you’re like a lot of homeowners out there, it’s fear that prevents you from availing yourself of this not-so-modern convenience. Anti-self-cleaning-oven sentiment abounds on the home-enthusiast-blog circuit, with many advising against *ever* using the feature. Reasons of varying veracity offered include blown fuses, overheated control panels, carbon-monoxide emissions, excessive smoke and even full-on [house fires](https://www.thespectrum.com/story/news/local/cedar-city/2015/07/09/self-cleaning-oven-blame-new-harmony-house-fire/29941963/).
+
+## Is Self-Cleaning Safe?
+
+Even if only some of this stuff is even remotely likely, is it worth the risk just to save you a little elbow grease doing it by hand? Ask yourself that question when you’re staring into the greasy, crud-caked abyss following a weeks-long cycle of oven abuse spanning the Thanksgiving-to-New Year’s holiday season.
+
+Take heart, demoralized appliance owner: Oven manufacturers insist that their products have been tested exhaustively to ensure they function properly, effectively and, above all, safely in self-cleaning (or “[pyrolytic](https://www.youtube.com/watch?v=FzN5kPhbJ0o)”) mode.
+
+In a USA Today report, Dave Kender, editor-in-chief of consumer-product review publication Reviewed, weighed in on the self-cleaning skepticism.
+
+“Whom should you believe? Given the amount of safety testing that ovens undergo before they hit shelves, I lean toward trusting the self-clean feature,” [Kender stated](https://www.usatoday.com/story/money/columnist/2019/11/22/how-safely-clean-your-oven-thanksgiving/4254855002/). “After all, an ‘I cleaned my oven and everything went fine’ story will never go as viral as a tale of Thanksgiving catastrophe.”
+
+Not convinced? Better safe than sorry? Or perhaps you’re the type who insists on rinsing your dishes before putting them in your dishwasher despite the manufacturer’s insistence you can skip this water-wasting step and, likewise, prefers to clean the oven by hand. We salute your stubbornness in the name of home maintenance and, if you’re committed to the manual route, we’ve got [step-by-step advice](https://www.youtube.com/watch?v=ggTcpCrQDZU&feature=emb_logo) on how. Everyone else, keep reading to learn more.
+
+## How Self-Cleaning Ovens Work
+
+GE, which has dozens of different self-cleaning oven models in its product lineup, explains that the feature works its magic with extreme heat — with temperatures during a self-cleaning cycle exceeding those of a brick oven at a wood-fired pizza joint — reducing all that seemingly impenetrable cooking residue to literal ash.
+
+“During the cleaning cycle the oven is heated to about 880 degrees Fahrenheit,” [GE states](https://www.geappliances.com/ge/range-stove/range-cleaning-options.htm). “At this temperature, food soils inside the oven decompose, leaving behind a small amount of ash. The leftover ash is similar to cigarette ashes, and wipes out easily with a wet cloth.”
+
+Once the self-cleaning function is activated, the oven door locks in order to prevent any unsuspecting persons from wandering into the kitchen, opening it up unawares and burning themselves. GE says the self-cleaning process can take anywhere from an hour and a half to four hours, depending on how filthy the oven is.
+
+## Self-Cleaning Tips
+
+GE noted the following things for self-cleaning oven users to be aware of:
+
+- A slight odor may be detected the first few times the oven is cleaned.
+- No commercial oven cleaner or oven liner of any kind should be used in or around any part of the self-cleaning oven.
+- Do not use pieces of aluminum foil to catch spillovers (it blocks airflow and can actually fuse to the oven due to the extreme temperatures).
+- Depending on your oven model, the pans and racks may need to be removed.
+- If you know your oven racks were specifically manufactured for use in the self-cleaning process, you can leave them inside — but you *must* remove standard stainless steel racks and wash them by hand.
+
+## Additional Advice
+
+Further self-cleaning suggestions come courtesy of USA Today:
+
+- Brush larger food stains off the oven walls and glass by hand before starting the self-cleaning cycle.
+- Remove pet birds from the area around the oven, as carbon monoxide is a byproduct of the cleaning cycle, and our avian amigos tend to be more sensitive to changes in air quality.
+- Keep young children out of the kitchen; even though the door locks, the oven's exterior is hotter than normal.
+
+*Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ggTcpCrQDZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

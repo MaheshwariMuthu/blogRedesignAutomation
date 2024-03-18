@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "X Signs Something Is Wrong With Your Well Pump"
+headline: "8 Signs Your Well Pump Is Not Well"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-16
+basePath: https://library.homeserve.com/m/
+heroImage: 5aaeac0c1ea0fd8f/Blog-GettyImages-494980653.jpg
+heroAltDescription: "Angry Driver"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Here’s how to spot issues with a well pump early and extend the life of the pump."
+articleAbstract: "An issue with your well pump can leave your faucets dry. Here’s how to spot issues with a well pump early to have them rectified and extend the life of the pump."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "X Signs Something Is Wrong With Your Well Pump"
+  parent: Plumbing-Home-Improvement
+---
+  You expect water to flow _immediately_ when you turn on your faucet — whether you get your water from municipal sources or your backyard well. Not to be confused with a sump pump, which prevents flooding in basements, a well pump is a crucial part of keeping the water flowing if you have a well.
+
+**This May Also Interest You:** [**9 Common Plumbing Myths — Busted**](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-system-myths/)
+
+An issue with your well pump can leave your faucets dry. Here’s how to spot issues with a well pump early to have them rectified and extend the life of the pump.
+
+What Is a Well Pump?
+--------------------
+
+A well pump is the equipment that helps move the water from the well to your home's water storage tank, called a pressure tank, where it's ready when you need it in your home. The pump turns on and off automatically based on the air pressure inside the tank. The three main types of well pumps are centrifugal, submersible and jet, each of which does the same job of pumping water but uses different mechanics to get the job done.
+
+How Long Does a Well Pump Last?
+-------------------------------
+
+The lifespan of a well pump is usually between [8 and 15 years](https://www.croppmetcalfe.com/blog/inside_your_home/how_long_does_a_well_pump_last/), but how long yours lasts can depend on the way you use it and the type of pump you choose. The size and quality of the motor in the pump can affect how long it lasts. A pump with a larger, more durable motor should last longer if you care for it well. Power loss can negatively affect a well pump. Other things that can influence how long a well pump lasts include how many times the pump has to run on an average day, the water table height and the amount of sediment in the water.
+
+If You Notice These Signs, You Need to Repair Your Well Pump
+------------------------------------------------------------
+
+Even if your well pump lasts 15 years, you might need occasional well pump repair to keep things running smoothly. Many of the signs of a problem show themselves in how your water runs inside your home. If you notice issues with your water supply, contact your well service provider for an inspection and repairs.
+
+Just like other features of your home, your well pump needs occasional servicing and repairs to run well. Watch for these signs and call a professional quickly to prevent severe damage.
+
+### 1\. Changes in Water Pressure
+
+Low water pressure is usually one of the most obvious signs that your well pump isn't working properly. However, you might also notice fluctuations in the pressure. Other things can also cause water pressure changes, though, so you might need a plumber or well service provider to determine the cause.
+
+### 2\. Odd Noises From the Pump
+
+You probably know how your well pump normally sounds. If the well pump starts making new or unusual sounds, it could be a sign that something's failing. This often happens if a bearing or moving part within the pump is wearing out.
+
+**More Related Articles:**
+
+*   [Here’s How Long All the Systems in Your Home Will Last](https://www.homeserve.com/en-us/blog/home-improvement/home-systems-lifespan/)
+*   [How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+*   [Does Homeowners Insurance Cover Plumbing Repairs?](https://www.homeserve.com/en-us/blog/buying-guide/homeowners-plumbing-insurance/)
+*   [Pipe Burst? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+*   [5 Things You Should Know About Your Plumbing Vents](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-vents/)
+
+### 3\. Pressure Tank Sounds
+
+Inside your system's pressure tank is an air bladder. If something goes wrong with it and it leaks, it can strain the motor of your well pump. If you notice a new sound from your pressure tank, especially fast clicking, call a professional to check it immediately to prevent damage to your well pump.
+
+### 4\. Water Spitting From Faucets
+
+Another sign of an issue with the air bladder is water that spits or spurts from your faucet. This happens because the air bladder issue adds air into the water.
+
+### 5\. Lack of Water
+
+If the pump stops working completely, your water will stop working, too. You'll notice this if you try to turn on a faucet or flush a toilet and no water comes out.
+
+### 6\. Constantly Running Pump
+
+A well pump that's struggling to pump water efficiently might run nonstop. This can happen for many reasons, including a leak in the suction line. A similar problem is short cycling, where the pump runs for a short time and shuts off. If you notice your pump isn't shutting off or is short cycling, have it checked out.
+
+### 7\. Higher Utility Bills
+
+When there's an issue with your well pump or pressure tank, the system often decreases in efficiency. That forces the system to work harder, which can use more electricity. If you notice a sudden increase in your electric bill, especially if you notice other signs of an issue, the well pump could be to blame.
+
+### 8\. Sediment in Your Water
+
+If sand and silt get into the pump, it could end up in your water supply. This can happen if the pump is too powerful or if the filter is damaged. Sand and silt can be hard on the pump and cause it to wear out sooner.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,52 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 'Hard Water: Everything you need to know'
+headline: How to know if your Bathtub has Hard Water
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2019-02-13
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: bathHS.jpg
+heroAltDescription: Bathtub
+metaDescriptions: There's a big difference in your home between having hard or soft water. Learn the signs of hard water.
+articleAbstract: Does your home have hard or soft water? Here’s what you need to know.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: 'Hard Water: Everything you need to know'
+  parent: Plumbing-Home-Improvement
+---
+
+::: blog-info
+The first time I cleaned the shower in my new home, I couldn’t get the soap scum off the bathtub. No matter how much I scrubbed, no matter which cleaning products I used, it wouldn’t budge. When my neighbor mentioned it might be caused by “hard” water, I thought “what is she talking about.” To me the concept of “hard” or “soft” doesn’t apply to something like water. To me, water is just simply wet. Upon further research, I quickly realized there really is such a thing and there’s a big difference between having hard or soft water.
+
+So, I am saving you some time and energy by sharing my knowledge. Here's what you should know about hard water:
+
+## What is hard water?
+
+High in minerals like calcium and magnesium, hard water is common across the United States. In fact, maps from Marmon Water reveal that [85 percent of Americans](https://homewater101.com/articles/hard-water-across-us){target="_blank"} have hard water in their homes. The severity depends on location, with Indianapolis, Las Vegas, Minneapolis, Phoenix, San Antonio and Tampa among the metro areas with the highest levels of minerals in hard water. By contrast, New England, Hawaii and the Pacific Northwest tend to have the softest water.
+
+[1]: {{ migrationData.planspage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+## What are the signs of hard water?
+
+While hard water is safe to drink, bathe or for washing, it can easily stain sinks, tubs, dishes and clothes. It can also lead to [higher water bills](https://www.whirlpoolwatersolutions.com/learning-center/water-softeners/hard-water-the-hard-facts/){target="_blank"} by making appliances work double time, according to Whirlpool.
+
+After bathing in hard water, you may experience dry skin and flat hair caused by the harsh mineral deposits. Over time, soap scum and mineral deposits will build up around the tub and fixtures, and you may notice [water heater problems](/en-us/blog/home-improvement/water-heater-warnings-signs){target="_blank"}. Beyond the bathtub, the most common indicators of hot water include white spots on dishes, laundered clothes that are dull in color and rough to the touch, clogged pipes and struggling appliances.
+
+If you notice these signs, you can confirm your hunch by contacting your municipality if you have city water. Alternatively, you can purchase a water hardness test kit.
+
+[Learn More About Home Repair Plans Near You]({{ migrationData.planspage }}){target="_blank"}
+
+## Are there hard water remedies?
+
+Installing a water softener is the best way to combat the problems associated with hard water. As far as quick fixes go, you can choose cleaning and bathing products designed for homes with hard water. To remove hard water stains, _Family Handyman_ suggests using cleaners that work against soap scum. Spray the cleaner on the tub and shower walls, letting it sit for at least five minutes before scrubbing. There are also several DIY hard water treatments you can try.
+
+Having a home warranty plan is a good idea when you want to be prepared before any appliance and systems issues arise. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+:::

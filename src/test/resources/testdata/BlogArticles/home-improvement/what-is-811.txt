@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What is 811: Call Before You Dig"
+headline: "Do You Have to Call 811 Before You Dig? Yes. Here's Why"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-08-18
+basePath: https://library.homeserve.com/m/
+heroImage: 7300848c31e82cd1/Blog-GettyImages-92505396.jpg
+heroAltDescription: "photo showing lawn markings from water line"
+metaDescriptions: "Calling 811 before you dig is required by law. The free service helps you locate underground utility lines."
+articleAbstract: "Calling 811 before you dig can identify areas where underground utilities are located to protect you and prevent issues for you and your neighbors. This service is free and required for homeowners and contractors who are planning any kind of excavation project."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "When to Call JULIE/811"
+  parent: Exterior-Home-Home-Improvement
+---
+  Imagine digging a small hole to plant azaleas and accidentally cutting off cable television for the entire neighborhood. Think it can't happen? Buried utility lines can be in the places you would least expect.
+
+**This May Also Interest You:** [**How Do You Find Your Septic Tank?**](https://www.homeserve.com/en-us/blog/how-to/find-septic-tank/)
+
+Whether you're planning a simple landscaping project or excavating the yard to put in an in-ground pool, staying away from buried pipes and lines is a must. Calling 811 before you dig can help you identify areas where these underground utilities are located to protect you and prevent issues for you and your neighbors. This service is free and required for homeowners and contractors who are planning any kind of excavation project.
+
+What Is 811?
+------------
+
+The [811 before-you-dig-number](https://call811.com/Before-You-Dig) is a way for utility companies to inform you of areas on your property or project location that are unsafe for digging due to buried utility lines.
+
+The [Federal Communications Commission](https://www.fcc.gov/document/fcc-designates-811-nationwide-number-protect-pipelines-utilities) established the use of 811 in 2005 as a national underground utility locator service. Prior to this time, all utility services had individual abbreviated numbers that could vary widely from place to place. By creating a standardized number that works nationwide, the FCC gave homeowners and contractors a convenient tool for finding and avoiding utility lines that are buried underground.
+
+What Happens When I Call 811?
+-----------------------------
+
+Calling 811 (or using the center’s [online form](https://call811.com/811-In-Your-State)) connects you to a utility locator service that is free to use. You’ll speak with a representative who will ask questions about where and how deep you’re planning to dig. Then, you’ll get a ticket that states how long you need to wait for utility companies to respond to your request. The amount of time varies from state to state, but expect it to take several days.
+
+After you call, your local utility companies will send out a locator to mark buried utility lines with paint or flags. Make sure you’ve waited for all the utilities to be marked before you dig. This reduces the chance of damage to underground utilities caused by digging in the wrong spot.
+
+What Does JULIE Stand For?
+--------------------------
+
+JULIE is an acronym for Joint Utility Locating Information for Excavators. [JULIE](https://www.illinois1call.com/) serves the state of Illinois. You should know that JULIE does not mark any underground utility lines. Instead, the nonprofit corporation serves as a one-call clearinghouse that will contact all applicable utilities. These utility companies will then come out to your home and mark the location of all underground lines using color-coded flags or paint.
+
+**More Related Articles:**
+
+*   [Should You Go Pro or Try DIY for Your Sewer Line Repair? Here’s What You Need to Know](https://www.homeserve.com/en-us/blog/home-improvement/water-sewer-line-repair/)
+*   [Au Revoir, Standing Water! How to Install a French Drain in 8 Steps](https://www.homeserve.com/en-us/blog/how-to/install-french-drain/)
+*   [How to Build a Fence](https://www.homeserve.com/en-us/blog/how-to/fence-installation/)
+*   [How to Build a Gazebo](https://www.homeserve.com/en-us/blog/how-to/build-gazebo/)
+*   [How to Build a Deck](https://www.homeserve.com/en-us/blog/how-to/build-deck/)
+
+How Deep Can I Dig Without Calling 811?
+---------------------------------------
+
+There is no specified depth to which you can dig without calling 811. Installing a fence, gardening and planting a tree are examples of activities that may seem relatively safe. But, in fact, these and many other shallow digging projects can damage underground lines and disrupt electrical and communications services in your area. Many utility lines are buried just inches below the surface of the ground. Even if you are just installing an above-ground swimming pool, you could potentially damage lines to disrupt utilities in your area.
+
+What Happens If I Don't Call 811?
+---------------------------------
+
+Calling 811 before you dig is required by law. If you don't call 811, you could face steep fines and potentially the wrath of your neighbors who you’ve left without power or cable television because of damage you caused. Worse yet, you or someone else could be injured or even killed if you hit a buried utility line while digging.
+
+How Long Is an 811 Call Good For?
+---------------------------------
+
+Each state has its own set of laws for how long it takes to mark underground utilities and how long these markings are good for. That said, a solid rule of thumb is to begin work on your project within two weeks of the completed markings. Most utility companies respond to 811 utility location requests within a few business days. If the flags or paint used to mark the location are moved or faded, however, you'll need to call 811 again to have these mark lines replaced before your project can begin.

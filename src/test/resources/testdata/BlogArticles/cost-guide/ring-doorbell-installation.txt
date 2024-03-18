@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install a Ring Doorbell?"
+headline: "How Much Does It Cost to Install a Ring Doorbell?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-05-03
+basePath: https://library.homeserve.com/m/
+heroImage: 3cf89c3876a5e7f8/Blog-RingDoorBell_Erossi_4596.jpg
+heroAltDescription: "a black ring video camera mounted to a stucco wall"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Once you get your new Ring doorbell home, how much will installation cost? Here’s what you need to know."
+articleAbstract: "If you’re thinking of investing in a video doorbell, a Ring may be at the top of your list. But once you get your new gadget home, how much will installation cost? Here’s what you need to know."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install a Ring Doorbell?"
+  parent: Exterior-Cost-Guide
+---
+  The doorbell rings while you’re not home. No problem. A notification on your smartphone lets you see who it is, and an app lets you speak directly to your visitor. Security is a priority for most homeowners, and one of the most popular security devices of late is the video doorbell. Leading the way in this category is Ring, a company that sold more than [1.4 million video doorbells](https://www.businesswire.com/news/home/20210512005336/en/Strategy-Analytics-Amazons-Ring-Remained-atop-the-Video-Doorbell-Market-in-2020) in 2020.
+
+**This May Also Interest You:** [**How to Install a Video Doorbell**](https://www.homeserve.com/en-us/blog/how-to/install-video-doorbell/)
+
+The ability to see and speak to the person at the door — whether you're home or away — can put your mind at ease. If you’re thinking of investing in a video doorbell, a Ring may be at the top of your list. But once you get your new gadget home, how much will installation cost? Here’s what you need to know.
+
+**Do I Need an Electrician to Install a Ring Doorbell?**
+--------------------------------------------------------
+
+Many video doorbells, including those produced by Ring, are designed for easy self-installation using the wiring on your existing doorbell. If you already have a doorbell, you can install your new gadget yourself, even if you’re not especially tech-savvy. Your Ring doorbell will include the instructions and all the tools you need to mount the outdoor unit and connect it to your home’s Wi-Fi network.
+
+Even if your Ring video doorbell is not a battery-powered model and requires hardwiring, installation should still be a relatively easy DIY project.
+
+However, if you don’t already have a doorbell system to which you can hardwire your Ring, you will probably need to call a professional. An electrician will run new wiring to ensure the setup is ready for your Ring doorbell.
+
+**Ring Doorbell Installation Costs**
+------------------------------------
+
+If you’re not confident you can install the Ring on your own, paying a professional could be the best option. Calling in an electrician also means a professional is on hand if any wiring issues arise. A pro can connect your new doorbell to the existing wiring, sort out any new wiring and perform tests to ensure your Ring doorbell is up and running properly.
+
+You'll pay an electrician anywhere between $230 and $355 (CAD 310 and CAD 475) to install your Ring, according to [Porch](https://porch.com/project-cost/cost-to-install-a-doorbell). Most of this expense is for labor; most electricians charge by the hour and have a minimum required payment. Ring doorbell installation costs vary considerably, so it’s best to shop around to get the best deal.
+
+**More Related Articles:**
+
+*   [How to Recharge a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/recharge-ring-doorbell/)
+*   [How to Set Up a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/setup-ring-doorbell/)
+*   [What Are the Best Home Security Gadgets?](https://www.homeserve.com/en-us/blog/buying-guide/best-home-security-devices/)
+*   [How Much Does a Home Security System Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-a-home-security-system-cost/)
+*   [Protect your Home With These Security Systems](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-security-systems/)
+
+**Does Ring Offer Installation?**
+---------------------------------
+
+Ring has a partnership with OnTech Smart Services to offer an [installation service](https://support.ring.com/hc/en-us/articles/360037659832-OnTech-professional-installation-for-Ring-products). The exact cost to install a Ring doorbell depends on the product and whether your home system already includes other Ring products. According to Ring, it costs between $129.99 and $259.00 (CAD 175 to CAD 350) to install a single smart device. If you want to install more than one product at the same time, expect the cost to reflect additional work.
+
+Hiring an OnTech technician will ensure your doorbell is connected correctly and that the unit is in the best working order possible. They can also show you how to install and work the Ring app on a smartphone so you can get the most out of your new security device.
+
+**How Much Does Best Buy Charge to Install a Ring Doorbell?**
+-------------------------------------------------------------
+
+[Best Buy](https://www.bestbuy.com/site/video-doorbell-install/5732321.p?intl=nosplash&skuId=5732321) offers smart doorbell installation through Geek Squad. Replacing your existing doorbell with a Ring doorbell costs $149.99 (CAD 200). In addition to installing the unit, the Geek Squad agent will also ensure the latest firmware and software are installed, configure the new doorbell with your home Wi-Fi network and demonstrate how to change or recharge the batteries.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

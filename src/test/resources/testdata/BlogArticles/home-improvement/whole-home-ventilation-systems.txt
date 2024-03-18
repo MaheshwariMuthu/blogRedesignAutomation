@@ -1,0 +1,89 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "4 Types of Whole-Home Ventilation"
+headline: "4 Types of Whole-Home Ventilation"
+author: Angela Noel
+tags: ["post"]
+publishDate: 2024-01-20
+basePath: https://library.homeserve.com/m/
+heroImage: 7046d9034675f33c/Blog-HomeServe-4-Types-of-Whole-Home-Ventilation.jpg
+heroAltDescription: "four-panel image of the different types of ventilation systems"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A whole-home ventilation system can breathe fresh air into your home, enhancing indoor air quality and protecting the health of your family."
+articleAbstract: "A whole-home ventilation system can effortlessly breathe fresh air into your entire house, enhancing indoor air quality and protecting the health of your family."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "4 Types of Whole-Home Ventilation"
+  parent: HVAC-Home-Improvement
+---
+  
+
+Usually, if you burn dinner, you crack a window for some air. But if your house smells fishy all the time, it might not be your cooking skills. Without natural ventilation, the air inside your home can become stagnant, leading to smells and high levels of indoor air pollution.
+
+**This May Also Interest You:** [**HVAC Terms Every Homeowner Should Know**](https://www.homeserve.com/en-us/blog/buying-guide/hvac/)
+
+A whole-home ventilation system, however, can effortlessly breathe fresh air into your entire house, enhancing indoor air quality and protecting the health of your family. Learn how ventilation systems work so you can pick the best one for removing stale air from your home based on your budget and climate.
+
+What Are the Different Types of Whole-House Ventilation Systems?
+----------------------------------------------------------------
+
+The ideal air exchanger for your situation can depend on your climate, budget and existing home features. There are four main types of air ventilation systems homeowners can use to refresh their homes.
+
+*   Exhaust
+*   Supply
+*   Balanced
+*   ERV/HRV
+
+<img class="detail-image" src="https://library.homeserve.com/m/43d5f694c2e3f1cc/Blog-ExhaustVentilationSystem.jpg" alt="Illustration of an exhaust ventilation system"/>
+
+### Exhaust Ventilation Systems
+
+These systems use exhaust fans to push stale air out of the house. Because this reduces the amount of air in your home, the interior air pressure drops. Fresh outside air is drawn in through vents, cracks and gaps to equalize the pressure again.
+
+Exhaust systems are the simplest and often the cheapest type of ventilation to install because they require only a central fan to operate. However, they come with drawbacks that homeowners need to take into consideration. Air is pulled inside through passive vents installed for this purpose, but it can also leak through other areas, including:
+
+*   Attics
+*   Crawl spaces
+*   Attached garages
+*   Flues and chimneys
+
+Dust, mold, insulation fibers and fumes from gas-powered cars and appliances can pollute this leaked air and endanger your family's health. The air is also unconditioned, so indoor humidity can spike in hot, humid climates, raising the risk of mildew and moisture damage.
+
+While this fresh air ventilation system is unsuitable for homeowners in the southern parts of the country, it works well in cold climates. The drawback is that heating costs may rise as warm air is exhausted and chilly drafts are pulled in.
+
+<img class="detail-image" src="https://library.homeserve.com/m/369e400782fcfd72/Blog-SupplyVentilationSystem.jpg" alt="Illustration of a supply ventilation system"/>
+
+### Supply Ventilators
+
+The opposite of exhaust units, a supply ventilation system pumps fresh air into the home, raising air pressure and pushing existing air out. It can be equipped with filters and a dehumidifier, giving homeowners more control over what they breathe. Because it presses leaking air out, you don't have to worry about breathing potential contaminants. In keeping with its opposite nature, supply ventilation works well in warmer climates but not cold ones.
+
+Normal household operations, such as showering, cooking and laundry, raise interior humidity levels. Supply systems push this warm, humid air into wall cavities and attic spaces through cracks. Cold weather causes the water vapor in the leaking air to condense and soak into insulation and wooden studs, increasing the risk of the materials decaying or molding. It can also raise heating and cooling costs by introducing untempered air into the home.
+
+**More Related Articles:**
+
+*   [What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps ...](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [Is an HVAC Tune-Up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/43459136ce77717e/Blog-BalancedVentilationSystem.jpg" alt="Illustration of a balanced  ventilation system"/>
+
+### Balanced Units
+
+As their name suggests, balanced ventilation systems maintain the air pressure in your home by using fans to exchange air in and out of the building in equal measure. They're more complicated than exhaust and supply types because they need two sets of ductwork and fans to operate properly. They usually provide fresh air to the most-used rooms in the house and remove it from humidity-prone spaces, such as the kitchen and bathrooms.
+
+An experienced professional is needed to calculate the correct rate of air movement throughout your household to maintain the proper pressure and prevent drafts and leakage.
+
+Balanced systems are suitable for any climate, and the outdoor air can be filtered and dehumidified before being dispersed throughout the house, making it a good choice for individuals with pollen and dust allergies. The complexity of the unit's design increases the overall price and installation fees. In extreme temperatures, it can raise energy costs and decrease personal comfort by introducing untempered outside air to interior spaces.
+
+<img class="detail-image" src="https://library.homeserve.com/m/141cf7e4c3333be8/Blog-ERVHRVVentilationSystem.jpg" alt="Illustration of an HRV or ERV ventilation system"/>
+
+### ERV and HRV Machines
+
+Heat recovery ventilation and energy recovery ventilation systems essentially function the same. Typically, they're installed as a central, whole-home ventilation system, but smaller wall-mounted and window units exist. The most expensive of the four types of mechanical ventilation, they offer the most control over the condition of the air being introduced to your home.
+
+They use a heat exchanger, ductwork and fans to push air through your home. The heat exchanger pulls the heat or cold from the interior air and transfers it into the incoming fresh air. The result helps prevent energy costs from spiking during extreme seasonal temperatures and reduces the potential for uncomfortable drafts caused by untempered air.
+
+The main difference between the two house air exchangers is that only the temperature is transferred in heat recovery ventilators. Energy recovery ventilators swap temperature and some moisture. The added humidity can help maintain a balanced indoor environment while keeping the unit warmer and reducing its chance of freezing.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/elsf30t_Wms?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Beat the Summer Humidity"></iframe>

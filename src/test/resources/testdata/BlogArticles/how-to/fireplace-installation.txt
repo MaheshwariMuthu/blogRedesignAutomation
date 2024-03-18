@@ -1,0 +1,171 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Install a Fireplace"
+headline: "Are Your DIY Skills Fire? Here's How to Install a Fireplace"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2022-05-01
+basePath: https://library.homeserve.com/m/
+heroImage: 795f4d1640613edd/Blog-GettyImages-870531866.jpg
+heroAltDescription: "Natural gas fireplace with protective screen and surrounded by brick"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Whether you're installing a brand new fireplace or putting an insert into an existing fireplace, learn how it's done in this comprehensive guide."
+articleAbstract: "Whether you want to install a fireplace insert into an existing fireplace, or you want to install a fireplace for the very first time, learn how it's done in this comprehensive guide."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Build/Install a Fireplace"
+  parent: HVAC-How-To
+---
+  **Installing a Fireplace at a Glance**
+
+* **Tools and Materials:** Ladder, tape measure, fireplace, chimney pipes, chimney cap, tin snips, drill, caulking gun, sealant, ratchet and socket set, angle grinder, framing lumber, structural screws, pipe straps, power saw
+* **Step 1:** Build enclosure
+* **Step 2:** Have gas or electrical installed
+* **Step 3:** Insert fireplace
+* **Step 4:** Cut opening
+* **Step 5:** Install gas or electrical
+* **Step 6:** Install pipe
+* **Step 7:** Connect pipe
+* **Step 8:** Install cap
+* **Step 9:** Test
+
+It’s hard to beat the comfort and ambiance of a fireplace on cold winter days. Unfortunately, purchasing and installing a fireplace can be an expensive endeavor, motivating some homeowners to save money by installing one themselves.
+
+**This May Also Interest You:** [**How Much Does a Gas Fireplace Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/gas-fireplace-installation/)
+
+While there may be a few steps in the process that will require professional assistance, most people with a moderate amount of skill and equipment can tackle the installation themselves — depending on the type of fireplace they want to install.
+
+Whether you’re installing an insert into an existing fireplace or installing a fireplace for the very first time, read on to learn how it's done.
+
+Can You Install a Fireplace Yourself?
+-------------------------------------
+
+Whether you can — or _should_ — install a fireplace yourself mostly depends on the type of fireplace you're installing and your individual skill level.
+
+The easiest type of fireplace to install is a fireplace insert that slides inside an existing fireplace. On the other hand, installing a brand new fireplace is much more involved, including the need to construct an enclosure for the fireplace and cutting an opening through your wall or roof for the chimney pipes.
+
+Regardless of what you’re installing, your ability to install a fireplace yourself will also depend on whether it’s a gas, wood-burning or electric unit. For a gas fireplace, you will usually need to hire a professional plumber to install the gas lines into your fireplace’s installation location. You may also need to hire a professional electrician to install electrical cables if the fireplace requires electricity to operate the spark igniter or blower fan. Even some wood-burning fireplaces may need a source of electricity if they’re equipped with a blower.
+
+Finally, there’s the chimney pipe to consider. While an insert’s chimney pipes can be placed inside your home’s existing chimney, installing a new fireplace involves cutting an opening into your wall or ceiling to run the new chimney pipe through. If done improperly, water leaks and expensive moisture damage can result, so this step is usually best left to a professional.
+
+Things You’ll Need
+------------------
+
+*   Extension Ladder
+*   Tape measure
+*   Fireplace
+*   Chimney pipe(s)
+*   Chimney cap
+*   Tin snips
+*   Electric drill
+*   Caulking gun
+*   Sealant
+*   Ratchet and socket set (optional)
+*   Angle grinder with cut-off wheel (optional)
+*   Framing lumber (optional)
+*   Structural screws or nails (optional)
+*   Pipe straps (optional)
+*   Power saw (jigsaw, oscillating saw, reciprocating saw, circular saw, etc.)
+
+How to Install a Fireplace Insert in an Existing Fireplace
+----------------------------------------------------------
+
+### 1\. Remove the Damper
+
+Every wood-burning fireplace has a damper, which is a metal plate between the firebox (the part of the fireplace where the fire is burned) and the chimney. In most cases, the damper will be in the way of the new chimney pipes you’ll be installing, so it needs to be removed.
+
+Some dampers can simply be lifted up and out of the firebox if their attachment points rest inside grooved brackets. If your damper is secured to the firebox with nuts and bolts, remove them with a ratchet and socket and pull out the damper. If the damper’s attachment points are welded in place, you will need to use an angle grinder with a cut-off wheel to cut it out of the firebox.
+
+### 2\. Have Gas or Electrical Installed
+
+If required, hire a professional plumber to install a gas line and a professional electrician to install electrical cables in the fireplace’s installation location. You may have to have these components inspected and approved if your local building codes require it.
+
+### 3\. Run New Chimney Pipes Down the Existing Chimney
+
+A wood fireplace will only require a single chimney pipe, but a gas fireplace needs two: one for ventilation (for combustion byproducts to exit) and one for fresh air (to enter the fireplace and promote combustion). Depending on the unit, you will either attach these two pipes onto the fireplace separately or have the smaller diameter ventilation pipe housed inside the larger diameter fresh-air pipe.
+
+Additionally, the manufacturer of your insert will specify whether you should use rigid or flexible pipe. In most cases, rigid pipe will come pre-assembled with the exhaust pipe already housed inside the fresh-air pipe. If flexible pipe is called for, you may need to manually insert the ventilation pipe into the fresh-air pipe.
+
+Use an extension ladder to climb up on your roof. Remove the existing chimney cap with a power drill equipped with the appropriate bit. Use a long tape measure to measure down to the firebox to determine the length of your chimney pipes. Climb down from your roof, and use tin snips to cut the chimney pipes to length.
+
+Bring the chimney pipes up to the roof, and send them down the chimney until they reach the firebox.
+
+### 4\. Connect Gas and Electrical
+
+Move the insert in front of the firebox so it’s close enough to connect any gas or electrical lines. Unless your insert comes equipped with a power cord that plugs into a standard wall outlet, you will have to connect the wires from the electrical cables the electrician installed to the corresponding electrical wires on the insert.
+
+The insert’s electrical wires are often found on the bottom of the front side of the insert. They may be concealed by a panel or cover that needs to be removed to expose the wires.
+
+The specific way to properly connect the gas and electrical lines varies between models, so refer to the manufacturer's instructions for the proper procedure.
+
+### 5\. Move the Insert Into the Opening and Connect the Chimney Pipes
+
+With the utility connections made, use a caulking gun to line the entire outside perimeter of the insert’s exhaust and fresh-air ports with the sealant that’s recommended by the manufacturer. Slide the insert into its final resting place inside the firebox, and slip the exhaust and fresh-air pipes onto the corresponding ports on the insert. Secure the pipes in place with the included clamps, bands or screws.
+
+### 6\. Install the Chimney Cap
+
+Climb back up to your roof with the insert’s chimney cap. Install the cap onto the pipes using the same process you used to install the pipe onto the fireplace. Spread sealant around the outside perimeter of the ports on the cap, slide the pipes onto the ports and secure the pipes in place with bands, clamps or screws.
+
+Anchor the cap to the top of the chimney by spreading sealant around the top of the chimney and securing any additional screws or mounting hardware that are called for in the instructions.
+
+### 7\. Test
+
+If you haven’t already done so, turn on the gas or electricity. Turn the fireplace on to ensure it’s working properly, and enjoy.
+
+How to Install a New Fireplace
+------------------------------
+
+### 1\. Build the Enclosure
+
+Most fireplace manufacturers will provide framing instructions for constructing the enclosure with commonly available lumber, screws and nails. If you want to construct a frame that’s different from the one the manufacturer recommends, you will still need to take note of the required clearances from the floor, the enclosure’s walls and around the chimney pipe.
+
+You should also check your local building codes to determine what clearances are required for fireplaces in your area. In most areas, you will also need to obtain a building permit prior to construction, plus a framing inspection after construction.
+
+### 2\. Have Gas or Electrical Installed
+
+If required, call a professional plumber to install a gas line, or get a professional electrician to install electrical cables in the fireplace’s installation location. You may have to have these components inspected and approved if your local building codes require doing so.
+
+### 3\. Insert the Fireplace Into the Enclosure
+
+After the enclosure has been constructed and inspected, and any necessary utility lines have been installed, you can insert the fireplace into the enclosure. Some fireplaces will have mounting tabs and hardware for securing the fireplace to the enclosure with screws as well.
+
+### 4\. Cut an Opening in Your Wall or Ceiling
+
+Depending on whether the chimney pipes will exit your home horizontally or vertically, you will either need to cut an opening in your wall or ceiling to accommodate the firestop spacer. The firestop spacer is a square piece of metal with a hole in the center for the chimney pipe, so the chimney pipe maintains the necessary distance away from the combustible material on and in your wall or roof.
+
+In either case, you will need to expose the plywood (sheathing) behind the siding on an exterior wall or the roofing material on your roof. You only need to remove enough of this material to expose a section of sheathing that’s large enough to accommodate the firestop spacer. Depending on the material you’ll be removing, you may have to remove nails or screws, or cut the material with an oscillating or circular saw.
+
+Once the sheathing is exposed, use the cutting tool you deem most appropriate (like a jigsaw, oscillating saw, reciprocating saw, circular saw, etc.) to cut an opening in the sheathing for the firestop. Spread sealant around the opening and insert the spacer. Secure it to the sheathing with the provided screws, and install any additional flashing that is called for in the instructions. Replace the siding or roofing material after cutting out an opening large enough for the spacer and chimney pipes.
+
+When running the chimney pipes through a wall, you will also need to remove a section of drywall from the interior wall that aligns with the opening you made on the exterior wall. This can be done with an oscillating saw, reciprocating saw or drywall knife. Once done, you can install the firestop spacer into the wall.
+
+### 5\. Connect Gas and Electrical
+
+Unless your fireplace comes equipped with a power cord that plugs into a standard wall outlet, you will have to connect the wires from the electrical cables the electrician installed to the corresponding electrical wires on the fireplace. The location of the wires can vary between manufacturers, so refer to the instructions in order to locate them. Likewise, the specific way to properly connect the gas and electrical lines vary, so read the instructions for the proper procedure.
+
+### 6\. Install the Chimney Pipe
+
+A wood fireplace will only require a single chimney pipe, but a gas fireplace needs two. Depending on the unit, you will either attach these two pipes onto the fireplace separately, or have the smaller diameter ventilation pipe housed inside the larger diameter fresh-air pipe.
+
+Additionally, the manufacturer of your fireplace will specify whether you should use rigid or flexible pipe. In most cases, rigid pipe will come pre-assembled with the exhaust pipe already housed inside the fresh-air pipe. If flexible pipe is called for, you may need to manually insert the ventilation pipe into the fresh-air pipe.
+
+Use a tape measure to determine the length of your chimney pipe, and use tin snips to cut the pipes to length. Run one end of the chimney pipe through the firestop spacer, and the other end to your fireplace. In some cases, you will need to use a series of straps to hold the chimney pipe in place and maintain the required clearances from any surrounding combustible material.
+
+### 7\. Connect the Chimney Pipe
+
+Use a caulking gun to line the entire outside perimeter of the fireplace’s chimney ports with the sealant that’s recommended by the manufacturer, and insert the pipe over the top of it. Secure the pipes in place with the included clamps, bands or screws.
+
+### 8\. Install the Chimney Cap
+
+Install the cap onto the pipes using the same process you used to install the pipe onto the fireplace. Spread sealant around the outside perimeter of the ports on the cap, slide the pipes onto the ports and secure the pipes in place with bands, clamps or screws. Anchor the cap to the wall or roof with sealant and any provided screws or mounting hardware.
+
+### 9\. Test
+
+Turn on the gas and electricity the unit needs to operate. Test the fireplace by turning it on.

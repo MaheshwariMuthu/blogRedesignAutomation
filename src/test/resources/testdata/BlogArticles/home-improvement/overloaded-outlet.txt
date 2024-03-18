@@ -1,0 +1,105 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Overloaded Outlet: How Many Things Can I Plug Into One Outlet"
+headline: "Watt's Too Much? How Much You Can You Plug Into One Outlet"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-08-29
+basePath: https://library.homeserve.com/m/
+heroImage: 503a1cef325a7094/Blog-GettyImages-157524165.jpg
+heroAltDescription: "Electrical Cord Overload"
+metaDescriptions: "An overloaded outlet places you at greater risk of a house fire. Here's how many devices you can plug into one outlet."
+articleAbstract: "An overloaded outlet places you at greater risk of a house fire, so knowing the safety principles behind maximum wattage capacities is important. The question remains: How many things can you plug into one outlet? We’ve got your answer."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0943
+stickyDisplayText: Call today for a local electrician.
+lightboxCopy: Local electrician pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/electricians/hs/expert
+  large:
+      image: /en-us/assets/images/blog/electric_elocal_banner1.jpg
+      alt: Electric eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/electric_elocal_banner2.jpg
+      alt: Electric eLocal Banner 2
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Much Can You Plug Into One Outlet?"
+  parent: Electrical-Home-Improvement
+---
+  
+
+Living in a space with a limited number of outlets can force you to make some difficult choices. You might need to have the hairdryer plugged in, but you also need the electric razor, iron and space heater going, too. With just two receptacles to plug something into, you’ll have to decide which devices are the most important. Or, could you create a workaround with a surge protector or two?
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?**](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+
+An overloaded outlet places you at greater risk of a house fire, so knowing the safety principles behind maximum wattage capacities is important. The question remains: How many things _can_ you plug into one outlet? We’ve got your answer below.
+
+How Much Can a Single Outlet Handle?
+------------------------------------
+
+How much you can plug into a single outlet depends on the circuit's capacity and how many outlets get their supply from the circuit. Unless you know the capacity of your home's circuits, it's safest to either assume that you have 15-amp circuits. Otherwise, you can call an electrician to check.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+If you have an older home, the chances are that its electrical system wasn't designed to cope with the demands of multiple power-hungry modern appliances. In newer homes, electricians often install 20-amp circuits or higher to allow homeowners to add more appliances in the future without risking an overloaded outlet.
+
+How Do You Know How Many Things You Can Plug Into One Outlet?
+-------------------------------------------------------------
+
+As a rule of thumb, it's safest to stick to a maximum load of 1,500 watts per outlet or circuit. The number of things you can plug into one outlet depends on the wattage of each device or appliance you want to plug in. You can determine the wattage by checking the plug label or manufacturer's instructions to calculate the total combined wattage per outlet.
+
+Large appliances such as dishwashers, air conditioners and ovens typically exceed 1,000 watts on their own. Therefore, these appliances should have their own dedicated circuit, and you should avoid plugging anything else into the same outlet.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+However, if your home's circuits have a higher amperage, [The Spruce](https://www.thespruce.com/calculate-safe-electrical-load-capacities-1152361) says you can use a straightforward principle called Ohm's Law to calculate their capacity. You'll need to know the amperage and voltage of your circuit to use Ohm's Law to figure out how much it can handle.
+
+Simply multiply the amperage by the voltage to calculate the wattage capacity. Here are two worked examples for a 15- or 20-amp circuit running on 120 volts of electricity:
+
+*   15 amps x 120 volts = 1,800 watts
+*   20 amps x 120 volts = 2,400 watts
+
+<img class="detail-image" src="https://library.homeserve.com/m/24c78ff6aaece0be/webimage-istock_535419859_sg.png" alt="burning electrical socket and plug"/>
+-------------------------------------------
+
+Is an Overloaded Outlet Dangerous?
+----------------------------------
+
+According to the [National Agricultural Safety Database](https://nasdonline.org/1249/d001053/reduce-fires-with-electrical-safety.html), overloaded outlets are a leading cause of house fires. Plugging in more appliances than the circuit can handle causes it to overheat and leads to damaged wiring. The heat combined with a damaged electrical system is dangerous because it significantly increases the risk of an electrical fire.
+
+If you notice that your circuit breaker keeps tripping, your fuses blow frequently or your lights flicker when you're using a lot of appliances, you may have an overloaded circuit. You should call an electrician to inspect and possibly update your home's electrics to avoid a fire hazard.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets With GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Wrong Kind of Blowout? Why Your Hair Dryer Keeps Tripping the Circuit Breaker](https://www.homeserve.com/en-us/blog/home-improvement/hair-dryer-tripping-circuit-breaker/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+How Many Things Can I Plug Into a Power Strip?
+----------------------------------------------
+
+How many things you can plug into a power strip depends on its amperage, and you can use the Ohm's Law calculation of amps multiplied by volts to work out its capacity. Of course, you'll also be limited by the number of outlets on your strip. If you want to use the power strip to plug in low-wattage items such as phone chargers, you can probably safely plug in multiple devices without causing an overloaded outlet. However, it's always safest to add together the wattage of each appliance and device and avoid plugging a power strip into the same outlet that supplies a high-power appliance.
+
+However, there are some appliances that you should never plug into a power strip. While they're a good solution for small appliances, you could overload the circuit by using them to power one or more large appliances such as refrigerators or microwave ovens.
+
+Can I Plug Two Surge Protectors Into One Outlet?
+------------------------------------------------
+
+If one surge protector isn't enough, you could consider plugging two surge protectors into a single outlet. However, that doesn't mean that you can exceed the circuit's maximum wattage. While adding a second surge protector won't overload the circuit on its own, you should still add the wattages of each device or appliance together to make sure that you're operating the circuit at a safe load.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

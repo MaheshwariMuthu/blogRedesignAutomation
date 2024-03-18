@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Are My Water Pipes Making Noise?"
+headline: "Pipe Down! What to Do About Noisy Water Pipes"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-07-03
+basePath: https://library.homeserve.com/m/
+heroImage: 9919fe620d8171a/Blog-GettyImages-517104726.jpg
+heroAltDescription: "fixing pipe"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Are your pipes banging and clanging? Here’s what’s causing the noise — and how to fix it."
+articleAbstract: "You expect to hear a rush of water when you turn on your washing machine or flush your toilet. What you don’t expect is a banging, clanging or gurgling sound coming from your water pipes."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Are My Water Pipes So Noisy?"
+  parent: Plumbing-Home-Improvement
+---
+  You expect to hear a rush of water when you turn on your washing machine or flush your toilet. What you don’t expect is a banging, clanging or gurgling sound coming from your water pipes.
+
+**This May Also Interest You:** [**Pipe Burst? Here’s What to Do Next**](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+
+Here’s what’s causing the wretched noise — and how to fix it.
+
+Why Are My Water Pipes…
+-----------------------
+
+Your plumbing system is an intricate maze of pipes, drains and valves, all of which work together to give you the comforts of modern plumbing on demand. When something goes wrong, you typically find out quickly with signs like leaks, low water pressure or noisy pipes. Often, the type of noise you’re hearing indicates what’s wrong with your plumbing.
+
+### Banging
+
+Does it sound like someone's hitting your pipes with a hammer every time you run water? The issue could be a phenomenon called water hammer, which happens when a water valve closes suddenly. You'll often hear it when your washing machine stops filling, for example. The momentum and pressure from the water flowing toward the valve create the shockwave that causes the banging noise when the valve closes suddenly. It might not seem like a big deal, but water hammer can cause damage to your pipes, including leaks and joint damage.
+
+One way to ease water hammer is by installing water hammer arrestors. Your plumber can install them near major valves to help cushion the shock of the water when it suddenly stops or changes direction. You might also need to reduce the water pressure coming into your home with the pressure-reducing valve.
+
+### Gurgling
+
+Gurgling sounds typically come from drainpipes. This sound happens when the water can't drain properly, usually when there's a clog in the water pipes. Drain clogs often happen due to hair, grease, soap scum or objects that fall down the drain. They can happen suddenly or build up slowly over time.
+
+You can sometimes clear a clogged drainpipe with a plunger to help force the clog through the pipe. A plumbing snake or an auger can also help break up tough clogs. A common plumbing myth is that chemical drain cleaners are safe and effective, but they often don't work and contain harsh chemicals that can hurt you and your plumbing. If you can't remove the clog with a plunger or snake, it's best to call a plumber to help.
+
+**More Related Articles:**
+
+*   [9 Common Plumbing myths — Busted](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-system-myths/)
+*   [How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+*   [Condensation on Your Toilet? Don’t Swear It](https://www.homeserve.com/en-us/blog/home-improvement/condensation-toilet-tank/)
+*   [5 Things You Know About Your Plumbing Vents](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-vents/)
+*   [15 Common Plumbing Problems Every Homeowner Needs to Watch Out For](https://www.homeserve.com/en-us/blog/how-to/plumbing-drainage-problems/)
+
+### Rattling
+
+Water travels through your pipes with lots of pressure, so the pipes are bound to move a little. Pipes should be secured well to keep them from moving too much when water runs through them. If they're not properly fastened or the fasteners come loose, you might hear them rattling when you run water.
+
+Resecuring the pipes can cut down on the rattling noise and prevent damage to the joints of the water pipes. However, many pipes run behind walls where you can't easily access them. A plumber can help determine if loose fasteners are the cause of the rattling and resecure them if necessary.
+
+### Humming
+
+If your pipes sound like they're humming, it's likely a water pressure issue. When the water pressure is high, it can cause the water pipes to vibrate and create a humming sound. High water pressure is more common if you have a well for your water, but it can happen with municipal water as well. High water pressure can damage your plumbing and cause leaks.
+
+If you have a well, check the pressure to ensure it's below 55 pounds per square inch. A plumber can test the pressure for you and help adjust the issue if you're not sure how to do it yourself. If you're connected to the municipal water source, your home likely has a pressure-reducing valve near where the water enters your home. You can adjust the screw in the valve to decrease the pressure, but be careful not to lower it too much.
+
+### Squeaking
+
+Squeaking or squealing is another common sound you'll hear in your water pipes. This often happens if small components within the plumbing, such as washers or aerators, become loose, dirty or damaged. When this is the cause, the squeaking sound is usually confined to a certain fixture or area of plumbing. Replaced or repairing the part should solve the noise.
+
+If you can hear the squealing sound everywhere in your home, it could be an issue with water pressure. Buildup in the pipes narrows the space for the water, which can cause squealing as the water tries to squeeze through the pipes. Wear and tear on the plumbing system can also cause whistling or squeaking. These situations typically require a professional plumber to diagnose and repair.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

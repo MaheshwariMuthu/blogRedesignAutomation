@@ -1,0 +1,92 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Replace a Dishwasher Inlet Valve"
+headline: "How to Replace a Dishwasher Inlet Valve"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2023-02-24
+basePath: https://library.homeserve.com/m/
+heroImage: 1779412988e12e87/Blog-DishWasherRepair_3831.jpg
+heroAltDescription: "technician works to repair a residential diswasher"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "You can replace a defective inlet valve yourself — after a trip to the hardware store. Here’s a step-by-step guide."
+articleAbstract: "You can replace a defective inlet valve yourself in an afternoon — after a trip to the hardware store. Here’s a step-by-step guide."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Replace a Dishwasher Inlet Valve"
+  parent: Appliances-How-To
+---
+  A dishwasher inlet valve is responsible for supplying your dishwasher with water. If the valve becomes blocked or develops a leak, the water supply can become restricted and only partially clean your dishes. Or, water may leak onto the floor to cause water damage and mold development. Alternatively, water may flow continuously into your dishwasher even when it’s not running, which can contribute to mold development inside the dishwasher. _Ick_.
+
+**This May Also Interest You:** [**What Can Go Wrong With a Dishwasher? Here’s How to Find Out What’s Up With Your Machine**](https://www.homeserve.com/en-us/blog/home-improvement/common-dishwasher-problems/)
+
+You can replace a defective inlet valve yourself in an afternoon — after a trip to the hardware store. Here’s a step-by-step guide.
+
+How to Replace a Dishwasher Inlet Valve: Step-by-Step
+-----------------------------------------------------
+
+### Things You’ll Need
+
+*   Screwdriver
+*   Towel or rag
+*   Channel-lock pliers
+*   Needle-nose pliers
+*   Adjustable pliers
+*   PTFE nylon thread tape
+
+### Step 1: Purchase a Replacement Valve
+
+There are several different types of dishwasher inlet valves, so purchase a replacement valve that’s compatible with your dishwasher’s brand and model.
+
+### Step 2: Remove the Toe Kick and Inner Access Panels
+
+On most dishwashers, the water supply inlet valve is located on the bottom of the dishwasher behind a rectangular “toe kick” panel. Use a screwdriver to remove the mounting screws holding the panel in place, then lift the panel up and off the dishwasher.
+
+On some dishwashers, you may also need to remove the door panel on the front of the dishwasher before you can access all of the mounting screws on the toe kick panel. Open the dishwasher and remove the screws around the inside perimeter of the door, then pull slightly up on the door panel to access the wiring harness connected to the LCD control panel. Unplug the wiring harness from the panel and set the panel aside.
+
+### Step 3: Inspect the Water Lines
+
+Locate the inlet valve, which will have two water lines connected to it: one for water to enter the valve (the water supply line) and another for water to exit it (the outlet hose). Inspect the condition of these water lines to ensure that they aren’t responsible for, or contributing to, your dishwasher’s water supply issues. Look for kinks or leaks in the lines and poor connections at the valve. If you identify any of these conditions, replace the damaged lines and tighten any loose connections, then run your dishwasher to see if they were responsible for your water supply issues.
+
+Once you’ve ruled out the water supply lines as a possible culprit, you can be fairly confident that the valve is to blame and proceed with replacing it.
+
+### Step 4: Turn Off the Power
+
+Safety first: The water inlet valve is connected to electricity, so shut off the power to your dishwasher to prevent any risk of electrocution. You can either unplug the dishwasher’s power cord from the wall outlet if it’s accessible, or turn off the circuit breaker that controls the dishwasher at your home’s electrical service panel. In either case, verify that the power is off by ensuring that the LCD control panel isn’t illuminated or responsive when you press any buttons.
+
+### Step 5: Shut Off the Water
+
+Locate the dishwasher’s water supply valve (also called a shut-off valve) underneath your sink, and close it by turning it fully counterclockwise.
+
+**More Related Articles:**
+
+*   [How Much Does a Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+*   [Why Isn’t My Dishwasher Draining?](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-not-draining/)
+*   [Don’t Get Lost in the Wash: How to Use Your Dishwasher Efficiently](https://www.homeserve.com/en-us/blog/how-to/use-dishwasher/)
+*   [Weird Sound Coming From the Dishwasher? How to Diagnose Dishwasher Noises](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-making-noise/)
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)
+
+### Step 6: Disconnect the Water Supply Line
+
+Place a towel or rag underneath the valve to catch any water that may escape once you disconnect the water supply line. Use a pair of channel lock pliers to unscrew the fitting that secures the water supply line to the inlet valve.
+
+### Step 7: Disconnect the Outlet Hose
+
+Use a pair of needle nose pliers to squeeze the tabs on top of the pinch clamps that secure the outlet hose to the inlet valve. While still depressing the tabs, slide the clamp onto the hose and pull the hose off the valve.
+
+### Step 8: Disconnect the Electrical Connections and Remove the Valve
+
+Use a screwdriver to remove the mounting screws securing the inlet valve to the dishwasher. Pull down slightly on the valve to access the electrical wiring, which often consists of two slip connectors connected to the top of the valve. Take a photo of the wiring configuration, so you know where to plug each connector into the new valve, then pull the connectors off the valve. Once the connectors are removed, you should be able to pull the valve out from the dishwasher.
+
+### Step 9: Remove the Elbow Fitting
+
+New inlet valves don’t typically come with the 90-degree elbow fitting that connects the water supply line to the valve, so you need to reuse the fitting from the old valve. Use a pair of adjustable pliers to unthread the fitting from the old valve, then make a couple of wraps of PTFE thread tape around the fitting’s male threads so that it makes a good, leak-free connection with the new valve. Thread the fitting onto the new valve until it’s tight and the open side that the water supply line connects to is facing the direction that the supply line comes from.
+
+### Step 10: Install the New Inlet Valve
+
+Install the new inlet valve by reversing the steps you used to remove the old one: Reconnect the wiring harnesses, secure the valve to the dishwasher with the provided mounting screws, connect the outlet hose and water supply line, reattach the toe kick and reconnect the door panel if you removed it.
+
+### Step 11: Restore Power and Water
+
+Restore power to your dishwasher and turn the water supply valve back on. Finally, run your dishwasher to verify that the new inlet valve is working properly.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

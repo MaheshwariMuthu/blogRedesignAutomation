@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Self-Cleaning Water Heaters Explained"
+headline: "What's the Deal With Self-Cleaning Water Heaters?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-01-12
+basePath: https://library.homeserve.com/m/
+heroImage: 19e09872a37e55ce/Blog-885436a2-09a2-4d9a-9a8f-8ac5e3e6c0cd.jpg
+heroAltDescription: "A gray Rheem brand self cleaning water heater sits against a white background"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Self-cleaning water heaters offer longer lifespans and decreased maintenance compared to regular models."
+articleAbstract: "Sediment buildup in your water heater can cause serious problems. A self-cleaning water heater could be the answer if you want the best possible lifespan and performance."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's a Self-Cleaning Water Heater?"
+  parent: Plumbing-Home-Improvement
+---
+  
+
+_Manufacturer image_
+
+Sediment buildup in your water heater can cause serious problems. Fortunately, modern technology offers various solutions to help protect your system against deposits and keep it working correctly.
+
+**This May Also Interest You:** [**Your Guide to Draining a Water Heater**](https://www.homeserve.com/en-us/blog/how-to/drain-water-heater/)
+
+A self-cleaning water heater could be the answer if you want the best possible lifespan and performance.
+
+What’s a Self-Cleaning Water Heater?
+------------------------------------
+
+Self-cleaning water heaters prevent sediment from accumulating at the bottom of your hot water tank and work similarly to regular models. They can run on electricity or natural gas and receive a cold water supply via an inlet pipe. The heater then heats the water to supply your home, storing hot water in the tank until you need it. When you turn on a hot water tap, cold water travels down a small pipe called a dip tube to the bottom of the tank to replace the used water.
+
+Self-cleaning water heaters differ from regular water heaters in that they have a curved dip tube that swirls the water to agitate the sediment and prevent it from settling in the tank. The sediment then flows out of the tank via the hot water supply pipe when you use hot water.
+
+Self-cleaning water heaters can't entirely eradicate sediment buildup, but they can significantly decrease the buildup inside the tank compared to a regular heater. Sediment buildup can cause the tank to overheat, reducing its lifespan and potentially causing leaks. Therefore, the main advantage of self-cleaning water heaters is that they tend to last somewhat longer than regular models. They’re also easier and cheaper to maintain.
+
+Are There Downsides to Self-Cleaning Water Heaters?
+---------------------------------------------------
+
+The primary drawback of self-cleaning water heaters is that they cost more than regular water heaters. However, you may save enough in maintenance, repair and replacement bills to cover the price difference over the heater's lifetime, especially if you maintain it regularly.
+
+Another potential issue with self-cleaning water heaters is that the sediment comes out of the faucet in your hot water supply. You can still drink cold water from your taps because it doesn't come from the hot water tank, but you should avoid drinking warm or hot tap water if you have a self-cleaning water heater.
+
+**More Related Articles:**
+
+*   [Tired of Tepid? Here’s How to Turn Up the Temp on Your Water Heater](https://www.homeserve.com/en-us/blog/how-to/turn-up-water-heater/)
+*   [How to Turn Off Your Water Heater — and When It May Come Up](https://www.homeserve.com/en-us/blog/how-to/turn-off-water-heater/)
+*   [How to Test a Water Heater Element](https://www.homeserve.com/en-us/blog/how-to/test-water-heater-element/)
+*   [Thinking About a Solar Water Heater? Here are the Pros and Cons](https://www.homeserve.com/en-us/blog/home-improvement/solar-water-heater/)
+*   [How Much Does It Cost to Repair or Replace Your Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/repair-or-replace-water-heater/)
+
+How Long Does a Self-Cleaning Water Heater Last?
+------------------------------------------------
+
+According to [Home Inspection Insider](https://homeinspectioninsider.com/self-cleaning-water-heaters/), a self-cleaning water heater should last between 8 and 12 years compared to a regular water heater's 6- to 12-year average lifespan. However, a self-cleaning water heater could last up to 15 years if you maintain it carefully.
+
+Like all water heaters with a tank, self-cleaning water heaters have an anode rod that attracts corrosive particles to stop them from damaging the heater. You should check that rod twice a year and replace it when it becomes corroded. You should also drain your tank every one to three years or so to reduce the sediment buildup and prolong its lifespan.
+
+How Much More Does a Self-Cleaning Water Heater Cost?
+-----------------------------------------------------
+
+According to [Bob Vila](https://www.bobvila.com/articles/water-heater-replacement-cost/), an average household water heater with a tank costs around $1,200, while a tankless water heater costs between $1,000 and $3,000. Self-cleaning water heaters vary widely in price depending on the manufacturer, model and warranty length. However, you should expect to pay at least an extra $150 or more for self-cleaning functionality compared to a regular water heater of a similar size and quality.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

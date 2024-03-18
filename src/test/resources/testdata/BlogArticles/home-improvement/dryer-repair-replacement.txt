@@ -1,0 +1,82 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Should You Repair or Replace Your Clothes Dryer?"
+headline: "Should You Repair or Replace Your Clothes Dryer?"
+author: Erin Wallace
+tags: ["post"]
+publishDate: 2023-12-22
+basePath: https://library.homeserve.com/m/
+heroImage: 47cb1de9b94be5db/Blog-GettyImages-504308520.jpg
+heroAltDescription: "Series- Real installation of washer and dryer in laundry room"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Should you repair your dryer, or is it time to replace it? Here's a guide to help you decide."
+articleAbstract: "Should you repair your dryer, or is it time to replace it? A number of factors go into that decision. Here's a guide to help you decide."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Should You Repair or Replace Your Clothes Dryer?"
+  parent: Appliances
+---
+  If your dryer is making a funny noise, needs a new part that's hard to find or has stopped, well, _drying_, altogether, you may need to decide whether to repair or replace the unit.
+
+**This May Also Interest You:** [**Here’s Why Your Clothes Dryer Is Making Noise**](https://www.homeserve.com/en-us/blog/home-improvement/dryer-making-noise/)
+
+It’s not a simple choice. A dryer isn’t the most expensive home appliance, but they still don’t come cheap. Here’s a guide on how to decide.
+
+Should You Repair or Replace Your Clothes Dryer?
+------------------------------------------------
+
+Like so much else in life, it depends. If the parts cost more than a new dryer, it may make more sense to replace it. However, newer units require installation, and you'll also need to remove the old dryer. And if your home uses a gas dryer, you'll have to bring in a professional to ensure the gas is hooked up safely.
+
+Fortunately, dryers aren't as complex as washing machines, which may make them easier and cheaper to repair. They generally have fewer parts, and they're fairly simple machines — they blast heat into a giant drum to help moisture evaporate from your clothes.
+
+Narrow Down the Problem
+-----------------------
+
+The first step in considering whether to repair or replace a dryer is defining the problem. If you search online for the specific problem, along with the manufacturer and model, you may be able to find some resources that can help. Some manufacturers may also have a customer service hotline or live chat that can help you diagnose the problem and track down any parts you might need.
+
+If the dryer isn't drying properly, it could be as simple as cleaning the lint trap — something that's easily forgotten but very easy to remove, clean and replace.
+
+If the problem seems too complex for you, a repair tech might be needed.
+
+Consider the Dryer's Age and Original Cost
+------------------------------------------
+
+According to [Consumer Reports](https://www.consumerreports.org/appliances/clothes-dryers/should-you-repair-or-replace-your-broken-clothes-dryer-a1037372822/), a good way to gauge whether you should repair or replace a dryer is to consider its original cost, how long you've owned it and how much it will cost to repair. This strategy assumes you've already received an estimate or researched how much the parts cost and the hourly rate of a repair tech.
+
+For example, if you paid $800 (CAD 1094) for a dryer you've owned for five years, and the repair will cost around $200 (CAD 274), you should consider repairing it. However, if the repair will cost more than $250 (CAD 342), you should likely replace it, since the repair cost is more than 20% of its original cost.
+
+As another example, if you paid $600 (CAD 821) for a dryer nine years ago, and you're doing five to seven loads per week, you may want to get a new dryer. An older dryer is more likely to break down, and if you're using it often, it might be worthwhile to get a new model.
+
+**More Related Articles:**
+
+*   [Need to Vent? Here’s How to Install a Dryer Vent](https://www.homeserve.com/en-us/blog/how-to/install-dryer-vent/)
+*   [How Much Does It Cost to Install a Dryer Vent?](https://www.homeserve.com/en-us/blog/cost-guide/dryer-vent-installation/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How Much Does a Clothes Dryer Cost?](https://www.homeserve.com/en-us/blog/cost-guide/clothes-dryer/)
+*   [Here’s How to Change the Direction the Door Swings on Your Washer and Dryer](https://www.homeserve.com/en-us/blog/how-to/reverse-washer-dryer-door/)
+
+Is It Still Under Warranty?
+---------------------------
+
+Find out if your dryer is still under the manufacturer's warranty by checking your purchasing paperwork or owner's manual. If it's still under warranty, the manufacturer can send a repair person to diagnose and fix the problem.
+
+Cost of Repairs
+---------------
+
+According to 2022 survey data by [Consumer Reports](https://www.consumerreports.org/appliances/clothes-dryers/should-you-repair-or-replace-your-broken-clothes-dryer-a1037372822/#:~:text=The%20median%20repair%20cost%20was,priced%20models%20(over%20%24900).) — which is representative of over 57,000 dryer owners — the median repair cost was $149 (CAD 204) for a gas dryer that originally cost $800 (CAD 1,094) or less and $192 (CAD 263) for a gas dryer that originally cost over $800 (CAD 1094).
+
+Electric dryer repair costs were about the same. For mid-priced options from $700 to $900 (CAD 957 to 1,231), repairs were $173 (CAD 237) on average. For higher-end models over $900 (CAD 1,231), the average repair cost was $215 (CAD 294).
+
+Interestingly, 92% of dryers purchased since 2012 are still in use, which means people typically choose to repair them.
+
+Cost to Replace
+---------------
+
+If you have an electric dryer and you've determined that replacing it makes the most sense, you can expect to pay between $500 and $1,000 (CAD 684 and 1,368) for a new electric dryer, according to product listings from [The Home Depot](https://www.homedepot.com/b/Appliances-Washers-Dryers-Dryers-Electric-Dryers/N-5yc1vZc3q1).
+
+Gas dryers are slightly more expensive. A basic model costs about $550 (CAD 752), and one with many bells and whistles might cost as much as $1,050 (CAD 1,436).
+
+According to data from [Fixr](https://www.fixr.com/costs/dryer-installation), installation of a new gas or electric dryer can cost between $50 and $200 (CAD 69 and 277), so add that to the cost of the unit when calculating the final approximate cost.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/E7N374KASqs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Eco-friendly laundry hack!"></iframe>

@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Gutter Guide for Homeowners"
+headline: "Get Your Mind on Your Gutters: Here's Everything You Need to Know"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-02-16
+basePath: https://library.homeserve.com/m/
+heroImage: 5b8e0f07b80e32e5/Blog-GettyImages-671454532.jpg
+heroAltDescription: "Man clearing leaves from gutter up high on ladder"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "For most homes, rain gutters are an essential part of keeping the property in good order. If you’re new to the gutter game, this overview is for you."
+articleAbstract: "For most homes, rain gutters are an essential part of keeping the property in good order. If you’re new to the gutter game, this overview is for you."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Gutter Guide: Everything Homeowners Should Know About Their Gutters"
+  parent: Exterior-Home-Buying-Guide
+---
+  If you’re new to homeownership, you may not have given much thought to your gutters. Nevertheless, rain gutters play an essential role in keeping your home protected and free from water damage.
+
+**This May Also Interest You:** [**Does a House Need Gutters?**](https://www.homeserve.com/en-us/blog/home-improvement/are-gutters-necessary/)
+
+Keeping your gutters cleaned and well-maintained will prevent clogs and ensure your gutters are doing their job properly. If you’re new to the gutter game, read this rundown on what they’re all about.
+
+What Exactly Are Gutters For?
+-----------------------------
+
+Gutters help protect your home by diverting rain, working to shield it from water damage. Gutters use a system of channels just below your roofline to send rain and other precipitation away from your home via downspouts. This helps keep water from collecting around your foundation or causing mold and mildew damage to your home’s siding.
+
+What Are Gutters Made Of?
+-------------------------
+
+Most roof gutters are made of aluminum, vinyl or galvanized steel and tend to be installed toward the end of the home-building process. Gutters are pretty long-lasting, with a typical lifespan of 20 years or more, depending on the material and how well they’re maintained.
+
+Although the cost varies quite a bit depending on your home’s specifics and the type of gutter system you choose, the average cost of a gutter replacement is around $1,500 (CAD 2,000) for both materials and installation, give or take a bit, depending on square footage. That said, if your house has a complicated roofline that requires a very sophisticated system, or if you want to upgrade to a higher-end, longer-lasting material for your gutters, you should expect to pay significantly more.
+
+What About Gutter Guards?
+-------------------------
+
+You can also purchase gutter guards to go on top of your gutters to help protect them from excess leaf and debris buildup and to keep your rainwater flowing as it should. Gutter guards won’t remove the need for cleaning entirely, but you certainly won’t have to clean your gutters as often. While gutter guards will make maintaining your gutters easier, know that they can come with a pretty hefty price tag — around $15 (CAD 20) per square foot, or about $1,500 (CAD 2,000) more than gutters alone. That said, for a lot of folks, they are more than worth it for the time and effort they save on maintenance, especially for homes positioned under a lot of foliage.
+
+Do You Need to Have Gutters?
+----------------------------
+
+In short, probably so. The overwhelming majority of homes need roof gutters to help protect the integrity of the home, but there are a few exceptions. Concrete houses, for example, may not need gutters, and homes with downward-sloping properties and extra-long roof overhangs (think 6 to 10 inches) may also be able to go gutter-free. Also, homes in extremely dry climates may not need the protection of gutters like most homes do, since they receive such little rain.
+
+**More Related Articles:**
+
+*   [What Are Gutter Guards — and Do You Need Them?](https://www.homeserve.com/en-us/blog/home-improvement/gutter-guards/)
+*   [How Much Does It Cost to Install Gutter Guards?](https://www.homeserve.com/en-us/blog/cost-guide/gutter-guards/)
+*   [What Happens If You Don’t Clean Your Gutters?](https://www.homeserve.com/en-us/blog/home-improvement/gutter-cleaning-maintenance/)
+*   [Winter Gutter Maintenance Checklist](https://www.homeserve.com/en-us/blog/how-to/winter-gutter-maintenance/)
+*   [Frozen Gutters be Dammed! 6 Ways to Eliminate Ice Dams](https://www.homeserve.com/en-us/blog/how-to/thaw-frozen-gutters/)
+
+What Are the Hazards of Clogged Gutters?
+----------------------------------------
+
+Keeping your gutters clean is important for several reasons. In addition to ensuring the gutters are flowing as they should, seasonal cleaning will also help keep your gutters from getting clogged. Clogged gutters can lead to mold and mildew buildup, ice dams in winter and pest issues, all of which can cause long-term damage to your gutters.
+
+Basic Gutter Maintenance Tips
+-----------------------------
+
+Regardless of how sophisticated or high-quality your gutter system might be, clean gutters are key to making sure they are functioning their best. In general, you should plan to clean your gutters at least twice a year, ideally during fall and spring. Cleaning out your rain gutters toward the end of fall helps prevent clogs and gives you the chance to remove leaves, pinecones, branches and other debris that have accumulated and ensure the gutters are ready for the coming winter.
+
+Fall is also a good time to check that your gutters are free of holes or other damage and still solidly attached to your home. When winter hits, you want your gutters in good shape, so that they can handle whatever snow and ice the cold weather brings. Early spring is also a good opportunity to check in on your gutters to make sure they didn’t suffer any damage from the weight of winter precipitation. Check for rust, dents, sagging or loose pieces while your gutters are empty. Spring tends to bring rain, so you’ll want your gutters clean and well-functioning so that they can do the work of diverting all that rainfall away from your home to protect your siding and foundation.
+
+Maintenance Matters Most
+------------------------
+
+Whether you have top-of-the-line gutters that were installed in recent years or a basic gutter system from decades ago, creating a regular cleaning and inspection schedule will help keep your gutters performing as they should. As with other aspects of homeownership, preventive maintenance is key to gutter longevity and avoiding spending extra money on repairs down the line.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/I_p4dkZ3TpU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Window Wells | How to Clean and Maintain a Basement Window Well"></iframe>

@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Are My Lights Flickering: How to Fix Flickering Lights"
+headline: "Why Are My Lights Flickering (And How Do I Get Them to Stop)?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-11-05
+basePath: https://library.homeserve.com/m/
+heroImage: 43fab3b2dd9c7bc6/original/LightFlicker_Erossi1208205959.gif
+heroAltDescription: "large residential living room with a ceiling full of can lighting with one light flickering."
+metaDescriptions: "Flickering lights aren't just annoying; they can also be dangerous. Here's how to fix your flickering lights and protect your home."
+articleAbstract: "Flickering lights set the tone in a haunted house or scary movie, but they can be a big problem in your home. Figuring out the cause of the flickering and learning how to fix it will help you get the illumination you need while protecting your home."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Are My Lights Flickering (And How Do I Get Them to Stop)"
+  parent: Electrical-Home-Improvement
+---
+  Flickering lights set the tone in a haunted house or scary movie, but they can be a big problem in your home. A single flickering light could be the result of something as simple as a loose lightbulb. Whole-house flickering, on the other hand, is likely a wiring issue, which can be serious because it increases the risk of electrical fires.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install Different Types of Lighting?**](https://www.homeserve.com/en-us/blog/cost-guide/installing-decorative-light-fixture/)
+
+Figuring out the cause of the flickering and learning how to fix it will help you get the illumination you need while protecting your home.
+
+What Would Cause Lights to Flicker?
+-----------------------------------
+
+There could be issues with the lightbulb if the flickering is just happening in one fixture. Tighten the bulb to ensure it’s securely in the fixture. If it's a lamp that's flickering, check the plug to ensure it’s secure in the outlet.
+
+If you have a dimmer switch on the light, the cause of the flickering may be that you don’t have a dimmable bulb in the fixture. Try changing the lightbulb to a dimmable bulb to see if that fixes the issue.
+
+Another common cause is an electrical wiring problem. Here are some potential wiring issues:
+
+### Loose Wiring
+
+The wiring in the light or switch could be faulty or loose, which is a potential fire hazard. Wiggling the light switch to see if it causes the lights to flicker can tell you if the switch wiring is the issue. There could be loose connections anywhere in the electrical system, including the panel.
+
+### Outdated Wiring
+
+There could also be a larger wiring issue, such as outdated wiring throughout the house or an issue in the electrical panel.
+
+### Overloaded Circuits
+
+If too many things are plugged in and running at once, the circuit could become overloaded. You might notice it especially when a large appliance is running or starts up because it requires a lot of electricity. This type of flickering usually isn't a problem, but if there's constant flickering, you might need to have your system updated or reconfigured.
+
+Why Are My LED Lights Flickering?
+---------------------------------
+
+LEDs can be more sensitive than other lights to fluctuations in voltage, so you might notice your LEDs flickering more with voltage changes. There could also be an issue with dimmer light compatibility with your LEDs. Not all dimmer switches are compatible with LED bulbs, even if they're dimmable bulbs. It could also be an issue with a loose bulb or wiring problems.
+
+Why Are My Lights Flickering in the Whole House?
+------------------------------------------------
+
+If the lights are flickering throughout the house, it's probably due to a house-wide electrical issue. It could also be an issue with the electrical service, not necessarily your house wiring. For example, the power from the grid could be fluctuating, or a neighbor on the same transformer could be drawing a large amount of power.
+
+It could also be a larger issue with your wiring, which is potentially dangerous due to the fire risk it causes. Outdated wiring often can't handle modern electrical demands, which can make your lights flicker. Your home might have an issue with the meter box connection or the connection with the main service cable. These situations need a professional electrician for diagnosis and repair.
+
+Electrical arcing can also be the cause of flickering throughout the house. This happens when the electrical current jumps across a gap in two conductors. It can be particularly dangerous because it can result in a temperature of up to [35,000 degrees F](https://www.cloverelectric.com/what-is-electrical-arcing), which can catch nearby combustible materials on fire.
+
+**More Related Articles:**
+
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [Lightbulb Moment! Here Are 5 Ways to Remove a Broken Lightbulb](https://www.homeserve.com/en-us/blog/how-to/remove-broken-lightbulb/)
+*   [Let’s Shed Some Light on the Situation: How to Change a Lightbulb](https://www.homeserve.com/en-us/blog/how-to/change-lightbublb/)
+*   [How Much Does It Cost to Install Light Switch Dimmers?](https://www.homeserve.com/en-us/blog/cost-guide/dimmer-light-switch-installation/)
+*   [Do Light Fixtures Add Value to Your Home?](https://www.homeserve.com/en-us/blog/home-improvement/light-fixtures-increase-home-value/)
+
+How Do I Stop My Lights From Flickering?
+----------------------------------------
+
+Pinpointing the cause of the flickering lights is the first step to stopping them. If it's a lightbulb issue, swap out the bulbs.
+
+If the flickering happens when many things are running, consider moving plug-in electrical items into different outlets to balance the power draw. Some appliances, such as refrigerators and air conditioners, draw a large amount of electricity when they start running. This can cause a drop in voltage, which makes the light dim or flicker. Having those appliances on dedicated circuits can make the voltage fluctuations less noticeable.
+
+If faulty wiring is the cause, you'll need to have a licensed electrician handle the work. An electrician can reconnect loose wire or replace outdated wiring that's causing the issue. If you can't pinpoint the cause of flickering yourself, hire an electrician to investigate.
+
+How Big a Problem Are Flickering Lights?
+----------------------------------------
+
+It's always best to have an electrician investigate the situation, but the scope of the flickering lights can help you determine how big of a problem it is. If it's just an issue with a single light, it's likely something small, like a lightbulb or the wiring to that fixture or switch.
+
+If multiple lights are flickering in only one area of your home, you're likely experiencing a circuit issue. It could be a loose connection in just that circuit, or the circuit might be overloaded.
+
+If the lights are flickering throughout your house, you could have a more serious issue with all of the wiring. It could be an issue with the electrical panel or the main connections to your home.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/8mzG-IJupUA?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

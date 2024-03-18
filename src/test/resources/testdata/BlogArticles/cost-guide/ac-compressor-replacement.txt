@@ -1,0 +1,97 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Replace an AC Compressor?"
+headline: "How Much Does It Cost to Replace an AC Compressor?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-09-26
+basePath: https://library.homeserve.com/m/
+heroImage: 58a852596ae887a4/Blog-ZIP_0404.jpg
+heroAltDescription: "retouched"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If your AC unit quits on you, a broken compressor might be the cause. Here's how much it may cost to fix it."
+articleAbstract: "If your AC unit quits on you, a broken compressor might be the cause. Here's how much it may cost to fix this key part."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Replace an AC Compressor?"
+  parent: HVAC-Cost-Guide
+---
+  The inner workings of any home air conditioning system don’t make much sense to the average homeowner. And most of the time, that’s fine! All we need to know is that our AC units provide cool, dehumidified air during the middle of July when the weather's hot.
+
+**This May Also Interest You:** [**Should You Repair or Replace Your Air Conditioner?**](https://www.homeserve.com/en-us/blog/home-improvement/repair-replace-air-conditioner/)
+
+We also know that no one wants their air conditioner to suddenly stop working during the dog days of summer. If your AC unit quits on you, a broken compressor might be the cause.
+
+Air Conditioner Compressor Replacement Cost
+-------------------------------------------
+
+The compressor is the heart of your cooling unit. It’s the element that produces cool air. When it starts to slow down and requires repairs, you’ll probably want to start thinking about how much it may cost you to replace it.
+
+According to data by [HomeGuide](https://homeguide.com/costs/ac-compressor-cost), the average cost to replace a home air conditioner compressor is about $600 to $1,200 (CAD 800 to CAD 1,600) under warranty, or $1,300 to $2,500 (CAD 1,700 to CAD 3,300) when it’s not under warranty.
+
+Many HVAC contractors charge $75 to $150 (CAD 100 to CAD 200) per hour, plus the cost of parts. These labor rates vary based on your location and individual contractor.
+
+In some cases, you may have to replace the entire AC unit, and that can take 4 to 6 hours for a qualified contractor to do. A typical price range for a complete AC unit replacement is [$2,500 to $7,500](https://homeguide.com/costs/install-ac-unit-cost) (CAD 3,300 to CAD 9,900) using existing ductwork. The actual cost depends on the unit brand, contractor labor rates and how long it takes to complete the job.
+
+Factors That May Affect AC Compressor Cost
+------------------------------------------
+
+There are a variety of air conditioning systems that you can use to cool your home — window units, portable systems, ductless air conditioners and central air conditioning systems. No matter what system you choose, they all work in basically the same way. According to The Spruce, there are [five important parts](https://www.thespruce.com/how-home-air-conditioning-system-works-4121077) to every air conditioner:
+
+*   Refrigerant
+*   Compressor
+*   Condenser
+*   Expansive valve
+*   Evaporator coil
+
+There are a number of factors to consider to help you determine if it’s worth replacing the compressor on the AC unit or buying a whole new system:
+
+### Compressor Type
+
+Compressors come in a variety of models — single-stage, two-stage and variable-speed. The two-stage and variable-speed styles are more efficient but also cost more to replace.
+
+### Brand
+
+There are many brands to choose from, and each one provides great options for different budgets. Central AC units usually work best with a compressor from the same brand.
+
+### Refrigerant
+
+After you replace the compressor, the refrigerant has to be filled. Refrigerant refills cost between [$100 and $320](https://homeguide.com/costs/ac-freon-cost-recharge-refill) (CAD 130 and CAD 420) for a modern unit that uses R410A Freon, or $180 to $600 (CAD 240 to CAD 790) or more for R22 Freon in an older unit.
+
+### Warranty Coverage
+
+The compressor is the main part of the AC unit. A warranty plan typically covers a significant portion of the cost of fixing the compressor. If the compressor is not under warranty, it may be easier and cheaper to replace the entire AC unit.
+
+**More Related Articles:**
+
+*   [How to Prep Your AC Unit for Summer](https://www.homeserve.com/en-us/blog/how-to/prepare-air-conditioner/)
+*   [HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+
+### Size
+
+Larger units are more expensive to repair and often require more refrigerant.
+
+### Season
+
+While no one can predict when an AC compressor might decide to break, the season is a factor when it comes to AC compressor replacement costs. Prices tend to increase during the spring and summer months when HVAC contractors are busy. Off-peak months are generally the most affordable times — January through March and September through November.
+
+Common AC Compressor Problems
+-----------------------------
+
+When your AC sputters to a stop on a 100-degree day, the compressor may not need to be replaced completely. Sometimes, the unit just needs a repair. Identifying the symptoms of a bad AC compressor may help you troubleshoot the issue quickly and efficiently.
+
+* **Dirty filters:** Clogged and dusty filters restrict cool air from flowing and cause the AC compressor to slow down.
+* **Faulty thermostat:** If your AC stops working or is no longer blowing cool air, it could be the thermostat batteries, sensors or other issue causing the device to read the wrong temperature.
+* **Compressor blockage:** If something is blocking your compressor unit, it could impact how your AC compressor functions. Make sure no yard debris, overgrown shrubs or other items are blocking your unit.
+* **Compressor noise:** Loud noises could be a sign of a faulty part or AC unit breakdown.
+
+How Long Do AC Compressors Last?
+--------------------------------
+
+AC compressors can last 10 to 20 years, depending on where they are located, how well they are maintained and how often they are used. In the northern part of the U.S., air conditioner compressors last 15 to 20 years, while in the south, AC compressors can last 8 to 10 years. Routine maintenance, regular check-ups and periodic filter changes will help keep the AC unit in great shape and prolong the compressor’s lifespan.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

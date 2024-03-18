@@ -1,0 +1,39 @@
+--------------------------------------------------------------------------
+|ArticleName				|Title	|Author	|Date	|Image	|
+--------------------------------------------------------------------------
+|what-is-earthquake-insurance	|Pass	|Pass	|Pass	|Pass	|
+|wainscoting-installation			|Pass	|Pass	|Pass	|Pass	|
+|what-is-gift-tax			|Pass	|Pass	|Pass	|Pass	|
+|what-is-air-handler			|Pass	|Pass	|Pass	|Pass	|
+|what-is-a-mudroom			|Pass	|Pass	|Pass	|Pass	|
+|what-does-homeowners-insurance-cover	|Fail	
+
+|what-is-811				|Pass	|Pass	|Pass	|Pass	|
+|west-virginia-water-heater-costs	|Pass	|Pass	|Pass	|Pass	|
+|wet-heavy-snow				|Pass	|Pass	|Pass	|Pass	|
+|water-pump-replacement-cost	|Pass	|Pass	|Pass	|Pass	|
+|water-softener-installation	|Pass	|Pass	|Pass	|Pass	|
+|wallpaper-cost				|Pass	|Pass	|Pass	|Pass	|
+|water-heater-replacement-home-warranty-coverage|Pass	|Pass	|Pass	|Pass	|
+|wallpaper-installation			|Pass	|Pass	|Pass	|Pass	|
+--------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|ArticleName				|Heading		|Paragraph		|Link			|List			|Image			|Video			|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|what-is-earthquake-insurance	|Pass: 4 Fail: 0	|Pass: 15 Fail: 1	|Pass: 13 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|wainscoting-installation			|Pass: 7 Fail: 0	|Pass: 15 Fail: 0	|Pass: 9 Fail: 0	|Pass: 1 Fail: 0	|Pass: 2 Fail: 0	|Pass: 1 Fail: 0	|
+|what-is-gift-tax			|Pass: 5 Fail: 0	|Pass: 10 Fail: 0	|Pass: 1 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|what-is-air-handler			|Pass: 5 Fail: 0	|Pass: 13 Fail: 0	|Pass: 6 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|what-is-a-mudroom			|Pass: 9 Fail: 0	|Pass: 17 Fail: 0	|Pass: 9 Fail: 0	|Pass: 1 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|
+|what-does-homeowners-insurance-cover	|Not Migrated	|
+|what-is-811				|Pass: 6 Fail: 0	|Pass: 12 Fail: 0	|Pass: 10 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|west-virginia-water-heater-costs	|Pass: 3 Fail: 0	|Pass: 10 Fail: 0	|Pass: 6 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|wet-heavy-snow				|Pass: 5 Fail: 0	|Pass: 14 Fail: 0	|Pass: 11 Fail: 0	|Pass: 2 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|water-pump-replacement-cost	|Pass: 10 Fail: 0	|Pass: 30 Fail: 0	|Pass: 9 Fail: 0	|Pass: 2 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|water-softener-installation	|Pass: 10 Fail: 0	|Pass: 20 Fail: 1	|Pass: 6 Fail: 0	|Pass: 2 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|wallpaper-cost				|Pass: 7 Fail: 0	|Pass: 18 Fail: 0	|Pass: 8 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|water-heater-replacement-home-warranty-coverage	|Pass: 8 Fail: 0	|Pass: 13 Fail: 0	|Pass: 6 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|wallpaper-installation			|Pass: 13 Fail: 0	|Pass: 24 Fail: 0	|Pass: 6 Fail: 0	|Pass: 3 Fail: 0	|Pass: 2 Fail: 0	|Pass: 0 Fail: 0	|
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

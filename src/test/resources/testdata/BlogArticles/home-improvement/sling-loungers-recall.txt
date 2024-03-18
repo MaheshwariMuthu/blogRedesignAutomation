@@ -1,0 +1,34 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Finger Lacerations, Amputations Cited in Recall of 155,000 Loungers Sold at Dollar General"
+headline: "Finger Lacerations, Amputations Cited in Recall of 155,000 Loungers Sold at Dollar General"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-08-06
+basePath: https://library.homeserve.com/m/
+heroImage: 61010d406104e6e6/Blog-SlingLoungerRecall_ShanghaiWorthGardenProducts.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "About 155,000 lounge chairs sold exclusively at Dollar General have been recalled after reports of amputations and lacerations."
+articleAbstract: "About 155,000 lounge chairs sold exclusively at Dollar General have been recalled after reports of amputations and lacerations. The sling loungers can suddenly collapse, posing a risk of amputation, laceration or pinching if extremities are caught in the metal joints. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Sling Loungers Sold at Dollar General Recalled Due to Amputation, Laceration, and Pinching Hazard; Manufactured by Shanghai Worth Garden Products"
+  parent: Exterior-Home-Home-Improvement
+---
+  About 155,000 lounge chairs sold exclusively at Dollar General have been recalled after reports of amputations and lacerations. The sling loungers can suddenly collapse, posing a risk of amputation, laceration or pinching if extremities are caught in the metal joints.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the Aug. 4 [recall alert](https://cpsc.gov/Recalls/2021/Sling-Loungers-Sold-at-Dollar-General-Recalled-Due-to-Amputation-Laceration-and-Pinching-Hazard-Manufactured-by-Shanghai-Worth-Garden-Products) published by the Consumer Product Safety Commission, there have been three reports of the sling loungers collapsing, resulting in cuts or amputations of fingers.
+
+This recall involves specifically the True Living Sling Loungers with white frames and blue or green fabric covers. The UPC number — 430001047344 — can be found on the receipt. The loungers were manufactured by Shanghai Worth Garden Products of Shanghai, China, and were sold at Dollar General stores in the U.S. between January 2019 and September 2019 for about $20.
+
+Dollar General is telling consumers to stop using these loungers immediately. If you own one, you should render it unusable by cutting the fabric. Then, contact Dollar General to return your lounger for a full refund. Call 800-678-9258, or visit the company’s [product recalls page](https://www.dollargeneral.com/customer-support/store-support.html) for more information. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Look Out Below! Recalled Pool and Patio Umbrellas Could Break and Fall During Use](https://www.homeserve.com/en-us/blog/home-improvement/umbrosa-patio-umbrella-recall/)
+*   [Watch Your Seat: 3,100 StyleWell Dining Chair Sets Recalled for Fall Risk](https://www.homeserve.com/en-us/blog/how-to/Wood-Windsor-Dining-Chair-Recall/)
+*   [Fall Risk Prompts Recall of 3,100 Sauder Woodworking Bar Stools](https://www.homeserve.com/en-us/blog/home-improvement/sauder-woodworking-barstools-recall/)
+*   [Are You Sitting Down? Hillsdale Furniture Recalls 10,500 Stools Over Fall Risk](https://www.homeserve.com/en-us/blog/home-improvement/jennings-stool-recall/)
+*   [Sleep Tight! Casa Kids Recalls Bunk Beds Due to Loose Screws](https://www.homeserve.com/en-us/blog/home-improvement/cabina-bunk-beds-recall/)

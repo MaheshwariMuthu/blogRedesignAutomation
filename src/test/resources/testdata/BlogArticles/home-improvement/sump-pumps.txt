@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Sump Pumps: Learn a Little Sump'n Sump'n About Sump Pumps"
+headline: "Learn a Little Sump'n Sump'n About Sump Pumps"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-11
+basePath: https://library.homeserve.com/m/
+heroImage: 2f94d603f3f6fd03/Blog-GettyImages-1059362956.jpg
+heroAltDescription: "A sump pump in a well with some water around it"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Sump pumps help prevent flooding by moving water away from your basement or crawlspace."
+articleAbstract: "Sump pumps help prevent flooding by transferring water from a basement or crawlspace to another location, away from your house. Here's a quick primer."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Sump Pumps: Everything You Need to Know"
+  parent: Plumbing-Home-Improvement
+---
+  With homeownership comes a slew of responsibilities that, in your younger years, you may not have envisioned for your adult self: cleaning gutters, trimming tree limbs, unclogging sinks and making sure your basement doesn’t flood.
+
+**This May Also Interest You:** [**6 Steps to Winterize Your Sump Pump**](https://www.homeserve.com/en-us/blog/how-to/winterize-sump-pump/)
+
+Basement flooding is where a sump pump comes into play. If you’re as unfamiliar with a sump pump’s workings as you were at age 11, never fear. Here’s a primer.
+
+What Is a Sump Pump?
+--------------------
+
+Sump pumps help prevent flooding by transferring water from a basement or crawlspace to another location, away from your house. Typically, a sump pump sits in a pit under your house, also called a sump basin. When water enters your basement, say, after a heavy rain or flood, the sump pump will pump the excess water up and away along a discharge pipe that connects to a drainage area away from your home.
+
+How Does a Sump Pump Work?
+--------------------------
+
+Using special valves that sense high water levels, the sump pump automatically pumps the water into a special discharge pipe that moves the water to a designated drainage area. The drainage pipe will exit out toward a sloped location that’s far enough away from your house that it won’t return and pool around your home’s location.
+
+All sump pumps require electricity, so it’s important that they are installed near an outlet in the basement. And because they operate in and around water, it’s also important that this outlet is equipped with a ground-fault circuit interrupter (or GFCI). Finally, because heavy rain and floods can often go hand-in-hand with power outages, it’s also important that a sump pump has some type of backup power source.
+
+Types of Sump Pumps
+-------------------
+
+There are two types of sump pumps: submersible pumps and pedestal pumps. A submersible pump sits directly in the sump basin and will operate while submerged in water. These pumps are generally quieter than a pedestal pump, but are oftentimes more expensive and incur higher maintenance costs.
+
+Pedestal pumps, on the other hand, are upright machines with motors directly attached to the top. Unlike submersible pumps, these motors shouldn’t get wet. And while they are typically cheaper to install and maintain than submersible pumps, they aren’t nearly as reliable.
+
+Backup Sump Pumps
+-----------------
+
+Because flooding and power outages often accompany one another, it’s crucial that you have a backup sump pump installation. Otherwise, you’re likely to end up with a flooded basement if your primary pump fails during a blackout.
+
+A battery-backup sump pump is by far the most common type. As the name suggests, these backup pumps turn on when your primary pump fails, typically during a power outage. Of course, they aren’t without their disadvantages. Battery backups will only operate for a certain amount of time before their batteries die, which might pose a problem during extended periods without power and significant flooding.
+
+**More Related Articles:**
+
+*   [Why Does My Sump Pump Run in the Winter?](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-running-winter/)
+*   [What’s the Difference Between a Sump Pump and an Ejector Pump?](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-ejector-pump/)
+*   [Protect Your Home Against Flooding With This Sump Pump Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-maintenance/)
+*   [How to Install a Sump Pump: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/sump-pump-installation/)
+*   [Sump Pump Alarm Going Off? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/buying-guide/sump-pump-alarm/)
+
+How Long Do Sump Pumps Last?
+----------------------------
+
+Like any other appliance, a sump pump won’t last forever. On average, a sump pump will last around 10 years. However, unlike other household appliances that you use on a daily basis, you probably won’t know that your sump pump isn’t working until your basement is flooded. That’s why it’s important to have maintenance performed on your pump at least once a year.
+
+Routine maintenance for sump pumps involves removing the pump from the sump basin and giving the whole system a thorough cleaning, as well as checking the connections and the overall condition of the unit. And while cleaning a sump pump is technically a pretty doable DIY project, it’s also a task best left to a professional to ensure that your pump stays in good working condition.
+
+It’s important to note here that sump pumps should only run when it’s actually needed, i.e., whenever a certain water level is met. If your sump pump is running constantly, that’s a signal that something’s wrong. It could mean that the pump has an issue, like a malfunctioning check valve. It may be a signal that you have an underground leak that’s seeping water into your sump pit. Either way, the problem could cause your pump to become overworked and lead to a shorter life expectancy.
+
+Does Every House Need a Sump Pump?
+----------------------------------
+
+If you live in a low-lying area that is prone to heavy rains or snow, then, yes, installing a sump pump is highly recommended. Even if your home is at low risk of flooding, it can still be a good idea to install a sump pump. The cost associated with the pump itself is a small price to pay to protect from the threat of water damage. And, as is the case with most parts of adulting, paying a little extra for some added peace of mind is almost always worth it.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nk_hBpyP3Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How Much Does Sewer Line Maintenance and Repair Cost?"></iframe>

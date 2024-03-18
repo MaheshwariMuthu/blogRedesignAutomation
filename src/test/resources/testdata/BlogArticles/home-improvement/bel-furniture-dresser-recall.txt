@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Tip-Over Hazard: Bel Furniture Recalls Chests of Drawers After Reported Injury"
+headline: "Tip-Over Hazard: Bel Furniture Recalls Chests of Drawers After Reported Injury"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-07-24
+basePath: https://library.homeserve.com/m/
+heroImage: 5819abfd50460a/Blog-DresserRecall_BelFurniture.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Bel Furniture is recalling about 90 chests of drawers because they may be unstable if they’re not anchored to a wall, posing a tipping hazard. "
+articleAbstract: "Bel Furniture is recalling about 90 Barrington chests of drawers. According to a Consumer Product Safety Commission recall alert, the dressers may be unstable if they’re not anchored to a wall, posing a tipping hazard."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Bel Furniture Recalls Barrington 5-Drawer Chests Due to Tip-Over and Entrapment Hazards"
+  parent: Interior-Home-Home-Improvement
+---
+  Bel Furniture is recalling about 90 Barrington chests of drawers. If you purchased one of these chests between October 2014 and July 2016, it might fall under this recall. According to a Consumer Product Safety Commission [recall alert](https://cpsc.gov/Recalls/2021/Bel-Furniture-Recalls-Barrington-5-Drawer-Chests-Due-to-Tip-Over-and-Entrapment-Hazards-Sold-Exclusively-at-Bel-Furniture-Recall-Alert), the dressers may be unstable if they’re not anchored to a wall, posing a tipping hazard.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the July 22 recall, the chests don’t comply with performance requirements set forth by voluntary industry standards. If the chests tip over, children may become trapped, which could result in death or serious injury. Houston, Texas-based distributor Bel Furniture has received one report of a chest tipping over and injuring a child.
+
+This recall involves Barrington 5-Drawer Chests. Dressers affected by this recall have stickers on the backside that identify them as a “Barrington 5-Drawer Chest” from the “Mollai Collection.” The chests were manufactured in Malaysia and sold exclusively at Bel Furniture stores across Texas and online at [BelFurniture.com](http://www.belfurniture.com) for about $250.
+
+If you own a recalled chest, the CPSC advises that you stop using it immediately and contact Bel Furniture. The distributor is offering a full refund with free pickup of the dresser or free installation of tip-over restraints. Consumers may also return the drawer slides for free and dispose of the dresser. Call 832-358-8899, email [recall@belfurniture.com](mailto:recall@belfurniture.com) or visit the [company's website](https://belfurniture.com) for more information about this recall.
+
+For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Tipping and Entrapment Hazard: Canyon Furniture Recalls 1,200 Children’s Chests of Drawers](https://www.homeserve.com/en-us/blog/home-improvement/creekside-kids-dresser-recall/)
+*   [Watch Your Seat: 3,100 StyleWell Dining Chair Sets Recalled for Fall Risk](https://www.homeserve.com/en-us/blog/how-to/Wood-Windsor-Dining-Chair-Recall/)
+*   [Are You Sitting Down? Hillsdale Furniture Recalls 10,500 Stools Over Fall Risk](https://www.homeserve.com/en-us/blog/home-improvement/jennings-stool-recall/)
+*   [Sleep Tight! Casa Kids Recalls Bunk Beds Due to Loose Screws](https://www.homeserve.com/en-us/blog/home-improvement/cabina-bunk-beds-recall/)
+*   [It Could Collapse: Lifetime Products Recalls 43,000 6-Foot Folding Tables](https://www.homeserve.com/en-us/blog/home-improvement/lifetime-products-seminar-table-recall/)

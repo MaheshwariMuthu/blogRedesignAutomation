@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Drain a Pool"
+headline: "Down the Drain: A Step-by-Step Guide to Draining Your Pool"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-08-08
+basePath: https://library.homeserve.com/m/
+heroImage: 1757e6ac589d6858/Blog-GettyImages-1286225285.jpg
+heroAltDescription: "in-gound pool being drained with an electric submersible pump"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "There's a right way and a wrong way to drain your pool. Here's how to do it right."
+articleAbstract: "While it might sound like a simple process, there is actually a right and a wrong way to drain your pool. Here's how to do it right."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Drain a Pool"
+  parent: Exterior-Home-How-To
+---
+  _Ahh._ Few things beat the feeling of jumping into a clear, clean swimming pool on a hot day. It's truly one of the most refreshing activities available to homeowners when the temps begin to climb. But sometimes, your pool itself might need to be refreshed.
+
+**This May Also Interest You:** [**How Much Does It Cost to Replace a Pool Liner?**](https://www.homeserve.com/en-us/blog/cost-guide/pool-liner-replacement/)
+
+The first step in doing so is usually getting all of the water out. And while that might sound like a simple process, there is actually a right and a wrong way to drain your pool. Do it wrong, and you might damage the pool or your yard. Here's how to do it right.
+
+Why Should You Drain Your Pool?
+-------------------------------
+
+First things first: Why would you actually want to get all of the water out of your pool? For starters, you might need to make a repair that can't be done underwater, or the pool might need a truly deep cleaning, such as [acid washing](https://www.swimuniversity.com/acid-wash-pool/), that can only be accomplished when it is empty.
+
+Also, if your pool water hasn't been changed in over five years, it's probably a good time to replace the water. This is because, over time, the chemicals you use to keep the water clean and clear build up and start to show up as particles that are referred to as total dissolved solids, or TDS. While this isn't dangerous, once the TDS level climbs above around 2,500 parts per million, it means that you'll likely be using an excessive number of chemicals to keep the water's pH balanced. You can check your pool's TDS levels using a — you guessed it — [TDS meter](https://www.amazon.com/Quality-Accuracy-Drinking-Swimming-Aquariums/dp/B07QDRWSWS/ref=asc_df_B07QDRWSWS/?tag=hyprod-20&linkCode=df0&hvadid=343230650837&hvpos=&hvnetw=g&hvrand=16035237140826663459&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010328&hvtargid=pla-784592454168&psc=1&tag=&ref=&adgrpid=67390054965&hvpone=&hvptwo=&hvadid=343230650837&hvpos=&hvnetw=g&hvrand=16035237140826663459&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010328&hvtargid=pla-784592454168).
+
+When Should You Drain Your Pool?
+--------------------------------
+
+The answer to this question might seem like a simple one: Whenever you want to! However, there are actually a few concerns to take into account before you simply suck your pool dry.
+
+First is the weather. Pool liners are really not meant to be exposed to the sunlight when there is no water in the pool. The heat and UV rays can damage the liner, and then you'll be looking at a repair that may even be bigger than the reason you drained your pool in the first place. So if you have the option, it's best to wait for the cooler temps and shorter sunlight hours in the fall and spring to drain your pool. Anything below 85 degrees Fahrenheit (30 degrees Celsius) is considered OK.
+
+However, if you have an in-ground pool, there are two other climate-related factors to consider. These pools are designed to have the weight of water holding them in the ground, so when they’re empty, they are easier to displace. Freezing soil or a high water table from several days of rain can force these pools out of the ground, which can potentially destroy them, so it’s best to wait for moderate temps and a stretch of dry days before emptying them.
+
+Other Considerations
+--------------------
+
+Before draining your pool, check with your local municipality, as they might have rules regarding when and how you can undertake the project. For example, you usually can't — nor would you want to — simply open a valve and let your pool water soak into your yard. The chemicals could wreck your lawn, destroy nearby plants and pollute the groundwater as well.
+
+Instead, if you live in an area that offers municipal sewer, you'll likely want to direct the water into the nearest city drain. But your town may not allow this during periods in which your region typically gets heavy rain so that the wastewater system isn't overwhelmed. If you have septic, then you'll want to direct the exiting pool water into that system instead.
+
+In either case, if you have the time to plan the emptying of your pool, it's best to stop treating the water chemically about a week in advance to let the chlorine and other substances dissipate. If you don't have that time, a chlorine neutralizer can help. Again, your local municipality might have guidelines on the required chemistry of pool water that you plan on emptying into the environment.
+
+**More Related Articles:**
+
+*   [How Much Does an Above-Ground Pool Cost?](https://www.homeserve.com/en-us/blog/cost-guide/above-ground-pool-installation/)
+*   [How Much Does a Concrete Pool Cost? The Price Isn’t Set in Stone](https://www.homeserve.com/en-us/blog/cost-guide/concrete-pool-installation/)
+*   [Can You Install an Indoor Pool Without Getting in Over Your Head?](https://www.homeserve.com/en-us/blog/cost-guide/indoor-pool/)
+*   [How to Open Your Swimming Pool for the Summer](https://www.homeserve.com/en-us/blog/how-to/open-swimming-pool/)
+*   [Play It Safe With Anti-Vortex Pool Drain Covers: Here’s How to Install One](https://www.homeserve.com/en-us/blog/how-to/install-anti-vortex-drain-cover/)
+
+How to Drain an Above-Ground Pool
+---------------------------------
+
+You might think that draining your pool might be as simple as running your pool's filtration system in "backwash" or "waste" mode. (Hint: It's not.) Your pool's pump is water-cooled, which means it needs to have water flowing through it at all times, or you run the risk of it overheating and failing. Again, you don't want to make your water-draining project any more expensive than it needs to be, so don't rely on the existing pump to carry out the work.
+
+Instead, be sure your pool's filtration system is unplugged to avoid any accidents. Then, buy or rent a submersible pump. You'll want to make sure that the cord on the pump is long enough to reach from an outlet to the bottom of the pool and that the drain hose is long enough to reach the water disposal point. It's best to plug the pump into a GFCI outlet (which should be what your filtration system is normally plugged into) and to avoid using extension cords if you can.
+
+Place the pump in the center of the pool, put the hose in the sewage point, turn it on, and it will begin to pump your pool water out. It can take up to 14 hours until all the water is out, so be patient. Once it's gotten rid of the bulk of the water, you can rely on evaporation to take care of the small puddle of water that will be left behind, or you can soak it up with mops or towels.
+
+How to Drain an In-Ground Pool
+------------------------------
+
+The steps here are the same as above, including disconnecting your pool's filtration system and using a submersible pump to get rid of the bulk of the water. However, in-ground pools have one additional step, and that's to remove the hydrostatic plugs.
+
+These plugs are installed at the bottom of the pool and are often covered in plaster that you'll need to chip away to access. Once you've done so, use a pair of pliers to unscrew the plugs, which will let groundwater into the pool. It might seem counterintuitive to let water into a pool you are trying to drain, but this step helps relieve groundwater pressure that could otherwise lead to pool pop.
+
+Wait for the submersible pump to remove this additional water, then mop up the rest of the water or wait for it to evaporate. There won't be much left once the plugs are removed and the pump has dealt with the flow.
+
+After your pool is drained, go ahead and give it a good cleaning, make any necessary repairs and fill it back up with clean, clear water. Once the chemicals are added and balanced, you should be all set to enjoy another few years of splashing in the sunshine.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Water Line Repair and Replacement | What You Can Expect to Pay"></iframe>

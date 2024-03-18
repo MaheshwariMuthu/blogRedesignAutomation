@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Interior-Cost-Guide
+  parent: Cost Guide
+  title: Interior Home
+permalink: false
+---

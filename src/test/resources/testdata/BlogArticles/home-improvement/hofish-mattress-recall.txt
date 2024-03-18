@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "HOFISH Recalls 700 Mattresses for Fire Risk"
+headline: "Don't Sleep on This: 700 HOFISH Mattresses Recalled Over Fire Risk"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-04-06
+basePath: https://library.homeserve.com/m/
+heroImage: 6818f4640af8d3fc/webimage-MattressRecall_HOFISH_0001.jpg
+heroAltDescription: "bed with clean mattress"
+metaDescriptions: "About 700 HOFISH mattresses sold between September 2019 and January 2020 have been recalled because they do not comply with the mandatory federal flammability standard.  "
+articleAbstract: "If you purchased a HOFISH mattress between September 2019 and January 2020, you’ll want to stop using it immediately. About 700 mattresses sold during this period have been recalled by the manufacturer because they do not comply with the federal flammability standard. Here's what you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "HOFISH Mattress Recall"
+  parent: Interior-Home-Home-Improvement
+---
+  If you purchased a HOFISH mattress between September 2019 and January 2020, you’ll want to stop using it immediately. About 700 mattresses sold during this period have been recalled by the manufacturer because they do not comply with the federal flammability standard.
+
+**This May Also Interest You:** [**Jimco Lamp & Manufacturing Recalls 99,000 Accent Tables Over Shock Hazard**](https://www.homeserve.com/en-us/blog/how-to/jimco-lamp-accent-table-recall/)
+
+In a recall announced March 17, the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/HOFISH-Recalls-Mattresses-Due-to-Violation-of-Federal-Flammability-Standard-Sold-Exclusively-on-Amazon-com) said the HOFISH 10-Inch Hybrid Certi-PUR Certified Foam and Pocket Spring Mattresses do not comply with the mandatory federal flammability standard, posing a risk of fire.
+
+The mattresses were manufactured in Vietnam by Vietnam Glory Home Furnishings, and sold by the Diamond Bar, Calif.-based company [HOFISH](https://www.hofish.net/pages/hofish-mattresses-recalls). HOFISH has reported no incidents or injuries associated with this recall.
+
+Sold exclusively on Amazon.com for around $190 apiece, the mattresses came compressed in a box, and are 10-inch, single-sided mattresses with white knit ticking, a blue striped wave design and diamond-shaped quilting on the top surface. They were available in twin, twin XL, full, queen and king sizes. Those affected by this recall have “Prototype ID: HF19HY” printed on the white tag located on the underside of the mattress.
+
+If your mattress falls under this recall, you should stop using it immediately and contact HOFISH. The company will provide a free fitted cover that will bring the mattress into compliance with the federal flammability standard. Call HOFISH toll-free at 888-731-2419. You can also reach the company via email at [frank@hofish.net](mailto:frank@hofish.net) or online via the [“Mattress Recall”](https://www.hofish.net/pages/hofish-mattresses-recalls) page.
+
+For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Watch Your Toes! 2.2 Million Edsal Shelving Units Recalled Due to Injury Risk](https://www.homeserve.com/en-us/blog/news/edsal-shelving-unit-recall/)
+*   [Stop Lying Down on the Job: Here’s How to Clean Your Mattress](https://www.homeserve.com/en-us/blog/how-to/clean-your-mattress/)
+*   [Wood-Burning Stove and Fireplace Safety](https://www.homeserve.com/en-us/blog/home-improvement/fireplace-wood-burning-stove-safety/)
+*   [Babyproofing Your House: A Child-Safety Checklist](https://www.homeserve.com/en-us/blog/how-to/baby-proofing-house/)
+*   [Home Maintenance Checklist: 15 Things to Do for Spring](https://www.homeserve.com/en-us/blog/home-improvement/spring-home-maintenance-checklist/)

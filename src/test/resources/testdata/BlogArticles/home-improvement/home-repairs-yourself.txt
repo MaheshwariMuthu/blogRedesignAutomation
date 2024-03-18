@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Home Repairs You Should Never Do Yourself"
+headline: "5 Home Repairs You Should Never Do Yourself"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-03-25
+basePath: https://library.homeserve.com/m/
+heroImage: 69674fa68fa4bf4/Blog-GettyImages-165887973.jpg
+heroAltDescription: "roofing contractor lays new shingles"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "While there are plenty of home repairs you can tackle solo, there are some that should be left to the professionals."
+articleAbstract: "While there are plenty of home repairs you can tackle solo, there are some that should be left to the professionals for safety's sake. Here are five major ones."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "X Home Repairs You Should Never Do Yourself"
+  parent: Interior-Home-Home-Improvement
+---
+  In the era of HGTV home renovations and a dizzying DIY blogosphere, it can be tempting to take on as many home repairs and maintenance projects as you possibly can without hiring them out. After all, DIY-ing can save you a ton of money. Plus, it can be a hassle to get quotes from the pros, and even trickier to schedule a start date, as many home professionals are busier than ever these days. And while do-it-yourself home renovation can certainly be rewarding, depending on the home system you’re trying to fix, the DIY world of house repairs gets a bit trickier and requires more than a quick trip to the hardware store.
+
+**This May Also Interest You:** [**Here’s How Much Common Home Repairs Cost — and How to Budget for Them**](https://www.homeserve.com/en-us/blog/cost-guide/home-repair-costs/)
+
+While there are plenty of minor home repairs you can tackle solo, there are some that should simply be left to the professionals, both for safety reasons and to preserve the overall integrity of your home. Here are five major home repairs that you’re better off calling in the experts for.
+
+1\. Complex Electrical Issues
+-----------------------------
+
+It’s probably no surprise that electrical work made this list. Though some homeowners are comfortable changing out the odd light fixture or ceiling fan on their own, electrical repairs are another beast entirely. Not only are these repairs often pretty complicated, but they also require an extensive knowledge base, as accessing problem areas can require cutting into walls or ceilings.
+
+More importantly, and put simply, electricity can kill you. One wrong move can light you up like that bungling burglar Marv in _Home Alone 2_, while an improperly wired circuit can lead to tripped breakers at best and fire at worst. A good rule of thumb is that if a repair seems that risky, then it’s better left to a licensed electrician.
+
+2\. Structural Concerns
+-----------------------
+
+Is that wall load bearing? If you aren’t 110% sure, call in a professional before you try removing walls willy nilly on your way to an open floorplan. Sure, you want to open things up a bit, but if you mess with load-bearing walls without a proper knowledge base, you may very well end up with an open ceiling, too.
+
+Similarly, any structural issues that involve your home’s foundation should be handled by a pro. These repairs are extremely technical, with a whole lot to lose if the repair goes awry, since foundation issues are some of the most expensive home repairs. Hire an expert here; the structural integrity of both your home and bank account depends on it.
+
+3\. Gas-Related Issues
+----------------------
+
+Here’s another home repair that falls firmly into the “things that can kill you” category. Gas can be scary, and gas leaks are even scarier. While a gas appliance repair may seem simple in theory, one wrong move could result in a life-threatening carbon monoxide leak.
+
+Whether it’s your gas stove, dryer or water heater, if any of your gas appliances quit working, you’ll definitely want to call an expert. Don’t mess with these on your own unless you have technical expertise on the subject or you’re some kind of secret superhero.
+
+**More Related Articles:**
+
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [15 Common Plumbing Problems Every Homeowner Needs to Watch Out For](https://www.homeserve.com/en-us/blog/how-to/plumbing-drainage-problems/)
+*   [Does Homeowners Insurance Cover Plumbing Repairs?](https://www.homeserve.com/en-us/blog/buying-guide/homeowners-plumbing-insurance/)
+*   [How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+*   [Need an Extra Hand? Here’s How to Hire a Handyman](https://www.homeserve.com/en-us/blog/how-to/hire-a-handyman/)
+
+4\. Extensive Roof Repairs
+--------------------------
+
+Got a leaky roof? If you’re determined to try to replace or reseal a shingle or two by yourself, don’t let this article stop you. But if your roof needs serious repairs, or perhaps needs to be replaced entirely, you’re really better off handing the job over to the experts.
+
+In addition to bringing know-how and experience to the job, they’ll also have all the proper equipment and safeguards in place to ensure that the project is done safely and efficiently. Efficiency is especially key in roof repairs, since you don’t want to leave your house half-shingled and shielded with a mere tarp indefinitely.
+
+Roof repairs can be dangerous (hello heights and steep angles), but they are also another one of those areas where you have a lot to lose financially if something goes sideways. If you improperly patch an area and end up with a significant ceiling leak later on, you stand to shell out a whole lot more in eventual repairs than what you saved by attempting to DIY in the first place.
+
+5\. Widespread Plumbing Problems
+--------------------------------
+
+You may feel comfortable trying to suss out a single plumbing issue single-handedly, like a leaky faucet or toilet that’s not refilling properly. But any sort of plumbing issue that extends beyond an isolated concern is worthy of a call to a plumber. Like electrical work, plumbing is one of the great “unseens” of your home, with complex systems that are hidden beyond walls and under floors. Pipes require specific conditions to function properly, making these repairs better left to those with precise plumbing knowledge.
+
+When in Doubt, Hire it Out
+--------------------------
+
+While these five are some of the key, high-stakes home repairs you may face, it’s unlikely they'll be the only issues you’ll have to call in an expert for. Any job on your home repairs list that feels beyond your scope of knowledge, dangerous or large-scale is almost always better off in the hands of a pro. Because when it comes to fixing things, saving money is a plus, but it shouldn’t be the most important factor. And don’t worry: You can still expand your DIY know-how elsewhere, where the stakes are lower. New accent wall in the nursery, anyone?<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

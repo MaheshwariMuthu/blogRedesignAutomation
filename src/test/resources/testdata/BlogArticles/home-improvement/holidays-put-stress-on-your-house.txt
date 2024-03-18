@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How the Holiday Season is Hard on Your Home"
+headline: "How the Holidays Can be H-E-Double-Hockey-Sticks on Your House"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-12-24
+basePath: https://library.homeserve.com/m/
+heroImage: 2b92c7b12f3476e6/original/ElectricMeter_Erossi-114143710.gif
+heroAltDescription: "A close up of a residential electric usage meter running at full speed and showing high consumption."
+metaDescriptions: "Worried how that Yuletide cheer might increase your home maintenance costs? Here’s our guide for surviving holidays with minimal financial impact."
+articleAbstract: "Worried how that Yuletide cheer might increase your home maintenance costs? Here’s our guide for surviving holidays with minimal financial impact."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How the Holidays Can be H-E-Double-Hockey-Sticks on Your House"
+  parent: Electrical-Home-Improvement
+---
+  For some, the holiday season is the most wonderful time of the year. For others, the season is a veritable Pandora's box full of hidden stressors and anxiety. The holidays _should_ be lots of fun. There’s the delicious food, presents and the extra time spent with your friends and family. All of these are great. But then there’s the drudgery of holiday shopping, the countless activities and events to attend — and don’t forget about those lovely chats with your uncle who’s always arguing about politics.
+
+**This May Also Interest You:** [**Can You Hire Someone to Decorate Your Home for the Holidays — and How Much Does It Cost?**](/en-us/blog/cost-guide/holiday-decorating-services/)
+
+Truth is, even if there are aspects of the holiday season that you enjoy, there are still challenges lurking around every corner — often in places you’d least expect.
+
+Being home for the holidays can be stressful for your _house_ as well: the increased energy consumption, water usage, oh, and did we mention the extra dishes to clean?
+
+Worried how that “Yuletide cheer” might increase your home maintenance costs this year? Here’s our guide for surviving holidays with minimal financial impact.
+
+Energy Use Around the Holidays
+------------------------------
+
+You should go ahead and expect it: Your energy bill will likely increase during the holiday season. It’s just inevitable. Everyone is at home, and the weather (in most of the country) is frightful. The heater is running, the appliances are being used more than usual and, of course, the decorative holiday lighting is blazin’ away outside. Add houseguests to the mix, and you’ve got an energy-consuming party on your hands. But fear not, anxious homeowner. There are several relatively easy ways to mitigate the financial impact of house-related holiday issues and keep you (and your wallet) jolly all season long.
+
+How to Head Off Holiday-Related Stress on Your Home
+---------------------------------------------------
+
+### 1\. Install a Smart Thermostat
+
+Unless you live in a part of the country that’s warm year-round, your energy costs are going to increase during the winter. This is especially true during the holidays when you and your family are home enjoying a nice warm house. When you have visitors, your heating bill is likely to increase even more. Doors are opening and closing, people are coming and going, and heat is going to escape. And if you have a larger house with more than one thermostat, the heat will likely be running higher than normal in the guest spaces in your home.
+
+Although some added heating costs are inevitable, you can mitigate some unnecessary costs by installing a smart thermostat. Installing a smart thermostat is one way to defray excess heating costs throughout the holidays (and beyond). Smart thermostats are connected to the internet, usually through Wi-Fi, and allow you to exercise maximum control over the temperature of your home at all times, even when you’re away.
+
+According to [Google Nest](https://storage.googleapis.com/nest-public-downloads/press/documents/energy-savings-white-paper.pdf), estimated that smart thermostats can save you around 10% on heating costs. They do this by keeping the temperature in your home as low as possible for as long as possible. They quickly learn your behavior and how long it takes to heat up a room in your house. So, when you turn in for the night, your thermostat will adjust to a lower temperature and will re-adjust when you wake up. When you and your guests are gone, the smart thermostat will go into a reduced power setting, allowing you to relax and enjoy the time with your family instead of worrying about your heating bill.
+
+### 2\. Have Your Plumbing Inspected
+
+You may be fretting that your full house during the holidays will quickly rack up a monster water bill. Yes, having more people in your home typically equates to more folks taking showers, flushing toilets, drinking water and so on. Truth is, you can go ahead and expect a somewhat higher bill. At the same time, you want to make sure that you’re doing everything you can to not pay more than you have to. Little Timmy’s new bike was expensive enough, right?
+
+You may want to look into getting your entire plumbing system inspected. It’s actually something you should do every couple of years anyway. You may not realize that one in five toilets leak — many of which go undetected by unsuspecting users. At worst, a leaky toilet can add up to a mind-blowing $10,000 to your annual water bill, so says the [Water Scrooge](https://www.thewaterscrooge.com/toilet-leaks). Even at the minimum, you’re looking a few hundred dollars for a smaller leak. While you may not be able to control how many times Aunt Phyllis uses the potty on any given afternoon, you _can_ ensure that your toilets and pipes are suited to handle the extra work.
+
+While you’re at it, this is also a great time to have your septic tank inspected as well, if you have one. The septic tank servicer will be able to comment on the condition of your tank and whether or not you need it emptied. Trust us: The last thing you want over the holidays is for your toilets to be out of commission due to a backed-up septic system.
+
+**More Related Articles:**
+
+*   [Deck the House: How to Hang Outdoor Holiday Lights](/en-us/blog/how-to/holiday-lighting-installation/)
+*   [Your Christmas Tree Could Be a Fire Hazard — Prevent Holiday Disaster With These Safety Tips](/en-us/blog/how-to/christmas-tree-safety-tips/)
+*   [Full House for the Holidays? Maintenance Tasks to Do Before Your Guests Arrive](/en-us/blog/home-improvement/maintenance-before-holiday-guests/)
+*   [Do I Need to Pump Our My Septic Tank Before Hosting Guests?](/en-us/blog/home-improvement/pump-septic-tank-before-guests/)
+*   [Post-Lockdown Parties: Outfit Your Outdoor Space for All-Weather Entertainment](/en-us/blog/home-improvement/post-covid-outdoor-living-space/)
+
+### 3\. Turn Down Your Water Heater
+
+Did you know that the [U.S. Department of Energy](https://www.energy.gov/energysaver/water-heating) says heating water accounts for nearly 18% of your home’s energy consumption? That’s a pretty startling figure, especially when you consider that most homes have their water heaters set higher than needed.
+
+Start by checking the thermostat on your water heater. If it’s set higher than 120 degrees, try taking it down a few degrees. If you’re still comfortable in the shower, try to go even lower. A water heater that doesn’t have to work as hard to keep the water warm equates to money saved. Not to mention that it can also help keep you and your family safer from burns.
+
+### 4\. Increase Dishwasher Efficiency
+
+Another fact of the holiday season: You’re going to be washing lots of dishes. Big holiday meals with friends and family mean lots of extra dishwashing to do. How do you keep your dishwasher from working too much and adding to your energy costs? Should you wash dishes by hand?
+
+Many people think they are saving energy washing dishes by hand, but that’s just not the case. In fact, handwashing uses significantly more energy than simply putting a full load in the dishwasher. Instead of rinsing dishes in the sink, scrape the leftovers into the trash. Avoid the urge to rinse in the sink; you’ll save water and lower your bill in the process. Then, only wash full loads in the dishwasher. Only run a cycle when your machine is at capacity, as this will cut down on your total amount of loads, and it will help you get the most out of your dishwasher.
+
+Another way to save energy costs related to your dishwasher is to let your dishes air-dry instead of using the heat function on your dishwasher. Simply turn off the heat function, or just prop open the door when the wash cycle is complete. It might take longer for your dishes to dry, but you’ll be saving energy.
+
+Enjoy the Holidays (and Keep Jack Frost at Bay)
+-----------------------------------------------
+
+It’s true, the holidays can be a wonderful time for you to spend time with family and friends, but at the same time, the season can wreak havoc on your home’s energy usage. Luckily, there are several easy, inexpensive ways to mitigate these added expenses. That means there’s less time you’ll spend worrying and more time to carve into Granny Ethel’s infamous fruitcake!<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

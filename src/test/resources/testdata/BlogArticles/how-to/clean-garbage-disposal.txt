@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean a Garbage Disposal"
+headline: "How to Deep-Clean Your Garbage Disposal"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-22
+basePath: https://library.homeserve.com/m/
+heroImage: 76d1f99d778b356/Blog-GarbageDisposal_MSchmitz_0003.jpg
+heroAltDescription: "close up of a sink s garbage disposal"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Cleaning a garbage disposal can be accomplished with items you likely already have in your home. Here's what you need to know."
+articleAbstract: "Cleaning a garbage disposal can be accomplished with items you likely already have in your home. Here's what you need to know to take your disposal from grimy to shiny."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Deep-Clean Your Garbage Disposal"
+  parent: Plumbing-How-To
+---
+  A garbage disposal is one of a home kitchen’s greatest conveniences, making dishwashing and getting rid of food waste more streamlined than ever. However, that magical feel of a disposal at work starts fading pretty quickly if it emits an unpleasant smell from grinding up all those particles. In addition to smelling funky, a dirty disposal can also harbor harmful bacteria that could make you or your family sick.
+
+**This May Also Interest You:** [**Why Is My Garbage Disposal Leaking?**](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-leaking/)
+
+The good news is that cleaning a disposal can be accomplished with items you likely already have in your home. Below is an overview of what you need to know to get your garbage disposal from grimy to shiny.
+
+What Do You Do If Your Garbage Disposal Stinks?
+-----------------------------------------------
+
+If your garbage disposal smells, you’re not alone! It happens to the best of us. One of the quickest ways to freshen up a stinky disposal is to toss a couple of citrus peels into the disposal and turn it on.
+
+Lemon peels are a great option here, but any citrus — lime, orange or even grapefruit — will work when you need a quick freshen up but don’t have time to get down and dirty with a full-on disposal cleaning. Keep in mind that putting lemon in your garbage disposal will help mask the unpleasant smells, but it doesn’t deep clean or kill bacteria in the way that other cleaning techniques do.
+
+### Ice Is Nice
+
+Ice is a great tool for garbage disposal cleaning. It’s an effective, free cleaning ingredient that most everyone should already have on hand. To clean a disposal with ice, simply pour a scoop of ice cubes into the disposal, then drizzle with salt (the coarser, the better, but regular table salt works too) and add water.
+
+Next, turn on the disposal and allow the mixture to work its magic of cleaning and abrading any extra gunk off the blades.
+
+### Try Vinegar and Baking Soda
+
+Baking soda and vinegar make another great disposal cleaner combo. First, pour a half cup of baking soda down the drain, followed by a cup of vinegar. Let the mixture sit for ten minutes. It should get nice and bubbly. A vinegar and baking soda paste also works well for cleaning grime off the disposal’s flange, so while you wait, grab a sponge or scrub brush and scrub the rubber flange. Then turn on the disposal and rinse thoroughly with water.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install a Garbage Disposal?](https://www.homeserve.com/en-us/blog/cost-guide/install-garbage-disposal/)
+*   [8 Things You Should Never Put Down the Garbage Disposal (and 5 Things You Can)](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-dos-and-donts/)
+*   [How to Reset Your Garbage Disposal (Pssst ... It’s Way Easy!)](https://www.homeserve.com/en-us/blog/how-to/reset-garbage-disposal/)
+*   [Garbage Disposal Not Working? Here’s How to Fix Common Issues](https://www.homeserve.com/en-us/blog/how-to/fix-garbage-disposal/)
+*   [How to Remove a Garbage Disposal](https://www.homeserve.com/en-us/blog/how-to/remove-garbage-disposal/)
+
+Deep-Clean Your Garbage Disposal
+--------------------------------
+
+If you try all the steps above but _still_ think your disposal is harboring some gunk you want gone, you can move on to manually cleaning it. Make sure to disconnect the garbage disposal’s power before starting this step. You’ll be cleaning sharp blades here, and it’s best not to take any chances by keeping the disposal plugged in. You also might want to wear some heavy-duty cleaning gloves to help protect your hands from the blades; even though the blades will be immobile, they are still sharp.
+
+Once your hands are protected and the power is turned off, you can reach into the disposal using tongs, pliers or your gloved hands and extract residual food particles. You can also remove the rubber gasket and shine a flashlight into the disposal for greater visibility. This is also a great time to utilize a special garbage disposal cleaning tool, like a [Mr. Scrappy Brush](https://www.walmart.com/ip/Mr-Scrappy-Garbage-Disposer-Brush/19294094?wmlspartner=wlpa&selectedSellerId=101128070&&adid=22222222227000000000&wl0=&wl1=g&wl2=c&wl3=42423897272&wl4=aud-1651068665426:pla-51320962143&wl5=9010265&wl6=&wl7=&wl8=&wl9=pla&wl10=548652819&wl11=online&wl12=19294094&veh=sem&gclid=CjwKCAjw14uVBhBEEiwAaufYx-PTpQPE-UQP2O1U4UZYFQwwBQdUJuSmfPemTXTmFmGdPPhp_fnt9RoCaCUQAvD_BwE&gclsrc=aw.ds), which allows you to scrub the walls of the disposal and get into the spaces between the blades. You can use regular dish detergent here to help get a deeper clean with the scrub brush.
+
+Once you’ve removed excess food particles and given the disposal a good scrubbing, you can reconnect the power and turn the disposal back on. Give it a good rinse, adding a bit more detergent if necessary.
+
+A Clean Garbage Disposal
+------------------------
+
+Now that you know how to clean your garbage disposal, you can have a clean, fresh-smelling disposal in as little as a few minutes. Each method is effective in its own right, but doing more than one at once will enhance your clean even more.
+
+You can use citrus peels, ice and salt, a baking soda and vinegar mixture or a scrub brush and soap — or you can try all the methods back-to-back for a truly deep disposal clean that may just have you doing a happy dance. And a pro-tip for that celebratory dance: The cleaning brush makes a great microphone!<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/5j759jOLiwc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Retrieve a Wedding Ring that Went Down the Drain | 5 Steps"></iframe>

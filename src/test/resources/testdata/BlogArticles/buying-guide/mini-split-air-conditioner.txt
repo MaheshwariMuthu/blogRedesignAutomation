@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Mini-Split Air Conditioner?"
+headline: "Hot or Cold in Your Household? Split the Difference With a Mini-Split Air Conditioner"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-08-23
+basePath: https://library.homeserve.com/m/
+heroImage: 1381b1f4be45327f/Blog-Mitsubishi_SplitACUnit_AWiesen_IMG_0500.jpg
+heroAltDescription: "Mitsubishi Electric split HVAC unit with remote"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A mini-split air conditioner system is an energy-efficient solution for getting air moving and the perfect temperature."
+articleAbstract: "If a particular room in your home is feeling stuffy, a mini-split air conditioner system could be an energy-efficient solution for getting air moving and the perfect temperature."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Hot or Cold in Your Household? Split the Difference With a Mini-Split Air Conditioner"
+  parent: HVAC-Buying-Guide
+---
+  You might have central AC pumping through most of your home, but the addition you built recently doesn’t have ductwork and, as a result, is sweltering on summer days. Or perhaps there’s just one corner of your house that always gets hot no matter how hard the air conditioner is blowing.
+
+**This May Also Interest You**[**: What’s a Concealed Duct Mini-Split Air Conditioner?**](https://www.homeserve.com/en-us/blog/home-improvement/ducted-mini-split-installation/)
+
+If a particular room in your home is feeling stuffy, a mini-split air conditioner system could be an energy-efficient solution for getting air moving and the perfect temperature.
+
+What Is a Mini-Split Air Conditioner?
+-------------------------------------
+
+A mini-split air conditioner is a ductless cooling system for homes and commercial buildings. The system uses an outdoor condenser, similar to that of a central air conditioner. Indoors, each room or area has an air-handling unit, mounted either on the wall or ceiling, that distributes the cooled air instead of using ducts to move the air to each room. You can get mini-split systems that also heat the rooms, making them functional year-round.
+
+What Are the Pros and Cons of Installing a Mini-Split AC?
+---------------------------------------------------------
+
+Like all heating and cooling options, mini-split air conditioners come with pros and cons. Considering them helps you decide if it's the best system for you.
+
+### Pros
+
+* **No need for ductwork:** If your home doesn't have ductwork already, a mini-split system can be easier to install.
+* **Supplemental cooling:** Mini-splits can work well in areas that don't have ductwork or need extra cooling, such as an addition that's not connected to the ducts, a workshop or a sunroom that gets extra hot.
+* **Zone control:** The condenser unit can typically handle multiple indoor air-handling units, which lets you set up zone cooling. You can adjust the thermostat on each air handler individually to easily change the temperature in different spaces.
+* **Less energy loss:** Ducts typically create energy loss, but mini-split air conditioners eliminate that since the air doesn't run through ducts.
+* **Small and flexible:** The indoor air-handling units are typically small, with the option to install them so they’re out of the way on the wall or ceiling. You can also get extra features, such as remotes.
+
+**More Related Articles:**
+
+*   [How Does a Portable Air Conditioner Work?](https://www.homeserve.com/en-us/blog/buying-guide/portable-air-conditioner-functionality/)
+*   [Cooling Fans Vs. Portable Air Conditioners: What’s the Difference?](https://www.homeserve.com/en-us/blog/home-improvement/cooling-fan-vs-air-conditioner/)
+*   [New to BTUs? Here’s What to Know About BTUs When Shopping for an Air Conditioner](https://www.homeserve.com/en-us/blog/home-improvement/btu-air-conditioning/)
+*   [No AC? No Sweat. Here’s How to Keep Cool](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+
+### Cons
+
+* **Visible air handlers:** This system requires air handlers in each room you're cooling, which stick out from the wall or ceiling. Some people don't like this look.
+* **Higher costs:** Mini-split air conditioners cost more than window air conditioners and typically cost more than central air conditioning units.
+* **Less familiarity:** Not all HVAC companies are familiar with mini-split systems. You'll need to research the options to find an experienced company that can properly size the unit and service it.
+* **Electrical requirements:** Mini-split systems run on electricity, which can make them expensive to operate depending on your electric rates. You'll also need a dedicated circuit for the unit. Most mini-splits require 220 volts, but smaller units might run on 110 volts. Your electrical system needs to have the capacity to support the system.
+* **Sizing issues:** If your installer doesn't size the unit properly, you'll have issues. Oversized systems waste energy and might struggle with temperature and humidity control. Undersized systems can't keep up and run constantly.
+
+How Much Does a Mini-Split Cost?
+--------------------------------
+
+A mini-split air conditioner can vary significantly in price, often ranging from $900 to $9,000 (CAD 1,150 to CAD 11,500) or more just for the system, according to pricing data from [Total Home Supply](https://blog.totalhomesupply.com/mini-split-cost/).
+
+The size of the system, measured in [BTUs](https://www.homeserve.com/en-us/blog/home-improvement/btu-air-conditioning/), is one of the biggest factors in the cost. The number of air handlers you have also affects the pricing. You'll also notice pricing differences based on the brand.
+
+You can expect to pay another $800 to $2,000 (CAD 1,000 to CAD 2,600) for installation, but the cost can increase based on how many units you're having installed and the complexity of the installation.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

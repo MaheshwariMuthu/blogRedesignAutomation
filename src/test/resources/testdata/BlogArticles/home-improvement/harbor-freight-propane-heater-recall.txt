@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Harbor Freight Tools Recalls Portable Propane Heaters Due to Gas Leak and Fire Hazards"
+headline: "Harbor Freight Tools Recalls Portable Propane Heaters Due to Gas Leak and Fire Hazards"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-09-22
+basePath: https://library.homeserve.com/m/
+heroImage: 6e90624c9fd82d/Blog-PropaneHeaterRecall_HarborFreight.jpg
+heroAltDescription: "Cylindrical propane heater placed on cement floor"
+metaDescriptions: "Harbor Freight Tools is recalling its Bauer Forced Air Propane portable heaters due to a potential fire hazard. "
+articleAbstract: "Recall alert: Harbor Freight Tools is recalling its Bauer Forced Air Propane portable heaters due to a potential fire hazard. The fitting at the back of the heater may not be tight enough, which could cause a propane gas leak. The CPSC is warning consumers to stop using the heaters and inspect them. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Harbor Freight Tools Recalls to Repair Propane Portable Heaters Due to Fire Hazard"
+  parent: Appliances
+---
+  Recall alert: Harbor Freight Tools is recalling about 19,000 Bauer Forced Air Propane portable heaters due to a potential fire hazard. The fitting at the back of the heater may not be tight enough, which could cause a propane gas leak. The Consumer Product Safety Commission is warning consumers to stop using the heaters and inspect them.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the Sept. 16 [recall announcement](https://www.cpsc.gov/Recalls/2021/Harbor-Freight-Tools-Recalls-to-Repair-Propane-Portable-Heaters-Due-to-Fire-Hazard-Recall-Alert), Harbor Freight has received 13 reports of propane gas leaking, including one fire. No injuries have been reported.
+
+This recall involves specifically the Bauer Forced Air Propane portable heaters with item number 57176, which is printed on the ratings label at the rear of the unit near the gas inlet. The heaters are red and have “Bauer” printed on the side. They were manufactured in China and sold at Harbor Freight Tools stores nationwide and online between November 2020 and March 2021 for about $100.
+
+If you own one of these heaters, you should stop using it immediately. [Harbor Freight](https://www.harborfreight.com) recommends inspecting your heater by performing a soapy water leak test to make sure the fitting at the back of the unit is leak-free. The Calabasas, Calif.-based company has provided a [set of instructions](https://images.harborfreight.com/hftweb/recalls/57176%20Bauer%20Portable%20Propane%20Heater%20Notice.pdf) for performing this test and tightening the loose fittings should you need to. If your unit still leaks after performing these steps, contact the company.
+
+You can reach Harbor Freight Tools by calling 800-444-3353, emailing [productcompliance@harborfreight.com](mailto:productcompliance@harborfreight.com) or visiting the company’s [recalls page](https://www.harborfreight.com/customer-service-product-support.html#5). Harbor Freight is contacting all known purchasers directly. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Beware of Burn Hazard: Harbor Freight Tools Recalls 350,000 Tank Top Propane Heaters](https://www.homeserve.com/en-us/blog/home-improvement/harbor-freight-tools-propane-heater-recall/)
+*   [Fire Hazard: Gas One Recalls 19,500 Propane Adapter Hoses](https://www.homeserve.com/en-us/blog/home-improvement/gas-one-adapter-hose-recall/)
+*   [Fire-Related Property Damage Cited in Recall of B-Air Blower Fans](https://www.homeserve.com/en-us/blog/home-improvement/intertex-blower-fan-recall/)
+*   [Watch Your Fingers! Generac Recalls Over 320,000 Portable Generators After Finger Amputations](https://www.homeserve.com/en-us/blog/home-improvement/general-generator-recall/)
+*   [Burn Notice: ECHO EGI-2300 Watt Generators Recalled Due to Fire and Burn Hazards](https://www.homeserve.com/en-us/blog/home-improvement/echo-generator-recall/)<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

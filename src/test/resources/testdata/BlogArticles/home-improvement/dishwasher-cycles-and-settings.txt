@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Everything You Need to Know About Your Dishwasher's Cycles and Settings"
+headline: "Everything You Need to Know About Your Dishwasher's Cycles and Settings"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2023-12-06
+basePath: https://library.homeserve.com/m/
+heroImage: 75e545656de7ed99/Blog-IMG_3775_Dishwasher3_LL.jpg
+heroAltDescription: "white dishwasher mounted under countertop"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If you’ve ever stared at your dishwasher’s control panel, wondering which settings to choose, you’re not alone. Here's a guide."
+articleAbstract: "If you’ve ever stared at your dishwasher’s control panel, wondering which settings to choose, you’re not alone. In this guide, we'll dive into everything you need to know about your dishwasher's cycles and settings."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Everything You Need to Know About Your Dishwasher's Cycles and Settings"
+  parent: Appliances
+---
+  What to Know About Your Dishwasher’s Cycles and Settings
+
+Read the ultimate guide to dishwasher cycles and settings. Learn how to get the best results every time with hints and tips that make washing even easier.
+
+This guide explains dishwasher cycles and settings, including their purposes and benefits. It covers common options, such as "normal" and "heavy duty," as well as cycle duration.
+
+Author: Rowan Guthrie
+
+Modern dishwashers offer a bewildering array of options to accommodate various needs. So, if you’ve ever stared at your dishwasher’s control panel, wondering which cycle and setting to choose, you’re not alone. In this guide, we'll dive into everything you need to know about your dishwasher's cycles and settings, from the basics to the finer details.
+
+What Does a Dishwasher Do?
+--------------------------
+
+A dishwasher cleans dishes by spraying hot, soapy water onto them through rotating spray arms. The detergent breaks down food particles, and the high water temperature sanitizes and loosens grime. The spray arms distribute water evenly, ensuring thorough cleaning, while the rinse cycle removes detergent residues, leaving dishes clean and ready to use.
+
+Common Dishwasher Cycles and Settings and Their Differences
+-----------------------------------------------------------
+
+Dishwashers typically offer a range of cycle options to suit different types of loads and levels of soil. Here are some of the most common settings you might encounter and what they do.
+
+### Normal Cycle
+
+* **Purpose**: The normal cycle is your everyday workhorse. It's for moderately soiled dishes, striking a balance between cleaning power and energy efficiency.
+* **What it does**: Opt for the normal cycle when your dishes have typical, everyday food residue. It's perfect for plates, glasses and cutlery.
+* **Benefits**: It conserves energy, reduces your costs and is quick, so your dishes will be clean in no time.
+* **Additional tip**: For best results, scrape off excess food before loading.
+
+### Heavy Duty Cycle
+
+* **Purpose**: This cycle tackles the toughest, caked-on food and stains. It intensively cleans dishes using a combination of higher water temperatures and longer wash times.
+* **What it does**: Select this option for heavily soiled pots, pans, baking dishes or dishes with stubborn, dried-on residue.
+* **Benefits**: It removes particularly tough stains and thoroughly cleanses dishes. 
+* **Additional tip**: Pre-rinse dishes for better results and expect a longer cycle duration
+
+### Quick Wash Cycle
+
+* **Purpose:** This should be your go-to choice when you need clean dishes in a hurry. It's for lightly soiled items, and it’s fast and efficient.
+* **What it does:** Opt for this cycle when you have dishes with minimal residue or when you need to clean dishes quickly.
+* **Benefits:** It’s a time saver and energy-efficient because it uses less water and electricity.
+* **Additional tip:** Avoid heavily soiled items and try to use small loads only for better efficiency.
+
+### Rinse Cycle
+
+* **Purpose**: This cycle is a quick and simple way to rinse and drain without using detergent. It’s to prevent food drying on your dishes before you run a full wash cycle.
+* **What it does**: Use this cycle when you have dishes with leftover food particles that will dry out and stick to the dishes.
+* **Benefits**: It prevents food from drying and sticking, saving energy and detergent costs, and it’s quick.
+* **Additional tip**: It won’t clean heavily soiled items sufficiently on its own, so a follow-up wash will be necessary.
+
+### Sanitise Cycle
+
+* **Purpose**: This cycle eliminates bacteria and ensures your dishes and glassware are thoroughly sanitized. It’s ideal for health-conscious households because it uses high water temperatures to kill germs.
+* **What it does**: It's useful for when you want to ensure your dishes are free from harmful bacteria and allergens, such as during cold and flu season or when handling baby bottles and pacifiers.
+* **Benefits**: Dishwashers adhering to standards set by NSF International must ensure the cycle removes [99.999% of bacteria](https://www.nsf.org/gb/en/knowledge-library/faq-consumer-product). Therefore, reducing allergic reactions and providing peace of mind to consumers.
+* **Additional tip**: Follow the manufacturer's recommendations for loading items to maximize the cycle’s benefits.
+
+### Eco/Energy Saver Cycle
+
+* **Purpose**: This cycle cleans moderately soiled dishes, but the duration is much longer than other options. 
+* **What it does**: This choice saves energy by using lower water and drying temperatures, so it’s ideal if you want to reduce your energy costs.
+* **Benefits**: It's the most cost-effective and environmentally friendly option.
+* **Additional tip**: Pre-rinse dishes for better results.
+
+How Long Does a Dishwasher Cycle Take?
+--------------------------------------
+
+A dishwasher cycle's duration can vary depending on the model and the selected settings. On average, a standard cycle typically takes anywhere from 1 to 2 hours to complete its cleaning and drying process. However, some modern dishwashers offer express or quick cycles, perfect for those moments when time is short, which can complete a cycle in as little as 30 minutes. On the other hand, heavy-duty cycles, designed to tackle the toughest stains and grime, may run for over 2 hours to ensure thorough cleaning. Therefore, whether you're in a hurry or looking for a deep clean, there's a cycle duration to suit your needs.
+
+Although dishwasher settings and cycles can vary from one manufacturer’s product to the next, this account explains the most common functions. So, the next time you load your dishwasher, you can confidently choose the perfect cycle for spotlessly clean and sanitized dishes, all while saving time and energy.

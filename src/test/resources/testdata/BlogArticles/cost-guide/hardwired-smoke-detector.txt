@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Do Hardwired Smoke Detectors Cost?"
+headline: "How Much Do Hardwired Smoke Detectors Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-09-19
+basePath: https://library.homeserve.com/m/
+heroImage: 4fb94d4069c453c5/Blog-GettyImages-853750136.jpg
+heroAltDescription: "A man reaches up toward the ceiling with a screwdriver in his right hand and a smoke detector in his left hand as he installs the household safety device"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "How much does it cost to install hardwired smoke detectors compared to battery models? We've got the hard numbers."
+articleAbstract: "How much does it cost to install hardwired smoke detectors compared to battery models? We've got the hard numbers."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Do Hardwired Smoke Detectors Cost?"
+  parent: Interior-Cost-Guide
+---
+  Smoke detectors can save your life in a house fire, so installing and maintaining them correctly is essential. One of the main factors to consider is whether you want hardwired or battery-powered smoke detectors.
+
+**This May Also Interest You:** [**How to Install a Smoke Detector**](https://www.homeserve.com/en-us/blog/how-to/install-smoke-detector/)
+
+The type of detector you choose can significantly affect how much you pay. So, how much does it cost to install hardwired smoke detectors compared to battery models?
+
+**How Are Hardwired Smoke Detectors Different From Battery Models?**
+--------------------------------------------------------------------
+
+The primary difference between hardwired smoke detectors and battery models is that you link a hardwired unit to your home's electric system. Hardwired smoke detectors are more complex to install because they require wiring, while you can install a battery-operated detector by simply mounting it to the wall or ceiling.
+
+On the other hand, hardwired smoke detectors are typically more reliable because they have a consistent power supply, while battery units can fail if the batteries die. Unlike battery-powered alarms, you can link multiple hardwired models in a chain, causing the other detectors to sound if one unit detects smoke. This feature can help alert you as quickly as possible in the event of a house fire.
+
+**How Do Hardwired Smoke Detectors Work?**
+------------------------------------------
+
+There are two main types of hardwired smoke detectors: photoelectric detectors and ionization detectors. Photoelectric detectors have a tiny light source that shines a LED or laser beam through the detector housing. Smoke interrupts the beam's pathway, causing it to scatter. The scattered light then hits a light sensor, which activates the alarm.
+
+Meanwhile, an ionization detector contains an electrical circuit formed by positive and negative air ions flowing between two electrodes. When smoke enters the housing, it interrupts the flow of ions, breaking the circuit and triggering the alarm.
+
+Generally, photoelectric detectors are best at detecting fires that produce large amounts of smoke, while ionization detectors work more effectively for fast-burning fires. Some models combine both technologies to detect all fire types as effectively as possible.
+
+**More Related Articles:**
+
+*   [Heat Your Home Safely This Winter: Carbon Monoxide Safety Tips](https://www.homeserve.com/en-us/blog/home-improvement/carbon-monoxide-safety/)
+*   [Space Heater Safety Guide: 8 Tips to Avoid Fires and Burns](https://www.homeserve.com/en-us/blog/home-improvement/space-heater-safety/)
+*   [Is It Safe to Put Things on or Near Your Radiator?](https://www.homeserve.com/en-us/blog/home-improvement/can-you-put-items-on-radiator/)
+*   [Watt’s Too Much? How Much You Can Plug Into One Outlet](https://www.homeserve.com/en-us/blog/home-improvement/overloaded-outlet/)
+*   [Hot Tips! 5 Backyard Fire Safety Suggestions](https://www.homeserve.com/en-us/blog/how-to/fire-pit-safety/)
+
+**How Much Does It Cost to Install Hardwired Smoke Detectors?**
+---------------------------------------------------------------
+
+How much it costs to install a hardwired smoke detector depends on several factors, including the model and whether you have an electrical box already installed. Generally, you can expect to pay around [$75](https://www.costimates.com/costs/electricity-outlets/wired-smoke-detectors/) (CAD 100) for a basic hardwired model if you have an existing electrical box, including the unit itself and installation labor.
+
+Meanwhile, installing a premium hardwired smoke detector could cost more than $150 (CAD 200) if you also need to install a new electrical box. Models with integrated Wi-Fi (smart detectors), voice alerts and carbon monoxide sensors are generally the most expensive, with some costing as much as $180 (CAD 240) per unit, according to [Fixr](https://www.fixr.com/costs/smoke-detector-installation#smoke-detectors-with-lights).
+
+The more smoke detectors you need to install, the more expensive the project. However, hardwired smoke detectors often come in multipacks. These packs are cheaper per unit than buying the detectors individually, so you may pay less per unit overall.
+
+Regarding labor, you should expect to pay around $40 (CAD 50) for a licensed electrician to install a single hardwired unit, although you could spend anywhere between $30 and $100 (CAD 40 and CAD 130). Many contractors charge less per unit if you need multiple detectors installed. Other electricians may charge a minimum callout fee, or they may charge by the hour.
+
+**Compare Costs: Hardwired Smoke Detectors Vs. Battery Models**
+---------------------------------------------------------------
+
+Battery-operated smoke detectors are significantly cheaper to purchase and install than hardwired models. Most homeowners choose to install battery smoke detectors themselves, as it's simply a matter of screwing a bracket to the wall or ceiling and attaching the detector housing. Therefore, you'll only pay the cost of each detector, typically between [$10 and $35](https://www.fixr.com/costs/smoke-detector-installation#hardwired-vs-battery-smoke-detector).
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

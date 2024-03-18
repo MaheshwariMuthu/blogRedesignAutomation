@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Unclog a Shower Drain"
+headline: "How to Unclog a Shower Drain: 3 Methods to Try"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-11-14
+basePath: https://library.homeserve.com/m/
+heroImage: 7f6fe8213f09c4d7/Blog-GettyImages-1165295853.jpg
+heroAltDescription: "shower drain clog"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A clogged shower drain is often a quick fix. Find out what causes it, how to unclog a shower drain yourself and when to call in a plumber."
+articleAbstract: "A clogged shower drain is often a quick fix. Find out what causes it, how to unclog a shower drain yourself and when to call in a plumber. "
+category: ["How To"]
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/how-to/unclog-shower-drain/', 'en-us'], ['https://www.homeserve.co.uk/living/how-to/how-to-unblock-a-bath-or-shower/', 'en-gb']]
+eleventyNavigation:
+  key: "How to Unclog a Shower Drain"
+  parent: Plumbing-How-To
+---
+  The joy of a hot shower is one of life’s great pleasures. And yet, water pooling around your feet because of a clogged drain can quickly send a joyous showering experience down the proverbial drain.
+
+**This May Also Interest You:** [**How to Clean a Showerhead**](https://www.homeserve.com/en-us/blog/how-to/clean-showerhead/)
+
+The good news is that a clogged shower drain is often a quick fix. Read on to find out what causes a clogged drain, how to unclog a shower drain yourself and when to throw in that towel and call in a plumber.
+
+Why Is My Shower Draining So Slowly?
+------------------------------------
+
+Most often, shower drains get clogged by hair and soap scum, meaning that clog removal is fairly straightforward, albeit kinda gross. You may notice this buildup causing your water to start draining more slowly over time until, eventually, your shower drain is clogged completely. Unclogging a shower drain filled with soap and hair buildup can be dealt with in a few different ways, but keep in mind that you may need to try more than one, depending on the severity of your clog.
+
+3 Ways to Clear a Clogged Shower Drain
+--------------------------------------
+
+### 1\. Vinegar and Baking Soda
+
+This classic cleaning combo is a great option for addressing slow shower drains and partial clogs before they get worse. The benefits of vinegar and baking soda are many: They are both affordable and non-toxic, gentle on both your pipes and the planet — plus, you’re likely to already have both on hand.
+
+To use baking soda and vinegar to unclog your shower, start by running hot water to start to loosen the gunk in your drain. Next, pour about 1/2 cup of baking soda into your drain. Follow that with a cup of vinegar and let the combo sit for ten minutes to fizz and work its magic. Finish by running hot water down the drain again to rinse. You can repeat this process every few weeks to help keep your drains running smoothly. If you notice your shower drain clogging with hair and soap scum frequently, consider purchasing a [shower drain hair catcher](https://mineralstream.co/products/mineralstream%E2%84%A2-shower-drain-hair-catcher?currency=USD&variant=42023415906557&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&gclid=Cj0KCQjwnP-ZBhDiARIsAH3FSRf0slLggTL6hqVd_-1cAe7KMgf8Vwsh0m4zmv2BuFYxFEQM2F9uRb8aAtxpEALw_wcB) to help keep clogs at bay.
+
+### 2\. Shower Drain Snake
+
+A plastic [shower snake](https://www.target.com/p/clorox-drain-cleaner-2pk/-/A-76198627?ref=tgt_adv_XS000000&AFID=google_pla_df&fndsrc=tgtao&DFA=71700000049427608&CPNG=PLA_Household%2BEssentials%2BShopping_Local%7CHousehold%2BEssentials_Ecomm_Essentials&adgroup=SC_Household&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9010265&targetid=aud-795241179110:pla-364905099052&ds_rl=1246978&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qhpD3byLdiKLsUypPaKqdz1ppj-BxLa7hL3-Tx3CMKnajGJAd-gdHIaArKyEALw_wcB&gclsrc=aw.ds) is an inexpensive and handy tool to keep on hand for unclogging hair-filled drains. These are great for getting clogged hair out of the first foot or so of your drain, and they’ll often pull up a good deal of soap scum, too. When used in sinks, they can go in at an angle, and you don’t have to remove the sink stopper. You’ll likely have to remove the drain cover to utilize this tool for clogged shower drains.
+
+There are also manual or electric [plumbing snakes](https://www.lowes.com/pd/Kobalt-1-4-in-x-25-ft-High-Carbon-Wire-Drain-Auger/5013102031?cm_mmc=shp-_-c-_-prd-_-plb-_-ggl-_-LIA_PLB_208_Plumbing-Repair-_-5013102031-_-local-_-0-_-0&ds_rl=1286981&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qgLKnnLH7J62i_curmuRKqaWRbKnP_EqRyXpPKSMrcj0UNXlQQkTXoaAuAjEALw_wcB&gclsrc=aw.ds) that are more expensive than the plastic versions, but still much cheaper than calling in a plumber. These auger-type tools move down into the pipe until they find the clog. The auger then uses a twisting motion to grab the clog and pull it back up and out of the drain.
+
+**More Related Articles:**
+
+*   [Here’s How to Hack Your Low-Flow Showerhead ... But Should You?](https://www.homeserve.com/en-us/blog/how-to/low-flow-showerhead/)
+*   [8 Shower Storage Solutions](https://www.homeserve.com/en-us/blog/buying-guide/shower-storage/)
+*   [How to Replace a Shower Valve](https://www.homeserve.com/en-us/blog/how-to/shower-valve-replacement/)
+*   [Showerhead Stuck? Here’s How to Remove It](https://www.homeserve.com/en-us/blog/how-to/showerhead-removal/)
+*   [How Much Does It Cost to Replace a Showerhead?](https://www.homeserve.com/en-us/blog/cost-guide/shower-head-replacement/)
+
+### 3\. Chemical Drain Cleaner
+
+This is a popular choice for treating clogged shower drains because of how straightforward and inexpensive the process is. Simply pour the chemical cleaner down the drain to treat the clog and wait 10 to 15 mins.
+
+The downside to this route is that drain cleaners are often pretty toxic and not good for the environment, so they should be used sparingly. Some more eco-minded homeowners may prefer to avoid them entirely. Plus, if you use them too often, you run the risk of corroding your pipes over time.
+
+Drain-Cleaning Disclaimer
+-------------------------
+
+One limitation to each of these drain unclogging techniques is that they can only address soap scum and hair buildup. If your clog is caused by some other source — say, a small object that’s lodged in your drain — then you’ll have to try a different approach to unclogging the pipe in question, and you may even have to call in a professional plumber if the object is out of reach.
+
+No More Standing (in) Water
+---------------------------
+
+If soap buildup and hair are clogging your shower drain, using one of the above strategies should help solve the problem and have your drain running free and clear in no time. But if you try these techniques and still have a standing water issue in your shower, you’ll likely need to call in a professional plumber to take a look. Plumbers can be pricey, but the cost of clearing a clog safely now can save you money in the long run by preventing bigger pipe problems down the line.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/5j759jOLiwc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Retrieve a Wedding Ring that Went Down the Drain | 5 Steps"></iframe>

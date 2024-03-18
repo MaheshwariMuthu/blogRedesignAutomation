@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Sump Pump Maintenance Checklist"
+headline: "Protect Your Home Against Flooding With This Sump Pump Maintenance Checklist"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-06
+basePath: https://library.homeserve.com/m/
+heroImage: 2ebfe32ce4ec6d3e/Blog-GettyImages-488828627.jpg
+heroAltDescription: "Replacing the old sump pump in a basement"
+metaDescriptions: "Maintaining your sump pump extends its usable life. Use this checklist to clean and maintain your sump pump."
+articleAbstract: "How well you maintain your pump will impact how long it lasts — and whether it'll be able to run properly when you need it to. Here’s a sump pump maintenance checklist you can use to extend its life and keep your home dry."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Sump Pump Maintenance Checklist"
+  parent: Plumbing-Home-Improvement
+---
+  During a storm, your basement is often the first place in your home to flood. Keeping it dry protects the rest of your home and possessions from water damage. You make even keep some of your most important possessions in the basement — like irreplaceable photos and important documents — which makes it even more important to have a working sump pump.
+
+**This May Also Interest You:** [**Sump Pump Alarm Going Off? Here’s What to Do Next**](https://www.homeserve.com/en-us/blog/buying-guide/sump-pump-alarm/)
+
+How well you maintain your pump will impact how long it lasts — and whether it'll be able to run properly when you need it to. Here’s a maintenance checklist you can use to extend your sump pump’s life and keep your home dry.
+
+How Many Years Does a Sump Pump Last?
+-------------------------------------
+
+If you’re performing routine sump pump maintenance, you can expect to get up to 10 years out of your pump before you need to replace it. There are some factors that can reduce the life of your pump, so if you don’t test and repair it when you need to, you may find that it has a reduced operating life. Simple things such as not making sure that the pump is on an even surface and in an upright position may force the pump to work harder and for longer than it should. Accumulated debris inside of the pump pit, basin, discharge line and other operating parts can also damage the sump pump and cause it to malfunction.
+
+Do Sump Pumps Need Maintenance?
+-------------------------------
+
+You should perform sump pump maintenance at least once a year. Consider performing maintenance checks more often if you notice that it’s working more than usual because of an unusual accumulation of rain, snow or moisture due to the weather.
+
+Preventative maintenance is less expensive in the long run than an early replacement. You run the risk of severe flooding if your pump can’t clear water from your basement as quickly as it accumulates. You should factor in the cost of repairing water damage to your home if this should happen. Some insurance companies might be resistant to pay claims if you didn’t perform regularly scheduled maintenance.
+
+How Do You Test Your Sump Pump?
+-------------------------------
+
+The easiest way to test whether your sump pump is working properly is to pour some water down the pit and see if the pump turns on. This is a great way to see how the entire system is operating because you can run outside and check the discharge line for signs of blockages or debris that has built up inside the pipe. Pay attention to where the water is exiting your home and the direction of the runoff.
+
+You may need to make adjustments if the water is running onto your neighbor’s property or back toward your home. It’s a good idea to perform this test once a month so that you’re aware of any problems and can clean or repair your sump pump if necessary.
+
+How Often Should You Clean Your Sump Pump?
+------------------------------------------
+
+You should clean your sump pump whenever you notice a buildup of debris or a change in how well it performs. Most of the time, you can resolve any issues by cleaning the components and locating the source of the obstructions in the system. If you clean your sump pump thoroughly and still notice that it’s not working properly, it might be time to have it repaired or replaced.
+
+**More Related Articles:**
+
+*   [Sump Pumps: Everything You Need to Know](https://www.homeserve.com/en-us/blog/home-improvement/how-sump-pump-works/)
+*   [How to Install a Sump Pump: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/sump-pump-installation/)
+*   [How Much Does It Cost to Install or Replace a Sump Pump?](https://www.homeserve.com/en-us/blog/cost-guide/sump-pump-installation/)
+*   [No Water in the Basement! Here’s How to Protect Your Home From Severe Flooding](https://www.homeserve.com/en-us/blog/how-to/basement-flooding-tips/)
+*   [How Much Do Flood Damage Repairs Cost?](https://www.homeserve.com/en-us/blog/cost-guide/water-damage-restoration/)
+
+How to Perform Sump Pump Maintenance
+------------------------------------
+
+You can maintain your sump pump yourself most of the time. Follow these easy steps to make sure that your pump is set up correctly and that all the components are free of debris:
+
+* **Check that the pump is positioned correctly.** Your sump pump works properly when it’s on a level surface and upright. If it’s leaning or the floor is not even, water won’t flow into it properly and the pump may have to work harder to clear water, or it may be unable to pump out any accumulating water.
+* **Remove the cover and look inside.** You might be surprised by what you find inside of the sump pump, but you can often clean out the debris by spraying the basin and internal components with a hose.
+* **Check the drainage line.** Some clogs can be due to a frozen line or natural debris buildup. When you check the pipe, also make sure that it’s connected securely to the sump pump.
+* **Inspect and clean the inlet screen.** The inlet screen is another common place where debris and gunk can accumulate and clog your pump.
+* **Make sure that the float is working.** One way that sump pumps die quickly is by being overworked. If your float isn’t functioning, the pump may activate when it doesn’t need to, and the engine can wear itself out from running all the time. It could also keep the pump from turning on when it needs to drain water from your basement.
+* **Test the pump.** Using the method mentioned above, give the sump pump a test to make sure that it’s activating properly and moving water out of your basement.
+* **Make sure that the pump has multiple power options.** After making sure that the pump has a power source, consider that it may rain or flood when your home doesn’t have power. You can buy a backup battery or a generator to ensure that your pump can work during an emergency that knocks out the power.
+* **Consider having a backup sump pump.** If your primary pump fails for any reason, having a second pump on hand can prevent basement flooding and minimize the damage done to your home in a flood.
+
+If you’ve tried all these things and find that your pump isn’t working properly, the final step is to call someone that knows how to repair or replace your pump.

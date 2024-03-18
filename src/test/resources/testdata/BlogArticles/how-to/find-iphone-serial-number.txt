@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Do I Find the Serial Number on My iPhone?"
+headline: "How Do I Find the Serial Number on My iPhone?"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-07-26
+basePath: https://library.homeserve.com/m/
+heroImage: 71cbf8c31b8683a0/Blog-iPhoneSerial_Erossi_5105.jpg
+heroAltDescription: "Man s hand holding an iPhone 11 with a slightly cracked screen to show how to find the device s serial number "
+metaDescriptions: "Your serial number is a 10- to 15-digit string of letters and numbers used to identify your iPhone. Here’s how to find it. "
+articleAbstract: "Chances are you threw away the box your iPhone came in a long time ago. But there are still several ways to find your serial number if you need it. Here’s what you need to know."
+category: ["How To"]
+eleventyNavigation:
+  key: "How Do I Find the Serial Number on My iPhone?"
+  parent: Appliances-How-To
+---
+  Your Apple iPhone’s serial number is a 10- to 15-digit string of letters and numbers used to identify your specific device and distinguish it from all the other iPhones that look just like yours. If you send your iPhone in to be serviced by Apple, you may be asked for this number. It can also be used to verify whether the warranty on your device is active.
+
+**This May Also Interest You:** [**How to Do a Home Inventory Before Disaster Strikes**](https://www.homeserve.com/en-us/blog/how-to/create-home-inventory/)
+
+The box your iPhone came in has this number printed on the back, but chances are you threw away the packaging a long time ago. There are still several ways to find your serial number. Read on for everything you need to know.
+
+Should You Share Your Serial Number?
+------------------------------------
+
+Giving your serial number to Apple Support when requesting a repair or replacement, or to a trusted third-party for a warranty-service claim, is generally safe. But you’ll want to avoid giving out this number willy-nilly, [Guiding Tech](https://www.guidingtech.com/66540/serial-number-privacy/) says. If, for example, you post your serial number on social media and someone gets ahold of it, they could commandeer your warranty and fraudulently order replacement parts or repairs under your policy. This isn’t a common occurrence, but the last thing you want is to file a warranty claim only to find out someone has already ordered a replacement phone under your name.
+
+How to Find Your iPhone’s Serial Number
+---------------------------------------
+
+Below are a couple of different methods for finding your phone’s serial number.
+
+### On Your iPhone
+
+You can find your serial number in your phone settings.
+
+1\. Go to “Settings.”
+
+2\. Tap “General.”
+
+3\. Click on “About,” and you should find your serial number.
+
+### If You Don’t Have Your iPhone
+
+You may not always have your phone on you when you need to access your serial number. If your phone won’t turn on, for instance, you’ll still need the serial number to order replacement parts or send it in for repair.
+
+According to [Apple Support](https://support.apple.com/en-us/HT204073#itunes), try these steps:
+
+1\. On your computer, go to [appleid.apple.com](http://appleid.apple.com/).
+
+2\. Sign in with the Apple ID you use on your iPhone.
+
+3\. Click “Devices” and select your iPhone. Your serial number should be listed.
+
+What’s an IMEI or MEID?
+-----------------------
+
+If you buy a used iPhone, you may be asked about its IMEI number or MEID. IMEI stands for International Mobile Equipment Identity. [Verizon](https://www.verizon.com/articles/what-to-know-when-buying-a-used-phone/) explains that the 15-digit number a is bit different from your serial number in that an IMEI number is unique across all smartphones, while serial numbers are used by individual manufacturers. Before you purchase a used phone, you can check the IMEI number to find out if it has been stolen or locked.
+
+To find the IMEI number or MEID on your iPhone, follow the same steps listed above. You may need to scroll down a bit to find it.
+
+**More Related Articles:**
+
+*   [What’s a Free-to-Air Antenna and How Do You Set It Up?](https://www.homeserve.com/en-us/blog/home-improvement/free-to-air-antennas-explained/)
+*   [How to Mount a Flatscreen TV to a Wall](https://www.homeserve.com/en-us/blog/how-to/mount-flatscreen-tv/)
+*   [Wi-Fi Wars: Household Battling for Bandwidth? Everyone Wins With These Tips](https://www.homeserve.com/en-us/blog/home-improvement/improve-wifi-speed/)
+*   [Your Definitive Guide for the Best Smart Home Devices](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-devices/)
+*   [Amazon Echo Vs. Google Home: The Voice Command Speaker Battle Begins](https://www.homeserve.com/en-us/blog/buying-guide/amazon-echo-google-home-differences/)

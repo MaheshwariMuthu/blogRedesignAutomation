@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Install a Keyless Door Lock"
+headline: "Lose Your House Key: Here's How to Install a Keyless Door Lock"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-07-26
+basePath: https://library.homeserve.com/m/
+heroImage: 1b181ba1a4f409d8/Blog-SchlageSmartLock_Erossi_4595-jpg.jpg
+heroAltDescription: "smart front door and keypad lock"
+metaDescriptions: "Installing a keyless door lock is a simple procedure, especially if you're replacing an older lock. Here's how to add this convenience to your home."
+articleAbstract: "Keys are so 20th century. These days, the way to go is keyless. Here's everything you need to know about keyless door locks and how to add them to your home."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install a Keyless Door Lock"
+  parent: Exterior-Home-How-To
+---
+  
+
+Keys are _so_ 20th century. These days, the way to go is keyless. That's because keyless door locks offer a degree of convenience that keyed locks never could. You never have to worry about losing your keys, because as long as you can commit a few numbers to your memory (or if you have your trusty fingerprint with you), you'll always be able to enter your home. Plus, if you go out for the night and aren't driving, you won't have to worry about carrying a bulky keyring with you, because — that's right — keyless!
+
+**This May Also Interest You:** [**Locked Out? How Much Does a Locksmith Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/locksmith-services/)
+
+Here's everything you need to know about keyless door locks and how to add them to your home.
+
+Keyless Door Lock Styles
+------------------------
+
+There are two basic kinds of keyless locks: mechanical and electronic. Mechanical locks usually consist of a series of metal buttons that you push in a certain order to unlock the door. The order corresponds to a code, so if you pushed the first, third, second and fifth buttons, your code would be 1325.
+
+Electronic locks also work via a code (and sometimes a fingerprint), but they need a battery to operate. Among electronic locks, there’s a range of options, including locks that do little more than open after your code is entered and those that connect to your home's Wi-Fi system and allow you to operate the door when you aren't even home. The most advanced version of these locks also can offer you the chance to send digital "keys" to visitors. You can set the key codes to work for a specific period of time, after which they will cease to function, so these kinds of locks are perfect for people with short-term rental units.
+
+Installing Keyless Door Locks
+-----------------------------
+
+Most keyless door locks are deadbolt-style, although there are some that operate as a door handle — albeit with mixed reviews regarding reliability. If you decide to go with a doorknob-style lock, you will simply remove the old doorknob and slide the new one into place, following the directions included with the device.
+
+The much more common deadbolt version of keyless door locks can also be installed just as simply. If you have an existing deadbolt, installing the new lock can be as simple as removing it and sliding the new one into place.
+
+If you don't yet have a deadbolt on your door, then the project gets significantly more complicated. You'll need to drill a hole for the lock on the door, a slot for the bolt to slide through and chisel out the area for the strike plate on the door jamb. If you're starting from scratch, check out [our instructions on how to install a deadbolt](https://www.homeserve.com/en-us/blog/how-to/install-deadbolt/). Instead of inserting a standard deadbolt, you can simply install your keyless lock.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6c4bbd2e1ef986f8/Blog-SchlageSmartLock_Erossi_4600-jpg.jpg" alt="smart front door and keypad lock"/>
+-------------------------------------------
+
+Particularities of Keyless Door Locks
+-------------------------------------
+
+While keyless locks install the same as traditional locks, there are a few things to be aware of during installation:
+
+### Size
+
+Keyless door locks tend to be larger both in height and thickness than standard deadbolts, so be sure to check the dimensions of the new lock and make sure it will clear your door handle. You want to make sure it won’t be so thick that it bumps up against your storm door.
+
+### Electronic Components
+
+Whereas in a standard deadbolt installation you simply need to align the two sides of the lock and screw the assembly together, electronic door locks are going to involve batteries and some kind of electronic link between the two halves. The instructions that come along with your lock will walk you through the exact details, but the installation usually involves feeding through a small cable from one side to the other that plugs into a port to provide power to the lock mechanism.
+
+**More Related Articles:**
+
+*   [How to Remove a Doorknob: A Quick Guide](https://www.homeserve.com/en-us/blog/how-to/remove-doorknob/)
+*   [What Does This Button Do? How to Use the Toggle Switch on a Mortise Lock Door](https://www.homeserve.com/en-us/blog/home-improvement/use-mortise-lock-door-toggle-button/)
+*   [Here’s How much It Costs to Install or Replace a Deadbolt](https://www.homeserve.com/en-us/blog/cost-guide/deadbolt-installation/)
+*   [How to Install a Deadbolt: Get Your Home Security on Lock in 6 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/install-deadbolt/)
+*   [How to Set Up a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/setup-ring-doorbell/)
+
+### Strike Plates
+
+In most installations, you'll be able to keep your existing strike plates in place and simply slide the new lock into place. If, however, you find that the bolt isn't sliding smoothly, you'll need to replace these with the versions that come with your lock. This is actually something you might want to do anyway so that the hardware all matches. If you still find that the bolt isn't working properly, you might also need to chisel out more of the wood in the jam where the bolt inserts to ensure it has proper clearance.
+
+### Setting the Code
+
+Finally, keyless door locks always need to have their code adjusted after they are installed – whether they are mechanical or electronic. For mechanical locks, this often involves turning a screw a quarter turn, flipping a latch to clear the old code, and entering a new code. For electronic locks, you are usually provided a master code which, after being entered, will put you into programming mode from where you can enter your new combination.
+
+One significant difference between the two styles of locks is that electronic deadbolts will allow you to enter multiple combinations, while mechanical styles usually only allow one combination at a time. In either case, it’s critical that you save the master codes and the procedure to change the codes in a secure place because those instructions will be critical if you need to change the code or if you've forgotten the one you've programmed.
+
+One-Sided Installation
+----------------------
+
+The vast majority of keyless door locks replace existing deadbolts or get installed as new deadbolts. This means you'll have both a new outside lock face — the part that'll have the combination pad — and a new inside lock face, which usually has a simple thumb-turn lever.
+
+Should you decide you want to forgo the keypad/code situation but still access your home without a key, there are several companies that offer options that mount right over your existing deadbolt interior hardware, such as the [August Smart Lock](https://august.com/) and the [Kwikset Kevo Convert](https://www.kwikset.com/kevo/convert).
+
+To install these locks, you simply tape the outside portion of your deadbolt to the door (the key side), then remove the inside portion, where the thumb-turn lever is. After installing a mounting bracket, you slide the new mechanism on top of the lock stem, and then you can open and close your door using an app on your phone. You can also program your lock to open automatically when it senses authorized smartphones in the near vicinity. And because you'll only be replacing the inside portion of your lock, you'll still be able to open the door with your existing deadbolt key.

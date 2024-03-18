@@ -1,0 +1,52 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Do I Need to Keep My Air Conditioner Off the Ground?"
+headline: "Do I Need to Keep My Air Conditioner Off the Ground?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-09-19
+basePath: https://library.homeserve.com/m/
+heroImage: 3f6facd5699c513a/Blog-GettyImages-173021768.jpg
+heroAltDescription: "An HVAC on the exterior of a building"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Your AC unit is weather-proof, but there are a few reasons why installing your air conditioner on top of some sort of stand or pad is advisable."
+articleAbstract: "While your air conditioner unit is weather-proofed to withstand rain, snow, ice and other environmental conditions, there are a few reasons why installing your air conditioner on top of some sort of stand or pad is advisable."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Do I Need to Keep My Air Conditioner Off the Ground?"
+  parent: HVAC-Home-Improvement
+---
+  Central air conditioning units are made to be outdoors, so letting them sit directly on the ground shouldn’t be an issue, right?
+
+**This May Also Interest You:** [**10 Ways to Make Your Central Air Conditioner More Efficient**](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioner-energy-efficiency-tips/)
+
+Actually, while your air conditioner unit is weather-proofed to withstand rain, snow, ice and other environmental conditions, there are a few reasons why installing your air conditioner on top of some sort of stand or pad is advisable.
+
+Should I Raise My Central Air Conditioner Off the Ground?
+---------------------------------------------------------
+
+Maintenance. That’s why. You want your air conditioner to last as long as possible, and raising it off the ground will help protect your unit. Protect it from what, you ask?
+
+The great outdoors, for one. When your AC unit is directly on the ground, small creatures can get inside and wreak havoc with the machine. Vegetation, like weeds, can also grow up and into the unit. Plants can cause all sorts of problems with the internal system, including affecting the pipes, wiring, and tubes by growing up and around them. Mowing around the unit becomes much easier if the air conditioner rests on something else besides the ground. Keeping grass and weeds away from the machine is very important.
+
+Putting your AC unit on a platform or pad also ensures it is level. An unbalanced machine won’t run as well and may cause mechanical trouble further down the road. Even if the device was installed on level ground, the soft land below it could shift or settle beneath the unit's weight. An air conditioner must be installed and remain level to ensure the compressor system works properly. A level surface ensures that the refrigerant and lubricant can flow freely and not get stuck in the pipes. It also prevents fan blades from becoming damaged or skewed when spinning at high speeds.
+
+Also, when your air conditioner is raised slightly off the ground, flooding shouldn’t be an issue. Heavy rainfall can cause backyard flooding. Lots of rain can cause the soil beneath your unit to compress and possibly even slide away. Even worse, water getting into your unit can cause electrical faults, which could burn out the wiring or damage the fan motors.
+
+Having something solid between the bottom of your unit and the ground is a level of protection you want.
+
+How Do I Raise an AC Unit Off the Ground?
+-----------------------------------------
+
+The most recommended way to keep your air conditioner off the ground is to place it on a concrete pad. If an HVAC professional installs your AC unit, this is likely the remedy they will recommend. Concrete is exceptionally stable and won’t be affected by flooding and weeds. If you’ve experienced backyard flooding in the past, a concrete pad can be built slightly higher to protect your machine. A well-laid pad will be level, and most importantly, it will stay level. While this is the best solution, it’s also the most expensive and takes time to be installed. If you’re having a professional install your AC unit, speak with them about getting a concrete pad laid before the machine is installed.
+
+Some people choose to place their air conditioners on cinder blocks. This is smart, as cinder blocks are strong, not affected by the weather and easy to install. They're long-lasting — like concrete — and as long as you ensure they are level, the AC unit shouldn’t shift. Another benefit of cinder blocks over concrete is that they make relocating the air conditioner simpler with no useless pad left behind.
+
+One thing to remember with cinder blocks is that if the ground beneath them is disturbed, it could lead to your AC unit becoming unbalanced. If you choose to use cinder blocks, regularly check your AC unit's balance, especially after heavy rainfall.
+
+Another faster and cheaper option is to build a wooden platform. The biggest drawback to this is the fact that wood can decay. If your wood pad starts to deteriorate, your air conditioner could become off-kilter and experience all the problems an unbalanced machine can cause. Also, wood is affected more by the weather than concrete. It can expand and contract based on humidity levels, which can lead to a shifting AC unit.
+
+Depending on the climate where you live, you might also consider a composite pad. These are made from recycled plastic or rubber. They are recommended more for smaller, lighter air conditioners. They can provide just as much protection as a concrete pad.
+
+Regardless of the solution you choose, your AC system is likely one of the most expensive in your home, so taking steps to preserve its functionality — including keeping it off the ground — is a wise investment that will pay dividends in the years to come.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

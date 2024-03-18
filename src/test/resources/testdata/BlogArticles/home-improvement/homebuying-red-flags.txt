@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "6 Red Flags to Look Out For When Buying a House"
+headline: "6 Red Flags to Look Out For When Buying a House"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-12-16
+basePath: https://library.homeserve.com/m/
+heroImage: 7ac8ce104523e88d/Blog-Homebuying-Red-Flags.jpg
+heroAltDescription: "illustration of homes on a street with red flags over potential problem areas"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "While you can’t know all of the secrets a home contains, there are red flags you keep an eye out for while house hunting."
+articleAbstract: "While you can’t know all of the secrets a home contains before buying it, there are a few red flags you keep an eye out for while house hunting."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Are Some Red Flags to Look Out for When Buying a Home?"
+  parent: Interior-Home-Home-Improvement
+---
+  Buying a house is serious business. In addition to finding a home that’s a good fit for your family and a good fit for your budget, you also need to make sure the house you’re eyeing is in good shape, without major issues that may cost you thousands of dollars down the line. It can be stressful trying to ensure you’re making a smart purchase, especially in a hot housing market, where the added stress of other interested buyers can up the anxiety ante and make it feel like you need to make a decision quickly.
+
+**This May Also Interest You:** [**What to Expect When They’re Inspecting: Your Home-Inspection Checklist**](https://www.homeserve.com/en-us/blog/home-improvement/what-to-expect-home-inspection/)
+
+While you can’t know all of the secret issues and idiosyncrasies a home contains before buying it, there are red flags you keep an eye out for while shopping for a house. Being knowledgeable about the problems to look for when house hunting doesn’t guarantee you find the perfect home, but it can get you one step closer to signing on that dotted line.
+
+Watch Out For These Problems When Buying a New Home
+---------------------------------------------------
+
+### Structural Issues
+
+Structural problems in a home are some of the most worrisome red flags. This is in part due to how expensive they can be to repair, but it’s also because of how one structural issue can often lead to another. Problems with a home’s foundation are especially concerning, so be on the lookout for any sizable cracks (wider than 1/2 inch) or broken foundation blocks. Small, hairline cracks in the foundation can sometimes just be a sign of settling, but it’s better to be safe than sorry, especially where foundations are concerned.
+
+If your home inspector is unsure of what kind of shape the foundation is in, you can always call in a structural engineer to investigate further, assess any damage and estimate how costly the repairs will be. Sloping floors and cracked drywall can also point toward structural and foundation issues, so be on the lookout for those, too, as you’re touring a property.
+
+### Doors that Won’t Close
+
+While doors sometimes get wonky for other reasons (like improperly hung hinges or a too-high threshold), if you notice that multiple doors in a home aren’t closing properly, it could signal that the framing of the house has shifted. This is a red flag issue for sure, and one that’s a whole lot harder to remedy than adjusting a few hinges. Like foundation issues, a shifting framework in a home may require the advice of a structural engineer regarding how to proceed.
+
+**More Related Articles:**
+
+*   [10 Things to Do Immediately Upon Moving Into a New House](https://www.homeserve.com/en-us/blog/home-improvement/moving-into-new-house/)
+*   [How to Move: A Guide to Preparing for Moving Day](https://www.homeserve.com/en-us/blog/how-to/move/)
+*   [Should You Remodel or Move? Here’s How to Decide](https://www.homeserve.com/en-us/blog/home-improvement/remodel-or-move/)
+*   [Can You Move an Entire House? Yes. Here’s How Much It Costs](https://www.homeserve.com/en-us/blog/cost-guide/move-a-house/)
+*   [Moving Money: How Much Does It Cost to Move?](https://www.homeserve.com/en-us/blog/cost-guide/moving-houses/)
+
+### Mold
+
+Although you may not see it when touring a property, mold can be a major home inspection red flag that you want to pay attention to. Mold can hide in air ducts, behind walls and beneath carpets, so even if you don’t spot any mold outright, know that other signs like water damage or a musty smell are both signs that mold may be present in the home. Not all mold is toxic, but many varieties can cause respiratory issues and headaches, especially if you have a severe mold allergy. That’s why, when the home is inspected, you want to make sure to check for mold issues and call in a mold and mildew remediation and removal specialist if any serious concerns arise.
+
+### Fresh Paint
+
+Signs of fresh paint around a home shouldn’t always sound the alarm. Sometimes sellers repaint brightly colored walls in more neutral colors to make a home more universally appealing before listing, or perhaps some rooms were just in need of a refresh. If, however, you see random swaths of fresh paint here and there in a home, it could be concerning, as that paint may be hiding something, like a water stain, a recently repaired crack in the drywall or other damage. If a recent paint touch-up seems to be camouflaging a cosmetic issue that points to a larger problem — like water damage or a structural concern — you’ll want to make sure your home inspector takes a closer look at the area.
+
+### Insect Infestations
+
+Signs of an insect infestation in a home are concerning for obvious reasons, but it’s particularly worrisome if the issue is termites. Small piles of brown droppings, hollow-sounding wood or mud tubes are all signs that termites have made their way onto the property. However, you’ll need a licensed pest inspector to determine whether the termites are still present and active.
+
+### High Number of Vacant Properties Nearby
+
+Although it’s not a problem with the integrity of the house itself, lots of empty homes in the area can be another red flag in home buying. Many homes for sale on the same street can be similarly worrisome. These trends can indicate that the location has become less desirable. Maybe there’s been an uptick in area crime lately, or perhaps there’s a proposed prison build or highway expansion nearby that’s prompted homeowners to want to move. This is why it pays to do your research on the area before purchasing a home, _especially_ if the house itself seems too good to be true.
+
+Due Diligence
+-------------
+
+Purchasing a home requires an investment of your time, energy and money. Knowing what to look for when house hunting and keeping an eye out for red flags can’t deliver you from all the headaches of home buying, but it can save you a substantial amount of money and help you feel more confident in your purchase. After all, knowledge is power, and learning how to look before you leap is always a good idea.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

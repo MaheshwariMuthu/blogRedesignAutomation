@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to change Light Fixture
+headline: 'Transforming a room: How to change a Light Fixture'
+author: Team HomeServe
+tags: ['post', 'DIY']
+publishDate: 2018-10-22
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: lighting.jpg
+heroAltDescription: Lightbulbs
+metaDescriptions: Believe it or not, changing a light fixture is a pretty easy home improvement project and a great way to quickly transform a room.
+articleAbstract: Spruce up any room in your home by changing out the light fixture. Here’s how. 
+category: ['How To']
+
+eleventyNavigation:
+  key: How to change Light Fixture
+  parent: Electrical-How-To
+---
+
+::::: blog-info
+Updating light fixtures is an easy way to change the look of a room. You can add your own creative touch to a new home, modernize outdated lighting or switch up the lighting style completely.
+
+Replacing light fixtures can be an easy task for homeowners to complete – sometimes without the help of an electrician or handyman. (And while you’re at it and prepping for this DIY project, you can also consider installing a lighting control system, which can [enhance convenience, safety and efficiency in your home](/en-us/blog/buying-guide/lighting-control-system-benefits){target="_blank"}.) And if your new light doubles as a ceiling fan, [follow these installation steps](/en-us/blog/how-to/install-ceiling-fan){target="_blank"}.
+
+NOTE: Safety always comes first. If you run into problems while changing a light fixture or feel unsure about this DIY project, be sure to call a licensed professional electrician.
+
+Otherwise, here are some simple steps on how to change out a light fixture:
+
+## 1. Prepare for the project.
+
+Remember to review the manufacturer's instructions for specific installation and safety instructions. _Lowe's_ also recommended [conducting necessary research before getting to work](https://www.lowes.com/projects/build-and-remodel/change-a-light-fixture/project){target="_blank"}, such as confirming if you need a permit and inquiring about building and electrical codes. Finally, gather the necessary tools and materials, which include:
+
+* ### New lighting fixture
+* ### Wire stripper
+* ### Wire connectors or nuts
+* ### Screwdriver
+* ### Ladder
+* ### Safety glasses
+* ### Circuit tester
+
+## 2. Turn off the power.
+
+Switch off the circuit on the main breaker panel that correlates to the room where you'll replace the light fixture.
+
+## 3. Remove the old fixture.
+
+Loosen the screws on the cover of the old fixture, and carefully remove it. If it's a flush-mount light, twist the knob at the base of the fixture, and gently twist the glass cover until it comes loose. With the cover removed, you can now use a circuit tester to make sure the wires are dead. If so, unscrew the bulbs and place them carefully aside. Loosen the screws on the mounting bracket so you can remove the piece entirely.
+
+## 4. Disconnect the wiring.
+
+Remove the wire connectors, and then twist the one connected to the fixture free from the other wire that's attached to ceiling.
+
+## 5. Install the new mounting bracket.
+
+Secure it to the ceiling by tightening the screws. If everything aligns properly, you can use the same screws that held up the old fixture.
+
+## 6. Connect the wires.
+
+Attach the white wire in the ceiling to the same-colored one on the fixture by twisting the ends clockwise around each other and securing with a wire connector or nut. Do the same for the hot wires, which are the black ones, and ground wire, which should be copper or green. To make these connections easier, _Lowe's_ recommend using a wire stripper to remove the protective coating where you will twist the wires together. Finally, fold the wires into the electrical box.
+
+## 7. Secure the new base.
+
+Attach the light fixture base to the electrical box using the included hardware.
+
+## 8. Screw in the light bulbs.
+
+Check the packaging and included manufacturer's instructions to identify the proper wattage for the fixture. Remember that now is a great time to consider upgrading to energy-efficient light bulbs.
+
+## 9. Turn the power back on.
+
+Flip the circuit panel switch to the "on" position. Head back to the room, flick the switch and let there be light! If your room doesn't brighten with light from the fixture, turn off the power again and double check the wiring connections.
+
+## 10. Install the cover.
+
+Once you have light, you can attach the cover, trim, chains or other finishing touches. Use your screwdriver to tighten the fixture into place.
+
+Being prepared before home repair issues arise is always a good strategy. Plans from HomeServe can help with the costs of covered repairs. [See what plans]({{ migrationData.homepage }}){target="_blank"} are available in your area.
+::::::

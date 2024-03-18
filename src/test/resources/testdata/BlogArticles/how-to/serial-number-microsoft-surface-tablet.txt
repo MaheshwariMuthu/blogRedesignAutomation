@@ -1,0 +1,73 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Find the Serial Number on a Microsoft Surface Tablet"
+headline: "How to Find the Serial Number on a Microsoft Surface Tablet"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-03-27
+basePath: https://library.homeserve.com/m/
+heroImage: 7754fc3e4ea27581/Blog-surface-pro-8-with-type-cover_.jpg
+heroAltDescription: "A black colored Microsoft Surface tablet laptop hybrid sits with its screen open sitting against a white background"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Serial numbers help companies and consumers track products. Here's how to find your Microsoft Surface tablet's serial number."
+articleAbstract: "Serial numbers help companies and consumers track products. Here's how to find your Microsoft Surface tablet's serial number."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Find the Serial Number on a Microsoft Surface Tablet"
+  parent: Appliances-How-To
+---
+  _Microsoft image_
+
+If your tablet stops working and technical support asks for your device’s serial number, don't panic — it’s easy to find.
+
+**This May Also Interest You: How to Find the Serial Number on Your Appliances and Gadgets**
+
+Here are several places where you can quickly locate your Microsoft Surface tablet’s serial number. (Hint: It's even on the device itself!)
+
+Why Might You Need to Know the Serial Number of Your Tablet?
+------------------------------------------------------------
+
+A serial number is a sequence of letters and numbers that's unique to an individual product. It's often used to track ownership, so you’ll need to know your tablet’s serial number when you register it. You’ll also need this number if you’re sending it for repairs or requesting a replacement under the terms of a manufacturer or seller’s warranty. In the case your tablet is stolen, you might need to supply this number to the police and your insurance company.
+
+How Do You Find the Serial Number on a Microsoft Surface Tablet?
+----------------------------------------------------------------
+
+### On the Device
+
+You can find the serial number directly on your tablet. Depending on the model, here's where to look:
+
+* **Surface Books:** Disconnect the tablet from the keyboard. Look along the bottom edge, where the device connects to the keyboard.
+* **Surface Laptops:** Look under the keyboard, near the hinge.
+* **Surface Duo:** Use the ejector tool to open the SIM card tray. The serial number is located inside.
+* **Surface Pro, Surface Go and Surface RT models:** Flip open the kickstand to find the serial number near its base.
+* **Surface Studio:** The serial number is imprinted on the bottom of the unit’s base.
+
+### In the Settings
+
+Regardless of the model, if you’re running Windows 10 or 11, you can also find your serial number in your system's settings. Turn on your tablet, then click on “Start,” then “Settings,” then “System,” then “About.” You'll reach a page that lists windows specifications, including your tablet’s serial number.
+
+**More Related Articles:**
+
+*   [How to Find a Serial Number on a Chromebook](https://www.homeserve.com/en-us/blog/how-to/chromebook-serial-number/)
+*   [3 Ways to Find the Serial Number on Your iMac](https://www.homeserve.com/en-us/blog/how-to/mac-serial-number/)
+*   [How to Find a Serial Number on a Samsung TV](https://www.homeserve.com/en-us/blog/how-to/samsung-tv-serial-number/)
+*   [Here Are 4 Ways to Find the Serial Number on a Hisense TV](https://www.homeserve.com/en-us/blog/how-to/hisense-tv-serial-number/)
+*   [How to Find a Serial Number on a Kindle Fire](https://www.homeserve.com/en-us/blog/how-to/kindle-fire-serial-number/)
+
+How Do You Find the Serial Number If You Don't Have the Tablet?
+---------------------------------------------------------------
+
+You can find the serial number even if you don’t have your tablet nearby, by using the Microsoft Surface app on your Android smartphone or iPhone. Open the app, select your Microsoft Surface tablet from the list of devices, and view the device information. Your serial number should be listed there.
+
+If you've saved your tablet’s original packaging, you can also find the serial number on the barcode.
+
+How Do You Find the Model Number?
+---------------------------------
+
+You can determine a tablet's model number using the Surface app as well. Open the app and select “Device Information.” The model number is listed there.
+
+Is a Serial Number the Same as IMEI?
+------------------------------------
+
+IMEI numbers are different than serial numbers. The IMEI is a 15-digit number that identifies a device, such as a smartphone, on mobile networks. It only applies to communication devices, and it can keep a lost or stolen phone from being used by whoever has it.

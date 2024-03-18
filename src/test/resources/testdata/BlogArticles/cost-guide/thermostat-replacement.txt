@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Do Thermostats Cost to Replace or Install?"
+headline: "How Much Do Thermostats Cost to Replace or Install?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2024-01-28
+basePath: https://library.homeserve.com/m/
+heroImage: 38943861b06df095/Blog-UnitedWater_IPD_SHMQC3336565_02.jpg
+heroAltDescription: "thermostat repair"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Time to replace your thermostat? Get more information about replacing a thermostat below, including the replacement cost."
+articleAbstract: "Over time, your thermostat can break down and need repair or replacement. You might also want to install a smart thermostat you can control via a mobile device. Get more information about replacing a thermostat below, including the replacement cost."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Do Thermostats Cost to Replace or Install?"
+  parent: HVAC-Cost-Guide
+---
+  When cold creeps in during fall or winter, many people head toward the thermostat to turn up the heat in their homes. Then, when the summer heat arrives, people head back to the thermostat to send cool air through the house.
+
+**This May Also Interest You:** [**Heat Check: The 5 Best Smart Thermostats for Your Home**](https://www.homeserve.com/en-us/blog/cost-guide/best-smart-thermostats/)
+
+The thermostat is connected to the furnace or central air system and can control both heat and cool air. It also monitors the temperature of the room and sends a signal to activate heating and cooling systems as temperatures fluctuate.
+
+Over time, your thermostat can break down and need repair or replacement. You might also want to install a smart thermostat you can control via a mobile device. Get more information about replacing a thermostat below, including the replacement cost.
+
+What Are Some Signs You Need to Replace Your Thermostat?
+--------------------------------------------------------
+
+You may want to replace a thermostat if the old one isn't working well, or you want to upgrade to a more technologically advanced option.
+
+There are five telltale signs you need to replace an old thermostat:
+
+* **The heating or cooling system won’t start up anymore.** This typically means the thermostat is no longer communicating properly with your furnace or HVAC unit. This usually happens when the sensor goes bad.
+* **Temperature readings are incorrect.** One way to test this is to use a portable thermostat to get a reading in the house. If the reading is different from the one used for the cooling and heating systems, you might have to replace it.
+* **Energy bills keep going up unexpectedly.** A faulty thermostat is known to cause heating and cooling systems to overwork because the equipment isn't getting a signal to shut off once the target temperature has been met. This causes an increase in energy consumption and higher utility bills.
+* **The temperature is always noticeably fluctuating.** This can be the result of a faulty thermostat, but it could also be a problem with the heating and cooling equipment. In this scenario, it’s best to have a professional cooling and heating expert come in and check the thermostat and equipment before you go ahead and change the thermostat.
+* **It’s just plain old.** Thermostats typically have a [10-year lifespan](https://www.sperrs.com/7-signs-you-need-to-replace-your-thermostat/).
+
+In some cases, the problem isn't the thermostat at all. The issue could simply be that you need to replace the battery in the unit, if applicable.
+
+**More Related Articles:**
+
+*   [Smart AC Not a Dumb Ideas If You’re Looking to Cut Climate-Control Costs](https://www.homeserve.com/en-us/blog/buying-guide/smart-ac/)
+*   [What Is a Google Nest Learning Thermostat and What's It Do?](https://www.homeserve.com/en-us/blog/buying-guide/google-nest-thermostat/)
+*   [How to Install a Google Nest Learning Thermostat](https://www.homeserve.com/en-us/blog/how-to/nest-thermostat-installation/)
+*   [How Much Does It Cost to Install a Google Nest Learning Thermostat?](https://www.homeserve.com/en-us/blog/cost-guide/nest-thermostat-installation/)
+*   [How to Replace the Battery on a Honeywell Thermostat](https://www.homeserve.com/en-us/blog/how-to/replace-battery-honeywell-thermostat/)
+
+How Much Does a Thermostat Cost?
+--------------------------------
+
+Replacing an old thermostat involves removing it, preparing the wiring for the new unit, installing the replacement and programming the new thermostat. Experienced DIYers can often do this themselves for the cost of just the new thermostat and a few parts. According to data from [HomeGuide](https://homeguide.com/costs/thermostat-installation-cost), costs generally run between $15 (CAD 21) and $250 (CAD 335), depending on how technologically advanced the thermostat is.
+
+How Much Does the Labor Cost to Replace a Thermostat?
+-----------------------------------------------------
+
+The cost of hiring a professional installer fluctuates based on the complexity of the thermostat. Simple units may only cost $80 (CAD 108) or so to install and get ready for use, but complex thermostat installation can run as high as $200 (CAD 268).
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/kt-8Q9ewSFo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="To cover or not to cover… that is the question."></iframe>

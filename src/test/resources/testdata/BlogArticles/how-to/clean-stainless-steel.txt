@@ -1,0 +1,55 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to clean Stainless Steel Appliances
+headline: Your Stainless-Steel Fridge will shine bright like a Diamond with these cleaning tips
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment']
+publishDate: 2020-08-10
+videoSrc: https://www.youtube.com/embed/yvH3vKHj46A?enablejsapi=1&origin=https%3A%2F%2Fwww.homeserve.com
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: /en-us/assets/images/blog/how-to/cleaningRefrigeratorHS.jpg
+heroAltDescription: How to clean Stainless Steel Appliances
+metaDescriptions: Many stainless steel cleaners don't actually do much cleaning or shining. Use these tips to keep your stainless-steel appliances smudge and streak-free.
+articleAbstract: Wondering what is the best way to clean stainless steel appliances to make them sparkle? Some simple household ingredients can leave your stainless steel looking beautiful again.
+category: ['How To']
+
+eleventyNavigation:
+  key: How to clean Stainless Steel Appliances
+  parent: Appliances-How-To
+---
+
+::::: blog-info
+Is your stainless steel starting to look gross and grimy? Stainless steel is a popular finish in many kitchens and shows itself on everything from refrigerator doors to cabinet handles. Though this sturdy material won't permanently stain, you might notice that things like greasy fingerprints or splashes of paint can still stick to the steel. To restore its shine, you need stainless steel cleaners that clean without harming the metal. Here are some tips that can get your appliances, sinks and fixtures looking brand new.
+
+[1]: {{ migrationData.planspage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+## 5 Easy Steps for Cleaning Stainless Steel
+
+### Step 1: Know What Cleaners to Avoid
+
+The first step in knowing how to clean stainless steel is recognizing which methods are a bad idea. Before you cause any lasting damage, put down the steel wool, Magic Eraser, or any other abrasive cleaning materials. According to **HGTV**, these materials can scratch your stainless steel, leaving it looking dull and scraped. When deciding what to use on your stainless steel, be very cautious of things labeled as oven cleaner since they often have abrasive ingredients. You should also avoid using cleaners with chloride in them. This ingredient interacts with the compounds in stainless steel to cause corrosion.
+
+### Step 2: Start With a Gentle Dish Detergent Clean
+
+In most cases, the simplest place to start is just using a warm, dish soap detergent mixture. This versatile method works for everything from learning how to clean a stainless steel refrigerator to cleaning a stainless steel sink. _Good Housekeeping_ recommends a ratio of 1 teaspoon dish detergent to 1 quart of hot tap water. Use a soft rag to gently scrub your stainless steel. Go in small sections, and buff in a circular motion. Then, rinse the rag thoroughly and use plain hot water to wipe away the soap. Finally, dry the surface with a fresh microfiber dry cloth. This will help prevent streaking and dripping from showing up on your clean surface. If your stainless steel was just a little dirty, you might actually be able to stop after this step. However, if you are still noticing some buildup, move on to our next tips.
+
+### Step 3: Remove Any Seriously Caked-On Gunk
+
+Dish detergent is great for basic problems like your toddler leaving sticky fingerprints on the front of an oven. However, what should you do if you have some serious mess? When you have grime in the crack around your kitchen drain or tomato sauce baked on to your stove, you need to do some detailed cleaning. A great option is making a paste out of baking soda and water, then using a toothbrush to scrub away at the buildup. Baking soda is gentle enough to avoid scratching stainless steel, and it can help dissolve away grime. For sticky gunk, try rubbing the area with mineral oil. This can help get rid of things like honey, syrup, and other tacky messes. Another trick for getting rid of buildup is heat. Gentle heat, such as a rag dipped in hot water, can help soften things like paint or burnt sugar so you can then scrape it away from the surface.
+
+### Step 4: Apply a Stainless Steel Cleaner
+
+If you still have any marks on your stainless steel, it's time to pull out the big guns. Try using a commercial stainless steel cleaner. These are carefully formulated to dissolve messes without harming your [pricey stainless steel appliances](/en-us/blog/cost-guide/home-repair-costs/){target="_blank"}. Some options even have a protective coat, so they can protect your stainless steel from smudges after you apply it. To use a commercial stainless steel cleaner, read the instructions on the back about how to clean stainless steel. Some products just require a quick wipe while others may tell you to let the cleaner sit for a while and then rinse it off. Remember that these cleaners are powerful chemicals, so always use them in a well-ventilated area and follow any recommended safety precautions.
+
+### Step 5: Restore Shine With a Glass Cleaner
+
+Stainless steel is notorious for being streaky. Drying it thoroughly after cleaning can help, but you might still notice some streaks on it. These aren't technically an issue, so you can just ignore them if you want. However, when you want to impress your guests and make your kitchen sparkle, streaks can look unsightly. The secret to getting rid of them is actually just treating the surface like a window. Use your favorite glass cleaner to gently dampen the stainless steel, and then rub it clean with a paper towel or rag. Chemical glass cleaners work fine, but when working in your kitchen, you might want to choose something more natural. A blend of equal parts white vinegar and water can work just as well as commercial cleaners. The vinegar helps water evaporate quickly so spots and streaks do not show up. Ultimately, stainless steel is a very sturdy metal, so you can usually get it sparkling clean again with just a bit of elbow grease!
+
+When you’re prepared with an appliance plan from HomeServe, you can keep your appliances and working properly. When an issue arises, you can call our 24/7 repair hotline, and we will send a local, expert technician to handle repairs, up to the benefitted amount. Learn more about [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} today.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+:::::

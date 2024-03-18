@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Can Radon Harm Your Household?"
+headline: "How Can Radon Harm Your Household?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-08-17
+basePath: https://library.homeserve.com/m/
+heroImage: 79081b3447cfc2b/Blog-GettyImages-1327423948.jpg
+heroAltDescription: "Danger of radioactive contamination from RADON GAS - concept with warning symbol of radioactivity on road sign - image with copy space"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "What is radon and how can it affect your health? Find out how you can protect yourself from radon with testing and mitigation."
+articleAbstract: "What is radon and how can it affect your health? Find out how you can protect yourself from radon with testing and mitigation."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Can Radon Harm Your Household?"
+  parent: Interior-Home-Home-Improvement
+---
+  Radon can have some serious health effects and can occur anywhere, so knowing what it is and how to detect it in your home is essential.
+
+**This May Also Interest You:** [**Heat Your Home Safely This Winter: Carbon Monoxide Safety Tips**](https://www.homeserve.com/en-us/blog/home-improvement/carbon-monoxide-safety/)
+
+Find out how you can protect yourself from radon with testing and mitigation.
+
+What Is Radon?
+--------------
+
+[Radon](https://www.epa.gov/radiation/what-radon-gas-it-dangerous) is a colorless, odorless, radioactive gas that occurs naturally in the environment as radium or uranium decays in soil. Outdoors, it doesn't typically cause health issues because it disperses into the air quickly. However, it can cause issues inside your house because the inert gas gets trapped inside where you can inhale it.
+
+Radon is present almost everywhere, and the levels can vary significantly even in the same state or city. Some areas have a higher risk of radon. However, your home could have radon in it even if you don't live in an area known for high radon levels. See what radon levels are like [where you live](https://www.epa.gov/radon/epa-map-radon-zones).
+
+Why Is Radon Harmful?
+---------------------
+
+Radon doesn't cause acute symptoms, but it can cause health effects if you're exposed to it for a long time. The primary issue is the increased risk of lung cancer with chronic exposure to high radon levels. According to the [Environmental Protection Agency](https://www.epa.gov/radiation/what-radon-gas-it-dangerous), it's the second-leading cause of lung cancer in the U.S., behind smoking. When you breathe in radon, it can stay in your lungs and lead to lung cancer. Your risks of lung cancer are higher if you smoke and are exposed to radon.
+
+How Does Radon Enter a Home?
+----------------------------
+
+Radon typically enters your home through cracks and gaps along your home's foundation. The gas flows through any spaces in your home, where it can accumulate. If you have well water, radon can build up in the groundwater and enter the air when you use the water for things like showering. Radon concentrations are usually higher closer to the ground in areas such as basements or the lowest level of your home.
+
+**More Related Articles:**
+
+*   [How to Install a Smoke Detector](https://www.homeserve.com/en-us/blog/how-to/install-smoke-detector/)
+*   [Gas Safety Guide: 7 Tips to Keep in Mind](https://www.homeserve.com/en-us/blog/home-improvement/gas-safety-tips/)
+*   [5 Home Repairs You Should Never Do Yourself](https://www.homeserve.com/en-us/blog/home-improvement/home-repairs-yourself/)
+*   [Wood-Burning Stove and Fireplace Safety Guide](https://www.homeserve.com/en-us/blog/home-improvement/fireplace-wood-burning-stove-safety/)
+*   [Is It Safe to Put Things on or Near Your Radiator?](https://www.homeserve.com/en-us/blog/home-improvement/can-you-put-items-on-radiator/)
+
+How Do You Test for Radon?
+--------------------------
+
+Because radon has no color or odor, the only way to detect it is through testing. You can choose either a short-term or long-term radon test. Short-term tests take fewer than 90 days, but usually only require a few days to perform. However, they aren't typically as accurate and don't give you a good idea of the average radon levels in your home. Because the radon levels can fluctuate in different seasons, long-term tests that last 3 to 12 months give you a better idea of the average radon levels throughout the year.
+
+The testing process is easy. You can purchase DIY radon testing kits at hardware stores. They typically use small canisters or other devices that you open and set out in the lowest part of your home. You need to leave the testing device alone for the testing period for the most accurate results. It's best to keep windows and doors closed as much as possible while testing. You can also get a better idea of the radon levels if you keep fans and other devices off that bring outdoor air inside your home. Then, you send the kit to a lab for testing. Always read the instructions on the radon kit you purchase to improve the accuracy.
+
+You can also have professional testing done for you. You may want to contact a professional if DIY test results show radon levels that are higher than normal.
+
+It's a good idea to test your home every two years or so, even if the initial results didn't show elevated levels. If you have a mitigation system installed, you should continue testing every few years to make sure it's still working well. It's also a good idea to retest if you make any changes to your home or start living in a lower space that was once unoccupied.
+
+How Do You Get Rid of Radon?
+----------------------------
+
+High levels of radon often require you to have a radon mitigation system professionally installed. These systems prevent radon from entering your home, or remove the radon from your home. They're relatively easy to install in an existing home without many modifications needed. Your state radon office should have a list of qualified radon contractors to ensure you choose a company that will install a mitigation system properly.
+
+You can also help protect yourself by sealing the gaps and cracks in your home to remove pathways that radon can follow to get inside. Improved ventilation and air circulation can also help, but it's not enough alone if you have high radon levels. Work with a trusted radon mitigation company to create a plan to remove and prevent radon from entering your home.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

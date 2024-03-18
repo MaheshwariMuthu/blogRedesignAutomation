@@ -1,0 +1,59 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean Your Gutters"
+headline: "Cleaning Gutters Doesn’t Have to Be Gut-Wrenching. Here’s a Step-by-Step Guide"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-09-15
+basePath: https://library.homeserve.com/m/
+heroImage: 572cf9a5384a99d4/Blog-GettyImages-487506494.jpg
+heroAltDescription: "Cleaning Gutters During The Summer"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Clean gutters are essential for preventing water damage to your home. Here are a few cleaning methods–some of which don’t even involve climbing up a ladder."
+articleAbstract: "Clean gutters are essential for preventing water damage to your home. Here are a few cleaning methods–some of which don’t even involve climbing up a ladder."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clean Your Gutters"
+  parent: Exterior-Home-How-To
+---
+  When thinking about all of those home improvement and maintenance projects you’ve got on your plate, it may seem like gutter cleaning is the least of your concerns. However, having clean gutters is essential for preventing water damage and other costly home repairs.
+
+**This May Also Interest You:** [**How Much Does It Cost to Have Your Gutters Cleaned?**](https://www.homeserve.com/en-us/blog/cost-guide/gutter-cleaning/)
+
+If you’ve never given much thought to cleaning your gutters, now’s the time to start. Luckily, there are a few effective methods for cleaning your gutters — some of which don’t even involve climbing up a ladder.
+
+Cleaning Your Gutters From the Ground
+-------------------------------------
+
+If your gutters aren’t too terribly clogged, cleaning your gutters with a garden hose can be a fairly simple way to get the job done. That is, if you have a [gutter-cleaning wand](https://www.amazon.com/Orbit-58543-Telescoping-Cleaning-Ratcheting/dp/B00CLOG5MK) attachment for your hose. These specially designed wands attach to your hose and have a long, curved end that allows you to control the water to push the debris out of the gutter. You should expect to get a bit dirty, as leaves, mud and twigs will likely spray over the edge of the gutter as you work.
+
+Also, keep in mind that using a garden hose will only be an effective method if your gutter system isn’t too dirty. For severely clogged gutters, or if it’s been a while since you’ve cleaned your gutters, you’ll more than likely need to use a pressure washer to clean them — the high pressure should clear out any major debris that’s accumulated over time. Just like with the garden hose, you’ll need a special, gutter-cleaning wand if you plan to clean from the ground, but the idea is the same: Spray the hose through the gutters until the water flows freely through them.
+
+Cleaning Gutters on a Ladder
+----------------------------
+
+Although it’s not as safe as cleaning the gutters from the ground, using a ladder to clean your gutter system gives you better access and control over the entire gutter cleaning operation.
+
+When using a ladder to access your gutters, make sure you use an extension ladder, especially one with a [ladder stabilizer](https://www.homedepot.com/p/WERNER-Quick-Click-Ladder-Stabilizer-AC78/100658388) attached. These attachments help to keep the ladder from sliding or tipping over by bracing the ladder to your home's siding. Ladder stabilizers can be especially helpful when you’re dealing with tools and equipment.
+
+You can use a garden hose or a pressure washer to clean your gutters from a ladder, just as you would from the ground. Although you won’t necessarily need a gutter-cleaning attachment, you’ll more than likely need to re-position your ladder as you work your way through your gutter system.
+
+Another fool-proof method for cleaning clogged gutters is to simply clean them by hand. It might take longer, but cleaning by hand ensures that you’ll do a thorough job. To clean gutters manually, you’ll need some work gloves, a bucket or trash bag to place the debris you’ve cleared out, and a [gutter scoop](https://www.amazon.com/Gutter-Getter-00101-Cleaning-Scoop/dp/B000NCUV2C) — although a garden trowel or plastic children’s shovel will work just fine. When you’re finished, use a garden hose to flush your gutters and downspouts. If you detect any clogs in your downspout, you can use a plumber's snake to dislodge the clog, then continue flushing with the hose.
+
+**More Related Articles:**
+
+*   [What Are Gutter Guards — and Do You Need Them?](https://www.homeserve.com/en-us/blog/home-improvement/gutter-guards/)
+*   [How Much Does It Cost to Install Guter Guards?](https://www.homeserve.com/en-us/blog/cost-guide/gutter-guards/)
+*   [Does a House Need Gutters?](https://www.homeserve.com/en-us/blog/home-improvement/are-gutters-necessary/)
+*   [Winter Gutter Maintenance Checklist](https://www.homeserve.com/en-us/blog/how-to/winter-gutter-maintenance/)
+*   [Frozen Gutters be Dammed! 6 Ways to Eliminate Ice Dams](https://www.homeserve.com/en-us/blog/how-to/thaw-frozen-gutters/)
+
+Prevention Is Key
+-----------------
+
+Cleaning your gutters can be a time-consuming project, especially if it’s been a while (or forever!) since your last cleaning. To save time and energy, you should make it a point to clean them at least twice a year. This way, excess debris buildup isn’t likely to occur, making your cleaning routine quicker and easier.
+
+For added protection, consider installing [gutter guards](https://www.homedepot.com/b/Building-Materials-Gutter-Systems-Gutter-Parts-Accessories-Gutter-Guards-Strainers/N-5yc1vZar5e) or strainers. While they’ll still require a thorough annual cleaning, gutter guards prevent leaves and other larger debris from accumulating and clogging up your gutter system.
+
+When it comes to gutter cleaning, regular maintenance and prevention are key to making the job as quick and painless as possible, giving you more time to spend knocking out those other home improvement tasks.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/I_p4dkZ3TpU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Window Wells | How to Clean and Maintain a Basement Window Well"></iframe>

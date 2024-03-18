@@ -1,0 +1,95 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Common Refrigerator Problems and How to Fix Them"
+headline: "What's Up With the Fridge? 5 Common Refrigerator Problems and How to Fix Them"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-13
+basePath: https://library.homeserve.com/m/
+heroImage: 2cefd6aaed32c073/webimage-RefrigeratorRepair.png
+heroAltDescription: "fixing"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Refrigerator issues can often be solved on your own. Here are five fixes that can help you save time and money."
+articleAbstract: "Refrigerator issues can often be solved on your own. Here are five common fixes that can help you save some time, money and the ice cream in the freezer."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's Up With the Fridge? X Common Refrigerator Problems and How to Fix Them"
+  parent: Appliances
+---
+  Whether your refrigerator is not cooling like it should, or your freezer is looking a little too frosty, there’s no doubt that you’ll need to address the issue sooner rather than later, lest you lose more than just those pricey steaks you’ve been saving for a special occasion.
+
+**This May Also Interest You:** [**How to Spot Trouble With Your Fridge Before a Major Leak**](https://www.homeserve.com/en-us/blog/how-to/prevent-refrigerator-leaks/)
+
+Although refrigerator troubleshooting can sometimes be a bit of a brain-bending exercise, oftentimes, the issue can be solved without having to call in the pros. Read on to learn about five of the most common refrigerator issues. Hopefully, these DIY fixes will help you save some time, money _and_ that coveted Ben and Jerry’s.
+
+1\. Fridge Not Cooling
+----------------------
+
+If your refrigerator compressor is running but not cooling, you likely have a problem with the refrigerator evaporator coils. If they’re not regularly cleaned, evaporator coils can accumulate ice and, as a result, become clogged. A clogged coil can interfere with the fridge’s ability to stay cool. If the coils are frozen, you’ll need to defrost them to get your fridge working again.
+
+Evaporator coils are typically behind a panel in the back of the freezer. Depending on the model of your fridge, you may need to unscrew or unclip the panel before removing it. Once the panel is removed, you should be able to determine whether or not the coils are covered in ice.
+
+To defrost them, disconnect power to the refrigerator and place some towels down around the fridge for the water that will accumulate from the defrost. Leave the fridge unplugged for roughly 24 hours. Then, check the coils. If they appear to be defrosted, reattach the panel and plug the refrigerator back in.
+
+2\. Water Leaks
+---------------
+
+Another common refrigerator issue is a water leak. While a leaky fridge can be dangerous to anyone walking around your kitchen, it can also potentially cause expensive water damage to your kitchen floor. Fortunately, a fridge leak is most usually a quick and easy fix and won’t require you paying an arm and a leg to hire a professional.
+
+The leading cause of refrigerator leaks is a clogged defrost drain. Although it varies according to the make and model of your refrigerator, the defrost drain will almost always be located below the evaporator coils in the back of the freezer. Food, dirt and other debris can block the defrost drain leading to a buildup of ice and water, which will eventually leak out onto your floor.
+
+To unclog the drain, try rinsing it with warm soapy water and then use a long tool like a drain snake, coat hanger or pipe cleaner to remove the clog. If this doesn’t work, you may have to remove the drain hose on the back of the refrigerator that’s connected to the drain to locate the source of the clog.
+
+3\. Water Not Coming Out of the Fridge
+--------------------------------------
+
+Who doesn’t love the water dispenser in their fridge? The ability to have cold, filtered water injected directly into your preferred drinking vessel is one of the great conveniences of modern life. That’s why when it stops working properly, the frustration is palpable.
+
+If your water dispenser stops working, the most likely culprit is a frozen water supply tube. If your freezer is set too cold, it may cause the tube that connects your water supply to the door to freeze.
+
+To fix it, turn off your freezer to let the tube thaw out completely. You’ll also want to transfer freezer contents to a large cooler. Let your freezer thaw out completely before turning it back on. Once thawed, simply reload your freezer and turn it back on, making sure your temperature is set between 0 and 10 degrees Fahrenheit (-17 and -12 degrees Celsius).
+
+**More Related Articles:**
+
+*   [How Long Do Appliances Last?](https://www.homeserve.com/en-us/blog/home-improvement/how-long-do-appliances-last/)
+*   [We Gotta Move These Refrigerators: A Step-by-Step Guide to Moving Your Fridge](https://www.homeserve.com/en-us/blog/how-to/move-refrigerator/)
+*   [LG’s Eco-Friendly Fridge Door and 4 Other Environmental Innovations](https://www.homeserve.com/en-us/blog/home-improvement/lg-ecofriendly-appliances-at-ces/)
+*   [How Much Does a Fridge Cost?](https://www.homeserve.com/en-us/blog/cost-guide/refrigerator/)
+*   [Ever Cleaned Your Refrigerator Coils? Sure, We Believe You (But Here’s How Just in Case)](https://www.homeserve.com/en-us/blog/how-to/clean-refrigerator-coils/)
+
+4\. No Ice
+----------
+
+Although its ice-making abilities appear both powerful and mysterious, the truth is, when your freezer’s icemaker stops working, it’s usually a pretty simple fix. Icemakers are fairly simple devices, and you might be able to repair yours yourself before calling in the pros.
+
+If your icemaker isn’t making ice, the first thing to check for is an ice clog. Ice clogs are the number one reason icemakers quit dispensing ice. If the ice dispenser makes noise, but no ice comes out, chances are you have a clogged ice chute.
+
+Start by conducting a visual inspection of the ice chute. Grab a wooden spoon and break up any large ice accumulations you might see. Then, fill a large glass or pitcher with warm water and pour it into the ice chute, making sure to have a towel or mop handy to clean up any spilled water.
+
+5\. Loud Noises
+---------------
+
+Loud noises coming from your fridge can be disconcerting, but how do you know if they are a sign of a larger problem? We’re not talking about the steady hum of the refrigerator’s compressor at work — that’s perfectly normal and expected. But other, more disturbing noises, like squeaking, knocking or rattling, should cause you to stop and take notice.
+
+If you hear a squealing sound near the bottom of your fridge, it may signal a problem with your refrigerator fan. Left unchecked, this could eventually cause your freezer to fail completely. Access the fan by opening the inside panel in the back of the freezer, which may require a screwdriver depending on the make and model of your fridge. Once opened, examine the blade. If it doesn’t move smoothly, or there are signs of corrosion or damage, you may need to replace the fan entirely.
+
+Hear a loud knocking or banging noise? It might signal an issue with the condenser fan. Over time, condenser fans can become clogged with lint, dust and other debris, limiting airflow and making a loud knocking sound. Disconnect the fridge from the power source and remove the thin panel on the back of the unit. Use a brush or a rag to clean the fan, then put the cover plate back on.
+
+Signs of Larger Problems
+------------------------
+
+Most often, refrigerator problems can be solved without having to call in the pros. That said, there are a few situations that signal bigger issues.
+
+### The Fridge Isn’t Working, But the Freezer Is
+
+If your fridge isn’t cooling, but your freezer is staying cold, it could be that you have a failed evaporator fan. This is the fan that circulates cold air from the coils to the fridge and will need to be replaced by a licensed appliance technician.
+
+### The Freezer Isn’t Working, But the Fridge Is
+
+This problem is usually caused by a lack of coolant, thus not allowing the freezer to create enough cold air to provide freezing air. Although freon is a widely used chemical compound, it’s poisonous to inhale. Therefore, if you need to add freon or another coolant to your refrigerator, you’ll need a licensed technician to do so.
+
+Fridge Fixes
+------------
+
+Troubleshooting refrigerator malfunctions may seem overwhelming, but the truth is, it’s often a pretty straightforward process. With luck (and a little know-how), your fridge should be back in business in no time, so you can keep enjoying those fruits of the modern era — ice cubes and all.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Clean Refrigerator Condenser Coils at Home"></iframe>

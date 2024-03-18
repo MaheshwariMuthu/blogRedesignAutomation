@@ -1,0 +1,27 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 5 DIY Home fixes for common accidents
+headline: 5 DIY Home fixes for common accidents
+author: Team HomeServe
+tags: ['post', 'DIY']
+publishDate: 2018-06-08
+noImg: true
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: DIYHomeFixTools.jpg
+heroAltDescription: DIY Home Tools
+metaDescriptions: 
+articleAbstract: Learn 5 DIY home fixes for run-of-the-mill household incidents.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: 5 DIY Home fixes for common accidents
+  parent: Home Improvement & Maintenance
+---
+
+::: blog-info-top-margin
+Learn 5 DIY home fixes for run-of-the-mill household incidents.
+
+![DIY Home Fixes](/en-us/assets/images/blog/home-improvement/DIYCommonAccidentsInfographic.jpg)
+
+Being prepared before maintenance issues arise is always a good strategy. [Plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs. See what plans are available in your area.
+:::

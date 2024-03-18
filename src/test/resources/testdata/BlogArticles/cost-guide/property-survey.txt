@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Property Survey Cost?"
+headline: "What Do You Need a Property Survey for and How Much Does One Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-03-18
+basePath: https://library.homeserve.com/m/
+heroImage: 41f29679f729df52/Blog-GettyImages-1319276404.jpg
+heroAltDescription: "Updating public cadastral digital databases and information about land registry - concept image with an imaginary cadastral map of territory with buildings"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If you're buying a new home, you'll need to factor in the cost of a property survey."
+articleAbstract: "Property surveys are often done when you're buying a home or when you want to expand your square footage with an addition. This is what a survey will add to your homebuying expenses."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "What Do You Need a Property Survey for and How Much Does One Cost?"
+  parent: Exterior-Cost-Guide
+---
+  Where does your property end and your neighbor's begin? You might think you know where your property lines run, but the results of a property survey could surprise you. Surveys are often done when you're buying a home or when you want to expand your square footage with an addition. The survey can either confirm the boundaries you already thought you knew or reveal the actual location of property lines.
+
+**This May Also Interest You:** [**What Is a Home Improvement Loan and How Do You Get One?**](https://www.homeserve.com/en-us/blog/home-improvement/home-improvement-loan/)
+
+Read on to learn more about property surveys, including how much one will cost you.
+
+**What Does a Property Survey Include?**
+----------------------------------------
+
+A land survey focuses primarily on the property boundaries and legal description. It doesn't focus on the house as much, but it can help you decide where to build an addition or outbuilding if you're thinking of expanding.
+
+The steps in the survey process include:
+
+* **Research.** The surveyor researches the property by looking at the deed history and possibly doing a title search to check on discrepancies in the ownership. The research step looks at the history of the property and the legal description.
+* **Fieldwork.** The next step is going to the property to sketch it, including its boundaries and any other key markers. The surveyor takes measurements and does other research using various surveying tools while on the property.
+* **Report creation.** After the on-site visit, the surveyor goes back to the office and analyzes the data to create the final survey report.
+
+The completed survey process results in a comprehensive report, including a detailed map showing the property boundaries. The report may also include:
+
+*   Written property description
+*   Right-of-ways
+*   Easements
+*   Locations of nearby structures and properties
+*   Encroachments
+*   Improvements the homeowner can make
+
+There are other types of surveys that include additional information, such as topographic surveys that include land elevations, contours and detailed features of the property.
+
+**Is a Property Survey the Same as an Appraisal?**
+--------------------------------------------------
+
+Property surveys and appraisals are both assessments of your property. Both typically happen before closing on a home. However, they look at different aspects of the property. The land survey focuses on the property lines and checks for encroachments. This information is important, but it doesn't typically impact the home's value.
+
+An appraisal gives an estimate of the fair market value of the property you're buying or refinancing. Details of the house, including the size, condition, number of bedrooms and other features, play a major role in the appraisal. The neighborhood and other recent sales of similar homes also affect the appraisal.
+
+**What Is the Average Cost to Have a Property Surveyed?**
+---------------------------------------------------------
+
+A land survey costs an average of $525 (CAD 720), according to [Angi](https://www.angi.com/articles/how-much-does-land-survey-cost.htm), with a typical price range between about $375 and $745 (CAD 515 and CAD 1,020). Your exact cost can vary based on the size of the property and issues that make it more complex, such as difficult terrain. The cost will be higher if the survey requires extensive research, and there might be an extra charge if the surveyor has to travel a long distance. Pricing also varies by geographical area.
+
+**More Related Articles:**
+
+*   [Homeowners Vs. Renters Insurance: What’s the Difference?](https://www.homeserve.com/en-us/blog/home-improvement/homeowners-vs-renters-insurance/)
+*   [How Much Does Homeowners Insurance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/homeowners-insurance/)
+*   [What’s the Difference Between a Home Warranty and Home Insurance?](https://www.homeserve.com/en-us/blog/buying-guide/home-warranty-home-insurance-differences/)
+*   [How to Do a Home Inventory Before Disaster Strikes](https://www.homeserve.com/en-us/blog/how-to/create-home-inventory/)
+*   [What Does Homeowners Insurance Cover … and What Doesn’t It?](https://www.homeserve.com/en-us/blog/home-improvement/what-does-homeowners-insurance-cover/)
+
+**Why Are Land Surveys So Expensive?**
+--------------------------------------
+
+Land surveys take a lot of time, which is the main reason for the high cost. You might only see the surveyor for a short time, but they often do hours of research on the property before doing any fieldwork. For especially complex properties, research can take several hours or even days to complete. It takes time to assess everything, and the surveyor then has to analyze this data to complete the survey. Some surveys might require special equipment or additional research that increases the cost.
+
+**Is a Property Survey Worth It?**
+----------------------------------
+
+If you're buying a home, you might not have a choice on whether to have a property survey completed. Even if it's not required, a property survey can be invaluable in avoiding disputes with neighbors. It helps you know where you can build, so you don't put something on an easement or your neighbor's property. Knowing where the property lines are can come in handy when surveying storm damage, such as when a tree falls from your neighbor’s side of the line and damages something on your side. A land survey can prevent disputes over whose tree it is and who's responsible for the cleanup.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

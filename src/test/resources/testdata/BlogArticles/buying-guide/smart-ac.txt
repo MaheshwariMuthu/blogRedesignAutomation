@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 'Smart Air Conditioner: Monitor Your HVAC System'
+headline: Smart AC Not a Dumb Idea If You’re Looking to Cut Climate-Control Costs
+author: Team HomeServe
+tags: ['post']
+publishDate: 2021-01-03
+basePath: https://library.homeserve.com/m/
+heroImage: 1b66b2d7da79a6c/Blog-shutterstock_Thermostat_Image_EDITED.jpg
+heroAltDescription: wall thermostat
+metaDescriptions: Today’s smart homes let you stay on top of HVAC maintenance by connecting your heating, ventilation and air conditioning to your WiFi and alert you of any problems.
+articleAbstract: Today, everything is being turned into a “smart” device of some sort as technological advancements are incorporated into nearly every aspect of our lives. You can even connect your heating, ventilation and air conditioning system to WiFi and have it alert you when there’s a problem or when HVAC maintenance is needed.
+category: ['Buying Guide']
+eleventyNavigation:
+  key: 'Smart Air Conditioner: Monitor Your HVAC System'
+  parent: HVAC-Buying-Guide
+---
+
+Do you own a home? There are many responsibilities that go along with that. You have to keep up with all of the maintenance, repairs and replacements of appliances that need to be done from time to time. Repairs and replacements can add up to a hefty sum fast — which is why it&#39;s important to make sure you&#39;re taking good care of your appliances and having routine maintenance done as necessary.
+
+**This May Also Interest You:** [**Don't Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load**](https://www.homeserve.com/en-us/blog/how-to/phantom-loading/)
+
+Because it can be difficult to remember all of those upkeep intervals, some companies have programs you can take part in to keep you on schedule by having someone will notify you when it is time for service.
+
+## What Is the Smart AC Monitoring System?
+
+In today&#39;s world, everything is being turned into a &quot;smart&quot; device of some sort as the internet and other technological advancements are incorporated into nearly every aspect of our lives. These days, you can even connect your heating, ventilation and air conditioning system to WiFi and have it alert you when there&#39;s a problem or when maintenance is needed.
+
+In addition, you have the ability to adjust and monitor the temperature settings in your home — directly from an app on the phone in your hand. If you have Google Home, Samsung SmartThings or Amazon Alexa connectivity, you can even use voice commands to adjust your HVAC system.
+
+## How Does Smart AC Work?
+
+Essentially, you&#39;re turning your phone or smart device into a remote control that can manipulate various systems and functions in your home — HVAC among them. There are three different sensors that are placed throughout your HVAC system to monitor system activity.
+
+## What Does a Smart AC Measure or Monitor?
+
+How often do you think about your HVAC system throughout the year? Probably not too often unless it&#39;s causing you problems. It&#39;s important to keep up with routine maintenance on your HVAC units to prevent major problems from occurring and costing you a lot of money — but such issues may be avoided now by using a Smart AC.
+
+A screen inside the app used to operate the system displays your system&#39;s stats. There, you should be able to monitor all the functions that are working and (perhaps more importantly) _not_ working. Some examples of things detected by sensors that you can view on your app include:
+
+- Air coming from the vents
+- Air-filter lifespan
+- Water sensor for leaks and clogs
+
+## How Much Does It Cost?
+
+Everything costs something and nothing costs nothing where home ownership is concerned, but Smart AC is so bad considering the cash it can save you in plumbers, HVAC technicians and repair expenses.
+
+The membership program you&#39;ll need to enroll in costs around $5 a month. The sensors that go in the three areas Smart AC detects cost $99. Other smart air conditioner monitors out there, such as Sensibo, have comparable prices.
+
+## Benefits of Having Smart AC
+
+The ability to have 24/7 home climate-control monitoring is a valuable convenience in more ways than one. Not only are you are able to be more energy-efficient thanks to the increased oversight, if you leave the home and forget to turn down the heat, you can do so from your phone now.
+
+It helps to be aware of your energy usage levels and where that energy is most being used, so you can determine how and where to cut back.
+
+_Since we&#39;re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8mzG-IJupUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

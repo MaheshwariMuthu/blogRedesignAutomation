@@ -1,0 +1,63 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is Vampire Power and How Do I Reduce It?"
+headline: "What Is Vampire Power and How Do I Reduce It?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-03-08
+basePath: https://library.homeserve.com/m/
+heroImage: 1af9badd9e3b8c08/Blog-IMG20230307072358.jpg
+heroAltDescription: "illustration of a vampire biting an electrical cord"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Here's how to vanquish the power-sucking phenomenon known as vampire power."
+articleAbstract: "It's estimated that up to 20% of your monthly electricity bill may be attributable to vampire power. That bites. Learn how to banish this energy-sucking monster from your home."
+category: ["How To"]
+eleventyNavigation:
+  key: "What Is Vampire Power and How Do I Reduce It?"
+  parent: Electrical-How-To
+---
+  Whether you’re concerned about rising energy costs or want to be a better environmental steward, chances are you’d like to reduce unnecessary power usage in your home.
+
+**This May Also Interest You:** [**15 Ways to Save on Your Electric Bill**](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+
+Most folks already know to swap out lightbulbs for LEDs and to lower their heat or AC when they’re not home to conserve energy. But what you may not realize is how much energy you can waste in other, less obvious ways, through what’s known as “phantom load” or “vampire power.”
+
+What Is Phantom Load or Vampire Power?
+--------------------------------------
+
+What do a ghost and a vampire have in common? When it comes to power usage, these are not just creatures of the night — they’re adjectives used to describe the phenomenon of appliances using power even when they are turned off. You can’t see it happening, but there’s a significant energy suck happening in your home nonetheless. In fact, it’s estimated that up to 20% of your monthly electricity bill may be attributed to vampire power. _Yikes!_ That bites.
+
+Here’s the good news: With a little mindfulness and a few simple steps, you can reduce the energy your appliances and electronic devices are wasting when they’re not in use.
+
+What Types of Devices Are ‘Vampires’?
+-------------------------------------
+
+Many appliances that are not in use but remain plugged in continue to use energy because there is still an electric current running through the outlet to the device. This includes kitchen appliances that you might only use once or twice a day, like your standby coffee maker or microwave with a digital clock. This also includes remote-controlled devices like televisions or DVRs and other electronics that stay in “standby mode” and can be turned on with the push of a button, like printers, desktop computers and video game consoles. Not all appliances are vampires; knowing which devices drain energy unnecessarily can help you conserve power and save significantly on your electric bills.
+
+Should You Unplug Appliances to Save Money?
+-------------------------------------------
+
+The most obvious way to reduce your electricity consumption from phantom loads is to unplug all appliances and devices when they’re not in use. That said, it can be a bit of a struggle to remember to unplug each and every appliance after use and then plug them back in once it’s time to use them again. Luckily, there are easy ways to reduce ghost loads that won’t have you racing around your house to unplug energy-sucking appliances every morning before work.
+
+**More Related Articles:**
+
+*   [What is a SEER Rating for AC Units (And Why Should You Care?)](https://www.homeserve.com/en-us/blog/home-improvement/what-is-a-seer-rating/)
+*   [How Much Does It Cost To Install Solar Panels?](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+*   [4 Ways to Make Your Refrigerator More Efficient](https://www.homeserve.com/en-us/blog/home-improvement/refrigerator-efficiency-tips/)
+*   [How Much Does It Cost for a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+*   [15 Ways to Save on Your Electric Bill](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+
+How Can You Reduce Your Phantom Load?
+-------------------------------------
+
+One way to streamline the process of curbing phantom energy loss is through the use of power strips. If, for example, you’d like to keep your TV, video game systems and cable box from draining energy when they’re not in use, you could connect them all to one power strip that would allow you to turn them off (and back on) in one simple click. This will save you the hassle of unplugging multiple cords and having to wrangle them back into their outlets again, which we all know can be an awkward business, especially when outlets are tucked behind bulky furniture. Bonus points if your power strips are surge protectors as well, as your devices will be shielded from unexpected power surges that can damage or kill them entirely.
+
+And, if you want to up the ease factor one step further, you might consider investing in a few smart power strips that will allow you to turn them off and on from an app on your phone. Smart strips allow you to set timers for automatic power-offs at time intervals of your choice. So, even if you forget to turn the power strips off before you head out on vacation, you could switch them off remotely, no matter when or where you are when you finally remember.
+
+More and more companies are also making smart outlets. These devices plug into standard home outlets and receive the plugs from other devices and appliances. They, too, can be operated remotely with an app or set to turn on and off at specific times.
+
+Fewer Phantom Loads in Your Home
+--------------------------------
+
+While it’s unlikely that you’ll be able to rid your home of ghost loads entirely, you can certainly do your part to make sure they’re kept to a minimum. In addition to either unplugging your devices individually or connecting them to a power strip that can be easily switched off when not in use, you can also take a few other steps. Turning off screensavers, switching to energy star appliances when applicable and using timers will all work to reduce unnecessary power consumption when devices are not in use. When it comes to vampire power, try not to stress and just do your best to conserve what you can — both your bank account and the planet will thank you.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

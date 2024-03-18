@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "LG Smart Range Features"
+headline: "LG Smart Ranges: Smart Features and Functionality"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-01-02
+basePath: https://library.homeserve.com/m/
+heroImage: 29eba45b3810db19/Blog-LGSmartRange_ManufacturerImage_0001.jpg
+heroAltDescription: "A stainless steel LG brand smart range with six knobs and a digital display panel and four gas burners covered by black grates and a black glass window in the oven door"
+metaDescriptions: "Interested in an LG smart range? Here's what you need to know about their features and how they work."
+articleAbstract: "Interested in a smart range? Once you've gotten used to setting timers, managing recipes and even remote-controlling your range, you may not want to go back to a traditional model. Here’s what you need to know about LG smart ranges."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "LG Smart Ranges: Smart Features and How They Work"
+  parent: Appliances
+---
+  
+
+_Manufacturer image_
+
+Smart devices are becoming increasingly commonplace in modern households. If you have never owned one before, you might be confused as to what the appeal of a smart range might be. Once you've gotten used to setting timers, managing recipes and even remote-controlling your range, you may not want to go back to a traditional model.
+
+**This May Also Interest You:** [**Samsung Smart Ranges: Smart Features and How They Work**](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-range/)
+
+Intrigued? Here’s what you need to know about LG smart ranges.
+
+How Does an LG Smart Range Work?
+--------------------------------
+
+The main thing that makes an LG smart range "smart" is [LG ThinQ technology](https://www.lg.com/us/discover/thinq/kitchen). This is available on several of its gas and electric ovens and ranges, as well as other kitchen appliances. Your LG convection oven will have all the features you're used to from conventional ovens, but it can also be remotely controlled and connected to a wide variety of apps for recipe management, setting timers or even turning the temperature up and down.
+
+Many LG ovens have an air fryer built in. Air fryers can be a healthy alternative to deep fat frying or pan-frying because they allow you to cook crispy foods without using as much oil.
+
+What Features Do LG Smart Ranges Have?
+--------------------------------------
+
+LG smart ranges have the same kind of features you would expect from a smart range made by any other manufacturer, along with some useful integrations with third-party apps. Your LG oven with [ThinQ](https://www.lg.com/us/discover/thinq/kitchen) puts you in control in the kitchen. Expect features like:
+
+*   Instaview, which allows you to double-tap on the glass to see what's cooking
+*   Ability to use an app on your phone to set timers and view the status of your oven
+*   Integration with SideChef, Innit and Tovala apps for recipe management
+*   Voice control with Alexa and other home assistants
+*   Air-fryer for perfect crispiness
+
+There are LG smart ovens and ranges for any household, including a gas model for those who feel gas is the best way to cook, and an electric one for homes without gas hookups. There are also different sizes and configurations, including slide-in electric ranges and double ovens. So, whether you're a single person cooking just for yourself or a parent cooking for a large family every day, LG likely has a smart range to meet your needs.
+
+**More Related Articles:**
+
+*   [How Much Do Samsung Smart Ranges Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-range/)
+*   [Everything You Need to Know About Samsung Smart Microwaves: Features and Functionality](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-microwave/)
+*   [How Much Do Samsung Smart Microwaves Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-microwave/)
+*   [Samsung Smart Refrigerators: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-refrigerator/)
+*   [How Much Do Samsung Smart Refrigerators Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-refrigerator/)
+
+How Do I Connect to Wi-Fi on My LG Smart Range?
+-----------------------------------------------
+
+To connect your LG range to Wi-Fi:
+
+1\. Install the LG Connect SmartThinQ app on your smartphone and follow the on-screen prompts.
+
+2\. Press and hold the Timer On/Off button on your oven for three seconds. The Wi-Fi LED should start to blink.
+
+3\. Press the **\>** button.
+
+4\. Go to Wi-Fi settings on your phone and choose the “LG\_Smart\_Oven” option.
+
+5\. Use the SmartThinQ app to select your home's network connection.
+
+6\. Enter the Wi-Fi password and press connect.
+
+7\. It may take up to one minute to fully register the oven in the app.
+
+Once your LG range is connected to your home's wireless network, you'll be able to control it via Alexa, Nest and other popular smart home assistants. So, you could start defrosting something in your smart microwave while setting the timer on your LG gas range. Voice-activated appliances are no longer the stuff of science fiction.
+
+You could also set up third-party apps that can help with cooking times and recipes. This means you won't waste time trying to figure out how long to cook a piece of meat or setting reminders to change temperatures at different points in the cooking process.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

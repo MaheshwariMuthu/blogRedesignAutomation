@@ -1,0 +1,80 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Remove a Broken Lightbulb"
+headline: "How to Remove a Broken Lightbulb"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-09-06
+basePath: https://library.homeserve.com/m/
+heroImage: b2e0bd45a05216/Blog-BrokenLightbulb_MSchmitz_0001.jpg
+heroAltDescription: "broken lightbulb in bathroom vanity"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If you have a broken bulb in a socket, you'll want to remove it carefully. Here are four broken lightbulb-removal methods."
+articleAbstract: "If you have a broken bulb in a socket, you'll want to be very careful when you remove it. Here are four broken lightbulb-removal methods."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Remove a Broken Lightbulb"
+  parent: Electrical-How-To
+---
+  Having a lightbulb go dark is a minor annoyance that all homeowners are familiar with. But if that bulb shatters — either when it blows or when you try to remove it — things can get complicated and (potentially) dangerous quickly.
+
+**This May Also Interest You:** [**What Are Watts? Here’s How to Find Out What Watt Lightbulb You Need**](https://www.homeserve.com/en-us/blog/home-improvement/what-watt-light-bulb/)
+
+Here are a few ideas on how to get the old bulb out safely and the fixture working properly again.
+
+Things You'll Need
+------------------
+
+The exact items you'll need for this task depend on which method you decide to use, but here are all the possible tools (and one vegetable) that might be involved.
+
+*   Voltage tester
+*   Rubberized gloves
+*   Old sheet
+*   Paper bag
+*   Regular pliers
+*   Broken bulb extractor
+*   Needle-nosed pliers
+*   Potato (yes, a potato)
+*   Hot glue gun
+*   Small piece of lumber
+
+Getting Started
+---------------
+
+The two obvious risks with a project like this are getting cut by a piece of broken glass and electrocution. Neither are particularly pleasant, so you'll want to take steps to avoid both.
+
+To reduce your risk of getting cut by sharp shards of glass that might still be attached to the bulb's base, put on a pair of thick rubber gloves and use a pair of pliers to snap off any particularly jagged pieces. Have a paper bag nearby to put the shards in. Be sure to lay down a sheet on the ground if you'll be working overhead to catch any splinters that might break off.
+
+Now for the second risk. Turning off the switch that controls the light should be enough to kill the power and eliminate the chance of getting a shock. However, we recommend that you go a step further and flip the breaker that supplies power to the circuit feeding the fixture. Once you've done that, you can place the probe of your voltage tester to the bulb's base or an exposed filament to ensure that the power is, indeed, off.
+
+**More Related Articles:**
+
+*   [Lightbulb Moment! Here are 5 Ways to Remove a Broken Lightbulb](https://www.homeserve.com/en-us/blog/how-to/remove-broken-lightbulb/)
+*   [How to Replace an Oven Lightbulb](https://www.homeserve.com/en-us/blog/how-to/oven-light-bulb-replacement/)
+*   [Let’s Shed Some Light on the Situation: How to Change a Lightbulb](https://www.homeserve.com/en-us/blog/how-to/change-lightbublb/)
+*   [How to Install a Ceiling Light: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-ceiling-light/)
+*   [Recessed Lights or Ceiling Lights? Here’s How to Choose What’s Best for Your Space](https://www.homeserve.com/en-us/blog/home-improvement/recessed-lighting-vs-ceiling-lights/)
+
+Removal Methods
+---------------
+
+Once safety concerns are addressed, you can use one of these methods to free your broken bulb.
+
+### Broken Bulb Remover
+
+You might not have known that such a thing exists, but there is actually a tool designed for removing broken bulbs from their sockets. Broken bulb extractors come in a variety of styles. Some are simply [rods with rubberized ends](https://www.amazon.com/Bayco-LBC-800-Broken-Bulb-Changer/dp/B000GATBX6/ref=sr_1_2?crid=2YZTN4575NA6W&keywords=broken+bulb+extractor&qid=1660248741&sprefix=broken+bulb+extractor%2Caps%2C160&sr=8-2) that are inserted into the socket and twisted to screw out the bulb. [Others are more like pliers](https://www.amazon.com/Universal-Extractor-Installation-Removing-Miniature/dp/B09Z34XYNK/ref=sr_1_6?crid=2YZTN4575NA6W&keywords=broken+bulb+extractor&qid=1660249993&sprefix=broken+bulb+extractor%2Caps%2C160&sr=8-6) that are inserted and then opened to put pressure against the bulb's base so that it can be unscrewed. In either case, the process is the same – simply insert and turn counterclockwise, and your broken bulb should come right out.
+
+### Pliers
+
+Of course, unless you are an extremely well-prepared homeowner, chances are pretty good that you don't have a broken bulb extractor lying around in your toolbox. And, if you do, chances are good that these instructions are already redundant for you!
+
+So, in lieu of using this specialized tool, you can use a more common one: needle-nose pliers. Simply slide one slide of the pliers on the inside of the bulb's base and the other on the outside. Clamp together, rotate the base counterclockwise and you should be able to get the base out of the socket. If this proves difficult, try bending the sides of the bulb's base inwards and twisting again.
+
+### Potato
+
+If those methods don't work for you, it's time to enlist some help from the vegetable kingdom. The yielding, yet firm flesh of a potato can be perfect for grabbing a broken bulb base. Simply whittle the end of an uncooked potato until it more or less fits inside the bulb base, then insert it, turn clockwise and unscrew the base. Obviously, discard the potato when done.
+
+### Stick and Glue
+
+Finally, one more option for getting a broken bulb out involves a bit of arts and crafts ingenuity. For this method, you'll effectively make your own broken bulb extractor by putting a glob of hot glue on the end of a stick that's a little smaller than the base of the bulb. Once the glue dries, it will be rubbery, which should give you enough purchase on the bulb's base to rotate it out.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

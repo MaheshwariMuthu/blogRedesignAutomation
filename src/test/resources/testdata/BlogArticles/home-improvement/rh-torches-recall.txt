@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Fuel Leak Warning: RH Recalls Outdoor Torches Due to Fire Hazard"
+headline: "Fuel Leak Warning: RH Recalls Outdoor Torches Due to Fire Hazard"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-11-16
+basePath: https://library.homeserve.com/m/
+heroImage: 2e42792d5a93b85b/Blog-OutdoorTorchesRecall_RH.jpg
+heroAltDescription: "Gold metal hexagonal torch canister on a white background"
+metaDescriptions: "RH has recalled Lambeth floor and tabletop outdoor metal torches because torch fuel may leak from the top of the canister, which could ignite."
+articleAbstract: "RH has recalled several models of the Lambeth floor and tabletop outdoor metal torches due to a fire hazard. Torch fuel may leak from the top of the canister, which could ignite. RH is offering a full refund for this product. Here’s how to get yours. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "RH Recalls Outdoor Torches Due to Fire Hazard"
+  parent: Exterior-Home-Home-Improvement
+---
+  [RH](http://rh.com) has recalled several models of the Lambeth floor and tabletop outdoor metal torches due to a fire hazard. Torch fuel may leak from the top of the canister, which could ignite. RH is offering a full refund for this product. Here’s how to get yours.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the Nov. 12 [recall announcement](https://www.cpsc.gov/Recalls/2022/RH-Recalls-Outdoor-Torches-Due-to-Fire-Hazard-Recall-Alert) by the Consumer Product Safety Commission, RH has received seven reports of fuel leaks. No injuries have been reported.
+
+This recall affects several models of the Lambeth torches. To see if yours is included, check the stock-keeping unit, or SKU, and UPC numbers against [this list](https://rh.com/content/page.jsp?id=safety-recalls). The SKU is printed on a green sticker on the bottom of the canister. You can find both the SKU and UPC on the receipt.
+
+The torches were manufactured in China and sold at RH Galleries, RH Outlets and online at [RH.com](http://rh.com) between July 2020 and August 2021 for $50 to $600. About 1,200 units are involved in this recall. An additional 40 units were sold in Canada.
+
+The CPSC is warning consumers to stop using the recalled torches immediately. RH is providing full refunds of the purchase price, or a credit if the purchase price is unknown. To receive the refund, you need to return the torch lid. You’ll receive a prepaid label and packaging to send the torch lid to RH. When the Madera, Calif.-based company receives the lid, they’ll provide a refund or credit.
+
+RH is contacting all known purchasers directly. You can reach out to the company by calling 833-424-1125, emailing [recall@rh.com](mailto:recall@rh.com) or visiting the [website](https://rh.com/content/page.jsp?id=safety-recalls). RH is asking consumers to provide their name, address, phone number, email address and order number when contacting the company. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Carbon Monoxide Warning: Usines Giant Factories Recalls Water Heaters With Control Valves That Pose Risk of CO Release](https://www.homeserve.com/en-us/blog/home-improvement/usines-giant-factories-water-heater-recall/)
+*   [Tipping and Entrapment Hazard: Magnussen Home Recalls 13,200 Chests of Drawers](https://www.homeserve.com/en-us/blog/home-improvement/magnussen-chests-recall/)
+*   [Lacerations Reported in Recall of Liberty Hardware Glass Cabinet Knobs](https://www.homeserve.com/en-us/blog/home-improvement/glass-cabinet-knobs-recall/)
+*   [Hobby Lobby Issues Recall After Stools Break During Use, Posing Injury Risk](https://www.homeserve.com/en-us/blog/home-improvement/hobby-lobby-stool-recall/)
+*   [Fall Hazard: Kohl’s Recalls Antigravity Chairs After Reports of Injuries](https://www.homeserve.com/en-us/blog/home-improvement/kohls-antigravity-chair-recall/)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?start=10&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

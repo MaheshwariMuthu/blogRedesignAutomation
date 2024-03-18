@@ -1,0 +1,118 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Is a Tankless Water Heater Worth the Cost?"
+headline: "A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-03-04
+basePath: https://library.homeserve.com/m/
+heroImage: 79dc9d692f12fc40/original/TanklessWaterHeater_184876582.gif
+heroAltDescription: "changing the temperature on a tankless water heater"
+metaDescriptions: "Learn why you should go with a tankless water heater, and find out the pros, cons, costs and life expectancy of this type of water heater."
+articleAbstract: "Wondering whether a tankless water heater is worth the price? Learn all about the differences between tankless and traditional water storage, or tank-based, water heaters, here. We compare the costs and energy efficiency ratings of each option and include overviews of key factors to consider."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Is a Tankless Water Heater Worth the Cost?"
+  parent: HVAC-Home-Improvement
+---
+  The first electric, tankless-type water heater was created almost 100 years ago by Stiebel-Eltron, a German company. Despite the availability of another option, traditional water heaters with storage tanks have remained the most common system. However, tank-free designs have grown in popularity in recent years.
+
+**This May Also Interest You:** [**Here’s How Much It Will Cost to Replace a Water Heater**](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-replacement-cost/)
+
+If you are considering replacing your current water heater with a tankless model, your biggest concern is likely cost. Traditional tank water heaters cost $500 to $1,000 or more, while tankless water heaters cost $3,000 on average.
+
+Is the extra cost worth it? Read on to learn more about why these water heaters have become more common and some factors to think about before making your decision.
+
+Why Go With a Tankless Water Heater?
+------------------------------------
+
+  
+Tankless water heaters have networks of coils inside the casing that heat up water when you turn on the faucet or the shower. They burn gas or use electricity and use heat exchangers to convert energy into nearly instant hot water.  
+  
+Tankless water heaters do offer certain benefits compared to traditional models that rely on storing water in a reservoir. Tank-based systems require significantly more space than tankless designs. In addition to the space for the tank itself, typical building and construction codes mandate that water heaters have at least 12 inches of clearance on all sides. They need sufficient airflow, circulation and venting to operate safely and efficiently. On the other hand, tankless models often mount to the wall, which can open up more usable space.  
+  
+Traditional gas water heaters must be vented through the roof. Gas and electric tankless options can either be vented up and out, or the excess heat can be released through your home’s sidewalls. This flexibility can make it easier to retrofit some existing homes with a tankless gas model.
+
+Gas Vs. Electric Water Heaters: Which is Better?
+------------------------------------------------
+
+  
+Electric and hybrid water heaters are the most efficient options on the market today. These models have minimum efficiency ratings of 90%, and some hybrid models that leverage solar technologies can reach as high as 95% efficiency or more.  
+  
+In contrast, gas water heaters normally have an efficiency rating between 67% and 80%. However, because of the significantly lower cost of natural gas, these water heaters can be cheaper to operate compared to an electric version.  
+  
+If you use approximately 64 gallons of hot water per day, an electric water heater will cost about $285 per year, while a gas water heater will cost about $110 per year — depending on your energy costs.
+
+Choosing Between Condensing and Non-Condensing Types of Water Heaters
+---------------------------------------------------------------------
+
+  
+There are generally two types of gas or electric water heaters: non-condensing and condensing. Traditional water heaters are non-condensing, which means that after the gas is burned to heat the water, any excess heat is released outside of your home. These water heaters normally have a maximum efficiency rating of 80%.  
+  
+Many of the latest tank and tankless gas options are condensing water heaters. These products generally have either a second heat exchanger or additional heating coils that capture any excess heat as the gas is burned. These models lose less heat and can achieve energy efficiency ratings of 90% or more. Many condensing gas tankless options are ultra-efficient with ratings of 97% efficiency or higher.
+
+Should You Consider Point-of-Use Water Heaters?
+-----------------------------------------------
+
+  
+One of the biggest complaints about tank-based water heaters is that you may need to run water for a while before it warms up enough to do dishes or take a shower. This amount of time changes depending on how far away the faucet is from the water heater.  
+  
+Many manufacturers market their tankless solutions as providing nearly unlimited hot water on-demand. These models often supply hot water more quickly, but they do still need to heat the water as it comes into your home. One potential solution to this issue is a point-of-use (POU) tankless water heater.  
+  
+You can install these POU systems directly in the room where you need hot water. For example, you could mount a POU unit near your shower or directly under your kitchen sink.  
+  
+Each model has its own heating element that can rapidly heat water. That design, along with their proximity to the showerhead or faucet, means that top-end POU tankless models can rapidly generate hot water at nearly 100% efficiency. According to Energy.gov, having a POU water heater for each shower or faucet can shave up to 50% off your energy costs when compared to a whole-home water heater.  
+  
+However, there are some drawbacks to relying on point-of-use units rather than a centralized model for your home. First, point-of-use models typically must be smaller to fit under a sink or near a shower. As a result, a tankless POU’s capacity is typically limited to two to five gallons per minute. Also, there is no storage mechanism to cover extra demand.
+
+**More Related Articles:**
+
+*   [Water Heater Installation Costs: Tank Vs. Tankless](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-installation-cost/)
+*   [The Age-Old Question: Is My Water Heater Gas or Electric?](https://www.homeserve.com/en-us/blog/buying-guide/water-heater-gas-electric/)
+*   [How to Maintain a Hot Water Heater](https://www.homeserve.com/en-us/blog/home-improvement/hot-water-heater-maintanence/)
+*   [7 Tell-Tale Signs of a Water Heater Not Working](https://www.homeserve.com/en-us/blog/home-improvement/water-heater-warnings-signs/)
+*   [How to Drain a Water Heater the Right Way](https://www.homeserve.com/en-us/blog/how-to/drain-water-heater/)
+
+How to Find the Right Hot Water Heater Capacity
+-----------------------------------------------
+
+  
+Traditional water heaters typically include at least a 50-gallon tank to store hot water. However, larger homes will have tanks with 80- to 100-gallon capacity. The tank stores hot water so that it is ready when you need it. This extra capacity will ensure that you can run the dishwasher and the washing machine while someone else takes a shower.
+
+  
+In contrast, tankless water heaters have no storage mechanism. Most tankless models can heat between two and 12 gallons of water per minute. Determining the right capacity for your home will depend upon the number of showers, sinks and other fixtures that use hot water.
+
+You should consult with an HVAC expert to ensure your tankless system is sized correctly. To estimate, here’s how much hot water common fixtures and appliances need:
+
+*   Showerhead: 2 to 3 gallons per minute
+*   Washing machine: 2 to 2.5 gallons per minute
+*   Faucet: 1 to 2 gallons per minute
+
+Things to Know About Tankless Water Heater Costs
+------------------------------------------------
+
+  
+In addition to the price for the system itself, there are several additional costs associated with tankless water heaters. Specialized piping and connections may be required, which can add to the overall price. You will also need an expert HVAC technician to evaluate your property and to calculate the minimum flow rates based upon your number of bathrooms, sinks and expected water usage.  
+  
+Compared to tank-based water heaters, tankless versions have more complex connections, regulators and other key components. A professional should install each unit to ensure that it vents correctly and that there are no leaks in the system.  
+  
+Gas versions also typically need specialized three-quarter-inch piping to ensure that the water heater has enough natural gas supply to keep up with your home’s hot water needs. You may need permits to run these larger gas lines in your home.  
+  
+Electric water heaters typically need at least 120 amps to operate efficiently. Most homes only have 150 to 200 amps available. If you plan to install an electric tankless system, you may need to hire an electrician to install larger energy lines and a new electrical panel. This process could add $5,000 or more to the cost of your upgrade.
+
+Is It Worth It?
+---------------
+
+So, is a tankless water heater better than the conventional tank-based design? It really depends on how much you’re prepared to pay.
+
+Tankless models can be significantly more efficient than older models. If you install multiple POU units throughout your home, they can provide almost instantaneous hot water. Tankless systems also are rated for up to 20 years of continuous use, which is double the expected useful life of a tank-based water heater.  
+  
+However, the upfront cost to install a tankless model is usually three to five times higher than a standard water heater — and that’s if you don’t need to run special gas lines or increase the electrical power available in your home to accommodate the most efficient tankless choices.
+
+_Tankless designs are often more complex and have more connections, regulators and parts than water-storage solutions. Being prepared for unexpected repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available where you live._<br><iframe width="520" height="281" src="https://www.youtube.com/embed/LfJL3ADHwTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

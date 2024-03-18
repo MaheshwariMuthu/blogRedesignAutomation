@@ -1,0 +1,126 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Wire a Three-Way Light Switch to Multiple Lights"
+headline: "How to Wire a Three-Way Light Switch With Multiple Lights"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2022-01-16
+basePath: https://library.homeserve.com/m/
+heroImage: 5f05d6c82e2c8bac/Blog-GettyImages-1219669706.jpg
+heroAltDescription: "Electrician working in home installing dimmer switched in wall"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Control multiple lights from two locations. Here's how to wire a three-way light switch with multiple lights."
+articleAbstract: "Wiring a three-way switch is a bit more complicated than wiring a single-pole switch. If you’re up to the challenge — and want greater control over your lights — here's how to wire a three-way light switch."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Wire a Three-Way Light Switch With Multiple Lights"
+  parent: Electrical-How-To
+---
+  **Wiring a Three-Way Light Switch at a Glance**
+
+* **Tools & Materials:** Three-way light switches, light switch boxes, light fixture junction boxes, 14-3 or 12-3 electrical cable, 14-2 or 12-2 electrical cable, wire nuts, ground wire nuts, wire strippers, utility knife, screwdriver, electric drill, spade bit, voltage tester
+* **Step 1:** Turn off power
+* **Step 2:** Install boxes and run cables
+* **Step 3:** Wire first switch
+* **Step 4:** Wire second switch
+* **Step 5:** Wire lights
+
+Most household light switches are of the “single-pole” variety that only allow you to operate your lights from a single location. In contrast, three-way light switches grant you the ability to control your lights from two separate, but connected, switches. These switches are ideal in a number of situations, such as the top and bottom of stairways, on either end of a hallway, or two sides of a large room.
+
+**This May Also Interest You:** [**Why Are My Lights Flickering (And How Do I Get Them to Stop)?**](https://www.homeserve.com/en-us/blog/home-improvement/flickering-lights/)
+
+However, wiring a three-way switch is a bit more complicated than wiring a single-pole switch and requires a higher level of skill and expertise. If you’re up to the challenge — and want greater control over your lights — discover how to wire a three-way light switch in five steps.
+
+Components of a Three-Way Light Switch
+--------------------------------------
+
+### 14-3 and 14-2 Electrical Cables
+
+14-3 cable contains three 14-gauge primary wires: a black (hot) wire, a red (hot) wire and a white (neutral) wire, along with an additional bare (ground) wire. 14-2 cable contains two 14-gauge primary wires: a black wire, a white wire and an additional ground wire.
+
+Each three-way light switch box will have a 14-3 and 14-2 cable running into it. The power supply cable going into the first box and the light fixture cable coming from the second box will be 14-2 cable. The cable running between the switches will be 14-3 cable, with the black and white wires acting as “traveler wires” that allow the two switches to communicate with each other.
+
+Note that 14-gauge cable is compatible with 15-amp circuits, which are the most common. 12-gauge cable (12-3 and 12-2 cable with 12-gauge wires) should be used on 20-amp circuits.
+
+### Black Terminal Screw
+
+Each three-way light switch will have one black screw, called the “common terminal,” which is used for connecting the black, hot wire from the 14-2 cable.
+
+### Brass Terminal Screw
+
+Each three-way switch will have two brass terminal screws, called the “traveler terminals,” that the red and black traveler wires from the 14-3 cable will connect to.
+
+### Green Terminal Screw
+
+Each switch will have one green terminal screw, called the “ground screw,” that the ground wires connect to.
+
+Tools & Materials
+-----------------
+
+*   Two three-way light switches
+*   One or two light switch boxes
+*   Light fixture junction boxes
+*   14-3 or 12-3 electrical cable
+*   14-2 or 12-2 electrical cable
+*   Wire nuts
+*   Ground wire nuts
+*   Wire strippers
+*   Utility knife or diagonal cutting pliers
+*   Screwdriver
+*   Electric drill with hole saw or spade bit (optional)
+*   Non-contact voltage tester (optional)
+
+How to Wire a Three-Way Light Switch
+------------------------------------
+
+### Step 1: Turn Off the Power
+
+Before working on any electrical wiring, it’s important to shut off the breaker that controls the circuit you’ll be working on. The appropriate circuit should be labeled inside your home’s main electrical panel, but you can locate the correct circuit by progressively turning off breakers until the electricity is shut off at that circuit. You can confirm that the power is off by touching a non-contact voltage tester to any electrical outlets or exposed wiring on the circuit.
+
+### Step 2: Install Switch Boxes and Run Cables
+
+Before installing your three-way light switch, you may need to install switch boxes and light fixture junction boxes if they’re not already present. Switch boxes connect the switch to the wall and house their wiring, and light fixture junction boxes connect the lights to the ceiling and house their wiring. Then, electrical cable needs to be run between the two switch boxes and the light fixtures.
+
+If you have an existing single-pole switch that you’ll be replacing with a three-way switch, you can usually use the existing switch box after removing the old switch. However, you may need to upgrade to a larger box if the current one doesn’t have enough space to accommodate the extra wiring from the additional cable. In any case, you will likely need to install a second switch box for your second three-way light switch. Finally, junction boxes need to be installed in the ceiling for your lights.
+
+Assuming you’re not using an existing box that already has the supply wire, feed about 6 inches of 14-2 supply wire into one box, along with 6 inches of 14-3 cable on the opposite end of where the 14-2 supply cable is inserted.
+
+Run the 14-3 cable inserted into the first box over to the second light switch box. This will likely involve drilling through the wall framing using a power drill equipped with the appropriately sized spade bit or hole saw. Feed about 6 inches of the 14-3 cable into the bottom of the second switch box. Then, feed a length of 14-2 cable into the top of the box for the fixtures.
+
+Strip back the cable’s insulation to expose the individual wires. There are multiple ways to do this, including slicing down the middle of the cable with a utility knife, or snipping the end of the cable with diagonal cutting pliers and peeling back the insulation. Once the wires are exposed, use wire strippers to strip about 1/2 inch of insulation from each wire.
+
+**Note:** All of these steps are easier to perform on “rough framing,” or walls and ceilings without drywall or insulation. If you’re working with drywall, you will need to cut it open, which can make the job much more challenging and time-consuming.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install Light Switch Dimmers?](https://www.homeserve.com/en-us/blog/cost-guide/dimmer-light-switch-installation/)
+*   [How to Fix Electrical Cords and Charging Cables](https://www.homeserve.com/en-us/blog/how-to/fix-electrical-cords/)
+*   [How to Install a Ceiling Light: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-ceiling-light/)
+*   [How Much Does It Cost to Install Different Types of Decorative Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/installing-decorative-light-fixture/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+### Step 3: Wire the First Switch
+
+With your wires prepared and your three-way switch in hand, wire the first switch as follows:
+
+* **White wires:** Connect the two white, neutral wires coming from the 14-3 and 14-2 cables together with a wire nut. The neutral wires won’t be used on the switch, but they should be left in the box in case you want to replace the switch with an electrical component requiring a neutral connection in the future.
+* **Bare wires:** Use a pair of pliers to twist the two bare, ground wires together. When doing so, twist the end of one of the ground wires a few inches back from the second wire to keep the end of that wire straight. Slide a ground wire nut — they’re green in color with a hole in the tip — over the straight strand of ground wire until it meets the twisted portion of wires. Then, screw the wire nut down tightly. Wrap the end of the ground wire around the switch’s green terminal screw and tighten it down with a screwdriver until it’s snug.
+* **Black wires:** Wrap the black wire coming from the 14-2 power supply cable around the black common terminal on the switch, and tighten down firmly. Then, wrap the black wire coming from the 14-3 traveler cable onto one of the brass terminals on the switch, and tighten down.
+* **Red wire:** Wrap the red wire coming from the 14-3 traveler cable around the second brass terminal on the switch, and tighten down.
+
+Press the wires into the switch box. Use a screwdriver to connect the switch to the box with the screws on the top and bottom of the switch.
+
+### Step 4: Wire the Second Switch
+
+Wiring the second three-way switch is essentially the same as wiring the first switch. The main difference is that you connect the black wire from the 14-2 cable for the light fixtures to the black, common terminal screw on the switch. All the other wires should be wired the same as the first switch, with the white wires connected together, the ground wires connected to the green terminal screw, and the red and black wires from the 14-3 cable connected to the brass terminal screws.
+
+Press the wires into the switch box, and use a screwdriver to connect the switch to the box with the screws on the top and bottom of the switch.
+
+### Step 5: Wire the Lights
+
+Run the 14-2 cable coming from the second three-way switch into the first light fixture, and strip back the insulation on the cable and individual wires. Then, insert a second length of cable into the fixture that will go to the next fixture in the series, and strip back its insulation. Use wire nuts to connect all three black wires (one coming from the fixture and two coming from each cable). Also, connect the white wires together and the ground wires together.
+
+Repeat these steps until you reach the last fixture, where you will only have to insert the single cable coming from the previous fixture. The wires will be connected as before, except there will only be a single cable wire connected to the corresponding wire on the fixture.
+
+Turn the circuit breaker back on and test the functionality of the switches and lights.

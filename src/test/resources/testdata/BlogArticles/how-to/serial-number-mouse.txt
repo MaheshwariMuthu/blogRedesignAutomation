@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Find the Serial Number on Your Computer Mouse"
+headline: "How to Find the Serial Number on Your Computer Mouse"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-01-15
+basePath: https://library.homeserve.com/m/
+heroImage: 16cb35563fa68921/Blog-IMG_3924.jpg
+heroAltDescription: "White Apple brand mouse on a desk"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Your computer mouse has a serial number, which you'll need to know if yours is stolen or your need to file a third-party warranty claim. Here's how to find it."
+articleAbstract: "Your computer mouse has a serial number, which you'll need to know if yours is stolen or your need to file a third-party warranty claim. Here's how to find it."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Find the Serial Number on Your Computer Mouse"
+  parent: Appliances-How-To
+---
+  
+
+Most devices — including simpler components such as a computer mouse — come with serial numbers. This identifying alphanumeric number can be important to know for warranty or repair purposes.
+
+**This May Also Interest You:** [**How to Find the Serial Number on Your Appliances and Gadgets**](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+Find out more about how to find the serial number for your computer mouse, plus why it’s important to know the serial number for your computer and all its peripherals.
+
+What Is a Computer Mouse Serial Number?
+---------------------------------------
+
+A computer mouse is a serial number that uniquely identifies a specific computer mouse. Serial numbers are unlike model numbers, which identify a type of mouse product.
+
+For example, Logitech's MX Anywhere 2S wireless laser mouse in black has a model number of 910-005748, but the MX Master 3S wireless laser mouse with ultrafast scrolling in black from the same brand has a model number of 910-006556.
+
+But not all Logitech model 910-006556 mouse products have the same serial number; they each have their own serial number so that consumers, retailers and manufacturers can differentiate between each individual unit.
+
+Why Should You Know the Serial Number of Your Computer Mouse?
+-------------------------------------------------------------
+
+There are many reasons you might want to know the serial number of your tech products. For more expensive items, you may need the serial numbers to make insurance claims or more effectively report them stolen. Many people wouldn't worry about this with a standard computer mouse that costs $20 to $30, but gaming and specialty models can be a bigger investment — costing $100 or more.
+
+The serial number can also be important when you want to send a device to the manufacturer to make a warranty claim. The manufacturer may require that you register the serial number ahead of time so that you can take advantage of this perk when needed. Manufacturers also use the serial number to determine:
+
+*   Whether the computer mouse is an authentic part
+*   Whether there have been repairs to the device in the past
+*   Where and when the device was manufactured
+
+You may also need the serial number to know if your mouse is part of any recalls or manufacturer warning notices.
+
+<img class="detail-image" src="https://library.homeserve.com/m/4e6e01a0af8ce791/Blog-IMG_3926.jpg" alt="Underside of an apple mouse, with an arrow pointing to a blurred-out serial number"/>
+
+How Do You Find the Serial Number on Your Computer Mouse?
+---------------------------------------------------------
+
+Locating the serial number on a computer mouse is easy. You can simply flip over the mouse and look for a small sticker or imprinted label. This is true when you're looking at almost any make and model of computer mouse.
+
+Once you locate the label, look for a number preceded by words such as "Serial Number" or "Serial No." You might also find the serial number listed as "S/N" or "Serial #" or any such combination.
+
+On [Apple wireless mice](https://support.apple.com/en-us/HT201806), look for a string of 17 letters and numbers on the underside of the device.
+
+If the label has worn off or been removed from your computer mouse, you may be able to find the serial number on the packaging or documentation that the mouse came with. In fact, when you first open any type of computer equipment, including a mouse, it's a good idea to locate the serial number and write it on any manual or paperwork that came with it. Then, you can file that information away for safekeeping.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/qpoqCRPHjqE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Find Your iPhone or Android Smartphone Serial Number"></iframe>

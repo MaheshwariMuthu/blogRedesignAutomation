@@ -1,0 +1,95 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Give Your Heating System a Checkup Before Winter Arrives"
+headline: "Give Your Heating System a Checkup Before Winter Arrives. Here's How"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-10-05
+basePath: https://library.homeserve.com/m/
+heroImage: 787699f91f8f7566/Blog-HOMESERVEUSA-PSEG-2019ModernFotographicbyDaveNoonan-121.jpg
+heroAltDescription: "pseg technician working on hvac unit"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A heating system checkup before winter helps ensure your HVAC system is ready for cold weather."
+articleAbstract: "A heating system checkup before winter helps ensure your HVAC system is ready for cold weather so you won't need to scramble for repairs during a snowstorm or deep freeze."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Give Your Heating System a Checkup Before Winter Arrives"
+  parent: HVAC-Home-Improvement
+---
+  Curling up inside during a snowstorm is warm and cozy, but having your furnace go out during a blizzard or cold spell could be a frigid nightmare.
+
+**This May Also Interest You:** [**How Much Does HVAC Repair and Maintenance Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+
+A heating system checkup before winter helps ensure your HVAC system is ready for cold weather so you won't need to scramble for repairs during a snowstorm or deep freeze.
+
+How Do You Know Your Furnace Is Ready for Winter?
+-------------------------------------------------
+
+If you didn't have any problems with your heating system during the last cold season, you might assume it's ready to be turned back on at any time. However, this isn't always true. Leaks and aging parts can worsen even while the furnace isn't running. Furnaces also require regular maintenance and filter changes to keep the air in your home warm and clean.
+
+Briefly turning on the furnace may let you know whether there are any substantial issues. Unfortunately, furnace problems aren't always apparent. Performing routine maintenance is one step toward ensuring your furnace is ready for winter. However, getting an HVAC professional to perform a furnace checkup is also a good idea. A professional can thoroughly clean and inspect your HVAC system and advise you about any problems.
+
+### What Maintenance Should Be Done to Prepare Your Furnace for Winter?
+
+At a minimum, there are some tasks you should complete each year before turning your furnace on for the winter:
+
+*   Change the air filters
+*   Move anything, especially flammable items, that may have been left near the furnace during the summer
+*   Ensure that your home has working carbon monoxide detectors
+*   Move clutter away from vents and air returns
+*   Make sure the pilot light is ignited
+
+These steps will help ensure that the furnace can safely and efficiently heat your home.
+
+You may also want to hire a professional to perform an HVAC tune-up. A tune-up may involve checking the furnace for parts that may be near breaking and any leaks that could release dangerous carbon monoxide into your home. You can also hire a professional to clean out your home's furnace and air ducts. A cleaning helps your furnace run efficiently and reduces the dust and allergens blown into your home.
+
+How Do You Know Your Boiler Is Ready for Winter?
+------------------------------------------------
+
+You'll need to turn the boiler on briefly to assess how well it's working. Doing this before you're ready to have the boiler on for the winter can be a good idea. It can be difficult to find an available technician once the weather is cold.
+
+### What Maintenance Is Required to Prepare a Boiler for Winter?
+
+Like all heating systems, a boiler needs clear space, especially around the air intake. Clear away any clutter before starting the boiler, and make sure that no flammable items are stored nearby. Check that all necessary carbon monoxide detectors in the building are working.
+
+Test the boiler to ensure it's heating the building, even if it's not yet time to leave it running for the season. A test run is often the best way to determine if significant maintenance is needed.
+
+You should also:
+
+*   Replace disposable filters and clean electrostatic ones
+*   Inspect the piping and valves to your fuel source and check for leaks
+*   Inspect the burner for cracks or damage
+*   Check the pressure gauge and perform maintenance if the pressure is high or low
+*   Make sure that your radiators are working and free from blockages
+
+If you aren't comfortable doing these steps or find problems, consider calling a professional.
+
+**More Related Articles:**
+
+*   [Can I Lease an HVAC Unit?](https://www.homeserve.com/en-us/blog/home-improvement/hvac-leasing/)
+*   [HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+*   [How Your Home’s HVAC Systems Work](https://www.homeserve.com/en-us/blog/home-improvement/home-hvac-system/)
+*   [HVAC Terms Every Homeowner Should Know](https://www.homeserve.com/en-us/blog/buying-guide/hvac/)
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+
+How Do You Know Your Heat Pump Is Ready for Winter?
+---------------------------------------------------
+
+You'll want to perform inspections and maintenance to know that your heat pump system is ready for winter. Once you've done this, you can set your thermostat to heat mode and confirm everything is working.
+
+### What Maintenance Is Required to Prepare Your Heat Pump for Winter?
+
+Some preparation for winter is easy to do on your own:
+
+*   Remove any branches, yard debris or tools near the heat pump
+*   Change the air filter
+*   Set the thermostat to heat mode
+*   Make a plan for keeping snow and ice cleared from the pump during the winter
+
+Heat pumps require sufficient airflow to work well, so you'll want to ensure that dirt and debris aren't causing problems. You can also get a professional tune-up to ensure the pump is cleaned well and that you haven't missed any issues.
+
+Get a Professional Checkup Before Winter
+----------------------------------------
+
+Proper repairs and maintenance will keep your heating system running efficiently and prevent hazards in your home or building, but DIY is no substitute for a tune-up by an HVAC technician. HVAC professionals often get busy once cold weather hits, and you may face a long wait to fix a problem. Having maintenance completed early can keep you warm and problem-free all winter.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

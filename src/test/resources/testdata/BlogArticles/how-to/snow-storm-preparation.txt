@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Prepare for a Snowstorm"
+headline: "How to Prepare for a Snowstorm"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-11-06
+basePath: https://library.homeserve.com/m/
+heroImage: 39024fb51bc7ac37/Blog-IMG_9280-1.jpg
+heroAltDescription: "Snow storm Uri"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "With the right preparations and a well-thought-out collection of supplies, you can come through the next major winter storm just fine. Here's how."
+articleAbstract: "With the right preparations and a well-thought-out collection of supplies, you can come through the next major winter storm just fine. Here's how."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Prepare for a Snowstorm"
+  parent: Exterior-Home-How-To
+---
+  Snowstorms can be delightful. You can get all cozy in your home under a blanket, watch your favorite movie and down mugs of hot chocolate while the world gets put on pause for a little while.
+
+**This May Also Interest You:** [**Give Your Heating System a Checkup Before Winter Arrives. Here’s How**](https://www.homeserve.com/en-us/blog/home-improvement/heating-system-checkup/)
+
+Snowstorms can also be incredibly anxiety-inducing as you rush around to make sure you and your home are prepared for the worst of winter weather. The following tips should make winter blizzards a little more bearable and let you focus more on snuggles than stress.
+
+Prepare the Outside of Your Home
+--------------------------------
+
+As the temperatures drop and autumn starts to give way to winter, there are certain home maintenance tasks that you should take care of before the first threat of a blizzard appears.
+
+For starters, you'll want to make sure that your [gutters are cleaned](https://www.homeserve.com/en-us/blog/how-to/gutter-cleaning/). Autumn leaves can collect in your gutters, and when it rains, snows or temperatures drop below freezing, major complications can ensue. Perhaps most damaging of all are [ice dams](https://www.homeserve.com/blog/2018/january/ice-dam-risks-to-your-home) that can stop water from moving away from your home and instead route it into your attic, where the water damage can be mighty. Clean gutters can go a long way in keeping ice dams at bay.
+
+You'll also want to make sure that your walkways are clear of leaves and other debris. Ice is slippery enough; you don't want to make it worse by adding slick leaves to the mix.
+
+Check to make sure that there aren't any limbs or branches from trees and shrubbery that can freeze, snap off and land on your roof or smash into the sides of your home. If there are, give them a [good trimming](https://www.homeserve.com/en-us/blog/home-improvement/tree-trimming-cost/) before the first snowstorm.
+
+Put away any items that can become airborne in high winds, like [patio furniture](https://www.homeserve.com/en-us/blog/how-to/winterize-patio-furniture/), flower pots, small tools or anything else that can fly around and potentially cause damage to your home.
+
+Finally, be sure your [hose bibbs](https://www.homeserve.com/en-us/blog/how-to/frozen-pipes/) are covered so that cold air can't seep inside and freeze your pipes.
+
+Have the Right Outdoor Tools on Hand
+------------------------------------
+
+Not only do you want to prepare your property before a winter storm hits, but you'll also want to be sure you have what you need to handle the ice and snow it leaves in its wake. To that end, be sure you have a good supply of rock salt, sturdy work gloves, a strong shovel and an ice chipper on hand. You likely also want to be able to use your vehicles as soon as possible after getting snowed in, so be sure you have a good ice scraper or brush on hand to clean your car windshields.
+
+Having these items indoors or on a covered porch will save you the hassle of having to trudge out in the snow to get them from a shed or elsewhere on the property after the storm hits. If you have a snowblower, be sure to have it located at the front of your shed or garage for easy access once the storm passes.
+
+**More Related Articles:**
+
+*   [Bundle Up: How to Prepare Your HVAC System for Winter](https://www.homeserve.com/en-us/blog/home-improvement/prepare-hvac-system-winter/)
+*   [How to Remove Snow From Solar Panels](https://www.homeserve.com/en-us/blog/how-to/snow-solar-panels/)
+*   [6 Steps to Winterize Your Sump Pump](https://www.homeserve.com/en-us/blog/how-to/winterize-sump-pump/)
+*   [Winter Gutter Maintenance Checklist](https://www.homeserve.com/en-us/blog/how-to/winter-gutter-maintenance/)
+*   [Space Heater Safety Guide: 8 Tips to Avoid Fires and Burns](https://www.homeserve.com/en-us/blog/home-improvement/space-heater-safety/)
+
+Look After Your Heating and Power Needs
+---------------------------------------
+
+Aside from structural damage to your home, one of the most serious risks of a major winter storm is a loss of power. Ice can build up on power lines and cause them to become larger in size and more prone to becoming loose in high winds. Disconnected lines can touch and cause shorts leading to major outages.
+
+You might think that an alternative heating source is only necessary if you live in a home with electric heat. The truth is that even gas furnaces have electronic ignitions and will fail to operate when the power goes out. So no matter how your home is heated, it can be a good idea to have an alternative heating source around. The most popular option is a propane heater, but it's essential that the model you choose is rated for indoor use. It should also come with an oxygen sensor and carbon monoxide detector that will shut the unit off if it detects an issue with gas fumes filling the room. Of course, if you do decide to go this route, make sure you have enough propane on hand to be able to use the unit at least through a few overnights.
+
+A loss of power also affects nearly everything we use as modern humans, so having plentiful battery backups for things like flashlights and lanterns (which you should also have on hand) is a wise idea. For keeping rechargeable items like cell phones and tablets juiced up, consider having portable battery chargers on hand and ensure that they are fully charged themselves before the bad weather comes. You can also consider getting a solar generator; most can be juiced up via a wall outlet instead of with the sun before the power goes out and can provide enough energy to operate laptops, use lamps and recharge mobile devices many times over.
+
+Other Items
+-----------
+
+There are other items to stock up on before a winter storm hits, and the website [Ready.gov](https://www.ready.gov/kit) from the Department of Homeland Security has an excellent list of these. Paramount is, of course, food and water. Ready.gov suggests having at least one gallon of water per person per day on hand for drinking and sanitation, as well as a multi-day supply of non-perishable food that doesn't need to be heated or cooked, such as canned vegetables, winter fruits, jerky and cereal. You could also consider filling your bathtubs with water and having a few buckets on hand to use for flushing toilets.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

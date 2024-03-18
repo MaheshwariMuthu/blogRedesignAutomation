@@ -1,0 +1,96 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Ceiling Fan Direction in the Winter and Summer
+headline: As the Seasons Change, So Should the Direction of Your Ceiling Fan
+author: Team HomeServe
+tags: ['post', 'HVAC']
+publishDate: 2020-12-01
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: spinning-fan.gif
+heroAltDescription: Brown hunter ceiling fan mounted to ceiling
+metaDescriptions: Knowing the direction your fan should be turning can actually help you save money on your energy bills. Learn which way to run your fan and how that varies by season.
+articleAbstract: Believe it or not, the direction your fan is turning plays a big role in determining how much you spend on your utility bills. Learn why it’s important to change the direction, which direction it should spin during the summer and winter months, and how you can change the direction of your fan.
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local HVAC contractor.
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/hvac/hs/expert
+  large:
+      image: /en-us/assets/images/blog/hvac_elocal_banner1.jpg
+      alt: HVAC eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/hvac_elocal_banner2.jpg
+      alt: HVAC eLocal Banner 2
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Ceiling Fan Direction in the Winter and Summer
+  parent: HVAC-Home-Improvement
+---
+
+:::: blog-info
+Believe it or not, knowing the direction your ceiling fan should turn can help save you money on your utility bills. Were you even aware that you could change the direction of your ceiling fan? If you&#39;re like most homeowners ... probably not. (It&#39;s OK, we&#39;re not judging.)
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**How to install a ceiling fan**](https://www.homeserve.com/blog/2018/june/how-to-install-a-ceiling-fan)
+
+Changing the direction of your fan is easy, and it can help save energy while keeping your home comfortable. Read on to learn why it&#39;s important to change your ceiling fan&#39;s direction, which way it should spin during the summer and winter months, and how you can change the direction of your fan.
+::::
+
+## Why It Matters Which Way Your Ceiling Fan Turns
+
+Most homeowners — especially new homeowners — are completely unaware that the direction their ceiling fan turns will have a huge impact on the temperature in the home. Strategically changing the direction of the fan is also a great way to save money on cooling and heating costs. That&#39;s because the direction the fan is turning will dictate how the air is distributed throughout the room.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+So, if you&#39;ve ever wondered why your ceiling fan isn&#39;t doing a good job of keeping your room cool, it could be because it&#39;s turning the wrong way. Luckily, it should be quite easy to change the direction of your home&#39;s fan.
+
+<img class="detail-image" src="/en-us/assets/images/blog/home-improvement/ceiling-fan-switch.jpg" alt="close up photo of a directional switch on a ceiling fan"/>
+
+## Which Way Should My Ceiling Fan Turn in the Summer?
+
+During the summer, you might pay hundreds of dollars per month to keep your home cool — especially in warmer climates. In order to maximize the efficiency of your fan, you need to make sure it&#39;s rotating counterclockwise during the summer, enabling the fan to push cool air down to the floor.
+
+The cool air then evaporates perspiration and creates a wind-chill effect, which makes you feel up to 8 degrees cooler without actually changing the room&#39;s temperature. That allows you to ease off the air conditioning without forfeiting comfort — saving as much as an estimated 40% on AC costs. Moreover, an outdoor fan on your patio or porch will allow you to comfortably spend more time outside.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+You can tell if your ceiling fan is spinning counterclockwise by watching the way the blades rotate. They should move from the top left, then down to the right, and then back up to the top. You should also feel air movement while standing under the fan. If you don&#39;t, your fan is spinning clockwise.
+
+## Which Way Should My Ceiling Fan Turn in the Winter?
+
+Just like in the summer months, you pay more to keep your home comfortable during the winter months. While your fan should spin counterclockwise during the summer months, it needs to spin clockwise during the winter months.
+
+Fans should also spin at a low speed so they can pull cool air upward. The gentle updraft pushes warm air, which naturally rises to the ceiling, down along the walls, and back to the floor. That makes a room feel warmer, which allows you to lower the thermostat and reduce the use of heating devices — saving you up to 15% per month and cutting down on clutter if you use space heaters or heating blankets.
+
+You can also tell whether or not your fan is spinning clockwise by watching the way the blades turn when you stand underneath the fan. When spinning clockwise, the blades will move like a clock&#39;s hand: from the top to the right, then down to the left.
+
+Remember: Keep your fan spinning at a low speed so it pulls all the cool air upward. It&#39;s also important to note that, if your ceiling fan is mounted on a two-story cathedral or vaulted ceiling, it should stay in a counterclockwise setting year-round; that&#39;s because the fan is too high to create a discernible wind-chill effect.
+
+## How to Adjust the Direction of Your Fan
+
+Adjusting the direction of your fan should be easy, as most modern ceiling fans include remote controls or wall controls that adjust the direction in which the fan blades rotate. So, all you need to do is press the forward button to set your ceiling fan to spin counterclockwise during the summer months, and press the reverse button to set your fan to spin clockwise for the fall and winter months. You should also be adjusting your thermostat in order to realize the savings on your monthly energy bill.
+
+If you have an older fan, or for some reason your fan doesn&#39;t include wall controls or a remote device, you should look for a toggle switch on the motor housing just below the blades. For vertical switches, flip the switch down for summer direction (downward airflow) or flip the switch up for winter direction (upward airflow). For horizontal switches, flip the switch to the left for summer direction or to the right for winter direction.
+
+## Protect Your AC Unit
+
+Changing the direction your fan blades spin can help you save money on your monthly utility bill. It can also help take a load off your air-conditioner unit. The more your unit works, the more likely it is to sustain damage and regular wear-and-tear, leading to costly repairs down the line.
+
+_Being prepared with a plan from HomeServe is a convenient way to prevent expensive repairs. When a covered issue arises, simply call the 24/7 repair hotline and a local contractor will be sent to your home. See what plans from HomeServe are available in your neighborhood._
+
+<img class="detail-image" src="/en-us/assets/images/blog/home-improvement/ceiling-fan-mounted.jpg" alt="looping video of a spinning ceiling fan"/>
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

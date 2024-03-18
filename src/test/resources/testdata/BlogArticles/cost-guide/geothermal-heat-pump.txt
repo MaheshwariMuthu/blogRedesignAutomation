@@ -1,0 +1,73 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install a Geothermal Heat Pump?"
+headline: "How Much Does It Cost to Install a Geothermal Heat Pump?"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2023-11-30
+basePath: https://library.homeserve.com/m/
+heroImage: dd18887df9bcf57/Blog-GettyImages-184621764.jpg
+heroAltDescription: "Geothermal Pipe Coils at the bottom of a Trench"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Installing a geothermal heat pump could be a smart move if you wince every time you open your heating and cooling bills."
+articleAbstract: "Installing a geothermal heat pump could be a smart move if you wince every time you open your heating and cooling bills. Here's what to know about upfront costs."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install a Geothermal Heat Pump?"
+  parent: HVAC-Cost-Guide
+---
+  Installing a geothermal heat pump could be a smart move if you wince every time you open your heating and cooling bills.
+
+**This May Also Interest You:** [**What’s the Difference Between a Furnace and a Heat Pump?**](https://www.homeserve.com/en-us/blog/home-improvement/furnace-heat-pump-differences/)
+
+According to the Environmental Protection Agency, switching to geothermal heating and cooling could reduce your energy consumption by up to 72% compared to a traditional HVAC system. Let's explore how much a geothermal heat pump costs to install.
+
+How Much Does It Cost to Install Geothermal Heating and Cooling in an Existing Home?
+------------------------------------------------------------------------------------
+
+According to [HomeGuide](https://homeguide.com/costs/geothermal-heat-pump-cost), installing a geothermal heat pump costs $25,000 (CAD 34,206) on average. Most homeowners spend between $15,000 and $35,000 (CAD 20,524), but you could spend as much as $50,000 (CAD 68,413) on a larger system. Meanwhile, smaller systems start from around $10,000 (CAD 13,628).
+
+Remember that many geothermal heat pump systems qualify for a 30% [federal tax credit](https://www.energystar.gov/about/federal_tax_credits/geothermal_heat_pumps) until 2033. You'll need to install an ENERGY-STAR-certified heat pump to take advantage of this incentive. Claiming the federal tax credit could reduce your installation costs to around $10,500 to $24,500 (CAD 14,367 to CAD 33,522).
+
+How Much Does It Cost to Install a Geothermal Heat Pump in a New Home?
+----------------------------------------------------------------------
+
+Installing a geothermal heat pump costs significantly less in a new home because you won't need to remove your existing HVAC system or change your ductwork, wiring or other system components. Generally, homeowners pay 20% to 40% less to install geothermal heating and cooling in a new build, reducing costs to around $9,000 to $28,000 (CAD 12,314 to CAD 38,311).
+
+What Factors Affect How Much a Geothermal Heat Pump Costs?
+----------------------------------------------------------
+
+Understanding what factors impact the cost of a geothermal heating system can help you choose the best option for your budget.
+
+### System Type
+
+There are various types of geothermal heat pumps to suit different property layouts. All geothermal heat pumps include loops containing a heat transfer fluid, allowing them to absorb heat from the soil or a body of water.
+
+Most homeowners installing geothermal heating and cooling in existing homes choose a vertical system. Installation involves drilling vertically into the soil adjacent to your home. Therefore, the loops have a smaller footprint, reducing disturbance to your yard and making the system suitable for homes with less outdoor space. Installing a vertical geothermal heat pump usually costs between $20,000 and $38,000 (CAD 27,365 and CAD 51,994).
+
+Horizontal geothermal heat pumps have loops in horizontal trenches. These systems are often more affordable at $15,000 to $34,000 (CAD 20,524 to CAD 46,521). However, you'll need at least 0.25 acres of land to accommodate your system. Installing a horizontal geothermal heat pump requires excavation, so they're more common in new builds.
+
+Pond closed-loop systems transfer heat from a nearby body of water to your home. Therefore, you can't install this system type without a suitable pond or lake. Expect to spend around $10,000 to $32,000 (CAD 13,683 to CAD 43,784) on a pond closed-loop system.
+
+Open-loop systems are the cheapest to install at an average of $10,000 to $28,000 (CAD 13,683 to CAD 38,311). These systems use water from a nearby source as a heat exchange fluid, pumping it back into a well or pond. However, they're more expensive to maintain, and your local jurisdiction may charge up to $10,000 (CAD 13,368) per year for a permit to pump into a body of water.
+
+**More Related Articles:**
+
+*   [What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+*   [How Much Does It Cost to Install or Replace an Air Handler?](https://www.homeserve.com/en-us/blog/cost-guide/air-handler/)
+*   [HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+
+### System Size
+
+The size of your geothermal heat pump system can also impact the cost. Generally, you should expect to pay between $4,000 and $8,000 (CAD 5,473 to CAD 10,946) per ton of geothermal heating and cooling capacity. Your geothermal installer can advise you on the most suitable system size for your heating and cooling needs.
+
+### Packaged Geothermal Heat Pump Vs. Split System
+
+Packaged geothermal heat pumps feature a single unit containing all the components needed to heat and cool your home. Meanwhile, split systems have multiple parts linked by refrigerant lines. A packaged system could be a good option if you have a basement large enough to contain the central unit. A split system may be more suitable if you don't have the space for a packaged unit.
+
+Expect to pay around $2,500 to $8,000 (CAD 3,421 to CAD 10,946) for a packaged system and between $3,500 and $8,000 (CAD 4,789 and CAD 10,946) for a split geothermal heat pump. Split systems are more challenging to install, increasing your installation costs by $3,000 to $5,000 (CAD 4,105 to CAD 6,841).
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/3-dHcgFP4C4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="*Ahem* It’s time to change that HVAC filter again!"></iframe>

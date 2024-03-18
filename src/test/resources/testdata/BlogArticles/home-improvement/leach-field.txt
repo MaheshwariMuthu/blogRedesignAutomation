@@ -1,0 +1,94 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Leach Field?"
+headline: "What Is a Leach Field?"
+author: Lee Soren
+tags: ["post"]
+publishDate: 2023-09-03
+basePath: https://library.homeserve.com/m/
+heroImage: 1ecff4e2946b34d1/webimage-LeachField_EPAimage_0001.png
+heroAltDescription: "An infographic shows where the septic system leach field or drainfield is located in relation to a White House that sits on a green lawn against a blue sky with white clouds"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A leach field is a draining area for a home’s septic system, and it's an important part of the residential wastewater elimination process."
+articleAbstract: "A leach field is a draining area for a home’s septic system, and it's an important part of the residential wastewater elimination process. Here's what to know about yours."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is a Leach Field?"
+  parent: Plumbing-Home-Improvement
+---
+  _EPA image_
+
+If the term “leach field” makes you picture a sprawling meadow full of blood-sucking bugs … you’re thinking of the wrong type of leach.
+
+**This May Also Interest You:** [**Will Leach Field Replacements Drain Your Wallet? Plan for Septic System Expenses**](https://www.homeserve.com/en-us/blog/cost-guide/leach-field-replacement/)
+
+Rather, a leach field is a draining area for a home’s septic system, and it's an important part of the residential wastewater elimination process.
+
+What Is a Leach Field and What Is Its Purpose?
+----------------------------------------------
+
+A leach field is a major element of most septic systems. Also known as a septic drain field, it consists of perforated pipes that sit underground near a septic tank. Essentially, leach fields are meant to filter out contaminants from effluent water before it drains into the ground.
+
+How Does a Leach Field Work?
+----------------------------
+
+The process starts with bacteria in the septic tank breaking down waste that flows from the home. During this process, solids sink to the bottom of the tank, and grease floats to the top. Respectively, these are known as sludge and scum, and they're held in the septic tank, which should be pumped every few years.
+
+The liquid wastewater that remains then travels to the septic field through underground pipes. There, it seeps into the ground and naturally filters through the soil, eventually becoming groundwater.
+
+Do I Have a Leach Field?
+------------------------
+
+If you have a septic tank, you probably have a leach field. Although some septic tank systems can operate without leach fields, they’re often prohibitively expensive for homeowners.
+
+Where Is My Leach Field?
+------------------------
+
+Because there’s usually grass over your leach field, it isn’t easy to spot. However, it’s probably located in a flat, open area of your yard. If you don’t know exactly where your leach system is, there are several ways you can find out:
+
+* **Requesting the septic installation permit application from your county health department:** This document is typically accompanied by a site plan that includes the proposed location of your system.
+* **Contacting a licensed plumber or septic system contractor:** These professionals can easily locate your septic field.
+* **Locating it yourself:** Check your basement or crawlspace to see which direction the sewer pipe goes, and follow it until you reach the septic tank. Then, gently inspect the soil with an insulated probe, being careful not to damage the pipe or septic tank.
+
+**More Related Articles:**
+
+*   [How Often Should I Pump My Septic Tank?](https://www.homeserve.com/en-us/blog/home-improvement/pump-septic-tank-frequency/)
+*   [What’s the Difference Between Septic and Sewer?](https://www.homeserve.com/en-us/blog/home-improvement/sewer-septic-system/)
+*   [Do I Need to Pump Out My Septic Tank Before Hosting Guests?](https://www.homeserve.com/en-us/blog/home-improvement/pump-septic-tank-before-guests/)
+*   [How Do You Find Your Septic Tank?](https://www.homeserve.com/en-us/blog/how-to/find-septic-tank/)
+*   [Top 3 Signs You Have Septic or Sewer Issues](https://www.homeserve.com/en-us/blog/home-improvement/sewer-septic-back-up/)
+
+How Can I Prevent Problems With My Septic Leach Field?
+------------------------------------------------------
+
+Under ideal conditions, a leach drain system can last as long as 25 years, and preventing damage can save homeowners from having to pay for costly repairs. To keep it working properly, follow these simple dos and don’ts.
+
+**Do:**
+
+*   Flush only body waste and toilet paper
+*   Limit garbage disposal use
+*   Have your septic tank pumped every few years
+*   Clear pipes to remove buildup
+*   Have professional inspections done regularly
+*   Channel runoff from precipitation, sprinklers and other water sources away from your leach fields
+
+**Don’t:**
+
+*   Use too much water at once, such as running baths, dishwashing and doing laundry
+*   Dump harsh chemicals or greasy substances down the drain
+*   Plant trees or plants with extensive root systems near your leach field
+*   Park cars or put heavy objects over your septic tank or leach field pipes  
+    
+
+What Should I Do If There’s a Problem?
+--------------------------------------
+
+If your leach field malfunctions, you should see signs such as:
+
+*   Toilet backup
+*   Gurgling pipes
+*   Sewage odors
+*   Standing water on the leach field
+
+Failing leach fields can have catastrophic consequences for your property. At the first sign of trouble, it’s important to call in a professional plumber or septic system expert to diagnose and repair any issues.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nk_hBpyP3Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How Much Does Sewer Line Maintenance and Repair Cost?"></iframe>

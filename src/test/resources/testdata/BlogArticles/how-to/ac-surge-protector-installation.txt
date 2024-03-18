@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Install a Lightning AC Surge Protector"
+headline: "How to Install a Lightning Surge Protector to Protect Your AC Unit: A 3-Step Guide"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-10-29
+basePath: https://library.homeserve.com/m/
+heroImage: 69e34789b4c18889/Blog-GettyImages-157616377.jpg
+heroAltDescription: "Lightning bolt and thunderhead storms over Denver neighborhood homes"
+metaDescriptions: "Installing a surge protector on your AC unit requires experience working with electrics, but you can do it yourself. Here's how."
+articleAbstract: "AC surge protectors work by rerouting excess energy from vulnerable components or automatically breaking the circuit during a surge. Installation requires experience working with electrics, but you can do it yourself. Here's how."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install a Lightning Surge Protector on Your AC Unit"
+  parent: HVAC-How-To
+---
+  **AC Lighting Surge Protector Installation at a Glance**
+
+* **Step 1:** Take safety precautions
+* **Step 2:** Rearrange main panel
+* **Step 3:** Wire surge protector
+
+Many people rely on their HVAC systems without realizing how fragile they really are. Although it may look sturdy, your air conditioner has various costly electrical components that aren't designed to withstand a sudden power surge.
+
+**This May Also Interest You:** [**How Much Do Electrical Repairs Cost? A Comprehensive Guide**](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+AC surge protectors work by rerouting excess energy from vulnerable components or automatically breaking the circuit during a surge. AC surge protector installation requires experience and knowledge of working with electrics. Below, you can find out whether you need an AC surge protector and how to install one.
+
+Does My Air Conditioner Need a Surge Protector?
+-----------------------------------------------
+
+AC surge protectors are worth investing in because they protect the delicate electrical components inside your air conditioner in the case of a power surge. Power surges may be caused by electrical storms or fallen power lines, but it's not always clear why they happen. Power surges can damage your air conditioner in a matter of seconds, so a surge protector stops you from being left without a functioning air conditioner.
+
+Surge protectors can also help save you money. Air conditioners and their components are expensive to replace, and you could find yourself paying a serious amount out of pocket if you experience repeated power surges.
+
+Many electricity suppliers don't take liability for damage caused by random power surges, and not every insurer covers them either. It's a good idea to check your policy's fine print to find out if you're covered. In any event, an AC surge protector can save you the stress of hoping your insurance will pay out.
+
+How Do You Install an AC Surge Protector?
+-----------------------------------------
+
+Air conditioners have their own circuit boards, making plug-in surge protectors an unsuitable option. Generally, it's best to install a whole-house surge protector because it will also protect all of your home's electrical appliances from power surges.
+
+However, installing a whole-house surge protector is risky if you don't know what you're doing because you'll need to do significant work to your home's electrics. If you're inexperienced in this area, it's safer and less time-consuming to hire a professional electrician. Some manufacturers even stipulate that DIY installation will invalidate the product warranty.
+
+If you are confident in your ability to wire a whole-house surge protector, the instructions below will walk you through the installation process step-by-step.
+
+These instructions provide the basics of installing a whole-house surge protector, but you can — and _should —_defer to the manufacturer's installation instructions as models can vary. You should also check the building regulations in your area to ensure it's legal to install your own surge protector before you start.
+
+### Step 1: Safety First
+
+Before you begin, remove any metal jewelry from your hands and wrists to reduce the chances of accidental electrocution. Remove the panel from your main electrical panel and turn off the service disconnect. Remember that some of the wires will remain live even with the service disconnect off, so it's essential to avoid touching any wire. Place a piece of cardboard over the wires before you start working to protect yourself.
+
+**More Related Articles:**
+
+*   [New to BTUs? Here’s What to Know About BTUs When Shopping for an Air Conditioner](https://www.homeserve.com/en-us/blog/home-improvement/btu-air-conditioning/)
+*   [Got Central Air? Use This Top-to-Bottom Air Conditioner Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets with GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+
+### Step 2: Rearrange the Main Panel
+
+Find the service disconnect. You'll see two circuit breakers right below it. Take them off and put them in a vacant space in the panel to make room for your surge protector's wires and circuit breaker. Connect the offset nipple to the whole-house surge protector and attach it to the wall beside the main panel.
+
+### Step 3: Wire the Surge Protector
+
+When wiring a surge protector, it's important to keep the wires as short and straight as possible. Attach the white and green wires to the neutral bus screw terminals, and click the new circuit breaker into a space. You can now wire the surge protector's black wires to the circuit breaker.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

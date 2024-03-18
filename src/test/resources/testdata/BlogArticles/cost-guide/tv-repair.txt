@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does TV Repair Cost?"
+headline: "Here's How Much It Costs to Repair a TV"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-12-28
+basePath: https://library.homeserve.com/m/
+heroImage: 30392f60b953a188/Blog-GettyImages-832983502.jpg
+heroAltDescription: "Electrician Repairing Television"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Is it worth it to repair your broken TV, or should you start looking for something new? We break it down for you."
+articleAbstract: "The repair cost for high-definition TVs is much higher than the repair costs on older televisions, so you need to consider whether it's worth it to repair your TV or start looking for something new."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does TV Repair Cost?"
+  parent: Appliances-Cost-Guide
+---
+  Like everything else in your home, TVs break. They can fall off the wall or stand or become damaged during a move. Maybe your children were horsing around and knocked the television over, leaving a crack in the screen and rendering it useless. Over time, TVs are also subject to wear and tear. If your TV isn’t as clear as it once was, or you’re frustrated because it’s dim and won’t provide a picture, you’re going to have to decide whether to replace it or repair it.
+
+**This May Also Interest You:** [**When’s the Best Time to Buy a TV?**](https://www.homeserve.com/en-us/blog/buying-guide/best-time-to-buy-tv/)
+
+The repair cost for high-definition TVs is much higher than the repair costs on older televisions, so you need to consider whether it is worth it to repair your TV or start looking for something new.
+
+What Is the Average TV Repair Cost?
+-----------------------------------
+
+According to [Fixr](https://www.fixr.com/costs/tv-repair), the average TV repair cost is between $100 and $300 (CAD 135 and CAD 405). The majority of TV problems are minor issues, and the replacement parts are relatively inexpensive. If you have a broken screen or your inverter needs to be replaced, your repair costs could skyrocket. If your TV has water damage, you may be looking at repairs to more than one component.
+
+If the problem is that your TV appears dimmer or lacks the clarity that it had when you first purchased it, the backlight may need to be replaced. This is relatively inexpensive to repair compared to the cost of replacing the unit. However, if your screen and power board are damaged, the cost of repairing your TV could be almost as much as buying a new one.
+
+**More Related Articles:**
+
+*   [Can You Buy a TV That’s Not Smart?](https://www.homeserve.com/en-us/blog/buying-guide/non-smart-tvs/)
+*   [Mounting Expenses: How Much Does It Cost to Mount a TV?](https://www.homeserve.com/en-us/blog/cost-guide/tv-mount/)
+*   [How Much Does TV Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/tv-repair/)
+*   [What’s the Samsung TV Upgrade Program and Is It Worth It?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-tv-upgrade-program/)
+*   [How to Mount a Flatscreen TV to a Wall](https://www.homeserve.com/en-us/blog/how-to/mount-flatscreen-tv/)
+
+How Much Does It Cost to Replace a TV Screen?
+---------------------------------------------
+
+The most common cause for concern is a cracked TV. This happens if an object strikes the screen or the TV falls over. You might notice that your television still emits light, but the crack makes it impossible to see the image. The cost to fix your TV screen depends on the type of TV you own and how large the screen is.
+
+Repairing it yourself could actually void your warranty, so you should defer to the experts on this one. According to [Fixr](https://www.fixr.com/costs/tv-repair), repairing the screen alone could cost $200 to $400 (CAD 270 to CAD 540). You may also have a damaged inverter, backlight or power board. That will increase the repair price. If you own a 4K TV, the screen repair cost could be as much as $275 (CAD 375).
+
+Check the warranty that came with your television to see whether the cost of fixing it will be covered before you decide whether you want to repair or replace your TV.
+
+Is It Worth Repairing a Flatscreen TV?
+--------------------------------------
+
+This depends on what you paid for your TV and what’s wrong with it. A speaker, HDMI port or backlight can be repaired for much less than it would cost you to purchase a new TV. If your TV is relatively new, it makes more sense to repair these parts because the other components will last a long time.
+
+If it’s an older TV, several components may begin to fail over time due to regular use. You’d find yourself repairing the TV again each time another component fails, so it’s probably better to buy a new one — especially considering prices for new TVs are comparatively lower than they used to be.
+
+Whether or not it’s worth it to fix a cracked TV screen depends on how much damage was caused by the accident. If it’s a small crack, you may only need to fix the screen itself, but if the impact was severe, multiple components might need to be replaced. This will all influence the cost of your repair and whether it’s truly worth it.
+
+Is It Cheaper to Buy a New TV or Repair It?
+-------------------------------------------
+
+If your TV is still under warranty, it’s probably better to take it in for repairs than to shop for a new one. If it’s beyond its original warranty and components are beginning to break due to normal use, it’s time to consider a new TV. Warranties make the decision to repair your TV much easier because you won’t be required to absorb most of the cost.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

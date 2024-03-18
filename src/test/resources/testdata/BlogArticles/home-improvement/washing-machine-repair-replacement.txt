@@ -1,0 +1,114 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Should You Repair or Replace Your Washing Machine?"
+headline: "Should You Repair or Replace Your Washing Machine?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-01-15
+basePath: https://library.homeserve.com/m/
+heroImage: 78dae98b027b524d/Blog-Washer_MSchmitz_0010.jpg
+heroAltDescription: washing machine
+metaDescriptions: Sometimes washing machine repair is the cheapest option, while other times a replacement will save you money. We've got some tips for you as you consider your options.
+articleAbstract: Sometimes washing machine repair is the cheapest option, while other times a replacement is more economical in the long run. We've got some tips for you to consider as you weigh your options for replacing or repairing your malfunctioning washing machine.
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-310-1912
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/appliance_repair/hs/a_call_away
+  large:
+      image: /en-us/assets/images/blog/appliances_elocal_banner1.png
+      alt: Appliances eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/appliances_elocal_banner2.png
+      alt: Appliances eLocal Banner 2
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Should You Repair or Replace Your Washing Machine?"
+  parent: Interior-Home-Home-Improvement
+---
+
+Deciding whether to repair or replace your washing machine can be a tough call. But it’s also an important one, as a washing machine is an expensive home appliance that serves a vital household function — and it can be quite inconvenient when it fails. Sometimes, washing machine repair is the cheapest option, while other times a replacement is more economical in the long run.
+
+__This May Also Interest You:__ [__How to Choose the Best Washer and Dryer__](/en-us/blog/buying-guide/washing-machine-dryer/)
+
+Here are some factors to consider as you weigh your options for replacing or repairing your malfunctioning washing machine:
+
+## 1. The Age of Your Washing Machine 
+
+Any appliance has an average expected lifespan. The chances of a home appliance breaking down increase as it ages, all other factors being equal. A washing machine [can remain operational for approximately 11 years](https://www.energystar.gov/products/appliances/clothes_washers). After that, it's advisable to replace it, as its performance is likely to have degraded considerably. If your home appliance has been in use for several years, you may be unsure whether to repair or replace it when it malfunctions. Consider the points below:
+
+### Repair
+
+A relatively new washer may not break down regularly, hence it may be more affordable to repair it. Getting replacement parts for modern machines can be easier than finding components for older models. Washing machine repair is recommended when the repair cost is [less than 50 percent](https://www.consumerreports.org/cro/magazine/2014/02/repair-or-replace/index.htm) of a new machine's price.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+### Replace
+
+Maintaining a machine that keeps breaking down can be expensive, especially when the appliance has already been in use for years. Besides, such a machine may be out of warranty, forcing you to finance the repairs out of pocket. Ordering a new machine from your preferred store is the wise choice if repairing your current one is too costly — especially if the chances of it breaking down again soon are high.
+
+## 2. Repair Costs 
+
+Your washing machine may develop mechanical problems and stop working at any time, regardless of its age. An expert can assist you in diagnosing the problem for a small fee. It may be best to base your decision to repair or replace your washing machine on the quoted price to fix it. You should also consider the cost of replacement parts and labor,  and determine what makes the most financial sense from there.
+
+### Repair
+
+Some replacement parts for washers are inexpensive to buy. Hiring a technician to fix address the issue may not be costly, either. If the device needs minor work that don't cost more than 50% of the new appliance's price, repair is recommended.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+### Replace  
+
+Sometimes your laundry machine may malfunction in a way that's expensive to fix, and some components may continue performing poorly even after repair. Plus, it may be pricey to have a high-quality technician perform the repairs. Again, you should replace the washing machine if the total cost to repair exceeds 50% of the cost of a new unit.
+
+It's advisable to check your warranty when you want to repair or replace a washing machine. Your costs may come down significantly if the appliance is still new and under warranty. However, if it’s out of warranty, you may have to foot the entire cost, however you choose to proceed.
+
+## 3. The Problem
+
+After discovering that your washer and dryer are malfunctioning, you can consult an expert from an appliance repair company to assist you in pinpointing the problem. Fixing some problems with your appliance may be cheap and require no special skills. Others may be costly to fix and require a professional, however. Although you may have to pay a fee to the technician for their diagnostic service, it's wise to base your decision to repair or replace your washing machine on an expert opinion.
+
+### Repair
+
+If you [know how to fix some common problems](/en-us/blog/home-improvement/common-washer-dryer-problems/) without professional assistance, you needn’t replace the machine. Some parts, such as pulleys, pumps and seals, are inexpensive. You can get these replacement parts from your nearest store and install them yourself. However, remember to first contact an expert to assist you in identifying the specific issue.
+
+### Replace 
+
+If a reputable technician tells you your washing machine has serious issues, like a cracked tub, a replacement could be the only viable alternative. Replacing an laundry machine that’s no longer spinning is also cheaper than fixing it.
+
+## 4. Efficiency 
+
+The performance of your washing machine may also determine whether you need to get a new one. If you're using an older model, your water, energy and detergent consumption may be higher than with a newer model. A washing machine with an [Energy Star rating](https://www.energystar.gov/products/appliances/clothes_washers) will use as much as 33% less water than a non-rated model.
+
+Advanced home appliances tend to be more expensive than standard ones. For instance, front-loaded washing machines are generally costlier than top-loading ones. Although the former is more efficient than the latter, it's important to consider your specific needs. If you have a lot of things to wash, a more expensive but energy-efficient machine might be preferable because you may offset the price difference over time. You may also benefit from tax credits and rebates when you choose efficient appliances.
+
+## 5. The Impact of Maintenance on Lifespan 
+
+Embracing a few simple maintenance habits may eliminate the need to fix or repair your machine. [Cleaning your washing machine](/en-us/blog/how-to/clean-washing-machine/) often can improve its performance and extend its lifespan. Using your home appliance as recommended by the manufacturer will help keep it operational for an extended period without the need for repair or replacement.
+
+
+It may help if you [turn the valves regularly](https://www.diynetwork.com/how-to/maintenance-and-repair/repairing/maintain-a-washer-and-dryer) to prevent dirt from accumulating on the valve stems. If you don't clean and lubricate the valves often, the attached particles may restrict their movement.
+
+These cleaning and maintenance tips can prevent parts of the machine from overworking even when handling a small load.
+
+## 6. Budget
+
+Sometimes, the high cost of a new laundry machine may make fixing the old one the only viable option. The price of a new washing machines ranges between [$300 and $1,500](https://www.energystar.gov/products/appliances/clothes_washers). Although newfangled models may be more effective and energy-efficient than older models, their high purchase price may force you to turn to an expert for repair as long as the quote for service is low enough.
+
+**More Related Articles:**
+
+*   [How to Move Your Washing Machine](/en-us/blog/how-to/move-washing-machine/)
+
+*With HomeServe, you’re just a phone call away from team of well-trained experts can assist you in repairing or replacing your washing machine. With  [*home appliance plan from HomeServe*](/en-us/home-warranty/appliances/), you can have peace of mind knowing many costs associated with washing machine repair are covered for an extended period.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s8A8kIX0S3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

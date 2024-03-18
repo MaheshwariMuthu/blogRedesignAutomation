@@ -1,0 +1,138 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 'Stackable Washer and Dryers: The Pros and Cons'
+headline: The Pros and Cons of Stackable Washer and Dryers
+author: Team HomeServe
+tags: ['post', 'Know Your Equipment', 'Top Tips and Lists']
+publishDate: 2020-04-16
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: washer.png
+heroAltDescription: Washing Machine
+metaDescriptions: Stackable washer and dryer sets are among many options that may be best-suited to your laundry needs. But how do you know for sure? Find out now.
+articleAbstract: Here’s the info you need to decide whether or not to invest in a stackable washer and dryer.
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-310-1912
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/appliance_repair/hs/a_call_away
+  large:
+      image: /en-us/assets/images/blog/appliances_elocal_banner1.png
+      alt: Appliances eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/appliances_elocal_banner2.png
+      alt: Appliances eLocal Banner 2
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: 'Stackable Washer and Dryers: The Pros and Cons'
+  parent: Appliances-Buying-Guide
+---
+
+::::: blog-info
+My laundry room is basically my second home. The organized linens and fabric softener is my domain, but when I moved into a new home I had a big decision to make: should I get a stackable washer and dryer set or stick with my side-by-side units?
+
+[1]: {{ migrationData.planspage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% else %}
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+{% endif %}
+
+While space was no issue, there was still [plenty to consider](/en-us/blog/buying-guide/washing-machine-dryer){target="_blank"}, including my laundry needs, desired features and energy efficiency. I found that while stackable washer and dryer sets are a popular option among homeowners, they might not be best-suited to your space and expectations.
+
+Before purchasing a new washer and dryer, consider the pros and cons of a stackable unit to decide if it’s the right choice for you.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+## The pros
+
+A front-load washer and dryer is often a convenient option for homeowners in all living situations.
+
+Here’s why many people choose stackable washer and dryer sets for their laundry needs:
+
+### 1\. Great for small spaces
+
+Even when the units are sold separately, washers and drying systems with stacking capabilities are typically designed with small spaces in mind. The Chicago Tribune reported that the [average size](https://www.chicagotribune.com/consumer-reviews/sns-bestreviews-appliances-the-best-stackable-and-washer-and-dryer-20190829-story.html){target="_blank"} of a stackable washer or dryer ranges from 74-76 inches high, 23-28 inches wide and 27-32 inches deep, while a standard-sized unit is typically 27 inches wide. 
+
+If you don’t have a designated laundry room, or are trying to save space for storage, a smaller stackable unit can be ideal. Only taking up around two feet of space, a washer and dryer can easily fit into a closet space and be hidden away for a better aesthetic.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+### 2\. More efficient cleaning
+
+Did you know that a front-loading washing machine uses less water and energy? Instead of filling an entire drum with water during a wash cycle, a front-loading unit mixes detergent with the minimal amount needed - without sacrificing its cleaning performance. 
+
+Energy Star recommended using only [high-efficiency detergent](https://www.energystar.gov/products/laundry_best_practices){target="_blank"} with a front-loading appliance, as they aren’t designed to handle the amount of suds produced by regular detergent. For even more efficient washing, consider purchasing a washer and dryer that are Energy Star-certified.
+
+### 3\. Easier on your clothes
+
+A top-loading washer typically utilizes a stainless steel agitator in the center of the tub to move clothes around during the wash cycle. As The Spruce explained, while this is an effective cleaning method, it does mean your clothes end up [taking a beating](https://www.thespruce.com/washer-dryer-buying-guide-4173018){target="_blank"} while being washed.
+
+Alternatively, a side-loading machine tumbles clothes in a concentrated solution of water and detergent for an even and gentler wash. It may also be easier to wash delicate garments and large comforters in a front-loading washer without an agitator in the way.
+
+### 4\. Easy on your back
+
+With the washer on the bottom and dryer on the top, it can be easier to remove dry clothes from the unit and see what’s inside. Less bending down can be beneficial for homeowners looking to give their back a break. With the space saved, consider adding a stand-up folding station and shelving for extra ease.
+
+### 5\. Flexibility
+
+If you’re like me and are constantly rearranging your living spaces, stackable washer and dryer sets are a flexible option for changing up laundry rooms. Most stackable appliances also have free-standing capabilities and can operate side by side just as well, it just might require a few tools and some knowledge about washers and dryers.
+
+SFGate Home Guides recommends [consulting manufacturer directions](https://homeguides.sfgate.com/can-stackable-washers-dryers-used-unstacked-85665.html){target="_blank"} for your particular model before unstacking. Then, unplug power cords and unhook the dryer duct. If you use a gas dryer, make sure the supply line is disconnected. 
+
+While the instructions will usually outline the initial installation process, just reverse the directions to unstack the unit. This can entail removing bracket mounting screws and brackets. Have another pair of hands on deck to help move the dryer down and into its new position (this may require adding new feet or anti-slip pads to its bottom).
+
+## The cons
+
+Of course, stackable units are not ideal for every homeowner. Some drawbacks to these machines include:
+
+### 1\. Smaller capacity
+
+Naturally, compact machines typically have a smaller capacity than their top-loading counterparts. The Spruce explained that a standard washing machine typically has a drum measuring 3-4 cubic feet, while a compact stackable unit may only have [2.5 cubic feet](https://www.thespruce.com/washer-dryer-buying-guide-4173018){target="_blank"} of space.
+
+This isn’t to say all stackable units have a smaller capacity. It’s possible to find a stackable unit that’s full size with a large drum - like "up to 6 cubic feet" big! - but you will likely have to pay more. A larger capacity also means the unit will take up more space, sometimes negating the benefits of a compact stackable machine. Consider what your typical laundry routine is like to determine how large a washer and dryer you’ll need.
+
+### 2\. Higher price tag
+
+Although a compact front-loading washer is small, it can still set you back quite a bit. According to Consumer Reports, a small stackable unit could cost anywhere between [$750 and $2,400](https://www.consumerreports.org/cro/washing-machines/buying-guide/index.htm){target="_blank"} (and that’s not including a dryer!). For some homeowners, a high-quality compact washer is worth the investment in terms of the space and energy they can save around the house.
+
+### 3\. Out of reach
+
+A stackable laundry set might not be ideal for the vertically challenged like me. There have been plenty of occasions when I’ve had to call in the reinforcements (a.k.a. my husband) to help fish out a stray sock or t-shirt just out of reach in the back of the dryer unit. To avoid more aggravation, I keep a stool nearby, and the problem is solved!
+
+### 4\. Fewer bells and whistles
+
+There are typically fewer features available on stackable models, with standard settings being the norm. Compact models are especially designed for the most straightforward - but still acceptable - wash and dry. If you’re interested in additional functionality, like WiFi capabilities, steam washing or heat pump technology, you can still find a stackable front-loading unit [like this one](https://www.mieleusa.com/e/washing-machines-1015696-c){target="_blank"} available from Miele, just expect to pay upwards of $2,000 for these additions.
+
+### 5\. More maintenance
+
+Front-loading machines are simply designed differently than top-load washers. While buildup of mold, mildew and soap scum is common in all washers, there are different nooks and crannies in a front-loading machine you'll have to pay more attention to.
+
+This includes the rubber gasket, where mold can build up fast. Always try to wipe it down with a clean towel and let the unit air dry after it’s used. Every few months it can also be beneficial to grab a toothbrush and do a deep clean of the rubber components to get rid of any lingering odors and buildup.
+
+Additionally, you should check that your stackable system is still secured. Consult your manual and ensure that no screws are loose or parts from your stacking kit need to be replaced. Before buying any appliance, it’s always a good idea to brush up on common problems they experience (like a waterlogged washer) so you can be prepared to conduct maintenance or call in a professional.
+
+## Other considerations
+
+Ultimately, the best washer and dryer for your home comes down to your laundry needs. A compact, stackable unit is best if you typically have small loads of laundry. Due to its gentle wash cycle, don’t expect a quick wash like you would from a top-loading machine. Your clothes will still be exceptionally clean, and you may be able to cut down the time on dry cycles since the laundry will not be sopping wet.
+
+If you’re looking for the best of both worlds, you might want to consider a stacked laundry center [like this one from Whirlpool](https://www.whirlpool.com/laundry/laundry-sets/washer-dryer-combination/p.3.5-cu.ft-electric-stacked-laundry-center-9-wash-cycles-and-autodry.wet4027hw.html){target="_blank"}. You can still save on space with a high-quality top-loading washer and electric dryer that automatically senses when clothes are ready for a quick dry. While these combined units are convenient and cost-effective, [repairing this unique appliance](/en-us/blog/cost-guide/home-repair-costs){target="_blank"} can be tricky. Make sure you’re prepared that if one part of this unit breaks or you want an upgrade, you might need to invest in an entirely new machine. 
+
+When appliances and home systems break down, it can be inconvenient beyond belief. But being prepared before home repair issues arise is easy with us. See how [plans from HomeServe](/en-us/home-warranty/appliances/){target="_blank"} can help with the costs of covered repairs today.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% else %}
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+{% endif %}
+:::::

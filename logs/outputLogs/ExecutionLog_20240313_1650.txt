@@ -1,0 +1,22 @@
+--------------------------------------------------------------------------
+|ArticleName				|Title	|Author	|Date	|Image	|
+--------------------------------------------------------------------------
+|used-appliances			|Pass	|Pass	|Pass	|Pass	|
+|used-christmas-tree			|Pass	|Pass	|Pass	|Pass	|
+|use-a-dehumidifier			|Pass	|Pass	|Pass	|Pass	|
+|use-caulking-gun			|Pass	|Pass	|Pass	|Pass	|
+|under-cabinet-lighting			|Pass	|Pass	|Pass	|Pass	|
+|use-3m-claw				|Pass	|Pass	|Pass	|Pass	|
+--------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|ArticleName				|Heading		|Paragraph		|Link			|List			|Image			|Video			|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|used-appliances			|Pass: 6 Fail: 0	|Pass: 15 Fail: 0	|Pass: 8 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|used-christmas-tree			|Pass: 9 Fail: 0	|Pass: 14 Fail: 0	|Pass: 6 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|use-a-dehumidifier			|Pass: 6 Fail: 0	|Pass: 13 Fail: 0	|Pass: 7 Fail: 0	|Pass: 3 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|use-caulking-gun			|Pass: 5 Fail: 0	|Pass: 15 Fail: 0	|Pass: 6 Fail: 0	|Pass: 2 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|under-cabinet-lighting			|Pass: 7 Fail: 0	|Pass: 18 Fail: 0	|Pass: 12 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|use-3m-claw				|Pass: 5 Fail: 0	|Pass: 19 Fail: 0	|Pass: 6 Fail: 0	|Pass: 1 Fail: 0	|Pass: 2 Fail: 0	|Pass: 0 Fail: 0	|
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,93 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Often Should You Change Your Furnace Filter?"
+headline: "How Often Should You Change Your Furnace Filter?"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-05-03
+basePath: https://library.homeserve.com/m/
+heroImage: 37fe442bd2b1ff0d/Blog-HVACfilterbeforeandafter_Erossi_002.jpg
+heroAltDescription: "A side by side comparison of a clean HVAC furnace filter and a dirty filter "
+metaDescriptions: "You need to change your filter about once every 3 months. Here's why."
+articleAbstract: "How long has it been since you changed your furnace filter? HVAC professionals say you should swap filters every 3 months, but the timeframe can vary based on a number of factors. Here's what you need to know."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How Often Should You Change Your Furnace Filter?"
+  parent: HVAC-How-To
+---
+  
+
+**The short answer:** Every three months.
+
+**The long answer:** It depends on several factors, such as filter thickness, air quality where you live, the size of your home and whether you have pets.
+
+When’s the last time you changed your furnace filter? Oh, _c’mon_. We won’t tell anyone. Six months ago? A year? Not since you moved into the house?
+
+**This May Also Interest You:** [**Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps**](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+
+If it’s been a while, your secret’s safe with us. But if you really can’t remember the last time you swapped out filters, that may mean it’s been _too_ long.
+
+How often you need to change your furnace filter really comes down to what goes on in your home. Here’s what you need to know.
+
+<img class="detail-image" src="https://library.homeserve.com/m/7e4e414dc28fb6f0/Blog-DirtyHVACFilter_Rossi_2864.jpg" alt="very dirty furnace filter"/>
+-------------------------------------------
+
+What Does a Furnace Filter Do, Exactly?
+---------------------------------------
+
+Disposable furnace filters are usually made of fiberglass or cotton. They trap airborne contaminants like dust, dirt, hair, mold and other allergens. According to [Bob Vila](https://www.bobvila.com/articles/what-you-might-not-know-about-hvac-filters/), filters are meant to protect your furnace from these particles, and improving air quality is actually just a beneficial side effect.
+
+So … How Often Do I Need to Replace It?
+---------------------------------------
+
+The basic consensus among HVAC professionals is that you should replace your furnace filter every 90 days — or every three months. However, that depends on the filter’s thickness. Thicker filters have more room to collect dirt and dust, so they don’t have to be changed as often. [Thomas & Galbraith Heating, Cooling and Plumbing](https://thomasgalbraith.com/knowledge-center/changing-furnace-filters/) of Ohio recommends swapping out filters that are less than 2 inches thick every 30 to 90 days. Three- or 4-inch filters can go for 6 to 9 months, and filters up to 6 inches thick can be replaced once a year.
+
+According to [The Home Depot](https://www.homedepot.com/c/ab/how-often-you-should-change-your-air-filter/9ba683603be9fa5395fab90cf4eb97a), the air quality where you live can affect how often your furnace filter needs to be changed. Bigger houses have larger volumes of air circulating around, which means the filter may need to be changed more often. Small houses and vacation homes may require less-frequent filter replacements.
+
+The best way to know if you need to replace your filter is to go look at it. If it’s gray and covered in dust and debris, it’s time for a change.
+
+### I Have Pets. How Often Should I Change My Filter?
+
+Pet fur and dander will clog up the filter quickly, so you’ll want to change it more often. If you have one pet, [Service Experts Heating & Air Conditioning](https://www.serviceexperts.com/faq/how-often-should-i-change-my-air-filter-at-home) of Texas recommends swapping 1- to 3-inch filters every two months. If you have multiple dogs and cats, change the filter every three to six weeks.
+
+What If I Wait for Longer Than That?
+------------------------------------
+
+Furnace filters are designed to trap the stuff your furnace doesn’t want in its system. But if you let that stuff build up for too long, it may harm your health _and_ the health of your furnace.
+
+According to [HVAC.com](https://www.hvac.com/blog/consequences-not-changing-your-air-filter/), the consequences can range from broken furnace parts to whole-system failures. Your furnace will have to work harder to pump air through a clogged filter, driving up your energy bills and shortening the furnace’s lifespan. Extremely dirty air filters may no longer catch airborne particles. Instead, the dust is pushed back out into the air and, eventually, into your lungs.
+
+**More Related Articles:**
+
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Is an Air Filter Subscription Service Worth the Cost?](https://www.homeserve.com/en-us/blog/home-improvement/air-filter-subscription/)
+*   How Much Does HVAC Repair and Maintenance Cost?
+*   [Is an HVAC Tune-up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+*   [Do You Need a Zoned HVAC System?](https://www.homeserve.com/en-us/blog/home-improvement/zoned-hvac-system/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/102259ab88ee112a/Blog-HVACFilterInstall_Rossi_2862.jpg" alt="installing of a new furnace filter"/>
+-------------------------------------------
+
+Fine, I’ll Change It. How Do I Know Which Kind to Get?
+------------------------------------------------------
+
+There are dozens of different types of filters available. To keep it simple, buy the same size filter you already have. Before you run to the hardware store, note the dimensions and thickness of your current filter. You may also want to jot down the brand or take a picture of the whole thing to compare at the store.
+
+While you’re filter shopping, you may come across another metric: MERV. MERV stands for minimum efficiency reporting value. The higher the MERV, the higher the efficiency and the better the filter is at trapping particles. According to [Atomic Filters](https://atomicfilters.com/blogs/news/complete-list-of-furnace-filter-sizes-with-actual-size-and-merv-ratings-available), filters rated above MERV 8 will protect your home’s air quality; anything lower is just there just to protect your furnace.
+
+How Do I Swap It Out?
+---------------------
+
+Basically, you unscrew the filter cover, pop out the old filter and slide in a replacement. For a more detailed how-to, check out our step-by-step guide [here](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/).
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U4IFZzwZwdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Tipping and Entrapment Hazard: Canyon Furniture Recalls 1,200 Children's Chests of Drawers"
+headline: "Tipping and Entrapment Hazard: Canyon Furniture Recalls 1,200 Children's Chests of Drawers"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-07-15
+basePath: https://library.homeserve.com/m/
+heroImage: 259796ad6b3cab30/Blog-CreeksideChestOfDrawers_CanyonFurniture_0001.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Canyon Furniture is recalling Creekside Kids chests of drawers. If you bought one between April 2020 and March 2021, it might fall under this recall."
+articleAbstract: "Canyon Furniture is recalling about 1,200 Creekside Kids chests of drawers. If you purchased one of these chests between April 2020 and March 2021, it might fall under this recall. According to a Consumer Product Safety Commission recall alert, the chests may be unstable if they’re not anchored to a wall, posing a tipping hazard."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Canyon Furniture Recalls Creekside Children’s Chests of Drawers Due to Tip-Over and Entrapment Hazards"
+  parent: Interior-Home-Home-Improvement
+---
+  Canyon Furniture is recalling about 1,200 Creekside Kids chests of drawers. If you purchased one of these chests between April 2020 and March 2021, it might fall under this recall — and it might fall over. According to a Consumer Product Safety Commission [recall alert](https://cpsc.gov/Recalls/2021/Canyon-Furniture-Recalls-Creekside-Children-s-Chests-of-Drawers-Due-to-Tip-Over-and-Entrapment-Hazards-Sold-Exclusively-at-Rooms-To-Go-Recall-Alert), the chests may be unstable if they’re not anchored to a wall, posing a tipping hazard.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the July 8 recall, the chests don’t comply with the performance requirements as outlined in the voluntary industry standard ASTM F2057-19. If the chests tip over, children may become trapped, which could result in death or serious injury. No such incidents or injuries had been reported as of the recall announcement.
+
+This recall involves specifically the Creekside Kids Five-Drawer Chests. Affected chests have SKU number 34595035 or 34495045 and a manufacture date between April 2020 and March 2021 printed on a label on the back of the unit.
+
+The chests were manufactured in Mexico and imported by Canyon Furniture Company of Seffner, Fla. They were sold at Rooms To Go stores and [RoomsToGo.com](http://www.roomstogo.com) for about $430.
+
+If you own a recalled chest, the CPSC recommends you stop using it immediately and contact Canyon Furniture for a free repair or replacement. Consumers can also opt for a full refund of the purchase price in the form of Rooms To Go store credit. Call 855-688-0919, email [productcare@roomstogo.com](mailto:productcare@roomstogo.com) or visit the [Customer Service](https://www.roomstogo.com/customer-service) page on the company’s website. Rooms To Go is contacting all known purchasers directly.
+
+For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Watch Your Seat: 3,100 StyleWell Dining Chair Sets Recalled for Fall Risk](https://www.homeserve.com/en-us/blog/how-to/Wood-Windsor-Dining-Chair-Recall/)
+*   [Are You Sitting Down? Hillsdale Furniture Recalls 10,500 Stools Over Fall Risk](https://www.homeserve.com/en-us/blog/home-improvement/jennings-stool-recall/)
+*   [Sleep Tight! Casa Kids Recalls Bunk Beds Due to Loose Screws](https://www.homeserve.com/en-us/blog/home-improvement/cabina-bunk-beds-recall/)
+*   [It Could Collapse: Lifetime Products Recalls 43,000 6-Foot Folding Tables](https://www.homeserve.com/en-us/blog/home-improvement/lifetime-products-seminar-table-recall/)
+*   [Don’t Sleep on This: 700 HOFISH Mattresses Recalled Over Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/hofish-mattress-recall/)

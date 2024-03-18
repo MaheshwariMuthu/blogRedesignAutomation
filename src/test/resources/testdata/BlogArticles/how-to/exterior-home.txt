@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Exterior-Home-How-To
+  parent: How To
+  title: Exterior Home
+permalink: false
+---

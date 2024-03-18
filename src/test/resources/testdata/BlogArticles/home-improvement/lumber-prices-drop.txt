@@ -1,0 +1,46 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Lumber Prices Drop; Homeowners Restart Home Improvement Projects"
+headline: "As Lumber Prices Drop, Homeowners Restart Delayed Home Improvement Projects"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-09-03
+basePath: https://library.homeserve.com/m/
+heroImage: 4e7c0a5c41a2dd69/Blog-GettyImages-1296112802-jpg.jpg
+heroAltDescription: "Dad and son shopping for lumber"
+metaDescriptions: "A recent survey by Expertise found that many homeowners who delayed projects in 2021 due to high lumber prices are restarting them as prices drop."
+articleAbstract: "A recent survey by Expertise found that a lot of homeowners experienced sticker shock when lumber prices were at their highest earlier this year and ended up delaying their home improvement projects. Now that prices have fallen, 65% of respondents said they’re gearing up to finish them."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Lumber Prices Are Finally Dropping, Giving Homeowners a Chance to Restart Delayed Home Improvement Projects"
+  parent: Interior-Home-Home-Improvement
+---
+  If you've paying attention at the hardware store lately, you’ve probably noticed that prices for plywood, fiberboard and two-by-fours have come down a lot in the last few weeks. Costs certainly aren’t back down to what they used to be, but you may no longer have to empty your pockets for a measly piece of MDF.
+
+**This May Also Interest You:** [**What’s a Home Improvement Loan and How Do You Get One?**](https://www.homeserve.com/en-us/blog/home-improvement/home-improvement-loan/)
+
+A recent survey by [Expertise](https://www.expertise.com/remodeling/cost-of-lumber-home-improvement-jobs) found that a lot of homeowners experienced sticker shock when lumber prices were at their highest earlier this year and ended up delaying their home improvement projects. Now that prices have fallen, 65% of respondents said they’re gearing up to finish their decks, build out additions and make the final touches to their kitchen renovations.
+
+According to the Aug. 31 [survey](https://www.expertise.com/remodeling/cost-of-lumber-home-improvement-jobs), lumber prices topped out at $1,686 per 1,000 board feet in May. That’s an increase of 92% from the start of 2021, and an increase of 549% over lows in March 2020.
+
+Last December, a new wood deck would have [cost about $6,000](https://www.homeserve.com/en-us/blog/cost-guide/cost-to-build-deck/) to build. Jacked-up lumber prices put the average cost for the same deck at over [$10,000 in May](https://www.homeserve.com/en-us/blog/home-improvement/lumber-price-surge-makes-decks-cost-more/). In a similar time frame, the average cost to build a home jumped almost $36,000, according to the [National Association of Home Builders](https://www.nahb.org/news-and-economics/industry-news/press-releases/2021/04/skyrocketing-lumber-prices-add-nearly-36000-to-new-home-prices).
+
+As [we reported](https://www.homeserve.com/en-us/blog/home-improvement/lumber-shortage-impacts-home-improvement-projects/) in May, the drastic increase in lumber prices came down to a problem of supply and demand. Interest in home improvement projects — and, thus, demand for lumber — shot up during the COVID-19 pandemic. Such a boom was unexpected by the lumber industry, leading to issues in the supply chain.
+
+Since, prices have dropped dramatically — down almost 71% to $494 per 1,000 board feet, as of Aug. 31. That’s still higher than pre-pandemic numbers, but back in the affordable range for many homeowners. As such, many are picking projects back up.
+
+We first started to see a drop in the [lumber futures market](https://www.nasdaq.com/market-activity/commodities/lbs) in June and July, but those lower prices just started to hit hardware stores in early August. According to the Expertise survey, 70% of homeowners who started projects in 2021 but delayed them due to elevated lumber costs are now restarting those projects. Of those who planned projects but never got started, 22% are taking advantage of the lower prices to fix up their homes.
+
+Of the 810 homeowners [surveyed](https://www.expertise.com/remodeling/cost-of-lumber-home-improvement-jobs), about 68% said they delayed a project because of high material costs.
+
+Back when lumber prices were so high, the average cost increase of a home improvement project was 205%. About 77% of surveyed homeowners said their 2021 projects cost greater than expected due to the high price of materials.
+
+However, some aren’t convinced lumber prices are yet as low as they can go. More than half of those who never started their projects are waiting for material prices to [drop even further](https://www.expertise.com/remodeling/cost-of-lumber-home-improvement-jobs) before they move forward.
+
+**More Related Articles:**
+
+*   [Can You Move an Entire House? Yes. Here’s How Much It Costs](https://www.homeserve.com/en-us/blog/cost-guide/move-a-house/)
+*   [Moving? Renovating? Here’s Everything You Need to Know About Short-Term Storage Costs](https://www.homeserve.com/en-us/blog/home-improvement/short-term-storage/)
+*   [Trash Cash: Here’s How Much It Costs to Rent a Renovation Dumpster](https://www.homeserve.com/en-us/blog/cost-guide/dumpster-rental/)
+*   [How Much Does a Kitchen Remodel Cost?](https://www.homeserve.com/en-us/blog/cost-guide/kitchen-remodel/)
+*   [How Much Does a Basement Remodel or Renovation Cost?](https://www.homeserve.com/en-us/blog/cost-guide/bathroom-remodel/)

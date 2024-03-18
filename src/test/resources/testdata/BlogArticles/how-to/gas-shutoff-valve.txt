@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Turn Off Your Gas Shutoff Valve"
+headline: "Here's How to Turn Off Your Gas Supply Valves"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-12-29
+basePath: https://library.homeserve.com/m/
+heroImage: 7a49bedcee0cd800/Blog-GasMainShutOff_Erossi_0464.jpg
+heroAltDescription: "a close up of a residential gas line shutoff"
+metaDescriptions: "Do you know where your gas shutoff valves are? Here’s how to find and use your home's gas shutoff valves."
+articleAbstract: "Knowing how to turn off the gas supply to your home could save your life in an emergency. Here’s how to find and use the gas shutoff valves, and when to turn off the gas."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Turn Off Your Gas Supply Valve"
+  parent: Interior-Home-How-To
+---
+  Do you know where your gas shutoff valves are? Knowing how to turn off the gas supply to your home could save your life in an emergency.
+
+**This May Also Interest You:** [**When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them**](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+
+Here’s how to find and use the gas shutoff valves and when to turn off the gas.
+
+Where’s My Gas Shutoff Valve and How Do I Find It?
+--------------------------------------------------
+
+According to [Family Handyman](https://www.familyhandyman.com/article/how-to-locate-your-gas-shutoff-valve-and-water-shutoff-valve/), most homes have two gas shutoff valves: the street-side valve and the house-side shutoff valve. It's sensible to find and label your gas shutoff valves as soon as possible after moving into a new home so that you can find them quickly in an emergency.
+
+The street-side valve is usually located next to the gas meter. Turning the street-side valve usually requires a wrench, and it's designed to be operated by a gas company contractor or other professional. However, you might need to turn off the street-side valve in an emergency if you can't find your house-side valve.
+
+The house-side gas shutoff valve is usually located somewhere along the gas line between the meter and the first gas-fuelled appliance in your home. Most house-side valves are ball valves. If you have a high-pressure gas system, your main shutoff valve may be next to your furnace or water heater. High-pressure gas systems are more common in new builds. Turning off the house-side or main shutoff valve will turn off the gas supply to your whole house.
+
+Gas-powered appliances have their own shutoff valve on the supply line. Appliance shutoff valves are usually ball valves, and you can find them by inspecting the gas lines within a few feet of the appliance.
+
+Why Would I Need to Turn Off My Gas Supply?
+-------------------------------------------
+
+You'll usually only need to turn off the house-side or main gas supply valve if you suspect a gas leak. If you smell gas or can hear the hissing sound of gas escaping from a supply line, it's best to turn the main supply off as quickly as possible and evacuate your home while you wait for assistance from an expert contractor.
+
+If you need to repair or replace a gas-fueled appliance, you'll need to turn off the gas supply first at the appliance shutoff valve. Turning off the appliance supply valve allows you or an engineer to work on the appliance safely without turning off the gas supply to the entire house.
+
+**More Related Articles:**
+
+*   [How to Install or Replace a Gas Water Heater?](https://www.homeserve.com/en-us/blog/how-to/install-gas-water-heater/)
+*   [How to Relight Your Water Heater’s Pilot Light](https://www.homeserve.com/en-us/blog/how-to/light-water-heater-pilot-light/)
+*   [How to Relight Your Furnace Pilot Light in 5 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/pilot-light-furnace/)
+*   [How Much Does a Gas Fireplace Cost?](https://www.homeserve.com/en-us/blog/cost-guide/gas-fireplace-installation/)
+*   [How to Light a Gas Fireplace: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/light-gas-fireplace/)
+
+How Do I Turn Off My Gas Supply?
+--------------------------------
+
+You can turn off a house-side valve, a main supply valve or an appliance valve by twisting the lever on the ball valve a quarter turn until it is perpendicular to the supply pipe. If you need to turn off the gas at the street-side valve in an emergency, use a 12-inch wrench to twist the handle so it's perpendicular to the line.
+
+In an emergency situation, you shouldn't turn the gas supply back on without calling your gas company to inspect your system. A gas engineer can check for any faults or leaks before verifying that it's safe to turn the gas back on.
+
+How Do You Tell If the Gas Supply Is On or Off?
+-----------------------------------------------
+
+The simplest way to tell if the gas supply is off is to check the position of the gas shutoff valve lever. If the lever is perpendicular to the supply pipe, the gas supply is switched off. If it's parallel to the line, the supply is on.
+
+However, a faulty valve could allow gas to flow through the pipes even when you turn the lever to the off position. Try listening to the pipe to see if you can hear gas flowing through it. You could also check to see if the pilot lights on your gas fixtures are on to tell if the supply is on or off if it's safe to do so. If you're unsure whether your supply is on or off, you should call your gas company or a certified engineer to inspect your system.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Does a Power Surge Happen?"
+headline: "Why Does a Power Surge Happen?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-10-14
+basePath: https://library.homeserve.com/m/
+heroImage: 220c21e0a115a3fe/webimage-iStock_000002833325Lrg_lightning_homeCurves.png
+heroAltDescription: "night lightening storm"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Power surges can affect how electronics operate. Being aware of what power surges are and how they happen can help you prevent issues. "
+articleAbstract: "Power surges can affect how household electronics and appliances operate. Being aware of what power surges are and how they happen can help you prevent issues. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Does a Power Surge Happen?"
+  parent: Electrical-Home-Improvement
+---
+  A quick glance around the room you're in right now will likely reveal lots of items that rely on electricity to run. From TVs and charging cell phones to washing machines and refrigerators, most households call on many electronics to keep things running smoothly.
+
+**This May Also Interest You:** [**What’s a Whole-House Surge Protector?**](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-surge-protector/)
+
+Power surges can affect how those items operate. Being aware of what power surges are and how they happen can help you prevent issues.
+
+What Is a Power Surge?
+----------------------
+
+Power surges happen when your home's electrical system receives electrical power that's higher than the normal levels. The electricity surges into the home faster than expected for a very short period. For a regular electrical outlet in your home, the normal power level is 120 volts. This can usually safely fluctuate up to 169 volts — surges that exceed this range can cause issues. Power surges can vary in size from relatively minor increases to major surges of several thousand volts that can cause damage.
+
+Why Does a Power Surge Happen?
+------------------------------
+
+A power surge can happen due to internal or external forces. Your power company can cause the issue if they send too much power to your home due to various factors. Lightning can cause surges, as can issues with transformers. An unexpected increase in power can also originate inside your home based on how you're using your electrical circuits or from larger appliances that draw a lot of power when they turn on.
+
+What Are Some Common Causes of Power Surges?
+--------------------------------------------
+
+Your home can experience a power surge from a variety of sources. Some common causes include:
+
+* **Electrical overload.** This happens when one circuit in your home draws too much power, such as when you have lots of things running on the same circuit.
+* **Lightning.** A lightning strike can severely overload your electrical system and fry everything plugged into it. Unplugging electronics during lightning storms can protect your important items.
+* **Power outages.** Another risk that's common during storms is a power outage. It's possible to have a large boost in the current when the power turns back on, which can result in a power surge.
+* **Bad wiring.** If you have faulty or outdated wiring, it can cause issues throughout your electrical system, including causing power surges.
+* **Power grid switching.** This is an external source of power surges that is caused by your electric company.
+* **Transformer malfunctions.** You can also get an externally generated surge in power due to malfunctioning transformers or transmission lines.
+
+No matter what the source of the power surge is, the overwhelming amount of power through your home can cause issues.
+
+**More Related Articles:**
+
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets with GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/replace-electrical-panel/)
+
+Can a Power Surge Damage Devices and Appliances?
+------------------------------------------------
+
+Occasional small surges won't likely cause damage to your electronics or devices. However, large power surges can cause damage, as can lots of little power surges that keep happening over time. When your home has a power surge, it can cause an arc of electrical current, which can cause heat inside the device. That heat can damage the components that keep it running.
+
+Sometimes, a power surge will destroy an appliance or electronic device instantly. Other times, the device will still work, but it can shorten its lifespan or clear data stored on the device. Items with digital components can be particularly vulnerable to an increase in power.
+
+How Can You Prevent Power Surges and the Resulting Damage?
+----------------------------------------------------------
+
+It's impossible to prevent all power surges, especially ones that originate outside your home. You have no control over the weather or the power company. However, you can protect your appliances and electronic devices through surge protection devices.
+
+Whole-house surge suppressors connect to your breaker box to stop the excess power from reaching the rest of your electrical system. This option protects your home from all causes of power surges because it stops them where they enter the electrical system.
+
+You can also get surge protector power strips that protect individual items plugged into that strip. Not all power strips come equipped with surge protection, so make sure you choose one that does. Look for a joule rating on the package to make sure it protects against power surges. The higher the joule rating, the more protection your devices will have during power surges. These devices are usually effective at protecting items from power surges unless you experience an unusually high spike.
+
+It's also important to use electrical items carefully within your home. Ensure your circuits are balanced to avoid overloading one circuit with lots of items. Large items that pull a large amount of power, such as air conditioners, should have a dedicated circuit. If your home is older, upgrading your wiring can ensure the circuits can handle the electrical loads. You can also have ground-fault circuit interrupter (GFCI) outlets installed in your home.
+
+What Should You Do After a Power Surge?
+---------------------------------------
+
+You won't always notice when a power surge happens, but sometimes, you'll have some clues. Some possible signs include a breaker tripping, electronics that stop working, light bulbs briefly glowing brighter or blinking lights and clocks on electronics. You might also be able to identify the cause, such as plugging in or turning on something on a circuit that's already full of items or your air conditioner powering on. In those cases, you can correct the issue by moving items to different circuits, for example.
+
+It's a good idea to unplug your devices and reset your circuit breakers after a power surge. You can then plug your electronics back in and reset them if necessary to see if that gets them to work properly. Check your appliances and electronics for signs of damage, such as things not working correctly or failing to turn on at all.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

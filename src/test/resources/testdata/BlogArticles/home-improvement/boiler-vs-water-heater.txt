@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What's the Difference Between a Boiler and a Water Heater?"
+headline: "What's the Difference Between a Boiler and a Water Heater?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-04-24
+basePath: https://library.homeserve.com/m/
+heroImage: 428249fb144557a5/Blog-GettyImages-174953415.jpg
+heroAltDescription: "boiler"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Boilers and water heaters both heat water in a pressurized tank. But what they do from there differentiates these two machines."
+articleAbstract: "Boilers and water heaters both heat water in a pressurized tank. But what they do from there differentiates these two machines."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's the Difference Between a Boiler and a Water Heater?"
+  parent: Plumbing-Home-Improvement
+---
+  Boilers and water heaters have a lot in common, so it’s understandable if you’re curious about the real difference between the two.
+
+**This May Also Interest You:** [**4 Signs Your Boiler Needs to be Repaired or Replaced**](https://www.homeserve.com/en-us/blog/home-improvement/boiler-repair-replacement/)
+
+After all, both units heat water in a pressurized tank. However, there are also crucial differences in how they work and what they're for.
+
+What Is a Boiler?
+-----------------
+
+A boiler is a heating unit used to provide hot water to radiators. These are alternatives to a furnace and form part of some HVAC systems.
+
+Residential boilers heat water inside a storage tank using gas, oil or electricity. The water remains near-boiling unless you turn the boiler off. A pump pushes the hot water through the pipes around your house, supplying radiators and heating your home.
+
+What Is a Water Heater?
+-----------------------
+
+A water heater has a sealed tank and a heat source such as a gas flame, electric coils or heat exchanger. Cold water enters the bottom of the tank and rises to the top as it gets hotter before exiting via an outlet pipe. The water travels through pipes to household fixtures such as showers or sink faucets, supplying hot water at the tap.
+
+Boiler Vs. Water Heater: What's the Difference?
+-----------------------------------------------
+
+The primary difference between a boiler and a water heater is their purpose: boilers produce hot water for central heating systems, while water heaters produce hot water for domestic uses such as washing hands or showering. There are also differences in how the water moves through your house. Hot water from a boiler circulates around the house via a loop of pipes, while water from your water heater supplies each fixture separately.
+
+Another key difference is that water from a water heater is safe to drink. Hot water from a boiler isn't potable, but that's not an issue, as it doesn't supply your fixtures.
+
+Water heaters and boilers also heat water to different temperatures. Boilers heat water to a near-boiling point so it's hot enough to warm your living spaces, but even the hottest water from a water heater is typically nowhere near as hot.
+
+Most homes in the United States use a ducted hot air system for heating, so you won't need to install a boiler unless you happen to have a radiator heating system. However, every home needs a water heater— without one, you wouldn't have a hot water supply to your plumbing fixtures.
+
+**More Related Articles:**
+
+*   [How Much Does Boiler Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-repair/)
+*   [How Much Does Heating Oil Cost?](https://www.homeserve.com/en-us/blog/cost-guide/home-heating-oil/)
+*   [Why Am I Using So Much Heating Oil? Here’s How to Reduce Your Consumption](https://www.homeserve.com/en-us/blog/how-to/reduce-heating-oil/)
+*   [How Does Heating Your Home With Oil Work — and Who’s Still Using It?](https://www.homeserve.com/en-us/blog/home-improvement/home-heating-oil/)
+*   [How Much Does It Cost to Replace an Oil Furnace?](https://www.homeserve.com/en-us/blog/cost-guide/oil-furnace-replacement/)
+
+What About Combination Boilers?
+-------------------------------
+
+Combination boilers, also known as combi boilers, are an exception to these rules. Combi boilers combine the function of a standard boiler and a water heater by producing hot water for both central heating and domestic use. They channel water through a heat exchanger when you turn on a faucet or shower and through a heating loop for supplying radiators.
+
+Combi boilers are common in many countries, but they're relatively unusual in the United States. However, they could be a good option if you need to save space, as they are significantly more compact than separate water heater and boiler units.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

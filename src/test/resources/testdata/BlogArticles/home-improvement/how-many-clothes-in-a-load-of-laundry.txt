@@ -1,0 +1,91 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Many Clothes Are in a Load of Laundry?"
+headline: "How Many Clothes Are in a Load of Laundry?"
+author: Angela Noel
+tags: ["post"]
+publishDate: 2023-11-12
+basePath: https://library.homeserve.com/m/
+heroImage: 46d321c0f5a1560d/Blog-GettyImages-1439955644.jpg
+heroAltDescription: "Laundry"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "How many clothes you can put in a washing machine? Here are a few rules to determine how much is in one load of laundry."
+articleAbstract: "This guide helps you understand how many clothes you can put in a washing machine. It discusses how proper load size ensures clothing comes out clean while preventing stress and potential damage to your appliances."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Many Clothes Are in a Load of Laundry?"
+  parent: Appliances
+---
+  If your washer could register a seven on the Richter scale, you may have added a few too many pairs of jeans. It's difficult to determine just how many clothes you can put in a washing machine, especially when you consider the difference between the size of a man's shirt and a small child's.
+
+**ThisMayAlsoInterestYou:* ***How Long Do Appliances Last?**
+
+Ironing out the details, however, doesn't have to take all day. Here are a few rules to determine how much is in one load of laundry.
+
+How Many Clothes Can You Put in a Washing Machine?
+--------------------------------------------------
+
+There are numerous styles and models of front-loading washers, top-loaders and H.E. washing machines. How can you know how many pieces of clothing go into a load of laundry in this complicated environment?
+
+### One Rule to Rule Them All
+
+The key to load size comes down to machine type, not style. All washers, including front and top loaders, are measured in cubic feet, which is why you see measurements, such as 3.5 or 4.2 cubic feet, included in a sales listing.
+
+The machine’s size — compact, large or otherwise — determines its tub capacity, which is the magic number when calculating potential load sizes.
+
+* **Compact:** 1.5 to 3.4 cubic feet
+* **Standard:** 3.5 to 4.4 cubic feet
+* **Large:** 4.5 to 5.0 cubic feet
+** *Extra-large:** 5.1 to 6.2 cubic feet
+
+### How Much Does a Load of Laundry Weigh?
+
+Clothing items are rarely one-size-fits-all. A man's big and tall shirt is considerably larger than a boy's sports jersey. For this reason, laundry load sizes are determined by the weight of the clothes when dry. How many pounds of laundry to add per load is determined by machine type.
+
+*   Compact: 4 to 6 pounds
+*   Standard: 12 to 16 pounds
+*   Large: 16 to 20 pounds
+*   Extra-large: 20 to 25 pounds
+
+How Many Clothes (Roughly) Are in a Load of Laundry?
+----------------------------------------------------
+
+The easiest way to determine clothing weight at home is to use a bathroom scale. Fill a hamper with laundry that you feel would fit without overloading your washing machine. Overloading your unit can strain its components because of the excess weight, which can drastically reduce the life span of your washer.
+
+Now, weigh yourself without the hamper and then again with the hamper. Subtract your weight without the hamper from your weight with it. The difference is the laundry's weight.
+
+The type of fabric plays a big role in the average weight of a load of laundry, but there are general guidelines.
+
+*   XL T-shirt: 0.5 pounds
+*   Medium blue jeans: 1.6 pounds
+*   Medium sweatshirt: 0.9 pounds
+
+A large load of laundry in a large-capacity washing machine would be roughly 18 pounds or 16 T-shirts and 12 sweatshirts.
+
+**More Related Articles:**
+
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Clean a Washing Machine Drain](https://www.homeserve.com/en-us/blog/how-to/clean-washing-machine-drain/)
+*   [Here’s How to Change the Direction the Door Swings on Your Washer and Dryer](https://www.homeserve.com/en-us/blog/how-to/reverse-washer-dryer-door/)
+*   [How to Move Your Washing Machine](https://www.homeserve.com/en-us/blog/how-to/move-washing-machine/)
+*   [Should You Repair or Replace Your Washing Machine?](https://www.homeserve.com/en-us/blog/home-improvement/washing-machine-repair-replacement/)
+
+### How Many Towels Are in a Load of Laundry?
+
+One large bath towel weighs around 1.6 pounds, making the load size easy to figure out.
+
+*   Standard washer: 7
+*   Large washer: 11 
+*   Extra-large washer: 15
+
+### How Many Linens/Sheets Are in a Load of Laundry?
+
+Cotton, silk and linen sheets can have substantial differences in weight due to the fabric and weave density. A general rule of thumb is that a full-sized sheet weighs 1.3 pounds, equaling 16 sheets in an extra-large washer.
+
+How Full Should a Washing Machine Be?
+-------------------------------------
+
+If the above example of a load of sheets seems like a lot for one load of laundry, it might be. Bulk is another factor to consider.
+
+The laundry should never fill a drum over three-quarters full. While it may feel like a small load, this wiggle room is vital to ensure clothes have the space needed to wash and rinse properly. If the washer is overloaded, clothes may twist together and retain soap or dirt residue.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/E7N374KASqs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Eco-friendly laundry hack!"></iframe>

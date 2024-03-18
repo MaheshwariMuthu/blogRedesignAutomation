@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Fix a Wobbly Ceiling Fan"
+headline: "Where There's a Wobble, There's a Way: How to Fix a Wobbly Ceiling Fan"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-04-17
+basePath: https://library.homeserve.com/m/
+heroImage: f626afe155c0a27/Blog-CoinFanBalance_Erossi00089.jpg
+heroAltDescription: "a quarter coin taped to the blade of a wooden ceiling fan to add balance "
+metaDescriptions: "Fixing a wobbly ceiling fan is something you can most likely take on yourself without any major tools or equipment. Here's what you need to know."
+articleAbstract: "Fixing a wobbly ceiling fan is something you can most likely take on yourself without any major tools or equipment. Here's what you need to know."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Fix a Wobbly Ceiling Fan"
+  parent: HVAC-How-To
+---
+  
+
+**Diagnosing Your Ceiling Fan’s Wobble at a Glance**
+
+*   Check fan box or fan brace to ensure everything’s properly tightened
+*   Look for blade cracks, warping or other damage
+*   Ensure fan blades are all at same height
+*   Make sure blades are balanced using blade balancing kit or coins
+
+Do people cringe in fear when walking under your wobbly ceiling fan that looks like it could fly off at any moment, blades spinning perilously, and come crashing to the floor? Their fears aren’t irrational: If your fan visibly shakes every time it’s on, it very well could be a safety hazard.
+
+**This May Also Interest You:** [**How to install a Ceiling Fan**](https://www.homeserve.com/en-us/blog/how-to/install-ceiling-fan/)
+
+Fixing a wobbly ceiling fan is something you can most likely take on yourself without any major tools or equipment. Read on to learn how.
+
+Check the Fan Box or Fan Brace
+------------------------------
+
+A properly installed and secure ceiling fan will be attached to either a fan box or a fan brace. Basic electrical boxes for lighting are not equipped to handle the additional weight of the fan, which is why you need a box or brace. If your ceiling fan is only attached to an electrical box, you’ll need to purchase and attach a fan brace. These are widely available at home improvement stores.
+
+Before doing any investigative work, pull the cord controlling the fan so it won’t accidentally be switched on, and turn off the switch to the fan. To feel extra secure, flip the circuit breaker to cut off power to the fan — but keep in mind that, if you do this, you won’t be able to fully test the fan until power is restored.
+
+If your fan is attached to a box or brace, check the fan support bracket. It might be that this bracket only needs a little tightening to get rid of the wobble. Make sure the screws attaching the fan box to the ceiling are secure, as well.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6d3c5900a6349d37/Blog-CeilingFanPivotBall_Erossi_00084.jpg" alt="close up of a ceiling fan downrod"/>
+
+You’ll also want to check the hanger ball. This is a small ball that fits in a similarly shaped bowl. Attached to the ball is the center rod of the fan. Ensure the hanger ball fits snugly in its joint and doesn't move around.
+
+All screws should be checked, including the screws holding the blades and any connections between the light and fan, and tightened if necessary. Loose screws on any part of the ceiling fan means the parts can move independently, which could make the entire fan wobble. Once you’ve tightened all the screws, turn the fan on high to test whether it still wobbles.
+
+Look for Blade Damage and Blade Height Issues
+---------------------------------------------
+
+If tightening the fan’s screws didn’t work, the next step is to see if any of your blades or blade holders are warped, bent or cracked. Safely using a stepladder, stand eye-level to your fan blades. Look down each one to see if there are any sign of warping or cracking. The blade holders are the metal pieces at the end of each blade. Are they cracked or worn? If you see any warping, cracking or other such wear and tear, on either the blade or the blade holders, contact your fan’s manufacturer for replacements.
+
+The next thing to check is the actual height of your individual blades. Are they all the same? Use a yardstick to measure the outside edges of the blades. Always measure the same edge of the blades as they are naturally tilted. Line the yardstick up with the edge of the blade and hold it against your ladder or step stool. Then, spin the fan. Make sure all blades hit the yardstick at the same height. If not, try tightening the screws that connect the blades to the motor. Do this for the lower blades, and then see if their height is now the same as the others. Now, turn the fan on high to see if the wobble is gone.
+
+**More Related Articles:**
+
+*   [As the Seasons Change, So Should the Direction of Your Ceiling Fan](https://www.homeserve.com/en-us/blog/home-improvement/ceiling-fan-direction/)
+*   [How Much Does it Cost to Install or Replace a Ceiling Fan?](https://www.homeserve.com/en-us/blog/cost-guide/ceiling-fan-installation/)
+*   [How to Remove a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/remove-ceiling-fan/)
+*   [Best Outdoor Ceiling Fans](https://www.homeserve.com/en-us/blog/buying-guide/best-outdoor-ceiling-fans/)
+*   [Exhaust Options: A DIY Bathroom Fan Installation Overview](https://www.homeserve.com/en-us/blog/how-to/install-bathroom-fan/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/2de529829d822817/Blog-CeilingFanCoinBalance_Erossi_00086.jpg" alt="person placing a quarter on to a ceiling fan blade with a piece of scotch tape "/>
+-------------------------------------------
+
+Balance Your Blades
+-------------------
+
+Unbalanced blades can cause a lot of wobbling. You can purchase a blade balancing kit at home improvement stores. You can also use household items to make your own. A blade balancing kit contains small weights (either clips or adhesive weights) that you attach to your fan blades to make them run smoothly once again. You attach the weights individually to the blades until the balance is back. If you’d like to do this without purchasing a kit, you can use nickels and dimes to replicate the weights. You’ll also need tape to adhere the coins to the blades. The process is the same: attaching the coins to the blades and testing the fan until it runs smoothly. Using coins does take a little longer, as you’ll need to tape and untape each coin as you go through the balancing act.
+
+You test the fan by attaching a weight or coin to one blade, turning on the fan and seeing if it stills wobbles. Move through the blades until the fan no longer shakes. You can start by putting the weight in the center of the blade and then moving it inward toward the motor or outward to find the spot where the weight will stop the ceiling fan’s wobble. You may need to use more than one weight on a blade to balance it. If the fan still isn’t balanced, the blades may not have been installed correctly. Swap the blade positions and retest. If you still can’t get rid of the wobble, it’s safer at this point to call in a professional to properly diagnose and fix the issue.
+
+_From wobbly fans to blocked-up sinks, lots of little issues can crop up when you own a home. The minor challenges you can probably tackle yourself, but you can eliminate some of the stress and worry over fixing the big stuff. A repair protection plan from HomeServe can take care of your plumbing, HVAC, electrical systems and more. Get peace of mind with their 24/7 repair hotline and help manage home repair costs._
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8mzG-IJupUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

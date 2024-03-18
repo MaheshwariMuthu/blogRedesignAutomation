@@ -1,0 +1,80 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Warming to the Idea of an Induction Cooktop? Here’s Your Introduction to Induction
+headline: The Pros and Cons of Induction Cooktop and Ranges
+author: Jayme Smith
+tags: ['post']
+publishDate: 2020-12-16
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: kitchen-top-view.jpg
+heroAltDescription: kitchen top beauty shot
+metaDescriptions: Buying a new stove can be a fun experience when you’ve got the knowledge of different types available. An induction cooktop can be a great choice due to all its benefits.
+articleAbstract: Buying a new stove can be a fun experience when you’ve got the knowledge of different types available. An induction cooktop can be a great choice due to all its benefits.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Warming to the Idea of an Induction Cooktop? Here’s Your Introduction to Induction
+  parent: Home Improvement & Maintenance
+---
+
+If you&#39;re in the market for a new stove, you&#39;ve got options, starting with how you get your heat: electric, gas or induction. Each type has its own perks and drawbacks, and your personal preference is just that: personal. Induction cooking might not be as well-known as gas or electric, but it offers a broad range of benefits — for example, an induction cooktop stove heats up faster and can be safer for families.
+
+**This May Also Interest You:** [**Choosing the Right Oven/Cooktop for Your Kitchen**](https://www.homeserve.com/blog/2018/september/choosing-the-right-oven-cooktop-for-your-kitchen)
+
+Let&#39;s acquaint you with what an electric induction cooktop is, how it works, the different types and what you can expect when using one.
+
+## What Is an Induction Cooktop?
+
+An induction cooktop is a stove with a flat glass surface. The solid glass surface has spots for burners, just like an electric or gas stove. Under the glass, heating elements are powered by electromagnetic energy.
+
+Induction stovetops are more energy-efficient, as heat isn&#39;t lost in the transferring process. With electric or gas ranges, a lot of heat is lost to the air surrounding the pots and pans. Also, the efficiency is impressive: a 6-quart pot of water can be brought to a boil in less than 15 minutes on an induction range.
+
+## How Does Induction Cooking Work?
+
+The heating coils of the induction range are powered by electromagnetic energy that is only activated by iron in cookware. As the iron makes contact with the active heaters, iron particles agitate, which causes the cookware to heat up quickly.
+
+Unlike gas or electric stoves, there is no transfer of heat from the cooktop to the pots and pans. Instead, the cooktop surface stays cool to the touch while the pot or pan heats up. Since there is no waiting for the burner to heat up, the process is a lot faster than a typical electric or gas stove.
+
+## What Kind of Cookware Works on an Induction Cooktop?
+
+The induction cooktops do require special cookware, although some of your existing pots and pans may be compatible. Induction-safe cookware contains iron particles, which activate and create heat when they come in contact with induction heaters. Stainless steel pots and pans are generally compatible with an induction cooktop. To perform a simple test to see whether your current pots and pans will work with the induction cooktop, simply do a magnet test. If a magnet sticks to the bottom of your pots and pans, they&#39;ll work with your induction cooktop.
+
+## The Benefits of Induction Cooktop and Range
+
+Because the heat transfer is more efficient when cooking with induction, you&#39;re more in control of the temperature. Electric cooktops take a lot of time to heat up and cool down, but with induction, once you turn the burner up or down, the heat change is instantaneous. No more waiting for the heat to go down or up. When you turn the burner off, the heat stops immediately.
+
+Induction cooking also is a safer option. It doesn&#39;t emit gas into the air and won&#39;t catch objects like dishcloths or towels (or, let&#39;s face it, arm hair) on fire, as it only heats items comprising iron particles. That makes it a strong consideration for households with children.
+
+## Types of Induction Cooktops
+
+There are multiple types of induction cooktops, including single-element, multi-element, built-in, freestanding and commercial variants. You should choose the one that best suits your unique situation.
+
+### Single-Element Induction Cooktops
+
+Single-element units contain only one surface where there is a heating element. For small apartments, camping or emergency use, this can be a good option, as they&#39;re less costly and more portable than other cooking units.
+
+### Multi-Element Induction Cooktops
+
+Multi-element models contain multiple cooking zones, where different cookware can be used for simultaneous cooking of various dishes. These variants are more costly than the single-element induction units, but offer more flexibility and cooking surfaces, making multi-element cooktops preferable for anyone who regularly cooks for several people at once, i.e. families.
+
+### Built-in Induction Cooktops
+
+Built-in induction cooktops are a popular choice for homes, as they provide a custom-built, seamless look, as they&#39;re literally built right into the countertop. They contain multiple elements, and are generally installed by a skilled technician to ensure, among other considerations, that they&#39;re flush with the countertop.
+
+### Freestanding Induction Cooktops
+
+Freestanding models look like a typical gas or electric stove, but have a flat glass surface on the top. They&#39;re typically situated between countertops, but also can be installed outdoors. These units can be placed in multiple locations in a kitchen, offering flexibility in kitchen design. The cooktops have multiple burners and also incorporate an oven or multiple oven units below the cooktop.
+
+### Industrial Induction Cooktops
+
+Commercial models are much more durable and allow for higher power ratings. They may not have the aesthetic &quot;wow&quot; factor of some of the other units, but are extremely durable and built to last.
+
+## Electric Stove Vs. Induction Cooktop
+
+Electric stoves work by heating up a coil element and transferring that heat to pots and pans. While that&#39;s an effective way to heat up food, there&#39;s also a lot of heat lost to the air, so it&#39;s not particularly efficient. It uses infrared energy to transfer the heat evenly to the pot or pan. Once you turn off the burner you&#39;re using, the burner will continue to stay hot, which can be a danger for someone who is unaware.
+
+Induction cooktops are also electric, as they don&#39;t use gas or another fuel to create a flame for heat. What sets induction models apart from regular electric stoves is the manner in which they heat pots and pans. Like electric stoves, they provide heat through coils under the surface. However, they use copper coils and heating occurs through electromagnetic radiation. Induction cooking basically uses magnets to distribute heat.
+
+_When you have an appliance plan from HomeServe, you can rest assured that you have someone to help keep your appliances working properly. When an issue arises, just call the 24/7 repair hotline, and a local, expert technician will be sent to your home to handle repairs up to the benefitted amount. Find out more about [plans from HomeServe](https://www.homeserve.com/) today._
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ggTcpCrQDZU" title="YouTube video player" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

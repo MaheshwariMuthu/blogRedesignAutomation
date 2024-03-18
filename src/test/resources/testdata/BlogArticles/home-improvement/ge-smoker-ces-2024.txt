@@ -1,0 +1,40 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "CES 2024: Smoke Indoors in Las Vegas With the New GE Profile Smart Smoker"
+headline: "CES 2024: Smoke Indoors in Las Vegas With the New GE Profile Smart Smoker"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2024-01-11
+basePath: https://library.homeserve.com/m/
+heroImage: 7c60e3d2de99dc22/Blog-GEProfileSmoker1.jpg
+heroAltDescription: "image of a ge profile smoker"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The GE Profile Smart Indoor Smoker brings the fun and flavor of an outdoor smoker to your kitchen. We checked it out at CES 2024 in Las Vegas."
+articleAbstract: "The GE Profile Smart Indoor Smoker brings the fun and flavor of an outdoor smoker to your kitchen. We checked it out at CES 2024 in Las Vegas."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "CES 2024: Smoke Indoors in Las Vegas With the New GE Profile Smart Smoker"
+  parent: Appliances
+---
+  _Smoking or non?_ These days, one of the few places where you might still be asked this question is Las Vegas, Nevada. This town is also home to CES (formerly the Consumer Electronics Show), where GE has announced the launch of its brand-new _indoor_ smoker, a countertop appliance.
+
+**This May Also Interest You:** [**CES 2024: Wi-Fi-Enabled Electric Grill Cooks Without Flames ... But It's Still Fire!**](https://www.homeserve.com/en-us/blog/home-improvement/current-backyard-ces-2024/)
+
+The GE Profile Smart Indoor Smoker purports to be a first-of-its-kind electric appliance that brings the fun and flavor of an outdoor smoker to your kitchen. The smoker uses smoke from real wood — just like an _outdoor_ smoker — and precision controls and smoke settings allow you to season your food to your liking. Instead of setting off your smoke alarms, the airflow system and Active Smoke Filtration technology keep any smoky fumes sealed inside the appliance.
+
+The system connects to the SmartHQ app, the platform used by GE for its other smart appliances. Anyone who’s ever used an outdoor smoker knows that smoking food is something of a waiting game. So, the app allows you to check the status of your food remotely. You can also change up the settings on the app so your meat’s ready when you are. According to GE, the connected appliance can receive over-the-air updates for increased functionality in the future.
+
+This smoker could be a good option for those who want to dip their toes into smoking but aren’t ready to — or living situations don’t allow them to — get an outdoor rig. Six built-in presets make it easy to get started, even if you don’t know much about smoking. That said, GE says the customizable settings are great for experienced smokers.
+
+**Read More CES 2024 Coverage:**
+
+*   [CES 2024: Smart Drain-Line Cleaner Gets the Goop Out to Keep Your Air Conditioner Crankin'](https://www.homeserve.com/en-us/blog/home-improvement/iflo-ces-2024/)
+*   [CES 2024: Energy-Savvy Sevvy Smart Cooker Keeps Heat Low, Nutrition High](https://www.homeserve.com/en-us/blog/home-improvement/sevvy-smart-cooker-ces-2024/)
+*   [CES 2024: Smart Dishwasher Helps Homeowners Dole Out Detergent, Let Off Steam](https://www.homeserve.com/en-us/blog/home-improvement/hisense-dishwasher-ces-2024/)
+*   [CES 2024: Property-Monitoring Device Keeps Would-be Noisy, Smoking, Partying Rental Guests Honest](https://www.homeserve.com/en-us/blog/home-improvement/alertify-ces-2024/)
+*   [CES 2024: All-in-One Appliance Washes, Dries Clothes in Same Machine, Lightening Your Laundry Load](https://www.homeserve.com/en-us/blog/home-improvement/ge-profile-heat-pump-tech-ces-2024/)
+
+The GE Profile Smart Indoor Smoker is on sale now for $999. In the box, you get the smoker with three cooking racks, two rack holders, a drip pan, a waste bin and a counter guard. It also comes with a cookbook of smoking recipes and a bag of GE Profile/Kona-branded pellets.
+
+The indoor smoker is also on display at CES in Las Vegas from Jan. 7 to Jan. 12. Follow along with our coverage of the show to see what else is new in the home appliance space.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Clean Your Oven | Cleaning Oven Tips and Tricks"></iframe>

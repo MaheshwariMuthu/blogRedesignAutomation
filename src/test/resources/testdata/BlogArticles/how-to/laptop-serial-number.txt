@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Find a Serial Number on a Windows Laptop"
+headline: "How to Find a Serial Number on a Windows Laptop"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-03-26
+basePath: https://library.homeserve.com/m/
+heroImage: 7c022d2ba0eb5901/Blog-DellLaptop_MSchmitz_0001.jpg
+heroAltDescription: "A black colored Dell brand laptop computer sits on a shiny black granite countertop"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "You might need your Windows laptop's serial number for warranty repairs or a police report. Here's how to find it."
+articleAbstract: "Knowing your laptop's serial number could prove invaluable if your computer breaks or gets stolen. Here's how to find the serial number of laptops that run the Windows operating system, made by manufacturers like Dell, Lenovo, HP, Acer and more."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Find a Serial Number on a Windows Laptop"
+  parent: Appliances-How-To
+---
+  Knowing your laptop's serial number could prove invaluable if your computer breaks or gets stolen. However, many people don't bother writing down their serial number—only to regret it later.
+
+**This May Also Interest You: How to Find the Serial Number on Your Appliances and Gadgets**
+
+Fortunately, it's a quick and straightforward process to find your computer's serial number. For the purposes of this guide, we’re talking about laptops that run the Windows operating system, made by manufacturers like Dell, Lenovo, HP, Acer and more.
+
+Why Do You Need to Know Your Laptop's Serial Number?
+----------------------------------------------------
+
+The police will ask for your laptop's serial number to complete a report if someone steals it. You may also need to supply this report to your insurer if you want to make a claim for your loss.
+
+If your laptop is still under warranty and it breaks down, the repair technician will need to know the serial number. The number lets them access the device's repair history and find out what parts it contains.
+
+How to Find Your Laptop's Serial Number
+---------------------------------------
+
+### Check the Device
+
+The easiest way to find your laptop's serial number is to check the device itself. Some manufacturers attach a sticker with the serial number to the bottom of the computer. Others stamp the serial number on the device casing. It's also worth removing the battery to see if there's a sticker with the serial number within the battery compartment.
+
+### Run a WMIC Command
+
+Running a WMIC command can often recover your laptop's serial number. Begin by right-clicking on the Start icon and choosing “Command Prompt” on Windows 8 or 10. If your computer runs Windows 7, click Windows + R on the keyboard.
+
+Enter: **cmd**
+
+Then, hit the enter key.
+
+Enter this code to view your serial number: **wmic bios get serialnumber**
+
+### Look at the BIOS Screen
+
+If you can't sign in to your laptop, you can try accessing the BIOS screen. Where you find the serial number within this menu varies by manufacturer, but you can often locate it under “Main” or “System.”
+
+Keep in mind that the last two options won’t be available in all cases; you won't be able to find your serial number via a WMIC command search or the BIOS screen if the manufacturer didn't store it on the computer's BIOS.
+
+**More Related Articles:**
+
+*   [How to Find a Serial Number on a Chromebook](https://www.homeserve.com/en-us/blog/how-to/chromebook-serial-number/)
+*   [3 Ways to Find the Serial Number on Your iMac](https://www.homeserve.com/en-us/blog/how-to/mac-serial-number/)
+*   [How to Find a Serial Number on a Samsung TV](https://www.homeserve.com/en-us/blog/how-to/samsung-tv-serial-number/)
+*   [Here Are 4 Ways to Find the Serial Number on a Hisense TV](https://www.homeserve.com/en-us/blog/how-to/hisense-tv-serial-number/)
+*   [How to Find a Serial Number on a Kindle Fire](https://www.homeserve.com/en-us/blog/how-to/kindle-fire-serial-number/)
+
+What If You Don't Have Your Laptop?
+-----------------------------------
+
+If you don't have your laptop on hand or the above methods don't work, you may be able to find the laptop's serial number printed on your registration documents or warranty. Otherwise, your only remaining option is to contact the manufacturer's help center to see if the company can supply the serial number.
+
+Should You Share Your Laptop's Serial Number?
+---------------------------------------------
+
+Could someone use your laptop's serial number fraudulently? It's unlikely, but there's a small risk that they could use it to get repairs under warranty or receive a replacement laptop. Then when you try to file a claim, you may not be able to receive repairs or a replacement. Therefore, it's a good idea to keep the serial number private unless a repair technician or police officer asks for it.

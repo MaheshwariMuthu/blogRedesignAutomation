@@ -1,0 +1,106 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Find a Serial Number on a Windows Desktop Computer"
+headline: "How to Find a Serial Number on a Windows Desktop Computer"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-02-25
+basePath: https://library.homeserve.com/m/
+heroImage: 7e7a19a70ec1160b/Blog-WindowsComputerTower_MSchmitz_0001.jpg
+heroAltDescription: "A Dell brand computer tower sits on the carpeted floor of a home"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Knowing your PC's serial number is important. Here's how to find your desktop computer's serial number."
+articleAbstract: "It's easy enough to recover your desktop computer’s serial number, even if you don't have the computer on hand. This guide applies to Windows desktop computers from brands like Dell, Lenovo, HP, ASUS and more."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Find a Serial Number on a Windows Desktop Computer"
+  parent: Appliances-How-To
+---
+  
+
+_HomeServe photo by Matt Schmitz_
+
+One of the first things you should do after purchasing a new computer is write the serial number down, but many people forget.
+
+**This May Also Interest You: How to Find the Serial Number on Your Appliances and Gadgets**
+
+Fortunately, it's easy enough to recover your desktop computer’s serial number, even if you don't have the computer on hand. The following guide applies to Windows desktop computers from brands like Dell, Lenovo, HP, ASUS and more.
+
+Why You Should Know the Serial Number of Your Desktop Computer
+--------------------------------------------------------------
+
+The most common situation where people need to know their serial number is when they take their computer in for repairs under warranty. If you purchase insurance for your device or get a third-party warranty plan, you may have to supply the serial number so the company can verify which specific device the coverage applies to.
+
+If your computer gets stolen, you may also have to supply your serial number to the police. Even if the police can't locate your computer, you'll need to provide a police report with the serial number on it to your insurer when you file a claim.
+
+What Can Your Computer’s Serial Number Tell You?
+------------------------------------------------
+
+Depending on the manufacturer, your computer’s serial number provides a record of your warranty, including any repairs carried out under warranty. A repair technician can use this information to determine when your computer was made and which components it's compatible with.
+
+The serial number also verifies who owns the computer. Insurers and the police can use this information to confirm your rightful ownership of the device. Sometimes, investigators can use the serial number to track your computer's whereabouts and recover your property.
+
+What's the Difference Between Model Number and Serial Number?
+-------------------------------------------------------------
+
+Your desktop computer's model number contains information about the device's type, year of manufacture and manufacturer. Therefore, all computers of the same brand and model have the same model number.
+
+On the other hand, your computer’s serial number is a unique identifier for your exact computer. No other device will share the same serial number.
+
+3 Ways to Find Your Desktop Computer’s Serial Number
+----------------------------------------------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/408b65d04ba6ebce/Blog-WindowsComputerTower_MSchmitz_0002.jpg" alt="A Dell brand computer tower sits on the carpeted floor of a home"/>
+
+_HomeServe photo by Matt Schmitz_
+
+### 1\. Look on the Packaging or Physical Device
+
+You can find your serial number printed on a sticker attached to the box your computer originally came in. There's also a similar sticker attached to the rear side or back of your device. The location of the sticker varies from brand to brand.
+
+Your computer may have multiple components — a CPU tower, monitor, keyboard and mouse, for instance. If you are trying to find the serial number of the “computer,” you probably need the serial number that is stamped on the CPU tower. The number on the back of the monitor, in that case, is the serial number for the screen only.
+
+However, many desktop computers these days are all-in-one models that come without a CPU tower. In that case, the serial number you need is the one on the back of the device.
+
+### 2\. Find It on the Computer
+
+If you threw the box away or removed the device sticker, you can still recover the serial number on a Windows computer by performing a WMIC command prompt.
+
+Right-click on the “Start” icon and select “Command Prompt (Admin).”
+
+Enter this code on the pop-up screen: **wmic bios get serialnumber**
+
+Hit the enter key. You should see your serial number appear below the code.
+
+Although this method works for most computers, it might not find your serial number if the manufacturer didn't store it in your device's firmware.
+
+### 3\. Look Through the Paperwork
+
+If a WMIC prompt doesn't work or you don't have your computer on hand, you can try checking your documentation. Your computer’s serial number should appear on your warranty and registration documents.
+
+**More Related Articles:**
+
+*   [How Do I Find the Serial Number on My Android Phone?](https://www.homeserve.com/en-us/blog/how-to/find-android-smartphone-serial-number/)
+*   [How Do I Find the Serial Number on my iPhone?](https://www.homeserve.com/en-us/blog/how-to/find-iphone-serial-number/)
+*   [How Do I Find the Serial Number on my Samsung Smartphone?](https://www.homeserve.com/en-us/blog/how-to/find-samsung-smartphone-serial-number/)
+*   [Wi-Fi Wars: Household Battling or Bandwidth? Everyone Wins With These Tips](https://www.homeserve.com/en-us/blog/home-improvement/improve-wifi-speed/)
+*   [What’s a Google Nest Hub and What Can You Do With It?](https://www.homeserve.com/en-us/blog/buying-guide/google-nest-hub/)
+
+How Do You Find the Model Number?
+---------------------------------
+
+Your computer's model number appears on the stickers on the original packaging and the back of your device. Again: Make sure you’re getting the model number of the right component. If you can't find the stickers, your model number may feature in your warranty or registration document.
+
+You can also find your desktop computer's model number under “System Information.” Click on the “Start” icon and select “System Information.” Click on the “System Summary” tab and locate your model number next to the “System Model” subheading.
+
+Alternatively, you can perform a command prompt to recover your model number. Click on “Start” and select “Command Prompt.”
+
+Enter this code: **wmic csproduct get name**
+
+Hit enter on your keyboard to see your model number.
+
+Should You Share Your Serial Number?
+------------------------------------
+
+It's generally wise to keep your serial number secret unless a repair technician or police officer requires it. The chances of someone using your computer’s serial number nefariously are reasonably slim. However, they could potentially use it to obtain repairs through your warranty or claim a replacement device.

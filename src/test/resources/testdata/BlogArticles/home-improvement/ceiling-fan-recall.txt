@@ -1,0 +1,44 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Beware Flying Fan Blades! Ceiling Fans Recalled Due to Impact Injury Hazard"
+headline: "Beware Flying Fan Blades! Ceiling Fans Recalled Due to Impact Injury Hazard"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-12-18
+basePath: https://library.homeserve.com/m/
+heroImage: 417a328dfba75d17/Blog-CeilingFanRecall_HongKongChinaElectricApplianceManufacture.jpg
+heroAltDescription: "ceiling fan with wooden blades"
+metaDescriptions: "Hong Kong China Electric Appliance Manufacture Company is recalling about 77,900 ceiling fans because the blades may detach while in use."
+articleAbstract: "Hong Kong China Electric Appliance Manufacture Company is recalling about 77,900 ceiling fans due to an injury risk. According to a CPSC recall alert, the blades may detach from the fan while in use. If you purchased one of these fans between February 2018 and August 2021, it might fall under this recall."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Hong Kong China Electric Appliance Manufacture Recalls Ceiling Fans Due to Impact Injury Hazard"
+  parent: HVAC-Home-Improvement
+---
+  [Hong Kong China Electric Appliance Manufacture Company](http://www.hkcus.com) is recalling about 77,900 ceiling fans due to an injury risk. According to a Consumer Product Safety Commission [recall alert](https://www.cpsc.gov/Recalls/2022/Hong-Kong-China-Electric-Appliance-Manufacture-Company-Recalls-Ceiling-Fans-Due-to-Impact-Injury-Hazard), the blades may detach from the fan while in use. If you purchased one of these fans between February 2018 and August 2021, it might fall under this recall.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the Dec. 15 [announcement](https://www.cpsc.gov/Recalls/2022/Hong-Kong-China-Electric-Appliance-Manufacture-Company-Recalls-Ceiling-Fans-Due-to-Impact-Injury-Hazard), the CPSC has received 60 reports of the blades detaching from the fan, including three incidents where the blades damaged drywall. No injuries have been reported.
+
+The recall involves the Harbor Breeze Belleisle Bay and Honeywell Rio ceiling fans. These models were made in China and sold for $150 online at [Lowes.com](http://lowes.com), [Amazon.com](http://amazon.com), [Wayfair.com](http://wayfair.com) and other online retailers (listed [here](https://www.cpsc.gov/Recalls/2022/Hong-Kong-China-Electric-Appliance-Manufacture-Company-Recalls-Ceiling-Fans-Due-to-Impact-Injury-Hazard)).
+
+To see whether your ceiling fan falls under this recall, check the UPC (universal product code) and model number against [this list](https://www.ceilingfanrecall.expertinquiry.com/). This information is printed on a silver rating label on the top of the fan housing assembly.
+
+If you own a recalled fan, the CPSC recommends you stop using it immediately and contact Hong Kong China Electric Appliance Manufacture Company for a replacement. When you reach out to the Memphis, Tenn.-based distributor, you’ll be asked to send a photo of the fan and the date code to confirm it’s part of this recall. Then, you’ll need to disconnect the fan and provide evidence that it has been disconnected. The company will then send consumers a replacement fan by mail.
+
+To reach the company, call 888-232-9895, email [ceilingfanrecall@sedgwick.com](mailto:ceilingfanrecall@sedgwick.com) or [register your product online](https://www.ceilingfanrecall.expertinquiry.com/product-registration). Visit the [company's website](http://www.hkcus.com) for more information. And for more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Half a Million Portable Bed Rails Recalled After Two Entrapment Deaths](https://bynder-auto-posts.netlify.app/en-us/blog/home-improvement/bed-rail-recall/)
+*   [GE Appliances Recalls Ranges Because They Can Tip if a Heavy Item Is Placed on the Door](https://bynder-auto-posts.netlify.app/en-us/blog/home-improvement/ge-ranges-recall/)
+*   [Goodman Manufacturing Company Recalls 300,000 Furnace Evaporator Coil Drain Pans Because They Can Overheat and Burn](https://bynder-auto-posts.netlify.app/en-us/blog/home-improvement/goodman-evaporator-drain-pan-recall/)
+*   [Recall Alert: Amazon Recalls AmazonBasics Mattresses That Violate Federal Flammability Standard](https://bynder-auto-posts.netlify.app/en-us/blog/home-improvement/amazon-basics-mattress-recall/)
+*   [Don’t Get Nailed! Hart Consumer Products Recalls Nail Guns Due to ‘Involuntary Discharge’ Injury Risk](https://bynder-auto-posts.netlify.app/en-us/blog/home-improvement/hart-nailers-recall/)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

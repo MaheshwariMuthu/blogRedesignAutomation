@@ -1,0 +1,117 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Insulate Your Garage"
+headline: "How to Insulate Your Garage"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2022-12-26
+basePath: https://library.homeserve.com/m/
+heroImage: 3695784901aa35e1/Blog-GettyImages-1004546402.jpg
+heroAltDescription: "Close-up of worker hand with electric screwdriver fastening drywall to wooden timber frame with insulation mineral rock wool staff. Warm home"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Learn how to install garage insulation for year-round comfort and improved energy-efficiency. "
+articleAbstract: "Insulating your garage is essential for maintaining a comfortable year-round temperature and optimizing its energy-efficiency. Learn how to choose and install garage insulation here. "
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Insulate Your Garage"
+  parent: Exterior-Home-How-To
+---
+  Garages are capable of being so much more than mere storage and parking areas. They can also be used as workshops, home gyms, art studios, additional living space or anything else your imagination can fathom.
+
+**This May Also Interest You:** [**5 Garage Organization Tips**](https://www.homeserve.com/en-us/blog/home-improvement/garage-organization-tips/)
+
+Unfortunately, garages aren’t usually insulated, making them scolding hot in the summer and abysmally cold in the winter. Even if you add supplemental heating and cooling to your uninsulated garage, you’ll struggle to maintain a climate-controlled environment while simultaneously wasting energy. If you want to make your garage comfortable year-round, read on to learn how to insulate your garage as easily and affordably as possible.
+
+Types of Garage Insulation
+--------------------------
+
+The effectiveness of insulation is based on its R-value, with a higher R-value translating to greater insulation capacity. There are several types of insulation to choose from with varying R-values, strengths, and weaknesses.
+
+Options include:
+
+### Fiberglass
+
+This is the most common, affordable and DIY-friendly type of insulation. Fiberglass insulation is available in batts that are precut to the standard width and thickness of wall studs and ceiling joists. R-values range between R-11 and R-49. Working with fiberglass can cause lung, eye and skin irritation, and it can pose a fire hazard if not properly installed.
+
+### Cellulose
+
+Cellulose is a loose-fill insulation made from recycled paper that’s treated to make it fire-resistant. The material has an R-value of 3.5 for every inch of insulation. It’s an excellent choice for attic spaces and “finished walls” (those covered with drywall, on the off chance that they don’t have insulation behind them). However, cellulose can’t be used on “unfinished walls” (those without drywall) because the cellulose will fall out of the wall cavity without the drywall backing to support it. It’s also more expensive than fiberglass, you need to rent a cellulose insulation blower to install it and it can be difficult to install (especially by a single person) since you need to blow the insulation into the wall cavities from your attic.
+
+### Rigid Foam
+
+Rigid foam panels are typically available in 4-foot by 8-foot sheets with thicknesses between 1/2 inch and 4 inches. These panels have R-values of 4.5 to 5 per inch of thickness. This type of insulation is best for garage doors and shallow walls, but it isn’t thick enough to insulate most walls and ceilings. It’s also relatively expensive.
+
+### Spray Foam
+
+Spray foam expands to conform to the shape of the space it’s sprayed into, creating a dense, airtight seal after it’s dried. Spray foam can be used to seal everything from small gaps to whole walls and ceilings. It offers an R-value of around 6.2 for every inch of insulation. While you can use cans of spray foam insulation to seal smaller gaps around your walls, the spray foam used to insulate entire walls and ceilings requires special equipment and expertise. Consequently, it needs to be professionally installed and is the most expensive option.
+
+Your Best Bet: Fiberglass Insulation
+------------------------------------
+
+Assuming that the walls and ceiling in your garage are unfinished (as most that need to be insulated are), the affordability, ease of installation and relatively high R-value of fiberglass batts makes it the ideal choice for insulating a garage. The R-value of the insulation you purchase should be based on the climate where you live and whether you’re insulating the walls or ceilings. The recommended R-value for walls can be anywhere from R-13 to R-23. R-23, R-38 and R-49 are commonly recommended for ceilings. You can determine which R-value to use by contacting your local building department or viewing [EnergyStar’s climate-based insulation recommendations](https://www.energystar.gov/sites/default/files/asset/document/Insulation%20Fact%20Sheet.pdf).
+
+**More Related Articles:**
+
+*   [Is a Smart Garage Door Opener a Wise Investment?](https://www.homeserve.com/en-us/blog/home-improvement/smart-garage-door/)
+*   [How Much Does a Glass Garage Door Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-a-glass-garage-door-cost/)
+*   [5 DIY Garage Door Makeover Ideas](https://www.homeserve.com/en-us/blog/home-improvement/diy-garage-door-makeover-ideas/)
+*   [Considering an Epoxy Garage Floor? You’ll Want to Read This First](https://www.homeserve.com/en-us/blog/cost-guide/epoxy-garage-floor/)
+*   [How to Program a Garage-Door Opener: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/program-garage-door-opener/)
+
+How to Insulate Your Garage with Fiberglass Insulation
+------------------------------------------------------
+
+### Things You’ll Need
+
+*   Fiberglass batts for walls
+*   Fiberglass batts for ceiling
+*   Garage door insulation kit
+*   Expanding spray foam insulation and silicone sealant
+*   Caulking gun
+*   Tape measure
+*   Eye protection
+*   Facemask or respirator
+*   Work gloves
+*   Long-sleeve shirt and long pants
+*   Utility knife
+*   Staple gun
+*   Ladder
+
+### Part 1: Insulate the Walls
+
+#### **Step 1: Clear the Walls**
+
+Remove any hooks, screws, nails and wall coverings from the walls.
+
+#### **Step 2: Seal Gaps**
+
+Insect around the wall for gaps that are too small to fill with insulation, paying special attention to the spaces around windows, doors, and corners. Seal small gaps with [silicone caulk](https://www.amazon.com/Gorilla-Silicone-Waterproof-Resistant-Cartridge/dp/B01NCSN5AS/ref=sr_1_3?crid=2SEMQM4ADJ9MP&keywords=silicone%2Bcaulk%2Bsealant&qid=1669573281&sprefix=silicone%2Bcaulk%2Bsealan%2Caps%2C167&sr=8-3&th=1) installed in a caulking gun, and seal larger gaps with a can of [spray foam insulation](https://www.amazon.com/Great-Stuff-Insulation-Insulating-00157901-1/dp/B0115ZNIHK/ref=sr_1_20?crid=XG61HKD5XRNS&keywords=expanding+spray+foam+insulation&qid=1669573440&sprefix=expanding+spray+foam+insulation%2Caps%2C151&sr=8-20). Allow each to dry fully before proceeding to the next step.
+
+#### **Step 3: Install Fiberglass Batts**
+
+Starting at the bottom corner at the end of one of your walls, begin pressing the fiberglass batts in between the wall studs until they’re flush with the front edge of the studs. Continue inserting batts up the entire length of that cavity until you reach the top, then cut the top piece to length with your utility knife. If you encounter plumbing or electrical lines inside the cavity, use your utility knife to cut small channels into the back of the batt for the line to fit into. Continue these steps down the entire length of your walls until they’re fully insulated.
+
+Even though the batts should stay in place on their own, you can staple the paper wings on each side of the batt to the surrounding studs for a more secure hold.
+
+#### **Step 4: Install a Vapor Barrier**
+
+You'll need to install a vapor barrier if your local building code requires it, which is fairly common in colder regions. Vapor barriers are used to prevent moisture from penetrating the wall cavity, which can lead to mold and rot. It usually consists of plastic sheeting installed over the entire wall to cover the insulation and framing. Installation usually involves rolling out the plastic over the walls, stapling it to the wall studs, and taping any seams or gaps in the sheet.
+
+### Part 2: Insulate the Ceiling
+
+Insulating the ceiling in your garage uses essentially the same process as installing it in your walls, but with a few additional steps.
+
+Start by setting up your ladder while having a second person support it while you work. After you insert a batt between the ceiling joists, staple the paper wings to the joists on both sides to hold it in place. Continue down the entire length of the ceiling until it’s fully insulated, then install a vapor barrier if necessary.
+
+### Part 3: Install Drywall (If Desired)
+
+While insulation is complete after installing the batts in the walls and ceiling, you might consider installing drywall over the insulation. Doing so will enhance the aesthetic appeal, temperature regulation and noise reduction of the insulation, and it may even increase the value of your home.
+
+Here’s our step-by-step guide on drywall installation to get you started: [How to Hang Drywall](https://www.homeserve.com/en-us/blog/how-to/hang-drywall/)
+
+### Part 4: Insulate the Garage Door
+
+The easiest way to insulate a garage door is with a [garage door insulation kit](https://www.amazon.com/Garage-Door-Insulation-Kit-Panels/dp/B00B43UNNQ/ref=sr_1_39?crid=C79W3IX0FLX0&keywords=garage+door+insulation+kit&qid=1669394110&sprefix=garage+d%2Caps%2C617&sr=8-39).
+
+Most garage door insulation kits include either foil-faced fiberglass batts or rigid foam insulation panels that are precut to fit perfectly inside the metal framing rails on the back of a garage door. To install them, you just insert the panels into the cavity between the framing rails. For a more secure hold, you can apply adhesive or double-sided tape to the back of the panels, or you can tape the outside edge of the panels to the surrounding rails. Some kits even include these additional mounting materials.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Insulate Windows | Cheap and Easy with Plastic Film"></iframe>

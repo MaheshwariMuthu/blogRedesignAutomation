@@ -1,0 +1,54 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Radiant in Floor Heating Systems
+headline: Heated floors is a thing. Here's what you need to know before you install.
+author: Team HomeServe
+tags: ['post', 'Heating', 'Top Tips and Lists']
+publishDate: 2018-12-14
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: InFloorHeating.jpg
+heroAltDescription: Floor Heating
+metaDescriptions: Is radiant in floor heating worth it? Here's all the pros and cons before you decide to install them in your home.
+articleAbstract: Having heated floors when you wake up on a cold morning sounds heavenly. But is radiant flooring worth it? Here’s what you need to know.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Radiant in Floor Heating Systems
+  parent: Interior-Home-Buying-Guide
+---
+
+::: blog-info
+It’s a fact, I’m always cold. Especially my feet. Which is why you'll never catch me without socks on during the winter – even when I'm sleeping under heavy layers of cozy blankets. If you're brave enough to venture around your house during the winter barefooted, I applaud you. (_Bare feet and cold floors are not compatible in my world._)
+
+You can [use space heaters](/en-us/blog/buying-guide/best-space-heaters){target="_blank"} for added warmth, but why stop there? Radiant in floor heating not only feels luxurious on your feet, but it can also warm household spaces from the bottom up.
+
+Here's what to know about radiant in floor heating before you get ready to install this winter-friendly upgrade:
+
+## Types of heated floors
+
+There are two different types of radiant heating systems for homes: hydronic and electric. The former uses hot water to carry heat through a network of underfloor tubing, while electrical radiant heating involves a wiring system. Electrical models can sometimes be more expensive to operate than water systems, but they are still more common than hydronic radiant floors.
+
+## Projected costs
+
+You can expect to pay a minimum of $8 per square foot for radiant floor heating, but _The Spruce_ suggested [budgeting for $10 to $12](https://www.thespruce.com/electric-radiant-floor-1821625){target="_blank"} for good measure. If you plan to get the flooring professionally installed, estimate closer to $16 per square foot to determine projected costs. Operating costs will depend on your location as well as how often you run the system.
+
+## Installation
+
+You can install heated floors anywhere in your home, especially in areas where it's difficult to extend HVAC ductwork. According to a survey conducted by the American Institute of Architects, bathrooms are among the most popular rooms to install heated floors, with a [40 percent uptick in demand in 2017](https://www.aia.org/press-releases/190191-latest-home-design-trends-survey-reveals-ho){target="_blank"}. Heated floor systems are also optimal for naturally cool surfaces, such as ceramic, stone tile or concrete.
+
+The Spruce noted that installing heated flooring during a construction or remodeling project is ideal because doing so retroactively requires complete removal of the existing flooring. The home experts also pointed out that, while it works, radiant floor heating is not as efficient under carpeting, wood or vinyl flooring.
+
+You also have the option to install mats, which heat accent areas instead of the entire floor. While you can follow do-it-yourself tutorials, such as [this one](https://www.familyhandyman.com/floor/how-to-install-in-floor-heat/view-all/){target="_blank"} from Family Handyman, the electrical component of installing heated floors is not a suitable project for beginners. If you don't feel confident handling the wiring elements, find a licensed professional who can help you with installation. However, keep in mind that you'll need to factor these labor costs into your budget. Most homeowners can handle installing the flooring once the electrical work is complete, but if you have room in your budget for a complete professional installation, feel free to do so.
+
+## Pros and cons
+
+Is radiant flooring worth it for your home? Weigh the benefits and potential disadvantages before making the decision.
+
+As far as the pros go, radiant heat actually allows for better distribution of warmth. Added to toasty feet simply making you feel warmer, you may find you need less heating to feel comfortable in your home during the colder months. That translates to cost savings on predictably steep winter utility bills. Heated floors are also handy for the interior designer in you, alleviating the wall space in small rooms that would have gone to radiators.
+
+On the downside, broken wires or other complications can be difficult to repair because the mechanisms are under the floor's surface. Plus, initial costs can be high, especially if you'll need to install new wiring from the main circuit plan to the room where you're installing the heated floors.
+
+Last note of advice: Make sure your home systems are in good condition and ready to handle your flooring upgrade.
+
+Being prepared for home repairs is always a good strategy. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+:::

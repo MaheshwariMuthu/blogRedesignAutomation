@@ -1,0 +1,54 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Happens If You Touch a Hot Wire?"
+headline: "What Happens If You Touch a Hot Wire?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-03
+basePath: https://library.homeserve.com/m/
+heroImage: 424d3d3218754c97/Blog-GettyImages-183819169.jpg
+heroAltDescription: "Worker Stripping Wire for Ceiling Speaker Control"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Hot wires are dangerous. Learn how to identify them so you don't put yourself or your family in harm's way."
+articleAbstract: "Hot wires are dangerous. Learn how to identify them so you don't put yourself or your family in harm's way while working with electrics."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Happens If You Touch a Hot Wire?"
+  parent: Electrical-Home-Improvement
+---
+  Have you ever wondered how electricians perform repairs without getting an electric shock? Electricians have extensive knowledge of residential electrical systems, including how to identify a hot wire, to help them work safely.
+
+**This May Also Interest You:** [**How to Fix Electrical Cords and Charging Cords**](https://www.homeserve.com/en-us/blog/how-to/fix-electrical-cords/)
+
+But you (depending on your personal knowledge of electrics) could be putting yourself in harm’s way if you decide to tackle home electrical projects yourself. Knowing what a hot wire is and what it looks like can help you avoid injury and even save your life.
+
+What Is a Hot Wire?
+-------------------
+
+A hot wire forms part of an electrical circuit carrying electricity from your electrical panel to an outlet. Therefore, it's responsible for supplying electrical fixtures and appliances with energy. Hot wires can also act as switch legs, carrying electricity from a switch outlet to fittings like lights and ceiling fans. Switch legs are only live when you turn the switch on, but it's always safest to assume that any hot wire is carrying a current.
+
+How Do You Know If a Wire Is a Hot Wire?
+----------------------------------------
+
+You can often identify a hot wire by looking at the insulation color. Generally, hot wires installed in homes have a black outer casing, but you may also find red, blue or yellow hot wires supplying appliances, electronics and other fixtures.
+
+Therefore, it's not safe to rely on color alone to figure out if you're looking at a hot wire. You can use a multimeter or non-contact voltage tester to see if the wire is carrying a current, and you should always turn off the circuit at the electrical panel before working on your home's electrics.
+
+**More Related Articles:**
+
+*   [How to Use a Voltage Tester](https://www.homeserve.com/en-us/blog/how-to/use-voltage-tester/)
+*   [Why U Trippin’? 3 Reasons Your Circuit Breaker Trips](https://www.homeserve.com/en-us/blog/home-improvement/circuit-breaker-tripping/)
+*   [Wrong Kind of Blowout? Why Your Hair Dryer Trips](https://www.homeserve.com/en-us/blog/home-improvement/hair-dryer-tripping-circuit-breaker/) the Circuit Breaker
+*   [What’s a Whole-House Surge Protector?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-surge-protector/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Cost Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+What Happens If You Touch a Hot Wire?
+-------------------------------------
+
+Touching a hot wire allows energy to flow through your body to where your feet touch the ground, causing an electric shock. Electric shocks occur when electricity can enter and exit your body through two contact points. Wearing rubber-soled shoes doesn't provide adequate protection against electric shocks because dirt and sweat can act as conductors and reduce their insulative ability.
+
+Can You Get Injured If You Touch a Hot Wire?
+--------------------------------------------
+
+Touching a hot wire during DIY repairs, such as installing a ceiling light, can cause burns as electricity passes through the body. A high current from a residential electrical system can interfere with your heart's natural rhythm or cause brain damage, leading to severe injury or even death. Sudden strong waves of power, called surges, can also damage your electronics.

@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What's a Whole-House Surge Protector?"
+headline: "What's a Whole-House Surge Protector?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-10-20
+basePath: https://library.homeserve.com/m/
+heroImage: 31ca1a4c35418d45/Blog-WholeHouseSurgeProtector_WtshymanskiWikimediaCommons_0001.jpg
+heroAltDescription: "Black whole-house surge protector with a black digital display screen mounted on a brown woodgrain wall."
+metaDescriptions: "A whole-house surge protector can be the first line of defense when it comes to your electrical system. Here's what you need to know."
+articleAbstract: "You should use a layered approach when protecting your appliances and electrical system, and a whole-house surge protector is the first line of defense. Understanding how they work can help you make the best decision for your home."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's a Whole-House Surge Protector?"
+  parent: Electrical-Home-Improvement
+---
+  
+
+_Photo by Wtshymanski_
+
+Modern life comes with a wide range of electrical devices. Fridges, washing machines and dishwashers make life easier, and televisions and computers provide entertainment and connection. If you depend on any electrical devices, it’s a good idea to protect them with a whole-house surge protector.
+
+**This May Also Interest You:** [**How Much Do Electrical Repairs Cost? A Comprehensive Guide**](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+You should use a layered approach when protecting your appliances and electrical system, and a whole-house surge protector is the first line of defense. Understanding how they work can help you make the best decision for your home.
+
+What Does a Whole-House Surge Protector Do?
+-------------------------------------------
+
+Simply put, a surge protector is a pressure-relief valve for an electrical system. A plug-in surge protector offers protection to the appliances connected to it. A whole-house surge protector can divert surges as they enter your home’s electrical system, protecting the whole building and any appliances inside.
+
+What Is a Power Surge?
+----------------------
+
+A power surge is any unexpected increase in voltage. These spikes in voltage can come from internal and external sources. External sources of power surges include lightning strikes, downed power lines and the restoration of electricity after a brownout. The most common cause of internal surges is the cycling of electrical appliances inside the home. For example, turning an energy-hungry appliance on or off can cause a power surge, and some homes experience small power surges daily.
+
+How Do Whole-House Surge Protectors Work?
+-----------------------------------------
+
+A whole-home surge protector is generally connected directly to your home’s electrical service panel, but it can be placed in more convenient locations to ensure they’re easily accessible. The protector uses metal-oxide varistors to help shunt excess voltage away from the main electrical systems of your house. It detects when anything higher than 120 volts moves through the control panel and diverts the extra power through your home’s grounding power line.
+
+Smaller surges are moved safely away without switches needing to be reset. For larger surges like lightning strikes, the system may need to be reset. When choosing a system, look for a system that has a warning light or an alarm that alerts you when it's been triggered. Make sure you check it following any large surge.
+
+Do Whole-House Surge Protectors Work?
+-------------------------------------
+
+Properly installed whole-house surge protectors are very effective at protecting appliances and electrical systems. Although up to 15% of excess voltage can leak past a whole-house surge protector, the devices act as a buffer. When used in tandem with plug-in surge protectors, a whole-house surge protector can protect vulnerable appliances like entertainment systems and computers.
+
+**More Related Articles:**
+
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets with GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/replace-electrical-panel/)
+
+What Else Can I Do to Protect My Appliances?
+--------------------------------------------
+
+The layered approach to protecting your appliances means that a whole-house surge protector is just the first step. You should also consider replacing your electrical panel and at least some ground outlets with ground-force circuit interrupter outlets. These break the circuit when there’s an imbalance between outgoing and incoming power and are especially useful in wet areas. If you’re worried about the age of your system, you may want to replace all your outlets.
+
+You should use power strip surge protectors to give important appliances extra protection. These plug-in surge protectors also use metal-oxide varistors to detect surges, but they simply cut off power rather than shunting it away during voltage spikes. Overloaded outlets can cause power surges, so be sensible when plugging in appliances.
+
+How Long Do Whole-House Surge Protectors Last?
+----------------------------------------------
+
+It’s not easy to give a definite lifespan of a surge protector due to the way they work. Each device has a joule rating, which is the specific amount of voltage it can absorb before it stops working. Surge protectors that regularly absorb power surges wear out faster than those in homes with fewer surges.
+
+Many devices have warranties of five years or more, but electricians generally recommend replacing surge protectors every two years. Thankfully, devices aren’t overly expensive, and an electrician can install one in around two hours. The exact price depends on a number of factors, such as the type of protector, any warranties and if you have a sub-panel. However, the cost will always be less expensive than replacing appliances due to a surge.
+
+_Photo license:_ [_https://bit.ly/3Fzi1hA_](https://bit.ly/3Fzi1hA)

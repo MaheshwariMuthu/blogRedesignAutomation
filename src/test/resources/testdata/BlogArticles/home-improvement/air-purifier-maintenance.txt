@@ -1,0 +1,96 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Air Purifier Maintenance"
+headline: "An Owner's Guide to Air Purifier Maintenance"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-09
+basePath: https://library.homeserve.com/m/
+heroImage: 508f516778df8054/Blog-BlueAirPurifier_AWiesen_IMG_0560.jpg
+heroAltDescription: "Room air purifier by Blue"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Cleaning your air purifier will help ensure that it can keep your indoor air clean as well. Here's how to keep your air purifier in tip-top shape."
+articleAbstract: "Cleaning your air purifier will help ensure that it can keep your indoor air clean as well. Here's how to keep your air purifier in tip-top shape."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "An Owner's Guide to Air Purifiers"
+  parent: HVAC-Home-Improvement
+---
+  An air purifier can be a big help for people with allergies and other sensitivities. Air purifiers improve indoor air quality by trapping pollutants and particles, reducing the need for dusting and vacuuming.
+
+**This May Also Interest You:** [**Does My HVAC Filter Protect Against COVID-19?**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-filter-covid-19/)
+
+To keep your air purifier in tip-top shape, you’re going to need to clean and maintain it.
+
+How to Clean an Air Purifier
+----------------------------
+
+Cleaning an air purifier is a simple task that will keep your air fresh. You may want to check the instruction manual for your air purifier before cleaning to avoid accidental damage.
+
+### Things You’ll Need:
+
+*   Vacuum
+*   A soft cloth
+*   Warm water
+*   Liquid dish soap
+
+Depending on what type of purifier you have, you may also need a screwdriver or ladder.
+
+### First Steps
+
+Cleaning releases dirt and particles, so you may want to wear protective gear like a face mask and safety glasses. Unplug the purifier before cleaning.
+
+Clean the outside of the unit by wiping it with a damp cloth and vacuuming the intake grill. Use a low setting on your vacuum and be gentle to avoid damage.
+
+### Cleaning the Air Filter
+
+You can clean a reusable PRE filter, but don't clean a disposable filter. Doing so isn't effective and can actually promote the growth of mold and mildew. Disposable filters usually have cardboard frames and should be replaced when dirty.
+
+Open the filter cover by following the manufacturer's instructions. You may need a screwdriver. Remove the filter and, if possible, take it outside to avoid spreading dirt inside.
+
+Vacuum excessive dust from the filter. Many filters are washable, and you can rinse away the remaining dust. Next, mix a few drops of dish soap with warm water, wipe the filter using a soft cloth or sponge and rinse thoroughly.
+
+Use a towel to remove excess water, and allow the filter to dry completely before putting it back in the air purifier. Drying is essential to avoid mold growth or damage to the air purifier.
+
+### Cleaning Special Types of Air Filters
+
+You can clean a HEPA filter, but some models shouldn't get wet. Check the manual before using soap or water.
+
+Carbon filters remove unpleasant smells from the air. These can't be washed, but placing the filter in sunlight for a few hours can refresh it.
+
+**More Related Articles:**
+
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [Ionizer Vs. Air Purifier: What’s the Difference?](https://www.homeserve.com/en-us/blog/buying-guide/ionizer-vs-air-purifier/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+*   [How to Change a Whole-House Humidifier Filter](https://www.homeserve.com/en-us/blog/how-to/whole-house-humidifer-filter/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+
+How Often Do I Need to Clean My Air Purifier?
+---------------------------------------------
+
+Some manufacturers recommend cleaning purifiers as [often as every two to four weeks](https://www.hgtv.com/shopping/product-reviews/best-air-purifiers). However, other systems can go longer between cleanings. Air filters may need more frequent cleaning if exposed to excessive dirt or pollution.
+
+You can check a filter by removing it and holding it up to a light source. If not much light comes through, the [filter probably needs to be cleaned or replaced](https://www.thespruce.com/how-to-clean-an-air-filter-4693506).
+
+What Type of Replacement Filter Do I Need?
+------------------------------------------
+
+Checking the instruction manual for your air purifier is the best way to determine what type of filter you need. You can also check the manufacturer's website to help you get a filter that's a perfect fit.
+
+Should I Get a HEPA Filter?
+---------------------------
+
+HEPA stands for "[high-efficiency particulate air](https://www.epa.gov/indoor-air-quality-iaq/what-hepa-filter-1)." These filters can remove dust, pollen, mold and bacteria. They can catch particles larger than 0.3 microns. HEPA filters may be helpful for people with allergies, asthma or other sensitivities. But users should be aware that HEPA filters don't filter out everything. For example, they can _catch_ some viruses and bacteria, but they don’t kill them.
+
+Air Purifier Maintenance
+------------------------
+
+Air purifiers are easy to maintain. They need to be inspected occasionally to ensure the machine is in good condition. A ripped filter or bent frame can allow dirt and particles to pass through. Check that screws are secure and that electrical cords aren't damaged.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,52 @@
+Sno,Section,linkName,expectedURL,
+1,Header,Blog Home,https://www.uathomeserve.com/en-us/blog-new/,
+2,Header,Heating & Cooling,https://www.uathomeserve.com/en-us/repair-plans/hvac/,
+3,Header,Plumbing,https://www.uathomeserve.com/en-us/repair-plans/plumbing/,
+4,Header,Electrical,https://www.uathomeserve.com/en-us/repair-plans/electrical/,
+5,Header,Appliance,NA,
+6,Header,Home Improvement,https://www.uathomeserve.com/en-us/blog/category/home-improvement/,
+7,HeaderTopNav,Why Buy a Plan?,https://www.uathomeserve.com/en-us/repair-plans/why-buy-a-plan/,
+8,HeaderTopNav,About Us,https://www.uathomeserve.com/en-us/about-us/,
+9,HeaderTop,1-855-336-2465,tel://18553362465/,
+10,FooterBottomLink,Privacy Policy,https://www.uathomeserve.com/sc/legal/privacy-policy,
+11,FooterBottomLink,California Privacy Notice,https://www.uathomeserve.com/sc/legal/california-privacy-notice,
+12,FooterBottomLink,Terms of Use,https://www.uathomeserve.com/sc/legal/terms-of-use,
+13,FooterBottomLink,Accessibility Statement,https://www.uathomeserve.com/sc/legal/accessibility-statement,
+14,FooterBottomLin,Manage Cookies,NA,
+15,FooterBottomLink,Your Privacy Choices,https://www.uathomeserve.com/sc/data-privacy-form,
+16,FooterSocial,facebook,https://www.facebook.com/HomeServeUSA/,
+17,FooterSocial,twitter,https://twitter.com/homeserveusa/,
+18,FooterSocial,linkedin,https://www.linkedin.com/company/homeserve-usa/,
+19,FooterSocial,instagram,https://www.instagram.com/homeserve_usa/,
+20,FooterSocialff,trust-bbb,https://www.bbb.org/us/ct/norwalk/profile/water-and-sewer-line-protection/homeserve-usa-corp-0111-87067998/,
+21,RightRail,facebook,https://www.facebook.com/HomeServeUSA/,
+22,RightRail1,tiktok,https://www.tiktok.com/@homeserveusa/,
+23,RightRail,youtube,https://www.youtube.com/@HomeServeUSA/,
+24,RightRail,linkedin,https://www.linkedin.com/company/homeserve-usa/,
+25,RightRail,twitter,https://twitter.com/homeserveusa/,
+26,RightRail,instagram,https://www.instagram.com/homeserve_usa/,
+27,FooterHSApp,google_play,https://play.google.com/store/apps/details?id=com.homeserveapp.homeserve/,
+28,FooterHSApp,app_store,https://itunes.apple.com/us/app/homeserve/id1455853537?ls=1&mt=8/,
+29,FooterLink1,About us,https://www.uathomeserve.com/en-us/about-us/,
+30,FooterLink1,Who we are,https://www.uathomeserve.com/en-us/about-us/,https://www.uathomeserve.com/en-us/about-us/#who-we-are
+31,FooterLink1,Customer promise,https://www.uathomeserve.com/en-us/about-us/,https://www.uathomeserve.com/en-us/about-us/#customer-promise
+32,FooterLink,Leadership,https://www.uathomeserve.com/en-us/leadership-team/,
+33,FooterLink,Our social impact,https://www.uathomeserve.com/en-us/corporate-social-responsibility/,
+34,FooterLink,Blog,https://www.uathomeserve.com/en-us/blog-new,
+35,FooterLink,Press room,https://www.uathomeserve.com/en-us/media/,
+36,FooterLink,Careers,https://www.uathomeserve.com/en-us/careers/,
+37,FooterLink,Commitment,https://www.uathomeserve.com/en-us/careers/,https://www.uathomeserve.com/en-us/careers/#commitment
+38,FooterLink,Benefits,https://www.uathomeserve.com/en-us/careers/,https://www.uathomeserve.com/en-us/careers/#benefits
+39,FooterLink,Career opportunities,https://www.uathomeserve.com/en-us/careers/,https://www.uathomeserve.com/en-us/careers/#career-opportunities
+40,FooterLink,Become a service provider,https://www.uathomeserve.com/en-us/contractor-network-application/,https://www.uathomeserve.com/en-us/contractor-network-application/
+41,FooterLink,Partnerships,https://www.uathomeserve.com/en-us/partnerships/,https://www.uathomeserve.com/en-us/partnerships/
+42,FooterLink,How it works,https://www.uathomeserve.com/en-us/partnerships/,https://www.uathomeserve.com/en-us/partnerships/#how-it-works
+43,FooterLink,Partner with us,https://www.uathomeserve.com/en-us/partnerships/,https://www.uathomeserve.com/en-us/partnerships/#partner-with-us
+44,FooterLink,Our trusted partners,https://www.uathomeserve.com/en-us/partnerships/,https://www.uathomeserve.com/en-us/partnerships/#our-trusted-partners
+45,FooterLink,Innovative products,https://www.uathomeserve.com/en-us/partnerships/,https://www.uathomeserve.com/en-us/partnerships/#innovative-products
+46,FooterLink,Contact Us,https://www.uathomeserve.com/en-us/contact-us/,
+47,FooterLink1,1-855-336-2465,NA,
+48,FooterLink1,1-888-752-6740,NA,
+49,FooterLink,Need help? Email us.,https://www.uathomeserve.com/en-us/contact-us/contact-us-form/,
+50,FooterLink,FAQs,https://www.uathomeserve.com/en-us/faqs/,
+51,FooterLink,COVID-19,https://www.uathomeserve.com/en-us/covid-update/,

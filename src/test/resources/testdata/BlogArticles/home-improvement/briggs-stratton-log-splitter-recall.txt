@@ -1,0 +1,47 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Safety Recall: Briggs & Stratton YTL, Longli and TIYA Log Splitters"
+headline: "Over 19,000 Log Splitters with Briggs & Stratton Engines Recalled Due To Injury Risk"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-01
+basePath: https://library.homeserve.com/m/
+heroImage: 6c4626b1e1975205/webimage-LogSplitterRecall_BriggsAndStratton_0001.png
+heroAltDescription: "recall product"
+metaDescriptions: "Briggs & Stratton is recalling 19,630 log splitters with Briggs &amp; Stratton engines due to an injury risk."
+articleAbstract: "Briggs & Stratton is recalling 19,630 log splitters with Briggs &amp; Stratton engines due to an injury risk. If you purchased a YTL, Longli or TIYA log splitter between March 2016 and February 2021, you’ll want to check whether it’s affected by this recall."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Briggs & Stratton Recalls YTL, Longli and TIYA Log Splitters with Briggs &amp; Stratton® Engines Due to Injury Hazard"
+  parent: Appliances
+---
+  Briggs & Stratton is recalling 19,630 log splitters with Briggs & Stratton engines due to an injury risk. If you purchased a YTL, Longli or TIYA log splitter between March 2016 and February 2021, you’ll want to check whether it’s affected by this recall.
+
+**This May Also Interest You:** [**Broken Wrists Cited in Recall of 10,000 Log Splitters With Briggs & Stratton Engines**](https://www.homeserve.com/en-us/blog/home-improvement/ytl-log-splitter-recall/)
+
+The Consumer Product Safety Commission is warning purchasers that some log splitters with Briggs & Stratton 250cc engines may pose an injury hazard to the operator. According to the May 12 [recall alert](https://www.cpsc.gov/Recalls/2021/Briggs-Stratton-Recalls-YTL-Longli-and-TIYA-Log-Splitters-with-Briggs-Stratton-Engines-Due-to-Injury-Hazard): “An incorrect engine ignition coil and flywheel can lead to hard starting and engine kick back.” Briggs & Stratton is aware of two incidents, both of which resulted in broken wrists.
+
+This recall affects the following brands and models of log splitters:
+
+* **Black Diamond:** Model number BDBS32T - 32 ton and YTL-015-134 - 30 ton
+* **Crimson:** Model number YTL-590-012 - 32 ton
+* **Lumberjack:** Model number YTL-007-414
+* **Performance Built:** Model number YTL-007-308 and YTL-016-476 - 30 ton
+* **Brute:** Model numbers YTL-140-701 - 30 ton and YTL-140-473 - 35 ton
+* **Country Pro:** Model number YTL-019-880
+* **Boss:** Model number WD32T
+* **Oregon:** Model 3000 Series - 30 ton
+
+These log splitters are powered by Briggs & Stratton engines that have model number 15T232-0011-F8 with serial numbers 160331883074 through 2012073736714, or model number 15T232-1850-F1 with serial numbers 2004260782583 through 2012284118417. You can find the model number on the engine’s valve cover. The serial number is located on the blower housing cover.
+
+According to the Wauwatosa, Wis.-based [manufacturer](http://a), the log splitters were sold for $1,400 at several retailers nationwide, including D&B Supply Co., Fleet Farm, Lowe’s and Menards. Find the full list of retailers [here](https://www.cpsc.gov/Recalls/2021/Briggs-Stratton-Recalls-YTL-Longli-and-TIYA-Log-Splitters-with-Briggs-Stratton-Engines-Due-to-Injury-Hazard). Additionally, 362 units were sold in Canada. The engines were manufactured in China.
+
+If your log splitter falls under this recall, stop using it immediately and contact a Briggs & Stratton dealer for a free inspection and repair. To find an authorized dealer near you, use this [locator.](https://www.briggsandstratton.com/na/en_us/support/dealer-locator-engines.html?icid=dealer_redirect_eng) You can also call 800-999-9444 for assistance or visit the company’s [recalls page](https://www.briggsandstratton.com/na/en_us/support/recalls-and-notifications.html). For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Burn Injuries Cited in Water Removal Pump Recall by Scott Fetzer Consumer Brands](https://www.homeserve.com/en-us/blog/home-improvement/scott-fetzer-water-pump-recall/)
+*   [Fire Risk Prompts Recall of Goal Zero Power Cables](https://www.homeserve.com/en-us/blog/home-improvement/goal-zero-power-cable-recall/)
+*   [Concussion, Broken Bones, Eye and Mouth Injury Risk: 1 Million Greenworks, Powerworks Pressure Washer Spray Guns Recalled](https://www.homeserve.com/en-us/blog/home-improvement/pressure-washer-spray-gun-recall/)
+*   [Shock Hazard Sparks Recall of 25,000 National Presto Smokers](https://www.homeserve.com/en-us/blog/)
+*   [In Case You Mist It: HD Hudson Recalls Garden Sprayers Due to Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/garden-sprayer-recall/)

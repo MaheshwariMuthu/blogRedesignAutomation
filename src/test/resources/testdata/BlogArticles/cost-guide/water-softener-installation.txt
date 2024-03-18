@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Water Softener Cost?"
+headline: "How Much Does a Water Softener Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-10-30
+basePath: https://library.homeserve.com/m/
+heroImage: 5a805b7bab3dc8b2/Blog-GettyImages-646137702.jpg
+heroAltDescription: "close up of a blue residential water softener"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Considering investing in a water softener system? Use this guide to get an idea of how much that will cost."
+articleAbstract: "Got white buildup on your showerheads and around the drains? It may be time to consider investing in a water softener system. Use this guide to get an idea of how much that will cost."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does a Water Softener Cost?"
+  parent: Plumbing-Cost-Guide
+---
+  Maybe you have white calcium built up on your shower heads and around the drains. Perhaps you find your skin is itchy and your hair is dry. These may be indicators that you have hard water, which can harm your appliances in the long run.
+
+**This May Also Interest You:** [**Have Hard Water? Here’s How to Know — and How to Treat It**](https://www.homeserve.com/en-us/blog/how-to/spot-and-treat-hard-water/)
+
+It may be time to consider investing in a water softener system. Use this guide to get an idea of how much that will cost.
+
+How Much Does It Cost to Install a Water Softener?
+--------------------------------------------------
+
+According to [This Old House](https://www.thisoldhouse.com/plumbing/reviews/water-softener-system-cost), the average cost of installing a new water softener system in a residential home is $1,500 (CAD 2,060).
+
+Prices for a water softener installation for the average home typically range from $500 to $6,000 (CAD 687 to CAD 8,242). The main factor affecting the cost is the size of the system you purchase. The average price for water softener installation in a larger home is [$3,000 to $10,000](https://home.costhelper.com/water-softener.html) (CAD 4,121 to CAD 13,736). If you're handy, you may be able to cut costs by installing it yourself.
+
+A water softener needs to be replenished with sea salt. The monthly cost of softener salt is $2 to $15 (CAD 2.75 to CAD 21).
+
+How Much Does It Cost to Replace a Water Softener?
+--------------------------------------------------
+
+Most water [softeners typically last around 10 to 15 years](https://www.bobvila.com/articles/water-softener-system-cost/) — provided they're well maintained. When it comes time to replace your unit, you can expect an average cost between $697 and $928 (CAD 957 and CAD 1,275), based on data from [Porch.com](https://pro.porch.com/project-cost/cost-to-replace-a-water-softener). This price includes installation.
+
+Modern water softener systems may have certain parts tied to the sewer system. Because of this, you may need a permit and a professional who can install these systems to code. However, when replacing a system, many of the pipes may already be in place, saving you money.
+
+What Are the Labor Costs Involved?
+----------------------------------
+
+The average cost of installing a water softener is $500 to $6,000 (CAD 687 to CAD 8,242). The labor aspect of this average is $150 to $1,000 (CAD 206 to CAD 1,374), according to [Forbes](https://www.forbes.com/home-improvement/plumbing/water-softener-system-installation-cost/). The labor cost for installing a water softener depends on a few factors:
+
+*   The type and size purchased
+*   How accessible the installation area is
+*   If it requires extra piping materials or a drain
+
+**More Related Articles:**
+
+*   [What Is a Water Softener?](https://www.homeserve.com/en-us/blog/home-improvement/water-softener-explained/)
+*   [Installing a Water Softener Isn't So Hard: A 6-Step Guide](https://www.homeserve.com/en-us/blog/how-to/water-softener-installation/)
+*   [How to Know If Your Bathtub Has Hard Water](https://www.homeserve.com/en-us/blog/home-improvement/hard-water/)
+*   [How Much Do Home Water Filtration Systems Cost?](https://www.homeserve.com/en-us/blog/cost-guide/water-filter-installation/)
+*   [Scrub-a-Dub-Dub: How to Clean Your Bathtub](https://www.homeserve.com/en-us/blog/how-to/clean-bathtub/)
+
+What Size Water Softener Do I Need?
+-----------------------------------
+
+### 1\. Determine the Hardness of the Water
+
+One of the first things you should do to determine if you need to get a water filtration system is test your water hardness. The hardness of your water is based on what minerals are present in it. You can contact your water company, hire a professional lab or purchase a testing kit. The results are measured by grains per gallon (gpg) or milligrams per liter (mgL). The range for hard water is 7 to 11 gpg or 121 to 180 mgL.
+
+### 2\. Determine Your Water Consumption
+
+Next, you need to determine the amount of water your household uses. Most household members use 80 to 100 gallons (300 to 400 liters) of water per day. Multiply your daily average by the number of people in your home. This number is your average daily consumption. For example, if you use 80 gallons (300 liters) per day and have three people in your home, your average daily consumption would be 240 gallons (900 liters).
+
+### 3\. Calculate Grains Removed
+
+Calculate [how many grains](https://www.discountwatersofteners.com/water-softener-sizing/) the system would need to remove weekly. Multiply the gpg of your water by your household’s daily consumption. If your water has a hardness of 9 gpg, and the daily usage is 240 gallons (900 liters), the number of grains that need to be removed each day is 2,160. Multiply your daily number by 7. This example has a weekly average of 15,120 GR.
+
+### 4\. Determine Water Softener Size
+
+Water softener sizes are typically indicated by grains to be removed weekly. The most common sizes for water softeners start at 24,000 GR and go up to 64,000 GR. When choosing a size, allow for water use fluctuations in different seasons. For the household of three that needs 15,120 grains removed, a 24,000 GR softener would be suitable.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/HHBV3N6sGrY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Flush Your Hot Water Heater #howto #homemaintenance"></iframe>

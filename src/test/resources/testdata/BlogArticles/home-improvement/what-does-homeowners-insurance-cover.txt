@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Does Homeowners Insurance Cover?"
+headline: "What Does Homeowners Insurance Cover ... and What Doesn't It?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-02-05
+basePath: https://library.homeserve.com/m/
+heroImage: 171809a4a1fab0b/Blog-GettyImages-1207038160.jpg
+heroAltDescription: "Real estate agent is holding a house model"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Homeowners insurance coverage is a necessity. Here's what's included in your policy."
+articleAbstract: "Your home is your biggest asset — and likely the largest investment you will ever make — which makes homeowners insurance coverage a necessity. Here's what is included in your coverage."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Does Homeowners Insurance Cover ... and What Doesn't It?"
+  parent: Interior-Home-Home-Improvement
+---
+  As a homeowner, it’s important to know what homeowners insurance covers and what it doesn’t. Your home is your biggest asset — and likely the largest investment you will ever make — which makes homeowners insurance coverage a necessity. According to the [Insurance Information Institute](https://www.iii.org/fact-statistic/facts-statistics-homeowners-and-renters-insurance), homeowners filed insurance claims to the tune of $56 billion in 2017 alone, underscoring the need for this valuable coverage.
+
+**This May Also Interest You:** [**What to Expect When They’re Inspecting: Your Home-Inspection Checklist**](https://www.homeserve.com/en-us/blog/home-improvement/what-to-expect-home-inspection/)
+
+Homeowners insurance covers losses due to common perils, but it doesn’t cover everything. Here’s what you need to know.
+
+What Is Homeowners Insurance?
+-----------------------------
+
+Standard homeowners insurance is a type of insurance policy that protects homeowners if certain accidents, disasters and other events occur. It usually covers losses incurred due to theft and vandalism. Most policies cover the dwelling or structure and the personal belongings inside the home.
+
+What Does It Cover?
+-------------------
+
+A homeowners insurance policy provides homeowners with a financial hedge against loss. Policies typically cover four areas, including:
+
+### Structure of the Home
+
+Most standard homeowners policies cover the cost of repairing or rebuilding a home due to damage resulting from fire, hail, hurricane, lightning and other perils listed in the individual policy. According to [Allstate](https://www.allstate.com/tr/home-insurance/covered-in-homeowners-policy.aspx), most detached structures on the property are also covered, including tool sheds and garages. Typical coverage for detached structures is 10% of the total amount of coverage purchased on the main dwelling. Shrubs, trees and plants are also usually covered — except if they’re lost due to poor maintenance or disease.
+
+### Personal Belongings
+
+Up to 70% of the insurance coverage on the structure is generally provided for the cost of replacing personal belongings, according to the [Insurance Information Institute](https://www.iii.org/article/what-covered-standard-homeowners-policy). This includes furniture, clothing, electronics and anything else that may be stolen or destroyed due to covered perils such as fire or wind. Depending on your policy, homeowners insurance coverage for personal belongings may extend to items stored away from the home. Most policies also allow for some coverage that can protect you in the case of unauthorized use of your credit cards.
+
+It is important to note that high-dollar items like art, jewelry or collectibles are covered on most policies, but the dollar amount is limited. For this reason, a floater or personal property endorsement may be necessary to insure the items for their true value, usually based on an official appraisal.
+
+### Liability of the Homeowner
+
+Standard homeowners insurance provides some protection against liability for bodily injury or property damage caused by the homeowner or their family and pets. Suppose your dog attacks someone or a guest slips and falls on your property and is injured. This protection offsets the legal costs and any court-awarded settlement up to the policy limits selected, which generally start at $100,000. Policies typically provide no-fault medical coverage for any parties injured on your property, except for you and people living with you.
+
+### Additional Living Expenses (ALE)
+
+If a covered disaster prevents you from living in your home while repairs are being made, ALE coverage pays for the extra costs associated with living away from your home. This includes costs that are beyond your customary living expenses, such as the cost of staying in a hotel and eating at restaurants. According to [Forbes](https://www.forbes.com/advisor/homeowners-insurance/additional-living-expenses/), this coverage may also be listed as “loss of use” on your policy. ALE coverage is subject to the limits of your policy but is separate from the available benefits for repairing or rebuilding your home.
+
+What’s Not Covered?
+-------------------
+
+Most of the damage incurred by common perils is covered by homeowners insurance. However, some types of disasters require separate policies or riders to the standard policy. Two of the most common uncovered losses occur due to flooding or earthquakes. Depending on where you live, coverage for these perils can be important.
+
+Homeowners insurance may not cover damage due to poor upkeep or maintenance, which is considered the homeowner's responsibility. This includes typical wear and tear to the home and its structures.
+
+It’s also worth noting that some insurance companies will not provide homeowners insurance or may charge extra for customers who have swimming pools or trampolines on their property. The same is true for certain dog breeds, the list of which may vary by state and is based on the number of reported dog bite attacks. If you own a breed on the list, the insurer may refuse coverage or charge you more for your coverage.
+
+**More Related Articles:**
+
+*   [Digging Out: 6 Things Homeowners Should Do Right After a Blizzard](https://www.homeserve.com/en-us/blog/home-improvement/after-blizzard-safety-tips/)
+*   [What Is a Home Improvement Loan and How Do You Get One?](https://www.homeserve.com/en-us/blog/home-improvement/home-improvement-loan/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [10 Things to Do Immediately Upon Moving Into a New House](https://www.homeserve.com/en-us/blog/home-improvement/moving-into-new-house/)
+*   [How Do You Prepare Your Home Before You Go on Vacation?](https://www.homeserve.com/en-us/blog/home-improvement/vacation-appliance-checklist/)
+
+How Do You File a Homeowners Insurance Claim?
+---------------------------------------------
+
+The first step is to contact your agent, who will assign a claims adjuster. The adjuster will likely visit your home to inspect the damage, but it can be helpful to have pictures of the damage to show the adjuster beforehand, along with copies of any receipts or appraisals related to the claim.
+
+How Much Homeowners Insurance Do I Need?
+----------------------------------------
+
+To determine how much homeowners insurance to purchase, you should make a list of assets that require protection. You'll also want to make a home inventory list with replacement costs noted.
+
+Keep in mind that the greater the number of assets you need to protect, the more homeowners insurance you need to purchase. If assets requiring coverage are greater than the coverage afforded under a standard homeowners insurance policy, then an excess liability policy or umbrella policy may be necessary to completely protect yourself and your family. As a general rule of thumb, coverage for your structure alone should be at least enough to rebuild the home in the event of a total loss.
+
+This article has been updated to reflect editorial guidelines.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

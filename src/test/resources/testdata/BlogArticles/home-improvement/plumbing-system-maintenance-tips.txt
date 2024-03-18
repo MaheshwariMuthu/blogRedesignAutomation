@@ -1,0 +1,93 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Plumbing Maintenance Tips"
+headline: "6 Plumbing Maintenance Tips for New Homeowners"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-10-04
+basePath: https://library.homeserve.com/m/
+heroImage: 3fdff329ddbceca8/Blog-iStock_000043081200_Full.jpg
+heroAltDescription: "plumber fixing under sink"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "With a few home plumbing maintenance tips in your back pocket, you can keep things flowing smoothly."
+articleAbstract: "Watch out for leaks and clogs, but that’s not where you should stop caring for your pipes. With a few home plumbing maintenance tips in your back pocket, you can keep things flowing smoothly."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "X Plumbing Tips for New Homeowners"
+  parent: Plumbing-Home-Improvement
+---
+  
+
+You don't need a plumbing license to handle routine plumbing maintenance. Keeping your pipes and plumbing fixtures in good condition is relatively easy. Leaks and clogs are two common issues to watch out for in your home, but other maintenance tasks are also beneficial.
+
+**This May Also Interest You:** [**Plumbing Repair Cost Guide**](https://www.homeserve.com/en-us/blog/cost-guide/plumbing-repair-costs/)
+
+With a few home plumbing maintenance tips in your back pocket, you can keep things flowing smoothly.
+
+Preventive Plumbing Maintenance: 6 Top Tips
+-------------------------------------------
+
+Most plumbing repairs are best left to licensed plumbers, but you can use simple home plumbing maintenance tips to reduce the need for a plumber. The way you use your plumbing fixtures can prevent problems, especially clogs. Checking for problems regularly helps you spot them early when they're easier to fix. Here are some plumbing maintenance tips to keep in mind.
+
+<img class="detail-image" src="https://library.homeserve.com/m/3dc4b7dc50a31588/Blog-UnitedWater_IPD_SHMQ42DCB552_03.jpg" alt="Plumbing and drainage repair"/>
+
+### 1\. Check for Leaks Regularly
+
+Over time, your plumbing pipes can corrode and the connections can get loose, leading to plumbing leaks. They can range from minor drips to major gushing leaks that flood your space. Leaks in the exposed plumbing under your sinks are easy to spot. It can be more difficult to spot leaks that are hidden in walls.
+
+To check for leaks, look for drips, puddles or dampness on walls and floors. Another quick tip is to monitor your water meter. Write down the reading, wait an hour without using any water and check it again to see if it changes. An increase in the meter reading without using any water can show that your plumbing is leaking.
+
+If you think your toilet might be leaking, put a couple of drops of liquid food coloring in the tank and wait a few minutes to see if it filtered into the bowl. If so, you might need to replace the flapper or other parts.
+
+### 2\. Watch What Goes Down Your Drains
+
+Clogged drains can prevent you from using your sink or shower until you get it cleared. Prevent clogs by limiting what goes down your drains. Never pour grease down your drains, as it can [harden and clog the pipe](https://www.homeserve.com/en-us/blog/home-improvement/what-is-a-fatberg/). Using a hair catcher over your shower drain can prevent hair clogs. Limit what you flush down your toilet to human waste and toilet paper. Flushing wipes, sanitary products and other items can clog your toilet and cause it to overflow.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2983371b3dc7b3f2/Blog-GettyImages-1292879935.jpg" alt="pumping septic tanks from the backyard tank in the countryside"/>
+
+### 3\. Maintain Your Septic Tank or Sewer Lines
+
+Whether you have a septic tank or sewer, regular maintenance can keep it working properly without any messy sewage backups. A septic tank usually needs to be professionally pumped every [three to five years](https://www.epa.gov/septic/how-care-your-septic-system), but factors such as the size of the tank and how many people live in the household can affect the timing.
+
+Sewer lines should also be cleaned and inspected occasionally — usually about every [two years](https://www.benjaminfranklinplumbing.com/pleasantville/about-us/blog/2021/april/how-often-should-my-sewer-lines-be-cleaned-/). Things that get flushed down the toilet can clog the sewer lines, and tree roots can grow into them and block the flow. This can cause slow draining and eventually cause the sewage to back up into your home.
+
+**More Related Articles:**
+
+*   [9 Times When You Should Call a Plumber](https://www.homeserve.com/en-us/blog/home-improvement/professional-plumber-repairs/)
+*   [Pipe Burst? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+*   [3 Reasons Your Toilet Is Running — and how to Fix It](https://www.homeserve.com/en-us/blog/how-to/fix-running-toilet/)
+*   [Here’s How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+*   [9 Common Plumbing Myths — Busted](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-system-myths/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/32cfbbdaaff045bf/Blog-GarbageDisposalDonts_MSchmitz_0001.jpg" alt="putting coffee grounds and egg shells down sink drain"/>
+
+### 4\. Use Your Garbage Disposal With Caution
+
+If your kitchen has a garbage disposal, make sure you only put safe items down it. You should only use it for food, but some foods are [off-limits](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-dos-and-donts/). Things to avoid include:
+
+*   Grease
+*   Bones
+*   Pasta, bread, rice and other foods that expand in water
+*   Coffee grounds
+*   Eggshells, onion skins and other items with a skin-type membrane
+*   Potato peels
+*   Nuts
+*   Fruit pits
+
+Hard items can damage the blades of your garbage disposal. Other items can get stuck in the pipes and cause clogs. Items such as eggshells can get wrapped around the blades and cause issues.
+
+<img class="detail-image" src="https://library.homeserve.com/m/d66cb020b3a66e4/Blog-ShowerHead_MSchmitz_0005.jpg" alt="Showerhead with handheld sprayer"/>
+
+### 5\. Clean Your Showerhead
+
+Regularly cleaning your shower head ensures you get good water flow to make your showers more enjoyable. An easy way to clean your showerhead is to remove it and soak it in vinegar overnight. If you can't take it off easily, put the vinegar in a plastic bag and secure it tightly around the showerhead, so the holes are fully submerged. After soaking, use a soft cleaning brush or toothbrush to clean the holes. Rinse it well before putting it back in place.
+
+### 6\. Check Your Shut-Off Valves
+
+Your home has a main plumbing shut-off valve, and many of your plumbing fixtures likely have their own valves. When you turn them, they cut off the water supply. This is important if you have a major leak. Shutting off the valve quickly can minimize the problem and prevent major water damage. Locate all the plumbing shut-offs in your house, so you know how to use them. Test the valves to ensure they work properly.
+
+An Ounce of Prevention...
+-------------------------
+
+When you use these home plumbing maintenance tips regularly, you can keep your plumbing working properly, so you won't need to call a plumber as often.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nk_hBpyP3Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How Much Does Sewer Line Maintenance and Repair Cost?"></iframe>

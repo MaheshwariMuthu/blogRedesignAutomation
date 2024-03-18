@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------
+|ArticleName				|Title	|Author	|Date	|Image	|
+--------------------------------------------------------------------------
+|install-french-drain			|Pass	|Pass	|Pass	|Pass	|
+|solar-shingles				|Pass	|Pass	|Pass	|Pass	|
+|black-friday-smart-home-deals	|Pass	|Pass	|Pass	|Pass	|
+|inground-pool				|Pass	|Pass	|Fail	|Pass	|
+--------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|ArticleName				|Heading		|Paragraph		|Link			|List			|Image			|Video			|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|install-french-drain			|Pass: 11 Fail: 0	|Pass: 22 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|solar-shingles				|Pass: 3 Fail: 0	|Pass: 12 Fail: 0	|Pass: 10 Fail: 1	|Pass: 1 Fail: 2	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|black-friday-smart-home-deals	|Pass: 22 Fail: 0	|Pass: 73 Fail: 3	|Pass: 34 Fail: 0	|Pass: 1 Fail: 0	|Pass: 2 Fail: 2	|Pass: 0 Fail: 0	|
+|inground-pool				|Pass: 8 Fail: 0	|Pass: 3 Fail: 14	|Pass: 7 Fail: 3	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 1	|
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

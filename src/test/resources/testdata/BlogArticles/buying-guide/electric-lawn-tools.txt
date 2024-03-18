@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Electric Lawn Tools: Pros and Cons"
+headline: "Should You Upgrade to Electric Lawn Tools?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-16
+basePath: https://library.homeserve.com/m/
+heroImage: 280c677dacbd7ab1/Blog-GettyImages-173702889.jpg
+heroAltDescription: "A green colored electric lawnmower with an electrical cord attached to it is stopped on a well maintained green lawn in front of a green wheelbarrow and landscaped trees and shrubbery"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Weighing the pros and cons of electric lawn tools? This guide should help you make a decision."
+articleAbstract: "Weighing your options between gas and electric-powered lawn tools? This handy guide will help make your decision easier as it weighs the pros and cons of both."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Buying Guide: Should You Upgrade to Electric Lawn Tools?"
+  parent: Exterior-Home-Buying-Guide
+---
+  In the world of lawn maintenance, the outdoor power equipment options available run the gamut. Lawnmowers range from manual push mowers under a hundred bucks to zero-turn riding mowers that can cost as much as a used car. Options abound for other lawn tools, too, like leafblowers, weedeaters and pressure washers. And in recent years, the burgeoning realm of more environmentally friendly electric-powered lawn tools gives consumers even more options to choose from for the care and keeping of their outdoor spaces.
+
+**More Related Articles:** [**I, Mow-bot: What Is a Robot Lawnmower and How Much Does It Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/robot-lawn-mower/)
+
+So, how do you decide which tools are right for you and your lawn, and how do you get the most effective (and perhaps even eco-friendly) lawn tools without breaking the bank? Read on for more about lawn tools that rely on electric power, and see how they compare to their gas-powered counterparts.
+
+Pros of Electric Lawn Tools
+---------------------------
+
+### More Eco-Friendly
+
+One of the most obvious and attractive benefits of electric lawn tools is that they don’t use gasoline and therefore have zero emissions. In addition to lowering your carbon footprint, electric yard tools also appeal to those looking for a fume-free lawn care experience, since they don’t emit potentially harmful and unpleasant smelling fumes. You also won’t have to worry about gas spills, which can harm plant life and can be toxic to animals.
+
+### Quieter
+
+Electric-powered lawn tools are also significantly quieter than their gas-fueled competitors — [about one-quarter to one-half as loud](https://www.nonoise.org/library/qz7/QuietLawns05.pdf) — which can make for a most pleasant experience for both you and your neighbors. This can be especially helpful if you live in an area with strict noise ordinances, or if you want to work outside in the early morning or evenings when it’s cooler, but when some folks may be trying to sleep.
+
+### Lighter
+
+Another plus for electric tools is that they tend to be more lightweight. This means that whether you’re wielding a lawnmower or leaf blower, maneuvering them can feel less cumbersome. And anyone who has struggled with heavy and awkward lawn tools knows what a difference tool weight can make in your overall lawn-care experience.
+
+### Easier Maintenance
+
+Finally, electric-powered tools are known for having pretty low-key maintenance when compared to gas-powered machines. With an electric tool, there’s no more trekking to the gas station for more fuel in the middle of a yard mow. Electric tools simply require a battery charge between uses or being plugged in during use if it's a corded tool. What’s more, electric tools don’t typically need those often-costly tune-ups that many gas-powered tools do. They also require fewer cleanings, since they don’t get sullied by the oily residue that’s left by gasoline.
+
+**More Related Articles:**
+
+*   [Rake It or Leave It? Here’s Why You May Just Wanna Leave Your Leaves Where They Fall](https://www.homeserve.com/en-us/blog/home-improvement/should-you-rake-leaves/)
+*   [How to Keep Your Lawn Green While Also Conserving Water](https://www.homeserve.com/en-us/blog/how-to/conserve-water-on-lawn/)
+*   [Got Brown Patches and Bald Spots? Here’s How to Fix Lawn Damage](https://www.homeserve.com/en-us/blog/how-to/fix-lawn-damage/)
+*   [How Much Does It Cost to Aerate a Lawn?](https://www.homeserve.com/en-us/blog/cost-guide/lawn-aeration/)
+*   [Mow Money: Here’s How Much Lawn Care Services Cost](https://www.homeserve.com/en-us/blog/cost-guide/lawn-service-cost/)
+
+Cons of Electric Lawn Tools
+---------------------------
+
+### Shorter Run Time
+
+One potential downside to electric yard tools is their shorter run times. This may not be an issue for small, low-maintenance yards, but for more expansive lawns, it may mean stopping to recharge batteries midway through your mowing, blowing or weed-eating. For corded tools, this is not an issue, but keep in mind that your reach will be limited by the location of your outdoor outlets and length of your power cord.
+
+### Less Powerful
+
+In terms of power, outdoor tools that run on gas tend to have the highest horsepower, with corded electric ones typically coming in second and battery-powered tools bringing up the rear. This is perhaps most noticeable in tools that require the most power, like lawnmowers. With handheld tools, like leafblowers, hedge trimmers and snowblowers, the difference is less obvious, making those tools a good starting point for buyers hoping to give electric lawn tools a whirl. That said, battery-powered yard tools have come a long way since they first hit the market, with a large selection of higher-volt offerings available that pack a decent punch in terms of power.
+
+Price Difference Between Electric and Gas-Powered Tools
+-------------------------------------------------------
+
+When it comes to cost, electric tools can be a tad more expensive upfront. But, when you add in the cost of fuel needed to power gas-guzzling tools over time, electric tool prices usually become comparable, or even cheaper, than gas-powered models. Additionally, electric tools usually require less maintenance, making them the more affordable option in the long run.
+
+It’s Electric! (Boogie Woogie Woogie)
+-------------------------------------
+
+There’s no doubt about it: Battery-powered and corded lawn tools are making a splash in the world of lawn care and equipment, and for good reason. They are quiet, lightweight, easy to maintain, fume-free and eco-friendly. And in terms of price, electric tools tend to be comparable to their gas-powered contenders.
+
+However, if you’re power-hungry and have a big yard, keep in mind that you might have less power to work with and need to pause mid-project to recharge your batteries if you go gas-free. Still, for many folks, electric lawn tools are the way to go for a sustainable lawn-care experience that’s pleasing to you, the earth and those sleeping neighbors.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/I_p4dkZ3TpU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Window Wells | How to Clean and Maintain a Basement Window Well"></iframe>

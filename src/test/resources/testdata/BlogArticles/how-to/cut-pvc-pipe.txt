@@ -1,0 +1,59 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Cut PVC Pipe"
+headline: "How to Cut PVC Pipe"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-09-18
+basePath: https://library.homeserve.com/m/
+heroImage: 3a42e10169da9c5b/webimage-CutPVCPipe_0722.png
+heroAltDescription: "cutting and securing a pvc pipe"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Looking for the best way to cut PVC pipe? Here are three effective methods.  "
+articleAbstract: "Looking for the best way to cut PVC pipe? Here are three effective methods."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Cut PVC Pipe"
+  parent: Interior-Home-How-To
+---
+  PVC (polyvinyl chloride) and CPVC (chlorinated polyvinyl chloride) pipes are two similar types of rigid plastic pipes used extensively in residential plumbing systems. Go take a quick look under your kitchen or bathroom sink, and you’re nearly guaranteed to see one of those two pipes functioning as a drainage or supply line. It’s a safe bet that any home improvement project — like a kitchen or bathroom remodel — is likely to include some work cutting and fitting this type of piping.
+
+**This May Also Interest You:** [**Home Hacks: Common Household Items You Can Use Instead of Buying a New Tool**](https://www.homeserve.com/en-us/blog/home-improvement/household-items-for-tools/)
+
+That said, cutting CPVC or PVC pipe can be tricky, especially when it comes to making smooth, straight cuts. The good news is that you probably have a reliable PVC cutting tool around your house, even if you aren’t the most seasoned DIYer.
+
+Looking for the best way to cut PVC pipe? Here are three effective methods.
+
+Method 1: Use a Handsaw
+-----------------------
+
+Perhaps the simplest and most commonly used method to cut PVC pipe is by using a handsaw. And while it’s fairly simple to get a good, straight cut using this method, it’s still crucial that you take a few necessary precautions that will help keep you safe and ensure that the job gets done correctly.
+
+Before cutting anything, you’ll first want to make sure that you secure the pipe to a surface using a vise or some other form of saw clamps. Though it might seem quicker to just hold the pipe with your hand, one wrong slip of the saw and... well, you can guess the rest. Plus, it’s just harder to hold a pipe steady with your hand while sawing, meaning it’ll be more difficult to end up with a straight cut.
+
+When you’re placing the PVC in the vise, make sure that you clamp it a few inches away from the cut to give you plenty of room to saw. Then, once the PVC is properly secured, use a pen or marker to indicate where you’re planning to cut. From there, place the teeth of the saw on the mark and begin to slowly move the saw back and forth, ensuring that the teeth stay on the mark. Don’t press hard into the pipe, as that might jam up your cut. Instead, let the saw do the work and act as a guide for the saw as it works its way through the material.
+
+Method 2: Use Plastic Pipe Cutters
+----------------------------------
+
+As you may have already guessed, using a specifically designed plastic pipe cutter is certainly a quick and convenient way to cut PVC pipe. If you have several cuts to make, or anticipate that you’ll be cutting more pipe in the future, go ahead and pick up a plastic pipe cutter from your local hardware store. You’ll be glad you did.
+
+To be clear, there are two distinct types of PVC pipe cutters: scissor style and ratcheting style. If you’re cutting a smaller PVC diameter pipe, say less than 1/2 inch, scissor-style cutters will get the job done. If your PVC project demands cutting larger diameter pipes, you’ll definitely want to use a ratcheting style cutter as they don’t require nearly as much hand strength. But the truth is, ratcheting cutters work well for smaller size pipes, too, so even if you’re cutting a variety of sizes, a good pair of ratcheting cutters — like this [pipe cutter available on Amazon](https://www.amazon.com/Irwin-Tools-Ratchet-Action-Cutter-Diameter/dp/B08WPX1J7B/ref=sr_1_5?crid=3DWM7AUES50Z0&keywords=pvc+cutter&qid=1654683534&s=hi&sprefix=pvc+cutte%2Ctools%2C121&sr=1-5) — is worth the small investment.
+
+Cutting PVC using a plastic pipe cutter is a fairly straightforward process: Mark a line on the pipe where you’d like to cut, then place the jaws of the cutter over the pipe, ensuring that the blade lines up with the cut line. If you’re using scissor-style cutters, you’ll want to apply pressure to the handles and rotate the cutters back and forth until the cut is complete. The same method applies to ratchet-style cutters, except you’ll be able to repeatedly squeeze the handles and release to ratchet the cutters. Keep squeezing and releasing until you cut through the pipe.
+
+**More Related Articles:**
+
+*   [What Are the Different Types of Screwdrivers and Their Uses?](https://www.homeserve.com/en-us/blog/home-improvement/types-of-screwdrivers/)
+*   [What Is Screwdriver ‘Cam Out’ and How Can I Avoid It?](https://www.homeserve.com/en-us/blog/home-improvement/screwdriver-cam-out-explained/)
+*   [Splash Course: How to Use a Power Washer](https://www.homeserve.com/en-us/blog/how-to/use-power-washer/)
+*   [Allen a Day’s Work: The Do’s and Don’ts of Assembling IKEA Furniture](https://www.homeserve.com/en-us/blog/how-to/ikea-furniture-assembly-tips/)
+*   [Tale of the Tape: How to Use Painter’s Tape](https://www.homeserve.com/en-us/blog/how-to/use-painters-tape/)
+
+Method 3: Use an Electric Miter Saw
+-----------------------------------
+
+If you’ve got lots of PVC to cut for your DIY project and are looking to save time and energy, there’s nothing like using power tools to help get the job done. If you already have an electric miter saw on hand, it’s the best way to cut PVC pipe quickly and efficiently, especially if you have large quantities of PVC to cut. It’s also considerably more dangerous than the other methods, so make sure you approach this task with care and follow all safety guidelines. Make sure you’ve read and understand the manufacturer's instructions before using the saw.
+
+Start by marking the cut line on your PVC pipe with a marker or pen. Then, line up the cut line on the electric miter saw’s throat plate. Before pulling the trigger on the saw, ensure that the pipe is secured to the saw fence using the included clamps. When the pipe is secure, pull the trigger and slowly bring down the saw blade into the pipe. To get a clean cut, release the trigger after the pipe has been completely severed and when the blade has stopped spinning, raise it back up and out of the pipe.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

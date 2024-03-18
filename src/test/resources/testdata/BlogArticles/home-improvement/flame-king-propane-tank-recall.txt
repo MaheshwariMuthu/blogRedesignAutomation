@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Safety Recall: 500 Flame King Propane Tanks"
+headline: "Flame King Recalls 500 Propane Cylinders Due to Risk of Gas Leak"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-04-16
+basePath: https://library.homeserve.com/m/
+heroImage: 32cbe97a53dcf7ea/Blog-PropaneTankRecall_FlameKing_0421.jpg
+heroAltDescription: "recalled propane tank views"
+metaDescriptions: "Flame King has recalled 500 Hog 100-pound Propane Cylinders because they may leak propane gas, which poses a fire hazard. Learn more here."
+articleAbstract: "Flame King has recalled some Hog 100-pound Propane Cylinders due to improper handle placement, which could cause a gas leak. To find out if yours is one of the 500 recalled units or if it remains approved for use, read on."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Flame King Propane Tank Recall"
+  parent: Appliances
+---
+  If you have a propane cylinder, you might want to read this. Flame King has recalled some Hog 100-pound Propane Cylinders due to improper handle placement, which could cause a gas leak. To find out if yours is one of the 500 recalled units or if it remains approved for use, read on.
+
+**This May Also Interest You:** [**What You Need to Know About Gas Safety**](https://www.homeserve.com/en-us/blog/home-improvement/gas-safety-tips/)
+
+According to the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/Flame-King-Recalls-Hog-100-Pound-Propane-Cylinders-Due-to-Fire-Hazard), the recalled propane cylinders have a handle located below the welded seam. The improper placement could cause the unit to leak propane, which poses a fire hazard. The recall was announced March 24.
+
+Cylinders affected by the recall are white and have a handle placed _below_ the weld line near the top of the unit. You can also see if your cylinder has been recalled by checking the serial number on its collar. Serial numbers 000001 through 002800 have been recalled. Gray cylinders with higher serial numbers and handles above the weld are approved for use.
+
+The Pico Rivera, Calif.-based [manufacturer](https://www.flameking.com/hogrecall) said the affected cylinders were sold from January 2020 through September 2020, at a price of about $250 apiece. They were sold online at Amazon, Wayfair, eBay, The Home Depot and Walmart. The units were manufactured in Thailand. According to the CPSC, no incidents or injuries have been reported.
+
+If your propane cylinder falls under this recall, stop using it immediately and request an exchange or refund via Flame King’s hotline: 844-464-8265. You can also fill out an exchange form online [here](https://docs.google.com/forms/d/e/1FAIpQLSfXnFTgsr5z_ElLvZW5VDgmYlBPvprZJmcjG_UUP4i0ObeL4g/viewform?gxids=7628) or email the manufacturer at [recall@flameking.com](mailto:recall@flameking.com). For more consumer product safety information, visit [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Shock Hazard Sparks Recall of 25,000 National Presto Smokers](https://www.homeserve.com/en-us/blog/)
+*   [3,600 Powerhorse Portable Generators Recalled Over Risk of Electric Shock](https://www.homeserve.com/en-us/blog/home-improvement/portable-generator-recall/)
+*   [How Much Does a Propane Tank Cost? Everything You Need to Know](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-a-propane-tank-cost/)
+*   [5 Tips for Cabon Monoxide Safety](https://www.homeserve.com/en-us/blog/home-improvement/carbon-monoxide-safety-tips/)
+*   [Wood-Burning Stove and Fireplace Safety](https://www.homeserve.com/en-us/blog/home-improvement/fireplace-wood-burning-stove-safety/)

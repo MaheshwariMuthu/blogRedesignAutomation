@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Samsung Smart Microwave Features"
+headline: "Everything You Need to Know About Samsung Smart Microwaves: Features and Functionality"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-10-09
+basePath: https://library.homeserve.com/m/
+heroImage: 436271bc36a7adcd/webimage-SamsungSmartMicrowave_Samsung_0001.png
+heroAltDescription: "Stainless-steel over-the-range microwave with a black window and black control panel against a white background."
+metaDescriptions: "Wish your microwave was smarter? Here's what features Samsung smart microwaves have."
+articleAbstract: "Samsung is one of the major brands now producing smart microwaves. Here, you can find out how Samsung smart microwaves work and explore their features and benefits."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Samsung Smart Microwaves: Smart Features &amp; How They Work"
+  parent: Appliances-Buying-Guide
+---
+  
+
+_Manufacturer image_
+
+From cellphones to kitchen ranges and even kettles, the devices and appliances we use every day are getting smarter. Manufacturers are constantly coming up with new technological solutions to make life more convenient, and that includes smart microwaves. These appliances feature Wi-Fi connectivity and a range of extras to improve their functionality.
+
+**This May Also Interest You:** [**How to Install an Over-the-Range Microwave**](https://www.homeserve.com/en-us/blog/how-to/install-over-the-range-microwave/)
+
+Samsung is one of the major brands now producing smart microwaves. Below, you can find out how Samsung smart microwaves work and explore their features and benefits.
+
+What Is a Smart Microwave?
+--------------------------
+
+Smart microwaves are different from regular microwaves because you can connect them to your home Wi-Fi network. This allows you to control their functions using an app installed on your smartphone or tablet. Some smart microwaves are also compatible with virtual assistants such as Alexa and Bixby devices, which means you can start and stop the microwave with voice commands if your hands are full.
+
+Although smart microwaves perform the same basic function as traditional models, many come with some advanced features. For example, some smart microwaves let you scan the barcodes on food packaging to automatically select the correct setting and temperature, saving you the time of reading the preparation instructions. Other potential features include artificial intelligence, where the microwave learns your cooking habits and suggests likely setting options. Some have extra cooking modes like air frying.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6d95660727873163/Blog-SamsungMicrowave_ManufacturerImage_0001.jpg" alt="Dark-colored, gray and black Samsung microwave against white background."/>
+
+_Manufacturer image_
+
+What Features Does the Samsung Smart Microwave Have?
+----------------------------------------------------
+
+Samsung sells a range of built-in and freestanding microwaves in several color options, including models designed for installation over your range to save space. Each Samsung smart microwave has a smudge-proof exterior coating that stops you from leaving unsightly fingerprint marks behind when you touch it. The interior enamel coating is scratch-proof and easy to clean.
+
+Samsung smart microwaves feature powerful air convection technology that circulates hot air around the cooking space from a top vent. This feature helps your food cook more evenly. According to Samsung, you can expect your food to be ready [30% faster](https://www.samsung.com/us/microwaves/) than in a regular convection microwave. The microwaves also have a built-in grill to crisp the top of your food like an oven would.
+
+Many Samsung smart microwaves have an integrated moisture sensor that automatically detects the humidity inside the microwave. It uses this information to adjust the settings to achieve optimal results, which is a useful feature if you're uncertain how to cook certain foods in a microwave and don't want to waste time on research.
+
+Samsung smart microwaves connect to the [SmartThings app](https://www.smartthings.com) on a compatible phone or tablet. This lets you start and stop the microwave and select your preferred settings from anywhere, even if you're away from home. Opening a Samsung SmartThings account also provides access to some handy resources, including recipes and a meal planner.
+
+All Samsung smart microwaves come with free delivery and returns and are covered by a 1-year warranty for parts and labor. Samsung will also install your new appliance and remove and dispose of your old one for an additional fee.
+
+**More Related Articles:**
+
+*   [4 Surefire Methods for Cleaning the Crud Out of Your Microwave](https://www.homeserve.com/en-us/blog/how-to/clean-microwave/)
+*   [How Do I Reset My Samsung Refrigerator?](https://www.homeserve.com/en-us/blog/how-to/reset-samsung-refrigerator/)
+*   [5 Best Smart Refrigerators for Various Household Needs](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-refrigerators/)
+*   [How Much Value Does a Kitchen Remodel Add to Your Home?](https://www.homeserve.com/en-us/blog/home-improvement/kitchen-remodel-home-value/)
+*   [How Much Does a Kitchen Island Cost?](https://www.homeserve.com/en-us/blog/cost-guide/install-kitchen-island/)
+
+How Do I Connect My Samsung Smart Microwave to My Phone?
+--------------------------------------------------------
+
+First, install the SmartThings app on your smartphone or another compatible device. You'll need to register for a Samsung SmartThings account before you can link your phone to your microwave via Wi-Fi. Log in using your email address and password and tap the plus sign to add an appliance.
+
+Search through the brand menu until you find the Samsung icon. Tap on it and select Microwave from the list of appliances. The app will then guide you step by step to complete the setup. Once you've connected to your Samsung smart microwave, you can access your appliance anytime from the SmartThings app.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/bdFxcfH-05w?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

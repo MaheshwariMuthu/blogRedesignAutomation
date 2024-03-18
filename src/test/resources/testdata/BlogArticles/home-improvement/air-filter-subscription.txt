@@ -1,0 +1,89 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 'Air Filter Subscription and Delivery: Is It Worth It?'
+headline: Is an Air Filter Subscription Service Worth the Cost?
+author: Team HomeServe
+tags: ['post']
+publishDate: 2020-10-02
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: air-filter-sub-01-full.jpg
+heroAltDescription: Is an Air Filter Subscription Service Worth the Cost?
+metaDescriptions: An air filter subscription delivery service will help every homeowner stay on top of changing their air filters every one to two months.
+articleAbstract: Changing the air filters in your home's HVAC system may not be the most glamorous of home improvement tasks, but it is an important as it could save you money on your bills and extend the life of your heating and cooling units.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: 'Air Filter Subscription and Delivery: Is It Worth It?'
+  parent: HVAC-Home-Improvement
+---
+
+::: blog-info
+Signing up for a home air-filter subscription program for your HVAC system can help you stay on top of the easy task of changing the air filters in your home. But the question remains, is it worth it? We weigh in on the pros and cons.
+:::
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+## How Do I Measure My Air Filter?
+Before you can enroll in a home air filter replacement program, you'll need to know the size of the filters you need.
+
+The first step in measuring your air filter is to remove it. You will find your filter either behind a small metal door in your air handler or in an intake vent somewhere in your house. Intake vents are always larger than regular heating and cooling vents.
+
+Once the filter is removed, you will normally be able to see the size printed right on the filter itself. However, if you don't, filter dimensions are listed in order of length (the longest dimension unless your filter is square), width (the next longest dimension), and depth (the top to bottom thickness of the filter). Your measurements will likely wind up including fractions, which you should round up to find the "nominal" size. So 15 ½ would become 16 and ¾ would become 1.
+
+## Air Filter Performance: Meet MERV
+Air filters are generally rated according to their minimum efficiency reporting value, or MERV. The higher the MERV number, the smaller the particles they can capture. Generally, it is recommended that filters for home use range from a MERV of 7 to 13. While you can get filters with even higher MERV ratings, they are not always recommended because their ability to grab finer particles also means they restrict airflow and can have the same effect on your HVAC equipment as a dirty filter.
+
+Filters with MERV ratings between 5-8 can capture pollen, dust mites, carpet fibers, mold spores and dust. Those rated between 9-12 can also capture smoke and those rated at 13 can block bacteria as well. Generally, you should look for a filter that blocks the most particles without going over the recommended MERV rating for your system.
+
+## How Often Should I Replace My Air Filters?
+This largely depends on your home's size, whether or not you have shedding pets, and the amount of dust in your home. A general rule of thumb is to change your filters every 60 days if you have a pet and every 90 days if you don't. If anyone in your house suffers from allergies, it's best to change your filters every 20-30 days to ensure the cleanest air in your home.
+
+The best way to get a handle on when your filters need changing is to simply look at them. If you can no longer see the filter material itself because it's covered with dirt, then it is time to swap them out.
+
+## Are Filter Subscription Delivery Services Worth It?
+The short answer is: maybe.
+
+Generally, filter subscription services sell you filters at a higher price than you could get them online – especially if you buy multi-unit packs. For example, you could score a six-pack of 20 x 25 x 1 filters on Amazon with a MERV rating of 12 for around $32.30, or $5.40 per filter. In our analysis below, you'll see that the cheapest comparable filter we could find was offered by Filter King and costs $9.35. Most other filter subscription services would charge you $15 or more for something comparable.
+
+That being said, there is one benefit of filter subscription services that might make them worth it for you. Because all of these services allow you to set up a delivery schedule, the arrival of filters in the mail can act as a trigger to remind you to swap them out with the old ones. If this kind of home maintenance isn't front-of-mind for you, a delivery service can be worth the extra cost if it gets you to change your filters on a regular basis, saving you cash on potential repairs and keeping your energy bill low.
+
+If that sounds like you, here are our picks for the top three filter subscription services.
+
+## BEST VALUE
+[Filter King](https://filterking.com/){target="_blank"}
+
+In terms of price, Filter King can't be beat – and the more you buy, the more you save. After you've chosen your filter size, you can increase the quantity up or down to see how much you will save. For example, our MERV 11 test filter of 20 x 25 x 1 costs $23.69 for one, but drops to $9.35 each for four, $8.10 each for six and $7.83 each for 12. Free shipping increases Filter King's value proposition.
+
+Now, if you're going to buy 12 air filters, chances are good that you won't need them delivered very often, but if you do, Filter King offers a simple toggle at checkout where you can set it up, and also save an additional 5%.
+
+Another nice feature of Filter King is that you can use their free "Filter Reminder" tool to set up email and text alerts at time intervals of your choosing to remind you to order new filters.
+
+## BEST SERVICE
+[Second Nature](https://www.secondnature.com/){target="_blank"}
+
+With a rating of 4.5 stars on Google, Second Nature is one of the most well-regarded filter delivery services on the internet. In addition to keeping their customers happy, they also offer the best introductory offer we saw anywhere in our research. You can get all the filters you need for home's entire HVAC system completely free with your first order. Have six filters in your system? Then you can get six free filters to start. There's no commitment required and shipping is always free. On top of that Second Nature makes it really easy to pause your subscription should you find that filters are piling up. You can do so for up to two years.
+
+That being said, you will pay for their top-notch service and easy, attractive website. Our test filter comes in at $16 through Second Nature, which was by no means the highest, but it is still on the pricey side.
+
+## BEST CONSTRUCTION
+[Filter Snap](https://www.filtersnap.com/){target="_blank"}
+
+Most filters you'll get through a subscription service will consist of pleated filter material surrounded by a cardboard frame. While that is sufficient for most homeowners, if your filters fit very tightly, you can run into trouble with the frame bending or tearing as you install or remove them. Enter FilterSnap.
+
+This company creates filters that have a heavier cardboard frame as well as a metal grid that supports the pleated filter it surrounds. This makes them substantial filters that really do hold up through tight installations and removals. On top of that, the filters aren't more expensive than most other services (except for Filter King), with our test filter coming in at $15.95.
+
+Tip: FilterSnap uses the terms Basic, Standard and Ultimate to describe their filter options. These correspond to MERV ratings of 8, 11 and 13.
+
+## Bonus Hack: Set Up Your Own Filter Delivery Service With Amazon
+As you might have noticed, Amazon offers subscription options on many of their products, and air filters are no exception. You might be able to find the filters you need at the best price possible using the site. Simply check out [this page](https://www.amazon.com/s?keywords=Furnace+Filters&rh=p_n_is_sns_available%3A2617006011&c=ts&ts_id=13399891){target="_blank"} that shows all filters eligible for subscriptions, choose the ones you want, click the "subscribe and save" toggle and select the delivery interval. You'll save 5% on top of the listed price, which will likely already be the best price you can find.
+
+Keeping your air filters on a regular replacement schedule is one of the best ways to keep your heating and cooling systems functioning their best. However, problems may still arise. That’s why being prepared with a [plan from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help you deal with the costs associated with covered HVAC repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U4IFZzwZwdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

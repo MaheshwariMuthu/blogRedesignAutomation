@@ -1,0 +1,50 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What's a Composting Toilet?"
+headline: "What's a Composting Toilet?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-11-02
+basePath: https://library.homeserve.com/m/
+heroImage: 539ce1d1153aa483/Blog-Sun_Mar_Excel_WikimediaCommons_PublicDomain.jpg
+heroAltDescription: "A white composting toilet with a footstool sits against a ceramic tile wall next to a white bathtub in a residential bathroom"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Composting toilets create an environment in which bacteria break down human waste into usable fertilizer."
+articleAbstract: "Composting toilets create an environment in which bacteria break down human waste into usable fertilizer. Here's what to know about these eco-friendly devices."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "What's a Composting Toilet?"
+  parent: Plumbing-Buying-Guide
+---
+  You've probably already heard of people composting their kitchen scraps. This process of disposing of food waste can turn trash into rich soil that can create healthy flower or vegetable gardens. But kitchen waste isn't the only material that can be turned into fertilizer. _Human waste_ can get the job done as well — when it is properly treated. And that's where a composting toilet comes in.
+
+**This May Also Interest You:** [**Backyard Composting 101**](https://www.homeserve.com/en-us/blog/how-to/compost/)
+
+Composting toilets create an environment in which aerobic (oxygen-loving) bacteria can break down human waste into usable fertilizer. Here's what to know about these eco-friendly devices.
+
+How Do Composting Toilets Work?
+-------------------------------
+
+Composting toilets come in two varieties: self-contained and central. Self-contained toilets do all of the composting work inside the unit, while central units direct the waste to a different area where the composting can take place. For applications such as tiny homes or RVs, self-contained models make the most sense. However, if you have a situation where multiple toilets will be in use — such as at a camp or off-grid cabin — a central system might be better.
+
+Most composting toilets automatically separate solid from liquid waste. This is because too much moisture in the composting reservoir can create an unsuitable environment for the bacteria needed to break down the waste. This means that these toilets have a container that collects urine that needs to be dumped and cleaned on a regular basis.
+
+The solid waste part of the system is where the composting takes place. Some composting toilets have a starter culture that is mixed with the waste to begin the bacterial process. Others just rely on ambient bacteria to get the job done. In either case, users of the systems need to fill it part way with carbon-rich material like sawdust, coconut coir or peat moss and add more of the material after each use. This creates space for oxygen, which is what will fuel the bacteria.
+
+Some composting toilets have cranks that you turn a few times after use to mix all the material together. Others also require electricity to keep the composting chamber at the proper temperature or to power a fan that removes odors and supplies oxygen to the mix. The model you choose will depend on your needs and budget.
+
+Depending on the size of the toilet and the number of people using it, the solid waste portion will need to be emptied approximately every four to six weeks. While this may seem like an unpleasant task, thanks to the bacterial action, the resulting fertilizer is dry and relatively odor free. It can be bagged up and thrown out, or applied to lawns or gardens.
+
+**More Related Articles:**
+
+*   [How Do Compost Pickup Services Work — and How Much Do They Cost?](https://www.homeserve.com/en-us/blog/cost-guide/compost-service/)
+*   [8 Ways to Conserve Water in Your Home](https://www.homeserve.com/en-us/blog/home-improvement/home-water-conservation/)
+*   [How to Make Your Home More Energy Efficient: 9 Pro Tips](https://www.homeserve.com/en-us/blog/home-improvement/energy-efficiency-conservation-tips/)
+*   [8 Home Efficiency Measures You Can Take This Earth Day](https://www.homeserve.com/en-us/blog/how-to/diy-rain-barrel/)
+*   [How to Make a Rain Barrel: A 4-Step DIY Guide](https://www.homeserve.com/en-us/blog/how-to/diy-rain-barrel/)
+
+Why Get a Composting Toilet?
+----------------------------
+
+Composting toilets are great in areas where it might be difficult to connect to a septic or sewer system or where plumbing is problematic. Most units operate without water, so they can be a great solution for tiny homes, RVs or other dwellings where water is in short supply because it's stored in holding tanks. These devices are also perfect for anyone looking to save water for ecological or economic reasons. According to Dr. Sam Kubba, author of the [_Handbook of Green Building Design and Construction_](https://www.sciencedirect.com/topics/engineering/composting-toilet#:~:text=A%20composting%20toilet%20can%20save,water%20per%20person%20a%20year.), composting toilets can save over 6,600 gallons of water per person per year.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nk_hBpyP3Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How Much Does Sewer Line Maintenance and Repair Cost?"></iframe>

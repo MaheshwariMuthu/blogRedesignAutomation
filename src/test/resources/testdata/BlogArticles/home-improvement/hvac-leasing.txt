@@ -1,0 +1,52 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Can I Lease an HVAC Unit?"
+headline: "Can I Lease an HVAC Unit?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-25
+basePath: https://library.homeserve.com/m/
+heroImage: 58359669ffdf393f/Blog-Jackson3.jpg
+heroAltDescription: "HVAC"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Considering HVAC leasing as an alternative to buying? Here are a few things you should know before you sign that contract."
+articleAbstract: "Because a new furnace or AC unit can be expensive, many companies now offer financing options, such as HVAC leasing, that let homeowners pay in manageable installments. But there are a few things you should know before you sign that contract."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Can I Lease an HVAC Unit?"
+  parent: HVAC-Home-Improvement
+---
+  If you see your HVAC technician more than your friends, it may be time to replace your aging heating and cooling system.
+
+**This May Also Interest You:** [**HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+
+Because a new furnace or AC can be expensive, many companies now offer financing options, such as HVAC leasing, that let homeowners pay in manageable installments. But there are a few things you should know before you sign that contract.
+
+Can a Homeowner Lease an HVAC Unit?
+-----------------------------------
+
+Many heating and cooling companies now offer HVAC leasing programs, which let homeowners pay for the use of an air conditioner or furnace. When the contract ends, the homeowner may purchase the equipment outright, turn it in or lease another new unit. Some companies may also offer lease-to-own programs; others only allow you to lease a unit.
+
+What Does It Mean to Lease an AC Unit or Furnace?
+-------------------------------------------------
+
+Leasing an AC unit or furnace is similar to leasing a car. You pick out a model and sign a contract with the leasing company. Then, a technician installs the unit. The application process is usually quick and easy and often doesn’t require a credit check.
+
+Leasing an HVAC unit means you don’t own the system. The lessor does. If you’ve chosen a lease-to-own program, you'll own the equipment after you’ve finished making payments. Otherwise, once the lease ends, you’ll have to decide whether to buy the equipment or turn it in. Because the lessor owns the system, they’re responsible for maintenance and repairs for the system.
+
+What Should You Consider Before Signing an HVAC Leasing Agreement?
+------------------------------------------------------------------
+
+Leasing may appeal to budget-conscious homeowners, but it isn’t always the best option, depending on your individual situation. Here are some things to consider:
+
+* **Cost:** Leasing is less expensive on the front end, but it may be more expensive in the long run. However, if you don’t have the lump sum to drop on a new system, leasing can be a good option.
+* **Choice:** HVAC leasing plans usually include maintenance and repair, but you don't get to choose the service company. The lessor does.
+* **Liability:** Depending on the lease, you may be responsible if the system is damaged. Some homeowners insurance policies don't cover leased equipment.
+* **Tax credits:** If you buy a new system, you may qualify for energy tax credits that you can’t get if you lease.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

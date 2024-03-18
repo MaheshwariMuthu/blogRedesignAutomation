@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is Pool Automation?"
+headline: "What Is Pool Automation?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-09-25
+basePath: https://library.homeserve.com/m/
+heroImage: 4531436b44857e7f/Blog-GettyImages-1198843118.jpg
+heroAltDescription: "Pool cleaning robot"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Pool automation allows you to bring smart home automation to your swimming pool.  Learn the pros and cons before you dive in."
+articleAbstract: "Pool automation allows you to bring smart home automation to your swimming pool.  However, pool automation systems aren't right for everyone. Learn the pros and cons before you dive in."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is Pool Automation?"
+  parent: Exterior-Home-Home-Improvement
+---
+  Imagine being able to manage your pool from a single remote panel. Enter the pool automation system — technology that brings all your pool functions together in a smartphone app or remote control. These nifty devices allow you to bring smart home automation to your swimming pool.
+
+**This May Also Interest You:** [**Down the Drain: A Step-by-Step Guide to Draining Your Pool**](https://www.homeserve.com/en-us/blog/how-to/drain-pool/)
+
+However, pool automation systems aren't right for everyone. Learn the pros and cons before you dive in.
+
+What Is a Pool Automation System?
+---------------------------------
+
+Pool automation systems allow you to control your pool systems and accessories remotely. Therefore, you won't need to switch components on and off or adjust the settings using the switches around your pool. Most automation systems can connect to the following elements:
+
+*   Filters
+*   Pumps
+*   Heaters
+*   Spa settings
+*   Water features
+*   Light
+*   Sound
+*   Valve systems
+*   Robotic pool cleaners
+
+You can use a pool automation system to control most of your pool's functions, including the temperature and features such as fountains and light systems. More high-tech units can connect to the device, maintaining the chemical levels in your pool water. You can often set various operating modes, allowing you to keep your pool running correctly while you're away from home. Therefore, these systems can make running and maintaining your pool easier and may help you save money on energy.
+
+How Does Pool Automation Work?
+------------------------------
+
+Pool automation systems work by connecting to your pool's system via wires or Wi-Fi. Usually, you'll need an electrician to install the cables linking your pool components to a remote control. A series of actuators and relays allow you to use a remote control panel to monitor and adjust most aspects of your pool's operation. This system lets you control your pool's settings from inside your home without physically accessing the components.
+
+**More Related Articles:**
+
+*   [How Much Does an Above-Ground Pool Cost?](https://www.homeserve.com/en-us/blog/cost-guide/above-ground-pool-installation/)
+*   [How Much Does a Concrete Pool Cost? The Price Isn’t Set in Stone](https://www.homeserve.com/en-us/blog/cost-guide/concrete-pool-installation/)
+*   [Can You Install an Indoor Pool Without Getting in Over Your Head?](https://www.homeserve.com/en-us/blog/cost-guide/indoor-pool/)
+*   [How to Open Your Swimming Pool for the Summer](https://www.homeserve.com/en-us/blog/how-to/open-swimming-pool/)
+*   [Play It Safe With Anti-Vortex Pool Drain Covers: Here’s How to Install One](https://www.homeserve.com/en-us/blog/how-to/install-anti-vortex-drain-cover/)
+
+What Are the Different Types of Pool Automation Systems?
+--------------------------------------------------------
+
+There are two main types of pool automation systems: wired systems and wireless systems. You'll need a licensed electrician to install a wired system because installing wires near water can be dangerous. Wired systems are typically more affordable than wireless pool automation systems.
+
+Wireless pool automation systems connect to your pool's components via Wi-Fi. Most systems come with a smartphone app, enabling you to adjust your pool's settings and functions from anywhere. Some systems are also compatible with virtual assistants, such as Alexa, allowing you to control your pool with voice commands.
+
+The main advantage of a wireless pool automation system is that you can control your pool without physical access to your home. This means you can heat your pool before arriving home and manage your maintenance routine while on vacation.
+
+Wireless pool automation systems can be pricey, but they're more suitable for DIY installation because you won't need to adapt your existing electrical system. You can only install a wireless system if your pool's features are Wi-Fi compatible and you have a strong internet connection.
+
+Pool automation systems also differ in the number of channels available. Basic, budget-friendly systems may only accommodate a few essential components, such as the pool heater and pump. The most modern, expensive systems can control up to 50 [pool components](https://www.saltwaterpoolandspa.com/pool-automation.html) simultaneously, and some allow expansion if you upgrade your pool's features later.
+
+Do I Need Pool Automation?
+--------------------------
+
+Pool automation could be a good option if you have a complex pool system or want a way to manage your pool while you're away from home. It could also be handy if you find accessing the manual settings challenging.
+
+On the other hand, pool automation may not be worth the cost if you have a basic pool setup with relatively few features. While some pool automation systems help you manage your pool's chemical balance, they aren't a replacement for manual checks.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

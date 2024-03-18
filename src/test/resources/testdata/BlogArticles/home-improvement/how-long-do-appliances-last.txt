@@ -1,0 +1,106 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Long Do Appliances Last?"
+headline: "How Long Do Appliances Last?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-02-11
+basePath: https://library.homeserve.com/m/
+heroImage: 60297d0704a9b650/Blog-shutterstock_318473174.jpg
+heroAltDescription: "multiple appliances on white background"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Lots of factors go into the longevity of household appliances, but all of them will eventually give up the ghost. Here's how long yours might have left."
+articleAbstract: "Lots of factors go into the longevity of common household appliances, but all appliances will eventually give up the ghost. Knowing the average lifespan can help you estimate when you might need to replace that old refrigerator or stove."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Long Do Appliances Last?"
+  parent: Appliances
+---
+  How old’s your fridge? When did you buy your washing machine? Lots of factors go into the longevity of common household appliances, but all appliances will eventually give up the ghost.
+
+**This May Also Interest You:** [**What Do You Do With an Old Appliance How to Recycle Fridges, Washers, Ovens and More**](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+Knowing the average lifespan for common appliances can help you estimate when you might need to replace that old refrigerator or stove.
+
+What's the Average Lifespan of Common Household Appliances?
+-----------------------------------------------------------
+
+Most major appliances usually last between [eight and 15 years](https://www.thespruce.com/lifespan-of-household-appliances-4158782). This average time frame can help you determine when to replace an appliance, but you can often repair older appliances to make them last longer. Some of your appliances might still be under warranty.
+
+### Refrigerators
+
+Refrigerators run nonstop to keep your food properly chilled. Despite the constant operation, refrigerators have an average usable life of 13 years. Cleaning the condenser coils can help your refrigerator last longer.
+
+### Dishwashers
+
+You can expect your dishwasher to last about nine or 10 years. Certain parts, such as the hose, might be vulnerable to damage or leaks and need to be replaced sooner.
+
+### Washing Machines
+
+Washing machines average 10-year lifespans. The size of your household and the amount of laundry you do every week impact how long yours lasts. You might need to replace individual parts sooner, such as the hose that handles the water.
+
+### Dryers
+
+Both electric and gas dryers have an average life expectancy of 13 years. The main maintenance task is keeping the lint cleaned off the screen and from the dryer vent.
+
+### Microwaves
+
+Your microwave should keep heating leftovers for about nine years. You can make sure it lasts as long as possible by only running it when you have food or liquids inside. Running it empty can damage the appliance.
+
+### Ovens, Ranges and Stoves
+
+When it comes to ovens, ranges and stoves, electric models typically last around 13 years. Gas models usually last a little longer, with an average life of about 15 years. Both types have a relatively long lifespan and require very little maintenance other than routine cleaning.
+
+### Chest Freezers
+
+A stand-alone freezer offers an average usable life of 11 years. Keep it clean and vacuum the coils regularly — similar to a refrigerator — to make it last as long as possible.
+
+### Garbage Disposals
+
+Garbage disposals typically churn through your disposed food for eight to 12 years. To help it last as long as possible, make sure you know which things to avoid throwing in your garbage disposal, like:
+
+*   Bones
+*   Fruit pits
+*   Nuts
+*   Grease
+*   Eggshells
+*   Potato peels or similar fruit and vegetable peels
+*   Fibrous vegetables (pumpkin, celery or rhubarb)
+*   Pasta
+*   Bread
+*   Oatmeal
+*   Coffee grounds
+
+These items can damage the blades or cause clogs in your plumbing. They can also shorten the lifespan of your garbage disposal.
+
+**More Related Articles:**
+
+*   [How Much Does a Stove or Oven Cost?](https://www.homeserve.com/en-us/blog/cost-guide/stove-oven/)
+*   [How Much Does a Clothes Dryer Cost?](https://www.homeserve.com/en-us/blog/cost-guide/clothes-dryer/)
+*   [How Much Does a Chest Freezer Cost?](https://www.homeserve.com/en-us/blog/cost-guide/chest-freezer/)
+*   [How Much Does a Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+*   [How Much Does a Fridge Cost?](https://www.homeserve.com/en-us/blog/cost-guide/refrigerator/)
+
+Factors Affecting Appliance Longevity
+-------------------------------------
+
+### Maintenance
+
+Taking care of your appliances with routine cleaning, maintenance and repairs can help them last longer.
+
+### Use
+
+How often you use appliances also affects its longevity. If you only do a few loads of laundry per week, your washing machine will likely last longer than one that supports a large family with multiple loads per day. If you rarely cook at home, your range might last longer than normal.
+
+### Care
+
+Another aspect of use is how careful you are with the appliance. Using it as specified and being gentle with it can extend the life. Slamming doors on appliances can impact the hinges and damage internal components. Overloading dishwashers, washing machines and other appliances can make them work harder and wear out faster.
+
+### Quality
+
+Every appliance comes in a range of prices and quality levels, from low-end basic models to high-end luxury models. Buying the most expensive model doesn't guarantee it will last longer, but spending extra on high-quality models can get you more life out of your appliances.
+
+### Technology Components
+
+Fancy appliances with lots of bells and whistles can make your life more convenient, but they also make the machine more complex, so there are more components that can go bad.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

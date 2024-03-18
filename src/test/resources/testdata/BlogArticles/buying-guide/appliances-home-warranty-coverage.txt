@@ -1,0 +1,50 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Does a Home Warranty cover appliances?
+headline: Are appliances covered in a Home Warranty Plan?
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2019-10-01
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: fridge 531 Blog.png
+heroAltDescription: Kitchen and Refrigerator
+metaDescriptions: Home warranty plans can have coverage for appliances, home systems and more. Learn what is included.
+articleAbstract: Home warranty plans can have coverage for appliances, home systems and more. Learn what is included. 
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Does a Home Warranty cover appliances?
+  parent: Appliances-Buying-Guide
+---
+
+Dish duty. My most unfavorite household chore. So I can safely say I'd be lost - and a super cranky mom - without my dishwasher to help me with the dirty work. _(And to save me from ruining my manicure and having dishpan hands.)_ Should my dishwasher conk out on me, I can honestly say, I’ll let the dishes sit in the sink before having to wash everything by hand. _(I know, I’m a diva!)_
+
+[1]: https://www.homeserveusa.com/totalhomewarranty
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+:::: blog-info
+So let’s not even talk about what if my washer broke down? Or my dryer? Without all my household appliances I'd be at a loss, so that’s why I plan ahead and have a [home warranty plan](https://www.thebalance.com/what-is-a-home-warranty-plan-1798347){target="_blank"} in place.
+
+## Determining the ins and outs of home warranty appliance coverage
+
+The purpose of a home warranty is to cover some or all of the cost of [maintaining household systems or appliances](https://www.investopedia.com/terms/h/home-warranty.asp){target="_blank"}, as _Investopedia_ points out. This is typically for a set period of time - 12 months, for example, though some are shorter and others considerably longer - with provisions for potential renewal at the end of each phase. It's important to note that appliance coverage is not guaranteed in all home warranty plans, though it's certainly somewhat common.
+
+A good way to gauge whether a particular appliance or home system will or won't be protected is how essential it is to everyday life. Furnaces and water heaters, for example, are things every house needs, and you shouldn't agree to a home warranty that doesn't include them, or similarly essential items like stoves and refrigerators.
+
+Other less critical - but still important - appliances a warranty often covers include dishwashers, air conditioners and garbage disposals. _(I tend to disagree.)_ Sometimes warranty coverage varies based on how an appliance is set up: Free-standing microwaves probably aren't included in a home warranty, but a built-in model might be.
+
+[Learn More About Home Warranty Plans Near You][1]{target="_blank"}
+
+On the other end of the spectrum, you might find yourself disappointed if you expect coverage for a swimming pool (though it might be available for an extra fee).
+
+## Comprehensive protection with TotalHome Warranty
+
+With [TotalHome Warranty by HomeServe][1]{target="_blank"}, you'll have peace of mind thanks to wide-ranging protection for your home's vital appliances and home systems, plus you’ll get help with [home maintenance](/en-us/blog/home-improvement/home-maintenance-tips){target="_blank"} from certified professionals.
+
+Check to [see if TotalHome Warranty][1]{target="_blank"} is available in your area now!
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+::::

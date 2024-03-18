@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Are All TVs Smart TVs? Can I Buy a Non-Smart TV?"
+headline: "Can You Buy a TV That's Not Smart?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-11-23
+basePath: https://library.homeserve.com/m/
+heroImage: 7ffc31578b1c5218/Blog-GettyImages-1321169024.jpg
+heroAltDescription: "Looking the tv at home"
+metaDescriptions: "Smart TVs are high-tech portals to a world of available content. But you may prefer the simplicity of a dumb model. Here's what you need to know."
+articleAbstract: "The TV market has been flooded with smart options lately. Smart TVs are amazing, high-tech portals to a world of available content, but they aren’t without their issues. Here's what you need to know if you'd rather buy a dumb model."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Can You Buy a TV That's Not Smart?"
+  parent: Appliances-Buying-Guide
+---
+  Unless you’ve been living under a rock, you might have noticed the sudden proliferation of smart home appliances that have flooded the market in recent years. From smart refrigerators that alert you when food is about to expire, to smart bathroom mirrors that display the local weather — name an appliance, and chances are there’s an internet-enhanced version of it.
+
+**This May Also Interest You:** [**What’s the Samsung TV Upgrade Program and Is It Worth It?**](https://www.homeserve.com/en-us/blog/cost-guide/samsung-tv-upgrade-program/)
+
+However, there are some devices that have been so transformed by smart technology that we hardly recognize their non-smart predecessors. Think about it. How many people do you know who use a standard flip phone?
+
+Just like cell phones, TVs have, by and large, made the total smart transformation. Head to any mass-market merchandise retailer and you’ll find an impressive array of high-tech internet TVs decked out with a variety of features and capabilities.
+
+But just because a device is considered “smart” doesn’t necessarily mean that it’s a better purchase than a non-smart device. In fact, there are many instances where you may prefer the familiar comfort of a “dumb” device.
+
+What Makes a TV ‘Smart’ Anyway?
+-------------------------------
+
+To put it simply, a smart TV is any TV that has the ability to connect to the internet. Typically, these devices connect to the internet through Wi-Fi, but they can also connect through an Ethernet cable. A smart TV will generally offer access to streaming services like Netflix, Apple TV and Disney+, among many others. Depending on the model, you might be able to browse the internet and display media from your smartphone or even connect a USB drive. More advanced smart TVs have built-in cameras and offer video conferencing apps like Skype. Some even operate via voice control.
+
+More and more, smart TVs are becoming integrated with other smart home devices like smart lights, locks and thermostats, allowing them to operate like a hub for controlling all of the connected devices in your home.
+
+What Are Some Reasons You May Not Want a Smart TV?
+--------------------------------------------------
+
+Put simply, smart TVs are amazing, high-tech portals to a world of available content. But they aren’t without their disadvantages. Smart TVs (and many smart devices, for that matter) have some real issues that may concern some consumers.
+
+### TV or … “Big Brother?”
+
+Of course, the most pressing issue associated with smart TVs is an overall lack of privacy. Now, before you get out the tinfoil hat, you should know that it’s unlikely that your TV is literally spying on you and the occupants of your home. However, TV manufacturers and streaming companies _are_ monitoring your viewing habits closely.
+
+In fact, TV companies gathering this data (what and when you watch and how long you watch it) is a pretty [well-reported fact](https://www.washingtonpost.com/technology/2019/09/18/you-watch-tv-your-tv-watches-back/). Nearly all smart TVs use this type of tracking to show you more relevant advertising. Now, you may not necessarily mind this type of data tracking, but nevertheless, it’s something that smart TV users should be aware of.
+
+### Short Shelf Life
+
+When was the last time you picked up your old smartphone that came out a few years ago? How is it that the once lightweight, innovative piece of technology feels like a 5-pound brick now? In case you haven’t noticed, the speed at which smart devices are improving and upgrading is happening incredibly fast.
+
+Like many other smart devices, smart TVs are outdated after a few years and may not be able to continue to run the apps you’ve gotten used to. For example, some older Samsung operating systems are no longer [able to access the Netflix app due to “technical limitations.](https://www.bbc.com/news/technology-50331667#:~:text=Samsung%20has%20announced%20that%20Netflix,December%2C%20Roku%20told%20Digital%20Trends.)” And even if your smart TV is still able to run all of your desired apps, there’s a good chance that the streaming services will become noticeably slower over time.
+
+**More Related Articles:**
+
+*   [Watch What You’re Doing! How to Move Your Flatscreen TV Damage-Free](https://www.homeserve.com/en-us/blog/how-to/move-tv/)
+*   [What’s a Free-to-Air Antenna and How Do You Set It Up?](https://www.homeserve.com/en-us/blog/cost-guide/tv-repair/)
+*   [How Much Does TV Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/tv-repair/)
+*   [Mounting Expenses: How Much Does It Cost to Mount a TV?](https://www.homeserve.com/en-us/blog/cost-guide/tv-mount/)
+*   [How to Mount a Flatscreen TV to a Wall](https://www.homeserve.com/en-us/blog/how-to/mount-flatscreen-tv/)
+
+Do They Still Make Non-Smart TVs?
+---------------------------------
+
+For the reasons described above, you may decide that purchasing a smart TV isn’t the right choice for you after all. But if you decide to forgo the “latest and greatest” in TV tech, where can you go to buy one? After all, you probably won’t have much luck heading to your local big-box retailer. Truth is, to purchase a “dumb” TV, you may have to put in some work seeking one out.
+
+Most non-smart TV sets are sold by lesser-known brands like Seiki, Sceptre or Onn. To find them, search something like “non-smart tv” on Amazon or another online retailer and you’ll be pleased to find a number of dumb TVs available. However, keep in mind that there are fewer “dumb” TVs manufactured each passing year. Another option for those interested in purchasing a dumb TV is to scour eBay and Facebook Marketplace in search of a secondhand TV in good condition.
+
+Don’t Want a Smart TV? Get Creative
+-----------------------------------
+
+If you’re not planning to use the built-in tuner, you could consider purchasing a computer monitor to use as a TV set. That way, you could maximize your viewing experience with features like full HD, HD led or 4K TV picture quality.
+
+Computer monitors come with USB and HDMI ports and allow you to completely customize your desired streaming services by purchasing separate devices like Roku, Chromecast or Amazon Fire Sticks. A standard cable box or game console can also connect to your monitor and stream shows and movies.
+
+To Stream or Not to Stream
+--------------------------
+
+There are several reasons why you might not want to purchase a smart TV. Do you want the versatility and customization that a high-quality computer monitor affords? Or are you looking to simplify and just need a TV to connect to basic cable? In any case, do your best to read your streaming devices' privacy policies before purchasing one and make your decisions forearmed with as much knowledge as possible.

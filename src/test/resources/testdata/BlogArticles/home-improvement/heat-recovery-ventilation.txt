@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is Heat Recovery Ventilation?"
+headline: "What Is Heat Recovery Ventilation?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2023-11-16
+basePath: https://library.homeserve.com/m/
+heroImage: d0906c062f35b76/Blog-GettyImages-1023034234.jpg
+heroAltDescription: "Opened Air Recuperator. Filtration and ventilation system"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "An HRV continuously exchanges indoor and outdoor air while retaining the temperature in a heat exchanger."
+articleAbstract: "Imagine a device that keeps the air fresh and healthy in your home and helps reduce your heating and cooling costs. That's precisely what a heat recovery ventilation system can do for you."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is Heat Recovery Ventilation?"
+  parent: HVAC-Home-Improvement
+---
+  Imagine a device that keeps the air fresh and healthy in your home and helps reduce your heating and cooling costs. That's precisely what a heat recovery ventilation system can do for you.
+
+**This May Also Interest You:** [**HVAC Terms Every Homeowner Should Know**](https://www.homeserve.com/en-us/blog/buying-guide/hvac/)
+
+If you're new to the world of HRV, let us introduce you to its indoor comfort and air quality delights. We might leave you wondering how you've lived without it.
+
+What Is a Heat Recovery Ventilation System?
+-------------------------------------------
+
+A heat recovery ventilation system continuously exchanges indoor and outdoor air while retaining the warmth or coolness, depending on the season, in a heat exchanger. This means you can enjoy a constant flow of fresh air without the energy waste of opening windows, all while maintaining a comfortable temperature inside.
+
+An HRV shouldn’t be confused with an energy recovery ventilator, which transfers heat and moisture between incoming and outgoing air streams.
+
+How Does an HRV System Work?
+----------------------------
+
+A heat recovery ventilation system operates by a simple yet ingenious principle: It brings in fresh outdoor air while simultaneously expelling stale indoor air. Here's how it works.
+
+*   HRV systems operate on the principle of balance. They use fans to draw in outdoor air and extract indoor air, ensuring your home maintains a stable air pressure.
+*   As fresh outdoor air enters the HRV unit, it passes through a heat exchanger. This exchanger captures the heat from the outgoing indoor air and transfers it to the incoming outdoor air. During winter, this means you get warm, fresh air without losing the heat you've generated indoors.
+*   HRV systems manage moisture through their heat exchangers and a process called enthalpy exchange. They capture moisture from the outgoing indoor air during the winter and transfer it to the incoming, drier outdoor air. They reverse this process in summer, removing excess moisture from the outdoor air before it enters your home. This ensures your indoor humidity levels stay within a comfortable and healthy range and helps prevent issues such as mold and condensation.
+*   Heat recovery ventilators continuously repeat this cycle, ensuring your indoor air remains fresh, comfortable and of high quality.
+
+**More Related Articles:**
+
+*   [What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps ...](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [Is an HVAC Tune-Up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+Why Install an HRV System?
+--------------------------
+
+You might be wondering why you should go through all this trouble when you can simply open a window. It’s a valid question, and here are three compelling answers.
+
+* **Energy efficiency:** HRV units are exceptionally energy efficient. Unlike opening a window, which can result in significant heat loss during the winter or increased cooling costs in the summer, HRV HVAC systems capture and utilize the heat from the outgoing air, saving you energy and money on heating and cooling bills.
+* **Air quality control:** Opening a window can invite outdoor pollutants and allergens into your home. HRV provides consistent air exchange and filtration, ensuring your indoor air is free from pollutants, allergens and other airborne contaminants.
+* **Climate adaptability:** Heat recovery ventilation systems are designed to work year-round, regardless of the weather. They provide fresh air in the winter without the discomfort of drafts and in the summer without increasing your cooling costs.
+
+Choosing the Right HRV System
+-----------------------------
+
+The first step is to assess your home's specific needs. Consider factors such as the size of your living space, the number of occupants and the local climate. For larger homes or those in freezing cold or hot regions, a more robust HRV system with higher airflow capacity may be necessary to ensure proper ventilation. Conversely, if you live in a smaller home or milder climate, you may require a smaller unit. Additionally, look for heat recovery units with built-in controls or the ability to integrate with your existing HVAC system for seamless operation and convenience.
+
+Opt for HRV units that are Energy Star-certified, as they meet stringent energy-efficiency standards and can help you save on utility bills over time. Additionally, examine the heat recovery efficiency rating (typically expressed as a percentage) to ensure you're getting the most out of your HRV system. Finally, choose a heat recovery ventilator that's easy to clean and maintain to ensure long-term reliability and optimal performance.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/J1jEVTAq4io?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Change Your Ceiling Fan Direction"></iframe>

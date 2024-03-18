@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Safety Recall: PureLine Pool Pump Motor"
+headline: "'Burning, Smoking, Melting': 800 PureLine Pool Pump Motors Recalled for Fire Danger"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-04-20
+basePath: https://library.homeserve.com/m/
+heroImage: 2c50929c82a6cf30/webimage-PoolPumpMotorRecall_InyoPoolProducts_0001.jpg
+heroAltDescription: "product photo of a black motor used as a swimming pool pump"
+metaDescriptions: "The Consumer Product Safety Commission announced that Inyo Pool Products Inc. is recalling 800 PureLine 1.5 HP Pool Pump Motors due to a fire hazard."
+articleAbstract: "If you bought a pump motor for your swimming pool online from Inyo Pool Products in the past four years, you’ll want to verify whether yours is affected by a recent federal safety alert. The Consumer Product Safety Commission on March 25 announced that Inyo Pool Products Inc., of Longwood, Fla., is recalling about 800 PureLine 1.5 HP Pool Pump Motors due to a defect that could cause the motors to overheat — posing a fire hazard and already having resulted in 26 reports of motors “burning, smoking or melting.”"
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "PureLine Pool Pump Motor Recall"
+  parent: Appliances
+---
+  If you bought a pump motor for your swimming pool online from Inyo Pool Products in the past four years, you’ll want to verify whether yours is affected by a recent federal safety alert. The Consumer Product Safety Commission on March 25 announced that Inyo Pool Products Inc., of Longwood, Fla., is recalling about 800 PureLine 1.5 HP Pool Pump Motors due to a defect that could cause the motors to overheat — posing a fire hazard and already having resulted in 26 reports of motors “burning, smoking or melting.”
+
+**This May Also Interest You:** [**Fire Hazard: 4,500 DeWALT Kerosene Heaters Recalled**](https://www.homeserve.com/en-us/blog/home-improvement/cordless-kerosene-heater-recall/)
+
+Affected by the recall are two models of the China-manufactured 1.5-horsepower electric motors, which drive pool pumps, sold between April 2017 and May 2020 for $140 to $159 via the Inyo Pool Products website. Those include PureLine-brand motors bearing model numbers PL1152 and PL2152, fitted with round flanges and square flanges, respectively; the model number is located on the white label on top of the device.
+
+“Consumers should immediately stop using the recalled pool pump motors and contact Inyo Pool Products for a free replacement,” the CPSC stated in its [recall alert](https://www.cpsc.gov/Recalls/2021/Inyo-Pool-Products-Recalls-PureLine-Pool-Pump-Motors-Due-to-Fire-Hazard-Sold-Exclusively-on-inyopools-com-Recall-Alert), which noted that no injuries had been reported in the more than two-dozen incidents. “After replacement, consumers should cut one of the wires connecting to the capacitor and dispose of the recalled pump motors in accordance with local requirements.”
+
+CPSC added that Inyo Pool Products has requested that owners send a photo of the cut wire to [recall@inyopools.com](mailto:recall@inyopools.com), for verification. The company stated that it is contacting all pump motor owners directly, and that the quickest and easiest way to receive the free replacement is by [filling out an online registration form, here](https://inyopools.lpages.co/motor-recall/).
+
+For more information, call Inyo Pool Products at 888-575-0485 or visit [www.inyopools.com](http://www.inyopools.com) and click on the [Recall](http://www.inyopools.com/Content/recall.aspx) tab for more information, including an instructional video on replacing the recalled motor and cutting the prescribed wire.
+
+**More Related Articles:**
+
+*   [How Much Does an Inground Pool Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-an-inground-pool-cost/)
+*   [How Much Does a Pool Liner Cost to Repair or Replace?](https://www.homeserve.com/en-us/blog/cost-guide/pool-liner-replacement/)
+*   [3,600 Powerhorse Portable Generators Recalled Over Risk of Electric Shock](https://www.homeserve.com/en-us/blog/home-improvement/portable-generator-recall/)
+*   [Amputation Risk Prompts Recall of 6,700 Toro Snowthrowers](https://www.homeserve.com/en-us/blog/home-improvement/toro-snowthrower-recall/)
+*   [Watch Your Toes! 2.2 Million Edsal Shelving Units Recalled Due to Injury Risk](https://www.homeserve.com/en-us/blog/news/edsal-shelving-unit-recall/)

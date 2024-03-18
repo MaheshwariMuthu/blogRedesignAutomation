@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Find a Serial Number on a Panasonic TV"
+headline: "How to Find a Serial Number on a Panasonic TV"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-02-26
+basePath: https://library.homeserve.com/m/
+heroImage: 709c3d869cd6db4b/webimage-TX-77LZ2000E_B-W2004-C2004-TH-77LZ2000K-Z-H-W-left-slant-KV.png
+heroAltDescription: "A Panasonic flatscreen TV sits against a white background"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Need to know your TV's information? Here's how to find your Panasonic TV's serial number."
+articleAbstract: "Ideally, you should write your Panasonic TV’s serial number down somewhere safe immediately after buying your TV — but don't panic if you forgot. We’ve got you covered."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Find a Serial Number on a Panasonic TV"
+  parent: Appliances-How-To
+---
+  
+
+_Manufacturer image_
+
+Many of us never give our TV's model number or serial number a second thought … until we need it to do something like claim repairs under warranty or report it stolen.
+
+**This May Also Interest You: How to Find the Serial Number on Your Appliances and Gadgets**
+
+Ideally, you should write your Panasonic TV’s serial number down somewhere safe immediately after buying your TV — but don't panic if you forgot. We’ve got you covered.
+
+Why Might You Need to Know Your Panasonic TV's Serial Number?
+-------------------------------------------------------------
+
+You'll need to know your Panasonic TV's serial number if you want it repaired under warranty. A repair technician can use the serial number to determine if your warranty is still active and view your TV's repair history. The number can also tell the technician what parts the television requires for the repair.
+
+You may also need to provide your Panasonic serial number if you need to report the theft of your TV to the police. You likely won't be able to claim your loss through your insurance policy without a police report containing the TV's serial number. The police may be able to track your TV down using the serial number if someone connects it to the internet.
+
+You may also need your serial number if you are purchasing a third-party warranty or insurance plan, or if you want to register the product with the manufacturer.
+
+How to Find the Serial Number on a Panasonic TV
+-----------------------------------------------
+
+### Find the Sticker
+
+You can find your Panasonic TV's serial number on a sticker attached to the box it came in. There will probably also be a serial number sticker attached to the back, side or bottom of the television and under the panel strip.
+
+### Look Through the TV Documents
+
+Alternatively, check your TV’s warranty or registration document. These documents often contain the TV's serial and model number.
+
+### Contact Panasonic
+
+If you don't have your Panasonic TV on hand, you could try contacting the Panasonic support center to ask if it has your TV's serial number on file.
+
+**More Related Articles:**
+
+*   [When’s the Best Time to Buy a TV?](https://www.homeserve.com/en-us/blog/buying-guide/best-time-to-buy-tv/)
+*   [Can You Buy a TV That’s Not Smart?](https://www.homeserve.com/en-us/blog/buying-guide/non-smart-tvs/)
+*   [How Much Does TV Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/tv-repair/)
+*   [What’s the Samsung TV Upgrade Program and Is It Worth It?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-tv-upgrade-program/)
+*   [Watch What You’re Doing! How to Move Your Flatscreen TV Damage-Free](https://www.homeserve.com/en-us/blog/how-to/move-tv/)
+
+How to Find the TV’s Model Number
+---------------------------------
+
+Your TV's model number differs from the serial number because it is common to all televisions of the same type. The model number appears on the product stickers attached to the television itself or the original packaging alongside the serial number.

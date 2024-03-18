@@ -1,0 +1,133 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Composting 101: What Is Composting? How to Compost"
+headline: "Backyard Composting 101"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-05-06
+basePath: https://library.homeserve.com/m/
+heroImage: 7713e82861ab070e/Blog-GettyImages-1206218683.jpg
+heroAltDescription: "Close Up Of Woman Making Compost From Vegetable Leftovers In Kitchen"
+metaDescriptions: "Compost is decomposed organic material that can be used to fertilize plants. Learn how to compost and convert your scraps into something useful."
+articleAbstract: "Learning how to compost at home can help you grow healthy plants, save money and reduce your carbon footprint by diverting food waste from landfills. Here’s a crash course in composting. "
+category: ["How To"]
+eleventyNavigation:
+  key: "Composting 101"
+  parent: Exterior-Home-How-To
+---
+  **Composting at a Glance**
+
+* **Tools and Materials:** Hose, pitchfork, shovel
+* **Step 1:** (Optional) Build or buy compost bin
+* **Step 2:** Spread brown materials
+* **Step 3:** Alternate layers with green materials
+* **Step 4:** Dampen and cover
+* **Step 5:** Maintain and turn
+
+Composting is an age-old method of turning organic materials — grass clippings, dried leaves and food scraps — into rich fertilizer for plants. Although composting has been around for centuries, these days, many are using it as an eco-friendly way to dispose of waste. Cities like San Francisco have had success with large-scale composting programs, which cut a significant amount of waste from landfills.
+
+**This May Also Interest You:** [**Ever Wonder What a Composting Toilet Is?**](https://www.homeserve.com/en-us/blog/buying-guide/composting-toilet-guide/)
+
+Learning how to compost at home can help you grow healthy plants, save money and reduce your carbon footprint by diverting food waste from landfills. Here’s a crash course in composting.
+
+What Is Compost?
+----------------
+
+Compost is decomposing organic material. It has three basic elements:
+
+* **Brown materials:** Branches, twigs and dead leaves provide carbon.
+* **Green materials:** Vegetable waste, fruit scraps, grass clippings and coffee grounds give your compost the nitrogen it needs.
+* **Water:** Adding the right amount of water offers moisture to help break down organic matter.
+
+What Items Can You Compost?
+---------------------------
+
+As a general rule, most produce scraps and plant matter are good to go on the compost pile. Animal products and anything that may harm your plants should be thrown in the trash. Here’s a basic list to give you an idea of what you should throw in the compost bin and what you shouldn’t:
+
+### Do compost:
+
+*   Eggshells
+*   Nutshells
+*   Fruits and vegetables
+*   Coffee grounds and filters
+*   Muslin or paper tea bags
+*   Yard trimmings
+*   Grass clippings
+*   Houseplants
+*   Hay and straw
+*   Dry leaves
+*   Non-glossy paper and newspaper, shredded
+*   Small pieces of uncoated cardboard
+*   Sawdust
+*   Wood chips
+*   Cotton and wool rags
+*   Hair and fur
+*   Fireplace ashes from natural wood
+
+### Don’t compost:
+
+*   Dairy
+*   Meat scraps
+*   Bones
+*   Other animal products
+*   Black walnut leaves and scraps
+*   Coal or charcoal
+*   Diseased plants
+*   Plants treated with pesticides
+*   Feces
+
+Animal products can create odor problems, attract pests and carry pathogens. Black walnut tree scraps, coal, charcoal ash, disease- or insect-ridden plants and yard trimmings treated with chemical pesticides can be harmful to plants. Composting pet waste and cat litter is also a bad idea. Feces may contain bacteria, viruses, parasites and pathogens that are harmful to humans.
+
+How Do You Compost at Home?
+---------------------------
+
+Yard waste and food scraps currently comprise more than 30% of what consumers throw away in the United States, according to the [Environmental Protection Agency](https://www.epa.gov/recycle/composting-home). In addition to reducing the amount of waste that goes into landfills, home composting creates humus, a nutrient-filled material that enriches the soil and can be used as a natural fertilizer.
+
+There are several ways to make a compost pile, but the basics are fairly simple. Some important tools you’ll probably want to have on hand include a hose with a spray nozzle, pitchfork and shovel.
+
+Whether you decide to compost outdoors or in your home, it’s vital to regularly turn or mix the compost and keep it moist. As you turn the materials, the pile will become hot. The aerobic breakdown of organic matter releases carbon dioxide and heat.
+
+How to Start a Compost Pile
+---------------------------
+
+If you’re going to compost outdoors, you can create a stand-alone compost pile or put the materials in a bin. Compost bins are readily available at large hardware stores and online, or you can make one yourself out of a container like a plastic barrel or metal trash can. Choose a dry, shady spot for your compost pile or bin.
+
+First, spread a layer of brown, carbon-rich materials on the ground or in the compost bin. Spread a layer of green, nitrogen-rich materials on the compost pile. Alternate layers of materials until you run out or fill the bin. Dampen the compost using a garden hose, but don't oversaturate the pile. You can cover the top of your compost pile with a tarp to keep in moisture, but don’t let it get too wet.
+
+To maintain your compost, add brown and green materials as you use them, chopping up or shredding larger pieces. Make sure to add water if the pile dries out. As your compost pile grows, mix green waste like grass clippings into the pile. Put fruit and vegetable waste at least 10 inches underneath existing compost material.
+
+Turn the compost frequently with a pitchfork or shovel. Your compost pile should reach a temperature of at least 140 to 150 degrees to allow beneficial bacteria and other microorganisms to thrive. Starting a bin or pile in the spring or summer is best if you live in a colder climate. Turning it often will help raise the temperature and encourage decomposition. If your compost pile has an unpleasant odor, it’s not getting hot enough. Turning the pile and adding more food waste can help promote microbial activity and raise the temperature.
+
+**More Related Articles:**
+
+*   [5 Ways to Conserve and Be Energy Efficient](https://www.homeserve.com/en-us/blog/home-improvement/energy-efficiency-conservation-tips/)
+*   [How Much Does It Cost to Install Solar Panels?](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+*   [8 Ways to Conserve Water at Home](https://www.homeserve.com/en-us/blog/how-to/home-water-conservation/)
+*   [Basic Lawn Care and Maintenance Tips](https://www.homeserve.com/en-us/blog/home-improvement/lawn-care-maintenance-tips/)
+*   [Home Maintenance Checklist: 15 Things to Do for Spring](https://www.homeserve.com/en-us/blog/home-improvement/spring-home-maintenance-checklist/)
+
+What’s the Easiest Way to Compost?
+----------------------------------
+
+If you live in an urban area or don’t have space for an outdoor compost pile, composting kitchen scraps indoors is an easy solution. You can buy a special type of bin at a local gardening supply store, a hardware store or online. You can also use a small trash can with a lid. Most people like to keep their compost bin under the sink or in another hidden area. However, a proper compost bin should not attract pests or emit a bad odor, so you can leave it sitting out if you prefer.
+
+To [get your indoor compost bin started](https://www.bhg.com/gardening/yard/compost/diy-indoor-compost-bin/), Better Homes and Gardens recommends laying down a layer of dirt and covering it with some shredded newspaper. Then, add kitchen scraps like coffee grounds, fruit peels and eggshells as you cook. Cutting scraps into small pieces will help them decompose faster.
+
+How Long Does It Take Until the Compost Is Ready?
+-------------------------------------------------
+
+Depending on the method and materials you choose, making compost that’s ready to use can take anywhere from a few weeks to a year. Green materials like grass clippings and fruit and vegetable waste break down more quickly and provide nitrogen for your compost pile, which helps move the process along. However, it’s important to have plenty of carbon-rich materials such as sawdust and dry leaves, too.
+
+Shredding or cutting materials into smaller bits can significantly speed up the composting process. The bacteria and other microorganisms in your compost pile don’t have to work as hard to break smaller pieces of materials down, so it takes less time for the compost to be finished. A traditional hot compost pile can take up to 6 to 12 months to finish, but methods like [worm composting](http://compost.css.cornell.edu/worms/basics.html) only take as little as 8 to 16 weeks.
+
+How Do You Know When Compost Is Ready?
+--------------------------------------
+
+If you’re new to composting, it’s important to know how the final product should look, feel and smell. Using compost you brought out too early can attract pests, damage plants and use up nutrients in the soil. The best way to tell if your compost is finished is to grab a handful. Compost is ready when it looks, feels and smells like dark, rich soil. Another way to tell whether it's done is to put some of it into a plastic bag and seal it. Wait three days. If it smells sour or rotten when you open the bag, it’s not ready. If it has an earthy odor like dirt, it’s good to go.
+
+How Can I Compost Cheaply?
+--------------------------
+
+Composting is an affordable way to help fertilize your plants, flowers and garden. If you really want to do it on the cheap, skip the $200 store-bought compost bin and make your own. If you have the space — and don’t mind the potential eyesore — you can opt to make a freestanding compost pile in your yard. Feed it with scraps from your kitchen or yard at no extra cost to you.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._

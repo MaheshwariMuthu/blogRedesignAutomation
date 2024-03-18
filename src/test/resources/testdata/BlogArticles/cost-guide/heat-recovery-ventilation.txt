@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install a Heat Recovery Ventilator?"
+headline: "How Much Does It Cost to Install a Heat Recovery Ventilator?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-11-18
+basePath: https://library.homeserve.com/m/
+heroImage: 3ca34b55891ebc0b/Blog-GettyImages-1322670578.jpg
+heroAltDescription: "ducted heat recovery ventilation system with recuperation"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Installing a heat recovery ventilation system could help you save energy year-round by reducing your heating and cooling costs."
+articleAbstract: "Installing a heat recovery ventilation system could help you save energy year-round by reducing your heating and cooling costs. However, HRV installation can be expensive on the front end."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install a Heat Recovery Ventilator?"
+  parent: HVAC-Cost-Guide
+---
+  If you're plagued by sky-high energy bills, your HVAC system may be wasting energy. Installing a heat recovery ventilation system could help you save energy year-round by reducing your heating and cooling costs.
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+However, HRV installation can be expensive, so it's worth understanding the costs before committing. Below, we'll explore what an HRV system actually does and how much you should expect to spend.
+
+What Is a Heat Recovery System?
+-------------------------------
+
+A heat recovery ventilation system is a type of air handler that circulates air around your home. It draws cold air from the outside, warming it with heat recovered from the exiting air via an air-to-air heat exchanger. The unit reverses this function in warmer weather, recovering chill from the air exiting your venting system to keep your home cool.
+
+Most heat recovery systems have a main unit in the attic and circulate the air via a ductwork system. They also include an air filter to improve indoor air quality.
+
+An HRV system works separately from your heating system. However, it recovers a significant amount of heat or chill that would otherwise be wasted. Therefore, it supports your heating and cooling system to maintain a comfortable indoor temperature and reduce energy bills. HRV systems can also help protect your home against dampness, mold and condensation because they encourage enhanced airflow.
+
+HRV and ERV: What's the Difference?
+-----------------------------------
+
+An HRV system isn't suitable for every household. Depending on your circumstances, you could also consider installing an energy recovery ventilation (ERV) system. ERV systems work similarly to HRV systems. However, they also recover humidity from the air as it exits your home. HRV systems are ideal for humid environments — for example, if you use a boiler to heat your home or have multiple people in a small house. Meanwhile, ERV systems are often better for homes with dry indoor air.
+
+**More Related Articles:**
+
+*   [What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps ...](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [Is an HVAC Tune-Up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+How Much Does It Cost to Install a Residential HRV System?
+----------------------------------------------------------
+
+According to [Hunker](https://www.hunker.com/13764481/how-much-does-it-cost-to-install-an-air-exchanger), the cost of an HRV HVAC system depends on the unit size. Generally, you can purchase a small, single-room heat recovery ventilation unit for just over $200 (CAD 272). A whole-house HRV system is significantly more expensive at $600 to $1,100 (CAD 816 to CAD 1,496).
+
+These figures don't include the cost of installation labor. Most HVAC contractors charge between $250 and $400 (CAD 340 and CAD 544) per unit to [install a heat recovery system](https://www.inchcalculator.com/energy-recovery-ventilator-cost-guide/), assuming the homeowner has existing ductwork. Where you live can impact the cost of HRV installation labor. Labor is usually more affordable in rural areas with lower living costs. Meanwhile, contractors typically charge higher rates in more expensive cities and suburban areas.
+
+Your project will cost significantly more if you don't have a suitable ductwork system. Installing new ductwork throughout an entire house costs between $2,400 and $6,600 (CAD 3,264 and CAD 8,975), according to [HomeGuide](https://homeguide.com/costs/cost-to-replace-ductwork). Meanwhile, replacing existing ductwork usually costs between $22 and $55 (CAD 30 and CAD 75) per linear foot.
+
+You'll usually pay toward the lower end of the scale to install ductwork for an HRV system. That's because most heat recovery systems don't generate excessively high temperatures, so you can usually use flexible ductwork. The materials to install insulated or non-insulated flexible ductwork cost between $1 and $4 (CAD 1.36 and CAD 5.44) per linear foot, compared to $7 to $13 (CAD 9.52 to CAD 18) per linear foot for traditional sheet metal.
+
+Remember to factor in the cost of maintaining your HRV system. You'll need to replace the filters regularly to maintain healthy indoor air. Changing the filters every three months [costs around $22](https://www.inchcalculator.com/energy-recovery-ventilator-cost-guide/) (CAD 30) per year. However, you may need to change the filters more often if you smoke inside your home or have pets.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/J1jEVTAq4io?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Change Your Ceiling Fan Direction"></iframe>

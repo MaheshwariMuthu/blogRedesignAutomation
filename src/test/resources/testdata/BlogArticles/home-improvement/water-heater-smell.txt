@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Does My Water Heater Smell Like Rotten Eggs?"
+headline: "Why Does My Water Heater Smell Like Rotten Eggs?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-06-08
+basePath: https://library.homeserve.com/m/
+heroImage: 10653b54fe97ffca/Blog-DGSO_HeatHolidays_APhelps_0154.jpg
+heroAltDescription: " HeatUpTheHolidays Giveaway - Hot water heater giveaway."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Any smell coming from your faucets is alarming, but a rotten egg odor is particularly unpleasant. Here’s how to get rid of it."
+articleAbstract: "Stinky hot water can be a sign of a problem with your water heater, and you'll want to fix the issue as soon as possible to get your home smelling fresh again. Here’s how to get rid of the odor."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Does My Water Heater Smell Like Rotten Eggs?"
+  parent: Plumbing-Home-Improvement
+---
+  Any smell coming from your water faucets can be alarming, but a rotten egg odor is particularly unpleasant. Stinky hot water can be a sign of a problem with your water heater, and you'll want to fix the issue as soon as possible to get your home smelling fresh again.
+
+**This May Also Interest You:** [**How to Replace the Anode Rods on Your Water Heater**](https://www.homeserve.com/en-us/blog/how-to/replace-water-heater-anode-rods/)
+
+Here’s how to get rid of the odor.
+
+Why Does Your Water Heater Stink?
+---------------------------------
+
+The reason your water heater might smell like rotten eggs is the presence of hydrogen sulfide gas inside the tank. This gas produces a foul, sulfurous smell that is most noticeable when you turn on a hot water faucet. It can also discolor fixtures like sinks and bathtubs.
+
+There are two potential causes of hydrogen sulfide gas inside a water heater: too many sulfur-reducing bacteria or a corroded anode rod.
+
+### Excess SRB
+
+The most common cause of hydrogen sulfide gas in your hot water tank is too many sulfur-reducing bacteria. All water naturally contains a type of ion called sulfate, which is generally safe in small amounts and doesn't have a taste or odor. However, when bacteria feed on these sulfates, it produces smelly hydrogen sulfide gas. Water treatment facilities add chemicals to the water to kill SRB, but allowing warm water to stand in your tank for too long can allow SRB levels to rise. You may also have higher SRB levels if you get water from an untreated well.
+
+### Corroded Anode Rod
+
+A less common cause of an eggy water heater smell is an aluminum or magnesium anode rod. The anode rod attracts corrosive particles to prevent them from damaging the tank lining. However, a severely corroded anode rod releases metals into the water that react with the naturally occurring sulfates to form hydrogen sulfate gas.
+
+Your anode rod is more likely to be to blame for a bad water heater smell if you live in an area with soft water and have a magnesium anode rod. Soft water can break down the magnesium rod quickly, releasing more metal into the tank and converting more sulfates to hydrogen sulfide. You're also more likely to notice gas coming from the faucets along with the water if you have a corroded anode rod.
+
+**More Related Articles:**
+
+*   [What’s the Deal With Self-Cleaning Water Heaters?](https://www.homeserve.com/en-us/blog/home-improvement/self-cleaning-water-heater/)
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [Don’t Forget to Flush! A 6-Step Guide for Flushing Your Gas or Electric Water Heater](https://www.homeserve.com/en-us/blog/how-to/flush-water-heater/)
+*   [How to Turn Off Your Water Heater — and When It May Come Up](https://www.homeserve.com/en-us/blog/how-to/turn-off-water-heater/)
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+
+How Do You Fix It?
+------------------
+
+Before you try and fix the eggy water heater smell, it's essential to make sure the water heater is to blame. The simplest way to do this is to turn on the cold water at the faucet to see if it smells. If you only smell rotten eggs when you run the hot water, you can be reasonably sure of a water heater issue.
+
+### If You Have Too Many Bacteria...
+
+The problem is more likely caused by too much SRB in your water source if both the hot and cold water smell. In this case, you might need to install a water treatment system to resolve the issue.
+
+### If There’s Stagnant Water in the Tank…
+
+If your smelly water heater problems are due to stagnant water inside the water heater, you might be able to get rid of the smell by draining and flushing the tank. You can do this job yourself or hire a professional to do it. However, it can be challenging to get rid of the sulfur smell, even with repeated flushing. If the smell just doesn't go, you might need to replace your tank. It's sometimes cheaper to replace an older water tank than pay to have it professionally flushed.
+
+### If the Culprit is Corrosion...
+
+Consider replacing your anode rod if you think the bad smell is caused by corrosion, especially if you use a water softener or live in a soft water area. Zinc and aluminum anode rods are less likely to produce a foul odor when they corrode.
+
+### If All Else Fails...
+
+If you've tried flushing the tank and changing the anode rod, but the smell persists, it's time to call a professional plumber. They can diagnose the cause of the unpleasant odor, fix the issue and explain how to prevent a recurrence.
+
+How Can You Stop the Problem From Coming Back?
+----------------------------------------------
+
+If you've finally got rid of the eggy smell coming from your heater, the last thing you want is for it to come back in the future. One of the most straightforward ways to prevent recurrence is to avoid allowing warm water to sit around inside the tank while you're out of town. Warmth is a risk factor for excessive SRB growth, so turn off the gas supply to the heater to keep the water cold while you're away. However, it may be better to turn off the gas and drain the tank entirely if you're going away for an extended period.
+
+Flushing and draining your water heater a couple of times a year can also help prevent bacteria and sediment buildup. Therefore, it could be a helpful tool to stop your hot water from smelling. Regular flushing is also vital for maintaining your unit and keeping it running more efficiently.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

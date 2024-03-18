@@ -1,0 +1,126 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install a Furnace?"
+headline: "Need a New Furnace? Here's What You Should Know About Costs"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-04-19
+basePath: https://library.homeserve.com/m/
+heroImage: 4c306f6096c6cd54/Blog-GettyImages-184098744.jpg
+heroAltDescription: "Repair Technician Removing Furnace Service Panel"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Fear your furnace may be on its last legs? Here’s what you need to know about replacing it, including how much it will cost."
+articleAbstract: "Fear your furnace may be on its last legs? Here’s what you need to know about replacing it, including how much it will cost. "
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "Need a New Furnace? Here's What You Should Know"
+  parent: HVAC-Cost-Guide
+---
+  Have you experienced a spike in your energy bills? Does your furnace turn on or off when it shouldn’t? Maybe you’ve picked up on odd noises or gross smells coming from your heating system. These are telltale signs your furnace’s performance is declining.
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+While you may have some time left, you’ll probably want to replace your system before it ultimately gives out. Doing so not only ensures you’ll have a functioning furnace, but it can also save you money. Old furnaces have frequent breakdowns, heat your home inefficiently and can drive up your energy bills.
+
+How Much Does a Furnace Cost?
+-----------------------------
+
+Based on data from [HomeGuide](https://homeguide.com/costs/new-furnace-replacement-cost), new furnace costs between $2,000 and $5,400 (CAD 2,700 to CAD 7,300) on average, depending on the model you choose.
+
+The average cost of installing a mid-efficiency furnace is $600 to $4,000 (CAD 815 to CAD 5,415). Mid-efficiency furnaces have an annual fuel utilization efficiency (AFUE) rating of 80% to 89%. They vent through a masonry or a metal chimney. Your existing chimney may need to be upgraded when you install a new furnace.
+
+Installing a high-efficiency furnace costs $3,300 to $10,000 (CAD 4,500 to CAD 13,500). They have an AFUE rating of 90% to 97%. High-efficiency furnaces vent through the wall via a PVC pipe.
+
+Cost Factors to Consider
+------------------------
+
+In addition to the up-front installation price, here are some other things to think about:
+
+### Energy Source
+
+The three main fuel sources for furnaces are electricity, natural gas and oil. Look up the costs of these fuel sources in your area to calculate how much you would pay to run each type of furnace. If you want to switch to a different energy source for your new furnace, there may be additional labor costs involved in installation.
+
+Gas and oil furnaces deliver powerful heat, making them more popular in cold climates. Annual maintenance is important for all types of heating systems, but especially for gas furnaces. Keep maintenance costs in mind if you choose a gas furnace. Poor maintenance puts you at greater risk for dangerous gas leaks and furnace fires.
+
+### Efficiency
+
+A higher AFUE rating means the furnace uses more of the heat it generates. Furnaces with an AFUE rating of 90% lose 10% of the fuel used for heating your home. Furnaces with a higher AFUE rating also tend to cost more.
+
+High-efficiency furnaces cost more to repair because they have more complex parts than mid-efficiency furnaces. If you have an older, inefficient furnace, upgrading to a mid-efficiency furnace may be enough to lower your energy bills.
+
+If you want to find a balance between energy efficiency and installation cost, opt for a furnace with an AFUE rating of 90% to 95%. The repair costs in this range are lower than furnaces rated above 95%.
+
+### Furnace Size
+
+When determining what size furnace you need, the technician will take into account your home's landscaping, construction and square footage. A furnace that is too small won’t properly heat your home, and one that is too large can cause issues such as short cycling.
+
+### Installation
+
+You can purchase your furnace and pay for installation separately. The labor cost to install a new furnace is between $900 and $3,000 (CAD 1,200 and CAD 4,100), and the process takes about 10.5 hours to complete. Installing a furnace is not a DIY job; it requires specific knowledge and training, which is why installation technicians are required by law to be certified.
+
+### Ongoing Costs
+
+In addition to annual maintenance, you’ll also need to change your furnace’s air filter every one to three months. Some furnaces have a filter that you can clean on a regular basis. Changing or cleaning the air filter and scheduling regular maintenance can help you save money on the overall operating cost of your system. These maintenance tasks are critical for maintaining energy efficiency and warding off problems.
+
+[HomeGuide](https://homeguide.com/costs/furnace-inspection-cost) says the average cost of a furnace tune-up is only $70 to $200 (CAD 95 to CAD 270) — much cheaper than the cost of a major furnace repair. Replacing the filters costs between $100 and $175 (CAD 135 and CAD 240).
+
+**More Related Articles:**
+
+*   [What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps...](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [Is an HVAC Tune-Up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+Signs of Furnace Trouble
+------------------------
+
+Furnace problems only become more expensive over time. Staying on top of maintenance can help you find problems sooner. If you are aware of any of these signs of trouble with your furnace, promptly schedule a repair:
+
+### Age
+
+You should plan on replacing your furnace as it starts to get old. An outdated furnace can struggle to adequately heat your home. High energy bills and a cracked heat exchanger are signs you should replace an old furnace.
+
+A heat exchanger is an expensive part to replace. Old furnaces naturally lose efficiency, so there is only so much an HVAC technician can do to make an old system run more efficiently. A general rule of thumb is to never repair something when the repair costs are more than one-third the cost of a replacement. If your old furnace has needed repairs more than two times in the past two years, it's time to replace it.
+
+### Spikes in Monthly Bills
+
+Dirty air filters and internal components are often the culprits. This is why it's important to keep up with maintenance. A technician will clean your furnace's internal components during a tune-up.
+
+### Inefficient Heating
+
+If your furnace isn't old, inefficient heating is a problem you can probably fix with a repair or a tune-up. Dirty air filters restrict airflow in the furnace, so they can result in inefficient heating. Thermostat problems can also cause your furnace to fail. Your furnace may heat unevenly, fail to reach the set temperature or fail to turn on at all. Try changing the batteries. If that doesn't work, an expert HVAC technician can diagnose your system for you.
+
+### Short Cycling
+
+Short cycling occurs when your furnace turns on and off too frequently. An oversized furnace can cause short cycling. After giving a blast of warm air in your house, the system will shut off because its sensors detect the warm air. If you notice short cycling on a furnace that wasn’t recently installed, there’s likely a different cause. Short cycling also shortens the lifespan of your heating system, so you should have an expert technician service it.
+
+### Troublesome Noises
+
+When your furnace makes unusual noises — squealing, rattling, banging and screeching — it's in need of repair or maintenance. One of many problems may be the cause behind an unusual sound from your furnace, but only an expert repair technician can diagnose it.
+
+Parts inside the system may have loosened or broken. Squealing sounds usually mean that moving parts in the system have lost lubrication. During a maintenance call, expert furnace technicians lubricate these moving parts to prevent this problem.
+
+### Abnormal Smells
+
+If you smell gas, turn off the furnace immediately. It’s best to leave your home until a technician has confirmed it's safe for you to return. Bring any pets with you, too. Gas leaks are a safety risk.
+
+A burning plastic odor or metallic smell can signal a wiring problem. You may have wires melting, which is a fire hazard. Turn your furnace off until it can be replaced.
+
+Routine maintenance reduces the chance you'll have gas leaks or electrical problems with your furnace. Expert maintenance technicians thoroughly inspect your furnace to catch early signs of deterioration.
+
+If you smell something burning when you have just turned on your furnace, it’s probably dust. Dust accumulates in your system while it’s not in use. When you turn your furnace on for the first time, that dust may burn. This isn’t usually a concern.
+
+Musty odors are usually caused by mold. You should have an expert technician investigate the source of the musty smell since mold is harmful to your health.
+
+Prolonging the Life of Your Furnace
+-----------------------------------
+
+With proper maintenance, gas furnaces can last 20 to 30 years. The average lifespan is 16 to 20 years. Well-maintained oil furnaces can run for as long as 25 years, but they last 15 to 20 years on average. Expect to get 18 to 25 years out of a high-quality electric furnace or 15 to 20 years out of a budget electric model.
+
+You can extend the lifespan of your furnace by following general maintenance and operation guidelines: Change the air filter on a monthly basis, schedule repairs at the first sign of trouble, buy the right size furnace for your home, and schedule annual tune-ups.
+
+Improving your home's insulation can also help your furnace last longer. The better your home is able to hold heat, the easier it is on your furnace. With proper insulation, your heating system won't have to run as much to maintain a comfortable temperature.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

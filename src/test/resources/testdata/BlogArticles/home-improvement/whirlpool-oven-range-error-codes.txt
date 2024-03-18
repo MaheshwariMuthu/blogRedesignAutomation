@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Whirlpool Oven Error Codes"
+headline: "Whirlpool Oven Error Codes"
+author: Elizabeth Marcant
+tags: ["post"]
+publishDate: 2023-06-25
+basePath: https://library.homeserve.com/m/
+heroImage: 2c94470305665468/Blog-P150557_71z.jpg
+heroAltDescription: "Hand pressing buttons on a digital range"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Can you continue cooking if your oven throws you an error code, or is your baking project going to have to wait?"
+articleAbstract: "Can you continue cooking if your oven throws you an error code, or is your baking project going to have to wait? And what do these Whirlpool oven error codes even mean, anyway?"
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Whirlpool Oven Error Codes"
+  parent: Appliances
+---
+  It's time to put the meatloaf in the oven or preheat the oven so you can bake a cake for a special someone's birthday. However, as soon as you turn on your Whirlpool oven, you see an error code.
+
+**This May Also Interest You:** [**What Do You Do With an Old Appliance: How to Recycle Fridges, Washers, Ovens and More**](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+Can you continue cooking if such a code shows up, or is your baking project going to have to wait? And what do these Whirlpool oven error codes even mean, anyway?
+
+What Are Whirlpool Range Error Codes?
+-------------------------------------
+
+Like many appliance companies, Whirlpool programs codes into its products. These codes are a way for the machine to communicate with users and repair technicians about something that may have gone wrong inside the appliance. Whirlpool oven error codes help you understand whether there are any issues with your oven or stove and how to go about fixing the problem.
+
+Whirlpool stove error codes show up on the display on top of the range. This is the same location you might see other information displayed, such as the temperature the oven is set on and whether there are burners active on the range.
+
+What Are the Common Whirlpool Oven Error Codes and Their Meaning?
+-----------------------------------------------------------------
+
+Whirlpool oven error codes can be complex, and there are many code combinations. You can try to troubleshoot any Whirlpool range error codes by checking codes against the manufacturer's [product help listings](https://producthelp.whirlpool.com/Cooking/Wall_Ovens_and_Ranges/Electric_and_Dual_Fuel_Double_Oven_Range/Error_Codes_or_Messages).
+
+Here are some common general codes and potential meanings to get you started:
+
+* **F0, F1, F5 or F8** could mean the control board has failed and requires replacing.
+* **F2** could mean that the oven temperature is too high, indicating an issue with sensors or contacts on heating elements.
+* **F3 or F4** could mean there is an issue with the oven temperature sensor, and it may need to be replaced.
+* **F7** might indicate that a function key is stuck, which could require maintenance or replacement of the control board.
+* **F9** might indicate that the oven door lock has failed and a switch or part should be replaced.
+
+In addition to the two-digit codes above, you might see four-digit codes on some models. Here are some common four-digit codes and their meanings:
+
+* **F1 - E0** can indicate a communication error within the oven's electronics.
+* **F2 - E0** might mean the touchpad or keypad on the oven has shorted out or that it is not properly connected.
+* **F3 - E2** is a warning that the oven temperature is too high when the oven is in cook mode.
+* **F3 - E3** is a warning that the oven temperature is too high when the oven is in clean mode.
+* **F3 - E6** indicates that the warming drawer sensor believes the warming drawer is open.
+* **F4 - E1** indicates that the meat probe may have malfunctioned.
+
+These are only a few of the dozens of codes that a Whirlpool oven or range can indicate. If you are dealing with a code that you don't see here, consult the manufacturer's site or the manual that came with your appliance for troubleshooting information.
+
+**More Related Articles:**
+
+*   [How Much Does a Stove or Oven Cost?](https://www.homeserve.com/en-us/blog/cost-guide/stove-oven/)
+*   [How Much Does a Clothes Dryer Cost?](https://www.homeserve.com/en-us/blog/cost-guide/clothes-dryer/)
+*   [How Much Does a Chest Freezer Cost?](https://www.homeserve.com/en-us/blog/cost-guide/chest-freezer/)
+*   [How Much Does a Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+*   [How Much Does a Fridge Cost?](https://www.homeserve.com/en-us/blog/cost-guide/refrigerator/)
+
+Do You Need to Call a Repair Tech, or Can You Fix the Errors on Your Own?
+-------------------------------------------------------------------------
+
+You can address some of these error codes on your own. For example, if the error code indicates the warming drawer is open, you may simply need to inspect the drawer to see if it is closing fully or if anything is in the way of that action.
+
+In cases where the Whirlpool oven error codes indicate a communication or electrical problem with the control board or other element, you can try the old "turn it off and turn it back on again" trick. Simply remove power to the unit for around a minute and plug it back in and turn it on to see if that fixes the issue.
+
+Your Whirlpool oven and range manual may provide additional steps to take if you see certain types of codes. Follow those steps before you call a repair technician. Then, call in a pro if your appliance still gives you an error code or isn't working properly. It's usually the best bet for most people to call a professional if the manual instructs you to do so or if handling the problem would involve taking the oven or range apart.<br><iframe title="YouTube video player" width="560" height="315" src="https://www.youtube.com/embed/ByKX1s5TgBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

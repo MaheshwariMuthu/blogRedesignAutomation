@@ -1,0 +1,140 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Top EV Home Chargers"
+headline: "Top 5 Home EV Chargers"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-11-14
+basePath: https://library.homeserve.com/m/
+heroImage: 7749f2f53fd71ade/Blog-JuiceBox_Residential_Pedestal_1.jpg
+heroAltDescription: "a residential home showing a Juicebox EV car charger mounted to a wall near where a chevy ev is parked"
+metaDescriptions: "Consider the benefits that a Level 2 EV charger provides when shopping for your home charging station."
+articleAbstract: "Choosing the best EV charger for your home can be confusing. Consider the benefits that a Level 2 EV charger provides when shopping for your home charging station. Here are some of the best options on the market."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Top Home EV Chargers"
+  parent: Electrical-Buying-Guide
+---
+  
+
+Manufacturer Image
+
+One of the most important decisions you can make following the purchase of an electric vehicle is how you’re going to charge it. Keeping your vehicle fully charged when at home keeps you from being stranded when the battery runs out on the road.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install an Electric Car Charging Station?**](https://www.homeserve.com/en-us/blog/cost-guide/ev-charging-station-installation/)
+
+Choosing the best EV charger for your home can be confusing. Consider the benefits that a Level 2 EV charger provides when shopping for your home charging station.
+
+Is a Level 2 Home Charger Worth It?
+-----------------------------------
+
+A Level 2 EV home charger uses a 240-volt power supply compared to the 120-volt power supply that comes with a Level 1 charger. The Level 2 charger can provide a full charge up to 10 times faster. Whether it’s worth it to purchase a Level 2 charger depends on the type of electric vehicle you purchase and your driving habits.
+
+To determine whether you need to upgrade your charger, consider how frequently you drive, the total distance you travel to and from work and whether you need your car for additional errands each day. A Level 1 charger provides enough charge to let you drive an additional 2 to 5 miles for each hour you charge the vehicle. For those who own hybrids, this range may be just fine, but full-electric vehicle owners have often found the need for upgraded chargers.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6e47e9e1a8c7bdef/Blog-EVCharging_Rossi_3083.jpg" alt="electric vehicle charging port"/>
+-------------------------------------------
+
+HomeServe photo by Eric Rossi
+
+Can I Use the Charger That Came With the Car?
+---------------------------------------------
+
+This depends on the type of charger your vehicle manufacturer provided you. Some vehicles come with Level 2 chargers that can deliver a full charge when you leave it overnight. If your vehicle arrived with a Level 1 charger, it could take days to bring an electric vehicle to full charge. If you plan on driving your electric car regularly for trips longer than 40 miles, you need a Level 2 EV home charger.
+
+Level 1 chargers are ideal if you own a hybrid vehicle. Hybrids require less power to charge the battery between uses, and the engine can charge the battery while the vehicle is in motion. Because full electric vehicles lack a gas-powered backup energy source and have larger batteries, it’s best to be able to charge them completely each day.
+
+Top 5 Home Electric Vehicle Chargers
+------------------------------------
+
+When you compare home EV chargers, consider whether you’d like the features that come with a smart charger or if you’d save money without one. Some smart chargers cost more but have programming that can lower your electricity bill via demand response programs.
+
+Here are the top five products to consider when searching for the best EV charger for you.
+
+<img class="detail-image" src="https://library.homeserve.com/m/569074309c28736a/Blog-ChargePoint_CPH50_Home_Flex6.jpg" alt="a chargepoint sph50 residential EV charger sits mounted to a while wall"/>
+
+Manufacturer Image
+
+### 1\. [ChargePoint Home Flex Electric Vehicle Charger](https://www.chargepoint.com/drivers/home/chargepoint-home-flex/)
+
+The ChargePoint Home Flex is a Level 2 smart charger that’s compatible with every electric car currently on the market. It can be plugged into a wall, or you can install it into a hardwired box. Flexible amp settings up to 50 amps let you find the optimal amperage setting for your needs, and the smart app can remind you to charge the vehicle and save you money by choosing times to charge based on current electricity prices.
+
+Benefits include:
+
+*   Rapid charging that’s up to nine times faster than Level 1 chargers
+*   Adjustable amp settings
+*   Compatibility with Alexa voice control
+*   Phone app that displays real-time charging data
+
+**Price:** $699
+
+### 2\. [Grizzl-E Level 2 EV Charger Car Charging Station](https://grizzl-e.com/home-products/)
+
+The Grizzl-E Level 2 charger comes in four amp settings from 16 to 40 amps so that you can choose the charging station that’s best suited to your charging demands. It comes with a 24-foot charging cable and is compatible with every electric vehicle available in the U.S. The Grizzl-E is fire- and water-resistant and comes with surge protection.
+
+Benefits include:
+
+*   A 3-year warranty with customer service
+*   Federal rebate program eligibility
+*   Power outage recovery, over-temperature protection and self-monitoring functions
+
+**Price:** $459 to $559
+
+<img class="detail-image" src="https://library.homeserve.com/m/565794b31908094f/Blog-JuiceboxElectricVehicleCharger_LQuiroga_003_4x3.jpg" alt="EV  Juice box  charger installed at home"/>
+
+HomeServe photo by Luis Quiroga
+
+### 3\. [JuiceBox 32 Electric Vehicle Charging Station](https://www.amazon.com/JuiceBox-Generation-Electric-Vehicle-Charging/dp/B07ZL2SWXC) With Wi-Fi
+
+The JuiceBox 32 charging station is a 32-amp Level 2 smart charger that can be installed either inside your home or outdoors. It features a built-in cable rack and security lock so that others can’t access your charging station without your knowledge or consent. The 32-amp station charges your vehicle six times faster than a Level 1 charger.
+
+Benefits include:
+
+*   Energy Star certification. Chargers with this rating are more energy-efficient and save you money on your electric bill each month.
+*   Charging scheduler that charges the vehicle only when electricity prices are lowest
+*   JuiceNet app that notifies you when your vehicle is fully charged, reminds you to charge your vehicle and provides charging data
+
+**Price:** $629
+
+**More Related Articles:**
+
+*   [Electric Car Charging at Home: Everything You Need to Know](https://www.homeserve.com/en-us/blog/how-to/charge-electric-vehicle/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [What Are Solar Shingles … and Do They Work?](https://www.homeserve.com/en-us/blog/home-improvement/solar-shingles/)
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets with GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/1286cde2110aba2b/Blog-wallbox.jpg" alt="A businessman wearing a surgical mask is charging his Tesla using a wallbox EV car charger"/>
+
+Manufacturer Image
+
+### 4\. [Pulsar Plus Level 2 Electric Vehicle Smart Charger](https://wallbox.com/en_us/pulsar-plus-40a)
+
+The Wallbox Pulsar Plus comes in two versions: 16 amp and 40 amp. Each is adjustable and lets you adjust the amperage to your needs so that you’re not wasting energy. At 40 amps, you’re able to charge your vehicle roughly seven times faster than with a Level 1 charging station. The Pulsar Plus is compact and portable so that you can take it with you and charge on the go through any power outlet.
+
+Benefits include:
+
+*   Compatibility with Alexa, Google Home and Bluetooth
+*   Wireless control of the charging station
+*   myWallbox app allows notifications and charge scheduling
+
+**Price:** $649
+
+### 5\. [EVoCharge EVSE Level 2 Electric Vehicle Charging Station](https://evocharge.com/product/evocharge-evse/)
+
+The EVoCharge electrical vehicle charging station is compatible with every electric vehicle available in the U.S. and is capable of charging vehicles up to eight times faster than Level 1 chargers can. It’s a hardwired box unit that’s easy to install both indoors and outdoors. It’s rated for use in cold and wet weather.
+
+Other benefits include:
+
+*   Universal mounting bracket
+*   Standard NEMA 6-50 plug
+*   18-foot-long charging cable
+
+**Price:** Starting at $631
+
+Consider an Electrical System Inspection Before Installing a Home Charging Station
+----------------------------------------------------------------------------------
+
+Adding a 240-volt charging station to your home increases the load on your electrical system. It’s a good idea to inspect your electric panel ahead of time to know that it can support the additional capacity. Electrical repairs can be far more expensive than upgrading your panel.
+
+Owning a fully electric vehicle can strand you at home if your electrical system malfunctions because it deprives you of the car’s sole source of power. Electrical problems can pose hazards to your safety and property as well. Your appliances and HVAC system depend on electricity. Faulty wiring, power surges and other issues can cause a fire or keep you from using your heat and air conditioning during extreme weather.

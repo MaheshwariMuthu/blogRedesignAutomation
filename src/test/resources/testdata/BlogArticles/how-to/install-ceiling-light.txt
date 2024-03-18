@@ -1,0 +1,89 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Install Ceiling Light"
+headline: "How to Install a Ceiling Light: A Step-by-Step Guide"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-10-20
+basePath: https://library.homeserve.com/m/
+heroImage: 64bde5b8df2f6165/Blog-GettyImages-1306059755.jpg
+heroAltDescription: "Electrician installing new  ceiling light fixture"
+metaDescriptions: "Take a look at the ceiling light installation process to decide if your skills are up to par to do it yourself, or if you should call an electrician."
+articleAbstract: "Do you have a ceiling light fixture that's outdated or broken? Take a look at the installation process to decide if your skills are up to par to do it yourself, or if you should call an electrician."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install a Ceiling Light (Not Recessed)"
+  parent: Electrical-How-To
+---
+  Do you have a ceiling light fixture that's outdated or broken? Replacing it with new overhead light can instantly refresh the look of the room and give your space adequate lighting. It might seem like a simple project, but learning how to install a ceiling light can be tricky, especially if the wiring is old or the project is complicated.
+
+**This May Also Interest You:** [**How to Install Recessed Lighting**](https://www.homeserve.com/en-us/blog/how-to/install-recessed-lighting/)
+
+Take a look at the ceiling light installation process below to decide if your skills are up to par to do it yourself, or if you should call an electrician.
+
+Do I Need an Electrician to Install a Light Fixture?
+----------------------------------------------------
+
+You can swap out an old ceiling light for a new one by yourself if you feel confident in the process. You're not legally required to use an electrician for this type of project, but any modifications to your electrical system do require a licensed electrician.
+
+However, the light replacement project can get complex if the wiring doesn't match up or you're installing a dimmer switch. Homes with older wiring can also pose problems if the old wiring is outdated. Even a straightforward ceiling light replacement can create issues that you might not know how to handle.
+
+Whether you need to hire an electrician to install the light depends largely on the circumstances. It's always best to be overly cautious and hire an electrician if you don't feel comfortable working with electricity. While you don't have to hire an electrician, it's often the best option if you don't know how to install a ceiling light already, or if you’ve never worked with electrical wiring.
+
+Replacing a light is an easy process for an electrician, so the installation is quick and easy. Doing it yourself could take hours, especially if you hit any snags along the way. If you run into any issues or aren't sure if you installed the ceiling light correctly, don't hesitate to call a pro. They can check and correct your work if they find a problem. Leaving the job done incorrectly increases the risk of an electrical fire or electrical shock.
+
+How Do You Install a Ceiling Light Fixture?
+-------------------------------------------
+
+If you’ve read all that and still feel confident enough to install a ceiling light on your own, here are the step-by-step instructions:
+
+**Step 1:** Shut off the power at the breaker panel to the fixture. Put a note on the breaker box so no one turns it back on while you're working. Test the light to make sure it doesn't have power running to it.
+
+**Step 2:** Remove light bulbs, shades, glass covers and other removable parts from the existing light fixture. This makes the fixture easier to handle and prevents broken glass.
+
+**Step 3:** Unscrew the fixture from the ceiling. You'll likely need a helper to hold the fixture as you unscrew it because it'll still be attached to the wiring and will likely be heavy. Have your helper continue holding the fixture until you've completely disconnected it from the ceiling.
+
+**Step 4:** Unscrew the caps that connect the wiring from the existing fixture to the home's electrical system. Use a voltage tester to ensure there's no electricity running to the wires.
+
+**Step 5:** Take a photo of the wires to have a visual reference of how the fixture is wired. Then, pull the wires apart to disconnect the old fixture.
+
+**Step 6:** Unscrew the mounting bracket for the old fixture.
+
+**Step 7:** Install the new mounting bracket for your new light fixture, ensuring the wires go down through the bracket.
+
+**Step 8:** Raise the new fixture to the ceiling, having a helper assist if necessary.
+
+**Step 9:** Connect the same-colored wires together, using the picture of the previous wiring as a reference if needed. Make sure the wires are secure. Use wire connectors on each pair of wires. Tuck the connected wires into the junction box.
+
+**Step 10:** Connect the grounding wire if one is present to the copper or green grounding screw on the mounting bracket.
+
+**Step 11:** Test the wire connections before mounting the fixture to the ceiling by turning the breaker back on temporarily. Put a bulb in the fixture and flip the light switch to make sure it works. If it doesn't, see if you can spot the loose connection, or contact a licensed electrician to finish the job.
+
+**Step 12:** Shut the power off again once you've confirmed that the wiring is correct and the fixture works.
+
+**Step 13:** Attach the fixture to the ceiling with screws according to the specific installation instructions that came with the fixture. Slide the fixture canopy into place and secure it.
+
+**Step 14:** Add the light shades, decorative pieces and light bulbs to finish the light fixture installation. Restore the power and enjoy your new light fixture.
+
+**More Related Articles:**
+
+*   [Getting the Hang of It: How to Install Pendant Lighting](https://www.homeserve.com/en-us/blog/how-to/install-pendant-lights/)
+*   [How Much Does It Cost to Install Different Types of Decorative Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/installing-decorative-light-fixture/)
+*   [Do Light Fixtures Add Value to Your Home?](https://www.homeserve.com/en-us/blog/home-improvement/light-fixtures-increase-home-value/)
+*   [How to Install LED Strip Lights: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-led-strip-lights/)
+*   [How Much Does It Cost to Install Recessed Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/install-recessed-lighting/)
+
+Can You Install a Ceiling Light Without Existing Wiring?
+--------------------------------------------------------
+
+If you want to install a ceiling light where there's no existing fixture or wiring, you'll need an electrician to do the job for you. An electrician can tap into your home’s wiring and run the wires to the location where you want your new light. They'll install a junction box and make sure the wiring is correct before adding the new light fixture.
+
+Ceiling Light Installation Tips
+-------------------------------
+
+Here are some additional tips for installing a ceiling light:
+
+* **Check the power:** Always double- and triple-check the power to ensure it's turned off before doing any work on the fixture. Working with wiring is dangerous, especially if you don't get the power turned off correctly.
+* **Use a secure ladder:** You'll need a stepladder that's tall enough to reach the fixture comfortably. Ensure it's sitting on a flat surface and is opened completely to keep you safe while you work on the light fixture.
+* **Recruit a helper:** While you might be able to support the weight of the fixture on the top of the ladder, it's usually best if you can have someone help you hold the fixture while you're working.
+* **Choose the right height:** If you're installing a chandelier or pendant light with an adjustable height option, choose the ideal hanging height before you start installing it. The general recommendation is installing the light to hang 3 feet over a table or 6 feet off the floor, but you might want to adjust it based on preference. Measure the height of the existing fixture and decide if you like that height or want to change it.

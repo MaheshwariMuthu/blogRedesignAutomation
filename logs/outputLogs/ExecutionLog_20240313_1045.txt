@@ -1,0 +1,17 @@
+--------------------------------------------------------------------------
+|ArticleName				|Title	|Author	|Date	|Image	|
+--------------------------------------------------------------------------
+|save-money-on-bathroom-remodel	|Pass	|Pass	|Pass	|Pass	|
+|ring-doorbell-installation	|Pass	|Pass	|Pass	|Pass	|
+|rite-aid-handheld-fan-recall	|Pass	|Pass	|Pass	|Pass	|
+|rh-torches-recall			|Pass	|Pass	|Pass	|Pass	|
+|roof-repair-storm-chasers			|Pass	|Pass	|Pass	|Pass	|
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|ArticleName				|Heading		|Paragraph		|Link			|List			|Image			|Video			|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|save-money-on-bathroom-remodel	|Pass: 11 Fail: 0	|Pass: 16 Fail: 0	|Pass: 8 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|ring-doorbell-installation	|Pass: 4 Fail: 0	|Pass: 13 Fail: 0	|Pass: 10 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|rite-aid-handheld-fan-recall	|Pass: 0 Fail: 0	|Pass: 6 Fail: 0	|Pass: 10 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|rh-torches-recall			|Pass: 0 Fail: 0	|Pass: 8 Fail: 0	|Pass: 13 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|roof-repair-storm-chasers		

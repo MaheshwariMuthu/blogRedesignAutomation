@@ -1,0 +1,49 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Recalled for Fire Risk: Area Rugs Sold By Amazon Fail Federal Flammability Standards"
+headline: "Recalled for Fire Risk: Area Rugs Sold By Amazon Fail Federal Flammability Standards"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-08-14
+basePath: https://library.homeserve.com/m/
+heroImage: 159123e98b548629/Blog-RugRecall_SuellenRoosevein.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Several area rugs sold by Amazon have been recalled due to a fire risk. The rugs fail to meet federal flammability standards."
+articleAbstract: "Several area rugs sold by Amazon have been recalled due to a fire risk. The rugs, made by various manufacturers, fail to meet federal flammability standards. Here’s what consumers need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Rugs Sold by Amazon Fail to Meet Federal Flammability Standards, Posing Fire Risk"
+  parent: Interior-Home-Home-Improvement
+---
+  Several area rugs sold by Amazon have been recalled due to a fire risk. The rugs, made by multiple manufacturers, fail to meet federal flammability standards. Here’s what consumers need to know.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+The recalled rugs include [YOH Super Soft Purple Rugs](https://cpsc.gov/Recalls/2021/Rugs-Recalled-Due-to-Violation-of-Federal-Flammability-Standard-and-Fire-Hazard-Imported-by-Suellen-Roosevein-Sold-Exclusively-on-Amazon-com-Recall-Alert) imported by Suellen Roosevein, [Pacapet Fluffy Pink Area Rugs](https://cpsc.gov/Recalls/2021/Area-Rugs-Recalled-Due-to-Violation-of-Federal-Flammability-Standard-and-Fire-Hazard-Imported-by-Pacapet-Sold-Exclusively-on-Amazon-com-Recall-Alert) and [Andecor Girls Soft Tye Dye Area Rugs](https://cpsc.gov/Recalls/2021/Tye-Dye-Area-Rugs-Recalled-Due-to-Violation-of-Federal-Flammability-Standard-and-Fire-Hazard-Imported-by-And-Beyond-Sold-Exclusively-on-Amazon-com-Recall-Alert) imported by And Beyond — all of which were manufactured in China. As of the Aug. 12 recall announcements published by the Consumer Product Safety Commission, no incidents or injuries have been reported.
+
+If you purchased one of these rugs, here’s what to do next:
+
+YOH Super Soft Purple Rugs
+--------------------------
+
+The YOH Super Soft Purple Rugs were sold by Amazon from December 2020 to March 2021 for about $50. Importer Suellen Roosevein of China is warning consumers to stop using the recalled rugs immediately. Contact the company by email at [suellenroosevein@outlook.com](mailto:suellenroosevein@outlook.com) for instructions on how to receive a full refund. Amazon is contacting all known purchasers directly.
+
+Pacapet Fluffy Pink Area Rugs
+-----------------------------
+
+These area rugs were imported by Pacapet of China and sold on Amazon.com between May 2020 and March 2021 for about $50. If you have one of these rugs, stop using it immediately. Email Pacapet at [anzhi123789@outlook.com](mailto:anzhi123789@outlook.com) to find out how to return your rug in exchange for a full refund. Amazon is reaching out to known purchasers.
+
+Andecor Girls Soft Tye Dye Area Rugs
+------------------------------------
+
+The Andecor Girls Soft Tye Dye Area Rugs were sold exclusively by Amazon from December 2020 through February 2021 for about $80. And Beyond Inc. of China is telling purchasers to stop using these rugs. Contact the company via email at [yangguang\_789@outlook.com](mailto:yangguang_789@outlook.com) for instructions on how to receive a full refund. Amazon is also contacting known purchasers.
+
+For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Tip-Over Hazard: Bel Furniture Recalls Chests of Drawers After Reported Injury](https://www.homeserve.com/en-us/blog/home-improvement/bel-furniture-dresser-recall/)
+*   [Rite Aid Recalls Handheld Fans After Reports of ‘Overheating and Emitting Smoke’](https://www.homeserve.com/en-us/blog/home-improvement/rite-aid-handheld-fan-recall/)
+*   [Tipping and Entrapment Hazard: Canyon Furniture Recalls 1,200 Children’s Chests of Drawers](https://www.homeserve.com/en-us/blog/home-improvement/creekside-kids-dresser-recall/)
+*   [Laceration Risk: Over 3,000 Rejuvenation Mirrors Recalled Because They Can Fall Out of the Frame](https://www.homeserve.com/en-us/blog/home-improvement/rejuvenation-mirror-recall/)
+*   [‘Burning Smells, Flames and Smoking’ Cited in Recall of 42,000 Cove Appliance Dishwashers](https://www.homeserve.com/en-us/blog/home-improvement/cove-appliance-dishwasher-recall/)

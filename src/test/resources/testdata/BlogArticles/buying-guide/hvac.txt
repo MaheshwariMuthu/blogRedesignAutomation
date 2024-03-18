@@ -1,0 +1,98 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "HVAC Terms Every Homeowner Should Know"
+headline: "HVAC Terms Every Homeowner Should Know"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-04-16
+basePath: https://library.homeserve.com/m/
+heroImage: 6a48e3a724c4ac94/Blog-shutterstock_631469783_CMYK.jpg
+heroAltDescription: "external HVAC air conditioner"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Understanding the basics of HVAC systems can go a long way toward heating and cooling bliss in your house."
+articleAbstract: "Understanding the basics about HVAC components and the terms used to describe such systems can go a long way toward heating and cooling bliss in your house."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "HVAC Terms Every Homeowner Should Know"
+  parent: HVAC-Buying-Guide
+---
+  For many homeowners, knowledge about a house's HVAC system doesn't extend much beyond how to use the thermostat and, maybe, how to change an air filter or two. The fact is, though, that these systems are fairly complex. Understanding the basics about HVAC components and the terms used to describe such systems can go a long way toward heating and cooling bliss in your house.
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+Oh, and what's that you say? What exactly is “HVAC”? Well, that certainly seems like a logical place to start. The acronym “HVAC” stands for heating, ventilation and air conditioning. In some cases, your HVAC system is one machine that handles both your heating and cooling needs, such as a heat pump or an AC forced-air system. In other cases, you may have one system — like a furnace or boiler — that keeps your home warm in the winter, and an air conditioner that cools it down in the summer.
+
+Knowing these basic terms can be helpful when trying to get a handle on how your HVAC systems work. Should they fail, it’s good to know how to talk to the technician about what’s going wrong.
+
+Refrigerant
+-----------
+
+The refrigerant is a bit like the blood of your HVAC system. It is a liquid that circulates through the system and gets pressurized, heated and cooled as needed to either remove heat from your home's air, or provide it. Freon is perhaps the best-known refrigerant, but due to concerns about its ability to deplete ozone, it was replaced in 2010 by more eco-friendly refrigerants such as Puron or Suva 9100. Generally, refrigerant in well-functioning systems should last 10 to 15 years, barring any kind of leaks or other issues.
+
+Compressor
+----------
+
+The compressor is the heart through which the refrigerant pumps in most modern HVAC systems.
+
+If you're familiar with a central air conditioning system, the compressor is found inside the boxy unit located outside the home. In such systems, the compressor receives a refrigerant that has been warmed by the ambient air of the home and turned into a gas. When the gas hits the compressor, it is, logically, compressed. This raises the pressure (and temperature) of the gas and pushes it on through the system to the condenser, where the heat is eliminated outside the home. That's why if you stand near your outdoor unit when it is cooling your house in the summer, you will feel hot air being released from it.
+
+If your home also has a heat pump, the compressor will still serve the function of compressing gas and changing its pressure, except thanks to a switchable valve, it sends the gas in the opposite direction, reversing the process.
+
+Condenser Coil
+--------------
+
+The condenser coil is also located in the box outside your home in a central air conditioning system. In fact, you may find that the entire box is often referred to alternatively as a compressor or condenser.
+
+In cooling systems, the condenser takes the hot refrigerant from the compressor and uses the relatively cooler air from the outdoors via a fan to bring the temperature down, changing it from vapor to liquid.
+
+When we say “cool,” it's important to realize that this is a relative term. The gas exiting from the compressor might be as hot as 110 degrees Fahrenheit (43 degrees Celsius), and the ambient air might be 90 degrees Fahrenheit (32 degrees Celsius). That temperature change is enough to change the pressure and temperature balance in the HVAC system to keep the air moving throughout.
+
+Again, in a heat pump system, the process is reversed. The condenser coils take cold air from outside and warm it up to distribute throughout the house.
+
+**More Related Articles:**
+
+*   [What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps ...](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [Is an HVAC Tune-Up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+Evaporator Coils
+----------------
+
+The evaporator coils are usually located on top of or inside the HVAC system's air handler. In cooling systems, these coils take cool refrigerant from the condenser coils, providing the air handler a source of cool air to blow into the ductwork. The ducts snake throughout your home, delivering air to rooms through the registers — small rectangular fins in the floor or ceiling.
+
+The evaporator coils also funnel remaining hot refrigerant back through the system, where it is taken up again in the compressor. In heating systems, the evaporator coils effectively trade place with the condenser coils when the switching valve is activated and allow warm air to circulate into the home.
+
+Air Handler
+-----------
+
+If the condensing unit is the heart of an HVAC system, the air handler is the lungs. This machine is basically a giant fan that circulates air around your home and the HVAC components themselves. When used for cooling, the air handler draws warm air from the house, passes it over the evaporator coils and returns the cool air to the ductwork that distributes it around your house. In heating mode, the air handler serves the reverse function, drawing cool air in from the house, passing it over now warm evaporator coils and distributing it through the ductwork.
+
+Filter
+------
+
+When air is sucked into your HVAC system through large grates known as returns placed on different floors of your home, it passes through a filter. The most common types of these filters are made from cotton or polyester sheets and are disposable. Reusable, washable filters are also available for some systems. These filters serve a key role in keeping your HVAC system operating properly by catching particles of dirt that could otherwise gunk up the various parts.
+
+According to [Energy.gov](https://www.energy.gov/energysaver/maintaining-your-air-conditioner), replacing dirty filters with clean ones can increase the efficiency of your HVAC system by 5% to 15%. How often you replace your filters depends on the size and condition of your home, but a general guideline is to swap them out every three months.
+
+Your filters can usually be found directly behind your return grates or on the air handler itself.
+
+BTUs
+----
+
+Standing for “British thermal units,” BTUs are a measurement of how much energy your HVAC system uses to remove heat from your home in one hour.
+
+When shopping for a new heating or cooling system for your home, it's important to keep BTUs in mind. Get one with too few BTUs, and it won't be up to the task it's designed for. One with too many, though, will cost you needlessly as a result of higher energy bills. A general guide for figuring out how many BTUs your HVAC system should move is to calculate 20 BTUs for each square foot of living space.
+
+Tonnage
+-------
+
+Tonnage is another term that refers to the capacity of your HVAC system. One ton equals 12,000 BTUs.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

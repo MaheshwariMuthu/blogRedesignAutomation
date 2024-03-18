@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "HD Hudson Garden Sprayer Recall"
+headline: "In Case You Mist It: HD Hudson Recalls Garden Sprayers Due to Fire Risk"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-04-09
+basePath: https://library.homeserve.com/m/
+heroImage: 6ee323ae8dabf502/webimage-BatteryPoweredSprayerRecall_HDHudson_0001.jpg
+heroAltDescription: "battery powered sprayer"
+metaDescriptions: "HD Hudson has recently recalled 64,000 illu-Mist battery-powered garden sprayers due to a fire risk. Here's what you need to know."
+articleAbstract: "HD Hudson has recently recalled 64,000 illu-Mist battery-powered garden sprayers due to a fire risk. If you purchased one between December 2019 and January 2021, yours might fall under this recall. Here’s what you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "HD Hudson Recalls Battery-Powered Sprayers"
+  parent: Appliances
+---
+  HD Hudson recently recalled its illu-Mist battery-powered garden sprayers due to a fire risk. If you purchased one between December 2019 and January 2021, yours might fall under this recall. Here’s what you need to know.
+
+**This May Also Interest You:** [**3,600 Powerhorse Portable Generators Recalled over Risk of Electric Shock**](https://www.homeserve.com/en-us/blog/home-improvement/portable-generator-recall/)
+
+The recall, announced March 18, affects about 64,000 illu-Mist sprayers. The [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/HD-Hudson-Recalls-Battery-Powered-Sprayers-Due-to-Fire-Hazard) said the lithium-ion battery in the sprayer can overheat, posing a risk of fire. According to a statement from the [manufacturer](https://www.hdhudson.com/copy-of-hdhudson-recalls), the company has received a few reports of “batteries sparking or igniting, especially when stored or used improperly.”
+
+The garden sprayers were made in China and sold nationwide in Lowe’s stores and online on Amazon.com for between $40 and $50 apiece. The recall affects both the 1-gallon and 2-gallon models, designated by the numbers 40001 and 40002, respectively. Affected sprayers have a gray handle and a white tank with “illu-Mist” printed on it.
+
+According to the CPSC, there have been four reported incidents of the batteries overheating. In one case, the battery melted, caught fire and caused “less than $100 worth of property damage.” No injuries have been reported.
+
+If you own one of the affected sprayers, HD Hudson recommends that you stop using it immediately. The Lowell, Mich.-based manufacturer said consumers should remove the battery tray on their unit and look for a brown battery; if the battery is brown, dispose of the battery and tray in accordance with local laws regarding lithium-ion batteries. Then, contact HD Hudson for a free replacement battery and tray; [replacement parts](https://www.hdhudson.com/copy-of-hdhudson-recalls) should arrive in one to two weeks.
+
+You can call HD Hudson at 800-394-8802 or visit the [Recalls page](https://www.hdhudson.com/copy-of-hdhudson-recalls) on the company’s website. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Watch Your Toes! 2.2 Million Edsal Shelving Units Recalled Due to Injury Risk](https://www.homeserve.com/en-us/blog/news/edsal-shelving-unit-recall/)
+*   [It Could Collapse: Lifetime Products Recalls 43,000 6-Foot Folding Tables](https://www.homeserve.com/en-us/blog/home-improvement/lifetime-products-seminar-table-recall/)
+*   [Fire Hazard: 4,500 DeWalt Kerosene Heaters Recalled](https://www.homeserve.com/en-us/blog/home-improvement/cordless-kerosene-heater-recall/)
+*   [Learn How to Install a Smoke Detector Safely](https://www.homeserve.com/en-us/blog/how-to/install-smoke-detector/)
+*   [Home Maintenance Checklist: 15 Things to Do for Spring](https://www.homeserve.com/en-us/blog/home-improvement/spring-home-maintenance-checklist/)

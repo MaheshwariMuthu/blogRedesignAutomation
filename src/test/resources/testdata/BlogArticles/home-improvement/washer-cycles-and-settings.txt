@@ -1,0 +1,94 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Everything You Need to Know About Your Washing Machine's Cycles and Settings"
+headline: "Everything You Need to Know About Your Washing Machine's Cycles and Settings"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2023-10-27
+basePath: https://library.homeserve.com/m/
+heroImage: 32eca4f8c1d3f08e/Blog-IMG_3757_WashingMachine1_LL.jpg
+heroAltDescription: "Outside of a white washing machine"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "We break down everything you need to know about your washing machine's settings and cycles. You’ll be a laundry pro in no time."
+articleAbstract: "All those buttons, dials and displays can feel overwhelming. In this guide, we'll break down everything you need to know about your washing machine's settings and cycles. You’ll be a laundry pro in no time."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Everything You Need to Know About Your Washing Machine's Cycles and Settings"
+  parent: Appliances
+---
+  Back in the day, people spent hours boiling water in metal tubs and then rubbing one item at a time against a washboard with one setting: scrub. Fortunately, we’re now blessed with machines that offer multiple options, letting us fine-tune our washing cycles.
+
+**This May Also Interest You:** [**Avoid a Malfunction With These 9 Washing Machine Maintenance Tasks**](https://www.homeserve.com/en-us/blog/how-to/washing-machine-maintenance/)
+
+However, all those buttons, dials and displays can feel overwhelming. In this guide, we'll break down everything you need to know about your washing machine's settings and cycles. You’ll be a laundry pro in no time.
+
+What Are Some Common Settings or Cycle Options on a Washing Machine?
+--------------------------------------------------------------------
+
+Not all washing machines are equal. Some are more efficient, some have greater capacities and others have an array of features. Before diving into the details of cycles, let's start by looking at the most common settings — the ones that are likely to be on your machine.
+
+### Permanent-Press Cycle
+
+The permanent-press cycle is designed for synthetic fabrics and garments prone to wrinkling. By gently agitating the material while it's soaked in warm water, the machine can reduce wrinkles and maintain the fabric’s shape.
+
+### Delicate Wash
+
+This option is for fragile items, such as lace, silk or satin. A slow spin in cold water protects delicate fabrics from damage. If you put them through a faster or warmer cycle, you risk their fine threads snagging on the drum and the higher temperature causing their sensitive dyes to bleed and fade.
+
+### Rinse Only
+
+With this option, you can rinse your clothes without running a full wash cycle. It's handy for removing loose dirt and some surface stains from heavily soiled items before a full wash. Additionally, if you're unpacking items you packed away, such as winter clothes, it's great for refreshing them after their hibernation.
+
+### Quick Wash
+
+These cycles are shorter and ideal for lightly soiled clothing. They use cold water and less agitation, saving time and energy. If you're in a hurry and can't wait on a full cycle, they're ideal.
+
+### Heavy Duty
+
+This cycle is designed for heavily soiled items, such as work clothes and sports gear. It uses hot water and vigorous agitation to tackle tough stains. It’s also useful for bulk items, such as blankets and curtains, because the extra agitation generates more cleaning power.
+
+### Hand Wash
+
+This cycle mimics gentle handwashing with cold water and minimal agitation, making it suitable for items that require extra care. It shouldn’t be confused with the delicate wash option, which tends to restrict choices, such as water temperature and cycle length. Hand wash offers more control, so it's the better option if you're particularly concerned about a fragile fabric being damaged.
+
+What Do the Different Cycles Do?
+--------------------------------
+
+Now that you understand washing machine settings, here's a deeper dive into some specific cycles.
+
+### Permanent-Press Vs. Delicate
+
+The permanent-press and delicate cycles cater to different types of fabrics. The permanent-press cycle is for synthetic fabrics, such as polyester and nylon, while the delicate cycle is for fragile materials, such as silk and lace. The key differences are in water temperature and agitation levels, with permanent press using warm water and delicate employing cold water and gentle agitation.
+
+### Rinse Cycle
+
+The rinse cycle should be used for removing detergent and residual soil from your clothes after the main wash. It will prevent soap buildup in fabrics, which can lead to skin irritation, unpleasant odors and reduced breathability in some garments, such as activewear.
+
+### Normal Cycle
+
+Due to its greater agitation levels and length, the normal cycle is the most intensive option. It’s best for everyday clothing, such as T-shirts and socks and more durable synthetics, including sheets and towels.
+
+### Quick Wash Duration
+
+The standard time for a quick wash cycle is between 15 and 30 minutes. The primary benefits include saving time, energy and costs. However, this cycle puts more strain on fabrics and has limited cleaning power, so keep this in mind if you decide on this option.
+
+**More Related Articles:**
+
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Clean a Washing Machine Drain](https://www.homeserve.com/en-us/blog/how-to/clean-washing-machine-drain/)
+*   [Here’s How to Change the Direction the Door Swings on Your Washer and Dryer](https://www.homeserve.com/en-us/blog/how-to/reverse-washer-dryer-door/)
+*   [How to Move Your Washing Machine](https://www.homeserve.com/en-us/blog/how-to/move-washing-machine/)
+*   [Should You Repair or Replace Your Washing Machine?](https://www.homeserve.com/en-us/blog/home-improvement/washing-machine-repair-replacement/)
+
+Making Informed Choices
+-----------------------
+
+While selecting the correct washing machine settings and cycles ensures the best results, you still have to make some choices.
+
+* **Water temperature**: Don’t ignore the recommended water temperature on your clothing labels. Hot water can effectively remove stains, while cold water is gentler on delicate fabrics.
+* **Load size**: Don’t overload your machine, as this reduces its cleaning capability. Follow the manufacturer's guidelines for load size.
+* **Separate dark colors**: Dark-colored garments can bleed color, so wash them separately to prevent color transfer.
+* **Spin cycles**: Different spin cycles determine how wet or dry your clothes will be after the wash. Select the appropriate spin cycle for your laundry needs. Even if you're using a dryer, well-spun clothes will reduce the drying time.
+
+Understanding your washing machine’s settings and cycles can save you time and money while ensuring your clothes are as clean as possible and last longer. Using this guide in combination with your machine’s user guide should give you years of happy washing.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

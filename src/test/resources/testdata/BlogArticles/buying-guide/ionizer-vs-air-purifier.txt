@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Ionizer Vs. Air Purifier"
+headline: "Ionizer Vs. Air Purifier: What's the Difference?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-12-15
+basePath: https://library.homeserve.com/m/
+heroImage: 36e60972e55d23f2/Blog-GettyImages-946637356.jpg
+heroAltDescription: "Turning On Modern Air Purifier And Ionizer"
+metaDescriptions: "Trying to decide how to keep the air in your home clean and fresh? Learn the difference between an ionizer and an air purifier."
+articleAbstract: "Keeping the air in our homes fresh promotes health. Knowing the difference between an ionizer and an air purifier can help you find the solution that’s right for your family."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Ionizer Vs. Air Purifier: What's the Difference?"
+  parent: Interior-Home-Buying-Guide
+---
+  Keeping the air in our homes fresh promotes health. It can even relieve the symptoms of common allergies, asthma and other respiratory conditions.
+
+**This May Also Interest You:** [**5 Tips for Fresher Indoor Air This Winter**](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+
+Knowing the difference between an ionizer and an air purifier can help you find the solution that’s right for your family.
+
+What’s an Air Ionizer?
+----------------------
+
+Ionizers send ions into the air that interact with particles and increase their atomic weight. Rather than filtering these particles out of the air, an ionizer makes them too heavy to stay suspended in the air. Contaminants as small as 0.1 microns either fall to the floor or land on other surfaces throughout the room.
+
+Because the particles are too heavy to float, you’re safe from breathing them in and can remove them with a duster or vacuum during routine cleaning. For an ionizer to be effective, you need to dust or vacuum frequently because pets and people walking through the room can kick the particles back up into the air.
+
+What’s an Air Purifier?
+-----------------------
+
+An air purifier uses physical filtration to capture particles in the air so that you don’t breathe them in. An air purifier circulates the air in a room to send it through the filter, which captures particles as small as 0.3 microns in size. HEPA — high-efficiency particulate air — filters in air purifiers are more limited than ionizers because they can’t remove smaller particles, but they still [remove 99.97%](https://www.epa.gov/indoor-air-quality-iaq/what-hepa-filter-1) of the dust, allergens and microorganisms in the air that contribute to respiratory problems.
+
+Air purifiers physically remove particles from the space, so you don’t need to worry about vacuuming or dusting because there aren’t any particles left on the ground that can be kicked back up into the air. This is why HEPA air purifiers remain a top choice for people who suffer extensively from allergies or sensitivity to dust, mold or mildew.
+
+What's the Difference Between an Ionizer and an Air Purifier?
+-------------------------------------------------------------
+
+The primary difference between air purifiers and ionizers is the way each device removes contaminants from the air. With air purifiers, HEPA filters trap particles inside of a filter, so you need to replace the filter regularly. Ionizers don’t have filters because they emit electrically charged particles to remove contaminants from the air. It’s important to understand that this doesn’t eliminate those particles completely from the environment.
+
+One of the risks that ionizers present is the emission of ozone. Most ionizers produce small amounts of ozone when emitting charged particles. Some people are sensitive to ozone and may have an adverse reaction to elevated ozone levels in their homes. If you’re one of these people, an ionizer won’t be right for you and could worsen respiratory irritation.
+
+**More Related Articles:**
+
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [Cooked to Odor: How to Get Rid of Lingering Cooking Smells](https://www.homeserve.com/en-us/blog/how-to/get-rid-of-cooking-smells/)
+*   [11 Ways to Get Rid of Bag Dog Smell in Your Home](https://www.homeserve.com/en-us/blog/how-to/eliminate-dog-smell/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [5 Reasons You Need a Dehumidifier in Your Home](https://www.homeserve.com/en-us/blog/home-improvement/dehumidifier-benefits/)
+
+Which Is Better: An Air Purifier or Ionizer?
+--------------------------------------------
+
+If you suffer from asthma, allergies or other respiratory conditions, a HEPA air purifier is more likely to ease your symptoms because it keeps the particles from reentering the air you breathe. It’s also a good option if you’re concerned about the presence of ozone in your home.
+
+Ionizers don’t require you to change a filter, so they’re easier to maintain if you don’t mind dusting or vacuuming regularly to clean the particles that fall to the floor. If the presence of ozone isn’t a problem for you, they’re a viable alternative to air purifiers. Ionizers also purify a larger area than HEPA air purifiers and can eliminate smaller particles from the air.
+
+Air purifiers are also more expensive than ionizers. They can cost up to twice as much initially, and you need to replace the filter twice a year. When considering the cost of ownership, it’s important to factor the cost of new filters into your decision.
+
+If you’re concerned about the presence of mold, viruses or bacteria, there are additional options to consider that are designed specifically for air sanitization. Installing a UV light in your HVAC system might counter most of the microorganisms that make people sick. A UV light air sanitizer doesn’t filter particulates from the air, though, so it won’t help if you suffer from allergies.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

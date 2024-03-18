@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "'Burning Smells, Flames and Smoking' Cited in Recall of 42,000 Cove Appliance Dishwashers"
+headline: "'Burning Smells, Flames and Smoking' Cited in Recall of 42,000 Cove Appliance Dishwashers"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-18
+basePath: https://library.homeserve.com/m/
+heroImage: d918dc14c0db552/Blog-DishwasherRecall_CoveAppliance_0001.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Cove Appliance is recalling 42,000 dishwashers because they can fail to properly shut off and may overheat, posing a fire risk."
+articleAbstract: "Did you purchase a Cove Appliance built-in dishwasher between February 2018 and May 2021? The manufacturer is recalling 42,000 of these dishwashers due to a fire hazard. According to the June 16 recall alert published by the Consumer Product Safety Commission, the dishwashers can fail to properly shut off, which can cause them to overheat."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Cove Appliance Recalls Dishwashers Due to Fire Hazard"
+  parent: Appliances
+---
+  Did you purchase a Cove Appliance built-in dishwasher between February 2018 and May 2021? You should know that the manufacturer is recalling 42,000 of these dishwashers due to a fire hazard. According to the June 16 [recall alert](https://www.cpsc.gov/Recalls/2021/Cove-Appliance-Recalls-Dishwashers-Due-to-Fire-Hazard) published by the Consumer Product Safety Commission, the dishwashers may fail to properly shut off, which may cause them to overheat.
+
+**This May Also Interest You:** [**5.4 Million Clothing Steamers Recalled by HSN Over ‘Severe Burn Hazard’**](https://www.homeserve.com/en-us/blog/home-improvement/hsn-clothing-steamer-recall/)
+
+According to the Madison, Wis.-based [manufacturer](https://www.subzero-wolf.com/assistance/answers/cove/dishwasher/cove-dishwasher-recall-2021), this issue can occur while the dishwasher is idle or in use. Cove Appliance has received five reports of burning smells, flames and smoke inside the units. No injuries have been reported.
+
+This recall affects Cove Appliance 24-inch built-in dishwashers with model numbers DW2450 and DW2450WS and serial numbers 20000100 through 20044445. You can find the model and serial number on the product rating plate inside the dishwasher on the left side. These models were made in the U.S. and sold at home appliance stores nationwide for $2,400 to $2,500.
+
+If you own one of these dishwashers, the CPSC advises that you stop using it immediately and either unplug it or turn it off at the breaker. Contact Cove Appliance to schedule a free repair. The manufacturer will replace the appliance’s heating element and install a second thermal protection device. To reach Cove appliance, call 888-651-9376, email [support@coveappliance.com](mailto:support@coveappliance.com) or visit the company’s [page for this recall](https://www.subzero-wolf.com/assistance/answers/cove/dishwasher/cove-dishwasher-recall-2021).
+
+For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [IKEA Recalls 148,000 Bowls, Plates and Mugs Over Burn Risk](https://www.homeserve.com/en-us/blog/home-improvement/ikea-dishes-recall/)
+*   [Chairs Could Collapse: TJX Recalls 92,000 Wooden Folden Chairs for Fall, Injury Risk](https://www.homeserve.com/en-us/blog/home-improvement/outdoor-wooden-folding-chair-recall/)
+*   [Watch Your Seat: 3,100 StyleWell Dining Chair Sets Recalled for Fall Risk](https://www.homeserve.com/en-us/blog/how-to/Wood-Windsor-Dining-Chair-Recall/)
+*   [226,000 TruSense Smoke, Carbon Monoxide Alarms Recalled for Possible Failure to Alert Households to Fire](https://www.homeserve.com/en-us/blog/home-improvement/trusense-smoke-alarm-recall/)
+*   [Fall Risk Prompts Recall of 3,100 Sauder Woodworking Bar Stools](https://www.homeserve.com/en-us/blog/home-improvement/sauder-woodworking-barstools-recall/)

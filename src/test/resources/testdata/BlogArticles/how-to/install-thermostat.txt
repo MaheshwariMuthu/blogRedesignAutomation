@@ -1,0 +1,86 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to install a Thermostat
+headline: The easiest way to install a Thermostat
+author: Team HomeServe
+tags: ['post', 'DIY']
+publishDate: 2020-08-12
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: install-thermostat.jpg
+heroAltDescription: How to Install a Thermostat
+metaDescriptions: Considering a new thermostat? Installing a programmable one is easy when you use these tips.
+articleAbstract: Whether your thermostat is outdated, no longer working properly or broken altogether, installing a new one is a must for your home's HVAC system. The following is a helpful guide that walks you through how to install a new thermostat at home.
+category: ['How To']
+
+eleventyNavigation:
+  key: How to install a Thermostat
+  parent: HVAC-How-To
+---
+
+::: blog-info
+The reasons why a homeowner needs to install a new thermostat can vary. You may be interested in setting up a smart thermostat or a programmable one known to be great for HVAC energy efficiency. When a thermostat is not working, it’s not a good situation as you cannot properly heat or cool your home. If you’re facing this issue, check out this step-by-step guide on how to install a new thermostat.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+## What you’ll need
+
+To get started, gather your tools. This is a simple DIY project that only requires a level, paper towels and screwdriver. You are encouraged to use your favorite screwdriver since it is the tool you are going to use the most. You are also going to need something to label the wires. Masking tape and a marker will do the job.
+
+## How long does a New Thermostat installation take?
+
+Professionals estimate that the [installation of a programmable thermostat](/en-us/blog/how-to/install-thermostat){target="_blank"} takes just under two hours.
+
+### Step 1: Turn off the HVAC's power
+
+**Before you begin any home DIY project, safety comes first. You must ensure that you turn off the power source.** In this case, turn off the power source to your HVAC from the main panel.
+
+### Step 2: Remove the existing Thermostat
+
+With your screwdriver, remove the old thermostat's plate. You will unscrew the thermostat's mounting screws. Then, remove the body.
+
+### Step 3: Separate and label the wires
+
+Be mindful of the wires. You need to keep them separate and organized. The new thermostat should include labels. It is important to keep the low-voltage wires identified. If there are no labels, use the masking tape and marker.
+
+The masking tape also comes in handy to help you prevent the wires from falling behind the wall. You might consider taping them to the wall or into the wall cavity.
+
+### Step 4: Install the new base and wire
+
+Now, remove the old thermostat's base by loosening its mounting screws. Next, take your new thermostat and separate the base from its front plate. You are ready to install the base. Ensure that you thread the low-voltage wires through the correct slots on the base.
+
+Some new thermostats are self-leveling. If yours does not do this, use your level to make sure the base is straight and well-aligned. Then, you are ready to mount and screw it into the wall. The low-voltage wires need to be connected to the correct terminals on the base.
+
+If you find that the connections do not match, consult your new thermostat's manual. There will be a diagram in there that provides additional help. Loose wires must be tightened. Double-check that all sheathing is still in good condition.
+
+There are new thermostats that require batteries. If yours is one of them, insert the batteries in the correct slots. Double-check that you have matched them correctly according to their polarity.
+
+### Step 5: Manufacturer-Specified voltage
+
+Since thermostat wiring is electrical, you do need to be mindful of the current wiring's voltage. Then, you need to take into account the voltage specified by the manufacturer of your new thermostat. **For safety reasons, your new thermostat should not exceed your wire's current capacity.** Eventually, this can cause damage that could lead to shock and that could easily lead to a fire hazard.
+
+While you shop for your [new thermostat](/en-us/blog/how-to/clean-thermostat){target="_blank"}, you also want to ensure that it is compatible with your current home and HVAC system. Thermostat technology has evolved in the last decade. If your home has an older HVAC system and you are interested in transitioning to a smart thermostat, you do have to ensure that it will be compatible. If you are unsure about the compatibility, professionals are at your disposal to help.
+
+### Step 6: Mount New Thermostat and restore power
+
+Gently push the excess wires into the wall. The hole should be plugged with material that is fire-resistant. It is important to prevent drafts because they can affect the thermostat's operation. Fiberglass insulation is one recommendation.
+
+Mount the control unit to the base. Secure it with the screws. Tighten as necessary.
+
+Now, you can turn the HVAC's power back on from the main panel. Hit reset on the unit. Next, program your thermostat according to the manufacturer's instructions that were included in the packaging.
+
+### Step 7: Test the New Thermostat
+
+Next, test the thermostat and adjust the temperature. Your goal is to make sure that the thermostat and HVAC unit are cycling correctly. If they do not, you can always consult with a professional.
+
+## How to install a Nest Thermostat
+
+If you are making the transition to a home with smart home devices, a Nest learning thermostat is one way to do so. Thermostats like Nest include similar components as a programmable thermostat. One of the differences is that Nest has put together e-installation packets. There are also informational videos online. Simply follow the links included in the box after you have checked all the components are accounted for and included.
+
+Being prepared with a plan from [HomeServe](/en-us/repair-plans/hvac/){target="_blank"} can help you avoid the stress and worry associated with pricey repairs. Simply call our 24/7 repair hotline. A local, licensed and highly trained HVAC contractor will get the job done to your satisfaction. See what plans are available in your area.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+:::

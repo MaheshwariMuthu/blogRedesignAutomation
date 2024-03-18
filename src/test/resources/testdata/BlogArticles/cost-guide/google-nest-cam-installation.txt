@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install a Google Nest Cam?"
+headline: "How Much Does It Cost to Install a Google Nest Cam?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-05-13
+basePath: https://library.homeserve.com/m/
+heroImage: 28b60b92adf2d984/Blog-GoogleNestDoorbell_JamesYarema_0002.jpg
+heroAltDescription: "A white Google Nest Doorbell video security device with a black circular camera is affixed to a brown stucco exterior wall."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Google Nest Cam installation is relatively easy, but if you'd rather leave it to the pros, here's what to expect in terms of installation costs."
+articleAbstract: "Google Nest Cam installation is relatively easy, and you can do it yourself. But if you'd rather leave it to the professionals, knowing what to expect in terms of installation costs can help you plan."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install a Google Nest Cam?"
+  parent: Exterior-Cost-Guide
+---
+  There are a lot of options out there for home security systems and video surveillance, from video doorbells to wireless cameras. These smart devices help secure your home, but they need to be installed correctly to do the job.
+
+**This May Also Interest You:** [**How Much Does a Home Security System Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/home-security-system/)
+
+Google Nest Cam installation is relatively easy, and you can do it yourself. But if you'd rather leave it to the professionals, knowing what to expect in terms of installation costs can help you plan.
+
+How Much Does It Cost to Install Nest Cam?
+------------------------------------------
+
+[Installation through Google](https://www.ontechsmartservices.com/pages/nest/),when you purchase your Google Nest cam, costs $129.99 (CAD 175). Google partners with OnTech to connect customers with nationwide in-home technicians.
+
+Does the Geek Squad Install Nest Cams?
+--------------------------------------
+
+[The Geek Squad](https://www.bestbuy.com/site/smart-home-services/wireless-camera-installation/pcmcat1568043029693.c?id=pcmcat1568043029693) (through Best Buy) offers installation for all types of wireless cameras, including attaching them to your wall or ceiling, configuring the camera, connecting them to your Wi-Fi and integrating them with your mobile device. The cost ranges from $99.99 to $149.99 (CAD 135 and CAD 200), depending on the number of cameras you're having installed. The Geek Squad also installs other smart home devices, including smart doorbells, locks, lighting and thermostats.
+
+Considerations for Google Nest Cam Installation
+-----------------------------------------------
+
+If you want to have your Google Nest Cam installed by a professional, check with different companies that do smart home device installations for things like video doorbells and security systems. The number of cameras you're having installed is often the biggest factor in the cost.
+
+The location can also be a factor. An indoor location on a desk or wall is easier to reach than a high location outdoors, so the indoor installation might be cheaper.
+
+Contact several installers to get estimates. Tell them the number of cameras and location for each camera to get a more accurate price range. Ask what's included for that price, such as making sure the camera is connected to the internet and helping you set up your smartphone to connect to the Google Nest Cam.
+
+Do I Need to Hire a Professional to Install Nest Cams?
+------------------------------------------------------
+
+You don't need to hire a professional to handle your Google Nest cam installation. The cameras are designed for easy DIY installation and can be used wirelessly for a simple install as part of your [home security system](https://www.homeserve.com/en-us/blog/cost-guide/home-security-system/). This means you simply mount it where you want it, indoors or outdoors. It runs on a rechargeable battery and transmits the video over the internet, so it doesn't need any wires.
+
+You can buy an optional weatherproof cable for a hardwired installation, which takes a little more work. You can plug the cable directly into an outlet if one is nearby. You might need to hire an electrician to run new wiring if there's not a nearby outlet.
+
+**More Related Articles:**
+
+*   [How to Install a Video Doorbell](https://www.homeserve.com/en-us/blog/how-to/install-video-doorbell/)
+*   [How Much Does It Cost to Install a Ring Doorbell?](https://www.homeserve.com/en-us/blog/cost-guide/ring-doorbell-installation/)
+*   [How to Install a Nest Thermostat](https://www.homeserve.com/en-us/blog/how-to/nest-thermostat-installation/)
+*   [How Much Does It Cost to Install a Keyless Door Lock?](https://www.homeserve.com/en-us/blog/cost-guide/keyless-door-lock/)
+*   [Lose Your House Key: Install a Keyless Door Lock](https://www.homeserve.com/en-us/blog/how-to/keyless-door-lock/)
+
+Google Nest Cam Installation Process
+------------------------------------
+
+To save some cash, you can install a Google Nest Cam yourself. Here are the steps:
+
+1.  Download the Google Home app.
+2.  Add your Nest cam to the app by scanning the QR code on the camera or entering the setup code on the bottom of the camera.
+3.  Connect the power cord to the camera and plug it in. Wait until the indicator light on the camera pulses blue to indicate that it's ready.
+4.  Follow the instructions in the app for the setup. It prompts you to choose indoor or outdoor installation and the location for the camera.
+5.  Choose the location for mounting the camera.
+6.  Attach the wall plate with the screws and anchors provided with the camera.
+7.  Place the magnetic mount over the wall plate, turning it clockwise to secure it.
+8.  Attach the camera to the magnetic plate. It should click in place. The status light should be at the top and the speaker should be at the bottom.
+9.  Secure the cable to the wall if you're using a wired installation.
+
+You can also buy a stand as an extra accessory if you want to place the camera on a desk or table.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Replace a Filter on Your Window Unit Air Conditioner"
+headline: "How to Replace a Filter on Your Window Unit Air Conditioner"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-10-12
+basePath: https://library.homeserve.com/m/
+heroImage: 485f4f072a4b74a8/Blog-LGWindowACUnit_AWiesen_011.jpg
+heroAltDescription: "A window unit air conditioner is positioned in a window."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Regular maintenance is important to keep your window AC unit up and running. Changing the filter is one task you should have on your list."
+articleAbstract: "Regular maintenance is important to keep your window AC unit up and running. Changing the filter is one task you should have on your list."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Replace a Filter on Your Window Unit Air Conditioner"
+  parent: HVAC-How-To
+---
+  It's easy to take your window unit for granted. You expect the simple system to keep you cool without all the fuss of a central HVAC system.
+
+**This May Also Interest You:** [**Smart HVAC Filters: What Are They and How Do They Work?**](https://www.homeserve.com/en-us/blog/home-improvement/smart-hvac-filters/)
+
+Turns out window units need a little TLC every now and then, too. Doing some air conditioner maintenance is important to keep the unit running smoothly. Changing the filter is one task every window unit owner should have on their list.
+
+Do All Window Units Have Filters?
+---------------------------------
+
+All window air conditioner units have filters in them. As the air conditioner circulates the air inside your home, it passes through the filter to get rid of impurities.
+
+How Do You Replace the Filter in a Window Unit Air Conditioner?
+---------------------------------------------------------------
+
+The first step is to locate the filter on your window unit. It's usually at the front of the unit. You'll need to remove the front cover to access the filter. Then, follow these simple steps:
+
+**1\.** Turn off and unplug the air conditioning unit to prevent electrical shock.
+
+**2\.** Pull off the cover from the front of the unit. You might need to unscrew it, but the covers usually pop off without tools.
+
+**3\.** Find the filter, which should be visible at this point.
+
+**4\.** Pull the old filter out of the unit. Pay attention to how the filter sits in the air conditioner so you can put the new one in the same way.
+
+**5\.** Place the new filter back into the space in the same way.
+
+**6\.** Put the cover back on the air conditioner, plug it back in and turn it on to ensure it works correctly.
+
+How Often Do You Need to Replace the Filter?
+--------------------------------------------
+
+Window air conditioner units typically have reusable filters in them. However, some have disposable filters. Either way, you should wash or replace your filter every [6 to 8 weeks](https://www.frostking.com/tips-and-tricks/air-conditioner-accessories/replace-window-air-conditioner-filter).
+
+The timing of cleaning or replacing the filter can depend on the circumstances. How much time the unit runs can impact how quickly the filter gets dirty and needs to be replaced. You might also need to replace or clean it more often if you have pets or live in a dusty area because the filter is more likely to get clogged faster. Check the filter once a month to see if it looks dirty to determine if it's time to clean or replace it.
+
+If you have a reusable filter, you might need to replace it about [once per year](https://www.doityourself.com/stry/how-to-replace-an-air-conditioner-filter). You can do a visual inspection to determine when it's time to replace it. Look for damage or signs of wear to indicate that it's time for a filter replacement.
+
+How Do You Wash a Reusable Filter?
+----------------------------------
+
+A reusable filter doesn't need to be replaced very often, but it does need to be cleaned regularly. You can use a vacuum cleaner on the filter first to remove some of the dust. To wash it, you simply need to rinse it with warm water and add a little mild soap to help remove the dirt and debris. Washing it in the bathtub gives you lots of room to clean the filter well. Rinse it well until the water runs clear to ensure you get all the dirt and soap out of it. Wait until the filter dries completely before you put it back in the window unit.
+
+**More Related Articles:**
+
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [How Much Do UV Lights Cost for HVAC Systems?](https://www.homeserve.com/en-us/blog/cost-guide/uv-lights-hvac/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+
+Importance of Window AC Unit Filter Replacement
+-----------------------------------------------
+
+A clean air conditioning window unit filter makes your AC run more efficiently and helps your house feel cooler. This improved performance makes your window air conditioner more energy-efficient, which can help lower your energy bills without sacrificing your comfort.
+
+Clean air filters can also help your window AC last longer. When the filter is clogged, the air can't pass through as easily. This can reduce the airflow and put undue stress on the air conditioner, which can shorten its life. It can also cause issues with the evaporator coils, which can keep the unit from running properly.
+
+Keeping your window AC filters clean can also help improve the air quality inside your home. The filter collects dirt, allergens and other debris as the air passes through it. If the filter is clogged, it can't efficiently remove those pollutants from the air, which means they'll end up inside your home.
+
+How Do You Know Which Replacement Filter to Use?
+------------------------------------------------
+
+AC filters come in different sizes, so you'll need to check to get the correct one. You can measure the current filter to determine which size to buy. They can be made of different materials, including foam, aluminum mesh and polyester. If you're not sure what yours is made of, you can take your current filter to a home improvement store and ask for help selecting the correct replacement. Don't run the air conditioner without a filter, though. The filter keeps all the gunk out of the machine, after all. Keep it turned off while the filter is out to prevent damage.
+
+What Other Window AC Maintenance Tasks Are Required?
+----------------------------------------------------
+
+Cleaning the rest of the AC unit can also help it operate efficiently. Vacuuming the coils and wiping down the exterior of the unit are simple cleaning tasks you can do. Check the fins to look for any bent areas. You can use a fin comb to straighten them. It's also a good idea to remove the unit from the window during the winter or cover it to protect it.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

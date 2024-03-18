@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Laceration Risk: Over 3,000 Rejuvenation Mirrors Recalled Because They Can Fall Out of the Frame"
+headline: "Laceration Risk: Over 3,000 Rejuvenation Mirrors Recalled Because They Can Fall Out of the Frame"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-07-07
+basePath: https://library.homeserve.com/m/
+heroImage: 46a2b7acc55d76a/Blog-DeepFrameMirrorRecall_Rejuvenation.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Did you purchase a Rejuvenation Deep Frame Mirror between July 2019 and March 2021? Beware: Rejuvenation is recalling these mirrors due to an injury hazard."
+articleAbstract: "Rejuvenation is recalling about 3,325 Deep Frame Mirrors due to an injury hazard. According to a recall alert published by the Consumer Product Safety Commission, the glue on the back of the mirrors can fail and the glass can fall out of the frame, posing a laceration risk."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Laceration Risk: Over 3,000 Rejuvenation Mirrors Recalled Because They Can Fall Out of the Frame"
+  parent: Interior-Home-Home-Improvement
+---
+  Rejuvenation is recalling about 3,325 Deep Frame Mirrors due to an injury hazard. If you purchased one of these mirrors between July 2019 and March 2021, beware: According to a [recall alert](https://cpsc.gov/Recalls/2021/Rejuvenation-Recalls-Deep-Frame-Mirrors-Due-to-Laceration-and-Injury-Hazards-Recall-Alert) published by the Consumer Product Safety Commission, the glue on the back of the mirrors can fail and the glass can fall out of the frame, posing a laceration risk.
+
+**This May Also Interest You:** [**Signature Hardware Stainless Steel Towel Grab Bars Recalled for Fall Risk**](https://www.homeserve.com/en-us/blog/home-improvement/towel-grab-bar-safety-recall/)
+
+According to the July 1 recall, there have been 18 reports of the mirror detaching from the frame and the glass breaking. No injuries have been reported.
+
+This recall involves [Rejuvenation](https://www.rejuvenation.com/landing/product-safety-recalls)’s Deep Frame Mirrors in round, square and arched shapes with bronze, brass or white finishes. They were manufactured in India and imported by Williams-Sonoma. The mirrors were sold in Rejuvenation stores, [Rejuvenation.com](http://rejuvenation.com/) and via the Rejuvenation catalog for $450 to $900.
+
+To find out if your mirror is involved in this recall, find the stock-keeping unit (SKU) number and date code on the back of the mirror and check it against [this list](https://www.rejuvenation.com/landing/product-safety-recalls).
+
+If you have one of these mirrors, you’ll want to stop using it immediately. Rejuvenation is contacting all known purchasers directly to coordinate a free replacement or a full refund. You can also reach the Portland, Ore.-based company at 877-770-7231, via email at [customerservice@rejuvenation.com](mailto:customerservice@rejuvenation.com) or online at [Rejuvenation.com](http://rejuvenation.com/). For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Bruises, Bumps, Scratches and Sprains: Target Recalls Shower Stools Due to Fall Risk](https://www.homeserve.com/en-us/blog/home-improvement/target-shower-stool-recall/)
+*   [5.4 Million Clothing Steamers Recalled by HSN Over ‘Severe Burn Hazard’](https://www.homeserve.com/en-us/blog/home-improvement/hsn-clothing-steamer-recall/)
+*   [Chairs Could Collapse: TJX Recalls 92,000 Wooden Folden Chairs for Fall, Injury Risk](https://www.homeserve.com/en-us/blog/home-improvement/outdoor-wooden-folding-chair-recall/)
+*   [Watch Your Seat: 3,100 StyleWell Dining Chair Sets Recalled for Fall Risk](https://www.homeserve.com/en-us/blog/how-to/Wood-Windsor-Dining-Chair-Recall/)
+*   [Are You Sitting Down? Hillsdale Furniture Recalls 10,500 Stools Over Fall Risk](https://www.homeserve.com/en-us/blog/home-improvement/jennings-stool-recall/)

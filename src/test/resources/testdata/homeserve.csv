@@ -1,0 +1,2 @@
+TC_ID,TestName,Zipcode,ZipLocation,Plan,FirstName,LastName,Email,Address,PhoneNumber,ApartmentNumber,BillingFrequency,PaymentType,CardNumber,ExpiryDate
+TC_001,SALE_LandingPage_Monthly_CC,,LandingPage,,Maheswari,hstest,maheswari.hstest,,,,Monthly,CreditCard,4.48503E+15,05|2040

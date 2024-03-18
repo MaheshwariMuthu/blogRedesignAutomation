@@ -1,0 +1,50 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "EVVR Smart Home Hub Named CES 2023 Innovation Awards Honoree"
+headline: "EVVR Smart Home Hub Named CES 2023 Innovation Awards Honoree"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-01-02
+basePath: https://library.homeserve.com/m/
+heroImage: 45ed52ab6309446b/Blog-EvvrHub_CES.jpg
+heroAltDescription: "Evvr Hub product image"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The Evvr Hub was named a 2023 Innovation Awards Honoree. Here's how it will help simplify your smart home."
+articleAbstract: "The Evvr Hub was named a 2023 Innovation Awards Honoree. Here's how it will help simplify your smart home."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "EVVR Smart Home Hub Wins CES 2023 Innovation Award"
+  parent: Electrical-Home-Improvement
+---
+  _Manufacturer image_
+
+Smart home devices are quickly multiplying on the market. There are smart bulbs, smart outlets, smart doorbells, smart slow cookers (yes, _slow cookers_) … and the list goes on. While these devices can certainly make life easy, getting them set up can be anything but. Plus, if you have devices from different companies, getting them to all work together can be daunting, if not downright impossible. A new device from China-based [Evvr](https://evvr.io/?utm_source=press_release&utm_medium=referral&utm_compaign=ces2023pr&utm_content=textlink&product=homepage&date=2022-11-16&name=elaine) solves these issues by incorporating Wi-Fi and multi-device connectivity into one smart hub.
+
+**This May Also Interest You:** [**What’s the Internet of Things?**](https://www.homeserve.com/en-us/blog/home-improvement/internet-of-things/)
+
+Known (naturally) as the [Evvr Hub](https://ces.vporoom.com/2022-11-17-Evvr-Hub-Awarded-CES-Innovation-Award), the all-in-one gizmo was named a 2023 Innovation Awards Honoree in the smart home category at the upcoming CES 2023 in Las Vegas, the world's biggest consumer electronics show.
+
+According to CES, the Innovation Awards program seeks to reward "outstanding design and engineering in consumer technology products." Further, an "honoree" designation highlights the products that are the best in their category. Based on the issues it addresses and the ease with which it makes smart home automation easier than ever, it's not hard to see why the Evvr hub snagged the designation.
+
+For starters, the Evvr hub doesn't even need to be connected to a power source. It operates on and is powered by an ethernet cable, which is usually simple to run from a home's modem. Once that connection is made, the hub acts as a Wi-Fi router, broadcasting a robust Wi-Fi 6 signal throughout the house. The hub can also connect to a dizzying array of products running a wide range of protocols or, as the company [puts it](https://evvr.io/products/evvr-hub?utm_source=press_release&utm_medium=referral&utm_compaign=ces2023pr&utm_content=textlink&product=evvrhub&date=2022-11-16&name=elaine): "It's vendor-neutral and protocol-agnostic." That means that if you have some devices that operate via Bluetooth, others that function over Wi-Fi, and still others that use the Zigbee or Z-Wave protocols, the Evvr hub can talk to them all, simplifying your life the way a smart home device should. That goes for brands as well. A Honeywell thermostat, Yale smart lock and Philips lightbulbs will all connect seamlessly.
+
+**More Related Articles:**
+
+*   [Samsung Smart Refrigerators: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-refrigerator/)
+*   [What Is a Google Nest Learning Thermostat and What’s It Do?](https://www.homeserve.com/en-us/blog/buying-guide/google-nest-thermostat/)
+*   [How to Set Up a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/setup-ring-doorbell/)
+*   [Everything You Need to Know about Samsung Smart Microwaves: Features and Functionality](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-microwave/)
+*   [How Much Does It Cost to Install a Keyless Door Lock?](https://www.homeserve.com/en-us/blog/cost-guide/keyless-door-lock/)
+
+One of the significant benefits of such integration is that the hub allows you to set up routines that can create "scenes" or handle other automation tasks around the home. For example, you can have the system turn the heat down, start that slow cooker up and turn off all your lights when you leave in the morning. At night, it can set a soft lighting scene, turn on some relaxing music and unlock your door when you pull into the driveway. Of course, you would need all of the smart home devices that make such automation possible, but linking them all together through one central hub delivers a level of control that, up until recently, has been hard to achieve. Previously, you would need a lighting app to control your lights, and other device-specific apps to handle their respective functions. The hub also links up with smart home security systems. It’s compatible with Google Assistant, Siri and Alexa, which brings voice control to the entire system.
+
+"We are honored for our Evvr Hub to receive a CES Innovation Award," said Mr. Ge, the product manager of Evvr Home Automation. "This is a testament to the hard work our team put in to develop a truly unique and problem-solving product. Through our smart home products, we give people time back and make their lives easier, one simple action at a time."
+
+As with many CES product debuts, at this time, there is no word on when the Evvr hub will be commercially available or how much it will cost.
+
+_This is part of our CES 2023 coverage. Follow along here and on our social media channels:_
+
+*   [_Instagram_](https://www.instagram.com/homeserve_usa/)
+*   [_TikTok_](https://www.tiktok.com/@homeserveusa?is_from_webapp=1&sender_device=pc)
+*   [_YouTube_](https://www.youtube.com/@HomeServeUSA)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/qpoqCRPHjqE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Find Your iPhone or Android Smartphone Serial Number"></iframe>

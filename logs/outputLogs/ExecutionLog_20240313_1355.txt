@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------
+|ArticleName				|Title	|Author	|Date	|Image	|
+--------------------------------------------------------------------------
+|stucco-installation			|Pass	|Pass	|Pass	|Pass	|
+|siding-installation			|Pass	|Pass	|Pass	|Pass	|
+|paint-kitchen-cabinets			|Pass	|Pass	|Fail	|Fail	|
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|ArticleName				|Heading		|Paragraph		|Link			|List			|Image			|Video			|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|stucco-installation			|Pass: 10 Fail: 0	|Pass: 20 Fail: 0	|Pass: 6 Fail: 0	|Pass: 5 Fail: 0	|Pass: 2 Fail: 1	|Pass: 0 Fail: 0	|
+|siding-installation			|Pass: 5 Fail: 0	|Pass: 12 Fail: 0	|Pass: 10 Fail: 0	|Pass: 3 Fail: 1	|Pass: 3 Fail: 0	|Pass: 1 Fail: 0	|
+|paint-kitchen-cabinets		

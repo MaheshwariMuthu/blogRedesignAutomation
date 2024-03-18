@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Fix a Running Toilet﻿"
+headline: "3 Reasons Your Toilet Is Running — and How to Fix It"
+author: Mark Soto
+tags: ["post"]
+publishDate: 2022-05-24
+basePath: https://library.homeserve.com/m/
+heroImage: 697af6d037d6c0c/Blog-bigstock-White-Toilet-Bowl-In-A-Bathroo-265919794.jpg
+heroAltDescription: "white toilet bowl in bathroom when water is flushed"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Got a running toilet? Go catch it! Just kidding; Here's how to repair this pesky plumbing problem."
+articleAbstract: "Got a running toilet? Go catch it! Just kidding; Here's how to repair this pesky plumbing problem."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Fix a Running Toilet"
+  parent: Plumbing-How-To
+---
+  
+
+A running toilet can be pretty bothersome, but fixing it is nothing to stress out about. Toilets constantly run for various reasons, most often attributed to damaged or defective parts. Regardless of the cause, this issue is probably something you want to deal with now rather than later.
+
+**This May Also Interest You:** [**My Toilet Tank Is Spraying Water! How to Fix a Toilet Fill Valve**](https://www.homeserve.com/en-us/blog/how-to/fix-toilet-fill-valve/)
+
+A running toilet can waste several gallons of water per day, which can impact your water bills. The cost to replace damaged parts is much less than dealing with leaking water. Plus, some solutions only take a couple of minutes to implement. Here are three common reasons why toilets run and simple steps to fix the problem.
+
+Worn-Out Flapper
+----------------
+
+A worn-out flapper is one of the most common causes of a running toilet. When a flapper deteriorates over time, it stops sealing properly and lets water from the toilet tank into the toilet bowl. Fortunately, you can buy a flapper for quite cheap, and replacing it is even easier.
+
+First, turn off the water by turning the shut-off valve, which is typically next to the toilet. Turn clockwise to close. Flush the remaining water in the toilet tank. You can find the flapper at the bottom of the tank, as it covers the drain that allows water to flow into the bowl. To remove the flapper, unhook the flapper chain that connects to the toilet flush handle. Then, just disconnect the arms that hold the flapper to the overflow tube one by one.
+
+To ensure that you buy the correct flapper, take your old flapper to the store and show it to the store associate. An incorrect flapper might not seal properly, or it may not be the right fit for your tank. Buying the wrong one can be a waste of money as you will probably run into the same running toilet issue in the future. Similarly, the flapper chain on your new flapper might be too long. This can be fixed by cutting to shorten it. Attach the new flapper by following the removal steps in reverse order.
+
+Once installed, test it to ensure it opens and closes correctly. Turn the water back on and flush to confirm whether the toilet has stopped running.
+
+<img class="detail-image" src="https://library.homeserve.com/m/1342f941420bb2e1/Blog-GettyImages-1318468384.jpg" alt="The inside workings of a toilet bowl"/>
+
+Float Is Set Too High
+---------------------
+
+When a toilet produces a weak flush, you can adjust the float to a higher level so more water gets used. The problem is that if you set the float level too high, water can leak into the toilet bowl through the overflow tube. This essentially prevents the fill valve from turning off, leading to endless running.
+
+If this is what’s causing your toilet to run, you’ll just need to adjust the float ball or whatever controls the level to a lower height. Older toilets use a float ball, while modern toilets use floating cups. As a rule of thumb, the float should be at least 2 inches (5 centimeters) below the overflow tube.
+
+To adjust a float ball, you can use a screwdriver to adjust the screw that connects the float ball arm and fill valve. Loosen the screw turning it counterclockwise to lower it and tighten the screw turning it clockwise to raise it.
+
+Floating cups, which look like cylinders, are easily adjusted by using a release clip on the float to move it up and down. If it doesn’t have a release clip, it will have a stem on its side that can be rotated clockwise or counterclockwise to move.
+
+Just ensure you don’t move the float too low, or else you’ll end up with weak flushes.
+
+**More Related Articles:**
+
+*   [Condensation on Your Toilet? Don’t Sweat It](https://www.homeserve.com/en-us/blog/home-improvement/condensation-toilet-tank/)
+*   [How to Fix Your Toilet Handle in 6 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/fix-toilet-handle/)
+*   [What’ll a New Toilet Do to Your Bottom Line? Here’s What It Costs](https://www.homeserve.com/en-us/blog/cost-guide/toilet-installation/)
+*   [Time to Swap Seats? Here’s How to Install or Replace a Toilet Seat](https://www.homeserve.com/en-us/blog/how-to/replace-toilet-seat/)
+*   [Never Flush These 11 Things Down Your Toilet](https://www.homeserve.com/en-us/blog/home-improvement/things-to-never-flush-down-toilet/)
+
+Damaged Fill Valve
+------------------
+
+If you’ve adjusted the float levels several times and the toilet continues to run, your fill valve may be faulty. The fill valve is the connection between the toilet tank and the main water line, which allows the water to flow into the tank.
+
+If the fill valve is damaged and allows water to enter continuously, you need to replace it. As always, when working with plumbing fixtures, turn off the water before you start working. Empty the toilet tank by flushing the water down. Disconnect the water supply line that’s connected to the fill valve. Then, remove the fill valve by unscrewing the lock nut near the bottom of the tank and removing the entire assembly. Place it in the tub or sink since there may be water still left inside it, which you don’t want spilling all over the bathroom.
+
+There are universal fill valves that fit in just about any toilet, so ensure you buy the right kind. Take your new fill valve and install it near the bottom of the tank, following a reverse pattern with how you took the last one out. Tighten the lock nut below the tank to ensure the fill valve stays in place. Hook up the water line to the new fill valve.
+
+Then, just simply turn the water back on. Check that the fill valve refills the tank with water and stops when the water reaches the specific level.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/5j759jOLiwc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

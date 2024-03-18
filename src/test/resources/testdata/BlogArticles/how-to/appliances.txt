@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Appliances-How-To
+  parent: How To
+  title: Appliances
+permalink: false
+---

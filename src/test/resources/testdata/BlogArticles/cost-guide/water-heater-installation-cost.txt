@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How much does it cost to install Water Heater?
+headline: 'Water Heater installation costs: Tank vs. Tankless'
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment']
+publishDate: 2020-06-18
+basePath: /en-us/assets/images/blog/cost-guide/
+heroImage: install-cost-water-heater-01-full.png
+heroAltDescription: Cost to Install Water Heater
+metaDescriptions: Here's everything you need to know about water heater costs. Learn why installing a water heater can affect your home energy costs and make it more energy efficient.
+articleAbstract: Learn the info you need for installing a water heater and how it can help make your home more energy efficient.
+category: ['Cost Guide']
+
+eleventyNavigation:
+  key: How much does it cost to install Water Heater?
+  parent: HVAC-Cost-Guide
+---
+
+A few months ago, I wrote about my [water heater mishap](/en-us/blog/buying-guide/hot-water-heater-systems){target="_blank"}. (I know I’ll never forget that feeling of a freezing cold shower). I’m glad to report that my new water heater is still providing our family with hot showers and clean laundry - but I’m always on the lookout for the [signs it might need maintenance](/en-us/blog/home-improvement/water-heater-warnings-signs){target="_blank"}.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+
+During the frigid winter months, it’s more important than ever to check in on your water heater. If you do catch a problem early on, or realize you need an entirely new system, you can be proactive in receiving repairs (and won’t be caught in a mid-shower frozen surprise).
+
+From my experience, I learned that installing a water heater is half the battle - and the majority of the cost - of purchasing this essential system. Don’t settle for lukewarm showers and half-washed dishes. Here’s everything you need to know about the cost to install a water heater.
+
+## The tank vs tankless water heater debate
+
+The fact of the matter is, installation costs depend on the type of water heater you need or already have. Home Depot breaks down two of the [most popular choices](https://www.homedepot.com/c/cost_install_water_heater){target="_blank"} for homeowners:
+
+### Traditional water heater cost:
+
+Typically store between 20 and 80 gallons of water heated by gas or electric power. The average total cost for a new traditional water heater and installation is $1,308.
+
+### Tankless water heater costs:
+
+Gaining popularity in recent years, these units are also fueled by gas or electricity but only heat water as needed. They’re accepted as being more environmentally friendly, though they come with higher upfront costs. The average total cost for a tankless water heater is around $3,000.
+
+Total costs include everything from the unit itself, permits, materials, installation, labor costs and removal of the old unit. _Thumbtack_._com_ estimates the [national average cost](https://www.thumbtack.com/p/water-heater-installation-cost){target="_blank"} of installing a water heater ranges from $500 to $1,000.
+
+[Learn More About Home Warranty Plans Near You](/en-us/home-warranty/combo/){target="_blank"}
+
+## What’s your fuel source?
+
+Water heater installation costs aren’t just affected by the type of water heater chosen, but also by the fuel sources available. Both traditional and tankless heaters can use gas or electricity to warm up water. A gas water heater may cost $50-100 more to install than an electric tank water heater. Likewise, you can expect to pay [$500 more for a gas tankless water heater](https://www.thumbtack.com/p/water-heater-installation-cost){target="_blank"} than an electric water heater.
+
+If you need - or want - to switch fuel sources, you’ll most likely need to add some room to your budget. Going from an electric to gas water heater may require the [addition of a gas line](https://www.homewyse.com/services/cost_to_install_gas_line.html){target="_blank"}, that usually costs $500 to install, reports Homewyse<span>.</span>com.
+
+## Other factors to consider when installing a water heater
+
+The size, model, home layout and any additional - necessary - work can all contribute to the costs associated with installing a water heater. Traditional water heaters may require expansion tanks to minimize the risk of pressure damage to the plumbing system. _TheSpruce_._com_ explains this is mostly needed in [closed water supply systems](https://www.thespruce.com/water-heater-expansion-tank-information-2719063){target="_blank"}, so always factor that into your water heater costs.
+
+While tankless heaters come with higher upfront costs, they can require less maintenance in the long run and families can see [energy costs decrease](/en-us/blog/buying-guide/tankless-water-heater){target="_blank"} because water is heated on a need-only basis. Both kinds of water heaters have energy-efficient models available for more cost savings.
+
+Though each system comes with its own unique costs, instillation can also vary based on your needs and wants. Always make sure to do your research before deciding on the best water heater for your home and have a licensed professional install it.
+
+Being prepared before a water heater breaks or needs repair is always a smart move. See how [plans from TotalHome Warranty by HomeServe](/en-us/home-warranty/combo/){target="_blank"} can help you manage the costs of covered repairs.
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}

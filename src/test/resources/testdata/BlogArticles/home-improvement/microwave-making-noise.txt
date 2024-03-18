@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Microwave Making Noise: Here's Why and What to Do"
+headline: "Noisy Microwave? Here's What Some Common Sounds Mean"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-03-09
+basePath: https://library.homeserve.com/m/
+heroImage: 15c1f397ea01eb90/Blog-MicrowaveSerialNumber_MSchmitz_0001.jpg
+heroAltDescription: "Open door of microwave reveals interior of appliance as well as the tag where you can find the serial number and model number."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Unusual microwave sounds can range from mildly annoying to unbearably loud and are usually a sign that a repair is in order."
+articleAbstract: "It can be disconcerting if your microwave starts making weird noises. Unusual microwave sounds can range from mildly annoying to unbearably loud and are usually a sign that a repair is in order."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My Microwave Making Noise?"
+  parent: Appliances
+---
+  You go to heat up some leftovers in the microwave, only to be met with a loud noise coming from the machine. You’re sure it doesn’t make this sound every time. Why now?
+
+**This May Also Interest You:** [**How Much Does a Microwave Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/microwave/)
+
+Many of us rely on our microwaves to prepare meals in a rush, so it can be disconcerting if it starts making weird noises. Unusual microwave sounds can range from mildly annoying to unbearably loud and are usually a sign that a repair is in order.
+
+Noisy Microwave — What Gives?
+-----------------------------
+
+A noisy microwave is usually caused by a faulty internal component. The type of noise can help you figure out which part is likely to blame.
+
+### Buzzing
+
+Microwaves have an integrated cooling fan, which can get dirty and clogged over time. It can also dislodge and hit other parts of the microwave as it turns. It's normal for a microwave fan to make a low noise during operation, but a clogged fan often makes a buzzing sound. You may also notice a loud rattling sound if the fan is loose. You can usually tell if the cooling fan is causing the noise because it sounds louder at the rear of the microwave.
+
+### Clicking
+
+A faulty turntable motor can cause clicking sounds coming from your microwave. This motor powers the turntable that slowly rotates your food to ensure even cooking. Sometimes, a faulty motor causes the plate to stop turning altogether.
+
+### Grinding
+
+Grinding noises can sometimes signify a faulty turntable motor, but it's usually down to a defective stirrer motor. This motor moves a blade that distributes electromagnetic waves throughout the inside of the microwave to ensure even cooking. If the motor develops a fault, it must work harder, causing an annoying grinding noise. You might also notice that the microwave doesn't heat your food as evenly.
+
+### Humming
+
+A loud humming noise from your microwave is often a sign of a faulty or worn-out diode. The diode is responsible for converting AC to DC to supply the magnetron with power. If a defective diode is to blame for your microwave making noise, the microwave won't generate heat.
+
+### Screaming or Screeching
+
+A screaming or screeching sound that's hard to ignore is usually caused by a defective or worn-out magnetron. The magnetron is the component inside your microwave that produces the electromagnetic waves that cook your meal. It's common for magnetrons to wear out with age, especially if you use your microwave frequently.
+
+**More Related Articles:**
+
+*   [How to Install an Over-the-Range Microwave](https://www.homeserve.com/en-us/blog/how-to/install-over-the-range-microwave/)
+*   [4 Surefire Methods for Cleaning the Crud Out of Your Microwave](https://www.homeserve.com/en-us/blog/how-to/clean-microwave/)
+*   [Everything you need to Know about Samsung Smart Microwaves: Features and Functionality](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-microwave/)
+*   [How Much Do Samsung Smart Microwaves Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-microwave/)
+*   [GE Smart Microwaves: Smart Features and Functionality](https://www.homeserve.com/en-us/blog/home-improvement/GE-smart-microwave/)
+
+Why Does My Microwave Sound Like It's Going to Explode?
+-------------------------------------------------------
+
+Microwave magnetrons and diodes can make extremely loud noises when they're faulty, which might make it sound like your microwave is about to explode. It's safest to turn off the power supply and get it fixed before using it again, especially if you notice your microwave sparking or smoking. Sparks inside the microwave aren't always a sign of a dangerous fault, but they can damage internal components.
+
+What Does a Bad Microwave Magnetron Sound Like?
+-----------------------------------------------
+
+Bad microwave magnetrons can make various noises, and the noise is often very loud. Usually, faulty magnetrons make a high-pitched screaming or screeching sound. A magnetron may also make a loud buzzing or humming noise, depending on the issue.
+
+How Loud Should a Normal Microwave Be?
+--------------------------------------
+
+Normal microwaves make a slight humming noise while they're working. However, regular microwave sounds should be quiet and unobtrusive. If the noise is loud enough to annoy you or you hear grinding, clicking or screaming sounds, there's probably something wrong with one of the components.
+
+How Do I Stop My Microwave From Making Noise?
+---------------------------------------------
+
+Sometimes, turning your microwave off and giving it a good clean can stop it from making noise. If that doesn't work, the only way to stop your microwave from making noise is to find out which part is faulty and repair or replace it. Occasionally, cleaning the cooling fan can solve the problem if the noise is due to dirt or clogs obstructing the fan blades.
+
+It's generally best to call a professional contractor to diagnose and fix your microwave. Although it's possible to test the components with a multimeter and replace them yourself, it's a dangerous task if you don't know what you're doing. It can also be challenging to access if you have an integrated microwave.
+
+Microwave capacitors store significant amounts of energy, even if they've been unplugged for a long time. This charge can be high enough to deliver a potentially fatal electric shock if you touch live components accidentally. It's essential to properly discharge the capacitor before you start if you want to try fixing your microwave yourself.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

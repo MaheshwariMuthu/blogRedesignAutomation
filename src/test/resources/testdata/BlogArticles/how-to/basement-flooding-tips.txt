@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Here's How to Protect Your Home From Severe Flooding"
+headline: "No Water in the Basement! Here's How to Protect Your Home From Severe Flooding"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-06-11
+basePath: https://library.homeserve.com/m/
+heroImage: 148d9ed24e8a0eaa/Blog-GettyImages_73271468_Flood_RGB.jpg
+heroAltDescription: "man sitting on couch in flood"
+metaDescriptions: "Here's how to protect your basement from severe flooding and prevent flood damage."
+articleAbstract: "You might not live in a flood zone, but that doesn't mean you're immune to having your home damaged by a sudden rush of water. Here are some steps you can take to avoid such a catastrophe both outside and inside your home."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Protect Your House Against Severe Flooding"
+  parent: Interior-Home-How-To
+---
+  You may not live in a flood-prone area, but that doesn't mean that you’re immune to having your home damaged by a sudden rush of water. Storm drains can back up, flash floods can appear out of nowhere and extended periods of rain — even in areas that don't normally see such weather — can quickly create flood conditions that force water into your home. If you have a basement, it may be especially vulnerable.
+
+**This May Also Interest You:** [**How Much Does It Cost to Waterproof a Basement?**](https://www.homeserve.com/en-us/blog/cost-guide/basement-waterproofing/)
+
+Unless you live on a floodplain, you likely don't have flood insurance, so damage from any kind of flood event won't be covered. This means it's even more critical to take steps to protect your home from the ravages of out-of-control water.
+
+According to the [Federal Emergency Management Agency](https://www.fema.gov/flood-insurance) (FEMA), flooding is the most common and costly natural disaster in the United States. Just one inch of floodwater can cause up to $25,000 in damage. Here are some steps you can take to avoid such a catastrophe both outside and inside your home.
+
+Solve Flooding Issues Outside
+-----------------------------
+
+The next time it rains, grab an umbrella or a raincoat and head outside to look at the way water flows past your house. Does it get stopped in any particular areas? Are there trees, roots or other obstructions that are causing the water to flow towards your house instead of away from it? What does the grade of the land look like? What about your gutters? Does water flow out of them unobstructed and move away from your home?
+
+If you see any issues with the way rainwater is interacting with your yard or your home, take note and plan to fix them when the weather clears. If water tends to flow toward your home, then you'll want to improve the grading around it. This can be as simple as adding extra soil or rocks around your foundation so that water will have to travel uphill to get near your house – which it won't do.
+
+You can also consider digging simple pathways in the ground around your home to funnel the rainwater away and removing any obstructions that keep it from flowing freely. For a more advanced fix, you might want to consider installing a French drain, which is basically a pipe in the ground that will let water flow past your home instead of into it.
+
+If your gutter downspouts don't release a steady stream of water while it is raining, then it might be time to clean them out. A blocked gutter system can cause water to cascade over its edges and deposit water too close to your house. If the water from the gutters is pooling anywhere near your foundation, you'll want to either buy a splash block or a gutter extender, both of which can help channel rainwater away from where you don't want it.
+
+Another thing to investigate outside your home is how many impervious surfaces you have. Materials like concrete and asphalt cannot absorb rainwater; during a heavy downpour, they will simply shed the water, which can quickly lead to overflowing storm drains or too much volume heading toward your home. While you likely won't want to jackhammer up any major surfaces around your house, if there is old asphalt or concrete that needs replacing, consider doing so with soil or stone through which water can be absorbed or drained away. If you have the space, you may also consider putting in a rain garden, a sunken area of your yard planted with grasses and other plants that can absorb large quantities of water and keep the wet outside instead of in.
+
+Stop Indoor Flooding Damage
+---------------------------
+
+If your home is built on a slab, the surest way to protect it from flood damage is by elevating it, which can be extremely costly. Other, less costly (but still quite involved and expensive steps) include swapping out some of the materials in your home that are more prone to water damage. If you have wall-to-wall carpet, you may want to tear it up. Switch it out with area rugs over floors made from tile, vinyl or other water-resistant materials.
+
+You could also consider replacing simple drywall with more moisture-resistant materials like cement board, as well as swapping out wooden supports with decay-resistant wood. Windows and doors made from vinyl will hold up better from flooding than those made from wood as well.
+
+**More Related Articles:**
+
+*   [Hurricanes Happen: How Ready Is Your Home?](https://www.homeserve.com/en-us/blog/how-to/hurricane-prep/)
+*   [How Much Does a French Drain Cost?](https://www.homeserve.com/en-us/blog/cost-guide/french-drain/)
+*   [Au Revoir, Standing Water! How to Install a French Drain in 8 Steps](https://www.homeserve.com/en-us/blog/how-to/how-to-install-a-french-drain/)
+*   [Cleaning Gutters Doesn’t Have to Be Gut-Wrenching. Here’s a Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/gutter-cleaning/)
+*   [Sump Pumps: Everything You Need to Know](https://www.homeserve.com/en-us/blog/home-improvement/how-sump-pump-works/)
+
+Prevent Basement Flooding
+-------------------------
+
+If you have a basement, you can take even more steps to keep it from flooding and potentially causing thousands of dollars in damage.
+
+First, if you don't have one already, consider installing a sump pump. These water-removal devices should be installed at the lowest point in your basement, where you might already see water accumulate. The pump is installed in a hole, and when it senses water, it will kick on and pump the water outside your home. Because flooding can sometimes knock out power, be sure the sump pump you buy has a battery backup — or buy a generator that can keep it running.
+
+Fixing cracks in your foundation can also keep water outside where it belongs and prevent basement flooding. To do so, use hydraulic cement or an epoxy sealer; both can be found at your local home-improvement store. If your basement walls have ever shown any signs of weeping or accumulating water on their surface, you'll want to try painting them with a waterproof paint or sealer.
+
+Also, if your basement or crawlspace is fairly level with the ground, you could consider installing flood vents. These are openings that will allow water that reaches a certain height to simply flow through the space rather than accumulate. This prevents a buildup of pressure, which can damage foundation walls. It should also help keep the water level from climbing to the first floor of your home.
+
+Monitor the Situation
+---------------------
+
+Finally, thanks to smart home technology, you can buy sensors that can be installed in any area prone to flooding. These sensors constantly monitor the humidity levels around them and will send an alert to your smartphone to let you know when it thinks there is too much moisture in the air. Some monitors can also be placed on the basement floor and will activate the second water touches them. While this won't necessarily prevent a flooded basement, it can buy you valuable time to get items out of harm's way and turn off the power to any systems that might be harmed by contact with water.

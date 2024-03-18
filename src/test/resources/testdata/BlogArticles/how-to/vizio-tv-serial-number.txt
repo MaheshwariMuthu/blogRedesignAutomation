@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Vizio TV Serial Number"
+headline: "How Do I Find the Serial Number on My Vizio TV?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-15
+basePath: https://library.homeserve.com/m/
+heroImage: 36d2e8e3f1772a3d/Blog-GettyImages-1328642672.jpg
+heroAltDescription: "A flatscreen TV with a glowing display sits atop a mounted floating entertainment center in a dark living room"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Do you have your TV's serial number written down? Here's how to find your Vizio TV's serial number."
+articleAbstract: "You can be better prepared for problems with your TV if you have the serial number. Here's how to find the serial number on a Vizio TV."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Find a Serial Number on a Vizio TV"
+  parent: Appliances-How-To
+---
+  Turning on your TV only to find it's broken can ruin what should be a relaxing evening. If you call the manufacturer to see about a repair, more than likely, they’ll ask for the TV’s serial number.
+
+**This May Also Interest You: How to Find the Serial Number on Your Appliances and Gadgets**
+
+Thankfully, finding your Vizio TV’s serial number is easy.
+
+Why You Should Know Your TV’s Serial Number
+-------------------------------------------
+
+You might need to know your TV serial number to get customer benefits from Vizio. A serial might be needed to:
+
+*   Register a new TV
+*   Obtain warranty benefits if your TV stops working
+*   Get technical support from Vizio
+*   Give to the police if your TV is stolen
+
+Vizio offers benefits to customers with registered TVs. Benefits include information about recalls and easier access to customer support. A serial number is required if you need to use your warranty or need technical support.
+
+There are other reasons you might need your TV's serial number. Companies will require your serial number if you're purchasing an extended warranty or service plan. Some home insurance plans may require the serial number if you would like to insure your television. Finally, having the serial number can sometimes assist law enforcement if your TV is stolen.
+
+How to Find the Serial Number
+-----------------------------
+
+Your Vizio TV's serial number can be found on the:
+
+*   TV's original packaging
+*   Back of the TV set
+*   On-screen menu
+*   SmartCast mobile app
+
+Every Vizio TV has the serial number printed on the back of the TV set. This number is found in a white rectangle on the back of the TV. If you have the TV’s original box, it’ll also be printed there.
+
+**More Related Articles:**
+
+*   [When’s the Best Time to Buy a TV?](https://www.homeserve.com/en-us/blog/buying-guide/best-time-to-buy-tv/)
+*   [Can You Buy a TV That’s Not Smart?](https://www.homeserve.com/en-us/blog/buying-guide/non-smart-tvs/)
+*   [How Much Does TV Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/tv-repair/)
+*   [What’s the Samsung TV Upgrade Program and Is It Worth It?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-tv-upgrade-program/)
+*   [Watch What You’re Doing! How to Move Your Flatscreen TV Damage-Free](https://www.homeserve.com/en-us/blog/how-to/move-tv/)
+
+### Use the On-Screen Menu
+
+If your TV is mounted to the wall, you might not be able to see the back. You can also get the serial number from the TV's on-screen menu by following these steps:
+
+*   Press the menu button on your Vizio remote.
+*   Select “Help” or “System.”
+*   Select “System Information.”
+
+Your Vizio TV serial number will be listed as “TV SN.”
+
+### Use the SmartCast App
+
+Finally, if you have [Vizio's SmartCast app](https://play.google.com/store/apps/details?id=com.vizio.vue.launcher&hl=en_US&gl=US), you can use it to obtain the serial number. Turn on your TV, open the SmartCast app on your phone and select the name of your TV from the menu. Touch the gear icon to access the settings menu, select “System” and then “System Information” to see your serial number.
+
+What’s the Difference Between a Serial Number and a Model Number?
+-----------------------------------------------------------------
+
+A serial number identifies your individual TV. No two Vizio TVs have the same serial number. A model number, on the other hand, provides general information about the TV, including its features, how old it is and where it was manufactured. Many TVs have the same model number, so it's important not to confuse the model and serial numbers.<br><iframe title="YouTube video player" width="560" height="315" src="https://www.youtube.com/embed/qpoqCRPHjqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

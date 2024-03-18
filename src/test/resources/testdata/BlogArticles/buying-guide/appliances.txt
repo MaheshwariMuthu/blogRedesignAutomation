@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Appliances-Buying-Guide
+  parent: Buying Guide
+  title: Appliances
+permalink: false
+---

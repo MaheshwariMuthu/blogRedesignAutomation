@@ -1,0 +1,130 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Outdoor Faucet Repair: How to Fix a Leaky Outdoor Faucet"
+headline: "How to Fix or Replace a Leaky Outdoor Faucet "
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-02-13
+basePath: https://library.homeserve.com/m/
+heroImage: 20be6d7de04a4695/Blog-GettyImages-1168219284.jpg
+heroAltDescription: "an outside house bib or faucet mounted to a home s brick exterior shown slowly leaking"
+metaDescriptions: "A leaky outdoor faucet can lead to problems with your home's foundation. Learn the key elements to outdoor faucet repair and replacement to avoid costly mishaps."
+articleAbstract: "A leaky outdoor faucet can drive up your utility bills in a sneaky way, which is why it's critical to catch the leak early and reduce water waste — not to mention money waste. Whether you're handy around the house or hoping to become so, learning how to fix a leaky outdoor faucet is a useful skill that will help make you a more self-sufficient homeowner."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0919
+stickyDisplayText: Call today for a local plumber.
+lightboxCopy: Local plumbing pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/plumbers/hs/same_day
+  large:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner1.png
+      alt: Plumbing eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner2.jpg
+      alt: Plumbing eLocal Banner 2
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Fix a Leaky Outdoor Faucet"
+  parent: Plumbing-How-To
+---
+
+A leaky outdoor faucet can [drive up your utility bills](https://www.homeserve.com/en-us/blog/how-to/fix-common-plumbing-leaks/) in a sneaky way, which is why it's critical to catch the leak early and reduce water waste — not to mention _money_ waste. Whether you're handy around the house or hoping to become so, learning how to fix a leaky outdoor faucet is a useful skill that will help make you a more self-sufficient homeowner.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**Prevent Frozen-Pipe Problems by Knowing These Things Down Cold**](https://www.homeserve.com/en-us/blog/how-to/frozen-pipes/)
+
+If you find yourself struggling, you can always reach out to a professional but, until then, read on for our helpful guide on how to fix a leaky outdoor faucet.
+
+Identifying the Cause
+---------------------
+
+Before you can begin repairing a leaky outdoor faucet, you first need to identify the cause of the problem. An outdoor faucet might leak for any of several reasons. If you notice that your outdoor faucet leaks from the spout when the water is turned off, then the washer is likely the problem and needs to be tightened or replaced. If the faucet is leaking from around the handle while it's turned on, then it may be the stem packing that's leaking.
+
+Outdoor spigot leaks are often due to worn-out washers. Besides wear and tear of the washers and packing around the handle, other causes of outdoor faucet leaks can include damaged, frozen or clogged pipes. Pipes can become clogged over time due to mineral deposits and other buildup. [Frost damage to a pipe](https://www.homeserve.com/en-us/blog/how-to/frozen-pipes/) occurs if water in the pipe freezes, which causes the metal to expand and contract, and eventually cracks the pipe. That's why it's essential to turn outside taps off in the fall when you begin [winterizing your home](https://www.homeserve.com/en-us/blog/how-to/winterize-house/).
+
+If the leaking outdoor faucet in question is quite old, it may be more worthwhile to simply replace it rather than invest time and money in a repair.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+Associated Costs of Outdoor Faucet Repair 
+------------------------------------------
+
+Fixing a leaky outdoor faucet can cost very little or nothing if you're just tightening or replacing a loose washer. However, if you're going to replace the outdoor faucet entirely, the cost of replacing each part can add up. Replacing a spigot costs roughly $100, while a new brass hose bib with a shutoff valve can cost around $200. On average, the cost of repairing or replacing an outdoor faucet [ranges from $50 to $300](https://www.fixr.com/costs/outdoor-spigot-install). A hose bib by itself costs $5 to $10, so if you can handle it yourself, you'll likely save a lot of money.
+
+Outdoor Faucet Repair: Step-by-Step 
+------------------------------------
+
+Once you notice your outdoor faucet leaking and have established the source of the problem, it's time to get to work on a solution. Before you begin, make sure you have the necessary parts on hand, including:
+
+*   A replacement spigot (Take a look at the old spigot to ensure you choose the correct replacement; spigots are either male or female and vary in size.)
+*   Spray lubricant
+*   Thread-sealing tape
+*   Pipe wrenches
+*   A sturdy brush to remove corrosion from your pipes
+
+When you have all the materials ready, you can [begin the repair](https://www.youtube.com/watch?v=nZtaNiN8AeQ&feature=emb_logo) or replacement process. First, try tightening the packing nut behind the faucet handle with a wrench with a simple eighth-inch to quarter-inch turn. If that doesn't fix the leak, you may need to replace the washer. Here’s how:
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+1.  Locate the shutoff valve to cut the water supply to the outside tap.
+
+2.  Unscrew the packing nut.
+
+3.  Pull the valve stem out of the hose bib, holding steady with your hand on the faucet handle.
+
+4.  On the valve stem, you'll see a screw holding the faucet washer in place; remove this screw.
+
+5.  Swap out the washer with an identical replacement.
+
+6.  Replace the valve stem by pushing it back into the hose bib.
+
+7.  Tighten the packing nut on the hose bib until it's secure.
+
+8.  Turn your water supply back on.
+
+9.  Check for any remaining leaks.
+
+In the best case scenario, fixing a leaky outdoor faucet is a simple procedure that most homeowners can carry out with minimal effort, especially if the right tools are at the ready. In some cases, you'll need to replace your spigot entirely, especially if it's old and stripped or corroded.
+
+**More Related Articles:**
+
+*   [How to Repair a Leaky Faucet](https://www.homeserve.com/en/blog/2019/february/how-to-leaky-faucet-repair)
+*   [Tips for Fixing Leaky Faucets](https://www.homeserve.com/en-us/blog/how-to/fix-leaky-faucet/)
+*   [Replacing Faucets: What You Should Know](https://www.homeserve.com/en-us/blog/how-to/replace-faucet/)
+*   [How to Install a Kitchen Faucet](https://www.homeserve.com/en-us/blog/how-to/install-kitchen-faucet/)
+*   [3 Plumbing Do's and Don'ts](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-system-maintenance-tips/)
+
+### Outdoor Spigot Replacement: Step-by-Step
+
+1\. Locate the water shutoff valve and turn it clockwise to shut off your water supply.
+
+2\. Drain the remaining water from the pipe by opening the outdoor spigot.
+
+3\. Twist the spigot counterclockwise to remove it. Grip the pipe and spigot tightly, then pull them apart.
+
+4\. Use your firm-bristled brush to clean the threads.
+
+5\. Use your plumber's tape to seal the threads on the pipe.
+
+6\. Install the new spigot and use a wrench to secure it in place.
+
+7\. Turn the water back on and check for any remaining leaks.
+
+For leaks that occur due to cracks in the pipe from frost damage, it's advisable to simply contact a professional rather than taking on the task alone, unless you have a lot of experience dealing with plumbing repairs.
+
+_Investing in a plumbing repair plan from HomeServe can save you the trouble of fiddling with a leaking outdoor faucet yourself. Let the professionals handle the task of outdoor faucet repair so you can feel confident that your home is being properly serviced._
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nZtaNiN8AeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+

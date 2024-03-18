@@ -1,0 +1,102 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "5 Smart Kitchen Products from CES 2023"
+headline: "5 Smart Kitchen Products from CES 2023 That'll Make You Believe in the Future of Food"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2023-01-14
+basePath: https://library.homeserve.com/m/
+heroImage: 61b6c1be64e617dc/Blog-CES2023_IMG_3654.jpg
+heroAltDescription: "CES logo sign"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "What could actually get much smarter or more advanced about your kitchen? Check out these five smart home products from CES."
+articleAbstract: "What could actually get much smarter or more advanced about your kitchen, you ask? We’ve got five products straight from the CES 2023 that might make you think toward the future."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "5 Smart Kitchen Products from CES 2023 That'll Make You Believe in the Future of Food"
+  parent: Appliances
+---
+  __
+
+Some smart home technology seems like a no-brainer. Smart locks and doorbell cameras are common, even in the least-connected homes. And tools like smart assistants or smart thermostats are becoming more mainstream than not. Now, if you’re an early adopter, _all_ smart home devices might feel at your fingertips. But if you’re still learning how to be “smart” (like most of us), one area you likely haven’t thought about is a more technologically advanced kitchen.
+
+**This May Also Interest You:** [**5 CES Innovation Awards Honorees that Will Change How You Interact With Your Home**](https://www.homeserve.com/en-us/blog/home-improvement/ces-2023-awards/)
+
+When you think about it, the kitchen hasn’t changed much in decades. Sure, you’ve got sleeker, more energy-efficient appliances and a handful of novel gadgets (hello, air fryer), but for the most part, you’ve still got the basics: fridge, stove, microwave and dishwasher.
+
+So what could actually get much smarter or advanced about your kitchen, you ask? We’ve got five products straight from the CES 2023 show floor in Las Vegas that might make you think toward the culinary future.
+
+_<img class="detail-image" src="https://library.homeserve.com/m/2867e8fbfc13c888/Blog-CES2023_IMG_3624.jpg" alt="microwave with a clear screen cooks a burger"/>_
+
+Meta Materials Clear Microwave
+------------------------------
+
+In case you haven’t noticed, your microwave oven has a [mesh screen](https://products.geappliances.com/appliance/gea-support-search-content?contentId=17332) on the door. It’s fair if you haven’t thought about this screen before; most (if not all) microwaves on the market have some sort of screen as a safety feature to keep the microwave energy inside the box. According to [FDA safety standards](https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-oven-radiation#Microwave_Oven_Safety_Standard), only a certain amount of microwaves are allowed leak from a microwave oven during its lifetime.
+
+[Meta Materials](https://metamaterial.com/meta-materials-to-demonstrate-award-winning-tech-at-ces-2023-january-5-8-in-las-vegas/), with its [CES 2023 Innovation Awards-Honored](https://pr.report/XIq1fulD) product, NANOWEB, has eliminated the mesh look. The NANOWEB Transparent EMI Shielding Film does the same job as the traditional screen, just with _style_. The transparent conductive film has a number of applications, one of which is a crystal-clear microwave oven.
+
+OK, so maybe this one isn’t _totally_ revolutionary — a microwave with a clear view of the food still works like a microwave, after all — but it _is_ kinda cool. That said, you’re _definitely_ going to want to do the paper towel drape over your leftover spaghetti in this microwave; the clear screen means more to clean.
+
+_<img class="detail-image" src="https://library.homeserve.com/m/2f985db2b1c44176/Blog-SB01-17.jpg" alt="White Steambox lunchbox with bamboo top"/>  
+Steambox photo_
+
+Steambox Lunchbox
+-----------------
+
+A packed lunch may evoke memories of your school days — or it might just be a regular aspect of your adult life. If you take your lunch to class, the office or a job site, you might find yourself with limited options for a hot meal.
+
+Enter the Dutch invention, [Steambox](https://steam-box.com/), the first steam-powered, electric lunchbox. It works like this: Pack your food and fill up the water container. Then, when it’s eatin’ time, you’ll pour that water onto a heating element, where it’ll heat up your meal. Track your food’s status through the [app](https://steam-box.com/app).
+
+The Steambox Food Containers are dishwasher safe, and Steambox itself is rechargeable, heating up to three meals per charge. Steambox is available now in the U.S. and Canada for €249 (or about $268).
+
+_<img class="detail-image" src="https://library.homeserve.com/m/22ffaf5b5ea845df/Blog-CRUZ_Black_Smoothie_Pour_0176-1.jpg" alt="Person pours smoothie into a glass"/>_
+
+_Cruz photo_
+
+BlenderCap Portable Blender
+---------------------------
+
+The [BlenderCap by Cruz](https://www.cruzlife.com) debuted at CES 2023. It’s exactly what it says on the tin: a blender “cap” that attaches to wide-mouth water bottles (like a HydroFlask), effectively turning your to-go cup into a portable blender. Plus, it’s vacuum-sealed, meaning your frozen drink will stay cold.
+
+It’s pretty high-powered for a portable model. Boasting 300 watts, Cruz claims the blender can push through ice, sticky peanut butter and frozen fruit to make smoothies on the go. For comparison, a top-level, [heavy-duty kitchen blender](https://www.amazon.com/Ninja-Kitchen-BL770-Processor-Smoothies/dp/B00939I7EK/ref=asc_df_B00939I7EK/?tag=hyprod-20&linkCode=df0&hvadid=167151781903&hvpos=&hvnetw=g&hvrand=4929674902085791312&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017222&hvtargid=pla-274047567968&psc=1) uses about 1,500 watts of power, but a comparable, [single-serve-style blender](https://www.amazon.com/Hamilton-Beach-51131-Single-Serve-Raspberry/dp/B00QNUCV0I?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&th=1) (though not portable) uses only 175 watts.
+
+According to a press release, the BlenderCap is available for preorder now for $129. The website says the product will ship in March 2023.
+
+_<img class="detail-image" src="https://library.homeserve.com/m/31d8a5ed58993203/Blog-b4-Saskia-Clements_r1_screen_7772.jpg" alt="VersaWare mixing bowl product image"/>_
+
+_VersaWare photo_
+
+VersaWare Smart Appliances
+--------------------------
+
+This one’s a little too hot to handle — or, at least, one of the co-creators of the products, Creed McKinnon, is from the Netflix series of the same name. [VersaWare](https://www.versaware.io) is a collection of smart kitchen appliances focused on nutrition — namely, a cutting board and a mixing bowl.
+
+Now, you wouldn’t necessarily think of these two things as opportunities for smart tech, but VersaWare upgrades these seemingly simple tools with AI. As you make your meal, you scan the barcodes on the packaging of your ingredients. Then, the bowl or board measures the quantities, giving you a more accurate read of the nutritional breakdown of what you’re about to eat. The VersaWare appliances are Wi-Fi connected and work with a smartphone app to help you track your nutrition goals.
+
+<img class="detail-image" src="https://library.homeserve.com/m/4455cce5ca61767f/Blog-ad-Saskia-Clements_r1_7780.jpg" alt="VersaWare cutting board product image"/>
+
+_VersaWare photo_
+
+Still in development, the VersaWare Appliances are expected to go to full production this summer.
+
+<img class="detail-image" src="https://library.homeserve.com/m/3469e4edadf0ae59/Blog-CES-product-glass.jpg" alt="Oven product on a black background"/>
+
+_Brava photo_
+
+Brava
+-----
+
+The idea of cooking with light might be familiar to you if you had an [Easy-Bake Oven](https://easybake.hasbro.com) as a kid. But a new smart cooking device from [Brava](https://c212.net/c/link/?t=0&l=en&o=3748908-1&h=3959346288&u=http%3A%2F%2Fbrava.com%2F&a=brava.com), [Brava Glass](https://c212.net/c/link/?t=0&l=en&o=3748908-1&h=2653361886&u=http%3A%2F%2Fwww.brava.com%2Fbravaglass&a=www.brava.com%2Fbravaglass), is employing light to cook in a much bigger way than just a batch of brownies.
+
+Debuted at CES 2023, the Glass combines the power of cooking with light with a large window that gives the user a front-row seat to all the cooking action. The patented Pure Light Cooking technology makes the Brava (and the new entry, the Glass) the only appliance to cook with light. According to a [press release](https://ces.vporoom.com/2023-01-05-BRAVA-EVOLVES-SMART-HOME-TECH-WITH-DEBUT-OF-NEW-BRAVA-GLASS#assets_2429_126683-111), the Brava can cook a meal using less energy than an oven — no preheating required.
+
+Brava Glass has a number of cooking modes, including: Air-Fry, Roast, Rice Cook, Toast, Dehydrate and more. It also has multizone functionality, which lets you cook foods with varied cooking times and temperatures all at once.
+
+Brava Glass is priced at $1,995 and comes with a set of trays and pans. It is expected to ship early this year.
+
+_This is part of our CES 2023 coverage. Follow along here and on our social media channels:_
+
+*   [_Instagram_](https://www.instagram.com/homeserve_usa/)
+*   [_TikTok_](https://www.tiktok.com/@homeserveusa?is_from_webapp=1&sender_device=pc)
+*   [_YouTube_](https://www.youtube.com/@HomeServeUSA)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

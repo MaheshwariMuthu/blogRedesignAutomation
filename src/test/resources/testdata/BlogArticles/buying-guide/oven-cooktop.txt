@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to choose your Oven Cooktop
+headline: Choosing the right Oven/Cooktop for your kitchen
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2018-09-12
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: OvenHS.jpg
+heroAltDescription: Couple Cooking with Stovetop
+metaDescriptions: With so many brands, choosing the best oven or cooktop for your kitchen can be overwhelming. These tips can help you make an informed decision.
+articleAbstract: With so many brands, choosing the best oven or cooktop for your kitchen can be overwhelming. These tips can help you make an informed decision.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: How to choose your Oven Cooktop
+  parent: Appliances-Buying-Guide
+---
+
+::: blog-info
+The central hub of your best home-cooked meals, the kitchen range is a must-have appliance. You'll want to choose one that allows you to do your best cooking with ease and efficiency.
+
+Here's what to keep in mind when searching for the best range for your kitchen:
+
+## Consider your style preferences
+
+Before you go online or visit a store, make sure you're using the right lingo for what you want to purchase. A kitchen range is the combination cooktop and oven, common in many households. However, cooktops are also available as freestanding units or countertop built-ins, without the oven underneath. To that end, ovens can also be installed in the wall as an individual appliance, rather than combined with the cooktop.
+
+When you're looking for the combo, there are three types of ranges to select from: freestanding, slide-in and drop-in. Freestanding ranges are the most popular, especially as they're the easiest to install. They have finished sides, plus a backsplash panel that usually houses the control panel. These appliances can stand on their own or between cabinets. If you want more of a custom, built-in look, check out slide-in ranges. Drop-ins are similar to slide-ins, but they usually rest on a cabinet base and require some modification to make sure they fit properly.
+
+Other style preferences to choose from are the fuel types, including gas, electric and dual-fuel, which has a gas cooktop but an electric oven. This choice may depend on whether your kitchen has a gas line or just an electrical outlet or by your cooking preferences. Additionally, some ranges are available as single or double-oven units. You can also choose various finishes, knobs and grate materials to complement the rest of your kitchen.
+
+## Determine size and capacity
+
+Measure your space to make sure you choose a range that fits perfectly in your kitchen. Those dimensions include the width, depth and height of the opening, keeping in mind that the cooktop should be level with the cabinets and countertops. There also needs to be enough space to open the oven door and pull out racks.
+
+Consider how much cooking and baking you plan to do, as well as how many people you feed on a regular basis. This information will help you determine how much cooking space you need, including the number of cooktop burners and ideal oven size.
+
+[1]: /en-us/assets/images/blog/buying-guide/RangeForKitchen.jpg
+
+![Measure your Kitchen Space][1]
+
+## Check out the features
+
+Consider which features are essential for your cooking needs, and which extra features are must-haves. For instance, some homeowners pay extra for convection cooking, which uses an internal fan to improve heat distribution and can reduce cooking times. Some modern ranges even have smart features, such as wireless capabilities to control the appliance from a smartphone or connect to smart home products for voice-controlled cooking.
+
+Other potential features include:
+
+* Timed cooking and delayed start
+* Self-cleaning
+* Easy-to-use control settings
+* Double ovens
+* Hot surface warning lights
+* Warming drawers
+* Expandable elements
+* Range hoods
+* Variable broil
+
+Your budget may dictate which features you can afford in your new your kitchen range. Otherwise, choose the features that best suit your cooking style.
+
+## Weigh the pros and cons
+
+If you end up with a few seemingly perfect options, try making an honest list of the benefits and drawbacks of each range. If that effort fails to distinguish a winner, reach out to your family and friends for advice. You can also check out [online consumer reviews](https://www.cnet.com/topics/ovens/best-stoves/){target="_blank"} to see what the experts and other consumers have to say.
+
+Keep in mind that investing in new appliances, plus maintaining them properly, is a smart way for homeowners to keep their kitchens updated and prevent issues from consistent use.
+
+Being prepared before home repair issues arise is always a good strategy. Plans from HomeServe can help with the costs of covered repairs. [See what plans](/en-us/home-warranty/appliances/){target="_blank"} are available in your area.
+:::

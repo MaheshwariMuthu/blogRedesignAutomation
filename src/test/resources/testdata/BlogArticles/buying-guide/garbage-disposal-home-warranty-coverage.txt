@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Does a Home Warranty cover Garbage Disposal?
+headline: Is a Garbage Disposal covered in a Home Warranty?
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2019-08-23
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: FoodInSinkHS.jpg
+heroAltDescription: Fix a Kitchen Sink
+metaDescriptions: Having a garbage disposal is convenient until there‚Äôs a breakdown. Learn how to troubleshoot any issues.
+articleAbstract: Garbage disposals are convenient – until they break. Having a home warranty in place may help cover the repairs.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Does a Home Warranty cover Garbage Disposal?
+  parent: Appliances-Buying-Guide
+---
+
+I've always found the garbage disposal to be oddly fascinating. It's not complicated from a mechanical perspective - made up of just a motor, a turntable, some blades and a "grinding chamber" fitted under the sink, between the drain and the main pipe. But it literally obliterates all the random food waste that makes its way into the sink! _Ingenious invention IMO_.
+
+[1]: https://www.homeserveusa.com/totalhomewarranty
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+:::: blog-info
+So having one is awesome, until it breaks, and your kitchen sink fixture turns into a hot zone of food junk and potential clogs. Then the disposal isn't fascinating or effective, it’s now yet another thing as a homeowner you have to deal with. But if you have a  [home warranty](/en-us/home-warranty/combo/){target="_blank"} in place, you may be in luck. Let's take a look:
+
+## Dealing with common disposal issues
+
+Sometimes it won't be necessary to worry about bringing the professionals in because you can cure whatever's ailing your garbage disposal with a little bit of DIY cleverness and elbow grease.
+
+**SAFETY NOTE: Before you start, make sure the disposal is [turned off and unplugged](/en-us/blog/how-to/fix-garbage-disposal){target="_blank"} - and if you really want to be safe, turn off the breaker that controls power for the appliance.** Once you're safely de-powered, check for the following:
+
+::: list-square
+* If a major power surge tripped the breaker connected to the disposal, the switch will already be in its off position when you go to the breaker box. Simply flip that switch back to its normal position.
+* Then, look at the reset button on the bottom of the disposal. If it's sticking out, [as it will be after any power surge](https://www.doityourself.com/stry/garbage-disposal-troubleshooting){target="_blank"}, push it back in, as _DoItYourself_._com_ suggests. After that, plugging the unit back into the wall and turning it on should fix the issue.
+:::
+
+[Learn More About Home Repair Plans Near You](https://www.homeserveusa.com/totalhomewarranty){target="_blank"}
+
+If the motor is trying to function but the blades won't turn, there might be a clog:
+
+::: list-square
+* Use a hex wrench or a short wooden dowel to move the flywheel and get the blades turning again.
+* Afterward, you should be able to see any obstruction. Use a pair of pliers to delicately grasp the clogged material and pull it out. To do this most effectively you might need to remove the unit from under the sink.
+:::
+
+[Certain leaks](/en-us/blog/home-improvement/garbage-disposal-leaking){target="_blank"} can also be easily solved:
+
+::: list-square
+* If the top is leaking, _H2ouse<span>.</span>org_ instructs you to detach the disposal unit and [check for any worn-down plumber's putty](https://www.h2ouse.org/garbage-disposal-leaking-from-bottom/){target="_blank"} on the pipe. Scrape it away, put down some new putty, and reattach the unit.
+* A leak at the disposal's bottom means it probably needs to be replaced. If you're fairly handy, you can probably handle installment of a new disposal on your own - just follow the directions closely and don't rush.
+:::
+
+## Addressing more serious problems
+
+If the quick fixes above don't solve your garbage disposal's problem, you'll need to call in a professional.
+
+Disposals are generally included in home warranty plans, and [Total Home Warranty](/en-us/home-warranty/combo/){target="_blank"} from HomeServe is no exception. If you have the Systems Plan or Combo Plan, you're all set - it covers all components and parts of the garbage disposal for up to $1,500 each year, spread across any number of service calls.
+::::
+
+See how [plans from TotalHome Warranty](https://www.homeserveusa.com/totalhomewarranty/plans-pricing){target="_blank"} by HomeServe can help with the costs of covered appliance and home system repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}

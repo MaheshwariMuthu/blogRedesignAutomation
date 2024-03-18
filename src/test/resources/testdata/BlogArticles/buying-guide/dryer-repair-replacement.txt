@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Should You Repair or Replace Your Dryer?"
+headline: "Should You Repair or Replace Your Clothes Dryer?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-10
+basePath: https://library.homeserve.com/m/
+heroImage: 47993d3f759ae2df/Blog-Dryer_MSchmitz_0010.jpg
+heroAltDescription: "dryer"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "When your dryer breaks, should you repair or replace it? This guide can help you decide."
+articleAbstract: "It can also be difficult trying to figure out whether to repair or replace your dryer when it breaks. Luckily, learning a bit about dryers can help make such decisions less confusing and may even save you some money."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Should You Repair or Replace Your Clothes Dryer?"
+  parent: Appliances-Buying-Guide
+---
+  Major appliances like refrigerators, dishwashers and washing machines make our lives much easier, but the unfortunate truth is they don’t last forever. This is especially true when it comes to the real hero of the home appliance family: the clothes dryer.
+
+**This May Also Interest You:** [**Everything You Need to Know About Dryer Repair Costs**](https://www.homeserve.com/en-us/blog/cost-guide/dryer-repair-cost/)
+
+A broken dryer can suddenly leave you with loads of soggy clothes. Not a major issue if you have an outdoor line on which to hang them, but if not, it can be a modern mini-crisis. It can also be difficult to figure out whether to repair or replace your dryer when it breaks. Luckily, learning a bit about dryers can help make such decisions less confusing and may even save you some money.
+
+How Long Does a Dryer Last?
+---------------------------
+
+Clothes dryers typically have a life expectancy of around 10 to 15 years. But, the truth is, even if your dryer is working perfectly, if it’s over 10 years old, you should be prepared to replace it at some point in the near future. Another thing to consider is that hanging on to older dryers can actually cost you more money in the long run than newer, more energy-efficient Energy Star-rated models.
+
+Repair or Replace? How to Decide
+--------------------------------
+
+Determining whether your dryer should be repaired or replaced can be tricky. And while the idea of dumping your finicky older appliance and replacing it with shiny, brand-new one can be appealing, there are definitely some perks to having your dryer repaired if possible.
+
+For one, throwing out an appliance takes up space in landfills. Many electronic appliances contain materials that can negatively impact the environment. Furthermore, the replacement cost of a dryer can get expensive, with an average price tag of around $500 to $800 (CAD 640 to CAD 1,025). Fortunately, there are some guidelines that can help you determine whether you should repair or replace your dryer.
+
+### Diagnose the Issue
+
+You don’t have to be a professional appliance repair technician to understand the basics of a clothes dryer. In many cases, dryer issues can be surprisingly simple and inexpensive to fix. In fact, a little know-how can go a long way when it comes to appliance repair. For example, clogged vents, broken drum belts and worn-out drum rollers are all common dryer issues that require easy, inexpensive repairs that can be done by even the most novice DIYer — saving you the cost and hassle of calling in a repair company.
+
+**More Related Articles:**
+
+*   [Here’s Why Your Clothes Dyer Is Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/dryer-making-noise/)
+*   [How Much Does a Clothes Dryer Cost?](https://www.homeserve.com/en-us/blog/cost-guide/clothes-dryer/)
+*   [Need to Vent? Here’s How to Install a Dryer Vent](https://www.homeserve.com/en-us/blog/how-to/install-dryer-vent/)
+*   [How Much Does It Cost to Install a Dryer Vent?](https://www.homeserve.com/en-us/blog/cost-guide/dryer-vent-installation/)
+*   [Here’s How to Change the Direction the Door Swings on Your Washer and Dryer](https://www.homeserve.com/en-us/blog/how-to/reverse-washer-dryer-door/)
+
+### Go by the ‘50 Rule’
+
+It goes without saying that you may not always be able to repair your dryer yourself — even if you are a seasoned DIYer. If you’re unsure about whether or you should pay a technician to repair your dryer or start over with a new one, a good rule of thumb to follow is the so-called “50 rule.”
+
+The “50 rule” states that if the appliance has reached 50% of its life expectancy and repairs cost more than 50% of the cost of a new one, then you may want to consider replacing it.
+
+### Learn the Warning Signs
+
+Apart from the age of your unit, there are some tell-tale signs that your clothes dryer is ready to book a room at the dirt motel. Clothes taking an unusually long time to dry — especially heavier items like blankets and towels — might be an early sign of dryer failure. Similarly, if your clothes come out of the dryer feeling like they’ve come out of a pizza oven (i.e., _hot_), it could mean that your dryer is in danger of catching on fire. And that’s a sure sign that you should start shopping for a new unit.
+
+### Boost Your Dryer’s Lifespan
+
+While repairing and replacing appliances like dryers is part and parcel of owning a home, there are certain things you can do to extend their working lives. For example, cleaning the lint trap after every load will keep your dryer from overheating. Then, make sure that your dryer hose and vent are cleaned on a semi-regular basis. While there’s no hard and fast rule as to how often you should clean your vent hose, cleaning it too often is definitely better than cleaning it too little. Keeping a clean dryer is one of the best ways to ensure that it continues working properly and efficiently for the entirety of its lifespan.
+
+Face the Music — But Maybe Not Quite Yet
+----------------------------------------
+
+Alas: “Nothing gold can stay.” That includes your trusty clothes dryer. But even though it won’t last forever, that doesn’t mean it’s ready to call it quits just yet. If your dryer is acting up, give some basic troubleshooting a go. Beyond that, keep in mind the “50 rule.” Also, make sure to conduct regular lint trap and vent hose cleanings. If your dryer seems to have some life left yet, then congrats! You can spend your hard-earned money elsewhere ... at least for now.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,46 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "CES 2024: Wi-Fi-Enabled Electric Grill Cooks Without Flames ... But It's Still Fire!"
+headline: "CES 2024: Wi-Fi-Enabled Electric Grill Cooks Without Flames ... But It's Still Fire!"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2024-01-06
+basePath: https://library.homeserve.com/m/
+heroImage: 171aa0a8280bc298/webimage-Current-Model-G-Dual-Zone-Electric-Grill-closeup.png
+heroAltDescription: "Current Model G Dual-Zone Electric Grill closeup"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "No more charred chicken: Current Backyard's smart, all-electric grill provides a new grillin’ experience to newbies and pros alike — all with no active flame."
+articleAbstract: "No more charred chicken, raw ribs or burned brisket: Current Backyard's smart, all-electric grill provides a brand-new grillin’ experience to newbies and pros alike — all with no active flame."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "CES 2024: Wi-Fi-Enabled Electric Grill Cooks Without Flames ... But It's Still Fire!"
+  parent: Appliances
+---
+  No more charred chicken, raw ribs or burned brisket: [Current Backyard](https://www.currentbackyard.com)’s smart, all-electric grill provides a brand-new grillin’ experience to newbies and pros alike — all with no active flame.
+
+**This May Also Interest You:** [**7 Outdoor Grill Maintenance Tips**](https://www.homeserve.com/en-us/blog/how-to/outdoor-grill-maintnenace/)
+
+Electric grills often get a bad rap for their low cooking temperatures when compared to gas or charcoal options, but Current Backyard — which touts itself as the world’s first electric outdoor brand — is seeking to change the electric grill game with its contenders. The Current Model G Dual-Zone Electric Grill and Current Model G Electric Griddle by Current Backyard were honored with a [2024 Innovation Award](https://www.ces.tech/innovation-awards/honorees/2024/honorees/c/current-model-g-electric-grill-griddle.aspx) from CES (formerly known as the Consumer Electronics Show) for their smart, safe and sustainable grilling solution.
+
+Here’s how it works: The patented, no-flame grill top preheats in 10 minutes, and there are two temperature zones for recipes with varied cooking temps. Current Backyard claims theirs is the only 110-volt electric grill that heats up to 700 degrees Fahrenheit — and yet, the National Fire Prevention Association approved it for use on patios and balconies due to its lack of flame. The company also claims its grills have zero emissions at the point of use, “saving hundreds of pounds of CO2e per year versus gas and over a thousand pounds of CO2e versus charcoal,” according to a [news release](https://www.prnewswire.com/news-releases/current-backyards-smart-enabled-electric-grill-selected-as-a-ces-2024-innovation-awards-honoree-301991056.html#:~:text=Current%20Backyard%20will%20introduce%20a,to%20consumers%20in%20February%202024).
+
+There’s also the Current Model G Electric Griddle, which has similar functionality, all with the convenience of a flattop. It heats up to 600 degrees Fahrenheit across the entire cooking surface.
+
+Both models are Wi-Fi enabled and integrated with Current Backyard’s smartphone app. Through the app, you can control your grill or griddle manually or using one of three cooking modes. If you prefer not to stand around waiting for your grill to come to temperature, the app can send you a notification when it’s ready for cooking, and also when it’s cool enough to put the cover back on.
+
+**More Related Articles:**
+
+*   [Outfit Your Outdoor Space for All-Weather Entertainment](https://www.homeserve.com/en-us/blog/home-improvement/post-covid-outdoor-living-space/)
+*   [Hot Tips! 5 Backyard Fire Safety Suggestions](https://www.homeserve.com/en-us/blog/how-to/fire-pit-safety/)
+*   [How Much Dough Will It Cost to Install an Outdoor Brick Pizza Oven?](https://www.homeserve.com/en-us/blog/cost-guide/build-brick-pizza-oven/)
+*   [Add Some Pizzazz to Your Outdoor Space: How to Build a Brick Pizza Oven](https://www.homeserve.com/en-us/blog/how-to/build-brick-pizza-oven/)
+*   [How Much Does a Patio Heater Cost to Rent or Buy?](https://www.homeserve.com/en-us/blog/cost-guide/patio-heaters-cost/)
+
+The grill and griddle come in a variety of customizable options, including cart- and cabinet-style configurations. Current Backyard says assembly is a “snap” (quite literally) and should take less than 30 minutes with app-guided setup.
+
+Current Backyard’s smart-enabled electric grill received a CES 2024 Innovation Awards nod in the Smart Home category. The [CES Innovation Awards](https://www.ces.tech/news/press-releases/ces-press-release.aspx?NodeID=e4009b7b-7d58-408f-9bbe-4b28feaeb312) is a competition put on each year by the Consumer Technology Association that honors products in 29 categories for “outstanding design and engineering.” This year, competition was stiff; CTA reported receiving over 3,000 product submissions.
+
+“The significance of being recognized as a CES 2024 Innovation Awards Honoree by the Consumer Technology Association is a major accomplishment for a brand that is still in its pre-launch stage,” said Tom Penner, CEO of Current Backyard.
+
+Current Backyard models Current Grill and Current Griddle are [available for purchase now](https://www.currentbackyard.com). They’re expected to ship in February. The Grill model retails for $899, and the Griddle model retails for $799. There’s an additional fee for the cabinet versions of each model.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

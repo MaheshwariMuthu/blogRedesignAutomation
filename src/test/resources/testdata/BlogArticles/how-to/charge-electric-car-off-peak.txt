@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Charge Your EV During Off-Peak Hours"
+headline: "How to Charge Your EV During Off-Peak Hours"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-09-07
+basePath: https://library.homeserve.com/m/
+heroImage: 646d81f9676c3b7c/Blog-GettyImages-1415059907.jpg
+heroAltDescription: "Wall mounted car charging unit to supply power to electric vehicles with copy space on house wall"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Knowing the cheapest time to charge an electric car at home can help you save money. Discover how to take advantage of the best EV charging rates."
+articleAbstract: "The cost of electricity fluctuates throughout the day, and understanding these fluctuations allows you to take advantage of affordable off-peak rates. So, when is the best time to charge an electric car? Here's your guide."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Charge Your EV During Off-Peak Hours"
+  parent: ElectricVehicles-How-To
+---
+  Purchasing an electric vehicle can save significant money on fuel. According to EnergySage, [driving an EV costs](https://news.energysage.com/electric-vehicle-charging-cost-vs-gas/#:~:text=Across%20all%20EV%20manufacturers%2C%20the,mile%20is%20about%205%20cents.) around 5 cents (CAD 0.07) per mile, compared to 14 cents (CAD 19) per mile for a regular gasoline-powered car. However, you could save even more by knowing the cheapest time to charge an electric car at home.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install an Electric Car Charging Station?**](https://www.homeserve.com/en-us/blog/cost-guide/ev-charging-station-installation/)
+
+The cost of electricity fluctuates throughout the day, and understanding these fluctuations allows you to take advantage of affordable off-peak rates. So, when is the best time to charge an electric vehicle?
+
+What's the Cheapest Time to Charge an EV at Home?
+-------------------------------------------------
+
+The cheapest time to charge an electric car is during off-peak hours. Electricity typically costs more during periods of high demand on the grid — for example, grids experience higher demand at times when most people arrive home from work. Therefore, utility companies charge more for electricity during high-demand hours and less during quieter periods to encourage people to spread the pressure on the grid.
+
+Utility companies must also spend more to keep up with demand for electricity during on-peak hours. Electricity is a finite resource, so companies often have to operate additional plants to generate enough electricity to meet the demand. Generating this additional energy costs money, so utility companies pass on these costs to their customers in the form of higher on-peak rates.
+
+[Which hours are off-peak](https://www.cnet.com/home/kitchen-and-household/yes-you-can-actually-save-money-by-using-electricity-at-these-specific-times-of-day/) depends on where you live. Generally, electricity costs less overnight, so you could save significant money by charging your electric car while you sleep. However, there are substantial variations between regions. For example, off-peak hours in the Mountain time zone run from 11 p.m. to 8 a.m. Meanwhile, homeowners in the Central time zone could save by charging their EVs between 5 p.m. and 1 p.m. the next day.
+
+How Do You Take Advantage of Off-Peak Rates for Electric Car Charging?
+----------------------------------------------------------------------
+
+The simplest way to take advantage of off-peak rates for electric car charging is to time your charging sessions for off-peak hours. Your utility company can advise you of the most affordable times to charge your electric vehicle. Setting reminders on your phone can help you remember when to plug your EV into your home charging station.
+
+It's worth checking whether you can enroll in an off-peak EV charging program to reduce the cost of electric car charging. Some areas operate incentive schemes to encourage local residents to charge their cars during off-peak hours to prevent overloading the grid. For example, residents in Concord, Massachusetts, can receive up to $10 credit every month by enrolling in the [EV Miles Program](https://form.jotform.com/213434757285159) and following the rules around charging times.
+
+**More Related Articles:**
+
+*   [Electric Car Charging at Home: Everything You Need to Know](https://www.homeserve.com/en-us/blog/how-to/charge-electric-vehicle/)
+*   [How Will Installing an Electric Vehicle Charging Station Impact My Electric Bill](https://www.homeserve.com/en-us/blog/home-improvement/electric-car-charging-cost/)
+*   [Top 5 Home EV Chargers](https://www.homeserve.com/en-us/blog/buying-guide/best-ev-chargers/)
+*   [How Much Does Electricity Cost?](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/)
+*   [How to Take Advantage of Time-of-Use Rates and Lower Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/save-electricity-during-peak-hours/)
+
+Can a Smart Charger Help You Take Advantage of Off-Peak Rates?
+--------------------------------------------------------------
+
+Smart EV chargers can make charging your EV during off-peak hours more convenient. Unlike regular EV chargers, smart EV chargers have integrated Wi-Fi connectivity that lets you control your charger from an app or smart hub.
+
+Most smart EV chargers allow you to schedule the best times to charge your EV and how much charge to deliver. Therefore, you can set your preferred charging times to off-peak hours, and your charger will charge your car automatically during these periods.
+
+Smart EV chargers have other advantages that could make charging your electric vehicle more convenient. Many models can communicate with the electricity grid to adjust the charge delivered depending on current demand. This feature can reduce the risk of overloading the grid.
+
+Other Ways to Save Money on Electric Car Charging
+-------------------------------------------------
+
+There are other things you can do to charge your EV electric car as cheaply as possible at home and when out and about:
+
+*   Use free charging stations at public venues.
+*   Take advantage of free or low-cost charging offers from EV manufacturers.
+*   Install solar panels to charge your EV at home for free.
+*   Pay for on-the-go charging at service stations per minute instead of per kWh.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2K4e4feg7_8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="EV Charger Installation | 4 Things to Consider"></iframe>

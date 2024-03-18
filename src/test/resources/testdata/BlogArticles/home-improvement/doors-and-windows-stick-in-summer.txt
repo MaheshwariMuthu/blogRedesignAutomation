@@ -1,0 +1,118 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Do My Doors and Windows Stick in the Summer?"
+headline: "Sticking Point: Why Do My Doors and Windows Stick in the Summer?"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2023-09-14
+basePath: https://library.homeserve.com/m/
+heroImage: 5dee8dc0191f296f/Blog-OpenWindow_MSchmitz_0001.jpg
+heroAltDescription: "opening the window to a balcony"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Have you noticed your windows and doors sticking this summer? Here are five ways to fix this common issue."
+articleAbstract: "Have you noticed your windows and doors sticking this summer? Here are five ways to fix this common issue."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Sticking Point: Why Do My Doors and Windows Stick in the Summer?"
+  parent: Interior-Home-Home-Improvement
+---
+  With summer’s sunny days and soaring temperatures, you might have noticed your doors and windows becoming increasingly stubborn, refusing to open or close as smoothly as they do in cooler months. Read on to discover why this happens and learn five of the best ways to fix it to get your doors and windows operating smoothly again.
+
+Why do my doors and windows stick in the summer?
+------------------------------------------------
+
+The two primary reasons your doors and windows tend to stick in the summer is thermal expansion and humidity. Thermal expansion is the process where materials like wood, vinyl, and metal (common materials used for doors and windows) expand when they are heated and contract when they cool. As a result, windows and doors are prone to expanding during the heat of summer, making them fit more tightly in their frames and causing them to stick.
+
+Humidity refers to the amount of water vapor present in the air. In the summertime, air becomes more humid because warmer temperatures allow air to hold more moisture. Materials like wood absorb moisture from their surroundings, so when humidity levels rise they can absorb the airborne moisture and cause them to swell and stick.
+
+The effect of these environmental influences can be further exascerbated by other conditions like loose screws, unlubricated hinges, and dirt or grime around the frame or tracks. The hinges and striker plates on your doors experience a lot of wear and tear through repeated use, often leading to their screws becoming loose over time. When this happens, the door can get thrown out of alignment and cause it to make contact with the frame and stick. If the doors has expanded due to heat or humidity, the resulting sticking can become even more pronounced. High humidity can also cause the lubrication in the door’s hinge pins to degrade more rapidly and make the door more difficult to operate. Builtup dirt and grim around door and window frames can lead to sticking year-round, but higher humidity levels can cause it to clump together and become even more problematic.
+
+Finally, chipped paint can also contribute to sticking since moisture can accumulate in these areas. Paint acts as a protective layer for doors and windows, safeguarding them against moisture absorption. If the paint on your doors or windows is chipped, this could expose the underlying material to the humid air and lead to moisture absorption and swelling. Additionally, the uneven surface created by cracking paint can lead to increased friction between the door or window and its frame. The friction, especially when combined with the swelling from absorbed moisture, can contribute to sticking.
+
+How Do I Fix It?
+----------------
+
+### Dehumidify Your Home
+
+Even though you can’t do anything about the outdoor humidity levels, you can take the following steps to reduce the humidity levels in your home to help reverse the swelling on your wooden doors and windows.
+
+#### Things You’ll Need:
+
+*   Hydrometer
+*   Dehumidifier (if necessary)
+
+1.  **Test the humidity.** Verify that the humidity in your home is above 60% (the point where windows and doors will start to swell) by measuring it with a hydrometer.
+2.  **Dehumidify.** Start by running your air-conditioner for a time to see if that is sufficient to bring the humidity down. Along with reducing the humidity, running the air-conditioner can also help reduce the swelling due to thermal expansion. If the air-conditioner isn’t sufficient, or your home doesn’t have an air-conditioning unit, purchase a dehumidifier that’s large enough to accommodate the square-footage of your home. Run the dehumidifier and asses whether that fixes the sticking after a few days.
+
+### 2\. Tighten Door Screws & Lubricate Hinge Pins
+
+#### Things You’ll Need
+
+*   Electric drill or impact driver
+*   Larger screws, wood filler, or toothpick and wood glue (if necessary)
+*   Spray lubcricant and rag (if necessary)
+
+1.  **Check the screws.** Open and close the door and monitor the hinges to see if any screw heads pop out of the hinge bracket.
+2.  **Tighten the screws.** Using a screwdriver, electric drill or impact driver with a bit compatible with the screw head, tighten any loose screws. Be careful not to overtighten as it could strip the screw hole.
+3.  **Replace stripped screws.** If any screws are just spin in place and don't tighten, they may be stripped. If that’s the case, you can try replacing the screw with a larger screw that will grip fresh wood in the frame. Alternatively, you can fill the hole with wood filler or a wooden toothpick and wood glue. Let the filler or glue dry, then reinstall the original screw.
+4.  **Check the striker plate.** With the door opened, assess the striker plate and tighten down or replace any loose screws.
+5.  **Lubricate (if necessary).** While you’re opening and closing the door, listen for any squeaking coming from the door hinge that can indicate it needs to be lubricated. If they do, spray a silicone-based lubricant or WD-40 into the top of the hinge pin. Move the door back and forth a few times to help distribute the lubricant, then wipe up any excess with a rag.
+
+### 3\. Repair Chipped Paint
+
+#### Things You’ll Need
+
+*   Damp cloth
+*   Paint scraper, putty knife, or wire brush
+*   200-grit sandpaper
+*   Primer
+*   Paint
+*   Paintbrush
+
+1.  **Clean the area.** Use a damp cloth to clean the area around the chip. Ensure you remove any dust, dirt, or grime, as these can interfere with the new paint adhering to the surface. Let the area completely dry.
+2.  **Remove loose paint.** Use a paint scraper, putty knife, or a wire brush to remove any loose or flaking paint around the chipped area. Be careful not to damage the underlying material.
+3.  **Sand the area.** Use 200-grit sandpaper to smooth the edges of the chipped area. This will help the new paint blend in with the old paint. After sanding, wipe the area with a damp cloth to remove any dust and then let it dry.
+4.  **Apply primer.** Apply a layer of primer to the chipped area. The primer will help the paint adhere to the surface and will prevent it from chipping in the future. Allow the primer to dry according to the manufacturer's instructions.
+5.  **Paint the area.** Use a small paintbrush to apply paint that matches the surrounding color to the primed area. Depending on the color and the size of the chip, you may need to apply several coats. Allow each coat to thoroughly dry before applying the next.
+
+### 4\. Clean & Lubricate
+
+#### Things You’ll Need
+
+*   Vacuum cleaner with brush attachment
+*   Warm water
+*   Dish soap or vinegar
+*   Small bucket
+*   Toothbrush or small scrub brush
+*   Sponge or cloth
+*   Dry towel
+*   Silicone-based lubricant, petroleum jelly, or wax (optional)
+
+1.  **Remove loose debris**. Use a vacuum cleaner with a brush attachment to remove any loose dirt or debris from the window or door tracks or jambs.
+2.  **Prepare a cleaning solution.** Fill a small bucket with warm water and mix in a few drops of dish soap. If the tracks are particularly dirty, you can mix a solution of one part vinegar to one part water for a stronger cleaning agent.
+3.  **Scrub**. Dip a toothbrush or small scrub brush in the cleaning solution and scrub the tracks and/or jambs. The bristles can help dislodge any stubborn dirt or grime.
+4.  **Wipe clean.** After scrubbing, use a sponge or cloth soaked in the cleaning solution to wipe the the area clean. Make sure to rinse the sponge or cloth frequently to avoid spreading dirt around.
+5.  **Dry.** Use a towel to thoroughly dry area and remove any residual dirt.
+6.  **Lubricate (if necessary).** If your windows or doors are still sticking after cleaning, try applying a silicone-based lubricant, wax, or petroleum jelly to the tracks or frames. While not a permanent solution, this can help to reduce the friction on any troublesome sticking points.
+
+### 5\. Shave Down the Door Panel
+
+If you’ve performed all of the above steps and your wooden or vinyl door is still sticking, you may need to shave down the door panel to make it properly fit into the frame. When doing so, be careful to remove only the minimal amount of material that’s necessary. Since the door is prone to shrinking during the colder winter months, removing an excessive amount of material can create an air leak around the door that can compromise the energy-efficiency of your home.
+
+#### Things You’ll Need
+
+*   Pencil
+*   Screwdriver and hammer
+*   Planer or sander with 60- to 80-grit sandpaper
+*   120- to 200-grit sandpaper
+*   Paintbrush or paint roller
+*   Primer
+*   Paint
+
+1.  **Identify the sticking point.** Close the door until it sticks, then use a pencil to mark the area where it's rubbing against the frame.
+2.  **Remove the door.** Remove the door from the hinges by removing each of the hinge pins. Place the tip of a screwdriver at the bottom of the pin, and gently tap the handle of the screwdriver with a hammer until the hinge is drive up and out the top of the hinge. Repeat this process for all the hinges, and pull the door off the frame. Prior to removing the pins, it can be helpful to have a second person hold the door to prevent it from falling as you remove the last pin.
+3.  **Plane the door.** Turn the door vertically on its side so the edge that you will be planing is facing upright. Using a hand or electric planer, start shaving down the edge of the door on the marked area until it’s flush with the pencil mark you made. If you don't have a planer, you can use a manual sanding block or belt sander with 60- to 80-grit sandpaper instead. However, this will be more time-consuming and less precise.
+4.  **Test and repeat.** After you've removed some material, put the door back in the frame and test to see if it still sticks. You may have to repeat the planing and testing process several times until the door fits properly.
+5.  **Sand, prime, and paint.** Once the door no longer sticks, sand the planed area smooth with 120 to 200-grit sandpaper. Use a paintbrush or roller to apply primer to the planed and sanded area, then allow it to fully dry according to the manufacturer’s instructions. Afterward, paint the area with a color that matches the rest of the door.
+6.  **Reattach the door.** Place the door back into its hinges and replace the pins.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Insulate Windows | Cheap and Easy with Plastic Film"></iframe>

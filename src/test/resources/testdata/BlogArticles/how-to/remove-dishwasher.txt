@@ -1,0 +1,93 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Remove a Dishwasher"
+headline: "How to Remove a Dishwasher in 3 Simple Steps"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-01-22
+basePath: https://library.homeserve.com/m/
+heroImage: 539b79a6085d5a61/Blog-HowToRemoveDishwasher_MSchmitz_0001.jpg
+heroAltDescription: open white clean dishwasher
+metaDescriptions: Removing a dishwasher is a simple task that can be accomplished by nearly any DIYer. With three easy steps, you can remove it quickly and efficiently.
+articleAbstract: Removing a dishwasher is actually a simple task that can be accomplished by nearly any DIYer. When the time comes to replace an old dishwasher, use our step-by-step process on how to remove a dishwasher yourself — instead of spending the extra money to have a technician do it for you.
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-310-1912
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/appliance_repair/hs/a_call_away
+  large:
+      image: /en-us/assets/images/blog/appliances_elocal_banner1.png
+      alt: Appliances eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/appliances_elocal_banner2.png
+      alt: Appliances eLocal Banner 2
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Remove a Dishwasher"
+  parent: Appliances-How-To
+---
+
+Let’s face it: Even your most dependable household appliances need to be replaced, eventually. When that time comes, it can be a real headache for many homeowners. Not only do you have to purchase the new appliance, but you’re often left in the position of having to remove the old appliance to replace the new one.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**How to Install a Dishwasher Like a DIY Professional**](https://www.homeserve.com/en-us/blog/how-to/install-dishwasher/)
+
+Rarely is this potentially frustrating situation more evident than when you need to remove an old or broken dishwasher. For good reason too: They’re heavy and just seem to simply be *one* with cabinetry, making removal intimidating to some. Don’t be fooled though, removing a dishwasher is actually a simple task that can be accomplished by nearly any do-it-yourselfer.
+
+When the time comes to replace an old dishwasher, follow this step-by-step removal process yourself instead of spending the extra money to have a technician do it for you.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+## Step 1: Disconnect the Dishwasher 
+
+### Cut the Power
+
+Before removing the unit from the cabinet, it’s important to learn how to disconnect a dishwasher from its power source. Because nearly all dishwashers are located near kitchen sinks, finding the dishwasher plug is usually pretty simple. Take a look in the cabinet under the sink and find the dishwasher connection. Then, simply unplug it from the outlet. If you don't see the electrical outlet under your sink, then the dishwasher is likely connected from the back, and you'll have to unplug it after you slide it out (see below).
+
+### Cut the Water
+
+After unplugging the unit from the outlet, you’ll then need to shut off the supply line that sends water to the dishwasher. Again, you’ll find the water supply shutoff valve under the kitchen sink. Unless you have a dedicated shutoff valve specifically for the dishwasher, you’ll more than likely be disconnecting the water from both your dishwasher and your sink. Turn the valve all the way to the right to completely shut off the water supply. If you can’t spot the water supply line valve, you may not have one. In that case, you’ll have to shut off your water supply to your entire house. Once the water supply is properly shut off, disconnect the supply line.
+
+### Disconnect the Drain Line
+
+Once you’ve completely disconnected both the power supply and the water supply line, you’ll need to disconnect the dishwasher’s drain line. Find the larger, flexible hose that’s clamped onto the sink’s drain line and gently loosen the clamp to remove the drain hose.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+Pro tip: Make sure you have a small, plastic bucket or a bowl to place underneath your disconnected drain hose. Water often collects in the drain hose and, when disconnected, has a tendency to spill out. Save yourself a mess and have a receptacle handy to catch the water.
+
+## Step 2: Remove the Attachments 
+
+After you’ve disconnected the plumbing and water line connections, you can begin working to remove the dishwasher itself. Dishwashers are held into place in the cabinet by metal brackets that attach to the bottom of the counter top. To find them, first open the door of the dishwasher and reach under the edge of the counter. When you’ve located them, remove the screws that hold the brackets in place.
+
+After removing the mounting brackets, you’ll have to remove the faceplate that covers the bottom of the dishwasher. These faceplates are usually attached by mounting screws, but can also be held into place by spring clips.
+
+Once the faceplate is removed, you should be able to see the feet of the dishwasher. Before you remove the dishwasher, you’ll have to lower it first by twisting the feet clockwise. This will give you enough room to remove the dishwasher properly.
+
+## Step 3: Pull out the Dishwasher
+
+After undoing all connections and attachments, you now can begin sliding your dishwasher from under the countertop. Because dishwashers are heavy, use a flat piece of cardboard to put underneath the unit. This will help you easily slide the dishwasher across the floor, while also protecting your floor against scratches.
+
+If you didn't find that the dishwasher was connected beneath your sink in the earlier step, once your dishwasher clears the counter, pull it out slowly to allow yourself enough room to reach behind it and pull out the plug.
+
+## Install Your New Dishwasher
+
+Voila! Now the space is ready for the new dishwasher. By following the steps above, you can easily remove an old dishwasher without hiring a pro, and save yourself some money in the process.
+
+*Upgrading an appliance also might be a logical time to consider upgrading your home's coverage by being prepared with a plan from HomeServe. Once you have one in place and a covered issue arises, you can simply call the 24/7 repair hotline. A local, licensed and highly trained contractor will be sent out to you to get the job done to your satisfaction. Learn more about plans from HomeServe today.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6M8RalEDdU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

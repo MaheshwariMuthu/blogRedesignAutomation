@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Whole-House Surge Protector Cost?"
+headline: "How Much Does a Whole-House Surge Protector Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-04-29
+basePath: https://library.homeserve.com/m/
+heroImage: 31ca1a4c35418d45/Blog-WholeHouseSurgeProtector_WtshymanskiWikimediaCommons_0001.jpg
+heroAltDescription: "Black whole-house surge protector with a black digital display screen mounted on a brown woodgrain wall."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A whole-house surge protector can suppress power surges, which decreases the chances of damage to your appliances. Here's a cost breakdown."
+articleAbstract: "A whole-house surge protector can suppress power surges, which decreases the chances of damage to your appliances. Here's a cost breakdown."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does a Whole-House Surge Protector Cost?"
+  parent: Electrical-Cost-Guide
+---
+  From overloaded outlets to bad breakers, your home's electrical system can have a lot of issues. One thing you don't want to worry about is a huge power surge that can fry anything plugged into an electrical outlet at the time.
+
+**This May Also Interest You:** [**How Much Do Electrical Repairs Cost? A Comprehensive Guide**](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+A whole-house surge protector can suppress those huge power surges, which decreases the chances of your sensitive electronics and appliances getting damaged. Learn more about how they work and the costs involved to decide if you need one in your home.
+
+Do Whole-House Surge Protectors Really Work?
+--------------------------------------------
+
+Whole-house surge protectors are effective in suppressing sudden, large surges of power coming into your home. But they can't always stop everything. According to [This Old House](https://www.thisoldhouse.com/electrical/21194149/how-effective-are-surge-protectors), it's possible for as much as 15% of excess voltage in a power surge to get past the whole-house surge protector. To combat this, use additional plug-in surge protectors for sensitive electronics, including TVs, computers, gaming systems and cell phones you're charging. This provides another layer of protection to suppress any excess power that makes it past the whole-house surge protector.
+
+How Much Does It Cost to Install a Whole-House Surge Protector?
+---------------------------------------------------------------
+
+According to [Popular Mechanics](https://www.popularmechanics.com/home/interior-projects/g43140886/best-whole-house-surge-protectors/), a whole-house surge protector typically costs between $60 and $300 (CAD 80 and CAD 400). Installation labor typically runs another $50 to $100 (CAD 70 to CAD 135) per hour, based on data from [Bob Vila](https://www.bobvila.com/articles/whole-house-surge-protector-cost/). This brings the total cost to roughly $300 (CAD 400) on average. There can be differences in pricing based on the type of surge protector you choose and the rates for electricians in your area.
+
+The cost is relatively low compared to the potential loss of your electronics should your home be hit with a major power surge. Computers, TVs and gaming systems come to mind, but even refrigerators, ovens, washers, dryers and other household appliances have complicated electrical components that can get fried. Investing a few hundred dollars into a whole-house surge protector could save you from replacing very expensive appliances and electronics later.
+
+How Long Does a Whole-House Surge Protector Last?
+-------------------------------------------------
+
+The life expectancy of your surge protector depends on the quality of the device. A low-quality surge protector likely won't last long, especially with several big power surges. Some models are designed to last [five years or more](https://www.bobvila.com/articles/best-whole-house-surge-protector/), but the activity it sees can also impact how long it lasts. Lots of severe power surges can wear out the surge protector faster than expected. Have an electrician check your whole-house surge protector occasionally to ensure it's still functioning properly.
+
+**More Related Articles:**
+
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets with GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/replace-electrical-panel/)
+
+How Much Protection Does a Whole-House Surge Protector Offer?
+-------------------------------------------------------------
+
+The amount of excess power a whole-house surge protector can handle varies based on its design. The minimum recommended protection for a home is 40,000 amps. You can get models that protect against much higher amounts as well. A typical bolt of lightning packs about 30,000 amps, so your home should be protected even from a lightning strike with a whole-house surge protector.
+
+Do I Need an Electrician to Install a Whole-House Surge Protector?
+------------------------------------------------------------------
+
+Whenever you're having electrical work done on your home, whether you're replacing the electrical panel or installing a whole-house surge protector, it's best to hire a licensed electrician. Working with electricity is dangerous, with a high risk of shocks. Installing the surge protector incorrectly could affect the wiring, increase your risk of electrical fires or render it useless. Hiring a pro to install it is worth the cost.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

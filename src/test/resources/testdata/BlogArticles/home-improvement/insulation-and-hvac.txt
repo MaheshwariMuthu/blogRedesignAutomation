@@ -1,0 +1,55 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Insulation and Your HVAC System Work Together"
+headline: "How Insulation and Your HVAC System Work Together"
+author: Elizabeth Marcant
+tags: ["post"]
+publishDate: 2023-08-04
+basePath: https://library.homeserve.com/m/
+heroImage: 65634970a2fd3988/Blog-GettyImages-174965786-jpg.jpg
+heroAltDescription: "Construction Worker Insulating Wall with Fiberglass Batt"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Did you know that, without the right insulation, your HVAC unit can't function optimally? It's all about finding that balance. Here's what to know."
+articleAbstract: "Did you know that, without the right insulation, your HVAC unit can't function optimally? It's all about finding that balance. Here's what to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Insulation and Your HVAC System Work Together"
+  parent: HVAC-Home-Improvement
+---
+  If you live in an area that gets very hot or very cold at any time during the year, then you've probably done the thermostat dance at least once. (And if you _don’t_ live in an area that experiences extreme temperatures throughout the seasons … Please let us know where to join you.)
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+Anyway. The “thermostat dance” is the constant tweaking of settings to discover what magic number works well for your HVAC and home. Finding the balance that keeps your home interior at a comfortable temperature without breaking the bank on your utility bill — or running your HVAC unit into disrepair — is important. But did you know that without the right insulation, your HVAC unit can't function optimally?
+
+What Is Insulation?
+-------------------
+
+Home insulation refers to materials that are used to insulate your home against exterior temperature conditions. The materials in your walls, roof, attic, basement or other areas of your home are designed to reduce how much heat your interior gains or loses.
+
+What Is an HVAC System?
+-----------------------
+
+HVAC stands for heating, ventilation and air conditioning. It's the umbrella term for the systems that work to heat or cool your home. HVAC systems include components such as air conditioners, heat pumps, furnaces, ductwork and thermostats.
+
+**More Related Articles:**
+
+*   [What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps...](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [Is an HVAC Tune-Up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+How Do Insulation and HVAC Systems Work Together for Home Climate Control?
+--------------------------------------------------------------------------
+
+Ultimately, your HVAC system and your home insulation work together to keep your home at the right temperature efficiently. The HVAC system pumps cool or warm air into the space, bringing the air temperature to a desired level. The home insulation helps keep that cool or warm air where it's supposed to be, so HVAC systems don't have to keep working as hard.
+
+For example, in the summer, you might set your thermostat to 72 degrees Fahrenheit. The HVAC system works to cool the inside of your home to that temperature, and then it shuts off. It kicks back on again once the interior temperature warms up above that desired setting.
+
+If you had no insulation in your home, the interior temperature in the summer would rise almost immediately. The HVAC system would run constantly. Depending on how hot it was outside, the HVAC system might never get the interior to the desired temperature.
+
+Even if you have insulation, if it's not enough, the HVAC system can struggle to maintain interior temperatures. This is why people add attic insulation or other insulation to their homes. They're trying to reduce the cost of heating and cooling, as well as the burden on their HVAC system.
+
+If you're not sure whether your insulation and HVAC system are working well together, it may be time to consult a professional to find out if you need more insulation.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Insulate Windows | Cheap and Easy with Plastic Film"></iframe>

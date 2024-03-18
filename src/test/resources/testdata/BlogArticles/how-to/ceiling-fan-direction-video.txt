@@ -1,0 +1,50 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Ceiling Fan Direction"
+headline: "Video: Your Ceiling Fan Is Turning the Wrong Way! Here’s How to Set It for the Season"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2023-02-09
+basePath: https://library.homeserve.com/m/
+heroImage: 35080ee018154eac/Blog-CeilingFanDirection_MSchmitz_0001.jpg
+heroAltDescription: "HomeServe Managing Editor Matt Schmitz stands in a Kitchn underneath a ceiling fan"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Ceiling fans aren't just for summer. Save on utility costs year-round by changing the direction of your fan blades for the season. Learn how in this video."
+articleAbstract: "Changing the direction your ceiling fan as the seasons change helps keep your home more comfortable while conserving energy and saving money on your utility bills."
+category: ["How To"]
+eleventyNavigation:
+  key: "Ceiling Fan Direction Video"
+  parent: HVAC-How-To
+---
+  What if we told you your ceiling fan is spinning in the wrong direction, right now?
+
+**This May Also Interest You:** [**Where There's a Wobble, There's a Way: How to Fix a Wobbly Ceiling Fan**](https://www.homeserve.com/en-us/blog/how-to/fix-wobbly-ceiling-fan/)
+
+It may seem mind-blowing after a lifetime of simply flipping the wall switch and assuming that's all there is to it. But changing the direction your ceiling fan as the seasons change helps keep your home more comfortable while conserving energy and saving money on your utility bills.
+
+And doing so is as _easy_ … as it is _breezy_. Here’s how:
+
+The direction you should have your fan blades rotating in is the opposite in the warmer spring and summer months as it is in the colder fall and winter months.
+
+Most modern fans have directional controls on either a remote control or wall panel that enable you to adjust which way your blades turn — ergo how the air is distributed throughout the room.
+
+So, all you hafta do is move the switch into the forward position to set your ceiling fan to spin counterclockwise during the summer months.
+
+This enables the fan to push cool air down to the floor. The cool air then evaporates perspiration and creates a wind-chill effect, which makes you feel up to 8 degrees cooler without actually changing the room's temperature. That allows you to ease off the air conditioning without forfeiting comfort — saving as much as an estimated _40%_ on AC costs.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install a Ceiling Fan?](https://www.homeserve.com/en-us/blog/cost-guide/ceiling-fan-installation/)
+*   [How to Wire a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/wire-ceiling-fan/)
+*   [How to Remove a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/remove-ceiling-fan/)
+*   [What's the Span of Your Fan? Here's How to Measure for a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/measure-ceiling-fan/)
+*   [How to Install a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/install-ceiling-fan/)
+
+When your blades are set for summer, you should feel air movement while standing under the fan. If you don't, your fan is spinning in the wrong direction.
+
+In the fall and winter, move the switch into the _reverse_ position to spin _clockwise_. It should also be run at low speeds. This will enable your fan to pull cool air _upward_. The gentle updraft pushes warm air, which naturally rises to the ceiling, down along the walls, and back to the floor. That makes a room feel warmer, which allows you to reduce heater use — saving you up to 15% per month.
+
+And, remember, now that you’re enhancing your climate control using fan direction, you should also be adjusting your thermostat up or down, accordingly. This will allow you to realize savings on your utility bill, while also reducing the load on your HVAC unit and extending its useful life in the process.
+
+_For more, check out the video below._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/8mzG-IJupUA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Ceiling Fan Direction | Summer vs. Winter"></iframe>

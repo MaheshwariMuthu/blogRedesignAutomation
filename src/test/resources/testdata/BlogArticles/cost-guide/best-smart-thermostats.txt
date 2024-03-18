@@ -1,0 +1,127 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "The Best Smart Thermostats for Your Home 2021"
+headline: "Heat Check: The 5 Best Smart Thermostats for Your Home"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-02-25
+basePath: https://library.homeserve.com/m/
+heroImage: 33bec0f5490c0dfa/webimage-AdobeStock_162717288.jpg
+heroAltDescription: "living room"
+metaDescriptions: "Considering a smart thermostat? Here are our top five picks for the best smart thermostats based on your needs."
+articleAbstract: "Whether you want to increase your home’s smart capabilities or simply want to save money, there's a smart thermostat for your home. We recommend five of the best smart thermostats for your household needs."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "5 Best Smart Thermostats for Your Home"
+  parent: HVAC-Cost-Guide
+---
+  
+
+In most parts of the country, winter means it’s time to crank up the heat. But are you tired of seeing your energy bills rise as temperatures drop? On average, heating and cooling accounts for almost [half of a home’s energy bill](https://www.energystar.gov/products/ask-the-expert/breaking-down-the-typical-utility-bill). So, how do you save money without going crazy constantly adjusting your thermostat?
+
+**This May Also Interest You:** [**How Much Do Thermostats Cost to Replace or Install?**](https://www.homeserve.com/en-us/blog/cost-guide/thermostat-replacement-costs/)
+
+Many consumers have recently turned to smart thermostats which, [according to Energy.gov](https://www.energy.gov/energysaver/thermostats), can help you save up to 10% annually on your heating and cooling bills. Smart thermostats are a "set-and-forget" solution for managing energy use.
+
+How Does a Smart Thermostat Work?
+---------------------------------
+
+Smart thermostats go above and beyond the run-of-the-mill programmable thermostat in that they can actually learn your home’s specific activity patterns. They adjust temperature schedules to when you’re home or away, awake or asleep, giving you complete mastery over your HVAC system.
+
+Top 5
+-----
+
+With so many smart thermostats on the market, how do you decide which to buy? It comes down to your goals. Are you aiming for more control over cold rooms, hoping to increase energy efficiency or simply looking to save some money? Use this guide to find the best smart thermostat to suit your specific needs.
+
+Here are our picks for the best smart thermostats available in 2021:
+
+<img class="detail-image" src="https://library.homeserve.com/m/48ac916dd8c07700/Blog-SmartThermostat_Rossi_2992.jpg" alt="EcoBee thermostat on modern wall"/>
+
+### [1\. Ecobee SmartThermostat With Voice Control](https://www.ecobee.com/en-us/smart-thermostats/smart-wifi-thermostat-with-voice-control/)
+
+**Best Smart Thermostat: Overall**
+
+**Price: $249.99**
+
+We think Ecobee’s latest smart thermostat is the best for most homes because it comes equipped with essential functions and fun extras. Full of features like voice control, touch display and interoperability with other smart devices in your home, the Ecobee SmartThermostat is comprehensive and incredibly user-friendly. While most smart thermostats control temperatures from just one spot in your house, Ecobee’s SmartSensors can be placed in various rooms and allow you to keep temperatures uniform throughout your home.
+
+Ecobee SmartThermostat has a voice control system powered by Alexa. In addition to using voice commands to adjust your temperature, it can also be used like an Amazon Echo device to stream Amazon Music, Pandora and Spotify — not really a necessity in a smart thermostat, but a nice bonus nonetheless.
+
+<img class="detail-image" src="https://library.homeserve.com/m/427e90dbb879ece5/Blog-SmartThermostat_Google_Nest_E_001.jpg" alt="Google Nest smart thermostat"/>
+
+### [2\. Google Nest Learning Thermostat (3rd Generation)](https://store.google.com/us/product/nest_learning_thermostat_3rd_gen)
+
+**Best Smart Thermostat: Large Homes**
+
+**Price: $249**
+
+Most rooms in your home aren’t the same temperature. This is especially true of larger homes with more complicated HVAC systems. If you have multiple thermostats in your home, replacing one (or all) of them with a Google Nest Learning Thermostat can keep your whole house an even temperature. Wherever a Nest Learning Thermostat is installed, it will create a personalized temperature schedule for that particular zone. Nest uses activity sensor information to learn your specific activity patterns. The algorithm-based system tracks movement around your house to create a custom temperature schedule for your home. Furthermore, Nest now offers the option to buy additional temperature sensors (like Ecobee's SmartSensors) to put in areas of your home that always seem to run a bit hot or cold.
+
+While the 3rd generation Nest Learning Thermostat is a great option for those with larger homes, it’s also jam-packed with new features and functionalities. The Furnace Heads-Up feature sends an alert to your phone if your furnace is shutting off in irregular patterns. Another feature, Farsight, can detect your presence from across the room, lighting up to display the temperature and time. Additionally, the Nest Learning Thermostat includes voice command functions supported by Google Assistant or Amazon Alexa.
+
+### [3\. Ecobee3 Lite](https://www.ecobee.com/en-us/smart-thermostats/smart-wifi-thermostat/?utm_source=google&utm_medium=cpc&utm_campaign=SG_US_Brand_e3lite_search&utm_term=ecobee3%20lite&gclid=Cj0KCQiApY6BBhCsARIsAOI_GjZIM_EQ9dwlv4Y6HaqLG4gaZAHdvjqdgaUVpdI2I3xt2B-3jVyLI8QaAoXFEALw_wcB&gclsrc=aw.ds)
+
+**Best Smart Thermostat: Basic Connectivity**
+
+**Price: $169.99**
+
+Billed to consumers as Ecobee’s budget-friendly option, the Ecobee3 Lite offers a lot of connectivity options for a smart thermostat under $200. While not as feature-packed as the Ecobee SmartThermostat, the Ecobee3 Lite is compatible with Apple HomeKit, Amazon Alexa, Samsung SmartThings, Wink and IFTTT. It’s missing features like activity-tracking technology and other adaptive tech, but the Ecobee3 Lite is a solid choice for those looking for a basic smart thermostat.
+
+### [4\. Honeywell Home T9 Smart Thermostat](https://www.honeywellhome.com/us/en/products/air/thermostats/wifi-thermostats/t9-smart-thermostat-with-sensor-rcht9610wfsw2003-u/)
+
+**Best Smart Thermostat: Technology**
+
+**Price: $199.99**
+
+Although its sleek design and intuitive app put it in line with similar products from Ecobee and Google, Resideo’s Honeywell Home T9 Smart Thermostat has deep tech that sets it apart. The T9 boasts some of the best remote sensor technology on the market. It comes bundled with room sensor technology that measures temperature, as well as proximity and humidity. You can place up to 20 smart sensors around your home (sold separately for $40 each) and let the T9 work its adaptive magic.
+
+In addition to its great remote sensor technology, the T9 is compatible with Alexa and Google smart assistants and has remarkably reliable geofencing capabilities (the ability to sense in a pre-defined area). It can also be linked to a Honeywell Home security and automation system, so you can integrate it directly with other smart devices around your home.
+
+<img class="detail-image" src="https://library.homeserve.com/m/7d412c3354e82997/webimage-SmartThermostat_Honeywell-T5.png" alt="Honeywell smart thermostat"/>
+
+### [5\. Honeywell T5 Smart Thermostat](https://www.honeywellstore.com/store/products/honeywell-lyric-5-thermostat-rcht8610wf2006w.htm)
+
+**Best Smart Thermostat: Budget**
+
+**Price: $149.99**
+
+If you’re on a budget, you can’t go wrong with the Honeywell Lyric T5 Smart Thermostat. As you’d expect from a “budget” model, the T5 is a stripped down version of higher-end Honeywell smart thermostats. It’s absent of most smart features like advanced motion sensors and adaptive algorithms. But, its simple touchscreen design and geofencing capabilities — as well as compatibility with Amazon Echo and Google Home — make it a great option for homeowners looking for a basic, reliable smart thermostat. Although it does require a C-wire (a power-boosting wire), setup is simple. It’s also compatible with a wide range of heating and cooling systems, including heat pumps, geothermal systems, hot-water heaters and gas fireplaces.
+
+**More Related Articles:**
+
+*   [Smart AC Not A Dumb Idea If You’re Looking to Cut Climate-Control Costs](https://www.homeserve.com/en-us/blog/buying-guide/smart-ac/)
+*   [15 Ways to Save on Your Electric Bill](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+*   [How to Clean Your Thermostat](https://www.homeserve.com/en-us/blog/how-to/clean-thermostat/)
+*   [It’s Upgrade Time: Nest Thermostat?](https://www.homeserve.com/en-us/blog/buying-guide/nest-thermostat-review/)
+*   [Your Definitive Guide For the Best Smart Home Devices](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-devices/)
+
+Honorable Mentions
+------------------
+
+Depending on the features you’re looking for, these smart thermostats are also great options:
+
+### [Google Nest Thermostat](https://store.google.com/us/product/nest_thermostat)
+
+**Best Smart Thermostat: Voice Commands**
+
+**Price: $129.99**
+
+The basic Nest Thermostat is a good alternative to some of the pricier smart thermostats. This is an upgraded version of Google’s previous Nest Thermostat E. The Nest Thermostat is a learning thermostat that will create schedules to adjust the temperature in your home based on your activity. It offers Home and Away modes that use your phone’s location services to determine whether you are home. If you’re away, the thermostat will enter into energy-saving Eco mode. The Nest Thermostat also boasts an impressive voice command system powered by Google Assistant, a desirable feature absent in many other budget-friendly models.
+
+<img class="detail-image" src="https://library.homeserve.com/m/36758504c9557c8c/webimage-SmartThermostat_sensi_1.png" alt="Sensi smart thermostat"/>
+
+### [Emerson Sensi Touch Smart Thermostat](https://sensi.emerson.com/en-us/products/touch-thermostat)
+
+**Best Smart Thermostat: App Functionality**
+
+**Price: $169.99**
+
+On the surface, the Emerson Sensi Touch Smart Thermostat doesn’t appear as high-tech as some its competitors. But where the Sensi excels is in its logical, intuitive app. If you have multiple Sensi smart thermostats, you can control them with one app. The Sensi app gives you the ability to lock the screen of the thermostat with a single click, giving you complete control of the HVAC system in your home or other properties. This makes it a great option if you operate short-term rental properties.
+
+_Being prepared with a plan from HomeServe can give you peace of mind. Once you have a plan in place, you can simply call the 24/7 repair hotline for issues that arise with your furnace, plumbing or a host of other home components. A local, licensed and highly trained contractor will be sent out to you to get the job done to your satisfaction._

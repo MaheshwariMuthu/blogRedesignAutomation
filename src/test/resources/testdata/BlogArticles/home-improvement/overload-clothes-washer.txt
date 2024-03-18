@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why You Shouldn't Overload Your Clothes Washer"
+headline: "Why You Shouldn't Overload Your Clothes Washer"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2023-12-29
+basePath: https://library.homeserve.com/m/
+heroImage: 2b25b55dc5682cb8/Blog-GettyImages-136628195.jpg
+heroAltDescription: "overflowing washing machine bubbles"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "From overflowing water to clothes that don't get clean, the results of overloading a washer could create more work for you."
+articleAbstract: "From overflowing water to clothes that don't get clean, the results of overloading a washing machine could create more work for you. Find out what happens when you overload your washer and how you can prevent it."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why You Shouldn't Overload Your Clothes Washer"
+  parent: Appliances
+---
+  Most people can't imagine life without their washing machine. It's your valiant sidekick in the never-ending battle with the dirty laundry pile. But if your solution to the constant stream of soiled clothing is to do larger loads of laundry, you could be putting your trusty partner at risk.
+
+**This May Also Interest You:** [**How Long Do Appliances Last?**](https://www.homeserve.com/en-us/blog/home-improvement/how-long-do-appliances-last/)
+
+From overflowing water to clothes that don't get clean, the results of overloading a washing machine could create more work for you.
+
+What Are Some Signs That You've Overloaded Your Clothes Washer?
+---------------------------------------------------------------
+
+Is your washing machine overloaded? It's not always easy to tell how much is too much. But you might notice some signs of overloading a washing machine, including:
+
+* **Your clothes don't get clean.** When you put too many clothes in the washing machine, they can't spin and move around like they should to get them sparkling clean. There also might not be enough room for the detergent to dissolve completely, which leaves your clothes dirty. If your clothes still seem to smell or look soiled, you could be putting too many items in your washer.
+* **The clothes are wetter than expected.** Overloading washer machine drums can also affect the spin cycle that helps remove the excess water from the fabric. You might notice the clothes are still soaking wet when you remove them. 
+* **There’s soap residue on the clothes.** Yet another related issue is excess soap in your clothes due to the machine not being able to rinse the clothes well. 
+* **You hear noises while the machine’s running.** You might notice your washing machine sounding louder than normal because it's working harder. Large loads can also throw off the balance of the drum and cause abnormal noises.
+* **Items get lost after a load.** Everyone has that pile of single socks without a mate. If you overload your laundry, those smaller items could be going down the drain. That could cause bigger issues with a machine that can't drain properly. 
+
+How Much Is Too Much — and How Can You Tell?
+--------------------------------------------
+
+Washing machines come in different sizes, so there's not a one-size-fits-all answer to how much you can put in the machine. Start by checking the owner's manual for your appliance to determine the capacity.
+
+The physical size of the drum limits how many clothes you can put in it. A general guideline is to fill it about [three-quarters full](https://www.bhg.com/homekeeping/laundry-linens/tips-checklists/how-to-load-a-washer/) for a large load. If your machine has an agitator, don't pile the clothes above it. Another common guideline is to leave about a hand's length between the top of the drum and the clothes. Clothes should always be loose rather than packed tightly in the drum.
+
+Washers also have weight limits. So, even if the drum isn't filled to the brim, several heavier items could overload the washing machine based on weight. Look for this information in your owner's manual as well.
+
+**More Related Articles:**
+
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Clean a Washing Machine Drain](https://www.homeserve.com/en-us/blog/how-to/clean-washing-machine-drain/)
+*   [Here’s How to Change the Direction the Door Swings on Your Washer and Dryer](https://www.homeserve.com/en-us/blog/how-to/reverse-washer-dryer-door/)
+*   [How to Move Your Washing Machine](https://www.homeserve.com/en-us/blog/how-to/move-washing-machine/)
+*   [Should You Repair or Replace Your Washing Machine?](https://www.homeserve.com/en-us/blog/home-improvement/washing-machine-repair-replacement/)
+
+Long-Term Consequences of Overloading Your Washer
+-------------------------------------------------
+
+Rewashing some laundry isn't a big deal. However, you could be doing long-term damage with your large laundry loads. Overloading a washing machine can cause more serious issues, including:
+
+* **Shorter washing machine life:** The extra clothes make the motor and other moving parts work harder to run the machine. A washer that's overloaded frequently could break down faster and need to be replaced sooner. 
+* **More breakdowns:** Before your washer breaks down completely, it might require frequent repairs. Certain parts might give out due to all the hard work they're doing. If you're calling an appliance repair person often, you might try washing smaller loads. 
+* **Damaged clothes:** Overloading a washing machine can make it difficult to get clothes clean, but it could also cause them to wear faster. It can create more friction that wears down fabric. Zippers and drawstrings could be caught on other clothes, and fabrics might get tangled and stretched out. 
+* **Water leaks:** The combination of water and all the clothes can cause your washing machine to overflow. This can damage your flooring, walls and other items in the area. 
+
+Keeping your laundry loads smaller and within the weight capacity of your machine helps you save time and money.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/E7N374KASqs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Eco-friendly laundry hack!"></iframe>

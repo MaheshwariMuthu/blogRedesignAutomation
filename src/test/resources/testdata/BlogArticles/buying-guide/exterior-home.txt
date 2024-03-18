@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Exterior-Home-Buying-Guide
+  parent: Buying Guide
+  title: Exterior Home
+permalink: false
+---

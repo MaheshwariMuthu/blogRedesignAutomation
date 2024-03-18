@@ -1,0 +1,101 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Prepare Your Air Conditioner for Summer"
+headline: "How to Prep Your AC Unit for Summer"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-02-25
+basePath: https://library.homeserve.com/m/
+heroImage: 24b10aba37d96bd0/Blog-GettyImages-1300574546.jpg
+heroAltDescription: "HVAC unit"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Ready for summer? Your AC might not be. Here's how to prep your AC unit for the season ahead."
+articleAbstract: "Don't wait until that first sweltering heatwave hits your area to check on your air conditioner. Here's how to make sure your AC is ready for the season ahead."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Prep Your AC Unit for Summer"
+  parent: HVAC-How-To
+---
+  Don't wait until that first sweltering heatwave hits your area to check on your air conditioner. Preparing your air conditioner for summer ensures everything is ready to go when you want it. If you do it early, you’ll have time to handle repairs and you’ll be able to avoid uncomfortable days without air.
+
+**This May Also Interest You:** [**What Happens If You Leave Your Window AC Unit in all Winter?**](https://www.homeserve.com/en-us/blog/home-improvement/window-ac-unit-during-winter/)
+
+Here's how to make sure your AC is ready for the season ahead.
+
+How Do You Prepare Your Air Conditioner to Turn It On for the Summer?
+---------------------------------------------------------------------
+
+Before you turn your AC on for the summer, remember to remove the AC cover if you use one. Running it with the cover on can cause damage. Steps to prepare the central air unit include:
+
+### Filter Check
+
+Change or clean the HVAC filter before you start the AC for the summer. A clogged filter makes the system work harder.
+
+### Plant and Debris Removal
+
+Head to the exterior unit and remove any leaves, branches, plants and other debris within a few feet (1 meter) of the unit. This keeps debris from getting inside the unit and allows for proper airflow.
+
+### Exterior Unit Cleaning
+
+Shut off the power to the unit to hose down the exterior coils. Use a fin comb to straighten the fins on the unit.
+
+### Power Check
+
+Ensure the power is turned on to the unit. Most central air units have a disconnect box near the outside unit, so check that. Turn your thermostat to cool and set a temperature lower than the current house temperature. Wait 5 minutes as some units take a few minutes to turn on. If it doesn't power up, check the breaker panel to verify that the breaker is on. HVAC units also have a switch that looks like a regular light switch next to the furnace unit that needs to be switched on.
+
+### Cooling Check
+
+Once it starts running, wait several minutes to see if it starts cooling the room. It'll take longer to cool the space if it's already hot.
+
+### Necessary Repairs
+
+If the unit doesn't start or doesn't feel like it's cooling, contact an HVAC technician to diagnose and repair the problem. Note any noises or issues you experienced to help the tech narrow down the problem.
+
+Should You Call an HVAC Technician to Service Your AC Before You Turn It On?
+----------------------------------------------------------------------------
+
+You don't have to have an HVAC technician check your unit before using it, but you should have your HVAC system serviced professionally at least once per year, which could coincide with the start of summer AC season. Some people choose to have an HVAC tune-up twice per year, once before the cooling season and once before the heating season.
+
+How Do You Handle a Window Air Conditioner?
+-------------------------------------------
+
+It's usually best to take your air conditioner out of the window during the winter, but if you leave your AC in the window, you might have some extra cleaning to do. To clean a window AC, you'll need to clean the coils, wipe down the fan motor and clean or replace the AC filter. If you took it out and stored it for the winter, it's still a good idea to clean the unit and inspect the filter and other parts to ensure it's in good working order. Then, position it in the window and test it out.
+
+**More Related Articles:**
+
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [New to BTUs? Here’s What to Know About BTUs When Shopping for an Air Conditioner](https://www.homeserve.com/en-us/blog/home-improvement/btu-air-conditioning/)
+
+When Should You Start Prepping?
+-------------------------------
+
+Timing is important when deciding how to prepare your air conditioner for summer. You can start cleaning and prepping your AC unit once it's warm enough to comfortably work outdoors and when the water you use for cleaning won't freeze. Late spring or early summer is the ideal time. Don't wait until you actually need the air conditioner to stay comfortable in case it doesn't work correctly. Starting early gives you time to call an HVAC technician in case you need a repair. Once it gets hot, you might have a long wait to get a professional to your home.
+
+Tips for Prepping Your Air Conditioner
+--------------------------------------
+
+### Check the Thermostat
+
+Your thermostat is the brain of your system, so check it out before starting your AC. If your thermostat uses batteries, put in a fresh set to keep it working well. Upgrading to a smart thermostat gives you more control when you're away from home.
+
+### Check Vents
+
+It's easy for curtains, toys, furniture and other items to get pushed against your vents. Make sure all vents, including the return air vents, are clear and open. Your system works best when all vents are open. Closing them can throw off the air pressure.
+
+### Look at Ductwork
+
+Not all of your ductwork is exposed, but inspecting the ducts that you can see helps you spot issues. Gaps and holes let the cooled air out and make your system less efficient.
+
+### Program Temperatures
+
+Once you start officially using the air conditioning for the summer, program the temperatures if you have a programmable thermostat. You can save energy and ensure your home is always comfortable by adjusting the temperature settings based on your activities.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

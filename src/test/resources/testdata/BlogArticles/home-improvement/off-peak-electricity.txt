@@ -1,0 +1,57 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Does 'Off-Peak' Mean When It Comes to Electricity?"
+headline: "What Does 'Off-Peak' Mean When It Comes to Electricity?"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2023-08-28
+basePath: https://library.homeserve.com/m/
+heroImage: 6e65f32419f8294b/Blog-GettyImages-517994041.jpg
+heroAltDescription: "energy savings with turning off electrical appliances"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Learn more about off-peak electricity, including the typical off-peak hours and how using electricity during those times can help save you money."
+articleAbstract: "Need an overview of off-peak electricity? We break down what it is and how it can save homeowners money."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Does 'Off-Peak' Mean When It Comes to Electricity?"
+  parent: Electrical-Home-Improvement
+---
+  Tired of paying outrageously high utility bills? Taking advantage of your electric company's off-peak electricity hours could help you save some dough.
+
+**This May Also Interest You:** [**How Much Does Electricity Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/)
+
+What Are Off-Peak Electricity Hours?
+------------------------------------
+
+Off-peak hours are times when your electric company charges lower rates for electricity. They fall during times when not as many people are using electricity. The idea is to encourage people to shift their energy use away from the peak usage times to reduce demand and spread out usage. That means the cheaper hours are usually at night or on the weekends, but the times can vary by company. Off-peak electricity hours can also vary by season, as demand can fluctuate.
+
+The way power companies handle off-peak electricity use can vary. Many companies offer it as an optional program, sometimes referred to as time-of-use rates. If you enroll in the program, your rates will vary depending on when you use electricity. If you opt out of the time-of-use program, you'll pay standard rates around the clock. Off-peak electricity rates are lower than standard rates, so joining the program could save you money if most of your electric use falls during those off-peak hours.
+
+How Do You Take Advantage of Lower Rates During Off-Peak Hours?
+---------------------------------------------------------------
+
+You'll save the most if you move the majority of your electric use to off-peak hours. Check with your electric company to find out the specific hours for the lower rates. Keep in mind that those hours could differ in the summer versus the winter, so keep up to date on the current lower-rate times.
+
+Focus on reducing your energy use during peak hours when the rates are higher. You can't eliminate all energy use during those periods — you'll likely still need to run your HVAC system, and you might have other items you need to use. However, you can lower your energy consumption by adjusting your thermostat so your heating and cooling system doesn't run as much.
+
+It also helps to move higher-consumption tasks to the off-peak electricity hours. Larger appliances, such as dishwashers, washing machines, dryers and stoves, use a lot of electricity. Using those items during nonpeak hours can save you money each time you use them. For example, you might load your dishwasher throughout the day but wait to run it until the off-peak electricity rates kick in. Shifting your laundry washing to nighttime can also make a big difference in your power bills.
+
+Newer smart appliances let you schedule when they run, which can make it easier to move those activities to later, lower-priced times. Some appliances also have delayed start features you can use. Smart thermostats and programmable thermostats make it easier to adjust temperature settings automatically. If everyone is gone during the day, program the thermostat to raise the temperature in the summer or lower it in the winter. Then, program it to resume the regular temperatures shortly before you return home.
+
+Meal times often fall during peak hours. Instead of using your stove during those more expensive periods, use less expensive cooking methods such as your grill, a crock pot or the microwave. Another strategy is to do meal prep on the weekends when the rates are lower. Then you can reheat the food in the microwave throughout the week.
+
+**More Related Articles:**
+
+*   [More Power to You: How to Read Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/read-electricity-bill/)
+*   [How to Take Advantage of Time-of-Use Rates and Lower Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/save-electricity-during-peak-hours/)
+*   [How Much Electricity Do Holiday Lights Use?](https://www.homeserve.com/en-us/blog/home-improvement/holiday-lights-electricity-use/)
+*   [How to Install Whole-House Surge Protection](https://www.homeserve.com/en-us/blog/how-to/whole-house-surge-protector-installtion/)
+*   [Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load](https://www.homeserve.com/en-us/blog/how-to/phantom-loading/)
+
+How Much Money Could You Save by Using Electricity During Off-Peak Hours?
+-------------------------------------------------------------------------
+
+Every electric company sets its peak and nonpeak rates differently, so the price difference isn't standard. Some companies offer up to [15 to 20 cents](https://www.familyhandyman.com/article/electricity-peak-hours/) (CAD 0.20 to CAD 0.27) per kilowatt-hour. The amount you save depends on how much of your electric use you move from peak hours to off-peak hours. You're still using the same amount of electricity to wash a load of laundry, but the rates you pay for that electricity are lower if you run the machine during off-peak times. Your total amount saved is based on how much electricity you use overall and how much of it moves from peak to off-peak times.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

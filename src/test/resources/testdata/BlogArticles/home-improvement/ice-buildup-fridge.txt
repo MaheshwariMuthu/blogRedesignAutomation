@@ -1,0 +1,112 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Fix Ice Buildup in Fridge"
+headline: "Iced Out? Why Your Fridge Is Freezing Over"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-03-24
+basePath: https://library.homeserve.com/m/
+heroImage: 391a244114be80ed/Blog-refrigerator_2000w.jpg
+heroAltDescription: "appliances"
+metaDescriptions: "Learn how to fix ice buildup in your fridge and whether this is a sign of a bigger problem."
+articleAbstract: "A little moisture in your fridge is common. But if you have a chunk of ice forming in your unit, you're going to want to take action. Learn more about why ice is building up in your fridge and what you can do about it."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-310-1912
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/appliance_repair/hs/a_call_away
+  large:
+      image: /en-us/assets/images/blog/appliances_elocal_banner1.png
+      alt: Appliances eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/appliances_elocal_banner2.png
+      alt: Appliances eLocal Banner 2
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is Ice Forming in My Refrigerator and What Can I Do About It?"
+  parent: Appliances
+---
+  Have you ever opened your fridge and wondered why the back wall is covered in a sheen of moisture? That's condensation, which is completely normal and generally harmless. What's not normal in most modern refrigerators is ice buildup outside of the freezer unit. If you have a huge chunk of ice forming on the wall of your fridge, you’re going to want to take immediate steps to remove it.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**Common Refrigerator Problems and How to Fix Them**](https://www.homeserve.com/en-us/blog/home-improvement/common-refrigerator-problems/)
+
+Read on to find out more about ice buildup in the fridge and how to address it.
+
+Why Is There Ice Buildup in My Fridge?
+--------------------------------------
+
+There's always going to be a chance that moisture will collect on the inner walls of your fridge, especially toward the back. That's because cold air holds less moisture than warm air. The colder the air is, the more moisture is pulled out of it. That moisture then settles on the surfaces of your fridge. The air inside your fridge tends to be coldest toward the back, which is why moisture often forms there first.  
+  
+If you see ice starting to form on the inside of the fridge, though, that's an indicator that something might be wrong. The normal moisture is starting to freeze, which can lead to temperature control problems inside the unit. It can also lead to the failure of the appliance.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+How to Manually Defrost a Fridge
+--------------------------------
+
+Ice can form for a variety of reasons. Sometimes, these are one-off or temporary causes, like climate issues or the way you’ve filled the fridge. Ice may build up if you've been opening and closing the door more than normal. If you see ice building up, you may want to defrost the fridge, then keep an eye on it to see if the issue arises again. The recurrence of ice would indicate a more serious problem.
+
+Not all appliances are the same, so remember to consult your manufacturer's instructions for more specific steps on what to do if your unit has ice buildup. Here are the basic steps for manually defrosting your fridge:
+
+1\. Take everything out of the fridge and freezer, then transfer it to another unit. If you don't have another unit, consider "eating down" what's in the fridge without replacing it so you can defrost the unit without wasting as much.
+
+2\. Unplug the unit.
+
+3\. Open the fridge and freezer doors to allow warm air inside.
+
+4\. Put drip pans or towels under the front of the fridge to catch the water that will eventually run out.
+
+5\. Let the unit defrost completely (this can take a full 24 hours), then dry interior areas with a clean towel.
+
+6\. Plug the unit back in and make sure everything's working well. Watch for ice buildup as your fridge returns to normal temperatures.
+
+7\. Fill it back up with groceries once the temperature is cold enough, and ensure you keep the doors closed as much as possible.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+**Pro Tip:** If you're already going through all this work to clear out your fridge, make use of this time to deep clean the refrigerator. That way, when you get it back up and running, you have a fresh and sparkling interior, too.
+
+**More Related Articles:**
+
+*   [5 Best Smart Refrigerators for Various Household Needs](https://www.homeserve.com/en-us/blog/buying-guide/the-best-smart-refrigerators/)
+*   [Check Out the Average Cost to Service These Top 3 Refrigerator Brands](https://www.homeserve.com/en-us/blog/buying-guide/average-cost-service-refrigerator-repair/)
+*   [4 Ways to Make Your Refrigerator More Efficient](https://www.homeserve.com/en-us/blog/home-improvement/refrigerator-efficiency-tips/)
+*   [Every Cost You Need to Know About With Refrigerator Repair](https://www.homeserve.com/en-us/blog/cost-guide/refrigerator-repair-costs/)
+*   [Your Stainless-Steel Fridge Will Shine Bight Like a Diamond with These Cleaning Tips](https://www.homeserve.com/en-us/blog/how-to/clean-stainless-steel/)
+
+Tips for Reducing Ice Buildup in Fridge
+---------------------------------------
+
+You won't want to have to go through the manual defrosting process too often. Here are some things you can do whether you have a full-size unit or a minifridge with ice buildup:
+
+*   Keep the doors closed as much as possible. You let warm, moist air into the fridge every time you open the door. This can increase condensation and may make your fridge work harder.
+*   Ensure your fridge is level so the doors stay closed.
+*   Check the hinges and gaskets. Order replacement parts if necessary to ensure the doors can shut firmly and stay sealed.
+*   Let hot dishes cool before you store them to reduce moisture in the fridge.
+*   Store water-heavy foods such as fruits and vegetables in the humidity-controlled crisper to reduce the moisture in the main area.
+*   Check to ensure the fridge thermostat is set correctly. [The FDA recommends](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely) an internal temperature of 40 degrees or lower, but you don't want to go so low that foods and drinks freeze inside the fridge.
+*   Adjust internal fridge temperatures according to ambient temperatures outside. If the temperature of the room is warm, you may need to turn down the thermostat in the fridge to keep it cool enough for food safety. But if it's very cold in the room outside, you might need to turn the internal fridge temperature up a bit to keep ice from forming inside. Smart fridges can often handle this adjustment for you.
+
+Signs You May Need Help From a Professional
+-------------------------------------------
+
+Water and even ice inside your fridge don't necessarily indicate a serious problem; you may just need to perform some routine DIY maintenance. Make sure everyone in your household is also following good fridge practices as outlined above.
+
+However, there are times that ice buildup can indicate a bigger issue. Perhaps the appliance itself is in need of professional repair. In other cases, you may need an electrician to ensure power is flowing appropriately in your kitchen. If ice buildup is a recurring issue, you should call a repair technician.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="394" height="281" src="https://www.youtube.com/embed/XuHWMDQd4zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

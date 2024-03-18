@@ -1,0 +1,58 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Beware of High Water Pressure — It Could Spell Trouble For Your Pipes"
+headline: "High Water Pressure Could Portend Peril for Your Pipes"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-09-20
+basePath: https://library.homeserve.com/m/
+heroImage: 171fd7b6f75a92f0/Blog-GettyImages-1653063971.jpg
+heroAltDescription: "Person turning on kitchen faucet with high water pressure"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If your water pressure is too high, it can damage pipes and appliances. But how do you know how high is too high?"
+articleAbstract: "If your water pressure is too high, it can damage pipes and appliances. But how do you know how high is too high? Maintaining the proper water pressure in your pipes will lessen the risk of a range of troublesome complications."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "High Water Pressure Could Portend Peril for Your Pipes"
+  parent: Plumbing-Home-Improvement
+---
+  While having good water pressure is fine, extra-high water pressure is not so much.
+
+**This May Also Interest You:** [**Plumbing Repair Cost Guide**](https://www.homeserve.com/en-us/blog/cost-guide/plumbing-repair-costs/)
+
+If your water pressure is too high, it can damage pipes and appliances. But how do you know how high is too high?
+
+5 Signs Your Water Pressure Is Too High
+---------------------------------------
+
+Any of these clues suggest you should investigate your water pressure more deeply:
+
+### Noisy Pipes
+
+There are several red flags to look out for when it comes to figuring out if your water pressure is too high. First and foremost is pipe noise. Water hammer happens when you turn off a faucet and hear a loud banging noise, much like a pounding hammer. The noise comes from the fast-moving water banging against the pipe, or pipes hitting one another. When the flow is suddenly stopped by you turning off the tap, the fast-moving water is halted quickly, too. Water hammer can loosen plumbing connections or — even worse — break a pipe.
+
+### Leaky Pipes
+
+This leads us to another clue: leaky pipes. High water pressure strains pipes. Over time, this can cause small holes or loose joints, which can lead to water leaks. High water pressure also puts stress on the seals around your pipes. Worn or broken pipe seals can again lead to leaks or bursts. This is especially worrying as tiny leaks may go unnoticed, especially if they're behind a wall, but could lead to water damage or mold. While there are a couple of causes to consider if you find this damage in a bathroom sink or toilet, high water pressure could be to blame.
+
+### Fixture Issues
+
+If your faucets drip constantly, or they spit and spray water when you turn them on, they may have been damaged by high water pressure. Also, if your toilet continually runs, the fill valve may be faulty. It could have worn out quicker than it otherwise would have because of the high water pressure.
+
+### Appliance Problems
+
+If your dishwasher or washing machine makes a lot of noise when running, you might be dealing with a pressure problem. These appliances must work harder to control the fast and hard-moving water rushing through them, causing the noise. The internal components aren't made to withstand this pressure, and something could break. If your appliances are still under warranty, the warranty may be voided if the cause of the breakdown is high water pressure.
+
+### High Water Bill
+
+Have you noticed your water bill going up? If your daily water use hasn’t changed, but your bill is more expensive, this could be due to more water being used because of high water pressure. Also, if you seem to run out of hot water a lot quicker than you think you should, water pressure that’s too high could be the culprit. Water is being pushed through the showerhead at a much faster rate, depleting the hot water at a much quicker pace — as well as making your water bill soar.
+
+What Should My Water Pressure Be?
+---------------------------------
+
+If you know what your water pressure should be, you’ll know whether or not you need to reduce it. For most homes, the ideal water pressure should be between 40 and 80 pounds per square inch (psi). To check what your water pressure is, use a water pressure gauge. These can easily be found at any home improvement or hardware store. Attach it to a faucet (turned off). Make sure the gauge reads 0 psi. Turn the tap on and check where the needle goes. If it’s above 80, you need to lower your water pressure.
+
+Many newer homes have a water pressure regulator installed. These will monitor your water pressure and maintain it at the proper level. If you aren’t able to figure out why you have high water pressure, check the regulator. Adjusting the regulator may lower the pressure and fix the problem. If you have an older home, you may not have a water pressure regulator, or if your regulator is more than ten years old, it may need to be replaced. Call a plumber to have a new water pressure regulator professionally installed.
+
+Water pressure that’s too high can cause plumbing issues and shorten the life of your appliances. No one wants a leaky or burst pipe or to have to buy a new washing machine as a result of something that's easily fixable. Maintaining the proper water pressure in your pipes will lessen the risk of these incidents occurring.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Water Line Repair and Replacement | What You Can Expect to Pay"></iframe>

@@ -1,0 +1,60 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "5 Reasons to Switch to an Electric Dryer"
+headline: "5 Reasons to Switch to an Electric Dryer"
+author: Erin Wallace
+tags: ["post"]
+publishDate: 2024-02-01
+basePath: https://library.homeserve.com/m/
+heroImage: 47993d3f759ae2df/Blog-Dryer_MSchmitz_0010.jpg
+heroAltDescription: "dryer"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If you have a gas dryer and you're thinking about switching to an electric one, here’s everything you need to know."
+articleAbstract: "If you have a gas dryer and you're thinking about switching to an electric one, here’s everything you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "5 Reasons to Switch to an Electric Dryer"
+  parent: Appliances
+---
+  Some houses or apartments are constructed with gas lines (either natural gas or propane) for appliances, including stoves, dryers, water heaters and furnaces. Other residences use electricity for cooking and heating.
+
+**This May Also Interest You:** [**Everything You Need to Know About Dryer Repair Costs**](https://www.homeserve.com/en-us/blog/cost-guide/dryer-repair-cost/)
+
+If you have a gas dryer and you're thinking about switching to an electric one, here’s everything you need to know.
+
+### 1\. Fewer Utility Bills
+
+If you switch to all-electric appliances, you'll eliminate your gas bill altogether, whether that's for natural gas service or propane. However, keep in mind that your electricity bill is likely to be higher than it was before because the appliances that were previously using gas will be using electricity. Of course, cost savings and rate differences depend on where you live and the electrical supplier. For some people, consolidating two bills into one helps simplify monthly budgets.
+
+### 2\. Potential Cost Savings
+
+[Electric dryers do generally cost less up front](https://www.usnews.com/360-reviews/home-goods/dryers/gas-vs-electric), but the difference isn't enormous — only about $100 (CAD 135) or so, depending on where you purchase them from. Electric dryers also generally cost less to repair, and it's possible to repair them yourself with some DIY skills because there isn't a gas line to contend with.
+
+### 3\. Easier Installation
+
+At the very least, it's much quicker to install a new electric dryer, especially if you already have a dedicated 240-volt outlet the unit can plug into. If not, you might need to hire an electrician to install more robust wiring and a 240-volt outlet. However, there's also no gas line to hook up with an electric dryer, so that could be a cost advantage.
+
+If you don't have an existing gas source, it's probably less expensive to go with an electric dryer. The cost of installing new gas lines and all the safety checks that come with it add up quickly.
+
+**More Related Articles:**
+
+*   [Here’s Why Your Clothes Dyer Is Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/dryer-making-noise/)
+*   [How Much Does a Clothes Dryer Cost?](https://www.homeserve.com/en-us/blog/cost-guide/clothes-dryer/)
+*   [Need to Vent? Here’s How to Install a Dryer Vent](https://www.homeserve.com/en-us/blog/how-to/install-dryer-vent/)
+*   [How Much Does It Cost to Install a Dryer Vent?](https://www.homeserve.com/en-us/blog/cost-guide/dryer-vent-installation/)
+*   [Here’s How to Change the Direction the Door Swings on Your Washer and Dryer](https://www.homeserve.com/en-us/blog/how-to/reverse-washer-dryer-door/)
+
+### 4\. Safety Considerations
+
+Any time you have gas lines coming into a house, there's the potential for a gas leak, and gas is highly flammable. This is why odor is added to natural gas and propane — so it's easy to smell and detect a leak. Gas appliances, therefore, bring with them the risk of fire. There's also carbon monoxide to consider — carbon monoxide detectors are installed in homes with gas appliances.
+
+The risk of an electric dryer, on the other hand, is the same as it would be for any large appliance like your fridge. As long as your wiring is up to date, the potential for a malfunction is fairly low. Make sure the lint trap is clean every time you use it. Don't exceed the dryer's capacity for clothes, and keep surrounding areas free of dust and debris to help minimize risks.
+
+### 5\. More Models to Choose From
+
+According to Lowe's, because [electric dryers are more popular overall](https://www.lowes.com/n/buying-guide/how-to-choose-between-gas-electric-dryer), there are generally more models for you to choose from. You may also find there are more colors, finishes and features like wrinkle care and sensor dry to choose from on electric models. More expensive models might include smart home features, which allow you to control their operation from an app on your phone. This could be convenient if your dryer is in a basement or another out-of-the-way place.
+
+Whether you opt for an electric or gas dryer depends on your individual situation. While electric dryers cost less up front and are generally less expensive to install, especially if you have an existing 240-volt outlet, gas dryers tend to be more efficient and heat up faster.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/E7N374KASqs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Eco-friendly laundry hack!"></iframe>

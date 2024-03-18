@@ -1,0 +1,89 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Read Your Utility Meters"
+headline: "How to Read Your Utility Meters"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-20
+basePath: https://library.homeserve.com/m/
+heroImage: 21dd99b7e02d9e55/Blog-Getty_172742316_MeterBox_EE_CMYK.jpg
+heroAltDescription: "external electrical meter"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Knowing how to read a meter can help you ensure that your utility bills are accurate. Here's how to read yours."
+articleAbstract: "Knowing how to read a meter can help you ensure that your utility bills are accurate. It could also help you detect a gas or electricity leak, so meter reading is an essential skill. Here's how to read your meters."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Read Your Utility Meters"
+  parent: Exterior-Home-How-To
+---
+  
+
+Knowing how to read a meter can help you ensure that your utility bills are accurate. It could also help you detect a gas or electricity leak, so meter reading is an essential skill. Electric, water and gas meters may look confusing at first, but meter reading is easy to master with the right knowledge.
+
+**This May Also Interest You:** [**How Much Do Utilities Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/utilities/)
+
+Below, we break down how to read both modern and old-style meters.
+
+Where Is My Electric Meter?
+---------------------------
+
+An electric meter is usually circular with a digital display or a series of five circular dials. Your meter might be attached to an exterior wall where the supply line enters your property around the electric junction box if you live in a house. If not, check the area around your main panel. You may also find it in your basement, porch, attic or utility closet.
+
+Apartment buildings usually have a communal area for electric meters, and each meter should have a label. Your landlord or leasing company can tell you where the electric meters are in your building and help you locate the correct meter.
+
+How Do I Read My Electric Meter?
+--------------------------------
+
+You can take a digital or an odometer-style electric reading from left to right, much like reading the mileage on your car. This is the number of kilowatt-hours of electricity you have consumed.
+
+Read a meter with circular dials from right to left. Record the lower number if the dial hand is between two numbers. If the dial is pointing directly to a number, check which number to use by looking at its right-hand neighbor. If it's past zero, record the number the hand is pointing at. If not, record the number below. Write down the numbers from right to left, and that’s your meter reading in kilowatt-hours.
+
+Where Is My Water Meter?
+------------------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/6c3e44b046c02dd0/Blog-GettyImages-157373240.jpg" alt="A water meter is displayed up close"/>
+
+Usually, you can find your water meter near the curb outside your house. Look for a concrete box or a meter pit with a metal lid. These often have "water" stamped on them. You can use a screwdriver to open the box or remove the lid to access the meter. Check the meter pit or box for pests and other hazards before putting your hands inside.
+
+If you can't find a curbside meter, you may have an indoor water meter. Indoor water meters are more common in colder areas. There are several potential locations for an indoor water meter, but the most likely is the basement.
+
+How Do I Read My Water Meter?
+-----------------------------
+
+Most homes have a straight-reading water meter. These water meters have an odometer-style dial that records your water usage in cubic feet and a sweep hand that rotates once per cubic foot. You can take a meter reading by recording the digits displayed on the dial from left to right. The sweep hand lets you read fractions of a cubic foot.
+
+Round-reading water meters are relatively uncommon nowadays, but you might have this meter type if you live in an older home. These meters have six individual dials numbered zero through nine and measure usage in gallons. To take a meter reading, start from the “100,000” dial and record the number the hand is pointing to. Then, continue recording each dial, reading clockwise until you reach the “10” dial. Record the lower number if the hand is between numbers.
+
+**More Related Articles:**
+
+*   [How Much Does Electricity Cost?](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/)
+*   [More Power To You: How to Read Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/read-electricity-bill/)
+*   [How to Take Advantage of Time-of-Use Rates and Lower Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/save-electricity-during-peak-hours/)
+*   [How Much Electricity Do Holiday Lights Use?](https://www.homeserve.com/en-us/blog/home-improvement/holiday-lights-electricity-use/)
+*   [Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load](https://www.homeserve.com/en-us/blog/how-to/phantom-loading/)
+
+Where Is My Gas Meter?
+----------------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/10046d8b7c11d30/Blog-HomeGasMeter_MDavis_IMG_7626.jpg" alt="Gas meter in basement"/>
+
+You can usually find your gas meter outside your house on a side or rear wall. Sometimes, it's inside a watertight cabinet. Your gas company can tell you where your gas meter is if you can't find it.
+
+However, gas meters are normally kept in a communal location in apartment buildings and duplexes. It's important to ensure you're looking at the meter belonging to your home when you take a meter reading.
+
+How Do I Read My Gas Meter?
+---------------------------
+
+Some gas meters have four individual dials numbered zero through nine, rather like an old-style electric meter. You should read a round-reading gas meter from left to right. Record the lower number if the hand is between numbers. Bear in mind that zero is considered higher than nine.
+
+If the hand is pointing straight at a number, look at the next dial to the right. Subtract one from the reading if the right-hand dial hasn't passed zero. Record the number the hand is pointing at if the right-hand dial hasn't passed zero.
+
+It's significantly easier to take a meter reading from a digital or an odometer-style gas meter. Simply record the digits on the display from left to right.
+
+What Do I Do If My Meter Shows a Different Reading Than My Electricity Bill?
+----------------------------------------------------------------------------
+
+If your electricity bill and meter reading don't match, chances are that your electricity company used estimated readings. Utility providers use your previous energy usage to estimate how much to charge you if they were unable to obtain a reading — such as if you were out when they called or your meter was inaccessible. Companies may also use estimated readings between scheduled visits to take an exact meter reading.
+
+Bills calculated using estimated readings can be a problem if your electricity company's estimation is higher than your actual usage because you'll be paying for energy you didn't actually use. You can avoid this problem by taking a meter reading yourself each month and sending it to your provider. Alternatively, you could consider installing a smart meter. Smart meters track your electricity usage and send a meter reading to your electricity company automatically.

@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "CES 2022: LG's Eco-Friendly Fridge Door and 4 Other Environmental Innovations"
+headline: "LG's Eco-Friendly Fridge Door and 4 Other Environmental Innovations"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2022-01-05
+basePath: https://library.homeserve.com/m/
+heroImage: 5c38d1358e7bab8d/Blog-LG-InstaView-Refrigerator-01.jpg
+heroAltDescription: "A woman knocks on the glass of a stainless steel refrigerator that has a special window allowing the user to see what is inside the fridge without opening it"
+metaDescriptions: "LG highlighted energy-saving innovations and emissions-reducing initiatives at CES 2022."
+articleAbstract: "The annual CES convention in Las Vegas isn’t all about vaporware and flying cars. In addition to blue-sky technologies, there are also green-future ones aimed at providing real-world solutions to real-world issues — like, say, the environment. To that eco-friendly end, South Korea-based home-appliance manufacturer LG highlighted energy-saving innovations and emissions-reducing initiatives CES 2022."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "LG Sustainable Solutions"
+  parent: Appliances
+---
+   
+
+_Manufacturer image_ 
+
+Contrary to what you might imagine, the annual CES convention in Las Vegas isn’t all about vaporware and flying cars ... well, [not _entirely_](https://www.forbes.com/sites/michaelgoldstein/2021/12/30/its-2022-where-are-the-flying-cars/?sh=1967c1b83f7b), anyway. In addition to blue-sky technologies, there are also green-future ones aimed at providing real-world solutions to real-world issues — like, say, the environment. To that eco-friendly end, South Korea-based home-appliance manufacturer LG highlighted energy-saving innovations and emissions-reducing initiatives during its press conference Jan. 4 at the 2022 edition of CES (formerly known as the Consumer Electronics Show).
+
+**This May Also Interest You:** [**How Much Does an LG Smart Fridge Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/lg-smart-refrigerator/)
+
+Here are five ways LG products you may have in your own home are addressing climate consciousness:
+
+1\. Keeping the Fridge Door Closed
+----------------------------------
+
+In the old days, parents might admonish their children to stop standing there with the refrigerator door wide open with a sarcastic, “Are you trying to refrigerate the whole neighborhood?” But with LG’s InstaView Door-in-Door smart fridge feature, kids wanting to see if there’s any string cheese or juice boxes left — or, let’s face it, adults desperately looking for the fourth time for something to satisfy their boredom-eating urge — need only knock twice. The knocking triggers the tinted glass panel to light up so you can see what’s inside the fridge without opening the door repeatedly, helping keep perishables at optimal temperature and preventing energy waste.
+
+“This seemingly simple design not only lets your hardest-working home appliance operate far more efficiently,” LG said in a statement, “it also saves you a handsome sum by keeping the compressor — the engine that creates all that cold air — from working overtime, the key to increasing its lifespan.”
+
+Understandably worried about the toll all that knocking’s gonna take on your fridge? [LG assures would-be buyers](https://www.lg.com/us/support/video-tutorials/instaview-doorindoor-durability-test-CT10000021-20150262159856') that it’s been tested to withstand anything from overzealous knocking to door slamming, and even the impact of being struck by a metal pan.
+
+LG didn’t specify how much energy current versions of InstaView-equipped fridges save — but, judging by your parents’ admonitions about standing there with the door open, it could be a lot.
+
+2\. Laundry in Less Time
+
+<img class="detail-image" src="https://library.homeserve.com/m/7e025a1d1f7c618e/Blog-LG-CES-2022-PCON_3.jpg" alt="A woman shows another person a newfangled washer and dryer in a home laundry room"/> 
+
+_Manufacturer image_ 
+
+AI: It ain’t just for [sci-fi movies](https://youtu.be/pm7qlQ2E0iE) anymore — it can do laundry, too! LG’s proprietary machine-learning application for its washers and dryers, dubbed AI DD (Artificial Intelligence Direct Drive), applies settings based on the volume of the load and garment delicateness, and adjusts the cycle for the optimal wash pattern to conserve energy and extend the lifespan of your wardrobe. Now, if only it could extend the lifespan of your wardrobe’s _fashionability_.
+
+3\. Screen for Sustainability
+
+Onetime FCC Chair Newton Minow famously [called TV a “vast wasteland.”](https://time.com/4315217/newton-minow-vast-wasteland-1961-speech/) LG is addressing the waste part. According to LG spokespeople, the manufacturer’s OLED TVs contain less plastic than conventional TVs. Having eliminated the need for backlighting in order to function, OLED TVs require fewer components, hence fewer materials and less production of hazardous compounds, while increasing efficiency and reducing the amount of energy going down the _tubes_.
+
+**More Related Articles:**
+
+*   [LG Smart Refrigerators: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/home-improvement/lg-smart-refrigerator/)
+*   [How Much Value Does a Laundry Room Add to Your Home?](https://www.homeserve.com/en-us/blog/buying-guide/laundry-room-home-value/)
+*   [What’s the Samsung TV Upgrade Program and Is It Worth It?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-tv-upgrade-program/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [Does My HVAC Filter Protect Against COVID-19?](https://www.homeserve.com/en-us/blog/home-improvement/hvac-filter-covid-19/)
+
+4\. Material Changes
+
+LG vowed to increase the use of recycled materials in its packaging and manufacturing process. Packaging increasingly will be made using recycled pulp, while some 600,000 tons of recycled plastic will be used for product manufacturing, spokespeople said. By 2030, LG hopes to “increase recovery of electronic waste” by 8 million tons and to reduce carbon emissions in manufacturing versus 2017.
+
+5\. A Breath of Fresh Air
+
+<img class="detail-image" src="https://library.homeserve.com/m/48b1ec4ac79fd55f/Blog-LG-CES-2022-PCON_1.jpg" alt="Two women use the LG PuriCare Aero Tower air purifier in a modern living room"/> 
+
+_Manufacturer image_ 
+
+In addition to the environment, LG also highlighted innovations aimed at improving _your_ environment — specifically the air that you breathe in your home. The [LG PuriCare Aero Tower](https://www.lg.com/us/ces2022/puricare-aero-tower) — a combo air purifier, fan and heater — purportedly captures 99.97% of fine dust particles using a 360-degree HEPA filter. It also uses UV nanotechnology to capture airborne bacteria before it reaches your lungs. It’s a timely presentation considering pandemic-precipitated concern over the unhealthy agents that can find their way into our respiratory system.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

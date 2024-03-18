@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Spot Problems Early to Minimize Home Repairs"
+headline: "Spot Problems Early to Minimize Home Repairs"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-11-19
+basePath: https://library.homeserve.com/m/
+heroImage: 501c232ab28ebde1/Blog-GettyImages-879656630.jpg
+heroAltDescription: "Middle aged man repairing burst pipe"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "You know what they say about an ounce of prevention. Spot these warning signs and address them quickly to avoid major costly home repairs."
+articleAbstract: "You know what they say about an ounce of prevention. Spot these warning signs and address them quickly to avoid major costly home repairs."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Spot Problems Early to Minimize Home Repairs"
+  parent: Interior-Home-Home-Improvement
+---
+  It's a universal truth: If you own a home, you're going to need to make repairs. But it's also true that learning how to spot small issues before they lead to big problems can minimize the extent of those repairs, saving you time, worry and money.
+
+**This May Also Interest You:** [**Here's How Much Common Home Repairs Cost — and How to Budget for Them**](https://www.homeserve.com/en-us/blog/cost-guide/home-repair-costs/)
+
+Keep an eye out for signs that something might be going wrong with the major systems in your home so that you can take steps to correct course as quickly and inexpensively as possible.
+
+Sewer Lines
+-----------
+
+Whether your residential sewer line delivers waste to a septic field or to a city sewer line, figuring out if something isn't working right sooner rather than later is critical to staving off potentially costly and disruptive repairs.
+
+The first clue most homeowners get that something isn't working right is backups in the home. If a toilet or a sink backs up occasionally, this usually indicates a problem with those fixtures. If, however, you notice slow drains or backups in multiple places in your home, this can indicate a clog in your sewer line. You should have an expert evaluate the situation. The same goes for any unusual backups or gurgling noises, such as water bubbling up in your shower drain when you flush the toilet. The smell of sewer gas inside the home can also be a clue that your sewer line needs servicing.
+
+The outside of the home can offer clues to a damaged sewer line as well. If there are unusual patches of extra green or fast-growing grass or weeds in your yard, you might have a break in the pipe, as sewage can actually act as fertilizer for plants. Sunken areas along the sewer line or moist patches can also indicate the same thing. If you notice any of these issues, get in touch with a local plumber or septic specialist as soon as you can.
+
+Water Lines
+-----------
+
+Those are the signs that something might be wrong with the outgoing flow of water. What about the fresh water coming into your home?
+
+Again, the earliest warning sign that something is amiss here usually starts inside the home. Low water pressure or discolored water can indicate a break in the line somewhere. Mold or discolored patches on walls or ceilings can also mean there is a leak in the plumbing lines. Another less obvious clue can be a water bill that is suddenly much higher than usual, which means your water is flowing continuously somewhere you're not seeing.
+
+Outside the home, the clues are much the same as with sewer lines. If you see exceptionally healthy patches of grass or plants, or if you notice wet patches, it could mean that there is a crack in the main line feeding the home.
+
+**More Related Articles:**
+
+*   [Don’t Go Broke for Repairs: Get Ahead on Home Maintenance](https://www.homeserve.com/en-us/blog/how-to/dont-go-broke-on-emergency-home-repairs/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [How Much Does It Cost to Replace a Sewer Line?](https://www.homeserve.com/en-us/blog/cost-guide/sewer-line-replacement/)
+*   [How Much Does It Cost to Repair a Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-repairs/)
+
+HVAC Systems
+------------
+
+The clearest sign that there is an issue with your HVAC system is that it stops working as well as it once did — or it stops working altogether. If that's the case, though, it doesn't necessarily mean that you need to call a repair service. There are several common issues you can address yourself.
+
+If your system isn't working as effectively as it once did, the issue is likely that your HVAC filters are clogged. These filters are usually found on the air handler itself, or on the return vents on each floor of your home. If they’re the replaceable style, they should be swapped out every three to six months; if they’re the washable kind, they should be cleaned every two months. Looking after your filters is one of the easiest ways to keep your system running at peak performance and ward off more costly repairs like burned-out motors.
+
+Another thing to check if your system isn't working right is your thermostat. If it is an older model, it might need to be replaced, and if it's a new electronic version, you might simply need to change the batteries. If your system allows it, you may also need to recalibrate your thermostat by following the manufacturer's instructions.
+
+If the system has _completely_ stopped working, check the breaker and see if it needs to be switched back into the "ON" position. Before doing so, check those filters, though, so that you don't cause the system to use excessive energy to function properly. One other area to check for a completely dead system is the float. This small device sits in the pan beneath your air handler and collects condensation from the system. If the pan fills with water instead of evaporating off or draining, the float will rise and turn the system off. This usually means you'll need to call a repair service to figure out why the pan is filling so rapidly.
+
+Electrical System
+-----------------
+
+While issues with your HVAC system can certainly lead to discomfort, issues with your electrical system can lead to tragedy. That's why it's critical that you keep an eye out for potential problems and get them addressed by a licensed electrician as quickly as possible.
+
+Circuit breakers that trip repeatedly could mean that the circuit is overloaded and that a new circuit needs to be run or your electrical panel needs to be upgraded. Strange electrical odors, buzzing sounds or hot outlets and switch plates can mean that something is wired incorrectly or that there are frayed wires behind the walls. An electrician needs to be called immediately to assess the situation.
+
+You need to make sure that anywhere water can come in contact with an electrical outlet (such as in bathrooms, kitchens and outdoors), that the outlet is a GFCI or ground-fault circuit interrupter. These special outlets will trip automatically if they sense power flowing out of the outlet that shouldn't be there — such as when a current travels along the path of water — to prevent electrocution.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

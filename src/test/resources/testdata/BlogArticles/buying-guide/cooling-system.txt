@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "The Homeowner's Guide to Cooling Systems"
+headline: "The Homeowner's Guide to Cooling Systems"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-10-04
+basePath: https://library.homeserve.com/m/
+heroImage: 742b8c58ce2399bc/Blog-DualACcondensers_Erossi_4597-jpg.jpg
+heroAltDescription: "dual ac condensers outside home"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Most homeowners use air conditioning to cool their homes. But it’s not the only option. Here’s a look at the four most common types of cooling systems."
+articleAbstract: "Most homeowners rely on air conditioning to cool their homes. But it’s not the only option. Here’s a look at the four most common types of cooling systems."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "The Homeowner's Guide to Cooling Systems"
+  parent: HVAC-Buying-Guide
+---
+  According to the [U.S. Energy Information Administration](https://www.eia.gov/todayinenergy/detail.php?id=52558), in 2020, almost 90% of Americans relied on air conditioning to keep cool in hot weather.
+
+**This May Also Interest You:** [**Should You Buy a Ductless Air Conditioner?**](https://www.homeserve.com/en-us/blog/buying-guide/ductless-air-conditioner/)
+
+However, choosing the right system for your home can be confusing. Below, we'll explore the most common types of cooling systems to help you decide which one is best for your household.
+
+What Are the Most Common Types of Cooling Systems?
+--------------------------------------------------
+
+There are four main types of cooling systems for homes. Understanding the different systems and how they work can help you select the best option for your budget and climate.
+
+### Central Air Conditioning
+
+Central air conditioning systems transport cooled air from the AC unit through a series of ducts inside the walls of your home. Cool air enters your living space through the registers, which are small, grill-covered openings in the walls and ceilings. As the air warms up, it travels through the ductwork back to the air conditioner unit to be cooled and redistributed.
+
+There are two main types of central air conditioning systems: split-system air conditioning and packaged air conditioning. Split systems include an outdoor compressor, heat exchanger and fan in a cabinet and a second cabinet concealing an indoor heat exchanger and blower. Typically, split systems are cheaper to install if you have an existing furnace.
+
+Packaged systems only have one outdoor cabinet, usually on the roof or next to the house's foundation. Most packaged air conditioners include a heating element or furnace, so you can use them to heat and cool your home.
+
+### Ductless Systems
+
+Ductless air conditioning systems, also called [mini-split systems](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/), comprise an indoor, wall-mounted unit connected to an outdoor compressor. Unlike central air conditioners, you can't use a ductless air conditioner to cool your entire home. Instead, you'll need to install a separate system in every room requiring climate control. Ductless air conditioners aren't suitable for heating your home, so you'll need to install a furnace or heat pump if you don't already have one.
+
+Typically, installing ductless air conditioning in every room in your home is more expensive than replacing your existing central air conditioning unit with a new model. However, ductless air conditioners are exceptionally energy-efficient because they don't lose energy through the ductwork, making them comparably cheaper to run.
+
+### Evaporator Systems
+
+[Evaporative coolers](https://www.homeserve.com/en-us/blog/home-improvement/evaporative-cooling/), also known as swamp coolers, work by passing warm air from the room over a wet pad, encouraging the water to evaporate. The evaporated molecules then absorb heat from the air inside the room, causing it to feel cooler.
+
+Evaporative coolers use significantly less energy than air conditioners, making them a lot more affordable to run. However, they won't offer the same dramatic cooling as an AC unit and are relatively ineffective in humid climates.
+
+**More Related Articles:**
+
+*   [Cooling Fans Vs. Portable Air Conditioners: What’s the Difference?](https://www.homeserve.com/en-us/blog/home-improvement/cooling-fan-vs-air-conditioner/)
+*   [New to BTUs? Here’s What to Know About BTUs When Shopping for an Air Conditioner](https://www.homeserve.com/en-us/blog/home-improvement/btu-air-conditioning/)
+*   [What’s a Concealed Duct Mini-Split Air Conditioner?](https://www.homeserve.com/en-us/blog/home-improvement/ducted-mini-split-installation/)
+*   [No AC? No Sweat. Here’s How to Keep Cool](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+
+### Portable Units
+
+[Portable air conditioners](https://www.homeserve.com/en-us/blog/buying-guide/portable-air-conditioner-functionality/) contain all the elements of a ductless air conditioner in a compact unit, although they're pretty heavy and difficult to move. They're less energy-efficient than other options, making them costly to run.
+
+However, you won't need to pay installation costs, making them a potentially good choice for occasional cooling. For example, a portable air conditioner may be suitable for mobile homes or if you don't need to use a cooling system very often.
+
+What's the Best Type of Cooling System for My Home?
+---------------------------------------------------
+
+One of the first factors to consider when deciding which cooling system to use is the existing infrastructure inside your home. If you already have usable ductwork, installing a new central air conditioning system could cost around $3,000 (CAD 3,950), according to [Fixr](https://www.fixr.com/costs/central-air-conditioner-installation).
+
+A packaged system could be an excellent option if you want to install an entire HVAC system with heating and cooling capacity. However, installing central air conditioning could be prohibitively expensive if you need new ductwork, setting some homeowners back as much as $15,000 (CAD 19,750) for a high-efficiency system.
+
+Therefore, installing ductless air conditioners may be more affordable if you don't have ductwork or your existing ductwork is in very poor condition. The average cost of a ductless air conditioning unit is around $3,000 (CAD 3,950), according to [Bob Vila](https://www.bobvila.com/articles/mini-split-installation-cost/). How much it costs to install throughout your home depends on how many rooms you need to cool. A ductless system could also be an excellent option if you want to set different temperatures in individual rooms.
+
+If you're on a tight budget, an evaporative cooler or portable AC could be the way to go. However, these systems are rarely suitable for homes in very hot areas.
+
+A whole-house swamp cooler costs somewhat less than a traditional model, coming in at around [$2,500](https://www.fixr.com/costs/evaporative-cooling-installation) (CAD 3,300) on average. Portable swamp coolers are the most affordable option and start at around $150 (CAD 200), although they're only suitable for cooling small rooms. Meanwhile, portable air conditioners usually cost between $250 and $500 (CAD 330 and CAD 660), based on data from [NBC News](https://www.nbcnews.com/select/shopping/best-portable-air-conditioner-ncna1297644).
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

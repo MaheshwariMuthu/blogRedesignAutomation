@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------
+|ArticleName				|Title	|Author	|Date	|Image	|
+--------------------------------------------------------------------------
+|window-treatments			|Pass	|Pass	|Pass	|Pass	|
+|wood-burning-stove			|Pass	|Pass	|Pass	|Pass	|
+|window-replacement-cost			|Pass	|Pass	|Pass	|Pass	|
+|wire-ceiling-fan			|Pass	|Pass	|Pass	|Pass	|
+|windows-pc-serial-number			|Pass	|Pass	|Pass	|Pass	|
+|wisconsin-water-heater-costs	|Pass	|Pass	|Pass	|Pass	|
+|zoned-hvac-system			|Pass	|Pass	|Pass	|Pass	|
+|winterize-your-windows			|Pass	|Pass	|Pass	|Pass	|
+--------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|ArticleName				|Heading		|Paragraph		|Link			|List			|Image			|Video			|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|window-treatments			|Pass: 17 Fail: 0	|Pass: 33 Fail: 0	|Pass: 12 Fail: 0	|Pass: 2 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|wood-burning-stove			|Pass: 3 Fail: 0	|Pass: 13 Fail: 0	|Pass: 7 Fail: 0	|Pass: 3 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|window-replacement-cost			|Pass: 5 Fail: 0	|Pass: 16 Fail: 0	|Pass: 10 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|wire-ceiling-fan			|Pass: 10 Fail: 0	|Pass: 18 Fail: 0	|Pass: 6 Fail: 0	|Pass: 2 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|windows-pc-serial-number			|Pass: 9 Fail: 0	|Pass: 27 Fail: 0	|Pass: 5 Fail: 0	|Pass: 1 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|
+|wisconsin-water-heater-costs	|Pass: 3 Fail: 0	|Pass: 10 Fail: 0	|Pass: 6 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|zoned-hvac-system			|Pass: 5 Fail: 0	|Pass: 14 Fail: 0	|Pass: 7 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|winterize-your-windows			|Pass: 10 Fail: 0	|Pass: 14 Fail: 0	|Pass: 7 Fail: 0	|Pass: 4 Fail: 0	|Pass: 4 Fail: 0	|Pass: 1 Fail: 0	|
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

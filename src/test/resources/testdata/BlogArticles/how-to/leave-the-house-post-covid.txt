@@ -1,0 +1,90 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Leave the House Post-COVID"
+headline: "Leaving Home to Go to Work for the First Time Since 2020? Here's How to Prepare to Not Be There"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-10-01
+basePath: https://library.homeserve.com/m/
+heroImage: 23f3cca16ce1e404/Blog-GettyImages-1171124502-jpg.jpg
+heroAltDescription: "Adult man and little girl leave house through open doorway holding hands with their backs to us"
+metaDescriptions: "Now that you've finally gotten used to doing everything from home, it's time to head back to work. Here are some tips for an easy transition."
+articleAbstract: "Now that you've finally gotten used to working (and doing nearly everything else) from home, it's time to head back to work. Here's how to make the transition a little easier."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Prepare Your Home for When Your Not There Post-COVID"
+  parent: Interior-Home-How-To
+---
+  
+
+In no uncertain terms, the COVID-19 pandemic has transformed nearly every aspect of our lives. Social lives were put on pause, travel itineraries were canceled and, for those with children, homes were converted into unruly classrooms.
+
+**This May Also Interest You:** [**Post-Lockdown Parties: Outfit Your Outdoor Space for All-Weather Entertainment**](https://www.homeserve.com/en-us/blog/home-improvement/post-covid-outdoor-living-space/)
+
+2020 was a traumatic year. With [tensions high](https://www.nytimes.com/article/george-floyd-protests-timeline.html) across the country, the threat of [climate change](https://climate.nasa.gov/news/3061/2020-tied-for-warmest-year-on-record-nasa-analysis-shows/) looming and a deadly pandemic upending our lives, it’s amazing you’re doing OK ... You _are_ OK, right?
+
+But the truth is, you eventually got used to being at home. Sure, working from home was a challenge at first, but you adapted. The habits and routines you got used to before the pandemic disappeared in the blink of an eye — but, hey, you finally started tackling a few of those house projects on your to-do list. And you also got really good at making [sourdough](https://www.vox.com/the-highlight/2020/5/19/21221008/how-to-bake-bread-pandemic-yeast-flour-baking-ken-forkish-claire-saffitz). The problem is that now, many of those day-to-day tasks that were once a seamless part of your life before the COVID crisis might seem a bit alien these days.
+
+So the question is: How do we get back in the groove of leaving our homes more often when we’ve been all but stuck in them for over a year? Here are a few tips to make the transition a little easier.
+
+Back to Reality
+---------------
+
+Now that restrictions have loosened, your favorite restaurants have reopened their dining rooms, you can go see movies in the theater again and live music is reemerging in many venues. Life is returning to “normal.” It also means that kids are back at school and companies are bringing employees back to the office. And while it’s safer to leave your home these days (if you’re [vaccinated](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/vaccine-benefits.html)), going back to work in an office every day can feel weird post-lockdown.
+
+If going back to work makes you feel anxious, you’re not alone. According to an [Envoy study](https://www.verywellmind.com/going-back-to-the-office-after-the-pandemic-5180873), about two-thirds of workers say they’re feeling nervous, too. Plus, when you’re at home all of the time, you’re the master of your domain: You’re there to receive packages, take power naps in between Zoom meetings and remain in total control of your home’s thermostat.
+
+But before you get too verklempt thinking about your fading remote-working days, you can take steps now to make the transition easier. You’re going to be away from your house during the day, but there are still several ways you can still manage your home’s daily comings and goings without relinquishing any of that ease and comfort that you got used to in lockdown (except for maybe those post-lunch siestas).
+
+Check Your House
+----------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/57a32bb7b2049bf4/Blog-TurnOffStove_MSchmitz_0001.jpg" alt="Human hand adjusting the burner with the knob of the black stovetop on which a stainless steel teapot sits as well as a teacup with a teabag in it"/>
+
+Before you go back to leaving your house for long periods of time on a regular basis, it might be a good idea to get back into the habit of routinely checking certain items around the house. For example, is the oven turned off? Are all doors and windows around the house locked? Creating a mental list of items to check can help cut down on some of the stress you may feel returning to work. You may even want to take this a step further and write these to-dos down so you can physically tick the boxes as you complete each task. Knowing that your house is safe and secure before leaving can really make a big difference in your anxiety levels.
+
+In addition to double-checking your house and appliances for safety and security, it also might be a good idea to create a list of your household chores — ones that you need to complete before work in the morning or right when you come back home — like trash and recycling pick up and bringing in the daily mail.
+
+You might want to add a quick glance at the weather radar to your daily list, as well. Inclement weather can cause all sorts of problems when you’re unprepared. If extreme weather is on its way, you might be able to make crucial preparations before leaving for work that could end up saving you in costly damage. Make sure you check all gutters, anchor any outdoor furniture and clear any dead tree limbs above and around your home. Not being home during a sudden big storm can be worrisome, but you taking some of these preventive measures before you leave can ease your mind.
+
+<img class="detail-image" src="https://library.homeserve.com/m/52b61fed6f851820/Blog-LockDoor_MSchmitz_0001.jpg" alt="Human hand flipping the switch to lock a sliding glass door from the inside of a home"/>
+
+Package Delivery Management
+---------------------------
+
+Among the more notable changes brought on by the coronavirus pandemic in the United States is how much we now rely on [online shopping](https://www.nytimes.com/2021/04/29/technology/amazons-profits-triple.html). Before, Amazon’s lightning-speed delivery was almost a novelty. Now, it feels like more of a necessity. Online delivery is just incredibly convenient, and you may not be ready to give up the habit. But what happens if you’re not home during the day to intercept your packages? The good news is that there are several ways you can still keep up with your deliveries when you’re not there.
+
+While getting deliveries throughout the week is one good way to fill your days with happy little surprises, having the boxes stacked up on the front step can be an open invitation for those pesky [porch pirates](https://www.nbcnews.com/think/opinion/porch-pirates-have-become-public-enemy-number-one-stopping-them-ncna1104446) to come snooping around.
+
+<img class="detail-image" src="https://library.homeserve.com/m/f54fdc5aa02d7a6/Blog-AmazonHub_MSchmitz-0001.jpg" alt="Human hand pressing buttons on the keypad of an Amazon Hub package system with a blue screen bearing the Hum log"/>
+
+### Pick-Up Lockers
+
+To avoid having packages pile up on your doorstep, consider utilizing remote pick-up locations to store your packages until you come to get them. [Amazon Hub Lockers](https://www.amazon.com/ulp/view) are popping up in cities around the country, usually inside supermarkets, gyms or convenience stores. You can have items shipped directly there at no extra cost. It might be a good idea to [find a Hub Locker near you](https://www.amazon.com/gp/css/account/address/view.html?viewID=searchStores&storeSearchRedirectUrl=%2Fa%2Faddresses%3Fref%3Dya_address_book_add_store_address_link%26alertId%3Dyaab-enterAddressSucceed&tag=p00935-20&ascsubtag=002Ns4YUR7a2rjPDm6Y8VvN) or your place of work so that you don’t have to travel too far out of your way to pick up your packages. When your items are delivered, Amazon will send you a six-digit code you will use to get inside the locker. Other similar shipping services are offered by nearly all the major delivery services, so no matter which service you’re using, you’ll be able to safely store your packages until you can pick them up.
+
+### Video-Enabled Security Devices
+
+Another option for the tech-savvy online shopper is to invest in a video security device for your property. Outdoor security cameras like the [Wyze Cam V3](https://www.pcmag.com/reviews/wyze-cam-v3) or video doorbells like the [Ezviz DB1C](https://www.pcmag.com/reviews/ezviz-db1c-wi-fi-video-doorbell) come loaded with motion detection and two-way audio that can help you see exactly who is at your door and when.
+
+Climate Control
+---------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/ef3c0d61e0f9ed7/Blog-AdjustingThermostat_MSchmitz_0001.jpg" alt="Human hand adjusting thermostat on a gray wall with a green snake plant in the photo"/>
+
+Being at home for the better part of two years allowed us to regain a lot more control over our home’s utilities than ever before. Because we were home, we could wrestle with the controls all day, making sure the temperature in our home suited our preferences perfectly. But after going back to work, how can you ensure that you’ve still got control over your home’s temperature while you’re gone?
+
+To ensure that your home’s climate is continually suited to your preferences, consider installing a smart thermostat. Smart climate control devices use automation to make sure your home’s temperature is comfortable while saving on energy costs too.
+
+Although you can set up a specific heating or cooling schedule for when you’re away from your house, a smart climate control appliance, like the [Ecobee Smart Thermostat,](https://www.amazon.com/ecobee-SmartThermostat-Voice-Control-Black/dp/B07NQT85FC) will learn your habits and design a climate system that works for you. With geofencing capabilities, your thermostat will know when you’re away and go into a more eco-friendly mode, only to turn back on when you are close to the house. What’s more is that you can also adjust your home’s temperature from your smartphone while you’re at work. For those of us that like to keep a close eye on our home’s thermostat (where are the dads at?), a smart climate control appliance can really help us stay on top of our home’s temperature when we’re away.
+
+Get Smart
+---------
+
+Speaking of making your home smarter, there’s actually a range of other products you can bring on board to help you gain greater control over your property when you’re away. Smart sprinklers help you keep the grass watered without having to turn the system on and off yourself, smart outlets and light bulbs let you turn on sockets or lamps according to a schedule that suits you best and smart sensors can keep an eye on things like smoke, freezing temperatures and flooding to give you greater peace-of-mind when you are at work.
+
+If you have pets, smart home cameras can let you check in on them during the day from your smartphone or a web browser.
+
+It Gets Easier
+--------------
+
+The good news is that, just as we adapted to a largely at-home lifestyle at the beginning of the pandemic, you too will soon get back in the swing of leaving home more often. It might take some mental gymnastics at first until it all becomes second nature again, but if COVID has taught us anything, it’s that we’re resilient and capable of doing hard things. And, hey, who knows? You may find that having to put on real pants for work is actually a _good_ thing.

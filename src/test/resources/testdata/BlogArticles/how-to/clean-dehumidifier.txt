@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean a Dehumidifier"
+headline: "How to Clean a Dehumidifier"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-02-26
+basePath: https://library.homeserve.com/m/
+heroImage: 210cb1a874d7d880/Blog-GettyImages-1151153967.jpg
+heroAltDescription: "Dehumidifier with touch panel"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Here's how to clean a dehumidifier to keep your home healthy and help the machine last longer."
+articleAbstract: "If you haven't cleaned it lately, your dehumidifier could be full of gunk and harboring mold and mildew. Here's how to clean a dehumidifier to keep your home healthy and help the machine last longer."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clean a Dehumidifier"
+  parent: Appliances-How-To
+---
+  Are you worried about what's growing inside your dehumidifier? If you haven't cleaned it lately, it could be full of gunk and harboring mold and mildew. Your dehumidifier is a workhorse when it comes to removing moisture from your home, but it needs a little maintenance to keep it running well.
+
+**This May Also Interest You:** [**Get Rid of the Humidity: Here’s How to Use a Dehumidifier Effectively**](https://www.homeserve.com/en-us/blog/how-to/use-a-dehumidifier/)
+
+Here's how to clean your dehumidifier to keep your home healthy and help the machine last longer.
+
+Do You Need to Clean a Dehumidifier?
+------------------------------------
+
+Your machine needs to be cleaned regularly, and that’s because of how a dehumidifier works. The machine pulls moisture out of the air, and it collects inside the dehumidifier. It also pulls other things in from the air, such as bacteria and mold spores. You might be using the machine to prevent mold inside your home, but you could be growing it inside the dehumidifier since it offers the perfect warm, damp environment for mold spores to grow. Regular cleaning helps remove the gunk that the dehumidifier collects and prevents mold growth or buildup that can damage the machine.
+
+Clean the Outside
+-----------------
+
+Start by wiping away or vacuuming any dust on the outside of the dehumidifier. Doing this first prevents the dust from falling inside the dehumidifier when you clean it. Then take a damp cloth and wipe all of the exterior surfaces. Be sure you squeeze the excess water out of the cloth to prevent water from dripping inside the electronic components. Use some mild soap or a multipurpose cleaner if you notice any sticky or greasy spots that don't wipe away easily. Wipe the outside with a dry towel when you're done cleaning it.
+
+Clean the Inside
+----------------
+
+Inside the dehumidifier, the main component to clean is the reservoir or bucket where the water collects inside the machine. Empty the dirty water and fill the bucket with warm water and mild soap. Use a gentle brush or sponge to clean the inside of the bucket. Rinse it well and dry it.
+
+Check the evaporator coils at the back of your dehumidifier to see if they're frozen. If so, let them thaw. If you can access the fan blades easily, wipe them with a damp cloth to remove built-up dirt. You can also use a vacuum cleaner with a hose attachment to suck away any debris that has built up on the fan blades.
+
+**More Related Articles:**
+
+*   [5 Reasons You Need to Dehumidifier in Your Home](https://www.homeserve.com/en-us/blog/home-improvement/dehumidifier-benefits/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+*   [How to Set Your Whole-House Humidifier for Winter](https://www.homeserve.com/en-us/blog/how-to/humidifier-setting-in-winter/)
+*   [How to Set Your Whole-House Humidifier for Summer](https://www.homeserve.com/en-us/blog/how-to/whole-house-humidifier-summer-setting/)
+*   [High Humidity Can Harm Your Home. Here’s How to Head off Damage](https://www.homeserve.com/en-us/blog/home-improvement/high-humidity/)
+
+How Do You Clean a Dehumidifier Filter?
+---------------------------------------
+
+The filter is an especially important component to clean since it collects the mold, bacteria, dirt and other gunk from the air. Dehumidifiers have air filters, and some also have small bucket filters. You can wash both types of filters in warm, soapy water. Rinse them well to remove all of the soap, and make sure the filters are dry before you put them back in the dehumidifier. Some filters are disposable, so you can simply toss the old one and put a new filter in.
+
+How Do You Get Mold Out of a Dehumidifier?
+------------------------------------------
+
+Cleaning your dehumidifier regularly can prevent mold, but it doesn't take long for the spores to start growing. If you notice mold inside the dehumidifier, you can use either vinegar or bleach to clean the mold. Note: Never use both bleach and vinegar together or one right after the other as they can create dangerous chlorine gas when they're combined.
+
+Spray bleach or vinegar on the moldy areas and let it sit for several minutes. Scrub the area and rinse it well. To keep the mold under control in the future, clean the dehumidifier more frequently and check for additional mold growth.
+
+Tips for Cleaning a Dehumidifier
+--------------------------------
+
+The following tips for how to clean a dehumidifier make the process easier:
+
+* **Unplug the machine:** Never try to clean the dehumidifier when it's plugged in because the water and moisture could cause a shock.
+* **Clean regularly:** Do this cleaning process at least once per month. If the filter or internal components seem really gunky after a month, clean the dehumidifier more frequently.
+* **Check the instructions:** If you still have the manual for your dehumidifier, read the cleaning and maintenance instructions to determine if you need to do anything special with the machine.
+* **Let everything dry:** You want everything to be completely dry before you reassemble and use the dehumidifier.
+* **Test it out:** Once everything is dry and reassembled, plug in the dehumidifier and turn it on to ensure everything works correctly.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

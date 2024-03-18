@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Concerned About Air Quality? Try These 10 Tips"
+headline: "Concerned About Air Quality? Try These 10 Tips"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2023-07-20
+basePath: https://library.homeserve.com/m/
+heroImage: 36e60972e55d23f2/Blog-GettyImages-946637356.jpg
+heroAltDescription: "Turning On Modern Air Purifier And Ionizer"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Discover 10 simple ways to improve indoor air quality in your home. From cleaning tips to plants choices, learn how to create a healthier living environment."
+articleAbstract: "With wildfire smoke making the outdoor air quality in parts of the U.S. and Canada quite poor, many homeowners are looking for how to improve the air quality inside their homes. Here's how."
+category: ["How To"]
+eleventyNavigation:
+  key: "Concerned About Air Quality? Try These 10 Tips"
+  parent: HVAC-How-To
+---
+  Poor air quality isn't something anyone wants in their home. It's unhealthy as well as uncomfortable. According to the [U.S. Environmental Protection Agency](https://www.epa.gov/indoor-air-quality-iaq/introduction-indoor-air-quality), the impacts of poor home air quality can include dizziness, fatigue and wheezing.
+
+**This May Also Interest You:** [**Is an Air Filter Subscription Service Worth the Cost?**](https://www.homeserve.com/en-us/blog/home-improvement/air-filter-subscription/)
+
+Opening a window sometimes helps, but not if there are lots of bugs or [wildfire smoke](https://www.washingtonpost.com/weather/2023/07/14/canada-wildfire-smoke-us-midwest/) swirling in the atmosphere. Keeping your home's air clean and fresh can be a challenge, but it's important not to ignore this issue. Your family is breathing this air, and it can be [two to five times poorer](https://www.epa.gov/report-environment/indoor-air-quality) than what they might get outdoors.
+
+What Are Some Ways to Improve the Quality of the Air Inside Your House?
+-----------------------------------------------------------------------
+
+These 10 tips can help you make your home a more comfortable and healthier place to live.
+
+### 1\. Keep Your Home Clean
+
+Dusting and vacuuming regularly will keep allergens, dust and pet dander at bay that can quickly accumulate and reduce air quality. Don't forget to clean your drapes as well because they're magnets for air pollutants. You should also clean bedding and upholstery regularly because they're shelters for dust mites.
+
+### 2\. Ventilate Your Home
+
+When the outdoor air quality is good, open windows and doors and let fresh air circulate around your home. This is especially helpful if you're cooking or using harmful chemicals that give off fumes that could be dangerous. If opening a kitchen window isn't an option, think of getting a cooking vent. It will draw in the particles of grease and food that typically circulate around a stovetop when cooking.
+
+### 3\. Change Your HVAC Filter
+
+Nothing improves indoor air quality better than an air conditioning system, but they need maintenance to perform at their best. One of the most effective things you can do is change the HVAC filter. It's a [relatively easy task](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/), but many people don't know how or simply forget to accomplish it. Ideally, you should replace the filter twice per year — more if you live in an area with high pollution.
+
+### 4\. Control Humidity Levels
+
+Your HVAC system should have a built-in humidity monitor. Use it to control the humidity levels in each room, ideally staying within 30% to 50%. If you don't have an HVAC system, consider getting dehumidifiers for damp areas, such as basements, bathrooms and laundry rooms.
+
+**More Related Articles:**
+
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Does Your Home Need a Whole-House Humidifier?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-humidifier/)
+
+### 5\. Check Air Ducts
+
+[HVAC ducts](https://www.homeserve.com/en-us/blog/buying-guide/hvac/) are ventilated channels for the air that flows through your air conditioning system. Air particles find their way into the vents and cling to the walls to create a grimy layer. The system peels particles from the layer when you switch it on in summer, blowing pollutants around your home. You should get a contractor to clean the ducts twice yearly and check them for mold, debris and leaks.
+
+### 6\. Keep Pollutants Out
+
+To keep cleaning to a minimum, do what you can to reduce the influx of pollutants in your home. Place doormats at entry points so people can wipe their shoe soles before going inside. Take off your shoes, replacing them with slippers or sandals, so you're not transferring outdoor dirt to your flooring. Don't store chemicals or paints in closets if you have a lockable outdoor alternative (so children can't reach them).
+
+### 7\. Use Non-Toxic Cleaning Agents
+
+There are safer alternatives to using harsh agents in home cleaning. You might be pleasantly surprised by the results of using items in your pantry, such as vinegar, baking soda and Castile soap. Consider mixing vinegar and vodka to create a germ-busting cleaning product that won't release toxic fumes into the air.
+
+### 8\. Use Plants to Improve Indoor Air Quality
+
+You might have heard that plants can degrade indoor air quality. There is truth to that, but it depends on the plants. Some release pollen and organic compounds that can trigger allergens, so you should be careful of the plants you choose. Aloe vera purifies indoor air, and peace lily is known to eliminate some toxins, such as benzene and ammonia.
+
+### 9\. Always Groom Your Pets
+
+Pet dander isn't only unsightly; it reduces home air quality and can make breathing difficult for asthmatics. It can also trigger some allergies. Even small pets you might think don't shed may be shedding difficult-to-see dander that could be affecting air quality. Bathe your pets regularly to reduce shedding, and brush cats and dogs to remove dead skin.
+
+### 10\. Avoid Smoking Indoors
+
+Although not as common as it once was, many people still smoke cigarettes or use vapes. Apart from the obvious health hazards, cigarette and vape smoke also pollute the air, walls and furnishings. Consider smoking outside if you're a smoker and politely request visitors do the same.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

@@ -1,0 +1,34 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "226,000 TruSense Smoke, Carbon Monoxide Alarms Recalled for Possible Failure to Alert Households to Fire"
+headline: "226,000 TruSense Smoke, Carbon Monoxide Alarms Recalled for Possible Failure to Alert Households to Fire"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-05-25
+basePath: https://library.homeserve.com/m/
+heroImage: 1269641ab5746fa0/Blog-TruSenseSmokeAlarmRecall_Kidde_0001.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Walter Kidde Portable Equipment Company Inc., of Mebane, N.C., is recalling more than a quarter-million Kidde TruSense-brand smoke alarms and combination smoke-carbon monoxide alarms."
+articleAbstract: "Walter Kidde Portable Equipment Company Inc., of Mebane, N.C., is recalling more than a quarter-million Kidde TruSense-brand smoke alarms and combination smoke-carbon monoxide alarms. The roughly 226,000 devices included in the May 6 recall alert have a defect that could result in failure to alert households to a fire. According to the Consumer Product Safety Commission, no incidents or injuries have been reported."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Kidde Recalls TruSense Smoke and Combination Smoke/Carbon Monoxide Alarms Due to Risk of Failure to Alert Consumers to a Fire"
+  parent: Interior-Home-Home-Improvement
+---
+  Walter Kidde Portable Equipment Company Inc., of Mebane, N.C., is recalling more than a quarter-million Kidde TruSense-brand smoke alarms and combination smoke-carbon monoxide alarms. The roughly 226,000 devices included in the [May 6 recall alert](https://www.cpsc.gov/Recalls/2021/Kidde-Recalls-TruSense-Smoke-and-Combination-Smoke-Carbon-Monoxide-Alarms-Due-to-Risk-of-Failure-to-Alert-Consumers-to-a-Fire) have a defect that could result in failure to alert households to a fire. According to the Consumer Product Safety Commission, no incidents or injuries have been reported.
+
+**This May Also Interest You:** [**Fire Risk Prompts Recall of Goal Zero Power Cables**](https://www.homeserve.com/en-us/blog/home-improvement/goal-zero-power-cable-recall/)
+
+Affected devices include Kidde Model Series 2040, 2050, 2060 and 2070 Smoke and Combination Smoke/Carbon Monoxide alarms — all of which have either a TruSense brand logo or “AMBER=FAULT” printed on the front. The devices’ respective model numbers are printed on the back. The alarms were manufactured in China and sold in the U.S. between May 2019 and September 2020 for $10 to $70 at Walmart, The Home Depot, Menards and other retail stores nationwide, as well as online at Amazon.com, ShopKidde.com and elsewhere.
+
+Households should contact Kidde immediately for a free replacement alarm. The CPSC advised owners to continue using the recalled alarms until the replacement devices are installed.
+
+Owners can call Kidde at 844-796-9972 or go online to the [Kidde recall page](https://kiddetsalarmrecall.rsvpcomm.com) for a comprehensive [list of recalled TruSense alarms](https://kiddetsalarmrecall.rsvpcomm.com/info.aspx) and how to identify them, and to register for a replacement. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov).
+
+More Related Articles:
+
+*   [Fire Risk: Metal Ware Recalls NESCO Coffee Bean Roasters Over Reports of ‘Flames and Smoke’](https://www.homeserve.com/en-us/blog/home-improvement/nesco-coffee-bean-roaster-recall/)
+*   ['Burning, Smoking, Melting': 800 PureLine Pool Pump Motors Recalled for Fire Danger](https://www.homeserve.com/en-us/blog/home-improvement/pureline-pool-pump-motor-recall/)
+*   [Over 700 Previously Recalled AC and Heat Pump Units Resold After Recalls Announced](https://www.homeserve.com/en-us/blog/home-improvement/ac-unit-heat-pump-recall/)
+*   [Burn Injuries Cited in Water Removal Pump Recall by Scott Fetzer Consumer Brands](https://www.homeserve.com/en-us/blog/home-improvement/scott-fetzer-water-pump-recall/)
+*   [Concussion, Broken Bones, Eye and Mouth Injury Risk: 1 Million Greenworks, Powerworks Pressure Washer Spray Guns Recalled](https://www.homeserve.com/en-us/blog/home-improvement/pressure-washer-spray-gun-recall/)

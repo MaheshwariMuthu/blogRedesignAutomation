@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Does a Portable Air Conditioner Work?"
+headline: "How Does a Portable Air Conditioner Work?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-05-30
+basePath: https://library.homeserve.com/m/
+heroImage: 3281cab8c33c4468/Blog-GettyImages-898247548.jpg
+heroAltDescription: "3D rendering, Portable Air Conditioner in room on the wooden floor"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Portable air conditioners are a no sweat solution for cooling a room. Here's what you need to know."
+articleAbstract: "Portable air conditioners offer a no sweat solution for bringing down indoor temps. Here's all you need to know about these under-utilized room coolers."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "How Does a Portable Air Conditioner Work?"
+  parent: HVAC-Buying-Guide
+---
+  
+
+The blessed blast of cool air a window-unit air conditioner can deliver to a room is a true modern miracle — especially in the stickiest, most sweltering months of the summer. But these units are big, heavy and, unless you live in an environment that's warm year-round, usually need to be put in during the summer and removed in the fall so that you don't lose heat through the windows in which they are installed. That makes for a lot of work. Plus, there's always the terrifying thought of the unit slipping through your hands during installation and plummeting to the ground outside. But if you don't have central air and summers are sweltering, you don't really have much of a choice … or do you?
+
+**This May Also Interest You:** [**What Size Air Conditioner Do I Need?**](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+
+Enter the portable air conditioner: A "no sweat" solution for bringing down indoor temps. Here's all you need to know about these under-utilized room coolers.
+
+How Is a Portable AC Different From an Air Conditioner?
+-------------------------------------------------------
+
+Portable AC units look a bit like in-room dehumidifiers. They are usually rectangular machines on wheels with a corrugated hose that you need to vent out a window, much like venting the exhaust from a clothes dryer. Although the hose needs to be installed in a window, it is a much easier process than putting in an entire window unit.
+
+Portable air conditioning units work the same as any other kind of AC unit. Air is passed over condenser coils filled with a refrigerant that removes heat and humidity. This newly cooled air is blown back into the room, while the hot air that's been removed flows through a tube and out the window. In the meantime, inside the unit, the refrigerant flows to a compressor that keeps the cycle running.
+
+While the basic process of cooling is the same in all models, there are actually several different units that handle the process a bit differently.
+
+In a single-hose-exhaust system, the main unit will suck air in from the room to operate and use its hose to funnel hot air outside. A potential drawback with this type of unit is that, because it uses the room air to operate, it will create a small amount of negative pressure in the room. As a result, warm air from a neighboring room will be sucked in, and the unit will have to deal with cooling that down as well. Making sure that gaps around doors and windows are sealed tight can help with this issue.
+
+Two-hose-exhaust systems overcome the negative-pressure problem by using one hose to bring air from outside into the unit and another hose to vent the heat from the cooling process back out.
+
+### Water, Water Everywhere
+
+In addition to the way in which portable AC units handle airflow, they can also differ in terms of how they process the moisture they remove from the air. Fully self-evaporative models use the same hose that eliminates the hot air out the window to also get rid of any moisture collected. It is by far the most worry-free setup.
+
+Other models, which might be cheaper, include a gravity drain hose with or without a pump. In this case, you attach a drain line to the unit and let the water flow through it, usually to a drain in the floor. The issue is that this relies on gravity to work, so if you don't have a floor drain, you'll want a unit with a pump that can bring the water up to a sink or other elimination point, or you'll need to place your unit on a table or other riser so that the tube can drain down into a sink or bucket.
+
+Finally, there are units that have collection reservoirs built in where the moisture gathers. These reservoirs need to be emptied manually. In humid climates, you may need to do so several times a day. But the unit is self-contained, so it could be a good choice if you can't afford a self-evaporative model and don't want to deal with drain lines.
+
+**More Related Articles:**
+
+*   [Cooling Fans Vs. Portable Air Conditioners: What’s the Difference?](https://www.homeserve.com/en-us/blog/home-improvement/cooling-fan-vs-air-conditioner/)
+*   [New to BTUs? Here’s What to Know About BTUs When Shopping for an Air Conditioner](https://www.homeserve.com/en-us/blog/home-improvement/btu-air-conditioning/)
+*   [No AC? No Sweat. Here’s How to Keep Cool](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+*   [Keep Cool With Our Top 5 Picks for Window AC Units](https://www.homeserve.com/en-us/blog/buying-guide/best-apartment-window-air-conditioners/)
+*   [How to Prep Your AC Unit for Summer](https://www.homeserve.com/en-us/blog/how-to/prepare-air-conditioner/)
+
+How to Install a Portable AC Unit
+---------------------------------
+
+Installing these units is a straightforward process. You basically attach your corrugated exhaust hose (or _hoses,_ if that's the case) to the back of the machine. Then, you put an adjustable plastic plate in the window that takes up the space in the opening to prevent air exchange and keep bugs out. The hose or hoses from the main unit connect to this plate. Next, you simply plug the unit in and operate it according to the manufacturer's directions.
+
+<img class="detail-image" src="https://library.homeserve.com/m/62e05a55d96013a8/Blog-GettyImages-828662008.jpg" alt="air conditioner"/>
+
+Who Should Use a Portable AC Unit?
+----------------------------------
+
+Portable air conditioners are great for people who may not be able to handle the physical stress of putting in and removing window units each season. When the season is over, uninstalling a portable unit is as simple as removing the window plate and hoses and wheeling the unit into a corner until it is needed again.
+
+Portable units are also ideal if you have unusual windows in your home or apartment. Because the plate that goes in the window is lower than the height of a window AC unit, it can fit into smaller windows, and it’s easily adjusted for different window widths. It can also be installed vertically for windows that open side-to-side rather than top-to-bottom.
+
+Some high-rise apartments or condos may require portable units because of the risk of injury by a window unit falling from such a height.
+
+Portable AC Efficiency
+----------------------
+
+Portable air conditioners are not as efficient as window units due in part to the negative pressure issue described above. [According to Consumer Reports](https://www.consumerreports.org/portable-air-conditioners/best-portable-air-conditioners-from-consumer-reports-tests-a1447950198/), the best window units they tested could cool a test chamber by 10 degrees Fahrenheit in under 15 minutes, while the best portable unit took 20 minutes to reduce the temperature from 90 to 85 degrees. Still, they are a good solution for anyone with unusual windows, apartment restrictions or physical impairments that make it hard to deal with window units.
+
+Portable Air Conditioner Maintenance
+------------------------------------
+
+If you have a unit that has a reservoir, you'll want to be sure to keep that emptied as much as possible because the unit will stop working when it is filled. Most portable AC units also have washable filters, so it's a good idea to take them out and run them under some water about once a month. Keep visible vents free of dust and debris. Beyond that, keeping the unit level and clean is really all you'll need to be concerned with. If only all home appliances were that easy to deal with!<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

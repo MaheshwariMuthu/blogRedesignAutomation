@@ -1,0 +1,107 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "AC Icy? Here's Why Your Air Conditioner Is Frozen (and How to Fix It)"
+headline: "AC Icy? Here's Why Your Air Conditioner Is Frozen (and How to Fix It)"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2023-02-02
+basePath: https://library.homeserve.com/m/
+heroImage: 692c85f9b118a7e4/Blog-GettyImages-926287910.jpg
+heroAltDescription: "A closeup of an outdoor air conditioning unit that has frozen over"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Discover the most common causes of a frozen air conditioner and learn how to fix it in eight steps."
+articleAbstract: "Is your air conditioner frozen, even though the temperatures are soaring outside? Learn what’s causing your air conditioner to freeze and how to fix it."
+category: ["How To"]
+eleventyNavigation:
+  key: "Why Is My AC Frozen? (And How Do I Fix It?)"
+  parent: HVAC-How-To
+---
+  Despite sounding counterintuitive, an air conditioner that freezes despite the scorching summer heat is a surprisingly common occurrence. Along with visible ice on the outside of the AC, frozen refrigerant or evaporator coils on the inside of the unit can cause your air conditioner to blow warm, instead of cold, air into your home. It can even result in expensive damage to the compressor if you continue to run the air conditioner while it’s frozen.
+
+**This May Also Interest You:** [**HVAC Terms Every Homeowner Should Know**](https://www.homeserve.com/en-us/blog/buying-guide/hvac/)
+
+Read on to learn what causes an air conditioner to freeze, how to fix it, and how to prevent your AC from freezing in the future.
+
+What Causes an AC Unit to Freeze?
+---------------------------------
+
+Frozen air conditioners are usually caused by:
+
+### Poor Airflow
+
+The most common reason for an AC unit freezing is inadequate airflow. Without warm air moving across the evaporator coils, the coil’s temperature will drop and cause them to freeze. Poor airflow also allows the humidity in the air to collect on the coils, which increases their likelihood of freezing. Airflow issues can be caused by a dirty air filter, dirty evaporator coils, a weak or malfunctioning blower, closed or obstructed vents or ductwork that’s clogged, collapsed, leaking or undersized.
+
+### Low Refrigerant Levels
+
+Low refrigerant levels from a leak in the system will lower the temperature in the refrigerant lines and cause them to freeze over. If you see bubbles on your refrigerant lines or hear a hissing noise coming from them, you likely have a refrigerant leak. Unfortunately, fixing a refrigerant leak requires special tools and expert know-how, so it needs to be addressed by a professional HVAC technician.
+
+### Blocked Condensate Line
+
+Air conditioners extract water vapor from the air in the process of removing heat, and the water that accumulates inside the unit is drained outside through a condensate line. If the condensate line becomes clogged, however, water will accumulate inside the unit and freeze. In addition to the AC being frozen, signs of a clogged condensate line include standing water or water damage around the indoor unit.
+
+### Cool Summer Nights
+
+Operating your air conditioner when outside temperatures are below 60 degrees will drop the pressure in the refrigerant lines and cause them to freeze. This typically happens during cool summer nights when the air conditioner’s thermostat is set too low.
+
+How to Fix a Frozen Air Conditioner
+-----------------------------------
+
+### Step 1: Melt the Ice
+
+Continuing to run your AC while it’s frozen can place a heavy demand on the unit’s compressor, possibly resulting in expensive damage or a reduced lifespan. Melt the ice by either turning the AC completely off, or by turning on the fan-only function if your unit has one. Using the fan will accelerate the thawing process by blowing warm air over all the unit’s internal components. In either case, it can take anywhere from a few hours to a couple of days for the ice to completely melt based on the extent of freezing, the size of your air conditioner and the surrounding air temperature.
+
+### Step 2: Check the Air Filter
+
+Check the air filter to see if it’s clogged by holding it up to a source of light. If light doesn’t pass through it, it’s clogged and needs to be replaced. In addition to preventing your air conditioner from freezing, replacing the air filter can [reduce the unit’s energy consumption by 5% to 15%](https://www.energy.gov/energysaver/maintaining-your-air-conditioner).
+
+### Step 3: Clean the Coils
+
+The AC filter is responsible for filtering out the dirt, dust, pet hair and other airborne particles from your home before it reaches the evaporator coil. However, some of it will inevitably slip through, especially if the filter is dirty. When that happens, these particles will accumulate on the coils and result in freezing from inhibited airflow.
+
+If there’s a lot of visible grit and grime on your condenser coil, you can clean it off by spraying an [evaporator coil cleaner](https://www.amazon.com/Nu-Calgon-4171-75-Rinse-Evaporator-Cleaner/dp/B00DM8KQ3I/ref=sr_1_5?crid=26DDQJFRB4XCG&keywords=evaporator+coil+cleaner&qid=1668880457&sprefix=evaporat%2Caps%2C415&sr=8-5). While some formulas don’t need to be rinsed off after applying, others need to be flushed with water from a spray bottle. Check the manufacturer’s instructions before use.
+
+### Step 4: Check the Vents
+
+Look around your home for supply and return vents that are closed or obstructed. Any vents that are closed — even in unused rooms— should be opened. Check underneath rugs, behind furniture and under heavy drapes for vents that may be blocked.
+
+**More Related Articles:**
+
+*   [Should You Repair or Replace Your Air Conditioner?](https://www.homeserve.com/en-us/blog/home-improvement/repair-replace-air-conditioner/)
+*   [The Homeowner's Guide to Cooling Systems](https://www.homeserve.com/en-us/blog/buying-guide/cooling-system/)
+*   [5 Most Common Air Conditioner Problems](https://www.homeserve.com/en-us/blog/home-improvement/ac-not-working/)
+*   [HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+*   [Got Central Air? Use This Top-to-Bottom Air Conditioner Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist/)
+
+### Step 5: Clear the Drain
+
+While unclogging a condensate line may require professional assistance, you can attempt to clear the clog yourself with a wet-dry vacuum equipped with a special attachment.
+
+Start by locating the open end of the condensate line, which is usually a 3/4-inch PVC pipe found near the outdoor compressor unit. If you have a wet-dry vac with a standard 2.5-inch hose, you can install an [AC condensate line attachment](https://diyvac.com/) onto it to suck the clog out of the line. Simply connect the 2.5-inch side of the attachment to the vacuum hose and the 3/4-inch side to the condensate line, then run the shop vac for three minutes to clear the clog.
+
+### Step 6: Set the Thermostat
+
+Set the temperature on your thermostat to no lower than 65 degrees so the unit will shut off before outdoor temperatures dip below 60. Instead of using your AC during cool summer nights, consider opening up some windows instead.
+
+Step 7: Turn on the AC and Test
+
+After you’ve performed all of the above steps, turn the air conditioner back on and monitor it for evidence of freezing in the coming days or weeks. If it freezes up again, you may need to have the underlying issue addressed by a professional HVAC technician.
+
+### If All Else Fails: Call an HVAC technician
+
+While you can tackle many causes of a frozen air conditioner yourself, some need to be handled by a professional technician. If your AC continues to freeze over after completing the above steps, you will need to have it inspected by a professional to identify and fix the underlying cause. An HVAC technician will be able to:
+
+*   Repair leaking or damaged refrigerant lines
+*   Inspect, clean, repair or replace ductwork
+*   Inspect, repair or replace a weak or malfunctioning blower
+*   Thoroughly clean the evaporator coils
+*   Clear a heavily obstructed condensate line
+
+How Do I Keep My Air Conditioner From Freezing Up?
+--------------------------------------------------
+
+The best way to keep your air conditioner from freezing up is to replace the air filter every 30 to 90 days, depending on the quality of the filter, the size of your home, the number of people living in the house and whether you have pets. Check your filter every month and replace it whenever it’s clogged.
+
+Set the temperature on your thermostat so that it shuts off before outdoor temperatures drop below 60 degrees Fahrenheit.
+
+Have your HVAC unit inspected by a qualified HVAC technician every spring. They will be able to clean your evaporator coils and check the condition of your ducts, blower motor and refrigerant lines. Not only will this prevent your air conditioner from freezing, but it will also maximize the lifespan of your unit as well.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Can You Install Your Own Central Air Conditioner?"
+headline: "Can You Install Your Own Central Air Conditioner?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-11-20
+basePath: https://library.homeserve.com/m/
+heroImage: 65708a7152cd1022/Blog-GettyImages-1272134014.jpg
+heroAltDescription: "Central air conditioning unit in a residential backyard."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "You can install an air conditioner yourself, but whether it's a good idea is another matter. Here’s what to consider before reaching for your toolbox."
+articleAbstract: "You can install an air conditioner yourself, but whether it's a good idea is another matter. Here’s what to consider before reaching for your toolbox."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Can You Install Your Own Central Air Conditioner?"
+  parent: HVAC-Home-Improvement
+---
+  Air conditioning is a must-have in most parts of the United States, but installing a new system can be pricey. According to data from [Forbes](https://www.forbes.com/home-improvement/hvac/new-hvac-system-cost/), most HVAC professionals charge $500 to $2,500 (CAD 682 to CAD 3,410) to install an air conditioner, so it's hardly surprising that many homeowners prefer DIY installation.
+
+**This May Also Interest You:** [**10 Ways to Make Your Central Air Conditioner More Efficient**](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioner-energy-efficiency-tips/)
+
+You can often install an air conditioner yourself, but whether it's a good idea is another matter. Here’s what to consider before reaching for your toolbox.
+
+Can You Install Your Own Air Conditioner?
+-----------------------------------------
+
+Whether you can install your own air conditioner often depends on the system type. Window and mini-split air conditioner installation is relatively straightforward and usually suitable for DIYers. Generally, you can install these air conditioners yourself if they don't require modifications to your home — in fact, some units are designed explicitly with DIY installation in mind.
+
+Installing a central air conditioner is more complex, but you could consider doing it yourself if you're confident in your DIY skills. However, it's often worth leaving this job to a professional. A knowledgeable HVAC specialist can complete the job much more quickly and ensure you have the correct permits and unit size.
+
+There are some situations when hiring an HVAC technician is a better decision. Hiring a professional is much safer if you need to do electrical work to support your new air conditioner, such as installing a dedicated circuit. You're also better off hiring an HVAC technician to install or replace ductwork. Ductwork installation is complex and beyond the skills of even the most experienced DIY enthusiasts.
+
+Why Might You Not Want to Attempt DIY AC Installation?
+------------------------------------------------------
+
+While DIY air conditioner installation can help you save money, there are several good reasons to leave the job to a professional. Installing an AC yourself has the following pitfalls.
+
+### Navigating Regulations
+
+Understanding the federal and state regulations governing AC installation is essential. Otherwise, you risk potential safety issues and running afoul of the law. A trained professional can help you navigate regulations and ensure you obtain the correct permits.
+
+### Time and Effort
+
+Installing your own air conditioner takes significantly longer than hiring an experienced HVAC technician. Unless you have a lot of time on your hands, paying a pro to install your air conditioner for you could end up being cheaper.
+
+### Refrigerant Removal Issues
+
+Replacing an existing AC unit is more complicated because you'll need to remove the refrigerant before installing your new air conditioner. The [refrigerants](https://www.epa.gov/snap/refrigerant-safety#:~:text=The%20risks%20associated%20with%20the,%2C%20asphyxiation%2C%20and%20physical%20hazards.) inside air conditioners are highly flammable and can cause illness or injury when mishandled. Therefore, you should always hire a professional to remove the refrigerant for you unless you have the necessary training.
+
+### Incorrect Sizing
+
+Sizing your air conditioner properly is essential. Installing an oversized or undersized unit isn't energy-efficient, and an overly small unit will struggle to cool your home and wear out faster. Determining what size air conditioner you need can be complex, so it's often best to hire an HVAC professional to assess your requirements.
+
+What Do You Need to Install an Air Conditioner?
+-----------------------------------------------
+
+You need the right tools and supplies to install your air conditioner. If you don't have the equipment on hand, purchasing it may be expensive. Therefore, it's worth comparing the cost of buying tools and supplies with hiring a professional to complete the installation. What tools you need varies between manufacturers, but you'll usually require:
+
+*   Multimeter
+*   Screwdrivers
+*   Hex-head nut drivers
+*   Set of pipe wrenches
+*   Drill
+*   Stud finder
+*   Pliers
+
+Do You Need Permits or Licenses for Air Conditioner Installation?
+-----------------------------------------------------------------
+
+If you want to remove the refrigerant from your old unit yourself or purchase refrigerant for your new unit, you'll need to gain an EPA refrigerant handling certification. Completing your qualification requires studying and taking an exam, and you'll need to pay to obtain your certificate. While earning your certification is a great way to learn new skills, it significantly increases the cost of DIY AC installation.
+
+You'll usually need a permit to install an air conditioner. Requirements vary by jurisdiction, and most homeowners spend between $250 and $1,500 (CAD 342 and CAD 2,052) on an air conditioner permit, according to [HomeGuide](https://homeguide.com/costs/building-permit-cost#:~:text=HVAC%20Permit%20Cost,are%20required%20by%20licensed%20contractors.).<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/Wb44wh4PpDk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="*Ahem... this is your friendly reminder...*"></iframe>

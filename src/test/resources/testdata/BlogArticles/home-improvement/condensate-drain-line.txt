@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Condensate Drain Line?"
+headline: "What's a Condensate Drain Line...and Why Should I Care?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-12-03
+basePath: https://library.homeserve.com/m/
+heroImage: 5deb28aa46146bb6/Blog-CondensateDrainClean_Erossi_3340.jpg
+heroAltDescription: "pvc pipe being used as a condensation drain for an air conditioner"
+metaDescriptions: "Your AC unit's condensate drain line releases excess moisture. Read more about this component and its functions."
+articleAbstract: "Air conditioning systems circulate cool air into homes. During the circulation process, hot air releases humidity, and the condensate drain line releases the built-up moisture. Read more about this major component and its functions. "
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's a Condensate Drain Line ... and Why Should I Care?"
+  parent: HVAC-Home-Improvement
+---
+  During the warm seasons, having a properly functioning air conditioning system is essential — especially if you live in a climate that's known for scorching summer heatwaves. When the weather heats up, air conditioning systems work pretty hard to circulate cool air into homes.
+
+**This May Also Interest You:** [**How to Clean an AC Drain Line**](https://www.homeserve.com/en-us/blog/how-to/how-to-clean-an-ac-drain-line/)
+
+During the circulation process, hot air releases humidity, and the condensate drain line has the important job of releasing the built-up moisture and pushing it away from the AC unit. Keep reading to learn more about this major component and its functions.
+
+What Is a Condensate Drain Line?
+--------------------------------
+
+A condensate drain line is a line that runs through a home or building's central air conditioning system and leads to the outside. Condensate lines are typically crafted with PVC pipe or metal, and they provide a funnel for the humidity and condensation created by air conditioner evaporator coils as the systems run.
+
+The end of the drain line is visible on the outside of a standard air conditioner unit. It drips out water as the system runs, and moisture builds up. The condensate drain line is one of the most important parts of an air conditioning unit because it prevents excess moisture from building up and leading to potential damage to [ductwork and insulation](https://highperformancehvac.com/air-conditioner-condensation-problems/).
+
+Cleaning your condensate drain line on a regular basis during the hot months is essential in preventing clogs. Clogged drain lines can ultimately lead to poor air quality inside the home due to mold and mildew growth and a rise in humidity.
+
+Where Can I Drain My Condensate Line?
+-------------------------------------
+
+To drain and clean your condensate line, first locate the air conditioning system's drip pan. The drip pan should be located underneath the air conditioner or HVAC unit's air handling unit. Air handling units are generally found in attics, crawl spaces, basements or utility closets.
+
+### Locate the Drip Pan
+
+Once you have located the drip pan, check to see if the pan has standing water. This indicates the condensate line should be cleaned out. First, remove the water from the drip pan with a wet vac or soak it up with rags or towels. Use warm water and soap to clean the pan once the water is dried out to remove debris, mold or algae.
+
+### Clean and Drain Condensate Line at Entry and Exit Points
+
+After the drip pan is clean and dry, place it back underneath the air handling unit. The next step is to locate the exit point of the drain condensate line, which should be on the exterior of your outdoor air conditioner unit and covered with a PVC cap. Use a wet vac to suction out debris and backed-up condensation.
+
+The final place to drain your condensate line is the drain line access point. The access point is most often located inside the home near the indoor air conditioner unit. This access point will also be covered with a PVC cap. Pour hot water or vinegar into the access point to flush the drain line from the inside. Once the lines are clear, the exterior condensate exit point line should begin to drip water as it does when running normally.
+
+**More Related Articles:**
+
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Got Central Air? Use This Top-to-Bottom Air Conditioner Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist/)
+*   [How to Clean your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [How Much Does It Cost to Replace an AC Compressor?](https://www.homeserve.com/en-us/blog/cost-guide/ac-compressor-replacement/)
+
+Should an AC Drain Line Have Water in It?
+-----------------------------------------
+
+It's normal for an AC drain line to drip water from the exit point located outside of the home next to the outside unit. This means that the drain line is working as it should and removing the condensation and moisture as it is generated by the evaporator coils.
+
+In fact, during periods of high heat, your drain line may funnel several gallons of water per day. However, if you notice water pooling around your interior unit or leaking from the inside access point to the AC drain line, this could indicate a severely clogged condensate line or a broken condensate pump.
+
+How Much Water Should Drain From an Air Conditioner?
+----------------------------------------------------
+
+During the warm season and during times of high humidity, you may notice that your air conditioner drains a significant amount of water throughout the day — some days upwards of 20 gallons, according to [Air Experts](https://airexpertsnj.com/knowledge/entry/how-much-water-should-drain-from-your-ac-a-nj-tech-explains). This is totally normal as long as the water is draining from the exterior condensate exit point.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Electricity Do Holiday Lights Use?"
+headline: "How Much Electricity Do Holiday Lights Use?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-12-01
+basePath: https://library.homeserve.com/m/
+heroImage: 7b988c001a754766/webimage-GettyImages-168859177.png
+heroAltDescription: "house decorated with holiday lights"
+metaDescriptions: "Americans use roughly 6.6 billion kilowatt-hours of electricity to power holiday light displays every year. How much electricity are your lights using?"
+articleAbstract: "Americans use roughly 6.6 billion kilowatt-hours of electricity to power holiday light displays every year. That statistic may leave you questioning how much it costs to light up your home for the holidays. Here's how to calculate how much energy your display is using."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Much Electricity Do Holiday Lights Use?"
+  parent: Electrical-Home-Improvement
+---
+  
+
+According to the [Center for Global Development](https://www.cgdev.org/blog/us-holiday-lights-use-more-electricity-el-salvador-does-year), the United States uses more electricity each year to power holiday lights than the entire country of El Salvador consumes for the whole year. Americans use roughly 6.6 billion kilowatt-hours of electricity to power holiday light displays every year.
+
+**This May Also Interest You:** [**How Much Do Utilities Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/utilities/)
+
+That statistic may leave you questioning how much it’s costing you personally to light up your home for the holidays, just in time to impress neighbors and guests alike. The answer is a bit complicated and depends on several factors.
+
+How Much Electricity Do Holiday Lights Use?
+-------------------------------------------
+
+The amount of electricity used by holiday lights is determined by the [type of light](https://powerley.com/myth-buster-do-christmas-lights-use-a-lot-of-electricity/) used. The most common include 100-light mini lights. These lights use 0.039 kWh of electricity per hour, which is around 0.95 kWh per day. Ceramic C7 lights are also widely used. A 100-light strand uses 130 watts, which is around 0.13 kWh per hour, resulting in a daily use of around 3.15 kWh.
+
+(What’s a kilowatt-hour, exactly? One kWh is equal to 1,000 watts being used for one hour.)
+
+How Much Does It Cost to Run Holiday Lights?
+--------------------------------------------
+
+According to the [U.S. Energy Information Administration](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a), the average cost for electricity in the United States is about 14 cents per kWh, as of August 2021.
+
+Based on that cost and the known wattage for typical bulbs, you can do the math to determine how much it costs to power a standard 100-bulb strand. The bigger the bulb, the more juice it takes to make it sparkle.
+
+For those big old-school C9 bulbs that are used most often for outdoor displays (and popularized by [Clark Griswold](https://www.youtube.com/watch?v=iXaw70X7wb4)), you can plan on [paying](https://www.washingtonpost.com/news/wonk/wp/2017/11/24/what-your-christmas-lights-will-do-to-your-electricity-bill/) for 175 watts of power for a single 25-bulb strand. Run that strand 12 hours a day for a 45-day period, and you’ll pay around $15.12 per strand over the holiday season. Prefer mini lights instead? A 100-light strand of incandescent minis runs around $3.53 per season.
+
+<img class="detail-image" src="https://library.homeserve.com/m/351863a72636a6d3/webimage-PluggingInHolidayLights_TeamHomeServe_0001.png" alt="Human hand wearing a black glove plugs in a green plug for holiday lights into an exterior wall outlet housed in a plastic outlet cover."/>
+
+How Can You Calculate How Much Your Lights Will Cost to Run?
+------------------------------------------------------------
+
+One kWh costs, on average, about 14 cents. A 100-watt light bulb operating for 10 hours straight consumes 1 kWh of power, resulting in a charge of roughly 14 cents.
+
+To determine how much your entire light display — which is likely made up of several types of lights — costs to run, simply figure the number of bulbs and strands and then do the math like we laid out above.
+
+Keep in mind that the figures here are an average for the U.S. in general. Costs may be significantly higher or lower depending on where you live and how much electricity costs there. When it comes to how much you’ll pay to operate your light show, your geographical location is definitely a deciding factor.
+
+In Hawaii, for example, consumers fork over more than [33 cents per kWh](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a), which earns the state the unenviable distinction of having the highest price for electricity among all states. California (at about 23 cents) and Massachusetts (at about 22 cents) round out the top three most expensive places to use electricity — both in general and for the purpose of powering all those sparkling holiday lights.
+
+Contrast that with the least expensive states for electricity — Washington, at about 10 cents per kWh, and Idaho and Nevada, where 1 kWh costs a little less than 11 cents — and it’s easy to see how much of a difference location plays in calculating how much it costs to run your holiday light show each year.
+
+To find the exact price for your particular location, reach out to your local electricity provider to query the cost of electricity per kWh. Or, just take a look at your electricity bill.
+
+**More Related Articles:**
+
+*   [11 Home Maintenance Tasks and Repairs to Complete Before Holiday Guests Arrive](https://www.homeserve.com/en-us/blog/home-improvement/prepare-for-guests/)
+*   [How to Install Outdoor Holiday Decorations](https://www.homeserve.com/en-us/blog/how-to/install-outdoor-holiday-decor/)
+*   [Deck the House: How to Hang Outdoor Holiday Lights](https://www.homeserve.com/en-us/blog/how-to/holiday-lighting-installation/)
+*   [Can You Hire Someone to Decorate Your Home for the Holidays — and How Much Does It Cost?](https://www.homeserve.com/en-us/blog/cost-guide/holiday-decorating-services/)
+*   [How to Untangle and Wrap Holiday Lights and Wires](https://www.homeserve.com/en-us/blog/how-to/wrap-untangle-wires/)
+
+What About LED Lights?
+----------------------
+
+Saving money while still decking the halls with the lights you love may be as simple as replacing older, less-energy-efficient incandescent string lights with more energy-efficient LED lights. LED lights — and LED mini lights especially — can dramatically reduce the amount of energy you use each year for your holiday light show, which reduces the costs of operating your lights.
+
+LED versions of those same chubby C9 bulbs mentioned above consume just 2.4 watts of power over the same time period, putting a dent of just 21 cents in your wallet per strand. Running LED mini lights is also more cost-effective. A strand of 100 LED mini lights costs around 41 cents to light up for the whole season.
+
+It's true that LED lights cost more than their incandescent counterparts, but that cost is easily offset over the course of a few years of using your more energy-efficient lights.
+
+Moreover, LED lights usually offer a longer service life. If just one bulb goes bad in the strand, the other lights still work, so there’s less stress in operating LED holiday lights. And as if that’s not reasons aplenty to consider LED lights for your holiday light display, consider this: Solar LED lights take it to the next level by harnessing the sun’s power to light up your outdoor display.
+
+Reducing the Cost of Operating Your Holiday Lights
+--------------------------------------------------
+
+Other than purchasing energy-efficient lights, there are other ways to curb your usage without sacrificing your neighborhood merrymaking. For starters, you can decorate later in the year and stop running your light show earlier in the season. This obvious method of reducing consumption can have a big impact on the overall operational costs of your holiday lights.
+
+You might also consider integrating a timer into your light show. You can easily adjust the amount of time you want to run your light display as the days of winter grow shorter. Consider the same for your Christmas tree — especially if it's a real tree, as it can be a safety concern to operate lights on your tree while you're asleep or away from home.<br>https://www.tiktok.com/@homeserveusa/video/7032294751055580463?is_from_webapp=1&sender_device=pc&web_id7031331688987198982

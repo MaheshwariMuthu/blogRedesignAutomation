@@ -1,0 +1,84 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "LG Smart Refrigerator Features"
+headline: "LG Smart Refrigerators: Smart Features and How They Work"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-01-01
+basePath: https://library.homeserve.com/m/
+heroImage: 13acd49469b796b6/Blog-LGSmartRefrigerator_ManufacturerImage_0001.jpg
+heroAltDescription: "Stainless steel LG brand refrigerator with two doors and two drawers sits against a white background"
+metaDescriptions: "Smart appliances have plenty more to offer than regular models. Here's how LG smart refrigerators work."
+articleAbstract: "Like a normal refrigerator, a smart fridge keeps your perishables cool and fresh. But these high-tech appliances have plenty more to offer. Here's a look at how LG smart refrigerators work."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "LG Smart Refrigerators: Smart Features and How They Work"
+  parent: Appliances
+---
+  
+
+_Manufacturer image_
+
+Like a normal refrigerator, a smart fridge keeps your perishables cool and fresh. But these high-tech appliances have plenty more to offer. Smart refrigerators from major appliance manufacturers such as LG, Samsung and GE can provide recipes, store custom profiles for individual family members and deliver grocery lists right to your smartphone. Some models even feature clear door panels so you can peek inside without letting out the cold air.
+
+**This May Also Interest You:** [**How Much Does a Fridge Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/refrigerator/)
+
+Here, we take a look at how LG smart refrigerators work and explore the features they offer.
+
+What Is a ‘Smart’ Refrigerator?
+-------------------------------
+
+Smart refrigerators are sometimes referred to as connected refrigerators because they connect to the internet through your home Wi-Fi and can usually be accessed through your smartphone or a digital home assistant such as Amazon Alexa or Google Assistant. A smart fridge may also be able to connect with your home’s other smart devices, including televisions, speakers and other smart appliances such as dishwashers and microwaves.
+
+These appliances are usually available in traditional styles, such as counter-depth, French-door and side-by-side. Smart fridges typically offer homeowners advanced features that can tell you if you’ve left the door open or if you’re out of bread. However, these features may come at a cost, as smart refrigerators are generally much more expensive than a garden-variety model.
+
+What Can You Do With an LG Smart Fridge?
+----------------------------------------
+
+If you’re looking for an appliance with advanced features, an LG smart fridge may offer the functionality you want. LG’s line of smart refrigerators is designed to streamline your household's food storage and shopping routines while ensuring energy-efficient operation that's backed by the [Energy Star label](https://www.energystar.gov/about?s=mega). Most models let you control your appliance remotely via the LG ThinQ smartphone app or by directing simple voice commands through your digital home assistant.
+
+[LG’s ThinQ system](https://www.lg.com/us/discover/thinq/refrigerators) uses AI and predictive analytics to recommend settings based on your usage and behaviors and offer helpful maintenance tips. ThinQ automatically regulates the fridge's interior temperature and adjusts the speed of the ice maker to meet your household’s needs. It can also tell you if you’ve left your fridge door open and when it’s time to replace the water filter.
+
+<img class="detail-image" src="https://library.homeserve.com/m/9b411a8b4208d1a/Blog-LGSmartRefrigerator_ManufacturerImage_0002.jpg" alt="Stainless steel LG brand refrigerator with two doors and two drawers sits against a white background"/>
+
+_Manufacturer image_
+
+What Features Does an LG Smart Refrigerator Have?
+-------------------------------------------------
+
+LG’s ThinQ line of smart refrigerators includes an array of advanced features, many of which are designed to interface with the brand's ThinQ smartphone app. These features, which can vary depending on the model, may include:
+
+*   Remote independent temperature control for fridge and freezer
+*   Illuminated glass panels that offer a view into a door-in-door compartment
+*   Customizable cooling levels, including designated door-cooling vents
+*   Cubed, crushed or slow-melting ice options
+*   Smart diagnosis
+*   Smart Tag technology to track stored food and beverages, including expiration date alerts
+*   A wide-angle panoramic camera for remote viewing of the interior via smartphone
+
+**More Related Articles:**
+
+*   [Will the Fridge Fit? How to Measure a Refrigerator](https://www.homeserve.com/en-us/blog/how-to/measure-refrigerator/)
+*   [We Gotta Move These Refrigerators: A Step-by-Step Guide to Moving Your Fridge](https://www.homeserve.com/en-us/blog/how-to/move-refrigerator/)
+*   [5 Best Smart Refrigerators for Various Household Needs](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-refrigerators/)
+*   [Samsung Smart Refrigerators: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-refrigerator/)
+*   [How Much Do Samsung Smart Refrigerators Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-refrigerator/)
+
+Do LG Smart Fridges Have Screens?
+---------------------------------
+
+Some LG models, such as the LG InstaView refrigerator, feature a touch-screen display that transforms into a transparent window, offering a peek inside the fridge. The transformation is initiated by knocking twice on the screen.
+
+When the refrigerator is in display mode, the screen may feature information such as the date, time, temperature and weather. Users may also access recipes using stored ingredients, create shopping lists or use the Smart Tag system to view information on current food items.
+
+Can You Connect an LG Smart Fridge to Your Phone?
+-------------------------------------------------
+
+LG refrigerators that use ThinQ technology offer convenient smartphone connectivity. Using the downloadable smartphone app, users can perform these interactions with their fridge:
+
+*   Changing ice maker settings
+*   Adjusting the temperature of the fridge or freezer
+*   Viewing items inside the refrigerator through the panoramic camera
+*   Accessing shopping lists generated on the refrigerator’s touch screen display
+*   Receiving open-door and filter replacement alerts
+*   Viewing Smart Tag information, such as products nearing their expiration date<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

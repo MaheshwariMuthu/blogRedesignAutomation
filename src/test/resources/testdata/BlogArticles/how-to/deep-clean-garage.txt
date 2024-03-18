@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Deep-Clean Your Garage"
+headline: "How to Deep-Clean Your Garage"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-10-09
+basePath: https://library.homeserve.com/m/
+heroImage: 546c0038daee250d/Blog-GettyImages-1338042912.jpg
+heroAltDescription: "messy abandoned garage full of stuff"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Instead of leaving your garage a neglected eyesore, why not transform it into a clean, functional and, dare we say, enjoyable place? Here's how."
+articleAbstract: "Instead of leaving your garage a neglected eyesore, why not transform it into a clean, functional and, dare we say, enjoyable place? Here's how."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Deep-Clean Your Garage"
+  parent: Exterior-Home-How-To
+---
+  Ahhh, the _garage_. Such a convenient storage place for all your tools, lawncare machines, sports equipment … and maybe a few things you forgot about. But the best thing about your garage is that it’s large, and if it gets too disorganized, you don’t have to look at the mess every day.
+
+**This May Also Interest You:** [**5 Garage Organization Tips**](https://www.homeserve.com/en-us/blog/home-improvement/garage-organization-tips/)
+
+But instead of leaving your garage a neglected eyesore, why not transform it into a clean, functional and, dare we say, enjoyable place? Here’s what to do.
+
+Getting Started
+---------------
+
+This will likely be the toughest part. If you haven’t done much organizing of your garage, the thought of tackling the disorganization can feel very overwhelming. Choose a garage cleaning day that is dry, and you can devote the entire day to the task. Back out your car and park in the yard or street if possible; you’ll want to use your driveway for sorting through and evaluating your things. Then, start hauling everything out. Don’t worry about being neat or sorting, and don’t get distracted by looking into boxes. The goal here is an entirely empty space.
+
+Cleaning the Empty Garage
+-------------------------
+
+Sweep the garage floor and get rid of any cobwebs that may be hiding in the corners. Next, clean the floors and walls. You can use a simple mixture of dish detergent and water if your garage isn’t too dirty. If you have stains on your garage floor, laundry detergent is more potent, or you may consider a commercial cleanser if the stains are heavy or deep. Vinegar is a good option if you're worried about mildew. Don’t forget to wipe down the workbench or other permanent furniture in the garage.
+
+Garages often become home to car fluids, paint and other chemicals. If you have these items, check their expiration dates; if expired, dispose of them properly.
+
+As we don't often look too closely at our garage, take this time to inspect the space for issues that need addressing. Cracks in the floor or walls, loose wiring or mildew? If you have windows, are they secure? What about the doors? Address these issues now while they are top of mind, and you have the space to repair them.
+
+Sorting the Stuff
+-----------------
+
+While your clean garage is drying, it’s time to tackle the _stuff_. If possible, sort items into categories: sports equipment, winter or summer clothing, holiday decorations, tools, etc. Having items grouped together will make the organization phase easier.
+
+Next, you’ll need to go through all the boxes, bins and piles and see what isn’t needed anymore. Be strong! If you have unopened boxes left over from when you moved in two years ago, it’s safe to say those items probably aren’t necessary. Are there clothes or toys the family has outgrown, sports no longer played, strings of broken holiday lights? Create one “keep” and one “dispose-of” pile. From the dispose pile, create two more groups: donate and trash. If there's clean, usable clothing or household items that someone else can benefit from, gather those items together to donate. Anything that is broken beyond repair, throw away.
+
+**More Related Articles:**
+
+*   [Is a Smart Garage Door Opener a Wise Investment?](https://www.homeserve.com/en-us/blog/home-improvement/smart-garage-door/)
+*   [How Much Does a Glass Garage Door Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-a-glass-garage-door-cost/)
+*   [5 DIY Garage Door Makeover Ideas](https://www.homeserve.com/en-us/blog/home-improvement/diy-garage-door-makeover-ideas/)
+*   [Considering an Epoxy Garage Floor? You’ll Want to Read This First](https://www.homeserve.com/en-us/blog/cost-guide/epoxy-garage-floor/)
+*   [How to Program a Garage-Door Opener: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/program-garage-door-opener/)
+
+Putting It Back Together
+------------------------
+
+Let’s look at the “keep” piles. What will be the best way to store these items neatly? If you already have a workbench, put the tools back away. A peg board is handy for hanging tools that are often used. Small things like nails and screws can easily get lost, so consider clean jars with lids or small plastic bins. The same goes for gardening supplies. If you have old seeds, throw them out, and be sure to clean any pots. Designate a spot for the lawnmower, weed trimmer, and other large bulky items. A clean, unused garbage can works well for shovels and rakes.
+
+Sporting equipment is another annoying item to store. Get another clean garbage can for standing-up bats, rackets, hockey sticks and other similar items. A smaller tote placed next to it can hold balls and other small items. Get hooks and hang bikes from the ceiling to save space.
+
+Try not to store things on the floor. Depending on your climate, mildew and mold could be a hazard to your stuff. Installing shelves and storing items there will give you more floor space and make the garage safe from tripping and falling accidents. Don’t store boxes more than two deep; the boxes in the back will quickly be forgotten. Put seasonal items on higher shelves and make the things you often use more accessible. A shelving unit near the door to the house is handy for items you regularly need.
+
+If you’ve been storing items in cardboard boxes, purchasing clear plastic bins might be worth the investment. Not only will they last longer and protect your items better, but you’ll also be able to easily see what is in each container. Home improvement stores also offer shelving and other organizational units, so if you have many items that need to be stored in the garage, a more advanced system might be better for you.
+
+One more tip: Label everything either on the bins or boxes or the shelves themselves. It might take a little longer now, but you'll be grateful for the findability it will grant your items in the future.
+
+Keeping It Clean
+----------------
+
+Now that you have a spanking-clean and organized garage, it’s time to make it work for you. Refrain from dumping something on the workbench or a shelf, thinking you’ll put it away later. Put items back in their proper place, or if it’s something new, create a space for it. Make a habit of keeping it tidy.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/WxLCpLN-OwA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Manually Open a Garage Door"></iframe>

@@ -1,0 +1,55 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install a Ceiling Light?"
+headline: "How Much Does It Cost to Install a Ceiling Light?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-08-20
+basePath: https://library.homeserve.com/m/
+heroImage: 1fdd550a802c1455/Blog-CeilingLight_MSchmitz_0001.jpg
+heroAltDescription: "Installed ceiling lights in living room"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The cost to install a ceiling light depends on whether you're just changing light fixtures or wiring a brand-new one."
+articleAbstract: "The cost to install a ceiling light depends on whether you're just changing light fixtures (perhaps for one that's brighter and more energy-efficient) or wiring a light fixture where one does not currently exist."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install a Ceiling Light?"
+  parent: Electrical-Cost-Guide
+---
+  The right lighting can make a room much more pleasant to spend time in. Ceiling lights make a room feel more spacious and airier. They can be used in any room, from the bathroom to the living room to the kitchen.
+
+**This May Also Interest You:** [**Do Light Fixtures Add Value to Your Home?**](https://www.homeserve.com/en-us/blog/home-improvement/light-fixtures-increase-home-value/)
+
+The cost to install a ceiling light depends on whether you're just changing light fixtures (perhaps for one that's brighter and more energy-efficient) or wiring a light fixture where one does not currently exist.
+
+How Much Does It Cost to Install a Ceiling Light?
+-------------------------------------------------
+
+If you're planning to install a ceiling light, getting cost estimates from several contractors could help you decide whether the job will be within your budget. According to [HomeGuide](https://homeguide.com/costs/cost-to-replace-or-repair-a-light-fixture#ceiling), the national average cost to install a ceiling light is about $80 to $400 (CAD 107 to CAD 535) per fixture, including the cost of the light and other materials.
+
+The average cost for the fixture is about $30 to $100 (CAD 40 to CAD 134), but actual costs may vary depending on the type of light and whether there’s any existing wiring for the light to be connected to. It's worth considering the type of lights, too. Fluorescent lights are more efficient than halogen lights, for example, so they can save you money in the long term.
+
+How Much Does It Cost to Install a Ceiling Light With Existing Wiring?
+----------------------------------------------------------------------
+
+The cost to install a ceiling light will be lower if there is already wiring in place for the contractor to work with. While you can change a light fixture by yourself, it's worth paying a licensed electrician to do the installation for you if you're not confident when it comes to electrical-related jobs.
+
+In most cases, installing ceiling lights will take just one or two hours if the wiring is already in place, with labor costs between $50 and $130 (CAD 67 and CAD 174) per hour. Extra features such as dimmer switches may increase the total cost.
+
+**More Related Articles:**
+
+*   [How to Install LED Strip Lights: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-led-strip-lights/)
+*   [Let’s Shed Some Light on the Situation: How to Change a Lightbulb](https://www.homeserve.com/en-us/blog/how-to/change-lightbublb/)
+*   [How Much Does It Cost to Install Light Switch Dimmers?](https://www.homeserve.com/en-us/blog/cost-guide/dimmer-light-switch-installation/)
+*   [How Much Does It Cost to Install Outdoor Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/outdoor-light-installation/)
+*   [How Much Does It Cost to Install Recessed Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/install-recessed-lighting/)
+
+How Much Does It Cost If You Don’t Have Existing Wiring?
+--------------------------------------------------------
+
+If you need to run new electrical wires to install a ceiling light, or you're doing additional work, such as fitting a ceiling fan or having light switch dimmers installed, you can expect to pay extra for those jobs. HomeGuide says that, depending on the type of light, installing new wiring may cost $250 to $600 (CAD 334 to CAD 802). It’s not a good idea to attempt to extend electrical wires yourself; this work should be done by a licensed electrician.
+
+One important thing to consider if you live in an older home is the state of your existing wiring. Many older houses have knob and tube wiring, which can be dangerous if modified improperly.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

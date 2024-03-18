@@ -1,0 +1,53 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Peloton Recalls 125,000 Treadmills After 6-Year-Old Dies, Dozens Injured"
+headline: "Peloton Recalls 125,000 Treadmills After 6-Year-Old Dies, Dozens Injured"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-05-15
+basePath: https://library.homeserve.com/m/
+heroImage: 3779b7540453aee5/webimage-TreadPlusTreadmillRecall_Peloton_0001.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Peloton has announced two separate recalls involving its Tread and Tread+ treadmills due to risk of injury."
+articleAbstract: "Peloton has announced two separate recalls involving its Tread and Tread+ treadmills. About 125,000 Tread+ Treadmills have been recalled after one child died and several injuries were reported. Peloton is also recalling the Tread Treadmill due to an unrelated injury risk."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Peloton Recalls Tread+ Treadmills After One Child Died and More than 70 Incidents Reported"
+  parent: Appliances
+---
+  Peloton has announced two [separate recalls](https://www.cpsc.gov/Newsroom/News-Releases/2021/CPSC-and-Peloton-Announce-Recall-of-Tread-Plus-Treadmills-After-One-Child-Death-and-70-Incidents-Recall-of-Tread-Treadmills-Due-to-Risk-of-Injury) involving its Tread and Tread+ treadmills. About 125,000 Tread+ Treadmills have been recalled after one child died and several injuries were reported. Peloton is also recalling the Tread Treadmill due to an unrelated injury risk.
+
+**This May Also Interest You:** [**Fall Risk Prompts Recall of 3,100 Sauder Woodworking Bar Stools**](https://www.homeserve.com/en-us/blog/home-improvement/sauder-woodworking-barstools-recall/)
+
+Tread+ Treadmills
+-----------------
+
+The Tread+ Treadmill (model TR01) has been recalled due to a risk of injury or death. According to the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/peloton-recalls-tread-plus-treadmills-after-one-child-died-and-more-than-70-incidents), adult users, children, pets and objects can be pulled under the rear of the treadmill; a 6-year-old child died after being pulled under the treadmill. Peloton has received 72 reports of incidents, including 29 reports of injuries to children; injury types include second- and third-degree abrasions, broken bones and lacerations.
+
+Prior to the May 5 recall, the CPSC [issued a warning](https://www.cpsc.gov/Newsroom/News-Releases/2021/CPSC-Warns-Consumers-Stop-Using-the-Peloton-Tread) to customers to stop using the product. [This video](https://www.youtube.com/watch?v=onXNnlCYJ4Y) demonstrates the hazard posed by the Tread+ Treadmill. (Warning: Video content may be disturbing to some viewers.)
+
+Manufactured in Taiwan, Tread+ Treadmills were sold online at [onepeloton.com](http://www.onepeloton.com/) and in Peloton showrooms between September 2018 and April 2021 for $4,295. The product was launched as the “Peloton Tread” in 2018, but was renamed “Tread+” in September 2020.
+
+Peloton is urging customers to stop using the Tread+ Treadmill immediately. You can contact the New York-based company for a full refund before Nov. 6, 2022. After that date, customers will receive a partial refund. If you don’t want the refund option, Peloton is offering free relocation of the treadmill to a space in your home where children and pets cannot access it. A software update is also in the works, which would automatically lock the Tread+ with a four-digit passcode when not in use.
+
+Tread Treadmills
+----------------
+
+Also announced May 5, Tread Treadmills (model TR02) have been recalled due to safety issue unrelated to that of the Tread+ model. According to the [CPSC](https://cpsc.gov/Recalls/2021/Peloton-Recalls-Tread-Treadmills-Due-to-Risk-of-Injury), the touchscreen can detach and fall, posing an injury risk. Peloton has received 18 reports of loose screens and six reports of screens falling off the treadmill. About 1,050 units have been recalled in the U.S., and an additional 5,400 units have been recalled in Canada. No injuries have been reported in the U.S.; minor cuts and bruises have been reported in Canada and the U.K.
+
+Tread Treadmills were made in Taiwan and sold in an invitation-only release at [onepeloton.com](http://www.onepeloton.com/) and at showrooms between November 2020 and March 2021 for $2,495. If you own a recalled Tread Treadmill, stop using it immediately and contact Peloton for a full refund. Peloton is working on a CPSC-approved repair, which is expected to be available to customers in the coming weeks. Check [here](https://support.onepeloton.com/hc/en-us/articles/360061116911) for more information.
+
+How to Contact Peloton
+----------------------
+
+If you purchased either treadmill, you should contact Peloton for a full refund or other remedy. Call the company toll-free at 866-679-9129 or visit the [website](https://support.onepeloton.com/hc/en-us/articles/360061116911). To request a return, repair or relocation of the Tread+, fill out [this form](https://form.onepeloton.com/forms/view/4646821/?tfa_dbWorkflowId=15&tfa_dbWorkflowStep=0&tfa_dbWorkflowControl=2bb13b042e1af9c91836de1a80e029c9). To request a refund or repair of the Tread Treadmill, use [this form](https://form.onepeloton.com/forms/view/4646818/?tfa_dbWorkflowId=12&tfa_dbWorkflowStep=0&tfa_dbWorkflowControl=8bef3879f69b6e6245f5d7b96ae146e4).
+
+For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Over 700 Previously Recalled AC and Heat Pump Units Resold After Recalls Announced](https://www.homeserve.com/en-us/blog/home-improvement/ac-unit-heat-pump-recall/)
+*   [Fire Risk: Metal Ware Recalls NESCO Coffee Bean Roaster Over Reports of ‘Flames and Smoke’](https://www.homeserve.com/en-us/blog/home-improvement/nesco-coffee-bean-roaster-recall/)
+*   [Don’t Sleep on This: 700 HOFISH Mattress Recalled Over Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/hofish-mattress-recall/)
+*   [Broken Wrists Cited in Recall of 10,000 Log Splitters With Briggs and Stratton Engines](https://www.homeserve.com/en-us/blog/home-improvement/ytl-log-splitter-recall/)
+*   [Fire Risk Prompts Recall of Goal Zero Power Cables](https://www.homeserve.com/en-us/blog/home-improvement/goal-zero-power-cable-recall/)

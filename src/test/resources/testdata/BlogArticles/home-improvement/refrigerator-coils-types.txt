@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Are the Different Types of Refrigerator Coils?"
+headline: "What Are the Different Types of Refrigerator Coils?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-04-11
+basePath: https://library.homeserve.com/m/
+heroImage: 6196eba6b3e3d3cb/Blog-Refrigerator_Coils_erossi_5792-Recovered.jpg
+heroAltDescription: "the back of a newer GE refrigerator shows the condenser cover removed and the condensate drip pan is underneath the coils circled in red."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Coils are a major part of your refrigerator's functionality. Knowing more about them makes you better equipped to shop for a new unit."
+articleAbstract: "Refrigerator coils are a major part of your refrigerator's functionality. Knowing more about them makes you better equipped to shop for a new unit."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Are the Different Types of Refrigerator Coils?"
+  parent: Appliances
+---
+  When it comes to your fridge, one of the most important components is the refrigerant coils. Refrigerator coils come in different types, each with unique characteristics and benefits. Understanding the different types of refrigerator coils can help you make informed decisions when it comes to choosing a refrigerator or troubleshooting problems.
+
+**This May Also Interest You:** [**Ever Cleaned Your Refrigerator Coils? Sure, We Believe You (But Here’s How, Just in Case)**](https://www.homeserve.com/en-us/blog/how-to/clean-refrigerator-coils/)
+
+Unless you're a hardcore DIYer, chances are good that you'll never need to buy your own refrigerator coils. Still, the makeup of the coils inside your refrigerator is certainly a factor in its overall price, so having this knowledge will make you an even more informed shopper. Here's all you ever wanted to know about refrigerator coils.
+
+Condenser Coils
+---------------
+
+Condenser coils are located outside the refrigerator and are responsible for dissipating the heat absorbed by the refrigerant inside the refrigerator. As the refrigerant flows through the coils, it releases heat into the surrounding environment. This is why you might notice that the area around your refrigerator can feel warm.
+
+Condenser coils can be located at the back or bottom of the refrigerator. Back coils are typically used in older refrigerators, while bottom coils are used in newer models. Bottom coils allow for better heat dissipation and are more efficient, making them the preferred choice in modern refrigerators.
+
+Evaporator Coils
+----------------
+
+Evaporator coils are located inside the refrigerator and are responsible for cooling the air inside. The refrigerant flows through these coils, absorbing heat from the air and turning it into a gas. The gas is then sent to the compressor, where it is compressed and turned back into a liquid. As the refrigerant flows through the coils, it releases heat into the outside environment through a condenser coil.
+
+Evaporator coils are typically made of copper or aluminum, as these materials are excellent conductors of heat. Copper coils are more durable and have a longer lifespan, but they are also more expensive. Aluminum coils are less expensive but are prone to corrosion, which can decrease their lifespan.
+
+### Dual Evaporator Coils
+
+Some refrigerators come equipped with dual evaporator coils. These coils are separated and used to cool different parts of the refrigerator separately. For example, the freezer may have a separate evaporator coil from the refrigerator section. This allows for more precise temperature control and can help prevent moisture buildup in the freezer.
+
+Dual evaporator coils are typically found in high-end refrigerators, as they are more expensive to manufacture and require more complex refrigeration systems. However, the benefits can be a nice addition to your food storage system. With a dual-evaporator refrigerator, when you open the fridge door and cold air escapes, it will need to be replaced, and the coils will come into play. In a single evaporator system, as that cold air is replaced, both the fridge and the freezer will chill down, even though the freezer temperature might have been fine. This can lead to overly frozen items (ice cream that's too hard). Dual systems also tend to keep a bit more humidity in the refrigerator, which is good for produce storage.
+
+**More Related Articles:**
+
+*   [How to Clean Your Icemaker and Change the Filter](https://www.homeserve.com/en-us/blog/how-to/clean-icemaker-filter/)
+*   [We Gotta Move These Refrigerators: A Step-by-Step Guide to Moving Your Fridge](https://www.homeserve.com/en-us/blog/how-to/move-refrigerator/)
+*   [What Temperature Should Your Fridge Be?](https://www.homeserve.com/en-us/blog/home-improvement/refrigerator-temperature/)
+*   [Fridge Filthy? Here’s Your 7-Step Deep-Cleaning To-Do List](https://www.homeserve.com/en-us/blog/how-to/refrigerator-cleaning/)
+*   [Iced Out? Why Your Fridge Is Freezing Over](https://www.homeserve.com/en-us/blog/home-improvement/ice-buildup-fridge/)
+
+### Flat Evaporator Coils
+
+Flat evaporator coils are becoming increasingly popular in refrigerators. These coils are designed to be thinner and flatter than traditional evaporator coils, allowing for more space inside the refrigerator.
+
+Flat evaporator coils are typically made of aluminum and are more affordable than traditional coils. They are also more efficient and can help reduce energy consumption, making them an attractive option for energy-conscious consumers.
+
+### Coated Evaporator Coils
+
+Coated evaporator coils are designed to prevent corrosion and increase their lifespan. These coils are coated with a special material that protects them from moisture and other environmental factors that can cause corrosion.
+
+Coated evaporator coils are typically made of aluminum and are less expensive than copper coils. They are also more durable than traditional aluminum coils, making them an attractive option for those looking for a cost-effective solution that can last for many years.
+
+### Copper-Clad Aluminum Coils
+
+Copper-clad aluminum coils are a hybrid of copper and aluminum coils. These coils are made by applying a layer of copper to an aluminum coil, creating a coil that is more durable and efficient than traditional aluminum coils.
+
+Copper-clad aluminum coils are less expensive than pure copper coils but offer many of the same benefits. They are more durable than traditional aluminum coils, making them a great option for those looking for a long-lasting refrigeration system.
+
+Know Your Coils
+---------------
+
+While you likely won't ever need to buy your own refrigerator coils, understanding the unique characteristics and benefits of each could help you when it's time to get a new refrigerator. Choosing the right type of coil depends on your needs, budget, and preferences. Whether you are looking for an affordable and efficient solution or a high-end refrigeration system with advanced temperature control, you should be able to find the style of coil.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Clean Refrigerator Condenser Coils at Home"></iframe>

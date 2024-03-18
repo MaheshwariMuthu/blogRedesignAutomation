@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Refill Water Softener Salt"
+headline: "How to Refill Water Softener Salt"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-12-26
+basePath: https://library.homeserve.com/m/
+heroImage: 684c5254c5a7f03a/Blog-GettyImages-1146399708.jpg
+heroAltDescription: "salt blocks for softener"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Replacing your water softener salt allows your unit to remove hard minerals effectively."
+articleAbstract: "Refilling your water softener salt is one of the most essential parts of your maintenance checklist — but, thankfully, one of the easiest."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How to Refill Water Softener Salt"
+  parent: Plumbing-Home-Improvement
+---
+  Your water softener protects your pipework, so it's important to show it some love.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install or Replace a Water Softener?**](https://www.homeserve.com/en-us/blog/cost-guide/water-softener-installation/)
+
+Refilling your water softener salt is one of the most essential parts of your maintenance checklist — but, thankfully, one of the easiest.
+
+What Is Water Softener Salt, and What Does It Do?
+-------------------------------------------------
+
+Before we explain what water softener salt is, it's important to understand how your water softener works. Domestic water softeners contain resin beads charged with salt ions. When water passes over the beads, the resin exchanges a mineral ion for a potassium or sodium ion. Therefore, the salt ions flow into your water supply and the hard minerals stick to the resin, preventing them from entering your plumbing system.
+
+Over time, the resin beads lose their salt ions. Water softeners require a supply of salt ions to recharge the beads and keep your water softener functioning efficiently. When you add sodium chloride or potassium chloride to your unit, it mixes with water to form brine. Your unit will then rinse the resin beads with the saltwater solution every few days to replenish the resin with salt ions.
+
+How Do You Know When to Refill Water Softener Salt?
+---------------------------------------------------
+
+When you need to refill your water softener salt (and how much you need to add) depends on your unit. Generally, you should aim to keep your salt tank roughly half full. Check the salt tank every few days and add more if the salt looks dry or the water rises above the top of the salt.
+
+You'll likely need to refill your water softener with salt more often if you have an older model. Older units flush the resin beads on a set schedule, whether they need recharging or not. Modern units can often detect when the beads require recharging, which means they flush less frequently and use salt more efficiently. Some newer models may also provide alerts, making it much easier to know when you need a refill.
+
+Sometimes, salt bridges can form at the top of your salt tank. A salt bridge is a hard crust that sits higher than the salt level and can prevent the salt from dissolving into brine. It can also make the salt level look higher, so you may not notice when your unit starts running out.
+
+You can check for a salt bridge by trying to break the surface of the salt with a broom or another hard object. Avoid overfilling your unit, and invest in high-quality water softener salt to reduce the risk of bridges.
+
+**More Related Articles:**
+
+*   [Have Hard Water? Here’s How to Know — and How to Treat It](https://www.homeserve.com/en-us/blog/how-to/spot-and-treat-hard-water/)
+*   [What Is a Water Softener?](https://www.homeserve.com/en-us/blog/home-improvement/water-softener-explained/)
+*   [Installing a Water Softener Isn’t So Hard: A 6-Step Guide](https://www.homeserve.com/en-us/blog/how-to/water-softener-installation/)
+*   [How to Know If Your Bathtub Has Hard Water](https://www.homeserve.com/en-us/blog/home-improvement/hard-water/)
+*   [How Much Do Home Water Filtration Systems Cost?](https://www.homeserve.com/en-us/blog/cost-guide/water-filter-installation/)
+
+What Type of Salt Does My Water Softener Need?
+----------------------------------------------
+
+You should only use salt labeled as suitable for water softeners. While nothing is stopping you from using regular table salt, these products often contain debris and other substances that could clog your unit.
+
+Sodium chloride and potassium chloride are suitable for water softeners. As a rule, sodium chloride is the most efficient and affordable option, but potassium chloride could be a better choice if your doctor says you need a low-sodium diet. Different units may require different types of salt, so it's essential to check your user manual for guidance.
+
+How to Refill Water Softener Salt
+---------------------------------
+
+How to refill a water softener with salt depends on the model, but it's usually straightforward. Always check the manufacturer's manual to determine the proper technique for your unit.
+
+If your water softener requires block salt, it will have a lidded compartment. Salt blocks come in various weights and dimensions, so you'll need to check what size your water softener needs. Simply remove the lid, slide the salt block inside and close the compartment.
+
+Refilling a water softener with salt tablets is equally straightforward. Your unit will have a brine tank, which is separate from the resin tank. Locate the brine tank using your manufacturer's instructions, open the lid and fill the tank halfway (or to the marker specified on your unit). You can then shut the lid and use your water softener as usual.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

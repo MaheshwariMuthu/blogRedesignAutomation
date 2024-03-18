@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Common Dishwasher Problems"
+headline: "What Can Go Wrong With a Dishwasher? Here's How to Find Out What's Up With Your Machine"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-12-15
+basePath: https://library.homeserve.com/m/
+heroImage: 6daa1c818aa630df/Blog-HowToRemoveDishwasher_MSchmitz_0001.jpg
+heroAltDescription: "an open dishwasher"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "When your dishwasher isn’t working right, don’t panic, though it might be tempting. Most dishwasher issues have simple solutions that you can solve yourself."
+articleAbstract: "When your dishwasher isn’t working right, don’t panic, though it might be tempting. Most dishwasher issues have simple solutions that you can solve yourself."
+category: ["Home Improvement"]
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/home-improvement/common-dishwasher-problems/', 'en-us'], ['https://www.homeserve.co.uk/living/how-to/how-to-diagnose-common-dishwasher-problems/', 'en-gb']]
+eleventyNavigation:
+  key: "What Can Go Wrong With a Dishwasher? Here's What's Up With Your Machine"
+  parent: Appliances
+---
+  There’s no question that the dishwasher is the true workhorse among all the kitchen appliances. In fact, it’s hard to imagine life without one. But when it breaks down, it can be a really frustrating mess for any homeowner. Luckily, in many cases, it’s usually a quick fix that doesn’t require the help of a service technician.
+
+**This May Also Interest You:** [**Should You Repair or Replace Your Dishwasher?**](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-repair-replacement/)
+
+Dishwasher not working? Here are four common problems and how to troubleshoot them.
+
+Dishwasher Not Draining
+-----------------------
+
+A dishwasher that doesn’t drain properly is one of the most common dishwasher issues faced by homeowners. However, as frustrating as it may be, it’s rarely something you can't solve yourself.
+
+Oftentimes, an air gap in one of the connecting hoses can keep water from draining out of your dishwasher. To rectify this, run the garbage disposal for around 30 seconds to clear any air gaps — as well as any food debris that might be trapped in the disposal — from any of the connecting pipes, and it may fix your issue.
+
+If you still have water drainage issues, examine the drain hose connecting the dishwasher to the garbage disposal. Because of the flexible nature of the hose, kinks can develop that prevent water from moving through the hose. If you notice any kinks, take this time to straighten them out.
+
+Finally, you may have a clog in your drain hose. There are generally two methods for removing clogs. Start by pouring one cup of baking soda and one cup of vinegar into the standing water in your dishwasher. Let the mixture sit for at least 15 minutes, and then drain the dishwasher. If this technique doesn’t work, you can try disconnecting the drain hose and poking a coat hanger or a similar object into the hose to loosen any debris.
+
+Dishwasher Won’t Get Your Dishes Clean
+--------------------------------------
+
+If your dishwasher isn’t cleaning as well as it used to, it’s usually no cause for concern. In most cases, if your dishes are still dirty after a wash, it’s the result of a dirty or clogged filter. Make sure that you clean often to prevent clogs. If you run a wash cycle every day, then you should plan on cleaning it about once a week. If it’s been a while — or maybe forever — since you’ve cleaned your filter, that could be a reason your dishes are still dirty.
+
+There might be a clog in the spray arm. Spray arms can be found at the bottom of the machine and are typically removed by either unscrewing the cap on top of the arm, or by simply snapping the arm off from its connection. Once removed, take a toothpick to clear each hole. Then, rinse the spray arm with hot water before putting it back in place.
+
+If the dishwasher is still not cleaning dishes, it may be due to a failing water inlet valve — the part responsible for allowing hot water into your dishwasher. For the DIY-inclined, replacing an inlet valve is definitely a doable project; but you may decide to call a home service technician at this point. In any case, replacing an inlet valve is a relatively simple and inexpensive dishwasher repair.
+
+**More Related Articles:**
+
+*   [How Much Does a Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+*   [Why Isn’t My Dishwasher Draining?](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-not-draining/)
+*   [Don’t Get Lost in the Wash: How to Use Your Dishwasher Efficiently](https://www.homeserve.com/en-us/blog/how-to/use-dishwasher/)
+*   [Weird Sound Coming From the Dishwasher? How to Diagnose Dishwasher Noises](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-making-noise/)
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)
+
+Dishwasher Won’t Start a Cycle
+------------------------------
+
+When a dishwasher won’t begin a wash cycle, start by inspecting the door latch switch. If the door latch isn’t engaged, the machine won’t start. This safety feature ensures that the dishwasher door is shut properly and water won’t leak out onto your floor during the cycle. As you close the door, listen for the sound of the latch clicking. Once it’s shut, pull on the door to determine if the latch is engaged. Finally, examine the door gasket to see if there’s any piece of food debris that’s keeping the latch stuck open. If you don’t see any obstructing items, you may need to have your latch switch replaced.
+
+Many dishwashers have a child-safety lock feature to keep children from operating the machine or changing any of the wash settings. If the child lock is engaged, it may prevent your unit from running altogether. To determine if this is the case, take a look at the manufacturer’s instructions to learn how to turn off the child lock.
+
+If all else fails, turn off the power to your dishwasher and then turn it back on. Sometimes, dishwashers can get stuck in between cycles and resetting the unit usually helps.
+
+Dishwasher Won’t Turn On
+------------------------
+
+In the world of dishwasher issues, a unit that’s suddenly lost power is perhaps the most confounding. That said, loss of power to a dishwasher is oftentimes due to tripped circuit breakers. Head to your breaker panel and find the breaker for the dishwasher and turn it off and on again. Then, check to see if power has returned to your unit.
+
+If you’re still experiencing a loss of power, check the dishwasher’s power cord. The power cord can typically be found under the sink; take a look and make sure it’s plugged into the wall completely.
+
+If this doesn't work, you may want to call a service technician to diagnose and repair your dishwasher, as the cause likely stems from some of the internal electrical wiring in the unit. And unless you have experience in electrical work, it might be difficult to diagnose the issue properly.
+
+Get Your Dishwasher Back
+------------------------
+
+When your dishwasher isn’t working right, don’t panic — though it might be tempting. Most dishwasher issues have simple solutions that you can solve yourself.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Clean Refrigerator Condenser Coils at Home"></iframe>

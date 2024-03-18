@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Unclog a Dishwasher"
+headline: "How to Unclog a Dishwasher in 6 Simple Steps"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-07-05
+basePath: https://library.homeserve.com/m/
+heroImage: 6daa1c818aa630df/Blog-HowToRemoveDishwasher_MSchmitz_0001.jpg
+heroAltDescription: "an open dishwasher"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Backed-up dishwasher? Here's how to unclog it."
+articleAbstract: "Knowing how to unclog a dishwasher comes in handy. And fortunately, we’ve got the how-to."
+category: ["How To"]
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/how-to/unclog-dishwasher/', 'en-us'], ['https://www.homeserve.co.uk/living/plumbing-and-drainage/how-to-unblock-a-dishwasher/', 'en-gb']]
+eleventyNavigation:
+  key: "How to Unclog a Dishwasher"
+  parent: Appliances-How-To
+---
+  You expect to open your dishwasher to racks full of sparkling clean dishes, so it can come as a surprise if you see dirty water pooling in the bottom.
+
+**This May Also Interest You:** [**My Dishwasher Is Overflowing With Suds … Help!**](https://www.homeserve.com/en-us/blog/how-to/dishwasher-overflowing/)
+
+Knowing how to unclog a dishwasher comes in handy in this scenario. This is a relatively easy fix in most cases. And fortunately, we’ve got the how-to.
+
+How Do You Know Your Dishwasher's Drain Is Clogged?
+---------------------------------------------------
+
+The telltale sign of a clogged dishwasher is a pool of dirty water in the bottom of the dishwasher after the cycle is complete. Keep in mind that you could see a pool of water in the appliance if the cycle gets interrupted. For example, if someone opens the dishwasher while it's running and the cycle doesn't finish, the water will stay in the appliance. However, if the pooling water is there when you know the dishwasher completed the cycle, it's likely clogged.
+
+Other signs of a dishwasher clog include:
+
+*   Slow draining
+*   Gurgling sounds — which actually come from the drains attached to the dishwasher, not the dishwasher itself
+*   Dishes that are still dirty after the wash cycle
+*   Water backing up into your sink
+
+How Do You Unclog It?
+---------------------
+
+Clogs in your dishwasher can happen in multiple different places, including the drain, filter and drain hose. There could also be an issue with the connected plumbing that's causing the dishwasher to back up or not drain properly. Checking each component helps you identify the issue.
+
+Follow these steps to unclog your dishwasher:
+
+### 1\. Clean Out the Dishwasher
+
+If you still have the dishes in the machine, remove them and set them aside. If they didn't get clean during the cycle, you'll need to run them again once you clear the clog, or handwash them. Even if they look clean, it doesn't hurt to run them through again. Remove the dirty water that's inside the dishwasher. Scoop up as much as you can with a small cup. Use an old towel to soak up the rest.
+
+### 2\. Test the Garbage Disposal
+
+If you have a garbage disposal, turn on the faucet and run it. This can help clear up issues with the general drain system that the dishwasher connects to. Do a quick rinse cycle on your dishwasher to see if the water is still backing up. If it is, move on to the next step.
+
+### 3\. Clean the Dishwasher Drain
+
+Before doing any additional work, shut off the power to the dishwasher and garbage disposal. This is important for reducing your risk of electrical shock. Then, clean the drain by sprinkling baking soda on it and adding vinegar to create a bubbling action. Wait about 15 minutes for the baking soda and vinegar to clean out the drain. Run a hot rinse cycle.
+
+**More Related Articles:**
+
+*   [How Much Does a Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)
+*   [Don’t Get Lost in the Wash: How to Use Your Dishwasher Efficiently](https://www.homeserve.com/en-us/blog/how-to/use-dishwasher/)
+*   [Should You Repair or Replace Your Dishwasher?](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-repair-replacement/)
+
+### 4\. Clean the Filter
+
+Dishwashers also have filters to catch food particles. Even if you prerinse your dishes, there could be remnants that make it into the appliance. Most newer dishwashers have removable filters that you can twist and pull out for easier cleaning. Running the filter under hot water and cleaning it with dish soap should remove most of the gunk on it. Grab an old toothbrush to scrub stuck-on areas.
+
+### 5\. Check the Drain Hose
+
+If cleaning those components doesn't fix the situation, you could have a clog in the drain hose. The hose should connect to your garbage disposal or sink plumbing. It typically runs out of the dishwasher either at the bottom, which you can access by removing the kickplate, or at the back, which requires you to  pull the dishwasher out. Make sure the hose isn't kinked. Then, disconnect it to check for clogs. Reconnect it, making sure the clamps are secure.
+
+### 6\. Check the Air Gap
+
+Many newer dishwashers have an air gap installed to prevent backflow in the appliance. You'll see a cylinder sticking out above your countertop, usually along the edge of your sink. You can twist it off and check inside to look for buildup that could keep the water from draining properly.
+
+What If It _Still_ Won't Drain?
+-------------------------------
+
+If you've tried the previous methods for how to unclog a dishwasher, it might be time to call a plumber to help you out. A licensed plumber can diagnose the issue and fix it quickly. Plumbers have specialty tools that make the job easier, and they understand how the plumbing works together to ensure they fix it correctly.
+
+To prevent future clogging, remove large chunks of food from dishes before putting them in the dishwasher. Clean the dishwasher regularly, including the drain and filter, to keep the water flowing well. Using hot water cycles and high-quality detergent also helps the dishwasher perform well and helps remove food particles to help prevent clogs.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

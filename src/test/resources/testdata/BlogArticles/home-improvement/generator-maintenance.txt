@@ -1,0 +1,94 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Home Generator Maintenance Tips"
+headline: " Home Backup Generator Maintenance Checklist"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-07-08
+basePath: https://library.homeserve.com/m/
+heroImage: 7e08cad6908542f5/Blog-GettyImages-1315526181.jpg
+heroAltDescription: "Technician services outside AC units and generator "
+metaDescriptions: "Maintenance is important to ensure your backup generator is in working order when an emergency strikes. Follow this checklist to keep your equipment running."
+articleAbstract: "If you take good care of your generator, you can expect it to work for up to 30,000 hours — roughly equivalent to 20 years of service. Here's a handy generator maintenance checklist to help you get the most out of your backup generator."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Home Backup Generator Maintenance Checklist "
+  parent: Electrical-Home-Improvement
+---
+  Out of sight and out of mind: Many homeowners don't give much thought to their backup generators if they’re not actively experiencing a power outage. But in an emergency, your generator is crucial for keeping your home powered and your family safe. Proper generator maintenance is important to ensure your equipment is in perfect running order when you need it most.
+
+**This May Also Interest You:** [**How Much Does a Home Generator Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/home-generator/)
+
+If you take good care of your generator, you can expect it to [work for up to 30,000 hours](https://www.bigrentz.com/blog/generator-maintenance-checklist) — roughly equivalent to 20 years of service. Below, you can find a handy generator maintenance checklist to help you get the most out of your backup generator.
+
+Do Generators Require Maintenance?
+----------------------------------
+
+Just like a car's mechanical components, a generator requires regular maintenance if you want it to have a decent lifespan. Like many of your home's systems, it's not something that you can just install and forget about. You'll need to carry out routine checks, replace the oil and install new filters and spark plugs at regular intervals. You should also "exercise" the generator for half an hour or so every week.
+
+To make sure you don't forget anything crucial, you can print or write out a weekly, monthly and annual home backup generator maintenance checklist and tick off the tasks as you go.
+
+The main reason that you should prioritize generator cleaning and maintenance is that it can significantly increase your generator's lifespan. Backup generators are a significant investment, and neglecting your maintenance routine can cause it to break down prematurely, especially if it was installed incorrectly in the first place.
+
+Maintenance and servicing are also crucial from a safety point of view. If the generator or supply pipes get too hot or if the electrical system is dirty and not functioning correctly, you’ve got a fire hazard on your hands. Furthermore, a faulty generator can cause lethal carbon monoxide or other harmful gases to leak into your living space.
+
+Weekly Generator Maintenance Checklist
+--------------------------------------
+
+Follow this checklist every week and after every time you use your backup generator. Give it a good clean and make sure that there aren't any pests inside the unit. During your weekly maintenance, run the generator for half an hour and carry out the following checks:
+
+*   Listen for any worrying noises. The generator should make a gentle purring noise without any rattling or banging.
+*   Measure the fuel and fluid levels.
+*   Examine the unit and pipes to make sure they aren't leaking fuel.
+*   Inspect for smoke and make sure that the unit and pipes don't get too hot.
+
+Monthly Generator Maintenance Checklist
+---------------------------------------
+
+Every month, you should conduct more thorough generator maintenance. You may need to follow this checklist more often if your generator sees a lot of use. Check the following:
+
+*   Make sure the generator is scrupulously clean, checking for dirt or sediment under the cell port lids.
+*   Measure the oil and coolant levels.
+*   Perform a 60-minute load test.
+*   Make sure the battery charger is working correctly.
+*   Change the oil if you've used it for more than 100 hours since the last maintenance session.
+*   Replace the plugs and air filter if you've used the generator for more than 200 hours since the last maintenance session.
+*   Drain and replace the fuel if you haven't used the generator in a while.
+
+Annual Generator Maintenance Checklist
+--------------------------------------
+
+Once a year, you should inspect all of the generator's systems, including the air supply and electrical systems. These checks require more technical know-how than the weekly and monthly inspections, and missing something could have serious consequences for your generator's condition and functionality. Unless you're confident in your abilities to carry out proper home generator maintenance, it's best to hire a professional for an annual generator inspection.
+
+During your yearly checks, you or a technician should do the following tasks:
+
+*   Replace the spark plugs.
+*   Switch off the power supply and examine and clean the electrical system.
+*   Check that the air supply system is clean and clear and replace the filter.
+*   Change the oil.
+*   Flush out the coolant.
+*   Check that the transfer switch is functioning correctly.
+
+It's also a good idea to run the generator for a few hours to check that all the systems are working properly and that it's free from leaks and smoke.
+
+**More Related Articles:**
+
+*   [The 411 on Home Generators](https://www.homeserve.com/en-us/blog/buying-guide/home-generators/)
+*   [How Much Does a Whole-House Generator Cost?](https://www.homeserve.com/en-us/blog/cost-guide/whole-house-generator/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/replace-electrical-panel/)
+
+How Often Should a Generator be Serviced?
+-----------------------------------------
+
+Generally, you should have your generator professionally serviced once a year to keep it in safe and efficient working order. Unless you have specific expertise, it's best to entrust generator servicing to a trained professional.
+
+If you use your generator frequently or don't always remember to carry out routine generator maintenance weekly and monthly, it's best to book a service twice a year to prevent a breakdown.
+
+How Often Should Generator Oil be Changed?
+------------------------------------------
+
+As a rule of thumb, you should perform a generator oil change after every 100 hours of use and after roughly 30 hours if you've never changed the oil before. However, the exact interval between oil changes depends on a few factors, including the generator's model and size. Generally, the larger the generator, the less often you need to change the oil. While every 100 hours is a good timeframe to keep in mind for many systems, you should defer to the manufacturer's instructions.
+
+Also, bear in mind that you will need to check the oil levels even more frequently during extremely hot weather or if you suffer an extended power outage requiring you to use the generator for protracted periods. Allow the generator to cool completely beforehand.

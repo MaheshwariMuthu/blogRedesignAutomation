@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "GE Profile Smart Range Features"
+headline: "GE Profile Smart Ranges: Smart Features and How They Work"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-01-17
+basePath: https://library.homeserve.com/m/
+heroImage: 354374aa25c4abd1/webimage-GE-Profile-Range-with-In-Oven-Camera.png
+heroAltDescription: "A stainless steel GE Profile smart range is displayed in a modern kitchen"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "In the market for a smart cooker? Here’s what you should know if you’re considering a GE smart range."
+articleAbstract: "In the market for a smart cooker? Here’s what features and functions you should know about if you’re considering a GE smart range."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "GE Profile Smart Ranges: Smart Features and How They Work"
+  parent: Appliances
+---
+  
+
+_Manufacturer image_
+
+Smart kitchen appliances let you perform functions from your smartphone so that you can control your microwave, oven or range from anywhere. Appliance manufacturer GE produces a range of Wi-Fi-enabled appliances, including a collection of smart ranges.
+
+**This May Also Interest You:** [**How Much Do GE Smart Ranges Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/GE-smart-range/)
+
+In the market for a smart cooker? Here’s what you should know if you’re considering a GE smart range.
+
+How Does a GE Smart Range Work?
+-------------------------------
+
+GE smart ranges feature a manual control panel, letting you operate them like a regular range. However, they also have integrated Wi-Fi connectivity that lets you carry out functions remotely, such as preheating or turning off the appliance.
+
+You'll need to download the [Smart HQ app](https://www.geappliances.com/connect) on your smartphone and set up an account to use your range's smart features. You can also control your range using vocal commands when you connect it to your Alexa, Google or SONOS virtual assistant device.
+
+GE Profile smart ranges also include [GE Profile Connect +](https://www.youtube.com/watch?v=H7LkVoY1BSw) upgrades. This feature lets you download software upgrades and access new cooking modes as soon as they become available.
+
+How Do I Connect to Wi-Fi on My GE Smart Range?
+-----------------------------------------------
+
+You'll need to download the SmartHQ app to your smartphone to begin connecting your GE range to the internet. Open the app and either create a new account or sign in if you already have one.
+
+Next, tap the Plus icon, select “Range Control” and tap “OK.” You can remotely enable your GE smart range by holding down the “Remote Enable” button until you see the Wi-Fi light flash on the control panel. Tap “Next” in the SmartHQ app.
+
+You now need to enter the password from the Connected Appliance Information label into the SmartHQ app. You can find the label inside the oven door on your smart range. Next, open your phone's Wi-Fi settings and join the network listed on the appliance label. You can access step-by-step instructions through the app if you're unsure how to find the network in your settings.
+
+Finally, find your home Wi-Fi network in the SmartHQ app and enter your password. You can add your network manually if the app doesn't detect it automatically. The appliance will then start connecting to your home's Wi-Fi, and the Wi-Fi light on the range controls will stop flashing and remain lit once the process is complete. Tap “OK” in the Smart HQ app. You should now be able to control your appliance from your phone.
+
+_Manufacturer image_
+
+**More Related Articles:**
+
+*   [How Much Does an LG Smart Range Cost?](https://www.homeserve.com/en-us/blog/cost-guide/lg-smart-range/)
+*   [LG Smart Ranges: Smart Features and Functionality](https://www.homeserve.com/en-us/blog/home-improvement/LG-smart-range/)
+*   [How Much Do Samsung Smart Ranges Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-range/)
+*   [Samsung Smart Ranges: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-range/)
+*   [How Much Does a Stove or Oven Cost?](https://www.homeserve.com/en-us/blog/cost-guide/stove-oven/)
+
+What Features Do GE Smart Ranges Have?
+--------------------------------------
+
+GE smart ranges have several features that allow you to control your cooking more precisely. Some models have an In-Oven CookCam that lets you view the inside of your oven from your smartphone to see your meal's progress and adjust the settings if necessary. There's also a guided cooking mode powered by Hestan Cue that selects the correct cooking time and temperature for various chef-approved preset recipes.
+
+GE smart range ovens include modes that track your food's cooking progress and automatically adjust the settings to ensure your meal is perfectly cooked. They also feature an integrated air fryer mode that doesn't require preheating so that you can prepare your favorite fried dishes quickly and with less fat. You can pair your GE smart range with other cooking tools via Bluetooth, including a GE precision cooking probe.
+
+There are also periodic over-the-air software upgrades, like a [recent one](https://www.homeserve.com/en-us/blog/home-improvement/ge-smart-range-turkey-mode/) that equips your smart oven with a mode specifically designed to cook turkeys.
+
+GE smart ranges are relatively easy to clean, and many models include a self-cleaning oven. The control panels feature touch buttons without nooks and crannies for dirt to get stuck, making them easy to wipe clean with a cloth. A smudge-resistant stainless finish keeps your range sparkling and prevents fingerprint marks.

@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean a Bathtub"
+headline: "How to Clean a Bathtub"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-09-13
+basePath: https://library.homeserve.com/m/
+heroImage: 7df257bf2437e7b5/Blog-CleanBathtub_MSchmitz_0001.jpg
+heroAltDescription: "cleaning bathtub"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Read this guide to learn how to clean a bathtub using basic (and cheap) household ingredients."
+articleAbstract: "You probably have everything you need to achieve a sparkling bathtub in your kitchen cupboards. Read this guide to learn how to clean a bathtub using basic (and cheap) household ingredients."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clean a Bathtub"
+  parent: Plumbing-How-To
+---
+  No one likes a grimy bathtub, but dirt and grease inside your tub aren’t necessarily signs of poor hygiene. Substances, such as soap scum and mineral deposits, can build up quickly and are notoriously difficult to remove with standard cleaning sprays.
+
+**This May Also Interest You:** [**Why Do My Drains Smell?**](https://www.homeserve.com/en-us/blog/home-improvement/drain-smell/)
+
+Fortunately, you probably have everything you need to achieve a sparkling bathtub in your kitchen cupboards. Read on to find out how to clean a bathtub using basic (and cheap) household ingredients.
+
+How Do You Deep-Clean a Bathtub?
+--------------------------------
+
+How to clean a bathtub depends on the tub material, and it's worth checking the manufacturer's manual before you start. Porcelain and fiberglass tubs tend to be hardier, while harsh chemicals can damage an acrylic bath. If the manufacturer warns against certain cleaners, using them could void your warranty.
+
+### Acrylic Bathtub
+
+You can create an acrylic-safe bathtub cleaner by mixing equal parts dish soap and baking soda to make a foamy paste. The baking soda helps dissolve soap scum, while the dish soap will kill any bacteria and leave the tub smelling fresh.
+
+Use a sponge or cloth to spread the mixture over the bathtub, faucets and other fixtures. Leave the mixture to work its magic for half an hour, then scrub thoroughly. Rinse the dish soap and baking soda off with cold water, and repeat whenever your tub needs sprucing up.
+
+### Porcelain or Fiberglass Tub
+
+Vinegar is ideal for cleaning porcelain and fiberglass baths, although it could dull the finish on acrylic tubs. Vinegar is too harsh to use undiluted. Instead, you should use a solution comprising two parts water and one part vinegar to clean a fiberglass tub. Meanwhile, you can use equal parts vinegar and water for a porcelain bath.
+
+Pour the solution into a spray bottle and spritz it liberally over the tub, then leave the solution to work for around 20 minutes. Next, scrub the tub with a sponge from the top down and rinse with cool water.
+
+**More Related Articles:**
+
+*   [How to Remove a Bathtub Drain](https://www.homeserve.com/en-us/blog/how-to/remove-bathtub-drain/)
+*   [How to Install or Replace a Bathtub Drain](https://www.homeserve.com/en-us/blog/how-to/replace-bathub-drain/)
+*   [How to Install or Replace a Shower Drain](https://www.homeserve.com/en-us/blog/how-to/shower-drain-installation/)
+*   [Here’s How to Remove a Shower Drain](https://www.homeserve.com/en-us/blog/how-to/remove-shower-drain/)
+*   [How to Retrieve Your Wedding Rind From the Sink Drain](https://www.homeserve.com/en-us/blog/how-to/wedding-ring-down-sink/)
+
+How Do You Get Hard Water Stains Off a Bathtub?
+-----------------------------------------------
+
+Hard water stains occur when alkaline minerals in hard water supplies accumulate inside plumbing fixtures, such as pipes, toilets and bathtubs. These stains can be white, cream, brown or orange. Although hard water stains don't pose a health and safety issue, they can be unsightly, so many people prefer to remove them.
+
+As hard water stains are alkaline, an acidic cleaning agent can help remove them. The options below are effective for removing hard water stains, but it's essential to check your manual to ensure they're safe for your tub.
+
+### Vinegar
+
+Vinegar isn't just great for disinfecting your tub — its acidity also makes it ideal for removing hard water stains. Spraying a vinegar and water solution on your tub and leaving it for 20 minutes before scrubbing can loosen mineral deposits. You can also try adding a squirt of dish soap to tackle more stubborn stains and prevent them from reoccurring.
+
+### Lemon Juice and Water
+
+Lemon juice is naturally acidic, making it suitable for cleaning hard water stains. Mix two parts lemon juice to one part water in a spray bottle and douse your bathtub with it. Leave the solution to loosen the stains for 10 to 15 minutes, and then wipe the tub clean.
+
+You can also use lime juice if you don't have lemon juice available. However, lime juice is slightly less acidic, making lemon juice the more effective option.
+
+### Hydrogen Peroxide
+
+Hydrogen peroxide does a great job of removing hard water stains and is a less harsh alternative to bleach. Spray a solution made from equal parts hydrogen peroxide and water over your tub and leave it for 20 minutes. Then, scrub any remaining stains with a household sponge.
+
+### Baking Soda
+
+If you're tackling stubborn hard water stains and other methods aren't cutting it, baking soda could be a good option. Baking soda allows you to scrub tough stains from bathtubs and other surfaces without scratching them.
+
+Simply mix baking soda with enough vinegar to form a spreadable paste. Smear the paste liberally over the tub and leave for 20 minutes before scrubbing and rinsing. If you don't have baking soda on hand, cream of tartar is an effective alternative.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

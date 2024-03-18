@@ -1,0 +1,93 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Door Lock Problems and How to Fix Them"
+headline: "5 Common Lock Problems and How to Fix Them"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-07-14
+basePath: https://library.homeserve.com/m/
+heroImage: fa5651af5b58fc5/Blog-GettyImages-1143094752.jpg
+heroAltDescription: "Broken key in front of a lock"
+metaDescriptions: "Broken locks can hinder entry to your home and create security issues. Learn how to diagnose and fix common lock problems."
+articleAbstract: "If a lock is broken, you won’t want to leave it that way for long. Read on to learn how to diagnose common lock problems that may impair access to your home and property — and how to fix them yourself."
+category: ["How To"]
+eleventyNavigation:
+  key: "Common Lock Problems and How to Fix Them"
+  parent: Exterior-Home-How-To
+---
+  If your door lock isn’t working properly, it's more than just a nuisance. Door lock problems on exterior or garage doors can keep you from accessing your home and can cause security issues that put your family’s safety at risk. So if a lock is broken, you won’t want to leave it that way for long.
+
+**This May Also Interest You:** [**Locked Out? How Much Does a Locksmith Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/locksmith-services/)
+
+Read on to learn how to diagnose common door lock problems that may impair access to your home and property — and how to fix them yourself.
+
+Why Isn’t My Door Lock Working?
+-------------------------------
+
+Door lock problems are often caused by a malfunctioning lock mechanism or latch assembly, but there are several common reasons why locks stop working:
+
+*   The lock is dry or dirty.
+*   It doesn’t fit in the door properly.
+*   The latch and strike plate don’t align.
+*   The lock mechanism is frozen due to cold weather.
+*   The doorknob is loose.
+*   The key is broken off in the lock.
+
+Why Is My Door Lock Loose?
+--------------------------
+
+Door locks can become loose due to frequent turning of the doorknob. This common door lock problem often affects interior doors with lever-style keyed doorknobs, especially those in frequently used rooms such as bedrooms and bathrooms. It can be exacerbated by family members who regularly rotate the handle too far or children who hang on door handles.
+
+A loose door lock may also result from a slipped locking mechanism, which prevents the internal parts of the lock from connecting properly.
+
+What to Do If Your Door Lock Isn’t Working: 5 Common Fixes
+----------------------------------------------------------
+
+The earlier you catch a door lock problem, the better chance you’ll have of fixing it on your own, so don’t overlook minor issues such as a loose lock or a lock that sticks when turning the key. Here are several simple ways you may be able to fix common door lock problems without calling in a professional.
+
+### Sticky Door Locks
+
+If your door lock or deadbolt sticks, it may be due to dryness or a buildup of dirt. For a simple fix, try applying powdered graphite or a dry Teflon lube spray to the keyhole to get the lock moving. Exterior doors, which are exposed to the elements, may benefit from a commercial lock cleaner sprayed into the keyhole to dissolve dirt or debris. Compressed air can also be used to dislodge dirt in your lock.
+
+### Broken Keys in the Lock
+
+If your key breaks off in the lock, it may be possible to grip the exposed end with needle-nose pliers and gently pull it out. If the key doesn't extend far enough to grip, carefully insert a cut-off length of a coping saw blade to hook the key and drag it out. If the key is still stuck, remove the lock cylinder and push the key out by inserting a stiff wire into the slot at the back. You can also bring the cylinder to a local lock shop for key removal.
+
+### Frozen Door Locks
+
+If you live in a cold-weather climate, your door lock can freeze, leaving you unable to insert or turn your key. To quickly warm your lock, try using a hairdryer or heating your key with your car’s heater or in a pot of hot water. Commercial aerosol lock deicers are also effective and can be purchased in most hardware stores.
+
+### Loose Door Locks
+
+If you have lever-style door handle locks, they may loosen with everyday use, creating locking problems. To tighten the locks, line up the door handles on either side of the door and temporarily tape them in place or have someone hold them while you work. Once the door handles are aligned properly, tighten the screws until they’re flush with the doorknob, replacing any that are stripped or broken.
+
+### The Key Won’t Turn
+
+If your key doesn’t turn in the lock, the problem may just be a poorly cut key. Test the lock with a key that was cut at a different time to be sure. If the key isn’t the problem, try lubricating the lock using powdered graphite or a silicone-based lubricant.
+
+If you can turn your key when the door is open but not when it’s closed, the problem may be the alignment of the door or lock. In these instances, you may also notice that your door doesn't latch properly. To fix a misaligned or loose door, tighten the door hinge screws to correct any sagging.
+
+If the key still doesn’t turn, your lock’s strike plate may need to be repositioned, which can be accomplished by unscrewing the strike plate and placing it so that the door lock bolt rests flush within the strike plate.
+
+**More Related Articles:**
+
+*   [What Does This Button Do? How to Use the Toggle Switch on a Mortise Lock Door](https://www.homeserve.com/en-us/blog/home-improvement/use-mortise-lock-door-toggle-button/)
+*   [Here’s How Much It Costs to Install or Replace a Deadbolt](https://www.homeserve.com/en-us/blog/cost-guide/deadbolt-installation/)
+*   [How to Install a Deadbolt: Get Your Home Security on Lock in 6 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/install-deadbolt/)
+*   [How to Remove a Doorknob: A Quick Guide](https://www.homeserve.com/en-us/blog/how-to/remove-doorknob/)
+*   [How to Change a Doorknob](https://www.homeserve.com/en-us/blog/how-to/change-door-knob/)
+
+When Door Lock Problems Require a Professional Locksmith Service
+----------------------------------------------------------------
+
+The moving parts of locks do eventually wear out. So if one of these simple fixes doesn’t work, your lock may need to be professionally repaired or replaced. If you’re experiencing any of the following situations, you should call in a professional locksmith:
+
+*   The entire cylinder is turning when you try to use the lock.
+*   Your jammed lock doesn’t respond after lubrication.
+*   You can’t remove a key that’s broken off inside your lock.
+*   The key turns, but the lock doesn’t operate.
+*   Your lock has been damaged during an attempted break-in.
+*   You have security concerns and want a deadbolt installed.
+*   The lock is old and needs to be replaced.
+
+Professional locksmiths have the right tools and training to get the job done efficiently and correctly to ensure the security of your home and family, so don't hesitate to call for help if you need it.

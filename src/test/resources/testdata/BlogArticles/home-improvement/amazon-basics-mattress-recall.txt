@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Recall Alert: Amazon Recalls AmazonBasics Mattresses That Violate Federal Flammability Standard"
+headline: "Recall Alert: Amazon Recalls AmazonBasics Mattresses That Violate Federal Flammability Standard"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-11-19
+basePath: https://library.homeserve.com/m/
+heroImage: 3ad919fd50778f8a/Blog-MattressRecall_Amazon.jpg
+heroAltDescription: "Bed with a bare mattress"
+metaDescriptions: "Amazon has recalled 15,300 AmazonBasics memory foam mattresses because they violate the federal flammability standard, posing a fire risk."
+articleAbstract: "Amazon has recalled 15,300 AmazonBasics memory foam mattresses because they violate the federal flammability standard, posing a fire risk. No incidents or injuries have been reported. You might rest a little easier knowing Amazon is sending purchasers covers that will bring the mattresses into compliance."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "​Amazon Recalls AmazonBasics Mattresses Due to Violation of Federal Flammability Standard"
+  parent: Interior-Home-Home-Improvement
+---
+  Amazon has recalled 15,300 AmazonBasics memory foam mattresses because they violate the federal flammability standard, posing a fire risk. No incidents or injuries have been reported. You might rest a little easier knowing Amazon is sending purchasers covers that will bring the mattresses into compliance. Here’s everything you need to know.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the Nov. 18 [recall alert](https://www.cpsc.gov/Recalls/2022/Amazon-Recalls-AmazonBasics-Mattresses-Due-to-Violation-of-Federal-Flammability-Standard-Recall-Alert) from the Consumer Product Safety Commission, this recall involves AmazonBasics Memory Foam Mattresses in 10- and 12-inch thicknesses. They were sold in twin, full, queen, king and California king sizes. Affected mattresses have “amazonbasics” printed on the foot panel.
+
+The mattresses were manufactured in Malaysia and sold on [Amazon.com](http://Amazon.com) between April 2020 and March 2021 for $150 to $450.
+
+To remedy the issue, Amazon is sending buyers a free mattress cover. This will bring the mattress into compliance with the federal standard. Amazon is contacting all purchasers directly, but you can reach out to the Seattle, Wash.-based company by calling 877-444-3765. You can register your product [here](https://www.amazonmattressrecall.expertinquiry.com).
+
+For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Tipping and Entrapment Hazard: Canyon Furniture Recalls 1,200 Children’s Chests of Drawers](https://www.homeserve.com/en-us/blog/home-improvement/creekside-kids-dresser-recall/)
+*   [Fuel Leak Warning: RH Recalls Outdoor Torches Due to Fire Hazard](https://www.homeserve.com/en-us/blog/home-improvement/rh-torches-recall/)
+*   [Recalled for Fire Risk: Area Rugs Sold By Amazon Fail Federal Flammability Standards](https://www.homeserve.com/en-us/blog/home-improvement/area-rug-fire-risk-recall/)
+*   [Sleep Tight! Casa Kids Recalls Bunk Beds Due to Loose Screws](https://www.homeserve.com/en-us/blog/home-improvement/cabina-bunk-beds-recall/)
+*   [It Could Collapse: Lifetime Products Recalls 43,000 6-Foot Folding Tables](https://www.homeserve.com/en-us/blog/home-improvement/lifetime-products-seminar-table-recall/)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?start=6&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

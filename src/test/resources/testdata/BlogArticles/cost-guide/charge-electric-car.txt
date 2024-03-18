@@ -1,0 +1,89 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Charge an Electric Car?"
+headline: "How Much Does It Cost to Charge an Electric Car? We Break It Down For You"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-09-26
+basePath: https://library.homeserve.com/m/
+heroImage: 32807ce0fd03a81c/Blog-2018TeslaModel3_LQuiroga-03.jpg
+heroAltDescription: "Blue 2018 Tesla Model 3 in a residential driveway getting charged "
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Electric cars are often cheaper to run than gasoline models. Learn how much electric car charging costs on average."
+articleAbstract: "Fueling an electric vehicle is almost always cheaper than gas, but various factors can affect the cost. Here's what to know."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Charge an Electric Car?"
+  parent: ElectricVehicles-Cost-Guide
+---
+  If you're considering switching from a conventional car to an electric vehicle, you're probably wondering how much it costs to charge an electric car.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install an Electric Car Charging Station?**](https://www.homeserve.com/en-us/blog/cost-guide/ev-charging-station-installation/)
+
+Ultimately, fueling an electric vehicle is almost always cheaper than gasoline, but various factors can affect the cost.
+
+How Much Does It Cost to Charge an Electric Car on Average?
+-----------------------------------------------------------
+
+How much it costs to charge an electric car depends on the cost of electricity where you live, your vehicle's efficiency and how far you drive per month.
+
+[Policy Genius](https://www.policygenius.com/auto-insurance/average-miles-driven-by-state/) says the average American drives roughly 1,189 miles per month, and the [U.S. Energy Information Administration](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a) puts the average cost of electricity per kilowatt-hour at $0.1492. Therefore, you can expect to spend around $49.67 per month on charging your electric car if you drive a vehicle that uses 28 kWh per 100 miles.
+
+(By the way, a [kilowatt-hour](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/), or kWh, is a measure of energy consumption. It’s equal to 1 kilowatt sustained for a full hour.)
+
+Your electric car charging costs could be considerably higher if you live in an area with high electricity costs. For example, electricity costs significantly more than average in parts of New England, New York, Alaska and Hawaii, with Hawaii topping the charts at $0.4311 per kilowatt. Therefore, in Hawaii, charging the same car for the same number of miles would cost around $143.52 per month. Driving a relatively inefficient vehicle could also bump up the costs.
+
+How Do You Calculate How Much Electricity It Will Take to Charge an Electric Car?
+---------------------------------------------------------------------------------
+
+You need to know a few figures to determine how much it costs to charge an electric car. Understanding how much energy your vehicle uses per mile and the cost of electricity in your area can help you estimate the approximate costs.
+
+### Energy Consumption Per Mile
+
+Most car manufacturers quote how much energy a car requires to travel 100 miles. For example, the [U.S. Department of Energy](https://www.fueleconomy.gov/feg/PowerSearch.do?action=alts&path=3&year=2021&vtype=Electric&srchtyp=yearAfv&rowLimit=10&pageno=1) estimates that the 2021 Tesla Model 3 Long Range AWD requires just over 25 kWh to travel 100 miles. Therefore, the car's energy consumption per mile is around 0.25 kWh.
+
+### Cost of Electricity
+
+Once you know how much electricity your car uses per mile, you need to know how much electricity costs per kWh where you live. You can find up-to-date prices on the [U.S. Energy Information Administration](https://www.eia.gov/) website.
+
+### Cost Per Mile
+
+You can now use this information to calculate how much your electric car will cost to charge per mile. Let's say you live in California, where the average cost of electricity per kWh is $0.2702, and you drive the Tesla mentioned above. Multiplying the car's energy consumption per mile by the cost of electricity per kWh gives a cost per mile of just under $0.07.
+
+Alternatively, it would cost just under $0.04 per mile using the national average cost of electricity.
+
+You can use this calculation to work out how much it would cost to charge your electric car per month. Multiply the cost of electricity per mile by the number of miles you usually travel each month. Using the California example above, assuming you drive 1,000 miles per month:
+
+$0.2702 x 0.25 kWh x 1,000 **\= $67.55**
+
+**More Related Articles:**
+
+*   [How Will Installing an Electric Vehicle Charging Station Impact My Electric Bill?](https://www.homeserve.com/en-us/blog/home-improvement/electric-car-charging-cost/)
+*   [Electric Car Charging at Home: Everything You Need to Know](https://www.homeserve.com/en-us/blog/how-to/charge-electric-vehicle/)
+*   [Top 5 Home EV Chargers](https://www.homeserve.com/en-us/blog/buying-guide/best-ev-chargers/)
+*   [How Much Does Electricity Cost?](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/)
+*   [How to Take Advantage of Time-of-Use Rates and Lower Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/save-electricity-during-peak-hours/)
+
+How Do Electric Car Charging Costs Compare to the Cost of Gasoline?
+-------------------------------------------------------------------
+
+Although electric cars are typically more expensive to purchase than regular vehicles, they're significantly cheaper to maintain. However, the cost differences really stand out when you compare the cost of charging an electric car to buying gasoline.
+
+A recent study by [Consumer Reports](https://advocacy.consumerreports.org/wp-content/uploads/2020/10/EV-Ownership-Cost-Final-Report-1.pdf) found that electric car drivers spend around 60% less on fuel than people who drive gasoline cars. Driving around 15,000 miles a year in a conventional car costs around $1,420 (CAD 1,870) for gasoline, while the electricity to power an electric car traveling the same amount costs around $620 (CAD 820) — a savings of $790 (CAD 1,040) per year.
+
+Is There a Price Difference Between Level 1 and Level 2 Electric Car Charging?
+------------------------------------------------------------------------------
+
+There's no price difference per mile between using a Level 1 and Level 2 charger. However, Level 1 chargers typically come free with an electric vehicle and cost nothing to install, while a Level 2 charger costs between $500 and $2,000(CAD 650 and CAD 2,600) to purchase and install, according to [Lifewire](https://www.lifewire.com/ev-charging-levels-explained-5201716).
+
+The critical difference between a Level 1 and Level 2 charger is how long it takes to charge your vehicle. Level 1 chargers require a 120-volt outlet and restore roughly 5 miles worth of electricity to your car per hour. Meanwhile, a Level 2 charger requires a 240-volt outlet. Charging your vehicle for an hour using a Level 2 charger restores around 12 miles of battery power.
+
+How Much Does Electric Car Charging Cost Using Public Chargers?
+---------------------------------------------------------------
+
+Charging your electric vehicle using public chargers is usually significantly more expensive than residential charging. According to [Investopedia](https://www.investopedia.com/cost-to-charge-ev-road-trip-5219817), most stations charge between $10 and $30 (CAD 13 and CAD 40) for a full charge, and rates can be double or even triple what you'd pay at home. Furthermore, costs can vary by as much as 50% within the same network.
+
+Therefore, it's impossible to give an exact figure of how much it would cost to run an electric car using only public chargers. However, doing so will reduce the fuel savings and could even be more expensive than running a conventional vehicle.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

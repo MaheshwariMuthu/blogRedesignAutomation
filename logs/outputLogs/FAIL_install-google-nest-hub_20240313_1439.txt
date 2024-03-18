@@ -1,0 +1,146 @@
+Browser Used: firefox
+
+Article Page URL:  https://contentful-blogs-dev.netlify.app/blogs/how-to/install-google-nest-hub
+
+Article title <How to Set Up a Google Nest Hub> MATCHED
+
+Article author <Team HomeServe> MATCHED
+
+Article publishDate <October 23, 2021> MATCHED
+
+Article image <https://library.homeserve.com/m/1bfdc351eed56a4a/Blog-GoogleNestHub_Graceoftheshire_0002.jpg> MATCHED
+
+Block1_Paragraph 1 MATCHED
+
+	Photo by Graceoftheshire
+
+Block1_Paragraph 2 MATCHED
+
+	The Google Nest Hub is a popular virtual assistant device that lets you control smart devices and appliances from a central location. It also supports Google Assistant, allowing you to play music, set reminders and get information using voice commands.
+
+Block1_Paragraph3_link 1 MATCHED
+
+	How to Install a Nest Thermostat|https://www.homeserve.com/en-us/blog/how-to/nest-thermostat-installation/
+
+Block1_Paragraph 3 MATCHED
+
+	This May Also Interest You: How to Install a Nest Thermostat
+
+Block1_Paragraph4_link 1 MATCHED
+
+	Google Nest Hub|https://store.google.com/us/product/nest_hub_2nd_gen?hl=en-US
+
+Block1_Paragraph 4 MATCHED
+
+	If you're new to virtual assistants, you may be wondering how difficult it is to install a Google Nest Hub. Fortunately, the process is manageable for even the least tech-savvy users — as long as you’re working with the right information. Here, we've laid out how to set up your Google Nest Hub.
+
+Heading 1: < How Do You Set Up a Google Nest Hub? > MATCHED
+
+Block2_Paragraph 1 MATCHED
+
+	Setting up a Google Nest Hub is quick and straightforward. First, plug your Google Nest Hub into an electrical outlet and press the power on button to switch it on.
+
+Block2_Paragraph2_link 1 MATCHED
+
+	Google Home app|https://support.google.com/chromecast/answer/7071794?hl=en&co=GENIE.Platform%3DAndroid
+
+Block2_Paragraph 2 MATCHED
+
+	Next, install the Google Home app on any device you want to connect to your Google Nest Hub. The app is available for Android and iOS users. You can then use the app to connect your device to the hub.
+
+Heading 2: < How Do You Connect Smart Home Devices to Google Nest Hub? > MATCHED
+
+Block3_Image 1 MATCHED
+
+	https://library.homeserve.com/m/3a59b8b812015bcb/Blog-GoogleNestHubY2kcrazyjoker4WikimediaCommons0003.jpg
+
+Block3_Paragraph 2 MATCHED
+
+	Photo by Y2kcrazyjoker4
+
+Block3_Paragraph 3 MATCHED
+
+	Once your Google Nest Hub is switched on and you've downloaded the Google Home app on your smartphone or another device, open the app and click on the plus sign. You'll then see a menu of options. Select “Set Up New Device” and then select “New Device.”
+
+Block3_Paragraph 4 MATCHED
+
+	Select which home your device is in, and click on the next option. The app will search for your Google Nest Hub automatically. You can create multiple homes if you want to use your hub to interact with devices in several locations.
+
+Block3_Paragraph 5 MATCHED
+
+	Once the app finds your Google Nest Hub, click “Yes” to begin connecting. If nothing comes up, make sure that your phone's Bluetooth isn't switched off. Standing closer to the hub can also make it easier to find during the initial setup.
+
+Block3_Paragraph 6 MATCHED
+
+	The app and your Google Nest Hub will now show a code, and you should check they're the same before clicking next. Read and accept the terms and conditions and decide whether you want the app to share service reports with Google. Doing so allows Google to improve its services, but it's not mandatory and won't affect your hub's functionality.
+
+Block3_Paragraph 7 MATCHED
+
+	Click on the room your hub is kept in and select “Next.” Ensure that your smart device is connected to the same Wi-Fi network you want your hub to use, and select the network from the app menu. You'll receive a series of prompts to customize your Google Nest Hub's settings.
+
+Block3_Paragraph 8 MATCHED
+
+	More Related Articles:
+
+Block3_List9_link 1 MATCHED
+
+	How Much Does It Cost to Install a Nest Doorbell?|https://www.homeserve.com/en-us/blog/cost-guide/nest-doorbell-installation/
+
+Block3_List9_link 2 MATCHED
+
+	How Much Does It Cost to Install a Ring Doorbell?|https://www.homeserve.com/en-us/blog/cost-guide/ring-doorbell-installation/
+
+Block3_List9_link 3 MATCHED
+
+	Smart AC Not a Dumb Idea If You’re Looking to Cut Climate-Control Costs|https://www.homeserve.com/en-us/blog/buying-guide/smart-ac/
+
+Block3_List9_link 4 MATCHED
+
+	How to Install a Video Doorbell|https://www.homeserve.com/en-us/blog/how-to/install-video-doorbell/
+
+Block3_List9_link 5 MATCHED
+
+	How Much Does a Home Security System Cost?|https://www.homeserve.com/en-us/blog/cost-guide/home-security-system/
+
+Block3_List 9 MATCHED
+
+	How Much Does It Cost to Install a Nest Doorbell?
+How Much Does It Cost to Install a Ring Doorbell?
+Smart AC Not a Dumb Idea If You’re Looking to Cut Climate-Control Costs
+How to Install a Video Doorbell
+How Much Does a Home Security System Cost?
+
+Heading 3: < Can You Install Apps on Google Nest Hub? > MATCHED
+
+Block4_Paragraph1_link 1 MATCHED
+
+	XDA Developers|https://www.xda-developers.com/google-nest-hub-app-launcher-test/
+
+Block4_Paragraph 1 MATCHED
+
+	The Google Nest Hub doesn't function like a regular tablet or smartphone, so you can't download or access apps using the device. Instead, Google Nest Hub features “Actions,” which allow you to carry out straightforward functions. According to XDA Developers, there is some evidence that Google is working on making apps available on Google Nest Hub in the future, but it's unclear when this update will become widely available.
+
+Heading 4: < What Smart Home Devices Can Connect to Google Nest Hub? > MATCHED
+
+Block5_Paragraph1_link 1 MATCHED
+
+	device compatible with Google Assistant|https://assistant.google.com/explore/c/19/?e=-WebDirectoryEmbeddedWebviewExperiment&jsmode=o
+
+Block5_Paragraph 1 MATCHED
+
+	You can connect any device compatible with Google Assistant to your Google Nest Hub by installing the Google Home app. This allows you to perform a wide range of functions from one place, including controlling your entertainment devices, smart appliances and even your lights and thermostat.
+
+Block5_Paragraph 2 MATCHED
+
+	The Google Nest Hub is compatible with Xbox consoles and Chromecast devices, and you can also connect it with any HP printer for voice-controlled, hands-free printing. It also connects with Alarm.com, Alfred Camera and Aladdin Connect home security systems. This allows you to change your camera settings, switch your house alarm on and off and open and shut your garage door. RoboVac owners can also control their robotic vacuum cleaner and change the settings from the Google Nest Hub.
+
+Block5_Paragraph3_link 1 MATCHED
+
+	https://bit.ly/3BAYAT5|https://bit.ly/3BAYAT5
+
+Block5_Paragraph 3 NOT MATCHED
+
+	Photo license: https://bit.ly/3BAYAT51(https://bit.ly/3BAYAT5)
+
+	Photo license:https://bit.ly/3BAYAT5
+

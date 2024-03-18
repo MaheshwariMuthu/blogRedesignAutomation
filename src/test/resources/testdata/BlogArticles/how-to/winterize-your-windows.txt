@@ -1,0 +1,109 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Winterize Your Windows"
+headline: "How to Winterize Your Windows"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2022-11-24
+basePath: https://library.homeserve.com/m/
+heroImage: 5ff9f2dc332cdfe1/Blog-WindowInsulation_Erossi_3792.jpg
+heroAltDescription: "a hair dryer is used to tighten and seal plastic window insulation to an old wood window"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Discover six ways to winterize your windows and reap the reward of reduced energy costs this winter."
+articleAbstract: "Winterizing your windows can dramatically enhance your home’s energy efficiency and reduce your monthly heating bill. Learn how to winterize your windows."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Winterize Your Windows"
+  parent: Interior-Home-How-To
+---
+  
+
+Your windows have a greater impact on your winter heating bills than you might realize. According to the [U.S. Energy Department](https://www.energy.gov/energysaver/update-or-replace-windows#:~:text=Energy%20efficient%20windows%20are%20an,heating%20and%20cooling%20energy%20use.), heat loss through windows accounts for 25% to 30% of residential heating use. Consequently, winterizing your windows to seal off drafts and improve their insulation value is key for optimizing your home’s energy efficiency.
+
+**This May Also Interest You:** [**Don’t Cry! Here’s How to Clean your Windows’ Weep Holes**](https://www.homeserve.com/en-us/blog/how-to/clean-window-weep-holes/)
+
+Read on to learn how to winterize your windows. This will help you and your family stay warm and toasty this winter while saving money month after month.
+
+Winterizing Your Windows
+------------------------
+
+### Things You’ll Need
+
+*   Putty knife or beveled scraper
+*   Scrub brush
+*   Warm water
+*   Soap
+*   Caulking gun
+*   Exterior-grade caulk
+*   Removable weatherstrip caulk
+*   Window insulation kit
+*   Scissors
+*   Thermal window fashions
+
+### Step-by-Step Guide to Window Insulation
+
+#### Step 1: Inspect Your Windows
+
+<img class="detail-image" src="https://library.homeserve.com/m/46513fe31c3fecfa/Blog-WindowWaterLeakage_Erossi_3517.jpg" alt="Wood window in poor condition with condensation on the inside due to a leak "/>
+
+If your windows don’t fully close and seal, they can let moisture and cold air into your home while letting warm air out. Locks and latches can deteriorate over time, so open, close, latch and unlatch your windows to make sure they’re in good working order. Clean and lubricate any sticky latches and locks, and replace any broken or defective ones.
+
+The caulking seal around the outside perimeter of your windows — where the trim meets the siding — is another essential defense against moisture and air leaks. Inspect the condition of the caulking to look for any broken, brittle or missing portions. If there are, the caulking should be replaced.
+
+#### Step 2: Caulk the Outside
+
+<img class="detail-image" src="https://library.homeserve.com/m/6214d2472945f7f1/Blog-GettyImages-1171842434-jpg.jpg" alt="man caulking exterior leaks and cracks on his home with sealant "/>
+
+To replace the caulk, start by removing the old layer of caulking. Scrape it off with a putty knife or beveled scraper (like a 6-in-1 tool). Then, clean the area with a scrub brush and warm soapy water. Allow it to dry fully before you continue.
+
+Load a tube of exterior-grade caulking (like “window-and-door caulking,” silicone, siliconized or polyurethane) into a caulking gun. Apply a fresh bead of caulking around the entire perimeter of the window trim. Refer to the manufacturer’s instructions for the recommended drying times.
+
+#### Step 3: Weatherstrip the Inside
+
+<img class="detail-image" src="https://library.homeserve.com/m/678c95d7eced8b59/Blog-GettyImages-184846444-jpg.jpg" alt="man installing a weather seal onto windows"/>
+
+Now that you’ve sealed the outside of your windows with caulking, it’s time to add weatherstripping to seal off the gap where the sash (movable panes of glass) meets the bottom of the window frame.
+
+There are several different types of window weatherstripping available, including:
+
+* **Foam insulation tape:** These are foam strips that compress inside the gap when the sash closes against the frame. Foam insulation tape can be easily cut to size with scissors, and they have a self-adhesive backing to secure them in place.
+* **Tubular rubber gasket:** This type of weatherstripping works in a similar way to foam insulation by compressing between the sash and the frame, but it uses a hollow rubber tube instead of a solid foam strip. Tubular rubber gaskets also have self-adhesive backing for securing the strips in place.
+* **Felt:** Felt strips are one of the most economical and oldest types of weatherstripping. They also work via compression. Some felt strips come with an adhesive backing, but they usually need to be stapled or nailed in place. Although they’re the most affordable, they generally don’t last as long as other varieties and need to be replaced every one to two years.
+* **V-Seal:** As the name implies, these are V-shaped plastic or metal strips that are placed inside gaps and spring open to seal them. They’re often available with self-adhesive backings.
+
+Now that the bottom of the window is taken care of, seal the gaps on the sides of the sash with removable weatherstrip caulk. Load the tube of removable weatherstrip into your caulking gun and apply a bead along both sides of the sash where it contacts the window frame. At the end of winter, you can peel off the bead and open your window.
+
+**More Related Articles:**
+
+*   [How to Remove a Window](https://www.homeserve.com/en-us/blog/how-to/remove-window/)
+*   [How to Measure for Replacement Windows](https://www.homeserve.com/en-us/blog/how-to/measure-replacement-windows/)
+*   [How to Replace Your Windows](https://www.homeserve.com/en-us/blog/how-to/replace-window/)
+*   [How Much Does Window Replacement Cost?](https://www.homeserve.com/en-us/blog/cost-guide/window-replacement-cost/)
+*   [Here’s How to Apply Plastic Film to Insulate Your Windows](https://www.homeserve.com/en-us/blog/how-to/window-insulation-film-installation/)
+
+### Skip the Fuss: Get a Window Insulation Kit
+
+<img class="detail-image" src="https://library.homeserve.com/m/5c9aceae6c947045/Blog-WindowInsulation_Erossi_3791.jpg" alt="close up of window insulation film being applied with double-sided tape to the window frame"/>
+
+Window insulation kits are a popular option. They allow you to completely seal off your windows for the winter using heat-shrink plastic. To install them, place the provided double-sided tape to the outside perimeter of your window, cut the plastic to size and place it on the tape. Apply heat to the plastic with a blow dryer or heat gun until it shrinks and conforms to your window. Not only does this completely seal off the window to cover any air gaps that caulking and weatherstripping may have left behind, but it also adds additional insulation value to the window as well.
+
+### Or, Try Thermal Window Fashions
+
+If you’d rather cover your windows with something more visually appealing than plastic, thermal window fashions are an excellent alternative. Options include:
+
+* **Thermal curtains:** These are heavy, foam-lined curtains specifically designed to add insulation value to your windows. Not only are thermal curtains useful for retaining heat during winter, but they’re also great for blocking the sun and retaining cool air during summer. To optimize their efficiency, hang them as close to the window as possible and overlap the seam where the two sides of the curtains meet. Some homeowners even install Velcro strips onto the seams to hold the two sides together and ensure they stay closed.
+* **Dual-cell blinds:** Dual-cell blinds are essentially two regular, single-cell blinds layered into one, and provide much greater insulation value than their single-cell counterparts. While they’re more expensive than thermal curtains, they’re an ideal choice if you prefer the aesthetic of blinds over curtains.
+
+### Consider Storm Windows
+
+The name “storm window” may make it sound like this window’s primary function is to protect your home from storms, but they’re actually an excellent way to cover air gaps around your entire window. Often made of plastic or acrylic, they also contribute to soundproofing and will sometimes have UV-blocking qualities to provide year-round benefits.
+
+They can be installed inside or out, and they can be custom-made to the exact specifications of your window. Interior “window inserts” are the easiest to install; simply press the insert into the frame.
+
+Exterior storm windows require the extra installation steps of caulking and screwing them onto the window jamb, but they offer greater insulation value than interior inserts.
+
+Winterize Wisely
+----------------
+
+Winterizing your windows is a great way to enhance your home’s energy efficiency. However, sometimes upgrading your windows to more energy-efficient models is the best solution. This is especially true if you’ve taken all the steps to winterize your existing windows but you’re still experiencing significant heat loss, if your windows are over 15 to 20 years old, or if your windows have single-pane glass. An investment in high-efficiency windows has the potential to pay for itself in a relatively short period of time.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Insulate Windows | Cheap and Easy with Plastic Film"></iframe>

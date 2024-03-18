@@ -1,0 +1,95 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "LG Dishwasher Error Codes"
+headline: "LG Dishwasher Error Codes"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2023-12-17
+basePath: https://library.homeserve.com/m/
+heroImage: 5cda575050539eeb/Blog-LG-SteamClean-01-scaled.jpg
+heroAltDescription: "LG dishwasher"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If you have an LG dishwasher, you might see an error code that helps you figure out the issue. Check out common LG dishwasher codes and what you can do about them."
+articleAbstract: "If you have an LG dishwasher, you might see an error code that helps you figure out the issue. Check out common LG dishwasher codes and what you can do about them."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "LG Dishwasher Error Codes"
+  parent: Appliances
+---
+  Dishwashers are a favorite appliance of many people. Who wants to scrub every dish, glass and fork by hand? But you might not realize just how much you rely on your dishwasher until it stops working.
+
+**This May Also Interest You:** [**What Do You Do With an Old Appliance? How to Recycle Fridges, Washers, Ovens and More**](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+If you have an LG dishwasher, you might see an error code that helps you figure out the issue. Check out common LG dishwasher codes and what you can do about them.
+
+What Is an Error Code?
+----------------------
+
+An error code is an abbreviation that stands for a specific problem. You'll often see them on various appliances that have digital controls. The screen will display a short code to let you know what's wrong with the machine. An LG dishwasher error code is usually two letters or one letter and one number. Since it's so short, the code itself doesn't have much meaning. You'll need to know what it stands for to figure out the issue.
+
+Common LG Dishwasher Error Codes and What They Mean
+---------------------------------------------------
+
+The following LG dishwasher codes are common things you might see if your machine isn't working correctly. Refer to your owner's manual if one of these isn’t the code on your display:
+
+### bE
+
+This LG dishwasher error code could mean two things: Either you're not using the correct detergent, or the unit isn't level. You should only use detergent formulated for automatic dishwashers. Liquid dish soap for hand-washing dishes creates too many suds and won't work properly in the dishwasher. If that's not the issue, make sure the dishwasher is level and adjust it if needed.
+
+### CL
+
+If you see CL on your screen, it's not an LG dishwasher error code. It's simply telling you that the child lock feature is engaged.
+
+### AE or E1
+
+Both of these codes indicate that a leak inside the machine has activated the float switch. You can try leveling the appliance, checking the door gasket and looking for buildup on the spray arms. If those things don't help, call a repair tech to figure out the issue.
+
+### IE
+
+You'll see this code if the water isn't high enough after the dishwasher fills for 10 minutes. If it's a newly installed dishwasher, make sure it's connected to the water supply correctly and that the valve is turned on. Low water pressure in your home could cause these issues as well. A plumber can help correct low water pressure. This issue could also happen if the machine isn't level or there's an issue with the drain hose outlet.
+
+### 2H
+
+If you see this code, don’t worry! This code simply means there are less than 2 hours left on the cycle. This appears until it reaches 99 minutes, at which point you'll see the specific number of minutes left.
+
+### LE or CE
+
+In this case, there's a problem with the motor or wiring harness. You might be able to fix it by turning the dishwasher off, shutting off the circuit breaker, waiting 10 seconds, turning the circuit breaker back on and turning the dishwasher back on. If that doesn't work, you'll need a repair tech to fix it.
+
+### CR
+
+This code means that your LG dishwasher is in test mode. This happens if you hold three buttons at the same time. You can get it out of test mode by powering off the dishwasher, waiting a minute or two and turning it back on.
+
+### OE
+
+If you see OE on the display, your dishwasher has a drain issue. If the unit was recently installed, it could be an installation error. If not, try cleaning the filter, checking the drain hose for kinks and checking the drain air gap for clogs.
+
+### FE
+
+A fill error happens when the dishwasher has too much water inside, which causes the drain pump to activate. It might help to turn it off, turn off the circuit breaker for 10 seconds, turn the circuit breaker back on and turn the dishwasher on.
+
+### HE
+
+HE stands for heater error and displays if the dishwasher can't heat the water correctly. You can use the same troubleshooting steps you would use for the FE error.
+
+### nE
+
+This LG dishwasher error code means there's an issue with the motor controlling the spray arms. It requires professional repair.
+
+### tE
+
+Your dishwasher has a thermal error, meaning the water is over 194 degrees Fahrenheit. It could also mean the thermistor has issues. Both of these problems require a repair tech.
+
+**More Related Articles:**
+
+*   [Should You Buy a Used Appliance? Weigh the Risks and Rewards](https://www.homeserve.com/en-us/blog/buying-guide/used-appliances/)
+*   [7 Ways Your Kitchen Will Evolve in the Next 10 Years](https://www.homeserve.com/en-us/blog/home-improvement/advancements-kitchen-technology/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+Can I Fix These Errors on My Own?
+---------------------------------
+
+Whether or not you can fix an LG dishwasher error code yourself depends on what it is. Some issues are things you can easily fix yourself. Others might require a repair technician. Do some troubleshooting on your own, but don't be afraid to call a technician if you can't figure it out yourself.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/Ss3da5F_Nk4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Clean Your Dishwasher (Properly)"></iframe>

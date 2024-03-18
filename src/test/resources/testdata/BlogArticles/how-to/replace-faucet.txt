@@ -1,0 +1,90 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to Replace Faucet
+headline: 'Replacing faucets: What you should know'
+author: Team HomeServe
+tags: ['post', 'Plumbing']
+publishDate: 2018-04-06
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: faucet.jpg
+heroAltDescription: How to Install a Faucet
+metaDescriptions: Whether your faucet is out of style or continually leaking, you can replace it all on your own with these easy steps.
+articleAbstract: A leaky faucet is annoying beyond belief. Learn how to repair it with these DIY steps. 
+category: ['How To']
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/how-to/replace-faucet/', 'en-us'], ['https://www.homeserve.co.uk/living/plumbing-and-drainage/how-to-change-a-kitchen-tap/', 'en-gb']]
+
+eleventyNavigation:
+  key: How to Replace Faucet
+  parent: Plumbing-How-To
+---
+
+::: blog-info
+Whether you're experiencing a leak or itching to make some interior design changes in your home, new faucets are a simple and affordable upgrade for your kitchen and bathrooms. Plus, replacing old faucets is a smart home maintenance decision to prevent potential plumbing issues or damage and increase efficiency.
+
+Even better, this is one of the easiest home improvement projects you can take on.
+
+Here's what you need to know about replacing the faucets in your home:
+
+## Choosing new faucets
+
+Spend some time with your sink before rushing to buy a new faucet. To make sure you buy one that will fit your sink, check to see how many holes your sink has and whether they are center-set or widespread. It should be a single- or triple-hole sink. Also, identify if your current faucet is installed to the countertop or to the sink. This way you can match the replacement fixture to the type you already have. When in doubt, snap a few pictures of the holes and sink so you can refer to them at the store.
+
+Once you know what type of faucet you need, look for the Environmental Protection Agency's WaterSense label when you're shopping. With these efficient products, you'll be saving water and money every time the tap is on. According to the EPA, replacing old faucets with WaterSense models can save the average household about [700 gallons of water each year](https://www.epa.gov/watersense/bathroom-faucets){target="_blank"}.
+
+## Gathering tools and materials
+
+Make sure your toolbox is ready for this do-it-yourself project. Head to your local home improvement store to purchase the tools or materials you don't already own. Here's what you'll need:
+
+* Adjustable wrench
+* Plumber's putty
+* Plumber's tape
+* Bucket for excess water
+* Towel
+* Surface cleaner
+* Safety glasses
+* Gloves
+ 
+## Getting started
+
+Before you can install the new faucet, you'll need to remove the old one. Follow these steps:
+
+### 1\. Turn off the water supply.
+
+The valves should be under the sink. If not, cut the water supply at the main valve. Turn on the faucet to relieve water pressure left in the lines.
+
+### 2\. Disconnect the water lines.
+
+Use an adjustable wrench to loosen and remove the supply line from the valves and the bottom of the faucet. Drain the remaining water into a bucket.
+
+### 3\. Remove the hardware.
+
+Loosen and remove the nuts that hold the faucet in place with a wrench. Now you can detach the faucet and clean any grime from the sink's surface.
+
+## Installing new faucets
+
+Keep in mind that you should always refer to the manufacturer's instructions for steps that are specific to your new faucet. The procedure may also differ depending on the type of sink.
+
+In general, here's how to install a faucet:
+
+### 1\. Install the gasket.
+
+Place it - or the trim ring - over the faucet holes. Set the deck plate if your faucet has one. Check the manufacturer's instructions to see if you need caulk or plumbers putty for this step.
+
+### 2\. Feed the faucet extensions though the holes.
+
+Tighten the mounting nuts to keep the faucet secure.
+
+### 3\. Reconnect the water lines.
+
+Make sure you don't overtighten the connection. Lowe's also recommends [wrapping either end with plumber's tape](https://www.lowes.com/projects/kitchen-and-dining/how-to-install-a-kitchen-faucet/project#noop){target="_blank"} as an extra precautionary measure.
+
+### 4\. Test the faucet.
+
+Turn the water supply back on and run hot and cold water for about a minute. Check for leaks, and tighten connections if necessary.
+
+Once your new faucet is installed, finish the project by following these steps to [keep your drains smelling fresh](/en-us/blog/home-improvement/shower-drain-smells){target="_blank"}. Everything will look, smell and feel brand new! If your DIY maintenance efforts don’t go as planned, be sure to call a licensed professional.
+:::
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5j759jOLiwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 'Electric Car Charging at Home: Everything You Need to Know'
+headline: 'Electric Car Charging at Home: Everything You Need to Know'
+author: Team HomeServe
+tags: ['post']
+publishDate: 2020-12-09
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: ev-charging-2.jpg
+heroAltDescription: electric vehicle charging port
+metaDescriptions: When you own an electric car, electric car charging at home is convenient and a great perk to have. Learn how to charge your electric vehicle at home.
+articleAbstract: When you own an electric car, having a charging station at home is one of the perks. Find out answers to some basic questions on having a car charging station at home.
+category: ['How To']
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/how-to/charge-electric-vehicle/', 'en-us'], ['https://www.homeserve.co.uk/living/blog/electric-car-charging-at-home-everything-you-need-to-know/', 'en-gb']]
+eleventyNavigation:
+  key: 'Electric Car Charging at Home: Everything You Need to Know'
+  parent: Electrical-How-To
+---
+
+One of the benefits of owning an electric vehicle is never having to go to a gas station. If you own an electric car, recharging it at home is one of the perks. But there&#39;s much than that to consider before jumping into electric-vehicle ownership.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install an Electric Car Charging Station?**](/en-us/blog/cost-guide/ev-charging-station-installation/)
+
+Here&#39;s everything you need to know about equipping your household with an EV charger:
+
+<img class="detail-image" src="/en-us/assets/images/blog/how-to/ev-charging-wall-plugin.jpg" alt="level-2 home charging unit for electric vehicle"/>
+
+## Types of <span class="uppercase">EV</span> Chargers for Home Use
+
+First off, let&#39;s evaluate the two main types of home charging stations for electric vehicles. The two basic types are Level 1 and Level 2 EV chargers. The main difference is their voltage. Level 1 EV chargers operate using 120-volt outlets, whereas Level 2 charging stations require 240-volt outlets.
+
+Four main things differentiate these two types of electric car charging stations:
+
+* Speed
+* Price
+* Installation
+* Mobility
+
+There are other factors, too, that may influence your choice for home charging. If your workplace offers convenient electric charging stations, or if public EV charging stations are plentiful in your area, you may just wish to use the least expensive option for your electric car and charge at home only when necessary.
+
+### Speed
+
+A Level 1 charger adds about [40 miles of range](https://www.ucsusa.org/resources/electric-vehicle-charging-types-time-cost-and-savings#:~:text=Level%201%E2%80%94Home%20Charging%3A%20Level,an%20eight%2Dhour%20overnight%20charge.) to an electric car in eight hours. If you have an all-electric car but you don&#39;t drive very far each day, that might be a good option. Level 1 chargers are also suitable for plug-in hybrid vehicles.
+
+On a 30-amp circuit, Level 2 electric-car charging stations add about 180 miles of range in an eight-hour charge. Level 2 chargers are commonly seen in public places. Also, for convenience, Level 2 chargers have a plug standard to most electric vehicles — unless you own a Tesla, in which case you&#39;ll need an adapter.
+
+### Price
+
+When you purchase an electric vehicle, manufacturers provide you with a Level 1 charger, and you can use it with a [regular household outlet](/en-us/blog/tags/electrical/). Level 2 chargers, however, require installation since they use a 240-volt outlet. Installation prices are between $500 and $1,000 on average.
+
+### Installation
+
+A Level 1 electric-vehicle charging station is easy to use, requires no additional electrical work and can be used with any household outlet. A Level 2 charger requires installation by a professional, as it uses a 240-volt outlet and typically a 30-amp circuit. A 240-volt outlet is the same kind of outlet you need for a [washing machine](/en-us/blog/how-to/clean-washing-machine/), oven or other major appliance.
+
+### Mobility
+
+One advantage Level 1 EV chargers offer is that they&#39;re conveniently mobile and can accompany your electric car wherever it goes. Level 2 chargers are generally stationary and me used at home or found at public charging stations.
+
+<img class="detail-image" src="/en-us/assets/images/blog/how-to/ev-charging-3.jpg" alt="electric vehicle being charged"/>
+
+## 5 Common Questions About <span class="uppercase">EV</span> Charging at Home
+
+### 1. How Long Does It Take to Charge an Electric Car?
+
+Charging times vary depending on your EV&#39;s battery capacity, current level of charge, your home charging station&#39;s settings and the energy source. In general, a Level 1 charger can replace about 4-5 miles of driving per hour of charging, while a Level 2 charger can offer an additional 15-25 miles of driving per hour of charge.
+
+### 2. Is It Safe to Charge on a Regular Outlet?
+
+If you&#39;re using a regular electricity outlet — 120 volts in the United States — you&#39;ll need a specific type of charging cable to prevent electrical faults and overheating.
+
+### 3. Is a Dedicated Charging Station Necessary for <span class="uppercase">EV</span> Charging at Home?
+
+It is recommended, as it makes charging your EV at home safer and quicker. It also ensures you get the maximum range out of your vehicle. But, if you&#39;re unwilling or unable to pay the price of installing a Level 2 charger at home, using a Level 1 charger might suffice. It depends on how much you drive each day and what your budget is.
+
+### 4. How Much Will Charging an <span class="uppercase">EV</span> at Home Increase My Electricity Bill?
+
+The average price for a kilowatt hour, which is a basic measure for electricity usage in the United States, is 13.19 cents. The average increase is about 3,500 kWh per year, so the average increase would be $461.65 over the course of a year — about $39 per month. That said, there are ways to reduce even those costs, such as generating your own electricity with residential solar panels, or even just charging your car overnight, when the cost of electricity may be lower.
+
+### 5. How Do I Maintain My <span class="uppercase">EV</span> Charging Station?
+
+A home charging station for an electric vehicle requires very little maintenance. If it&#39;s installed properly, when one part of it wears out it can easily be replaced. Smart EV chargers, which usually include Wi-Fi connectivity, can remotely diagnose issues and recommend repairs, often well before a malfunction occurs.
+
+_Electrical repairs and maintenance are important to keep your home in working order. Being prepared with a [plan from HomeServe](/en-us/repair-plans/electrical/) provides peace of mind. When a covered electrical issue arises, you can call their repair hotline 24/7 and an expert electrician will be dispatched to your home to provide assistance. See what plans are available in your area._

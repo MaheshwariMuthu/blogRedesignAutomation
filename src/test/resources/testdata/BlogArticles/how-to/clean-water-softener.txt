@@ -1,0 +1,85 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean Your Water Softener"
+headline: "How Do You Clean a Water Softener?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-04
+basePath: https://library.homeserve.com/m/
+heroImage: 4656f1922f6b5bea/Blog-NewWaterSoftener_Rossi_0002.jpg
+heroAltDescription: "The black tanks of a household water softener sit on a concrete floor against a white brick wall"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "As with any system, a water softener needs to be regularly cleaned. Here's how."
+articleAbstract: "As with any system in your home, a water softener needs occasional maintenance. Learn how to clean a water softener to keep it running well."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clean Your Water Softener"
+  parent: Plumbing-How-To
+---
+  When you have hard water, you often have buildup on various fixtures. Installing a water softener is an easy way to remove the minerals in the water that create the buildup.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install or Replace a Water Softener?**](https://www.homeserve.com/en-us/blog/cost-guide/water-softener-installation/)
+
+As with any system in your home, a water softener needs occasional maintenance. Learn how to clean a water softener to keep it running well.
+
+Why Should You Clean Your Water Softener?
+-----------------------------------------
+
+Cleaning is part of regular water softener maintenance to keep the system in optimal condition. It can help prevent problems that require expensive repairs. Regular cleaning also ensures the water that comes out of your faucets is clean and clear. If you don't clean the system, it can leave a buildup of minerals in the resin tank, which can discolor the water.
+
+How to Clean a Water Softener: 11 Steps
+---------------------------------------
+
+Learning how to clean a water softener can seem intimidating, but it's a straightforward process. The main parts you need to clean inside the water softener are the brine tank (where the salt goes) and the resin bed. Waiting to clean the brine tank until the salt is already low makes the job easier since you will need to remove all of the salt for the cleaning process.
+
+Follow these steps to clean the brine tank:
+
+**1.** Shut off your water softener by disconnecting the power and opening the bypass valve.
+
+**2.** Drain the water that's in the brine tank.
+
+**3\.** Scoop out the water softener salt that's in the brine tank. Throw it away so you can start with fresh salt after you clean the tank.
+
+**4.** Check for salt bridges and salt mushing. Salt bridges happen when you get a crust of salt in the tank, and salt mushing results in sludge at the bottom of the tank. You might need to grab some hot water to loosen the salt in these situations.
+
+**5.** Make a cleaning mixture with a few gallons of warm water and dish soap. Pour the soapy water into your brine tank.
+
+**6.** Grab a brush with a long handle and scrub all of the surfaces inside the tank.
+
+**7.** Discard the soapy water and rinse out the brine tank.
+
+**8.** Sanitize the tank by pouring 2 gallons (7 or 8 liters) of water into the tank and adding 1/4 cup of bleach. Let it sit for 15 minutes, then scrub all surfaces inside the tank with the bleach mixture.
+
+**9.** Empty the bleach water and rinse the inside of the tank well.
+
+**10.** Dry the inside of the tank with a towel, or let it air dry fully.
+
+**11.** Refill the tank with salt and reconnect it to the power. Take the system out of bypass mode.
+
+To clean the resin bed, you'll need resin cleaner. This is also best done when the salt is low, and not after you replace the salt since you'll likely need to dispose of the salt that's in the unit. Refer to your owner's manual or the manufacturer's website to see if there is a recommended brand of resin cleaner.
+
+Follow the instructions on the resin bed cleaner to determine how much to add to the resin tank. You can put the resin cleaner in the resin bed by pouring it through the brine tank tube. You typically need to run a regeneration cycle after putting the cleaner into the resin bed.
+
+**More Related Articles:**
+
+*   [Have Hard Water? Here’s How to Know — and How to Treat It](https://www.homeserve.com/en-us/blog/how-to/spot-and-treat-hard-water/)
+*   [What Is a Water Softener?](https://www.homeserve.com/en-us/blog/home-improvement/water-softener-explained/)
+*   [Installing a Water Softener Isn’t So Hard: A 6-Step Guide](https://www.homeserve.com/en-us/blog/how-to/water-softener-installation/)
+*   [How to Know If Your Bathtub Has Hard Water](https://www.homeserve.com/en-us/blog/home-improvement/hard-water/)
+*   [How Much Do Home Water Filtration Systems Cost?](https://www.homeserve.com/en-us/blog/cost-guide/water-filter-installation/)
+
+How Often Should You Clean a Water Softener?
+--------------------------------------------
+
+According to [Family Handyman](https://www.familyhandyman.com/list/keep-your-water-softener-healthy/), you typically only need to clean your water softener once per year. However, you might need to clean it more often if it shows signs of needing to be cleaned. If your water contains a lot of iron, you might need to clean the resin bed twice per year to help it remove the iron efficiently. Check for salt bridges and salt sludge every time you refill your water softener with salt. Clean these as soon as you notice them, as they can cause problems with your water softener.
+
+Signs Your Water Softener Needs to Be Cleaned
+---------------------------------------------
+
+If your water softener needs to be cleaned, you might notice that it's not softening the water as well as normal. Discolored water coming out of your tap is another sign. If you notice sediment, sludge or other gunk inside the tank, it's also a good time to clean the system. Your water softener resin bed might need to be cleaned if the unit is going through a longer-than-normal recharge cycle.
+
+Call a Professional
+-------------------
+
+If you don't know how to clean a water softener and don't feel comfortable doing it yourself, hire a professional to do the work. It's a good idea to have an annual inspection from a professional anyway. A water softener pro can handle the maintenance and cleaning as well. This ensures the cleaning is done properly, and the inspection helps to identify any issues with the system that need to be repaired before they get worse.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

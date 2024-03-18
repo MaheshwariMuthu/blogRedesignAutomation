@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to clean Shower Doors
+headline: How to clean Shower Doors
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2019-11-04
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: clean-shower-doors-01-full.png
+heroAltDescription: How to clean Shower Doors
+metaDescriptions: Keeping your glass shower doors clean can be a challenge. Learn the tips on how to clean shower doors.
+articleAbstract: Your bathroom can be an oasis, but keeping your glass shower doors clean can be a challenge. Here’s what you need to know.
+category: ['How To']
+
+eleventyNavigation:
+  key: How to clean Shower Doors
+  parent: Plumbing-How-To
+---
+
+When I was dreaming of becoming a homeowner, there were a few things I had on my must-have new home list: a garbage disposal, stackable washer/dryer and glass shower doors. Each of these wants seemed so luxurious to me at the time, especially shower doors. (Of course I was just fresh out of college, living in a 5th floor walk-up apartment, with 3 roommates, learning how to [unclog our toilet](/en-us/blog/how-to/unclog-backed-up-toilet){target="_blank"} and maneuver the sharing of a tiny shower with a disposable plastic curtain.)
+
+::: blog-info
+Now that I am a homeowner with a beautiful master bathroom complete with a glass door shower, my biggest problem is keeping the shower doors clean. Here’s what you need to know:
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+:::
+
+## Shower door "yuck alerts"
+
+As The Home Depot notes, when shower doors are dirty it [can make your whole bathroom look unappealing](https://www.homedepot.com/c/ah/how-to-clean-glass-shower-doors/9ba683603be9fa5395fab90133d48922){target="_blank"}. That's why light daily maintenance is necessary. But if you've let this chore fall by the wayside, the three biggest hazards you need to look out for are:
+
+::: list-none
+* Soap scum.
+* Hard-water stains.
+* Mildew (not mold, although that'll show up elsewhere in your bathroom if you're not careful).
+:::
+
+Be sure you have the following tools:
+
+::: list-none
+* Rubber gloves.
+* Cleaning rags.
+* A soft-bristle scrub brush.
+* Sponges.
+* An empty spray bottle (technically, this one is optional).
+:::
+
+## All-natural cleaning methods
+
+While you can find chemical products specifically intended to tackle mildew, water spots and soap scum at the local hardware store, why not try some natural techniques first?
+
+[Learn More About Home Repair Plans Near You]({{ migrationData.homepage }}){target="_blank"}
+
+One of these is a lot like a [shower-drain cleaning method](/en-us/blog/how-to/unclog-shower-drain){target="_blank"}, just without the baking soda: According to Better Homes & Gardens, you should [heat up a small amount of distilled white vinegar](https://www.bhg.com/homekeeping/house-cleaning/surface/how-to-clean-shower-doors/){target="_blank"} (in the microwave, for no more than 30 seconds) and then gently apply the substance to the doors using a sponge. As an alternative for showers constructed using stone - which vinegar can notably damage over time - BH&G suggests liquid soap mixed with baking soda.
+
+For a similarly acidic and gunk-killing but better-smelling natural shower door cleaner, Merry Maids recommends mixing [three tablespoons of lemon juice](https://www.merrymaids.com/cleaning-tips/diy/guide-to-cleaning-shower-doors/){target="_blank"} (ideally fresh-squeezed, but we understand you might be pressed for time on some occasions when you need to do this cleaning task) with a cup of distilled water in a spray bottle. After shaking the liquids up, spritz the substances all over the shower doors' problem areas, and then let it sit for about five minutes. Wipe down the glass in downward movements and use a microfiber cloth on any streaks that may result.
+
+## Chemical soap-scum warfare
+
+Sometimes natural methods just won't cut it. In these situations you've got to go heavy-duty and bring in chemicals - though you may have them around the house and thus save a trip to the store. Here's [an ammonia-based method](/en-us/blog/how-to/unclog-shower-drain){target="_blank"}, courtesy of DIY Network:
+
+::: list-none
+* Ventilate the bathroom.
+* Mix one part ammonia with three parts water in a spray bottle.
+* Spray the affected surface. While it's still wet, rub a scrub brush over the surface of the scum or mildew.
+* Rinse clean with water, leaving no ammonia on the doors or in the showers, then dry the doors clean.
+:::
+
+Alternatively (and never at the same time you use ammonia), you can make a borax-baking soda paste and clean shower doors that way, applying the mixture with a damp sponge.
+
+## Keeping clean
+
+After you've deep-cleaned the doors, make sure they stay that way. Keep a window squeegee and microfiber cloth handy in the bathroom and use them one after the other to wipe water and residue away from the shower doors every day.
+
+::: blog-info
+Being prepared for unexpected home repairs is always a good strategy. [Plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help you better manage the costs of covered repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+:::

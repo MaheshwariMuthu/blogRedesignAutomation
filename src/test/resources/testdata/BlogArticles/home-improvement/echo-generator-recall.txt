@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Burn Notice: ECHO EGi-2300 Watt Generators Recalled Due to Fire and Burn Hazards"
+headline: "Burn Notice: ECHO EGi-2300 Watt Generators Recalled Due to Fire and Burn Hazards"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-07-13
+basePath: https://library.homeserve.com/m/
+heroImage: 4bbb1bc4739df73d/Blog-EchoGeneratorRecall_TTI.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "A fire risk has prompted the recall of about 3,700 ECHO EGi-2300 Watt Generators sold between February 2020 and June 2021."
+articleAbstract: "A fire risk has prompted the recall of about 3,700 ECHO EGi-2300 Watt Generators sold between February 2020 and June 2021. According to a recall issued July 8 by the Consumer Product Safety Commission, the units can overheat, posing a fire and burn hazard to users."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "ECHO EGi-2300 Watt Generators Recalled Due to Fire and Burn Hazards"
+  parent: Electrical-Home-Improvement
+---
+  A fire risk has prompted the recall of about 3,700 ECHO EGi-2300 Watt Generators sold between February 2020 and June 2021. According to a [recall issued July 8](https://cpsc.gov/Recalls/2021/ECHO-EGi-2300-Watt-Generators-Recalled-Due-to-Fire-and-Burn-Hazards-Manufactured-by-TTI-Recall-Alert) by the Consumer Product Safety Commission, the units can overheat, posing a fire and burn hazard to users.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here's Everything You Need to Know**](https://www.homeserve.com/en-us/blog/category/home-improvement/)
+
+According to the CPSC, the generators were manufactured by Techtronic Industries (Dongguan) Co. Ltd., of China; imported by Techtronic Industries Power Equipment, of Anderson, S.C.; and sold at independent ECHO outdoor power equipment dealers nationwide, as well as at HomeDepot.com for around $850 apiece. The generator defect has yielded four complaints, but no reports of injuries as of the recall announcement.
+
+The CPSC urges owners to stop using the generators immediately and contact ECHO for instructions on how to get a free repair. ECHO, meanwhile, is contacting all known owners directly.
+
+“Parts to repair your generator are not currently available,” ECHO stated in its [owner-notification letter](https://www.echo-usa.com/getattachment/8af02aa0-6ee0-450a-99d9-48f4067de2cc/ECHO%20EGi-2300%20Generator%20Safety%20Recall.pdf). “We are working as quickly as possible to correct this condition. When parts are available we will send you another letter asking you to schedule an appointment with your ECHO authorized dealer for a free repair.”
+
+The recall covers generators bearing model-number EGi-2300 and a serial number between EU19483D010001 and EU21021N010180; both numbers are printed on the data label on the bottom left-hand side of the side panel. The generators are orange and black, with “ECHO” and “EGi-2300” printed on the side.
+
+For more information or to find an authorized ECHO service dealer, owners can call 800-432-3246, go to [www.echo-usa.com](http://www.echo-usa.com) or visit the company’s [recall page](https://www.echo-usa.com/Support-Help/Recall-Information). For more consumer product safety information, go to [cpsc.gov](https://cpsc.gov).
+
+**More Related Articles:**
+
+*   [Home Backup Generator Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/generator-maintenance/)
+*   [How Much Does a Home Generator Cost?](https://www.homeserve.com/en-us/blog/cost-guide/home-generator/)
+*   [3,600 Powerhorse Portable Generators Recalled Over Risk of Electric Shock](https://www.homeserve.com/en-us/blog/home-improvement/portable-generator-recall/)
+*   [Laceration Risk: Over 3,000 Rejuvenation Mirrors Recalled Because They Can Fall Out of the Frame](https://www.homeserve.com/en-us/blog/home-improvement/rejuvenation-mirror-recall/)
+*   [Bruises, Bumps, Scratches and Sprains: Target Recalls Shower Stools Due to Fall Risk](https://www.homeserve.com/en-us/blog/home-improvement/target-shower-stool-recall/)

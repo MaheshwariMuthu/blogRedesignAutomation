@@ -1,0 +1,40 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Over 700 Previously Recalled AC and Heat Pump Units Resold After Recalls Announced"
+headline: "Over 700 Previously Recalled AC and Heat Pump Units Resold After Recalls Announced"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-05-04
+basePath: https://library.homeserve.com/m/
+heroImage: 643919fd4a420313/webimage-AirConditionerUnitRecall_Goodman.png
+heroAltDescription: "recall product"
+metaDescriptions: "PTAC Crew and PTAC USA refurbished and resold previously recalled air conditioner and heat pump units. About 710 units are affected by the current recall."
+articleAbstract: "PTAC Crew and PTAC USA refurbished and resold packaged terminal air conditioners, packaged terminal heat pumps and room air conditioners after recalls of these units had been announced. The Consumer Product Safety Commission is warning purchasers not to use the previously recalled units."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Recalled Products Sold by PTAC Crew and PTAC USA After Recalls Were Announced"
+  parent: Appliances
+---
+  PTAC Crew and PTAC USA refurbished and resold packaged terminal air conditioners, packaged terminal heat pumps and room air conditioner units after recalls of these units had been announced. The [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/Recalled-Products-Sold-by-PTAC-Crew-and-PTAC-USA-After-Recalls-Were-Announced) is warning purchasers not to use the previously recalled units. Several brands are affected by this recall. Here’s everything you need to know.
+
+**This May Also Interest You:** [**Fire Risk: Metal Ware Recalls NESCO Coffee Bean Roasters Over Reports of ‘Flames and Smoke’**](https://www.homeserve.com/en-us/blog/home-improvement/nesco-coffee-bean-roaster-recall/)
+
+The April 28 recall affects about 710 of these units, originally recalled by their manufacturers between 2004 and 2018. They were refurbished by PTAC Crew and PTAC USA and resold from May 2019 through December 2019.
+
+According to [PTAC Crew](https://ptaccrew.com/ptac-recall-information): “Because we sell refurbished PTAC units, these recalls may affect refurbished inventory that you purchased from us.” The Knoxville, Tenn.-based distributor said the original manufacturer recalls affect several brands, including Goodman Amana, Carrier, Trane and General Electric.
+
+The original recalls were announced for various reasons, including fire and burn hazards. According to the CPSC, the original recalls included reports of units overheating, smoking or catching fire, sometimes leading to [property damage](https://www.cpsc.gov/Recalls/2015/ge-recalls-ge-air-conditioning-and-heating-units) and, in one instance, an injury that [required medical attention](https://www.cpsc.gov/Recalls/2018/goodman-company-recalls-packaged-terminal-air-conditioners-and-heat-pumps-due-to-burn).
+
+To find out if your refurbished unit is involved in this recall, check the brand and model number against [this list](https://ptaccrew.com/ptac-recall-information).
+
+PTAC Crew is directing purchasers to stop using recalled refurbished units immediately. For further instructions, reach out to the recalling company first using the contact information in [this table](https://ptaccrew.com/ptac-recall-information). Depending on the original manufacturer, the unit may be repaired or replaced. If you can’t reach the recalling company, call PTAC Crew at 888-458-7822 or PTAC USA at 866-617-0985. You can also email [info@ptacusa.com](mailto:info@ptacusa.com) or visit the [PTAC Crew](http://www.ptaccrew.com/) and [PTAC USA](http://www.ptacusa.com/) websites.
+
+For more consumer product safety information, visit [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Fire Risk Prompts Recall of Goal Zero Power Cables](https://www.homeserve.com/en-us/blog/home-improvement/goal-zero-power-cable-recall/)
+*   [Concussion, Broken Bones, Eye and Mouth Injury Risk: 1 Million Greenworks, Powerworks Pressure Washer Spray Guns Recalled](https://www.homeserve.com/en-us/blog/home-improvement/pressure-washer-spray-gun-recall/)
+*   [‘Burning, Smoking, Melting’: 800 PureLine Pool Pump Motors Recalled for Fire Danger](https://www.homeserve.com/en-us/blog/home-improvement/pureline-pool-pump-motor-recall/)
+*   [Flame King Recalls 500 Propane Cylinders Due to Risk of Gas Leak](https://www.homeserve.com/en-us/blog/home-improvement/flame-king-propane-tank-recall/)
+*   [Broken Wrists Cited in Recall of 10,000 Log Splitters with Briggs & Stratton Engines](https://www.homeserve.com/en-us/blog/home-improvement/ytl-log-splitter-recall/)

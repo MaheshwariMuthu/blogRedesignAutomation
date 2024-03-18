@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Maintain Your Central Air Conditioner"
+headline: "How to Maintain Your Central Air Conditioner: 3 Top Tasks"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-02-23
+basePath: https://library.homeserve.com/m/
+heroImage: 54c457114831e25f/original/air-conditioner-fan_Erossi_184376818.gif
+heroAltDescription: "exterior HVAC air conditioner unit fan"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Looking to keep your central AC system in good shape? Do these routine maintenance tasks."
+articleAbstract: "Looking to keep your central AC system in good shape? Here are a few important routine maintenance tasks that’ll help keep things “chill.”"
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How to Maintain Your Central Air Conditioner"
+  parent: HVAC-Home-Improvement
+---
+  You don’t have to be an experienced homeowner to know that having a fully functional central AC system is incredibly important. Not only does it keep you and your family cool and comfortable during the sweltering summer months, but it also can help keep the air in your home clean and lower your family’s exposure to indoor allergens like pollen, mold and dust mites.
+
+**This May Also Interest You:** [**10 Ways to Make Your Central Air Conditioner More Efficient**](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioner-energy-efficiency-tips/)
+
+Yet, like any other major home appliance, air conditioners require routine maintenance to maximize their benefits. Taking the time to clean your central air conditioning unit regularly will keep it running smoothly and efficiently for as long as possible. Heck — It can even keep your energy bills lower in the process.
+
+Fortunately, regular AC maintenance is pretty simple. In other words, you won’t need to hire anyone for the job; you can do it yourself.
+
+Looking to keep your central AC system in good shape? Here are a few important, routine maintenance tasks that’ll help keep things “chill.”
+
+Replace or Clean Your Air Filters
+---------------------------------
+
+Perhaps the most essential — and easiest — AC maintenance task is to regularly replace or clean your air filters. Dirty, clogged filters severely limit your AC’s efficiency by decreasing your system’s airflow. Additionally, when a filter is clogged, air can bypass the filter, allowing unfiltered air to flow throughout your HVAC system, potentially damaging the evaporator coil in the process.
+
+Air filters on central air conditioning units are usually found along the length of the return duct, typically in the wall or ceiling or sometimes, in the air conditioner itself. Depending on the type of filters you have, you’ll either need to replace or clean them. If you don’t know what type of filter you have, you can easily determine it by examining the filter itself.
+
+If the filter is made of a nylon weave or plastic mesh material, it’s more than likely a washable filter. If so, simply rinse the filter with warm water and replace it once it dries.
+
+As for replaceable filters, make sure you purchase ones with high MERV ratings to maximize indoor air quality. Regardless of the scenario, plan on replacing or cleaning your air filters at least once every three months. You should replace the filter more often if you find that it gets dirty very quickly, or if you have air pollutants in your home like pet fur or cigarette smoke.
+
+Clean Your AC Coils
+-------------------
+
+Another important maintenance task that will ensure your HVAC system is in good condition is to clean your AC evaporator and condenser coils at least once a year. Luckily, it’s also a fairly simple job.
+
+Keeping your air filters clean will, in turn, keep your evaporator coil cleaner for a longer period of time. However, the coil will still collect dirt eventually. Over time, dirt and debris will insulate the coil, impacting the way it absorbs heat. You can find evaporator coils indoors, inside the air handler in your basement, closet, garage or attic. Look for a removable access panel on the air handler to find the evaporator coil. Use a nylon brush to clean the dust and debris off the coils, then rinse them with water in a spray bottle. When you’re finished rinsing, reassemble the access panel.
+
+In addition to the evaporator coils, you should clean the condenser coils regularly, as well. When these get dirty and clogged, the condenser fan and compressors have to work harder to maintain the output of cool air in the home.
+
+To clean them, remove the outer case and caging from the outdoor condenser unit. You’ll be removing the lid to the condenser and working inside the unit, so make sure that you shut off your AC prior to the task. From there, use a garden hose with a spray nozzle to clear away any dirt and debris in the fins. Finally, dry the coils with a cloth and then reassemble the condenser unit.
+
+Try to keep the area around the condenser unit clear. Clear away and remove any tall grass, vines or tree limbs that might interrupt airflow.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+Check the Condensate Drain Line
+-------------------------------
+
+Condensate drain lines remove excess moisture buildup in central air conditioning systems. Typically, a condensate line runs through an AC unit, exiting outside. When it’s functioning properly, water drips out as the system runs. If a condensation line were to become clogged, moisture would eventually accumulate inside the home AC system, leading to mold and mildew growth that could potentially damage ductwork or insulation. That’s why cleaning your drain line regularly is a crucial bit of AC maintenance. While relatively easy, cleaning your drain line is a bit more time-consuming than other AC maintenance tasks.
+
+To clean your AC drain line, first, find the air conditioning system’s drip pan. You can locate the drip pan underneath the air handler. Start by removing any water left in the pan, then clean it with warm water and soap. Once it’s clean, replace the drip pan back under the air handler.
+
+When the drip pan is clean, find the exit point of your drain line. Generally, these are located on the outside of your AC unit. Open the PVC cap and, using a small brush, clean out any debris and backed-up debris left in the line. When you’re done, be sure to leave the cap off the exit point until you’ve flushed the drain line.
+
+Finally, you’ll want to find and clean the access point of your condensation drain line. Usually, these are located inside your home, near the air handler. Like the exit point, the access point also has a PVC cap. Pour a mixture of hot water and vinegar into the access point to flush the drain line. When you’ve flushed the drain line, replace the caps on both the access point and the exit point.
+
+Keeping Things Running Smoothly
+-------------------------------
+
+Performing regular maintenance on your AC is the best way to ensure that you’re getting the most benefits from your system all season long. In addition to completing these maintenance tasks, consider having your system inspected by an AC technician once a year as well. While it might be an added yearly expense, doing so will keep your system in peak condition. And when it comes to those dog days of summer, you don’t want to take any chances.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

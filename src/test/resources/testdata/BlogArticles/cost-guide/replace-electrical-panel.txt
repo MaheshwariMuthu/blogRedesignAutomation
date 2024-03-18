@@ -1,0 +1,91 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Replace an Electrical Panel?"
+headline: "How Much Does It Cost to Replace an Electrical Panel?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-07-15
+basePath: https://library.homeserve.com/m/
+heroImage: 4fed8636089f9792/Blog-GettyImages-1035384474.jpg
+heroAltDescription: "close up of a home electric panel with handwritten labels"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If your electrical panel is over 25 years old, the best thing to do is replace it."
+articleAbstract: "If the electrical panel in your house is over 25 years old, the best thing to do is to upgrade or replace it along with any outdated electrical outlets you might have. Here’s a peek into the associated costs."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Replace an Electrical Panel?"
+  parent: Electrical-Cost-Guide
+---
+  
+
+**Electrical Panel Replacement Costs at a Glance**
+
+* **Total cost:** $2,500 (CAD 3,200), average; $800-$10,000 (CAD 1,025-CAD 12,800), range
+* **Wiring:** $6-$8 (CAD 8-CAD 10) per linear foot
+* **Whole-house wiring:** $3,000-$8,000 (CAD 3,850-CAD 10,250)
+* **Replace switches and outlets:** $100-$200 (CAD 130-CAD 260)
+* **Upgrade electrical panel:** $1,100-$4,000 (CAD 1,400-CAD 5,125)
+* **Replace fuse box with breaker panel:** $1,500-$4,500 (CAD 1,900-CAD 5,800)
+
+Most of the time, it’s nice to own an older house. They often offer nice details like real wood finishing and ornamental styling that attract the eye. Plus, even the scuffs and dings hold a lot of history. But there are also details you can't see so easily — like how the electrical panel is holding up.
+
+**This May Also Interest You:** [**How Much Do Electrical Repairs Cost? A Comprehensive Guide**](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+Old houses often come with outdated electrical equipment that can't handle power surges or the power loads required of a modern house. An old panel can also be a fire hazard, especially if it uses fuses.
+
+If the electrical panel in your house is over 25 years old, the best thing to do is to upgrade or replace it along with any outdated electrical outlets you might have. Here’s a peek into the associated costs.
+
+Replacing an Electrical Panel
+-----------------------------
+
+Signs you need to replace an older electrical panel include:
+
+*   The circuit breakers or fuses pop constantly.
+*   The service is set at 60 amps.
+*   You’re always having to unplug something to run something else.
+*   A lot of old and messy wires are connected to the service panel.
+
+The biggest question on your mind is how much it’ll cost to replace the electrical panel. This can be broken down by the type of work you need to have done.
+
+Replacing an old electrical panel with a new one typically costs, on average, about $2,500 (CAD 3,200), according to [Fixr](https://www.fixr.com/costs/install-electrical-circuit-panel-upgrade), though you might pay anywhere from $800 to $10,000 (CAD 1,025 to CAD 12,800). The cost will fluctuate depending on how big the panel has to be to provide power to your home. So, it may cost more for a larger, luxury home than an average-sized house.
+
+You will probably have to upgrade the wiring when replacing an old panel. This will run from $6 to $8 (CAD 8 to CAD 10) per linear foot for small jobs. That totals $3,000 to $8,000 (CAD 3,850 to CAD 10,250) if the whole house needs rewiring.
+
+Replacing switches or outlets to handle the new electrical system usually costs about $100 to $200 (CAD 130 to CAD 260) per item.
+
+<img class="detail-image" src="https://library.homeserve.com/m/71e67735f1cd9923/Blog-ElectricalPanel_MSchmitz_0001.jpg" alt="electrical fuse box"/>
+
+**More Related Articles:**
+
+*   [How to Fix Electrical Cords and Charging Cables](https://www.homeserve.com/en-us/blog/how-to/fix-electrical-cords/)
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets With GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Why U Trippin’? 3 Reasons Your Circuit Breaker Trips](https://www.homeserve.com/en-us/blog/home-improvement/circuit-breaker-tripping/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+
+How Much Does It Cost to Upgrade an Electrical Panel to 200-Amp Service?
+------------------------------------------------------------------------
+
+The required minimum standard for an electrical panel today is 200 amps. If your panel cannot handle this amp load, then you'll need to upgrade your system.
+
+If you are going to increase it by 100 amps, you can expect the upgrade to cost around $1,100 (CAD 1,400), but if you want to install a 400-amp panel, you can expect to pay around $4,000 (CAD 5,125).
+
+The material on the project is expected to be around $300 to $500 (CAD 385 to CAD 640), with the rest of the cost generated by labor and permit prices. Labor will run from $55 to $85 (CAD 70 to CAD 110) per hour. Permits typically cost around $50 to $300 (CAD 64 to CAD 385).
+
+How Much Does It Cost to Replace a Fuse Box With a Breaker Panel?
+-----------------------------------------------------------------
+
+Replacing a fuse box with a circuit breaker panel costs roughly [$1,500 to $4,500](https://www.fixr.com/costs/install-electrical-circuit-panel-upgrade) (CAD 1,900 to CAD 5,800). The electricity has to be shut off by the utility company before work can begin. All the wiring has to be removed and then attached to the circuit breaker panel.
+
+How Much Does It Cost to Replace a Single Breaker Switch or Fuse?
+-----------------------------------------------------------------
+
+Replacing a circuit breaker or a fuse is something most homeowners can do themselves. Circuit breakers generally go for $150 to $200 (CAD 190 to CAD 260), and fuses run from $5 to $40 (CAD 6 to CAD 50).
+
+It is much easier to replace a fuse than a circuit breaker — hence the cost difference. A fuse screws in and out, but the circuit breaker has wires attached to it that have to be reattached to the new breaker before you replace it.
+
+How Much Does It Cost to Replace the Main Circuit Breaker?
+----------------------------------------------------------
+
+Typically located at the top of the electrical panel, the main breaker switch is used to turn on or off all the power going to the electrical panel. Costs for this electrical panel replacement are typically in the same range as the cost for regular circuit breakers: $150 to $200 (CAD 190 to CAD 260).<br><iframe title="YouTube video player" width="560" height="315" src="https://www.youtube.com/embed/fJO-ZnL118A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

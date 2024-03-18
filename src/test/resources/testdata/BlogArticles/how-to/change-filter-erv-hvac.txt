@@ -1,0 +1,80 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Change the Filter in an ERV HVAC System"
+headline: "How to Change the Filter in an ERV HVAC System"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-10-20
+basePath: https://library.homeserve.com/m/
+heroImage: 16bf01c748c4b2ec/Blog-GettyImages-1487523709.jpg
+heroAltDescription: "Inside an ERV"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Showing your ERV unit some love by replacing or cleaning the filters regularly can help improve indoor air quality and reduce pressure on your system."
+articleAbstract: "Showing your energy recovery ventilator unit some love by replacing or cleaning the filters regularly can help improve indoor air quality and reduce pressure on your system."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Change the Filter in an ERV HVAC System"
+  parent: HVAC-How-To
+---
+  If you have an energy recovery ventilation system, you probably don’t give the filters a second thought. That said, these essential components work hard to keep dust, allergens and other nasties out of your home. Showing your ERV unit some love by replacing or cleaning the filters regularly can help improve indoor air quality and reduce pressure on your system.
+
+**This May Also Interest You:** [**Is an Air Filter Subscription Service Worth the Cost?**](https://www.homeserve.com/en-us/blog/home-improvement/air-filter-subscription/)
+
+You don't usually need an HVAC professional to help you change your ERV filters. Here’s a simple step-by-step guide.
+
+What Kind of Filter Do I Need for My ERV System?
+------------------------------------------------
+
+Filters for ERV HVAC systems vary depending on the unit's make and model, so you should use the filter type stated in your owner's manual. Some systems require filters with a frame, while other models use frameless or bag filters. Depending on your manufacturer's instructions, you may need to purchase branded filters.
+
+Most ERV units have reusable filters, which means you can clean and reuse the filter instead of replacing it. However, it's worth having spare filters on hand. You should install a new reusable filter if your existing filter becomes damaged or challenging to clean.
+
+Your filter's [Minimum Efficiency Reporting Value](https://www.epa.gov/indoor-air-quality-iaq/what-merv-rating) (MERV) rating is a crucial factor to consider. This rating describes how effectively a filter removes small particles from the air and can help you determine its performance. The higher the MERV rating, the better the filter removes fine particles from indoor air.
+
+The American Society of Heating, Refrigerating and Air Conditioning Engineers (ASHRAE) recommends using an [HVAC filter](https://www.ashrae.org/file%20library/technical%20resources/covid-19/filtration-and-disinfection-faq.pdf) with a MERV rating of at least 13 for most domestic HVAC systems, including ERV units. However, manufacturers sometimes warn against using filters with high MERV ratings because they have smaller pores. The smaller the pores, the harder your ERV system has to work to circulate air. If your unit isn't compatible with MERV 13 filters, ASHRAE advises using the highest possible MERV rating your system can accommodate.
+
+How Do You Change the Filter in an Energy Recovery Ventilation HVAC System?
+---------------------------------------------------------------------------
+
+Cleaning or replacing the filters in an energy recovery ventilator system is usually straightforward, but the process can vary between models. The instructions below can help you change the filters on most ERV units, but you should defer to your manufacturer's guidelines. If you're unsure, an HVAC professional can show you how to change the filters in your specific model.
+
+### Things You’ll Need
+
+*   Dish soap
+*   Wing nut wrench
+*   Water
+
+### Step 1: Remove the Access Panel
+
+First, locate the access panel covering the ERV unit's panel. Most access panels have two sections. Starting with the lower section, pull the door up from the bottom until it's at a right angle to the wall. You can usually remove this section by pushing it upward and then pulling it out.
+
+Next, pull out the upper door from the bottom and push it slightly upward until you feel it fall onto a set of upper hooks. Lift the door off the hooks and remove it from the wall.
+
+### Step 2: Turn Off Your ERV Unit
+
+Find your ERV unit's power switch and turn it off. Wait until the fan wheel stops turning before moving to the next step. Allowing the fan to stop prevents dirt and debris from entering your ERV system while you change the filters.
+
+### Step 3: Remove the ERV Panel
+
+Your ERV unit will have a panel at the front covering the system's core. Some designs have a knob securing the panel, and you can remove it by turning the knob counterclockwise. If your unit has wing nuts securing the panel at the sides, loosen them with a wing nut wrench and remove the panel.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Replace an HVAC System?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-system-replacement-cost/)
+*   [Do You Need a Zoned HVAC System?](https://www.homeserve.com/en-us/blog/home-improvement/zoned-hvac-system/)
+*   [As the Seasons Change, So Should the Direction of Your Ceiling Fan](https://www.homeserve.com/en-us/blog/home-improvement/ceiling-fan-direction/)
+*   [Does Your Home Need a Whole-House Humidifier?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-humidifier/)
+*   [When Should I Get My HVAC Tune-Up?](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+### Step 4: Remove the Filters
+
+Next, remove the filters from the ERV unit's core. You can usually find the filters on the upper two sides.
+
+### Step 5: Wash or Replace the Filters
+
+Inspect the filters for damage. If the filters appear in good condition, wash them thoroughly with water and dish soap and allow them to air dry. Discard damaged filters and replace them with new ones.
+
+### Step 6: Replace the Filters and Panels
+
+Don't replace your ERV filters until they're completely dry. Carefully slide them back into position and replace the ERV panel by screwing on the wing nuts or knob. Finally, turn your ERV system back on and replace the access panels.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-vh1RDJC1M8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Change an HVAC Filter"></iframe>

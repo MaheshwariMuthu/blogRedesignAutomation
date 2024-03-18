@@ -1,0 +1,175 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Septic Tank System Cost?"
+headline: "How Much Does a Septic Tank System Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-08-09
+basePath: https://library.homeserve.com/m/
+heroImage: 175cbeb8758d1d6a/Blog-GettyImages-1219801968.jpg
+heroAltDescription: "a cross-section graphic illustration of a septic tank buried in a front yard"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Septic systems last 15 to 20 years on average. Here's how much it costs to replace your septic system."
+articleAbstract: "Having a fully functioning septic tank is essential to help dispose of it safely — and to keep it from backing up into your sinks and toilets.  Here's how much it costs to install a new system."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does a Septic Tank System Cost?"
+  parent: Plumbing-Cost-Guide
+---
+  **Septic Tank Installation and Repair Costs at a Glance**
+
+* **Average total cost:** $4,500-$9,000 (CAD 5,800-CAD 11,600)
+* **Septic tank cost:** $1,500-20,000 (CAD 1,900- CAD 25,800)
+* **Labor cost:** $1,500-$4,000 (CAD 1,900-CAD 5,100)
+* **Drain field replacement:** $1,000-$5,000 (CAD 1,300-CAD 6,500)
+
+The wastewater your household creates is full of dangerous bacteria. Having a fully functioning septic tank is essential to help dispose of it safely — and to keep it from backing up into your sinks and toilets. 
+
+**This May Also Interest You:** [**What’s the Difference Between Septic and Sewer?**](https://www.homeserve.com/en-us/blog/home-improvement/difference-between-septic-and-sewer/)
+
+Read on for everything you’ll need to know about septic tank replacement, including how much it costs.
+
+What Is a Septic Tank?
+----------------------
+
+A septic tank is an underground chamber that moderately treats domestic wastewater. It's designed to hold the wastewater long enough for solids to settle at the bottom and oil and grease to float. Liquid waste is then filtered out.
+
+How Much Does It Cost to Install a Septic Tank?
+-----------------------------------------------
+
+On average, the cost of installing a new septic tank system is $6,100 (CAD 7,900), based on data from [Fixr](https://www.fixr.com/costs/install-septic-tank-system). The price ranges from $4,500 to $9,000 (CAD 5,800 to CAD 11,600) for a typical 1,000-gallon tank, which is an ideal size for a three-bedroom home.
+
+This cost is inclusive of the tank itself, which costs around $1,500 (CAD 1,900) for a basic gravity tank and as much as $20,000 (CAD 25,800) for an aerobic system.
+
+According to [Bob Vila](https://www.bobvila.com/articles/septic-tank-cost/), labor costs are also included in the installation price, and usually range from $1,500 to $4,000 (CAD 1,900 to CAD 5,100).
+
+Types of Septic Tank Systems
+----------------------------
+
+The total cost of installing or replacing your septic tank is largely dependent on the type of system you choose. Here are some of the most common kinds of tanks:
+
+### Anaerobic Septic System
+
+Anaerobic systems are a common choice for many homeowners because they don’t require additional power or chemicals. An anaerobic system contains bacteria that do not need oxygen to survive. The bacteria break down solid waste, and the remaining liquid waste is piped out and distributed under the soil. The waste is naturally recycled as the water passes into the soil.
+
+These systems cost about [$2,000 to $5,000](https://www.fixr.com/costs/install-septic-tank-system#anaerobic-septic-system-cost) (CAD 2,600 to CAD 6,400) to install.
+
+### Aerobic Septic System
+
+Unlike anaerobic systems, aerobic systems use bacteria that do require oxygen to survive. Oxygen is pumped into the tank to activate the bacteria, which then feed on solid waste. Aerobic systems work well where the soil isn't favorable for other systems and the groundwater table is high. It's a good option for homes located near a body of water.
+
+Aerobic systems are more expensive to install[. Fixr](https://www.fixr.com/costs/install-septic-tank-system#aerobic-septic-system-cost) says you should expect to pay between $10,000 and $20,000 (CAD 13,000 and CAD 25,800).
+
+### Gravity Septic System
+
+A gravity septic system uses gravity for filtration and water flow. They need to be installed on a gentle slope to enable water flow without a pump.
+
+Installation costs [$1,500 to $4,000](https://www.fixr.com/costs/install-septic-tank-system#gravity-septic-system-cost) (CAD 1,900 to CAD 5,100).
+
+### Conventional Septic System
+
+The conventional septic system consists of a septic tank and a trench that acts as a drain field. The trench is constructed on stone or gravel and allows water to pass through. To prevent sand or dirt from contaminating the clean soil, geofabric is installed on top of the trench. A conventional septic system needs a large space to operate.
+
+These systems cost between $2,000 and $7,000 (CAD 2,600 and CAD 9,100) to install, according t[o This Old House](https://www.thisoldhouse.com/plumbing/reviews/septic-tank-installation/).
+
+### Mound Septic System
+
+If your groundwater is close to the surface, a mound septic system is the best choice. A sand mound is constructed on the septic system area to pump wastewater from the tank into the mound in small quantities. The sand then filters the water before it gets into the soil and groundwater. This design requires a lot of space.
+
+They’re also expensive to install because a sand mound has to be constructed. Total cost ranges from [$10,000 to $20,000](https://www.fixr.com/costs/install-septic-tank-system#mound-septic-system-cost) (CAD 13,000 and CAD 25,800).
+
+### Chamber Septic System
+
+Chamber septic systems have recently become a popular choice. They’re similar to conventional systems, except plastic chambers are used in the drain field instead of gravel. These are easier to construct and have a smaller carbon footprint.
+
+They cost [$3,500 to $10,000](https://www.fixr.com/costs/install-septic-tank-system#chamber-septic-system-cost) (CAD 4,500 to CAD 13,000).
+
+Septic Tank Materials
+---------------------
+
+Another factor influencing cost is what your septic tank is made from. Here are some of the most common materials:
+
+### Concrete
+
+Concrete tanks are the most common type of septic tank because they’re durable. Properly maintained, they can last 20 to 30 years. However, concrete may crack over time. Reinforcing the concrete with rebar helps increase its strength under pressure. Installation is more challenging, and extensive equipment is needed because of its weight. According to [HomeGuide](https://homeguide.com/costs/septic-tank-system-cost#concrete), the cost for an average-sized concrete tank is between $700 and $2,000 (CAD 900 to CAD 2,600).
+
+### Fiberglass
+
+Fiberglass doesn't weaken when used underground, and it’s nonporous, so it won't attract algae growth. Installation is easier because the tank is light. Unlike concrete, it won't expand or contract, so you don't have to worry about cracking. The average fiberglass tank costs [$1,600 to $2,000](https://homeguide.com/costs/septic-tank-system-cost#fiberglass) (CAD 2,000 to CAD 2,600).
+
+### Plastic
+
+Plastic tanks are light and easy to install. They're also quite durable. Depending on the type, plastic tanks cost [$800 to $2,000](https://homeguide.com/costs/septic-tank-system-cost#fiberglass) (CAD 1,000 to CAD 2,600), on average.
+
+### Steel
+
+Despite steel's strength and durability, septic tanks made of steel can rust and collapse if not properly cleaned. As a result, some local authorities have increased regulations to discourage their use. You'll usually find them in areas where the system already existed. If you can get one installed, they cost $500 to $2,500 (CAD 650 to CAD 3,200), according to [Remodeling Expense](https://www.remodelingexpense.com/costs/septic-tank-cost/).
+
+What Size Septic Tank Do You Need?
+----------------------------------
+
+Septic tank size is typically determined by the number of bedrooms your home has. This is used as a way to estimate how much water will flow through the system daily. Generally, the larger the system, the higher the cost.
+
+### Two Bedrooms
+
+A two-bedroom house requires a septic system with a minimum of a 750-gallon septic tank. However, in many municipalities, a 1,000-gallon tank is the smallest size allowed.
+
+### Three Bedrooms
+
+A three-bedroom house will need a minimum of a 1,000-gallon water tank, which regularly handles about 360 gallons of water per day.
+
+### Four Bedrooms
+
+A four-bedroom home requires a larger tank with a minimum volume of 1,250 gallons. It handles around 480 to 600 gallons of water per day.
+
+**More Related Articles:**
+
+*   [Do I Need to Pump Out My Septic Tank Before Hosting Guests?](https://www.homeserve.com/en-us/blog/home-improvement/pump-septic-tank-before-guests/)
+*   [How Do You Find Your Septic Tank?](https://www.homeserve.com/en-us/blog/how-to/find-septic-tank/)
+*   [Never Flush These 11 Things Down Your Toilet](https://www.homeserve.com/en-us/blog/home-improvement/things-to-never-flush-down-toilet/)
+*   [How to Keep Septic Tank Pumping Costs to a Minimum](https://www.homeserve.com/en-us/blog/cost-guide/septic-tank-pumping-costs/)
+*   [3 Signs of Sewer and Septic Issues](https://www.homeserve.com/en-us/blog/home-improvement/sewer-septic-back-up/)
+
+Septic Tank Repair Costs
+------------------------
+
+It’s possible your entire septic tank doesn’t need to be replaced, just a specific part. Repairs and replacement parts can cost far less than a full system replacement.
+
+### Drain Field
+
+Drain fields can overload and flood, causing a backup of sewage in toilets and sinks. Drain or leach field replacements cost $1,000 to $5,000 (CAD 1,300 to CAD 6,500), according to data from [Fixr](https://www.fixr.com/costs/septic-tank-repair).
+
+### Tank Pump
+
+Usually, a replacement septic tank pump costs $250 to $1,500 (CAD 320 to CAD 1,900).
+
+### Tank Filter
+
+The tank filter is the most common replacement done by homeowners. It usually costs $200 to $300 (CAD 260 to CAD 390)
+
+### Tank Lid
+
+Over time, concrete covers may crack, and steel lids may rust. You can typically replace a septic tank lid on your own for $150 to $500 (CAD 190 to CAD 650). It costs a bit more to have it replaced by a professional.
+
+### Tank Baffle
+
+Baffle directs wastewater through the septic tank. Expect to pay $300 to $900 (CAD 390 to CAD 1,160) to repair a tank baffle.
+
+Additional Factors to Consider
+------------------------------
+
+A septic tank can either be installed under or above the ground. Installing a tank underground is costly because of the digging and footing preparation involved.
+
+Underground septic tanks require a drain field that can be fitted with a soakaway. The soakaway makes the tank require less emptying because it allows for some of the wastewater to filter into the ground. This can reduce your spending over time.
+
+Different jurisdictions require different permits. Some require that an inspector visit and approve the site, which could entail a fee. Septic tank permits vary from state to state, but in general, you'll need to pay renewal fees upon the expiry of your permit.
+
+How Long Does a Septic Tank Last?
+---------------------------------
+
+A septic tank's lifespan varies depending on the material and type of system installed. Clogging caused by roots or flooding from groundwater can decrease the septic tank’s lifespan. On average, septic systems last 15 to 20 years.
+
+Regularly servicing your septic tank is the best way to increase its longevity. It's important to note that servicing is more than just pumping out the tank; it's also necessary to have a professional inspect your tank regularly and perform routine maintenance.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nk_hBpyP3Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How Much Does Sewer Line Maintenance and Repair Cost?"></iframe>

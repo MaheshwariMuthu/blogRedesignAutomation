@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What to Do When Power Goes Out"
+headline: "Feeling in the Dark? Here's What to Do During a Power Outage"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-08
+basePath: https://library.homeserve.com/m/
+heroImage: 38475e211b7031c3/Blog-1306225400.jpg
+heroAltDescription: "Woman sitting in dark during power outage"
+metaDescriptions: "Power outages are the worst. These tips should help you power through."
+articleAbstract: "While power outages aren't usually widespread, you're likely to experience at least a few throughout your life as a homeowner, so it's important to ensure you're prepared at all times. These tips should help you power through it."
+category: ["How To"]
+eleventyNavigation:
+  key: "What to Do During a Power Outage"
+  parent: Electrical-How-To
+---
+  While power outages aren't usually widespread, you're likely to experience at least a few throughout your life as a homeowner. Extreme temperatures in the summer make blackouts more likely as AC use stretches power grids to their breaking points. Storms during the fall and winter in many areas also contribute to power outages, so it's important to ensure you're prepared at all times.
+
+**This May Also Interest You:** [**Home Backup Generator Maintenance Checklist**](https://www.homeserve.com/en-us/blog/home-improvement/generator-maintenance/)
+
+No electricity? These tips should help you power through it.
+
+Make Sure the Power’s Actually Out
+----------------------------------
+
+If the power goes out without warning and no blackouts have been planned, you first need to determine whether there's a power outage or if you've simply blown a fuse and have a problem with your circuit breakers. Follow these steps if it's safe to do so:
+
+*   Using a flashlight, check your main electric panel and ensure fuses are in the same position. All of your breakers should be "on," but if the breaker has, in fact, tripped, then some may have moved over to the "off" side.
+*   If your breakers are in the "on" position, turn them off and on again to see if that restores power.
+*   If breakers are in the "off" position, switch them to the on position to see if that restores power.
+
+If power doesn't come back, that means that the problem doesn't lie with the breaker or the fuse. Your next step should be to check whether your neighbors have power. As power outages can be localized, with different properties being served by various pole-mounted power transformers, some houses on your block could remain fully lit even if there is an outage.
+
+Once you establish that all power is definitely lost, call your utility company to report it and find out some more information. Chances are they already know and are working to fix the issue.
+
+Can You Flush the Toilet or Use the Shower When the Power Is Out?
+-----------------------------------------------------------------
+
+You can use the toilet when the power is out. The outage shouldn't have any effect on flushing capabilities unless you're on well water. Well water requires a pump, which is electric, so you may only have enough water for a single flush per toilet.
+
+However, if you find that you are experiencing problems flushing, this can easily be mitigated by pouring water into a bowl and down the toilet to flush manually instead.
+
+Showering during a power outage is also safe if you're not on a well pump. However, it’ll likely be a cold one; you won't have access to hot water because traditional water heaters require power.
+
+How Long Is Food Safe in the Fridge Without Power?
+--------------------------------------------------
+
+A refrigerator, when left unopened, can maintain its temperatures even during a power outage for up to four hours. A full freezer could last even longer, keeping food safe for up to two days. Make sure to keep them both closed to keep the cold air in and circulating to prevent unnecessary spoilage.  If the power outage lasts for more than 4 hours, discard perishable food in your fridge such as eggs, fish and meat, as well as any leftovers that you might have.
+
+What Should You Turn Off During a Power Outage?
+-----------------------------------------------
+
+Electronic appliances such as televisions, computers and microwaves should be switched off and unplugged to eliminate any electrical damage from voltage surges when the power is eventually restored. When the power finally does come back, don't turn your appliances on straight away. Wait a few minutes to protect your devices. Do, however, keep at least one lamp plugged in so you can see when the power comes back on.
+
+**More Related Articles:**
+
+*   [How Much Does a Home Generator Cost?](https://www.homeserve.com/en-us/blog/cost-guide/home-generator/)
+*   [How Much Does a Whole-House Generator Cost?](https://www.homeserve.com/en-us/blog/cost-guide/whole-house-generator/)
+*   [Wrong Kind of Blowout? Why Your Hair Dryer Trips the Circuit Breaker](https://www.homeserve.com/en-us/blog/home-improvement/hair-dryer-tripping-circuit-breaker/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [Socket to Me: How Much Does It Cost to Replace Electrical Outlets](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+
+What Should You _Not_ Do During a Power Outage?
+-----------------------------------------------
+
+### Rely on Candles for Light
+
+While it might be tempting to turn to candles as an alternative light source when there is no electricity, candles shouldn't be used during a power outage due to health and safety concerns. They create a wonderful ambiance, especially when you have a few candles grouped together, but they can tip over and start a fire very quickly. They also don't emit much light, so stick to your trusty flashlight or a bright lantern instead.
+
+### Waste Your Phone’s Battery
+
+With all of the usual electronic modes of entertainment down, using your phone to pass the time might seem like a good idea. However, it's crucial to preserve the battery on your cell for as long as possible. After all, you don't know how long the power outage will last, and you might need to use it in an emergency.
+
+### Be Careless With the Generator
+
+Some people have a portable backup generator in their home for such occasions, but it's crucial to know how to use it. Generators release carbon monoxide, which can be dangerous and can cause carbon monoxide poisoning when misused. For this reason, all generators should be kept in an open space away from the house that is at least 20 feet away from doors and windows. You should also install battery-powered carbon monoxide detectors in your home just in case. Be careful when connecting a portable generator to the main panel, as this can cause dangerously high voltages of power.
+
+### Run Out of Water
+
+Ensuring you have fresh and clean drinking water is crucial during a power outage. Stock up on bottled water or prepare clean water for yourself via a water filter so that your household has access to at least a gallon of clean water per person and pet per day.

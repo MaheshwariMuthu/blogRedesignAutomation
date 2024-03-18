@@ -1,0 +1,89 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Home Inspection Horror Stories: From Rats in the Attic to Water Heaters Ready to Blow"
+headline: "Home Inspection Horror Stories: From Rats in the Attic to Water Heaters Ready to Blow"
+author: Rich Jarvis
+tags: ["post"]
+publishDate: 2021-01-21
+basePath: https://library.homeserve.com/m/
+heroImage: ddd54f7abee6307/Blog-GettyImages-525023427.jpg
+heroAltDescription: Close up shot of mouse peeking out of the dusty hole behind white furniture and under copper pipe
+metaDescriptions: Hear real horror stories from a home inspector who has encountered everything from hazardous home repairs to creepy-crawly critters in the attic.
+articleAbstract: A home inspector from Texas shares a few of his horror stories. Sometimes, the scariest homes are the ones that look amazing on the outside — but an inspection uncovers creepy crawlies and disasters waiting to happen!
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Home Inspection Horror Stories: From Rats in the Attic to Water Heaters Ready to Blow"
+  parent: Interior-Home-Home-Improvement
+---
+
+Home inspections are a major source of reassurance for buyers that they’re making a wise investment. No one intends to buy a bad house. Likewise, no one makes an offer on a house they think is a money pit. So, in my role as a professional home inspector, I never say derogatory things about anyone’s house. I’m not there to judge the house, good or bad. In fact, home inspections are not pass-or-fail like car inspections. Home inspections help buyers make informed decisions. 
+
+__This May Also Interest You:__ [__What to Expect When They're Inspecting: Your Home-Inspection Checklist__](https://www.homeserve.com/en-us/blog/home-improvement/what-to-expect-home-inspection/)
+
+We all try to laugh together when unexpected things turn up during an inspection, and it keeps the job ... interesting. Read on for my personal accounts of inspection findings that were both humorous and horrifying.
+
+## Critters in the Crawl Spaces
+
+Attics and crawlspaces are not designed as living spaces — yet it’s ironic how much life you can find in them. On more than one occasion, I’ve been in an attic or crawl space and noticed eyes peering back at me. Multiple pairs of eyes. When I investigate further, there’s usually evidence of mice, rats, squirrels, and an occasional raccoon.
+
+And where the mice and rats go, so do the snakes. You hear stories about home inspectors finding snakeskins on the job. Thankfully, the snakes I’ve come across have been more scared of me than I was of them.
+
+So far I’ve only come across one owl. This was a house in disrepair and there were major issues with the roof. The owl found easy access to the attic through one of the holes and took up residence. Unfortunately, owls leave excrement, as birds do all over, and it is hazardous to humans. No mice or rats in *that* attic, though.
+
+## Something Doesn’t Smell Right...
+
+Odors are the first clue that something’s not right: Off-putting aromas from mold, mildew, rotting food and animals. Some odors are just plain bad, and they’re strong enough to cling to your clothes. Meth houses are like that, as are some houses where rental tenants have trashed the interior.
+
+Pet smells are noted on home inspection reports just like the smell from heavy smokers. But some smells make you instantly wish to forget. It’s sad, but I’ve found dead pets in rooms rarely used. Dead pets in crawl spaces. Spoiled food under furniture. And, of course, plumbing issues have a smell that is recognizable.
+
+## Termite Infestation
+
+For Federal Housing Administration loans, a passing wood-destroying insect inspection is required for loan approval. And, gratefully, termites are typically easy to spot. Previous treatment for termites isn’t necessarily a bad sign, either. Localized infestations are common and, if treated quickly, won’t affect the overall structure of the house. It’s when the infestation is hidden or neglected for some time that the real damage occurs.
+
+Hidden infestations are the reason home inspectors look at all the exposed wood in a house that we can. All the framing for the roof structure, [pier and beam foundations](https://atlasfoundationinc.com/pier-and-beam-foundations-pros-and-cons/), and anything conspicuous on the walls and ceilings.
+
+## The Most Dangerous Appliance in the House
+
+Water heaters are the most dangerous appliance in your house and home inspectors pay them close attention. That’s because of the combination of extreme heat and pressure contained within. Every water heater is required to have a temperature pressure relief valve, or TPRV, installed with the plumbing of equal size from this valve to the exterior of the home. Without a TPRV, the water heater could malfunction and heat the water in the tank to the point of explosion.
+
+Sometimes we see plumbing hacks that are really safety hazards. Things like TPRV plumbing taped to the valve, turkey basters taped to the valve instead of plumbing, or simple plastic plumbing. Any of these would be either blown off or quickly melted by the steam and water if the valve were triggered.
+
+In an [episode of TV’s “MythBusters,”](https://www.youtube.com/watch?v=jbreKn4PoAc) originally on the Discovery Channel, the crew framed a two-story house complete with floor and ceiling joists, wall studs, roof ridge and rafters. Then they placed a water heater on the bottom floor and disabled the TPRV, and let the water heater boil. The explosion sent the tank of the water heater through the second floor and the roof!
+
+## Botched HVAC Condensation Drains
+
+As a home inspector, I get to look where most homeowners don’t. Professional licensed heating, ventilation and air conditioning technicians cost money — and here’s where some homeowners skimp to save. I’ve come across some poorly executed AC repairs that I know weren’t done by licensed professionals. Some examples include:
+
+### Rusty Condensation Lines
+
+Multiple situations where the condensation lines from the central air conditioning were simply routed outside the house to ground level. Anyone who sees AC condensation collected in a pan or on a solid surface immediately remarks how rusty, dirty and slimy the stuff is. There’s a reason you don’t want to go near it and, by code, these condensation lines are supposed to be connected to your sewer.
+
+### Unsafe AC Conditions
+
+At one inspection, the condensation drain led to a bucket inside the HAVC closet. Where it would require regular emptying — an unsafe condition. Obviously, it wasn’t work completed by a licensed professional.
+
+Everyone in the house was at risk for infection by everything in the condensation bucket. The buyers were a young family with kids in kindergarten and first grade. From what I heard about this family and where they’d come from, this was a dream home compared to what they lived in previously.
+
+When they arrived for the inspection, I respectfully took them to view the AC system and asked that the kiddos stay a few feet back. We discussed AC condensation 101 and the hazards the bucket situation presented for them and their kids if they bought the house and moved in. After reviewing my inspection report the buyers opted out and were refunded their earnest money.
+
+## Breaking the Bad News
+
+The challenge to this vocation is being able to inform clients that their dream home has a few skeletons in the crawl space. You never tell someone their dream home is a lost cause. Truthfully, there are few houses that people should run away from. The money pits are few and far between today. Everything in a house can be fixed, from the foundation to the roof. It’s simply a matter of whether you want to fix it and what the costs of repairs will be.
+
+Here’s how the conversation went with those buyers who met me at the inspection where I found rats in the attic...
+
+Me: “Have you read ‘Charlotte’s Web’?”
+
+Buyer: “Yes, many years ago.”
+
+Me: “Excellent! Templeton and friends are in the attic.”
+
+And with the buyers who met me at the inspection where we found termites...
+
+Me: “We have a swarm of friends here. Termites to be exact.”
+
+Buyer: “Is it bad?”
+
+Me: “I have seen much worse. In one house, the termites were the only ones holding the house together. If they quit holding hands that house was going to fall down. This isn’t that bad.”
+
+*Before you close on your new house, you may want to consider consulting HomeServe on a policy that will give you peace of mind that your home’s major systems will continue working properly. Our policies cover you for things your homeowner’s insurance doesn’t. Be prepared against emergency repairs with a policy from HomeServe that puts you a phone call away from a network of local, highly trained professional technicians, available 24/7.*

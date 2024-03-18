@@ -1,0 +1,56 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Should you repair or replace your Central Air Conditioning?
+headline: How to decide when to repair or replace your central AC?
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2018-07-16
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: HVACtools.jpg
+heroAltDescription: HVAC Tools
+metaDescriptions: 
+articleAbstract: Use these tips to evaluate whether it’s time to repair or replace your central air conditioning unit. AC maintenance requires frequent checkups to make sure your unit is working efficiently.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Should you repair or replace your Central Air Conditioning?
+  parent: HVAC-Home-Improvement
+---
+
+::: blog-info
+Your central air conditioning has one job, and when it fails to function properly, you're toast. (Or at least your house starts to feel as hot as an oven.)
+
+AC maintenance requires [frequent checkups](/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist){target="_blank"} to make sure your unit is working efficiently. If you come across issues, you'll have to decide if it makes sense to repair or replace your unit.
+
+Follow these tips to help make your decision:
+
+## 1. Consider the age of your unit
+
+Generally, it makes sense to repair newer systems when there's a problem. Keep in mind that the average AC lasts for about 10 to 15 years. Once your unit reaches the 15-year mark and beyond, it's a better idea to replace it when it starts to malfunction.
+
+## 2. Take note of constant repairs
+
+It's normal for your central AC unit to require repairs once or twice a year, but anything more than that is a sign that it's time to replace the unit.
+
+## 3. Weigh the costs
+
+If the repair costs are steep, consider the price of a new unit before making your decision. This consideration is especially necessary if your cooling unit requires a leak repair or refrigerant replacement. AC replacement costs usually range between $5,000 and $7,000, but of course the price will depend on the brand and type of unit you choose. Most HVAC technicians use a simple formula to help homeowners make the right financial decision: Multiply the age of the unit in years by the repair cost. If the result is less than the cost of the new unit, go for the repair. If it's more, then it's time to go shopping.
+
+## 4. Monitor your energy bills
+
+An inefficient cooling unit or broken HVAC system can cause unusual spikes in your energy bill. If you notice your bill is higher than normal, especially for consecutive months, call a professional to diagnose your system. HVAC experts can advise on the issue and help determine if it makes sense to repair the problem that's causing the spikes or replace the unit altogether.
+
+## 5. Gauge system performance
+
+You purchased a central AC system to keep your family comfortable indoors when temperatures rise outdoors. If your unit is failing to cool your home properly, making strange noises or leaving your rooms stuffy and damp, don't waste time constantly tweaking the thermostat. Talk to an HVAC professional about potential repairs or replacement of your unit if it’s an old system.
+
+## 6. Evaluate potential energy savings
+
+If you have an old system that’s breaking down, consider replacing your cooling unit with a modern, energy-efficient model. That way, you can save money on your bills each month and reduce your carbon footprint simultaneously. Products with a seal of approval from ENERGY STAR use up to [30 percent less energy than traditional models](https://www.energystar.gov/about/federal_tax_credits){target="_blank"}. Plus, you may benefit from federal tax incentives reserved for homes with these high-efficiency systems. Some local utility companies also offer rebates and credits when you upgrade to energy-saving products. Check out the [Database of State Incentives for Renewables and Efficiency](http://www.dsireusa.org/){target="_blank"} for more information about potential savings.
+
+You may also want to consider energy-efficient upgrades elsewhere around your home, including windows, roofing and insulation. These improvements help your AC unit cool your home and may allow you to downgrade to a smaller unit. That benefit means even more money in your pocket!
+
+Being prepared before HVAC issues arise is always a good strategy. Plans from HomeServe can help with the costs of covered repairs. [See what plans]({{ migrationData.homepage }}){target="_blank"} are available in your area.
+:::
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6RoqfIe7HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

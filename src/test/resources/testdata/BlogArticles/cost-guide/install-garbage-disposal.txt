@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install or Replace a Garbage Disposal?"
+headline: "How Much Does It Cost to Install or Replace a Garbage Disposal?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-10-07
+basePath: https://library.homeserve.com/m/
+heroImage: f41d0db1d6e0ff4/Blog-GettyImages-461899345.jpg
+heroAltDescription: "Under the sink "
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "As it goes with all home appliances — you’ll eventually need to replace your garbage disposal. Here’s how much that will cost."
+articleAbstract: "As it goes with all home appliances — you’ll eventually need to replace your garbage disposal. Here’s how much that will cost."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install or Replace a Garbage Disposal?"
+  parent: Appliances-Cost-Guide
+---
+  Many homeowners consider their garbage disposal unit a must-have. These units sit below your sink's plughole and grind food waste into tiny pieces that can safely pass through your wastewater pipes without clogging them.
+
+**This May Also Interest You:** [**How to Reset Your Garbage Disposal (Pssst … It’s Way Easy!)**](https://www.homeserve.com/en-us/blog/how-to/reset-garbage-disposal/)
+
+But — as it goes with all home appliances — you’ll eventually need to replace your garbage disposal. Here’s how much that will cost.
+
+How Much Does It Cost to Add a Garbage Disposal to a Sink?
+----------------------------------------------------------
+
+According to data from [HomeGuide](https://homeguide.com/costs/garbage-disposal-installation-cost), the average garbage disposal installation cost is around $250 to $650 (CAD 341 to CAD 887). This price includes the cost of installing new plumbing connections. However, prices vary significantly depending on which model and horsepower rating you choose.
+
+This price also includes labor. How long it takes to install a garbage disposal depends on your existing system and the unit's complexity. Most plumbers charge around $45 to $150 (CAD 61 to CAD 205) per hour, or $100 to $250 (CAD 136 to CAD 341) from start to finish. Hiring an electrician to install new wiring typically costs between $40 and $100 (CAD 55 to CAD 136) per hour. Experienced DIYers could consider installing a garbage disposal themselves to reduce the costs of fitting a new unit.
+
+How Much Does It Cost to Replace an Existing Garbage Disposal?
+--------------------------------------------------------------
+
+The cost of replacing an existing garbage disposal unit is similar to the cost of installing a garbage disposal on a sink for the first time. How much it costs varies widely depending on your model and the condition of your existing plumbing. Your contractor probably won't need to install a new P-trap, but they will need to remove your old garbage disposal. Expect to pay between $200 and $550 (CAD 273 and CAD 750) in total.
+
+A couple of factors could add to the cost of replacing an existing garbage disposal unit. You may need to pay extra for repairs if your existing unit is difficult to remove and your sink gets damaged in the process. Your plumber might recommend upgrading the pipes or P-trap attached to the disposal if they're in poor condition.
+
+**More Related Articles:**
+
+*   [8 Things You Should Never Put the Garbage Disposal (and 5 Things You Can)](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-dos-and-donts/)
+*   [How to Remove a Garbage Disposal](https://www.homeserve.com/en-us/blog/how-to/remove-garbage-disposal/)
+*   [Garbage Disposal Not Working? Here’s How to Fix Common Issues](https://www.homeserve.com/en-us/blog/how-to/fix-garbage-disposal/)
+*   [How to Install or Replace a Sink Drain Flange](https://www.homeserve.com/en-us/blog/how-to/install-sink-drain-flange/)
+*   [How Much Does It Cost to Install or Replace a Sink Drain?](https://www.homeserve.com/en-us/blog/cost-guide/replace-sink-drain/) 
+
+What’s the Price Difference Between Different Horsepower Ratings?
+-----------------------------------------------------------------
+
+According to [Fixr](https://www.fixr.com/costs/garbage-disposal-installation), the average price range for garbage disposal units increases according to the HP rating. Units with higher HP can grind waste more powerfully.
+
+A 1/3-HP unit is only powerful enough for small households of one or two people and costs between $75 and $125 (CAD 102 and CAD 171). A 1/2-HP unit is powerful enough to meet the requirements of a four-person family. They cost between $100 and $150 (CAD 136 and CAD 205). A larger, 3/4-HP unit could be a good option if you have up to six people in your household and need a more powerful disposal, and you should expect to pay between $125 and $200 (CAD 171 and CAD 273).
+
+Larger households of up to eight people may need a more powerful 1-HP garbage disposal, which costs between $175 and $400 (CAD 239 and CAD 546) on average. The most expensive garbage disposals are 2-HP models, which cost between $300 and $1,000 (CAD 409 and CAD 1,364), according to [This Old House](https://www.thisoldhouse.com/kitchens/reviews/garbage-disposal-installation-cost). You probably don't need a garbage disposal this powerful unless you have a very large family and a lot of food waste or you’re buying a unit for a commercial setting.
+
+How Long Do Garbage Disposals Last?
+-----------------------------------
+
+According to the International Association of Certified Home Inspectors, the average garbage disposal unit has an [expected lifespan](https://www.nachi.org/life-expectancy.htm) of about 12 years. However, your unit may not last as long if you overuse it or don't follow the manufacturer's usage guidelines. Your garbage disposal's lifespan also depends on the quality of your unit.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/Ojzqnoa53o0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Clean Your Garbage Disposal"></iframe>

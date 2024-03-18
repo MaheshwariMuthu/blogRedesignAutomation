@@ -1,0 +1,118 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to Unclog a Toilet
+headline: How to Fix a Clogged Toilet
+author: Team HomeServe
+tags: ['post', 'Plumbing']
+publishDate: 2020-10-14
+basePath: /en-us/assets/images/blog/how-to/
+videoSrc: https://www.youtube.com/embed/3AbhwsGur4E?rel=0&enablejsapi=1&origin=https%3A%2F%2Fwww.homeserve.com
+heroImage: https://img.youtube.com/vi/3AbhwsGur4E/maxresdefault.jpg
+heroAltDescription: How to Unclog a Toilet
+metaDescriptions: Knowing how to fix a clogged toilet can make life less stressful. Learn how to unclog a toilet quickly and easily without calling a plumber.
+articleAbstract: Heating season is gearing up for much of the country and many homeowners may have some unexpected hiccups with their radiator and heating systems.
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0919
+stickyDisplayText: Call today for a local plumber.
+lightboxCopy: Local plumbing pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/plumbers/hs/same_day
+  large:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner1.png
+      alt: Plumbing eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner2.jpg
+      alt: Plumbing eLocal Banner 2
+category: ['How To']
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/how-to/unclog-toilet/', 'en-us'], ['https://www.homeserve.co.uk/living/blog/how-to-unblock-a-toilet/', 'en-gb']]
+
+eleventyNavigation:
+  key: How to Unclog a Toilet
+  parent: Plumbing-How-To
+---
+
+::: blog-info
+Knowing how to fix a clogged toilet can help make life a little easier. Learn how to unclog a toilet quickly so you won't have to call a plumber.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% else %}
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+{% endif %}
+:::
+
+A clogged toilet is an inconvenience that can quickly leave you facing an unsanitary mess in your bathroom if dirty water overflows the bowl. Watching the water level creep steadily higher is stressful, but fortunately, fixing a clogged toilet is something you can handle without having to [call a plumber](/en-us/blog/home-improvement/professional-plumber-repairs){target="_blank"}. All you need are a few supplies, some basic household tools and the right know-how to unclog a toilet. Watch our short video, and read on for a more detailed look at why clogs occur and how to fix one quickly, before disaster strikes.
+
+## Understanding Why Toilets Get Clogged
+Toilet drains have a curved-shape trap where regular waste, excess toilet paper and foreign objects can easily form a clog or cause a partial or complete blockage. If the toilet trap is blocked, you [won't be able to successfully flush](/en-us/blog/how-to/toilet-wont-flush){target="_blank"} because water and waste have nowhere to go, and the bowl can quickly fill up or, even worse, overflow.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+## How to Unclog a Toilet — A Step-By-Step Guide
+First, shut off the valve located on the water supply line leading to your toilet tank to prevent a potential overflow. Once that's taken care of, follow these three tried and true methods to unclog a toilet:
+
+### 1. Use a trusty toilet plunger
+
+According to _Family Handyman_, up to [90% of clogs](https://www.familyhandyman.com/project/how-to-fix-a-clogged-toilet/){target="_blank"} can be cleared using a toilet plunger, which is equipped with an extra-long flange. If you don't have a toilet plunger, you can buy one of these inexpensive, handy tools at Home Depot and most hardware stores. You can also use a regular cup plunger and do the following:
+
+::: list-indentation
+* Insert the toilet plunger flange into the drain opening, or position the cup plunger so it covers the opening completely.
+* If you're using a toilet plunger, start with a gentle push to get rid of any air inside the bell.
+* Plunge vigorously for 15-30 seconds.
+* Turn on the water supply and try flushing the toilet.
+* If necessary, repeat the above steps until the toilet flushes normally.
+:::
+
+### 2. Get out the snake or auger
+
+Knowing how to unclog a toilet using a plumbing snake or toilet auger can save you the expense and hassle of calling a plumber if plunging doesn't work. These drain cleaning tools can cut through regular waste and hook a foreign object, such as a child's toy, if that's what's blocking the drain. Toilet augers are sold at most big-box home centers and hardware stores. Using one to remove the clog is easy — just follow these steps:
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+::: list-indentation
+* Put on a pair of rubber gloves, and place the business end of the snake into your toilet bowl so it's pointed toward the drain.
+* Turn the handle clockwise so the cable extends down the drain opening.
+* Keep turning until you encounter the clog and start to feel resistance.
+* Rewind the cable by turning the handle counterclockwise. If the auger has hooked on a toy or other foreign object, remove it and then turn on the water supply and flush the toilet to make sure the drain is clear.
+* If necessary, repeat the first two steps to cut through a clog consisting of paper or waste until the toilet flushes freely.
+:::
+
+### 3. Try loosening the clog naturally
+
+If you lack tools, there are still steps you can take to unclog a toilet without a plunger or snake. Head to the kitchen and grab a measuring cup, a box of baking soda and some plain white vinegar.
+
+• Measure out one cup of baking soda and pour it into the toilet.
+• Wait a couple of minutes, then add two cups of vinegar.
+
+If you don't have baking soda and vinegar on hand, you can try the hot water and liquid dish soap method — you'll also need a bucket or large bowl for transporting the water and an extra container for dirty water.
+
+• Partially fill the bucket with the hottest water possible from your bathroom or [kitchen faucet](/en-us/blog/how-to/install-kitchen-faucet){target="_blank"} and pour it slowly into the toilet until the bowl is half full.
+• Next, squeeze in a generous amount of dish detergent — about a quarter cup should do the trick.
+
+Whichever method you use, give the ingredients 10 to 15 minutes to loosen the clog and then check to see if the water level in the bowl is receding. If it's not, turn on the water supply and try flushing the toilet a couple of times, but be ready to shut it off again before the level of water in the bowl gets too high.
+
+If there's no change, repeat the procedure — it may take a few attempts for the clog to release. In between tries, be ready to scoop water from the toilet bowl to prevent an overflow, just be sure to wear rubber gloves.
+
+::: blog-info
+It's impossible to predict when toilet clogs and other plumbing issues will develop, so it's wise to be ready. Learn how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help you be prepared for the costs of covered plumbing repairs.
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5j759jOLiwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% else %}
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+{% endif %}
+::::

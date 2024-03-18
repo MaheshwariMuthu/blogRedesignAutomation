@@ -1,0 +1,92 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Remove a Window"
+headline: "How to Remove a Window"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2021-05-25
+basePath: https://library.homeserve.com/m/
+heroImage: 7892db6a062abaa8/Blog-GettyImages-1222051467.jpg
+heroAltDescription: "Male hands repairing old wooden windows using a hammer and a screwdriver  Repairing interior of old house  Close-up of home DIY project"
+metaDescriptions: "You can reduce the cost of a window replacement by removing the window yourself. Follow this step-by-step guide."
+articleAbstract: "Replacing old or broken windows can cost a lot out of pocket — but so can the rise in your energy bills if the windows are damaged and not properly insulated. You can reduce the cost of a window replacement by removing the window yourself. Follow this step-by-step guide for how to remove a window."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Remove a Window"
+  parent: Exterior-Home-How-To
+---
+  **Removing a Window at a Glance**
+
+* **Tools and materials:** Surface protection, safety glasses, gloves, utility knife, pry bar, nail puller, drill or driver, suction cup, duct tape
+* **Step 1:** Cut caulking around window
+* **Step 2:** Remove stop beads, screws and/or trim
+* **Step 3: New-construction windows:** Expose nailing flange
+* **Step 4: New-construction windows:** Cut waterproofing and remove screws
+* **Step 5:** Remove window
+
+Replacing old or broken windows can cost a lot out of pocket — but so can the rise in your energy bills if the windows are damaged and not properly insulated. If you’ve tried to fix the window yourself but you’ve found that it’s damaged beyond repair, replacement is the next best option. And in order to replace a window, you’ll have to remove it first.
+
+**This May Also Interest You:** [**Save Yourself Some Pane With Our DIY Window Repair Guide**](https://www.homeserve.com/en-us/blog/how-to/window-repair/)
+
+You can reduce the cost of a window replacement by removing the window yourself. Read on to learn how.
+
+Tools Required
+--------------
+
+*   Surface protection (tarp, plastic sheeting, drop cloth, etc.)
+*   Safety glasses and gloves
+*   Utility knife
+*   Pry bar
+*   Nail puller
+*   Power drill or impact driver
+*   Suction cup
+*   Duct tape (optional)
+
+Before You Begin
+----------------
+
+Removing a window can be both difficult and messy, so preparing your work area can reduce frustration and clean-up time. Move any furniture or appliances out of the way, and remove any window treatments like blinds and curtains. Next, lay down surface protection like a tarp or drop cloth below the window to catch any debris or broken glass. You can also cover the glass with duct tape to keep it from shattering during the removal.
+
+Since you’re working with glass, equip yourself with the appropriate safety apparel. This includes safety goggles, work gloves and closed-toed shoes. Recruiting a helper can also make for a safer — and easier — operation.
+
+Removing the Window
+-------------------
+
+The steps involved with removing a window will vary depending on the type of window being replaced. The two main replacement options are new construction windows and pocket-insert windows.
+
+Replacement pocket-insert windows are inserted into the existing window frame. They only require the removal of the window inside the frame. New construction windows include a whole new frame and window, so the process is a bit more involved. You can also remove just the piece of glass (windowpane) if that’s the only part of the window that needs replacing.
+
+### Removal of a Replacement Window
+
+1.  Use a utility knife to carefully cut through the caulking and putty holding the window in place.
+2.  Use a pry bar to remove the stop beads. Also called “inside stops,” stop beads are the vertical trim pieces on either side of the window to keep the movable panes (sash) from falling out. Some windows may have a horizontal stop on the top of the window frame. Care should be taken not to damage these since they will be reinstalled after the new window is in place.
+3.  The window should now be free and can be removed. The sashes in single- and double-hung windows need to be removed separately, but you can follow the same process. A sliding window can simply be lifted up and out of the frame once it’s in the fully open position.
+4.  You may need to cut the cords some windows use to operate the window sash. Removing some decorative trim might also be necessary if it’s in the way.
+
+**More Related Articles:**
+
+*   [How to Install or Replace a Window Well](https://www.homeserve.com/en-us/blog/how-to/window-well-installation/)
+*   [The Do’s and Don’ts of Caulking Windows](https://www.homeserve.com/en-us/blog/how-to/caulk-your-windows/)
+*   [How to Insulate Windows](https://www.homeserve.com/en-us/blog/how-to/insulate-windows/)
+*   [Top 5 Ways to Winterize Your Windows](https://www.homeserve.com/en-us/blog/cost-guide/winterize-your-windows/)
+*   [How to Clean Windows to Get That Streak-Free Shine](https://www.homeserve.com/en-us/blog/how-to/clean-windows/)
+
+### Removal of New-Construction Windows
+
+1.  Use a utility knife to carefully cut through the caulking and putty holding the window in place.
+2.  Remove the screws around the inside of the window frame.
+3.  Carefully remove the exterior trim with a pry bar.
+4.  Expose the nailing flange. The window frame is secured to the home’s exterior with screws or nails through a small metal fin (nailing flange) around the perimeter of the frame. The nailing fin is covered by the home’s exterior siding, so the siding will either have to be removed or carefully pried back until the fin is visible.
+5.  Use a razor blade to cut back the strip of waterproofing membrane covering the nailing fin and fasteners until they are fully exposed and accessible.
+6.  Remove the screws or nails securing the nailing fin to the house. If nails were used, use a hammer and nail puller (like a cat’s paw) to remove the nails.
+7.  The window should now be free, and you should be able to pull it out in one piece.
+
+### Removing a Windowpane
+
+1.  From the inside of the house, use a utility knife to carefully cut around the perimeter of the glass between the glass and the window’s framework.
+2.  Move outside and use a utility knife to carefully cut around the perimeter of the glass between the glass and the window’s framework.
+3.  Attach a suction cup to the windowpane to keep it secure once it’s free.
+4.  Use a pry bar to remove the window’s inside stops.
+5.  The windowpane should be free. It can now be safely removed with the suction cup.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._

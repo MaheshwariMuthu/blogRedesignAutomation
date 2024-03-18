@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to survey your home for storm damage
+headline: How to survey your home for storm damage
+author: Team HomeServe
+tags: ['post', 'Tips & Lists']
+publishDate: 2018-06-01
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: StormDamage.jpeg
+heroAltDescription: How to Repair Storm Damage
+metaDescriptions: 
+articleAbstract: Even the smallest of storms can do big damage to your home. Use this checklist when surveying the damage.
+category: ['How To']
+
+eleventyNavigation:
+  key: How to survey your home for storm damage
+  parent: Exterior-Home-How-To
+---
+
+::: blog-info
+With last year's devastating hurricane season and the frequent snowstorms Mother Nature throws our way, it's important for homeowners to know how to assess damage after a storm runs its course. Storm damage can be tricky because even minor destruction could potentially lead to serious home maintenance issues. Therefore, the most critical aspect of surveying your home is doing so as quickly as possible. However, be cautious, and make sure you don't venture outside your home or protective shelter until it is safe to do so.
+
+Here's what you need to know about dealing with storm damage:
+
+## Know the basics of damage control
+
+To start assessing for damage, you'll need to know where to look. The most common areas to assess for damage inside of your home are the ceilings, walls, doors, windows and appliances. The roof and siding are the most vulnerable exterior areas and often take the hardest hits from storms. Fallen trees and various debris may also end up in your yard.
+
+Look for three main types of damage:
+:::
+
+### Water
+
+Water damage, especially from heavy rain and flooding, can lead to bacteria and mold growth, contamination or serious home foundation and structural issues. According to Action Restoration, [flooding is the most common](https://www.action-restoration.com/blog/what-are-most-common-types-storm-damage){target="_blank"} - and most destructive - type of storm damage that occurs in the U.S. However, if your home doesn't have any major flooding, water damage may still manifest in leaks, discolored spots on walls or ceilings, soggy wood or a lingering damp odor.
+
+### Wind
+
+Strong gusts of wind are responsible for the fallen trees and flying debris that make severe storms so dangerous. According to the National Weather Service, [isolated wind damage](https://www.weather.gov/safety/wind){target="_blank"} is possible from 40- to 50-mph gusts. You're likely to find wind damage on the exterior of your home, such as missing pieces of siding, shutters or shingles. Ripped screens or dents in the siding, windows, doors and on the roof, can also be possible.
+
+### Hail
+
+As large pieces of hail fall from the sky, they can hit the roof of your home and cause some serious damage. Once the storm has passed, you'll want to check for any dings and dents to your roof, air conditioning unit and/or other exterior elements of your home and property.
+
+:::: blog-info
+## Have a checklist at hand
+
+Now that you have a better idea of what you're looking for, make your way down this checklist to properly survey your home for storm damage:
+
+Check outside for any immediate dangers on your property, such as fallen trees, downed power lines, dents in the roof or siding and shattered windows. Call a professional if you need help removing any of these items. ALWAYS REMEMBER: **it is never safe to handle a detached power line**.
+
+::: list-disc
+* Inspect the roof for missing shingles, cracks, holes and damaged gutters that may cause severe leaks.
+* Examine the garage, fencing and sheds for damage.
+* Look out for cracked driveways and walkways.
+* Clear debris from exterior HVAC units, and examine them for any signs of damage harm.
+* Inspect the attic, basement and crawl spaces for dampness, moisture marks or clear signs of leaking.
+* Contact officials to make sure drinking water is safe for consumption.
+* Check appliances and electronics for water damage.
+* Carefully remove any broken glass or debris inside your home.
+* Look for water spots, warping, leaks, cracks or bulging on the ceilings, walls and floors.
+* Take pictures of all the damage before cleaning anything up or beginning any repairs.
+* Make temporary repairs to leaks to prevent further damage, especially sealing and covering broken windows.
+:::
+
+Even if you can handle minor storm damage repairs on your own, make sure to schedule an appointment with a home repair professional to help address the more severe problems.
+
+Preparedness is important for any home repair emergency. [Plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the covered costs of repairs due to normal wear and tear.
+::::

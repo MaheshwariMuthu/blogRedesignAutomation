@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Size Air Conditioner Do I Need?"
+headline: "What Size Air Conditioner Do I Need?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-11-24
+basePath: https://library.homeserve.com/m/
+heroImage: 132d747670d08c21/Blog-GettyImages-872669782.jpg
+heroAltDescription: "Heating and air conditioning units"
+metaDescriptions: "Figure out what size AC unit you need with some basic math and by taking your home’s features into account. "
+articleAbstract: "Calculating the correct air conditioner size for your living area isn't rocket science. You can figure out what size air conditioner you need with some basic math and by taking your home’s features into account.  "
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "What Size Air Conditioner Do I Need?"
+  parent: HVAC-Buying-Guide
+---
+  
+
+Many people are confused by the different units used to describe air conditioner size, but calculating the correct size for your living area isn't rocket science. You can figure out what size air conditioner you need with some basic math and by taking your home’s features into account.
+
+**This May Also Interest You:** [**New to BTUs? Here’s What to Know About BTUs When Shopping for an Air Conditioner**](https://www.homeserve.com/en-us/blog/home-improvement/btu-air-conditioning/)
+
+Below, you can find out how to calculate what size air conditioner you should buy.
+
+How Do I Determine What Size Air Conditioner I Need?
+----------------------------------------------------
+
+Air conditioner size doesn't mean the physical measurements of the unit itself. Instead, it refers to its cooling capacity. Therefore, the “larger” the air conditioner, the higher its cooling capacity. Cooling capacity is measured in BTUs or tonnage, depending on the type of air conditioner.
+
+You should select the air conditioner size depending on the dimensions of the room or home you want to cool down. This applies to all air conditioner types, including window and portable models. Choosing the correct size air conditioner for your space’s size can help you save energy and reduce wear and tear to the unit, so you won't need to maintain or replace it as often. 
+
+However, the efficiency of an air conditioner doesn't solely rely on its cooling capacity. Generally, mounting your AC unit as high as possible on the wall allows it to circulate and cool the air more efficiently. Modern air conditioners are usually more efficient than older models, so you can often achieve more effective cooling and save on energy bills by replacing worn-out units with new ones. 
+
+What Are BTUs in Terms of Portable and Window AC Units?
+-------------------------------------------------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/3402180f7c82153/Blog-LGWindowACUnit_AWiesen_009.jpg" alt="window ac unit"/>
+
+[BTU](https://www.homeserve.com/en-us/blog/home-improvement/what-is-btu/) stands for British Thermal Unit. This unit is a measure of how much energy is required to warm a pound of water by 1 degree Fahrenheit at sea level. BTUs are used to describe how quickly a portable or window air conditioner unit can cool the air down. 
+
+The higher the BTU rating, the greater the air conditioner's cooling capacity. In general, you'll need to choose an air conditioner with a high BTU rating if you have a large room. It's important to know what size air conditioner you need to avoid wasting energy or shortening your unit's lifespan. 
+
+How Many BTUs Do I Need to Cool My Room or House?
+-------------------------------------------------
+
+According to the [U.S. Department of Energy](https://www.energy.gov/energysaver/room-air-conditioners), you can calculate what air conditioner size you need by multiplying the square footage of your room or house by 20 BTU. 
+
+Domestic air conditioners generally have a BTU between 5,000 and 14,000 BTU. If your calculation produces a BTU rating lower than this because your room dimensions are small, your best bet is to purchase the air conditioner with the lowest number of BTUs you can find. 
+
+However, several other factors could mean you need a larger air conditioner than the square footage calculation suggests. Rooms with high ceilings or that get a lot of sunlight will be harder to cool down, so you should consider getting a slightly larger unit. Similarly, rooms frequently used by multiple occupants simultaneously or that contain heat-generating appliances like ovens may also require a higher BTU per square foot. Various online BTU calculators are available that consider your home's square footage combined with additional factors. 
+
+A common mistake that many people make is to assume that a bigger air conditioner is always better. In fact, it's counterproductive to purchase an oversized air conditioner with a high BTU rating if you're only trying to cool a small space. Although the air conditioner will initially cool the room very quickly, it will likely shut itself down once the air reaches your desired temperature. This can lead to a cycle of the unit having to restart frequently when the room warms up again, which is bad for your electricity bills and can cause excessive wear and tear to the unit itself. 
+
+Conversely, using a portable or window AC unit with a BTU rating that's too low will prevent the unit from cooling the space efficiently and may mean that you can't achieve a comfortable temperature. The air conditioner will also have to work harder, which could shorten its lifespan. 
+
+**More Related Articles:**
+
+*   [Keep Your Cool With Out Top 5 Picks for Window AC Units](https://www.homeserve.com/en-us/blog/buying-guide/best-apartment-window-air-conditioners/)
+*   [Is It Actually Cheaper to Run Fans Than Air Conditioning?](https://www.homeserve.com/en-us/blog/home-improvement/fan-versus-ac/)
+*   [Got Central Air? Use This Top-to-Bottom Air Conditioner Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist/)
+*   [What Is a SEER Rating for AC Units (and Why Should You Care)?](https://www.homeserve.com/en-us/blog/home-improvement/seer-rating/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+
+What Is Tonnage in Terms of Central Air Units?
+----------------------------------------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/24b10aba37d96bd0/Blog-GettyImages-1300574546.jpg" alt="HVAC unit"/>
+
+Tonnage doesn't refer to the weight of an air conditioner. Instead, it refers to the unit's cooling capacity. One ton is equivalent to 12,000 BTU. Unless you're purchasing a central air conditioner, you’ll generally find cooling capacity listed in BTUs rather than tonnage. 
+
+How Many Tons Should My Air Conditioner Be to Cool My House?
+------------------------------------------------------------
+
+You can use an online AC tonnage calculator (like this one from [AC Direct](https://www.acdirect.com/ac-package-unit-learning-center-ac-sizing-calculator)) to determine how many tons your air conditioner needs to be. Alternatively, you can convert BTUs to tons and calculate the required tonnage using your home's square footage. 
+
+Here’s some math: You need around 20 BTUs per square foot, which is equivalent to 0.0016 tons. For example, a 600-square-foot space requires a 12,000 BTU or 1-ton unit. By those calculations, an average 1,800-square-foot house would need a 3-ton central air conditioning unit. As with BTU calculations, you may need more tonnage for homes with a lot of traffic, high ceilings or a lot of windows that face the sun.

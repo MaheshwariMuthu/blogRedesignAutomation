@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is Pipe Belly?"
+headline: "What Is Pipe Belly?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-05-11
+basePath: https://library.homeserve.com/m/
+heroImage: 627fb654bb422376/Blog-GoldenStateWater_SSL_SHMR133529F3_02.jpg
+heroAltDescription: "Septic sewer line repair pipe replacement"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Pipe belly is a potentially serious plumbing issue. Here's what you need to know."
+articleAbstract: "Pipe belly might sound like some kind of gastrointestinal condition, but, in fact, it's a potentially serious plumbing issue. Here's what you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is Pipe Belly?"
+  parent: Plumbing-Home-Improvement
+---
+  Pipe belly might sound like some kind of gastrointestinal condition, but, in fact, it's actually a plumbing issue that homeowners are often unaware of.
+
+**This May Also Interest You:** [**What’s an Exterior Water Service Line?**](https://www.homeserve.com/en-us/blog/home-improvement/exterior-water-service-lines-explained/)
+
+Pipe belly is a potentially serious issue in your wastewater elimination system that can cause major problems if left unaddressed. This phenomenon occurs when a section of a sewer pipe sinks or settles, creating a low spot or "belly" in the line. It is most common in clay or cast iron pipes, and can be a result of an improper sewer line installation. Sewer pipes are meant to follow a certain slope away from the home into either a public sewer or septic system. If this gradient isn't followed, pipe belly can be the result. Likewise, if the sewer line is installed on sludgy or overly moist soil, or the atop soil that hasn't been properly compacted, pipe belly can also occur.
+
+Even if the sewer line has been installed correctly, other environmental factors can cause the bulge in the pipe. Shifting soil conditions from severe weather incidents or even earthquakes, invasion by tree roots, or a change in drainage patterns can all cause a sewer line to develop pipe belly.
+
+The problem with pipe belly is that it can lead to the accumulation of water and debris in the low spot, resulting in a blockage or backup. The standing water in the belly of the pipe can also cause corrosion and decay, leading to leaks or even pipe failure. Therefore, it's essential to identify and address pipe belly issues promptly.
+
+Signs of Pipe Belly
+-------------------
+
+One of the most obvious signs of pipe belly is a recurring clog in the same area of the pipeline. If you notice that your drains or toilets keep backing up in the same spot, even after you've cleared the blockage, it's possible that there's a pipe belly in that section of the line. Other signs of pipe belly include slow draining fixtures, gurgling sounds in the pipes and foul odors coming from the drains.
+
+Detecting Pipe Belly
+--------------------
+
+Detecting pipe belly requires a trained eye and specialized equipment. One of the most common methods used by plumbers is video camera inspection. This involves inserting a flexible camera into the pipeline to inspect its interior and identify any abnormalities, such as sags, cracks, or obstructions. The camera footage can also help determine the extent of the damage and the best course of action.
+
+**More Related Articles:**
+
+*   [Pipe Burst? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+*   [Should You Go Pro or Try DIY for Your Sewer Line Repair? Here’s What You Should Know](https://www.homeserve.com/en-us/blog/home-improvement/water-sewer-line-repair/)
+*   [Prevent Frozen-Pipe Problems by Knowing These Things Down Cold](https://www.homeserve.com/en-us/blog/how-to/frozen-pipes/)
+*   [Top 3 Signs You Have Septic or Sewer Issues](https://www.homeserve.com/en-us/blog/home-improvement/sewer-septic-back-up/)
+*   [How Much Does It Cost to Repair or Replace a Water Service Line?](https://www.homeserve.com/en-us/blog/cost-guide/main-water-line-repair-versus-replacement/)
+
+Repairing Pipe Belly
+--------------------
+
+The most effective way to repair pipe belly is to replace the bulging section of the pipeline. This involves cutting out the damaged portion and replacing it with a new section of pipe. The new pipe should be installed with the proper slope and support to prevent future sagging.
+
+Another method used to repair pipe belly is trenchless pipe repair. This technique involves inserting a new liner inside the existing pipe to reinforce it and seal any cracks or leaks. The liner is inserted through an access point, such as a cleanout, and inflated to conform to the shape of the existing pipe. Once the liner has cured, it creates a new pipe within the old one. If appropriate for your situation, this method of repair has the benefit of not digging up large sections of your yard or jackhammering away asphalt driveways or concrete walkways and patios to get to the line.
+
+A certified plumber can determine the most efficient and cost-effective way to solve your pipe belly issue, but you'll want to ask if they carry out trenchless pipe repair before having them out to assess the situation so that you have as many options available to you for repair work.
+
+Preventing Pipe Belly
+---------------------
+
+Preventing pipe belly requires proper installation and maintenance of the sewer line. During installation, the line should be sloped correctly to ensure proper drainage and prevent sags. The pipeline should also be supported adequately to prevent settling or shifting.
+
+Regular maintenance, such as drain cleaning and inspection, can also help prevent pipe belly. Removing debris and buildup from the pipeline can reduce the risk of blockages and backups, which can lead to sagging. You'll also want to make sure that your yard is landscaped properly to prevent the ground around your sewer line from becoming overly saturated with storm runoff.
+
+Fortunately, pipe belly is a relatively rare occurrence, especially if your sewer was installed correctly in the first place. That said, if it develops, it can cause significant problems if left unaddressed. That's why it's essential to identify and address pipe belly issues promptly to prevent blockages, leaks, and pipe failure. While many home improvement projects can be carried out by a capable DIYer, in this case, a trained plumber is really your best bet to diagnose and treat the issue.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nk_hBpyP3Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How Much Does Sewer Line Maintenance and Repair Cost?"></iframe>

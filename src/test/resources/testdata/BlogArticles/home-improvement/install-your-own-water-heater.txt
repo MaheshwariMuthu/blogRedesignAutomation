@@ -1,0 +1,88 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Can You Install Your Own Water Heater?"
+headline: "Can You Install Your Own Water Heater?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-11-02
+basePath: https://library.homeserve.com/m/
+heroImage: 7db30c2c98d44e05/Blog-DGSO_HeatHolidays_APhelps_0143.jpg
+heroAltDescription: " HeatUpTheHolidays Giveaway - Hot water heater giveaway."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "While water heater installation isn't cheap, the costs of messing up a DIY installation can be eye-watering."
+articleAbstract: "Wondering whether you can skip professional installation and install a water heater yourself? While water heater installation isn't cheap, the costs of messing up a DIY installation can be eye-watering."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Can You Install Your Own Water Heater?"
+  parent: Plumbing-Home-Improvement
+---
+  If your water heater breaks down unexpectedly, the impact on your household budget can cause significant anxiety. Therefore, it's hardly surprising that many homeowners wonder whether they can skip professional installation and install a water heater themselves.
+
+**This May Also Interest You:** [**How Much Does It Cost to Replace a Water Heater?**](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-replacement-cost/)
+
+While water heater installation isn't cheap, the costs of messing up a DIY installation can be eye-watering.
+
+Can You Install Your Own Water Heater?
+--------------------------------------
+
+Installing a water heater yourself is rarely a wise move unless you're a professional plumber. Water heater installation requires extensive plumbing and electrical skills. Install your water heater incorrectly, and you risk fires, gas leaks and other hazards that could threaten your safety.
+
+Why Might You Not Want to Attempt DIY Water Heater Installation?
+----------------------------------------------------------------
+
+The reasons to avoid DIY water heater installation are extensive. Attempting to do the work yourself could lead to the following issues.
+
+### Plumbing and Gas Supply Problems
+
+Professional plumbers learn how to install water and gas lines safely. Without proper plumbing education, you could cause a gas leak or supply line issues. These problems significantly increase the risk of a house fire and could prevent your water heater from functioning correctly.
+
+Leaky connections and incorrect ventilation can also allow carbon monoxide inside your home. [Carbon monoxide](https://www.cdc.gov/co/faqs.htm) is a poisonous gas that can cause severe illness and death. Furthermore, incorrectly joining the water heater to your water supply lines could cause leaks, leading to potentially catastrophic water damage.
+
+### Electrical Issues
+
+Unless you're a trained electrician, wiring a water heater isn't a job for a DIYer. Incorrect wiring increases the risk of fires and can cause your circuit breakers to trip, potentially damaging your appliances.
+
+### Building Code Violations
+
+Several building codes control where you can install a water heater, and these regulations are complex. Failing to comply with building codes or obtain the correct permits can land you in legal hot water and cause significant issues if you ever decide to sell your home. Professional installers understand state and federal regulations and can help you avoid running afoul of the rules.
+
+### Invalid Warranties and Insurance
+
+If you install your own water heater, your insurance company won't cover any damage caused by faulty work. The damage is often expensive — for example, [water damage restoration](https://todayshomeowner.com/cleaning/cost/water-damage-restoration-cost/) usually costs between $1,300 and $6,000 (CAD 1,779 and CAD 8,210). Meanwhile, fixing damage caused by a [house fire costs](https://www.forbes.com/home-improvement/home-emergencies/fire-damage-clean-up-cost/) $12,900 (CAD 17,650) on average. Considering most plumbers charge just $200 to $1,000 (CAD 274 to CAD 1,368) to [install a water heater](https://homeguide.com/costs/water-heater-installation-cost), it's rarely worth risking the financial implications of DIY installation.
+
+Another factor to consider is the impact of DIY water heater installation on your unit's warranty. Most manufacturers won't allow you to register your water heater's warranty unless you hire a licensed plumber.
+
+### Sizing Issues
+
+Installing the correct size water heater for your home is essential. An undersized water heater will wear out faster as it struggles to meet your hot water needs, while an overly large unit may waste energy. Deciding what size water heater you need can be complex, so it's worth consulting a professional.
+
+**More Related Articles:**
+
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)
+*   [How to Install a Tankless Electric Water Heater: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-tankless-electric-water-heater/)
+*   [How Much Does It Cost For a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+
+What Do You Need to Install a Water Heater?
+-------------------------------------------
+
+Before installing a water heater, you'll need detailed plumbing, electrical and gas safety knowledge. You'll also need a thorough understanding of local and federal building codes.
+
+Furthermore, water heater installation requires various tools and equipment. Tools and supplies needed to install a water heater usually include:
+
+*   Pipe cutter
+*   Soldering torch and solder
+*   Plumbing hoses
+*   Plumbing connectors
+*   Voltage detector
+
+Overall, hiring a pro to install your water heater is quicker, safer and easier. Your plumber can supply all the materials you need for a successful installation.
+
+Do You Need Permits or Licenses to Install a Water Heater?
+----------------------------------------------------------
+
+You'll almost certainly need a permit to install a water heater, and requirements vary between jurisdictions. According to [HomeGuide](https://homeguide.com/costs/building-permit-cost), most jurisdictions charge between $25 and $250 (CAD 34 and CAD 342) for a water heater permit. A licensed plumber can ensure you obtain the correct permits for your project.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What to Know About Wildfire Insurance"
+headline: "What to Know About Wildfire Insurance"
+author: Kaia Koglin
+tags: ["post"]
+publishDate: 2023-07-21
+basePath: https://library.homeserve.com/m/
+heroImage: 60f550f80d074797/Blog-GettyImages-1218628586.jpg
+heroAltDescription: "Wildfire near houses"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "There are around 70,000 wildfires each year in the U.S. Given these figures, it’s important to know how to protect your home and belongings."
+articleAbstract: "There are around 70,000 wildfires each year in the U.S. Given these figures, it’s important to know how to protect your home and belongings."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What to Know About Wildfire Insurance"
+  parent: Interior-Home-Home-Improvement
+---
+  There are around [70,000 wildfires](https://www.epa.gov/climate-indicators/climate-change-indicators-wildfires) each year in the U.S., and the area burned by fires has been rising since the 1980s. Droughts and rises in temperature have increased the danger, and today, nearly [80 million properties](https://www.weforum.org/agenda/2022/05/us-wildfire-properties-climate-risks/) are at risk of damage caused by wildfires.
+
+**This May Also Interest You:** [**What Does Homeowners Insurance Cover … and What Doesn’t It?**](https://www.homeserve.com/en-us/blog/home-improvement/what-does-homeowners-insurance-cover/)
+
+Given these figures, it’s important to know how to protect your home and belongings.
+
+What Is Wildfire Insurance?
+---------------------------
+
+No insurance company has a single product called "wildfire insurance." However, there are different types of insurance that can protect your home and belongings from wildfires. The insurance you need depends on what you own. Types of insurance to consider include:
+
+* **Homeowners insurance:** This covers the building, your belongings and possibly some outside structures.
+* **Renter’s insurance:** If you’re a renter, this covers the cost of replacing your belongings.
+* **Condo insurance:** This covers the internal structure of your condo, as well as your belongings. The HOA’s insurance covers the main part of the building.
+* **Car insurance:** Comprehensive car insurance covers any damage not caused by a collision, such as fire damage.
+
+Does Homeowners Insurance Cover Wildfires?
+------------------------------------------
+
+In most cases, homeowners insurance covers damage by wildfires. This is true for all the insurance types mentioned above. However, all plans are different, and you should check your policy to make sure you’re covered.
+
+In wildfire-prone areas, such as California, you may have trouble getting insurance that covers wildfire damage. In some cases, premiums in these areas are unaffordable. Some insurance companies are also choosing [not to offer insurance](https://www.progressive.com/answers/does-home-insurance-cover-wildfires/) in high-risk areas, while others don’t include wildfire damage in their policies. There may also be a cap on payouts for wildfire damage.
+
+If you live in a high-risk area and can’t find insurance, you can apply for your state’s [Fair Access to Insurance Requirements](https://content.naic.org/cipr-topics/fair-access-insurance-requirements-fair-plans) (FAIR) plan. These are state-mandated property insurance plans available to people who can’t find insurance on the open market. Although FAIR plans will give you insurance when you can’t find another option, they generally cost more and cover less than market options, which is why they should always be considered a last resort.
+
+**More Related Articles:**
+
+*   [Digging Out: 6 Things Homeowners Should Do Right After a Blizzard](https://www.homeserve.com/en-us/blog/home-improvement/after-blizzard-safety-tips/)
+*   [What Is a Home Improvement Loan and How Do You Get One?](https://www.homeserve.com/en-us/blog/home-improvement/home-improvement-loan/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [10 Things to Do Immediately Upon Moving Into a New House](https://www.homeserve.com/en-us/blog/home-improvement/moving-into-new-house/)
+*   [How Do You Prepare Your Home Before You Go on Vacation?](https://www.homeserve.com/en-us/blog/home-improvement/vacation-appliance-checklist/)
+
+What Does Wildfire Insurance Cover?
+-----------------------------------
+
+What's covered and the amount you’re covered for depends on the individual policy. Always check the policy to make sure you understand your insurance, and keep it up-to-date so building improvements, new purchases and increased building costs are covered. The following items are generally covered by homeowner’s insurance.
+
+### Dwelling Coverage
+
+Dwelling coverage typically covers the amount it costs to rebuild the home based on materials and local labor costs, although it can differ depending on the policy limits. If your home isn't destroyed but sustains damage, such as from smoke, it can pay for repairs. You may need additional coverage for outbuildings, such as garages.
+
+### Personal Property
+
+Homeowner’s insurance will pay for the replacement of your belongings. The amount available through the policy is typically set as a percentage of the dwelling coverage. If you have heirlooms or valuable possessions, it’s important to get them insured individually. Coverage for plants and landscaping is generally limited.
+
+### Additional Living Expenses
+
+This pays for temporary housing if you can no longer live in your home. In many cases, it also pays for restaurant bills, pet boarding, laundry services and other necessities if you can’t access your residence. You can make claims for living expenses if you need to evacuate, even if the fire doesn’t reach your house.
+
+What Doesn’t It Cover?
+----------------------
+
+As with all insurance, what is and isn’t covered depends on your policy. The insurance products discussed here won’t cover healthcare costs or provide life insurance. They also won’t cover business costs, although a business insurance policy will generally cover wildfire damage. If you have livestock or grow crops, it’s important to get insurance that covers your livelihood.
+
+How Much Does Wildfire Insurance Cost?
+--------------------------------------
+
+According to [Bankrate](https://www.bankrate.com/insurance/homeowners-insurance/homeowners-insurance-cost/), the average cost of homeowner’s insurance for $250,000 in dwelling coverage is $1,428 per year. However, the actual cost varies widely depending on where you live. Locations that have a high risk for wildfires are likely to have higher premiums. They may also have higher deductibles or a separate deductible for wildfire damage.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

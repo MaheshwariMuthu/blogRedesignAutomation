@@ -1,0 +1,57 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Organize Instruction Manuals and Warranties"
+headline: "How to Keep Track of Product Information and Warranties"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-02-04
+basePath: https://library.homeserve.com/m/
+heroImage: 3dbe05fc4355256/Blog-ProductInformation_MSchmitz_0001-copy.jpg
+heroAltDescription: "A disorderly pile of papers includes product warranties and the product information"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Here are several methods you can use to organize your product manuals and warranty information."
+articleAbstract: "There are several methods you can use to organize your product manuals and warranty information. Here are some ways to keep that paperwork monstrosity at bay."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Keep Track of Product Information and Warranties"
+  parent: Interior-Home-How-To
+---
+  Decluttering. It’s all the rage these days. From Marie Kondo’s [KonMari method](https://konmari.com/about-the-konmari-method/) to various offshoots of [Minimalism](https://www.theminimalists.com/minimalism/), getting your home organized and clutter-free is on everyone’s to-do list. That said, decluttering is often more difficult than it looks. Especially when it comes to all the paperwork and information relating to all of your household appliances and electronics. All too often, those owners’ manuals and warranty paperwork start quickly taking up space and living in disarray in a junk drawer somewhere. And when you’re looking for the one you need? _Good luck_.
+
+**This May Also Interest You:** [**What’s the Difference Between a Warranty and a Protection Plan for Appliances?**](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+
+Does this sound like you? Well, luckily, there are several ways to streamline all of your product and warranty information.
+
+Know What to Keep and What to Get Rid Of
+----------------------------------------
+
+The first step in getting your product information and warranties under control is knowing what paperwork to keep and what to chuck in the recycling bin. After all, you don’t want stacks of paper to sort through any time you need to reference an owner manual or warranty. As you start to organize, it’s essential to pare down your files to the absolutely essential items.
+
+### Essential Items Only
+
+Start by tossing out any user manuals for items that you may longer own. Perhaps this is obvious, but if you’re like some of us, once that manual goes in the drawer, it may never come back out.
+
+Then, once you’ve gotten rid of those items, take a moment to decide which manuals, receipts and warranties you actually need. A general rule of thumb for those looking to pare down their stack of owner manuals is to get rid of paperwork for small, simple items — or really anything under 50 bucks. This includes toasters, alarm clocks, hand mixers and any other item along these lines. Of course, you’ll need to decide for yourself whether to keep an owner’s manual or not. Luckily, these days, most manuals can be found online as long as you know the model number.
+
+That said, you’ll want to keep any and all paperwork for your major household appliances like refrigerators, dishwashers, or washers and dryers. The same applies for anything on the more expensive side, like cell phones and laptops. Again, most manufacturers put owner’s manuals online — so if you’re feeling up for it, get online and download all of your important owner’s manuals, save them to your hard drive and then say goodbye to all of those paper manuals.
+
+**More Related Articles:**
+
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+*   [What’s the Difference Between a Home Warranty and Home Insurance?](https://www.homeserve.com/en-us/blog/buying-guide/home-warranty-home-insurance-differences/)
+*   [How to Do a Home Inventory Before Disaster Strikes](https://www.homeserve.com/en-us/blog/how-to/create-home-inventory/)
+*   [Does Homeowners Insurance Cover My Major Appliances?](https://www.homeserve.com/en-us/blog/buying-guide/home-insurance-appliance-coverage/)
+*   [Here’s How Much Home Repairs Cost – and How to Budget for Them](https://www.homeserve.com/en-us/blog/cost-guide/home-repair-costs/)
+
+Get Smart About Product Warranties
+----------------------------------
+
+Once you’ve gone through your owner’s manuals, next in line is keeping track of the warranty periods on the appliances and electronics you’ve purchased. Manufacturers’ warranties can vary from product to product — not to mention if you purchased any extended warranty plans. Sometimes keeping up with all of that information can be a headache. Fortunately, there are some pretty handy apps that handle all of that for you.
+
+There are several free warranty organizing apps available for both iPhone and Android that help keep records of all of your product warranties for you. Apps like [Chambu](https://play.google.com/store/apps/details?id=com.chambu&hl=en), [Expirations](https://play.google.com/store/apps/details?id=com.sari.expires&hl=en_US&gl=US) and [Expired](https://play.google.com/store/apps/details?id=my.redant.expired) all more or less perform the same function, though some are simpler than others. For example, Expirations lets you scan the barcode of an item to retrieve details about the product instead of manually inputting the data. And Chambu allows you to upload individual images of your warranties and other paperwork like receipts and product manuals, ensuring that you’ll never be scouring the depths of that junk drawer again.
+
+Keep the Clutter at Bay
+-----------------------
+
+Decluttering is one of the best things you can do for your peace of mind. And while it might be easy to purge those old, worn-out shoes from your closet, it can get complicated when you want to go through those old product warranties and owner’s manuals. Nevertheless, there are ways to keep that paperwork monstrosity at bay. Go ahead and take a stab at it. (You can thank us later.)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

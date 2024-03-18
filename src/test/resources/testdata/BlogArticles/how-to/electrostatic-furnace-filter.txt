@@ -1,0 +1,79 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean an Electrostatic Furnace Filter"
+headline: "How to Clean an Electrostatic Furnace Filter"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-12-04
+basePath: https://library.homeserve.com/m/
+heroImage: 5419ed5ddbef129f/Blog-FurnaceHumidifier_Rossi_3003.jpg
+heroAltDescription: "Humidifier filter"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Cleaning an electrostatic air furnace filter is a pretty simple task that can be accomplished in under an hour. Here's all you need to know."
+articleAbstract: "Because a dirty air filter will impact both airflow and your energy costs, it’s important to make sure you’re cleaning your electrostatic HVAC filters roughly once a month."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clean an Electrostatic Furnace Filter"
+  parent: HVAC-How-To
+---
+  
+
+Although they might sound like something out of [George Jetson’s Skypad Apartment](https://thejetsons.fandom.com/wiki/Skypad_Apartments), electrostatic air filters are actually pretty simple devices that rely on pretty basic science to help clean your indoor air.
+
+**This May Also Interest You:** [**Smart HVAC Filters: What Are They and How Do They Work?**](https://www.homeserve.com/en-us/blog/home-improvement/smart-hvac-filters/)
+
+Electrostatic filters look just like typical disposable HVAC filters, except they’re made of several vented metal layers. When air moves through them, they’re charged with static electricity. This charge attracts dust and debris particles like a magnet, holding them until the filter until it’s cleaned. You know the way your hair sticks to a balloon after you’ve rubbed it on the carpet? It’s the same idea.
+
+Do You Have an Electrostatic Furnace Filter?
+--------------------------------------------
+
+If you have a washable air filter in your home, chances are it’s an electrostatic furnace filter. In fact, the two terms have nearly become interchangeable in recent years.
+
+Electrostatic air filters are actually quite common, and they can be found in both portable air purifiers and HVAC systems. Because these filters are made of metal, they can be washed and reused, saving you the hassle (and added cost) of having to replace them every three months like disposable filters. While an electrostatic filter will typically cost more initially, you’ll ultimately save money in the long run.
+
+However, in lieu of replacing filters, an electrostatic filter HVAC system requires regular cleaning in order to function at its best. Because a dirty air filter will impact both airflow and your energy costs, it’s important to make sure you’re cleaning your washable HVAC filters roughly once a month. Although it sounds like it’s just another thing to add to your already packed to-do list, cleaning an electrostatic air furnace filter is actually a pretty simple task.
+
+How to Clean a Washable Furnace Filter
+--------------------------------------
+
+### Step 1: Remove the Filter
+
+<img class="detail-image" src="https://library.homeserve.com/m/712dbe97af7e3399/webimage-Locate-and-Remove-the-Filter.png" alt="illustration of removing an electrostatic furnace filter"/>
+
+Start by removing the electrostatic furnace filter from the filter rack near your unit’s air handler. You’ll want to make sure you either power off your HVAC unit or, if you have one, replace the filter with a spare. All in all, it takes about an hour to properly clean your filter, and it’s generally not a good idea to have your HVAC system running without a filter.
+
+### Step 2: Spray It Down
+
+<img class="detail-image" src="https://library.homeserve.com/m/714d01d8e231ac65/Blog-Spray-It-Down.jpg" alt="illustration of spraying down an electrostatic furnace filter with a hose"/>
+
+Use a garden hose to spray the filter in the direction opposite the airflow, which should be its cleanest side. If you have a spray nozzle, turn it to full pressure and spray the entire air filter thoroughly, dislodging and removing all the dust and debris trapped in the filter. Keep in mind that the pressure from a bathtub or kitchen faucet won’t have enough pressure to properly dislodge the particles from the filter. For this task, the hose is best.
+
+**More Related Articles:**
+
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [How Much Do UV Lights Cost for HVAC Systems?](https://www.homeserve.com/en-us/blog/cost-guide/uv-lights-hvac/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+
+### Step 3: Use Cleaning Solution
+
+For routine cleaning of your air filter, using water will be sufficient. However, a few times a year, it’s a good idea to use a simple cleaning solution of water and dish soap for a more thorough cleaning. Apply the solution to both sides of the filter and let it sit for five minutes, then rinse the solution off with the garden hose.
+
+### Step 4: Rinse and Dry the Filter
+
+<img class="detail-image" src="https://library.homeserve.com/m/505c2dd34c5804bb/Blog-Rinse-and-Dry.jpg" alt="illustration of spraying and wiping an electrostatic furnace filter"/>
+
+Rinse your filter until the water that sprays through it runs clear, then find a location to prop up your filter to let it dry. You’ll want to prop it up so its drain holes face down, allowing any water left inside the filter to completely drain out. It should take roughly 30 minutes to an hour before the filter is dry, although it could take longer. Either way, you’ll want to make sure the filter is completely dry before reinstalling.
+
+### Step 5: Reinstall the Filter
+
+<img class="detail-image" src="https://library.homeserve.com/m/4a4637a006162acc/Blog-Reinstall-Filter.jpg" alt="illustration of replacing an electrostatic furnace filter"/>
+
+Once the filter is completely dry, reinstall it back into the filter rack in the air handler. Look closely at the frame; it’s likely to have an arrow on its side that shows you in what direction it should be installed. Allow the arrow to point toward the HVAC’s blower, or if the filter is in a floor return register, install it so that the arrow is pointing toward the ceiling.
+
+Regular HVAC Maintenance
+------------------------
+
+Depending on the type of filters you use for your HVAC unit, you should be cleaning or replacing them on a regular basis. Disposable filters with cardboard frames need replacing every two to three months, whereas a permanent filter should be cleaned once or twice a month for optimum performance. And while both filters have their pros and cons, those futuristic-sounding electrostatic washable home air filters are a smart choice that can help you save money in the long run.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

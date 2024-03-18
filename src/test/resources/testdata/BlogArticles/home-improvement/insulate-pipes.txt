@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Should You Insulate Your Pipes?"
+headline: "Should You Insulate Your Pipes?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-10-06
+basePath: https://library.homeserve.com/m/
+heroImage: 3c6e5a003487ee1b/Blog-PipeInsulation_LLeazenby_6342.jpg
+heroAltDescription: "Copper pipe insulated with black foam"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Installing pipe insulation is a straightforward way to guard against frozen and burst pipes when the mercury drops."
+articleAbstract: "Installing pipe insulation is a straightforward way to guard against frozen and burst pipes when the mercury drops."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Should You Insulate Your Pipes?"
+  parent: Plumbing-Home-Improvement
+---
+  Nothing has the power to make your heart sink quite like a burst pipe. Water seeping inside your home can cause a lot of damage, so it's worth doing everything possible to prevent this plumbing catastrophe.
+
+**This May Also Interest You:** [**Prevent Frozen-Pipe Problems by Knowing These Things Down Cold**](https://www.homeserve.com/en-us/blog/how-to/frozen-pipes/)
+
+Installing pipe insulation is a straightforward way to guard against frozen and burst pipes when the mercury drops.
+
+What Is Pipe Insulation, and What Does It Do?
+---------------------------------------------
+
+Pipe insulation is a type of foam that wraps around your pipes and prevents heat transfer. Most types of pipe insulation come as precut tubes. You can install these tubes around your pipes by cutting them to the correct length and opening the precut split to place them around your plumbing. Many products have self-adhesive splits, allowing you to press the edges together to seal the insulation.
+
+Most pipe insulation products designed for residential buildings are made from fiberglass, polyethylene or rubber. You can also purchase insulated tape that wraps around your pipes to protect them from freezing temperatures.
+
+Homeowners often install pipe insulation to prevent frozen pipes. When water inside the pipe freezes, it expands and can cause the pipe to crack or burst. Frozen pipes can cause major leaks and prevent water from flowing through your plumbing system. Insulation for pipes can also minimize energy loss and make your plumbing system more efficient.
+
+Some people also use piping insulation to dampen noises from their plumbing system. However, it's essential to investigate the cause of noisy plumbing. Banging, clanging and gurgling noises can signify a problem with your system, such as blockages or loose fittings.
+
+Does Insulation for Pipes Actually Work?
+----------------------------------------
+
+[Installing pipe insulators](https://www.energy.gov/energysaver/do-it-yourself-savings-project-insulate-hot-water-pipes) is a cheap and effective way to prevent winter plumbing disasters. According to Energy Saver, pipe insulation raises the temperature inside your pipes by 2 to 4 degrees Fahrenheit, significantly lowering the risk of frozen plumbing.
+
+Pipe insulation can also lower your energy bills. Energy Saver estimates that you could save 3% to 4% on your annual energy bills by installing insulation for water pipes.
+
+**More Related Articles:**
+
+*   [Plumbing Repair Cost Guide](https://www.homeserve.com/en-us/blog/cost-guide/plumbing-repair-costs/)
+*   [9 Times When You Should Call a Professional Plumber](https://www.homeserve.com/en-us/blog/home-improvement/professional-plumber-repairs/)
+*   [Pipe Burst? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+*   [How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+*   [9 Common Plumbing Myths — Busted](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-system-myths/)
+
+Should You Insulate Your Pipes?
+-------------------------------
+
+Allowing your pipes to freeze could be an expensive mistake. Cracked pipes can lead to significant water damage to your walls and ceilings and costly repairs. According to [Forbes](https://www.forbes.com/home-improvement/home/water-damage-restoration-cost/), most homeowners spend around $3,300 (CAD 4,481) on water damage repairs, but severe damage could cost up to $13,000 (CAD 17,652) to rectify. Considering pipe insulation costs just $10 to $15 (CAD 14 to CAD 20) for a small house if you install it yourself, it's an economical way to protect your home.
+
+You should always insulate exterior water pipes, especially if you live in an area with extremely cold winters. However, insulating plumbing inside your home could also be worthwhile because internal areas can also be vulnerable to freezing temperatures. Consider insulating pipes in the following locations:
+
+*   Attics
+*   Basements
+*   Garages
+*   Under sinks
+*   Crawlspaces
+
+Overall, installing pipe insulation takes just a few hours and can save you thousands in repairs. You can hire a professional to install the insulation for you if your pipes are challenging to access.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Insulate Windows | Cheap and Easy with Plastic Film"></iframe>

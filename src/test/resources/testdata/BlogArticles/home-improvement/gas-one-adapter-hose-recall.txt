@@ -1,0 +1,42 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Fire Hazard: Gas One Recalls 19,500 Propane Adapter Hoses "
+headline: "Fire Hazard: Gas One Recalls 19,500 Propane Adapter Hoses "
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-09-17
+basePath: https://library.homeserve.com/m/
+heroImage: 6831932844d68232/Blog-PropaneAdapterHoseRecal_GasOne.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Due to a fire hazard, Gas One has recalled propane adapter hoses. The hoses can swell during use, which could cause gas to leak."
+articleAbstract: "Due to a fire hazard, Gas One has recalled about 19,500 adapter hoses designed to be used with propane tanks. The hoses can swell during use, which could cause gas to leak. The company has received five reports of swelling hoses; no injuries have been reported. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Gas One Recalls Propane Adapter Hoses Due to Fire Hazard"
+  parent: Appliances
+---
+  Due to a fire hazard, Gas One has recalled about 19,500 adapter hoses designed to be used with propane tanks. The hoses can swell during use, which could cause gas to leak. The company has received five reports of swelling hoses; no injuries have been reported.
+
+**This May Also Interest You:** [**What Do You Do When a Product is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the Sept. 15 [recall alert](https://www.cpsc.gov/Recalls/2021/Gas-One-Recalls-Propane-Adapter-Hoses-Due-to-Fire-Hazard) from the Consumer Product Safety Commission, the recalled adapter hoses were manufactured in China and sold online at Amazon.com, eBay.com, GasOne.com, HomeDepot.com and Walmart.com between December 2020 and February 2021 for between $9 and $18.
+
+Only Gas One 50140 propane adapter hoses are involved in this recall, including the following model numbers:
+
+*   50140
+*   50140-08
+*   50140-12
+*   50140-05GA
+*   50140+50180
+
+Recalled items have batch numbers “Pearl River 3Q20” or “Pearl River 4Q20” stamped on the hose itself.
+
+If you purchased a recalled adapter hose, the CPSC advises that you do not use it. Instead, contact Gas One for a free replacement. Contact the Commerce, Calif.-based company at 800-698-5070. You can also email [info@pricezoneusa.com](mailto:info@pricezoneusa.com) or visit the [contact page](https://gasone.com/pages/contact) on the website. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Beware of Burn Hazard: Harbor Freight Tools Recalls 350,000 Tank Top Propane Heaters](https://www.homeserve.com/en-us/blog/home-improvement/harbor-freight-tools-propane-heater-recall/)
+*   [It’s Not the Heat, It’s the Dehumidifier: 2 Million New Widetech Dehumidifiers Recalled for Overheating, Burn Hazard](https://www.homeserve.com/en-us/blog/home-improvement/new-widetech-dehumidifier-recall/)
+*   [Burn Notice: ECHO EGI-2300 Watt Generators Recalled Due to Fire and Burn Hazards](https://www.homeserve.com/en-us/blog/home-improvement/echo-generator-recall/)
+*   [Real Flame Recalls 700 Fire Pits; the Wood Stored Underneath Can Catch Fire](https://www.homeserve.com/en-us/blog/home-improvement/real-flame-fire-pit-recall/)
+*   [‘Burning Smells, Flames and Smoking’ Cited in Recall of 42,000 Cove Appliance Dishwashers](https://www.homeserve.com/en-us/blog/home-improvement/cove-appliance-dishwasher-recall/)<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

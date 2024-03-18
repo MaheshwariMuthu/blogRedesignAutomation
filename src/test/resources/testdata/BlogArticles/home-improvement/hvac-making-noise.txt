@@ -1,0 +1,111 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why is Your HVAC System Making Noise?"
+headline: "HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-02-24
+basePath: https://library.homeserve.com/m/
+heroImage: 543ed9c2715dd227/original/Rheem_Rossi_sound.gif
+heroAltDescription: "A rheem air conditioning coil sit outside while a visual equalizer moves across the screen to signify sound waves."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Got a weird noise coming from your furnace or air conditioner? Here's how to ID the sound."
+articleAbstract: "HVAC noises could signify a serious problem with your AC or furnace. Learn what causes the most common furnace and air conditioner noises and how to fix them."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My HVAC System Making Noise?"
+  parent: HVAC-Home-Improvement
+---
+  HVAC noises could signify a serious problem with your AC unit or furnace. Knowing the difference between normal HVAC noise and problematic sounds can help you identify and fix problems early.
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+Learn what causes the most common furnace and air conditioner noises and how to fix them.
+
+Buzzing
+-------
+
+If your furnace or AC is making a buzzing noise, it's probably an electrical issue. Several AC components buzz when they develop a defect, including the fan motor and circuit breakers.
+
+Electrical problems with your HVAC system can cause house fires, so it's important to switch your system off immediately. A professional technician can diagnose what is causing buzzing and repair or replace the faulty components.
+
+Clicking
+--------
+
+A broken or damaged fan blade is the most common cause of clicking sounds coming from an AC unit. You can usually solve the problem by replacing the defective blade.
+
+If that doesn't work, there could be a problem with the motor or relay switch. Call a technician to find the source of the clicking and replace the faulty part.
+
+A clicking noise from a furnace can sometimes indicate a broken gas valve, which means there's a risk of a leak. Therefore, you should turn the furnace off and call a technician. Other potential causes include:
+
+*   Faulty flame sensor or thermocouple
+*   Broken or damaged fan blades
+*   Problems with the electrical components
+*   Ignitor flame burning at the incorrect temperature
+
+Grinding
+--------
+
+Grinding HVAC noise indicates a mechanical issue. The most straightforward is a loose blower fan belt rubbing against other components. Fortunately, hiring an HVAC technician to change the fan belt is a relatively quick and affordable fix.
+
+A more serious cause of grinding noises is worn-out compressor pistons. The only solution is to hire an HVAC technician to replace the compressor. Sometimes, it's more cost-effective to replace the entire AC unit.
+
+A grinding noise coming from your furnace is most likely due to a loose or broken squirrel cage blower wheel. Leaving the furnace running can cause further damage, so switch it off as soon as you notice the sound. You'll need to call a professional to repair or place the wheel.
+
+Hissing
+-------
+
+Brief hissing HVAC noises can be normal. However, you shouldn't ignore a persistent hissing noise coming from your air conditioner or other parts of your HVAC system. One of the most common causes of a hissing sound is a refrigerant leak in the lines or AC valve. You may also hear bubbling as the refrigerant escapes.
+
+Hissing can also indicate excess pressure inside the air compressor. Fixing a refrigerant leak or faulty compressor is a job for a professional. Inhaling air conditioner refrigerant could be dangerous, so it's essential to switch off your unit as soon as you hear a prolonged hissing sound and call a technician for repair.
+
+If your furnace is whistling or hissing, you could have a blocked filter. Try replacing the filter. Then, listen to see if the sound continues. If it does, there could be dirt on the heating element. An HVAC technician can clean the element for you to resolve the problem.
+
+Occasionally, a cracked heat exchanger can cause a hissing furnace noise as the gasses inside escape. This is a potential emergency, and you may smell gas or feel unwell if there is a lot of gas in the home. In this situation, turn off the furnace, evacuate your home and call a technician.
+
+**More Related Articles:**
+
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [Does My HVAC Filter Protect Against COVID-19?](https://www.homeserve.com/en-us/blog/home-improvement/hvac-filter-covid-19/)
+*   [Noisy Radiator: Why Does My Heating System Clang?](https://www.homeserve.com/en-us/blog/home-improvement/heating-system-clang/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+
+Popping
+-------
+
+The occasional popping sound from your AC unit is usually nothing to worry about. However, regular popping noises could signify an iced-up unit. Setting your thermostat higher may resolve the issue. If not, it's time to book a professional repair person.
+
+Popping noises can also indicate that there's water inside your AC system, which can seriously damage the components. Don't attempt to fix this problem yourself, as you risk getting an electric shock. Instead, turn off the power and call a technician to repair the unit and fix the leak.
+
+A popping furnace noise can be a sign of a dirty burner or broken air ducts. Continuing to use your furnace can damage other parts of the system, so turn it off until you can get it repaired.
+
+Rattling
+--------
+
+Air conditioners sometimes make rattling noises if the screws are loose. It's worth checking the screws and tightening before calling a technician. Broken fan blades or debris inside the fan can also cause rattling sounds.
+
+A rattling AC could also be caused by a problem with the motor or debris moving around inside your unit. You'll need to call an HVAC company to unclog your system or fix the motor.
+
+A rattling furnace noise often indicates a cracked heat exchanger, which could cause a carbon monoxide leak. You should turn the furnace off right away and book a repair. Alternatively, the sound could be loose connections in your ductwork. If you're sure of the cause, you can try sealing the loose connections yourself or call a technician to do it for you.
+
+Screaming, Screeching and Squealing
+-----------------------------------
+
+Screaming or squealing noises from an AC system indicate a refrigerant leak. Leaving the unit running could cause irreparable damage, so it's essential to turn it off and get it professionally repaired.
+
+There are several reasons that a furnace might make a screaming noise, including a broken blower belt or blower motor. An HVAC technician can usually repair these problems easily, and it's best to deal with the issue as soon as it arises. Otherwise, the broken component could end up causing more serious damage.
+
+Thumping
+--------
+
+If your air conditioner or furnace makes a thumping sound, check to see if there's something stuck in the fan blades. Stuck items can bang against other components as the fan turns, causing a rhythmic thumping noise.
+
+Sometimes, an unbalanced blower wheel can cause a furnace to make thumping sounds. This issue usually stems from not changing the filters often enough, allowing dirt to accumulate on the wheel. An HVAC technician can clean or replace the wheel for you, but you can avoid the issue altogether by replacing your filters regularly.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

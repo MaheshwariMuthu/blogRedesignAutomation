@@ -1,0 +1,59 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Does a Home Warranty cover Garage Door Opener?
+headline: Is a Garage Door Opener covered in a Home Warranty?
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2019-08-27
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: GarageDoorOpenerHS.jpg
+heroAltDescription: Garage Door Control
+metaDescriptions: Follow our guide to garage storage so you can maximize every square foot.
+articleAbstract: When your garage door won’t open it’s a huge inconvenience. Having a home warranty in place can be your rescue.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Does a Home Warranty cover Garage Door Opener?
+  parent: Exterior-Home-Buying-Guide
+---
+
+:::: blog-info
+Whether attached or detached, narrow or multi-car, a garage is a must-have for many of today's homeowners. (I wouldn’t even consider a garage-less home when I was house hunting.) [My garage](/en-us/blog/home-improvement/garage-storage-hacks){target="_blank"} is my everything: car storage, tool shed, amateur wood shop - and, when my wife and I want to watch different shows, a chill-out spot. _(Yes, my man cave, or my preferred term: “he shed")_.
+
+[1]: /en-us/home-warranty/combo/
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+But here's a confession: at times, I take certain small but majorly important aspects of the garage for granted - namely, the garage door opener. About 6 months ago, on a bitterly cold winter day, it wouldn’t open. As I shivered in my car, muttering expletives under my breath, I remembered the system was covered by my home warranty plan. It was fixed in a timely manner. Which is why I heartily recommend that my friends check to see if their home warranty extends to the garage door opener. Because if it's not, you'll want to get one from [TotalHome Warranty by HomeServe](/en-us/home-warranty/combo/){target="_blank"}.
+
+## Common garage door problems (and easy fixes)
+
+Now some common causes of garage door opener issues may be able to be handled by you, especially if your handy. Let's review:
+
+::: list-square
+* ### Incorrect track alignment:
+If the rails of the track your garage door moves on are bent, or if there's a gap between a rail and its corresponding roller, that's a problem, but it may be easy to fix. According to Custom Door & Gate, you should first loosen the screws and then [tap the track back into proper position](https://customoverheaddoors.net/reasons-your-garage-door-wont-work/){target="_blank"} with a rubber mallet. Then check the alignment with a level, and if everything is aligned, put the screws back in extra tight to mitigate the chances of this issue happening again.
+* ### "Photo eye" issues:
+The sensors that stop the door from closing if there's someone or something under it can sometimes get dirty or misaligned, which means the door likely won't close completely. Use a soft cloth and streak-free cleaner on the eyes to get rid of any dirt. If that doesn't work, check to see if the eyes are exactly aligned, tilting them gently as needed, and if something is blocking the signal path, clear it away.
+* ### Manual overrides:
+It's easy to accidentally strike the manual-lock handle or disconnect switch, either of which will prevent proper automatic opening and closing. Fortunately, those are probably the easiest fixes of all!
+:::
+
+If none of those remedies seems to work, it's time to call in the professionals.
+
+[Learn More About Home Warranty Plans Near You](/en-us/home-warranty/combo/){target="_blank"}
+
+## Coverage for the door opener?
+
+Homeowners insurance policies typically do not cover garage door openers. According to _The Balance_, it won't always necessarily be covered by a home warranty either. But some warranties do cover it. Call your home warranty company right away to find out.
+
+## Count on HomeServe
+
+HomeServe is much more than a typical home warranty provider. I was lucky enough to have the [TotalHome Warranty](/en-us/home-warranty/combo/){target="_blank"} Combo Plan for both appliances and systems, and garage door openers fall under the appliances category. The provision for this gives you $1,500 in annual coverage and no limit on service calls.
+::::
+
+See how [plans from TotalHome Warranty by HomeServe](/en-us/home-warranty/combo/){target="_blank"} can help with the costs of covered appliance and home system repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}

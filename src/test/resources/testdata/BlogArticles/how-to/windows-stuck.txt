@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Window Stuck? Try These 5 Fixes"
+headline: "Window Stuck? Try These 5 Fixes"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2024-01-22
+basePath: https://library.homeserve.com/m/
+heroImage: 705b4280fc6f4ff2/Blog-GettyImages-503699967.jpg
+heroAltDescription: "Repairing a window frame"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Whatever the cause of your stuck window, the following tips can help you unstick your window and get it moving smoothly."
+articleAbstract: "When you're desperate for fresh air, it's a real pane to discover you have a stuck window. Whatever the cause, the following tips can help you unstick your window and get it moving smoothly."
+category: ["How To"]
+eleventyNavigation:
+  key: "Window Stuck? Try These 5 Fixes"
+  parent: Exterior-Home-How-To
+---
+  When you're desperate for fresh air, there's nothing worse than discovering a stuck window. Some windows appear to stick out of the blue, while some homeowners have vintage windows that never work correctly.
+
+**This May Also Interest You:** [**How Much Does Window Replacement Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/window-replacement-cost/)
+
+Whatever the cause, the following tips can help you unstick your window and get it moving smoothly.
+
+Why Is My Window Stuck?
+-----------------------
+
+Several issues can cause a stuck window. Often, painting the window frames causes them to stick to the window sash as the paint dries — that's why experts advise opening and shutting a window regularly after painting. Moisture can also cause window frames to warp, leading to stuck windows.
+
+Dust and dirt can interfere with your window's opening mechanisms by creating friction on the tracks or accumulating on the hinges. Dirt could be to blame if the handle moves but the window won't open. Alternatively, you could have a fault with your window handle or gasket.
+
+Occasionally, windows that won't open can signify a more serious structural issue. Subsidence happens when your home's foundation sinks, causing the house to move. If you have subsidence, you may notice cracks in the walls and have problems opening and shutting your windows and doors. If the following tips don't work or multiple windows develop a problem, consider calling an expert for diagnosis.
+
+5 Ways to Fix a Stuck Window
+----------------------------
+
+How to fix a stuck window depends on the cause. Try the following tricks to find the reason for your stuck window and get it open again.
+
+### 1\. Remove Paint Buildup
+
+If you've recently painted your window frame (or have a painted window that's never worked), you may need to cut the paint to release the window. Use a utility knife or putty knife to score the paint between the framing materials and the window sash. Continue around the perimeter of the sash, and try opening the window.
+
+### 2\. Use a Hammer
+
+You may need to use more force to remove thick or tightly bonded paint. If you're willing to risk breaking the glass, you can try wrapping a hammer in a cloth and tapping it carefully against the frame to loosen the seal. Alternatively, place a wood block against the window frame and tap it gently with a hammer, moving it around the entire perimeter of the window.
+
+### 3\. Try a Hairdryer
+
+Heating the window frame and sash can help dry out a stuck window if your wooden frames are swollen with water. Put your hairdryer on its hottest setting, and apply hot air to the window frame and sash, spending several minutes on each area. Next, try opening the window. You may need to repeat these steps several times to open a particularly stubborn window.
+
+**More Related Articles:**
+
+*   [How to Remove a Window](https://www.homeserve.com/en-us/blog/how-to/remove-window/)
+*   [How to Measure for Replacement Windows](https://www.homeserve.com/en-us/blog/how-to/measure-replacement-windows/)
+*   [What Are ‘Plantation Shutters’ … and What’s Up With That Name?](https://www.homeserve.com/en-us/blog/home-improvement/plantation-shutters/)
+*   [How Much Does It Cost to Install Plantation Shutters](https://www.homeserve.com/en-us/blog/cost-guide/plantation-shutters/)
+*   [Here’s How to Apply Plastic Film to Insulate Your Windows](https://www.homeserve.com/en-us/blog/how-to/window-insulation-film-installation/)
+
+### 4\. Clean the Window Tracks
+
+Double-hung windows move on tracks. Over time, dust and grime can accumulate on the tracks and cause the window to stick. You can clean the tracks by vacuuming any loose debris and wiping them with a damp cloth. Apply furniture wax to wooden window tracks, or use a household cleaning spray for vinyl frames. Cleaning your window tracks regularly can help fix a stuck window and prevent it from sticking in the future.
+
+### 5\. Repair the Sash Mechanism
+
+Older windows often have a cord and pulley system designed to open and shut the window. These systems can break and jam, making it harder to open and close the window. You may also notice the window slamming shut when you attempt to open it. If you have a cord and pulley system on your double-hung window, examine it carefully for faults. Repairing or replacing the system should allow you to operate your window normally.
+
+Should I Force My Window Open?
+------------------------------
+
+Some online guides suggest using a crowbar to force a stuck window open. Forcing your window open could damage the frame and sash or shatter the glass, so you should only consider this option as a last resort. Generally, it's wise to call a professional instead of resorting to a crowbar. If the above methods don't work, a professional can use specialized tools to open your window without damaging the fixture. They may recommend repairing a faulty handle or gasket to fix the issue.
+
+How to Prevent Stuck Windows
+----------------------------
+
+Caring for your windows correctly reduces the risk of a stuck window. Lubricating the tracks regularly can help the window move smoothly, but using the right lubricant for the window material is essential. Use wood wax for wooden window frames and silicone lubricant for vinyl. Alternatively, you could consider a dry lubricant. Dry lubricants are dust-resistant and come in multiple color options to match your window frames.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/I_p4dkZ3TpU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Window Wells | How to Clean and Maintain a Basement Window Well"></iframe>

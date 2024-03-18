@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Samsung Dryer Error Codes"
+headline: "Samsung Dryer Error Codes"
+author: Tracey Rosenblath
+tags: ["post"]
+publishDate: 2023-05-30
+basePath: https://library.homeserve.com/m/
+heroImage: 4a02d36375c0f745/Blog-12_Silver-scaled.jpg
+heroAltDescription: "laundry room with stacked washer and dryer"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Don’t let dryer issues get you hot under the collar. Learn what the common Samsung dryer error codes mean so you can troubleshoot your dryer."
+articleAbstract: "Don’t let dryer issues get you hot under the collar. Learn what the most common Samsung dryer error codes mean so you can troubleshoot your dryer and fix the issue."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Samsung Dryer Error Codes"
+  parent: Appliances
+---
+  A malfunctioning dryer can be a frustrating experience, especially when you’re running late, and your clothes won’t dry fast enough.
+
+**This May Also Interest You:** [**How Do I Reset My Samsung Refrigerator?**](https://www.homeserve.com/en-us/blog/how-to/reset-samsung-refrigerator/?gm-vt=1)
+
+Don’t let dryer issues get you hot under the collar. Learn what the most common [Samsung dryer error codes](https://www.samsung.com/us/support/troubleshooting/TSG01207445/) mean so you can troubleshoot your dryer and fix the issue.
+
+What Is an Error Code?
+----------------------
+
+If your Samsung dryer has a digital display, an error code will appear when your appliance isn’t functioning correctly. Although it can be frustrating to see a screen filled with a series of letters and numbers, a Samsung dryer error code can help you diagnose the problem quickly.
+
+Common Samsung Dryer Error Codes
+--------------------------------
+
+Some Samsung dryer codes are easy to decipher, with one of the letters in the code indicating where the problem lies, while others aren’t quite so straightforward. This list of the most common Samsung dryer error codes can help you crack the code, so you’ll know where to look and what to do to get your dryer up and running again.
+
+* **bE/bE2/bC2/6E/6E2/6C2:** These error codes indicate that a button on your user control panel may be jammed or stuck. Turn your dryer off and inspect the buttons. If you can see the jammed button, press around the edges to see if it pops back into place. If you can’t easily see which button is causing the problem, turn your dryer off and press each button from all angles working from right to left and back again, or run your fingers across each button while pressing firmly.
+* **dC/dE/dF/do/d0/1 DC/1 dF:** You’ll see these Samsung dryer codes if your dryer's latches or sensors aren't functioning properly. Check the latch to ensure it hasn’t become loose, and make sure there isn’t any laundry blocking the dryer door. Then, turn your dryer off and on again. If that doesn’t work, the latch might need to be replaced.
+* **AC/Et/AE/EEE/AE4/AE3/AE5/E3/1 AC:** If you see any of these error codes on your display, it means your dryer’s components aren’t communicating properly. Try turning your dryer off for a minute or two and then turning it back on.
+* **HC/hE/HC4/1 HC:** These Samsung dryer codes mean your dryer is too hot and overheating, which could be caused by a clogged lint screen or vent system. To fix heating errors, clean your lint tray and vacuum your vents.
+* **tS/t5/tC/tO/t0/tE/tE3/tC5/tCS/1 tC/1tC5/1tCS:** You’ll see one of these error codes if there’s an issue with your dryer’s temperature or temperature sensors. Temperature errors occur when a clogged lint tray or vent system traps heat in the dryer and causes it to overheat. Clean your lint tray and vacuum your vents to fix the issue.
+* **Cl/Cl1/Clg/Cl9/Cg/C9/C80/C8o/C8/C90/C9o/Ct/0/End:** If you’ve run a [vent blockage test](https://www.samsung.com/us/support/answer/ANS00062855/), you’ll see one of these codes on your digital display. These codes will disappear on their own within 5 minutes, but you can clear them sooner by turning your dryer off. The following is a breakdown of the test results and what they mean:
+    * **0/END:** You'll see this result when there are no clogs in your dryer vent. You’re good to go.
+    * **Clg or CG:** These test results mean there’s a clog somewhere in your vent system that needs to be cleared.
+    * **C8 or C80:** This blockage test result means your vent is 80% clogged. Clean your vent system, so your dryer can run as intended.
+    * **C9 or C90:** If you see either of these codes, it means your vent system is 90% clogged. Vacuum your dryer vent to remove the clog.
+    * **Ct:** This means the temperature in your dryer is either too high or too low to run the test. Wait an hour to let your dryer get to room temperature before running the test again.
+* **9C1/9E/2E/9E1:** These Samsung dryer error codes mean there’s an abnormality with the voltage being supplied to your dryer. Make sure your dryer is on its own circuit, and remove any extension cords. If you have an electric dryer, make sure the power cord is connected correctly and use a multimeter to ensure it’s supplying the correct amount of voltage.  You may also see this error if you’ve moved your dryer from one country to another. Voltages vary between countries, so if this is the case, you’ll need to buy a new dryer in your current country of residence.
+* **FC/FE/1 FC:** When you see these error codes, a frequency error with your dryer is preventing it from working properly. It could indicate an invalid power source frequency, a wiring issue or an inconsistent power source. Try restarting the cycle.
+
+**More Related Articles:**
+
+*   [Samsung Smart Washers and Dryers: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-washer-dryer/)
+*   [How Much Do Samsung Smart Refrigerators Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-refrigerator/)
+*   [Everything You Need to Know About Samsung Smart Microwaves](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-microwave/)
+*   [Samsung Smart Ranges: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-range/)
+*   [How Much Do Samsung Smart Ranges Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-range/)
+
+Do I Need to Call a Repair Tech, or Can I Fix These Errors on My Own?
+---------------------------------------------------------------------
+
+Most of these Samsung dryer error codes are simple fixes. Turning your dryer off and on again, pressing a few buttons or cleaning your lint screen and vent system can fix most issues. If the error codes don’t go away, it’s time to call a repair technician to service your unit.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/Ss3da5F_Nk4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Clean Your Dishwasher (Properly)"></iframe>

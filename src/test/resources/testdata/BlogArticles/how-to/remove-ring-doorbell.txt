@@ -1,0 +1,134 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Remove a Ring Doorbell"
+headline: "Take a Ring Off It: How to Remove a Ring Doorbell"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2021-06-28
+basePath: https://library.homeserve.com/m/
+heroImage: 1ca9dbd9df36bf2c/webimage-ring_video_doorbell_wired_pro_installation_1000x1000.png
+heroAltDescription: "A second generation Ring video doorbell with a specialty tool being used to remove the battery"
+metaDescriptions: "Need to remove your Ring Video Doorbell? Follow these steps."
+articleAbstract: "You might want to move your Ring Video Doorbell to a different location, swap it out with another of Ring’s eight models or install a different video doorbell system entirely. Whatever the reason, follow these steps to remove your Ring."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0943
+stickyDisplayText: Call today for a local electrician.
+lightboxCopy: Local electrician pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/electricians/hs/expert
+  large:
+      image: /en-us/assets/images/blog/electric_elocal_banner1.jpg
+      alt: Electric eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/electric_elocal_banner2.jpg
+      alt: Electric eLocal Banner 2
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Remove a Ring Doorbell"
+  parent: Electrical-How-To
+---
+  **Removing a Ring Doorbell at a Glance**
+
+* **Step 1:** Turn off power
+* **Step 2:** Unscrew faceplate
+* **Optional:** Take out battery
+* **Step 3:** Remove doorbell from wall
+* **Step 4:** Remove wires
+
+Part doorbell, part home security device, [Ring Video Doorbells](https://ring.com/doorbell-cameras) are innovative smart video doorbell systems that offer a host of benefits to the modern homeowner. With Ring’s dedicated smartphone app, you can see and communicate with whoever’s at your front door. You’ll also receive notifications when someone passes by its integrated motion sensors — even when you’re miles away from home.
+
+**This May Also Interest You:** [**How to Recharge a Ring Doorbell**](/en-us/blog/how-to/recharge-ring-doorbell/)
+
+So why would you want to remove it? Well, you might want to move the doorbell to a different location, swap it out with another of Ring’s eight models or install a different video doorbell system entirely. Whatever the reason, use the following steps to remove your Ring Video Doorbell simply and easily.
+
+Types of Ring Doorbells
+-----------------------
+
+Ring doorbells are available in two configurations: wired and wireless (battery-powered). Within these two categories, there are eight separate models with their own unique features. According to [Ring](https://ring.com/), these include:
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+### Wired Ring Doorbells
+
+*   Ring Doorbell Wired
+*   Ring Doorbell Pro
+*   Ring Doorbell Pro 2
+*   Ring Doorbell Elite
+
+### Battery-Powered Ring Doorbells
+
+*   Ring Doorbell (2nd Generation)
+*   Ring Doorbell 3
+*   Ring Doorbell 3 Plus
+*   Ring Doorbell 4
+
+The wired units are powered by your home’s existing doorbell wiring, while the battery-powered models run off an internal battery. Some battery-powered units provide the option of tapping into your home’s doorbell wiring as well.
+
+How to Remove a Ring Doorbell
+-----------------------------
+
+The removal process can vary slightly from model to model, but these steps are fairly similar for all the units:
+
+### Step 1: Turn Off the Power
+
+If you have a Ring doorbell that’s connected to your home’s doorbell wiring, shutting off the electricity to your Ring doorbell before it’s removed will ensure that you aren’t shocked during the procedure.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+To do this, turn off the breaker that controls your doorbell wiring on your home’s main electrical panel. If the doorbell breaker isn’t clearly marked, you can either turn off the main breaker to shut off power to your whole home for the duration of the procedure or contact an electrician that can identify the appropriate breaker.
+
+### Step 2: Remove the Faceplate Cover
+
+The faceplate cover is the portion of the Ring doorbell that encases the majority of the Ring doorbell. It protects the internal electrical components (battery, wiring, etc.) from the elements, conceals the screws holding it to the wall and makes the doorbell more visually appealing. Removing the faceplate covers is basically the same process for all the models, with the exception of the Wired and Elite units. The Elite model has no faceplate cover.
+
+The Ring doorbell (2nd Generation), Pro, Pro 2 and battery-powered Ring doorbell models 2 through 4 are all equipped with faceplates that cover the bottom three-fourths of the doorbell. They are also secured to the doorbell with a single, star-shaped “security screw” on the very bottom of the unit.
+
+To remove these faceplates:
+
+*   Use the screwdriver that was provided with your Ring doorbell. It should have a two-sided screwdriver bit: one with an X-shaped Phillips head and the other with a star-shaped Torx bit.
+*   Locate the security screw on the very bottom of the base plate, and unscrew it. If you’ve misplaced the screwdriver, you can use a T6 Torx bit on a different screwdriver or power drill instead.
+*   Detach the faceplate from the tabs holding it in place by gently pulling the bottom of the faceplate up and out at a roughly 45-degree angle.
+
+#### Removing the Wired Model’s Faceplate
+
+The faceplate of the Wired model wraps around the outside perimeter of the doorbell instead of covering the entire front surface of the faceplate. Instead of a security screw, the faceplate is only secured to the base with plastic tabs that click in and out of place.
+
+To detach these faceplates, hold both sides of the doorbell and gently push through the middle of the until the faceplate has successfully detached. Avoid applying too much force to prevent damaging the tabs or faceplate.
+
+**More Related Articles:**
+
+*   [How to Install a Video Doorbell](/en-us/blog/how-to/install-video-doorbell/)
+*   [How to Set Up a Ring Doorbell](/en-us/blog/how-to/setup-ring-doorbell/)
+*   [How Much Does a Home Security System Cost?](/en-us/blog/cost-guide/how-much-does-a-home-security-system-cost/)
+*   [What Are the Best Home Security Gadgets?](/en-us/blog/buying-guide/best-home-security-devices/)
+*   [Protect Your Home With These Security Systems](/en-us/blog/buying-guide/best-smart-home-security-systems/)
+
+### Optional: Remove the Battery
+
+Taking out the battery isn’t required to remove the entire doorbell, but you may wish to do so if you need to recharge it. With the faceplate cover removed, locate the silver, rectangular tab on the bottom of the doorbell labeled “push.” You simply need to press on this tab and slide the battery out.
+
+### Step 3: Remove the Ring Doorbell From the Wall
+
+The Ring doorbell Wired, Pro, Pro 2 and battery-powered models 2 through 4 are directly secured to the wall with four Phillips-head screws, two on each side. You can either remove these screws with the Phillips head bit attached to the provided screwdriver or use your own screwdriver or power drill to remove these screws.
+
+#### Removing Models Secured to Mounting Brackets
+
+The Ring doorbell (2nd Generation) and Elite models aren’t attached directly to the wall; they’re clipped into a rectangular wall mount bracket. The mounting bracket is screwed into the wall with four Phillips-head screws on each of the outside corners. These doorbells can be removed by gripping the bottom of the doorbell and gently pulling up and out at a 45-degree angle.
+
+From there, remove the battery-powered Ring doorbell (2nd Generation) by unscrewing the mounting bracket screws and removing the bracket. You can either remove the screws on the mounting bracket now, or you can wait until you remove the wires in the next step.
+
+### Step 4: Remove the Wires (If Applicable)
+
+Wired Ring doorbells will have two electrical wires connected to them. Models that are attached to the wall with a mounting bracket will have the wires connected to the bracket, while models secured directly to the wall will have the wires connected to the back of the unit itself.
+
+In either case, the end of each wire will be connected to a single Phillips-head screw, called a “terminal screw.” The terminal screw’s Phillips head on wall mounting brackets is located on the front (facing you), while all other models will have the terminal screw’s Phillips head located on the back. Loosen each screw with a Phillips-head screwdriver and pull the wires out. If the screws securing the wall mounting bracket to the wall haven’t been removed yet, you can remove them now.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

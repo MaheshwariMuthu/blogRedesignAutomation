@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Samsung Smart Washer and Dryer Features"
+headline: "Samsung Smart Washers and Dryers: Smart Features and How They Work"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-10-11
+basePath: https://library.homeserve.com/m/
+heroImage: 76b18cdb44628bec/webimage-SamsungSmartDryer_ManufacturerImage_0002-jpg.png
+heroAltDescription: "Samsung smart clothes washer dryer"
+metaDescriptions: "Find out how Samsung smart washers and dryers work, including information about their features and connectivity. "
+articleAbstract: "This article explains how Samsung washers and dryers work and describes their features. It also explains how to connect your Samsung smart washer to your phone. "
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Samsung Smart Washers &amp; Dryers: Smart Features &amp; How They Work"
+  parent: Appliances-Buying-Guide
+---
+  
+
+_Manufacturer image_
+
+If the time has come to replace your old appliances, it might be worth considering upgrading to a smart washer and dryer. There are plenty of options available that let you control your appliance remotely from your smartphone, and many come with extra features to make laundry day more convenient. 
+
+**This May Also Interest You:** [**Should You Repair or Replace Your Washing Machine?**](https://www.homeserve.com/en-us/blog/home-improvement/washing-machine-repair-replacement/)
+
+One of the best-known companies producing smart appliances is the technology giant Samsung. Samsung smart washers and dryers can be controlled from anywhere using the [SmartThings app](https://www.smartthings.com), and they boast plenty of handy functions.
+
+How Does a Samsung Smart Washer Work?
+-------------------------------------
+
+A Samsung smart washer has integrated Wi-Fi that lets you control it directly from your smartphone or another mobile device. This feature lets you schedule, start and stop cycles from anywhere and alter the settings. 
+
+Samsung's smart washers also feature a single control knob called a Smart Dial. This dial controls all of the washer's cycles, reducing the visual clutter of multiple knobs and making it quick and straightforward to configure. The Smart Dial uses artificial intelligence to remember your laundry habits and automatically suggests your favorite cycles and settings. 
+
+How Does a Samsung Smart Dryer Work?
+------------------------------------
+
+Like the smart washers, Samsung smart dryers can also connect to your smartphone using the SmartThings app so that you can set cycles remotely. It also has a Smart Dial that makes intelligent cycle suggestions using its memory of your drying habits. You can control your Samsung smart dryer directly from your washer if you stack it on top of a Samsung smart washer. There are both gas and electric models available so that you can choose the best option for your setup.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2ff11cf85f91a078/Blog-SamsungSmartWasherDryer_ManufacturerImage_0001.jpg" alt="Samsung smart clothes washer dryer"/>
+
+_Manufacturer image_
+
+What Features Do Samsung Smart Washers and Dryers Have?
+-------------------------------------------------------
+
+Samsung smart washers and dryers come with a wide range of features, and which ones you get depends on the model you select. The most affordable models come with a couple of advanced features, and the most expensive models integrate all of Samsung's smart washing and drying technologies into a single unit. 
+
+Many Samsung smart washers feature a Super Speed Washer function that lets you finish a full laundry cycle in [around 28 minutes](https://www.samsung.com/us/home-appliances/washers/front-load/5-0-cu-ft-extra-large-capacity-smart-dial-front-load-washer-with-optiwash-in-brushed-black-wf50a8800av-us/). If you pair your washer with a Samsung smart dryer with a Super Speed Dryer setting, you could wash and dry a laundry load in under an hour. However, bear in mind that the exact washing and drying time depends on the size and type of the load. 
+
+Some washer models also come with an OptiWash function that automatically senses how dirty your laundry is. If it's heavily soiled, it will add extra washing or rinsing time to ensure that your load comes out completely clean. It can also auto-dispense additional detergent to tackle dirt if necessary. Certain top-opening Samsung smart washers feature a water jet that lets you rinse out soiling and stains straight into the laundry drum before putting items into the drum for a wash cycle. 
+
+Some Samsung smart dryer models have an integrated Sensor Dry feature. This function detects the moisture in your clothes to select the best temperature and cycle duration to prevent damage to your clothes and maximize energy efficiency. Certain models also feature a steaming function to sanitize and deodorize clothes during the drying cycle. 
+
+Samsung smart washers and dryers offer quick and convenient troubleshooting via the app. Once you've connected your appliances, the app can run tests to diagnose common problems and suggest suitable fixes. 
+
+**More Related Articles:**
+
+*   [Should You Repair or Replace Your Clothing Dryer?](https://www.homeserve.com/en-us/blog/home-improvement/dryer-repair-replacement/)
+*   [Here’s How to Change the Direction the Door Swings on Your Washer and Dryer](https://www.homeserve.com/en-us/blog/how-to/reverse-washer-dryer-door/)
+*   [How to Move Your Clothes Dryer](https://www.homeserve.com/en-us/blog/how-to/move-clothes-dryer/)
+*   [How to Move Your Washing Machine](https://www.homeserve.com/en-us/blog/how-to/move-washing-machine/)
+*   [How to Clean a Washing Machine Drain](https://www.homeserve.com/en-us/blog/how-to/clean-washing-machine-drain/)
+
+How Do I Connect My Samsung Smart Washer or Dryer to My Phone?
+--------------------------------------------------------------
+
+You'll need to install the [SmartThings app](https://www.smartthings.com) on your smartphone before you can connect to your smart washer or dryer. If you don't already have an account, you'll need to set one up.
+
+Sign in using your login credentials and then tap the plus sign. Select “Device” and then select “Samsung” from the brand menu. Finally, tap the “Washer” or “Dryer” icon, depending on which appliance you want to add. The app will then provide instructions to help you complete the setup process. 
+
+Once you've finished setting up your Samsung smart washer and dryer on the SmartThings app, it will remember them automatically. You can then access each appliance straight from the app's homepage.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/9kRdywIhBgQ?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

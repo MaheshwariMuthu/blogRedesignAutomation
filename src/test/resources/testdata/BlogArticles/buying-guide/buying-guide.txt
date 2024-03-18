@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Buying Guide
+  parent: Blog
+  url: /en-us/blog/category/buying-guide/
+permalink: false
+---

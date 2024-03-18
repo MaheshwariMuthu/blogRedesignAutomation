@@ -1,0 +1,46 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Goodman Manufacturing Company Recalls 300,000 Furnace Evaporator Coil Drain Pans Because They Can Overheat and Burn"
+headline: "Goodman Manufacturing Company Recalls 300,000 Furnace Evaporator Coil Drain Pans Because They Can Overheat and Burn"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-11-20
+basePath: https://library.homeserve.com/m/
+heroImage: 27dfea6d34c5a44a/Blog-EvaporatorCoilDrainPanRecall_GoodmanManufacturing.jpg
+heroAltDescription: "A recall photo showing a molded plastic drain pan located at the bottom of an evaporator coil that is installed with a residential condensing gas furnace."
+metaDescriptions: "About 298,300 evaporator coil drain pans have been recalled by Goodman Manufacturing Company due to a fire hazard."
+articleAbstract: "About 298,300 evaporator coil drain pans have been recalled by Goodman Manufacturing Company due to a fire hazard. Here’s how to know whether your drain pan is involved in this recall, and how to get your free repair. "
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Goodman Manufacturing Company Recalls Evaporator Coil Drain Pans Installed with Condensing Gas Furnaces Due to Fire Hazard"
+  parent: HVAC-Home-Improvement
+---
+  About 298,300 evaporator coil drain pans have been recalled by Goodman Manufacturing Company due to a fire hazard. The drain pans were installed with residential condensing gas furnaces. Here’s how to determine whether your drain pan is involved in this recall and how to get your free repair.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+The [Consumer Product Safety Commission](http://cpsc.gov) said the drain pans are located at the bottom of the evaporator coil. When they’re installed with a condensing gas furnace in an up-flow — vertical — configuration, they can overheat, melt or deform. According to the Nov. 18 [recall announcement](https://www.cpsc.gov/Recalls/2022/Goodman-Manufacturing-Company-Recalls-Evaporator-Coil-Drain-Pans-Installed-with-Condensing-Gas-Furnaces-Due-to-Fire-Hazard), Goodman has received 23 reports of fires involving the drain pans. No injuries have been reported. The fires resulted in “significant fire and smoke damage to residences.”
+
+Installation dates range from January 2019 to November 2021. Affected drain pans were assembled with evaporator coils with serial numbers between 1901 and 2101. The drain pans were also sold as replacement parts in the same timeframe, so the coil serial number may not fall within this range.
+
+The drain pans were manufactured in the U.S. and sold by independent heating and cooling equipment dealers nationwide for $200 to $1,200 each. In addition, about 44,000 units were sold in Canada. The drain pan may have come in a bundle when you installed your furnace, or you may have had to purchase it separately from a technician as a service part.
+
+Your evaporator coil may be cased or uncased. On cased models, the serial number is listed on a label attached to the coil case. To find the serial number on an uncased model, look for the label attached to the front of the coil. The easiest way to determine if your system is subject to this recall is to use Goodman’s [model verification tool](https://www.recallrtr.com/drainpan), which provides step-by-step instructions.
+
+To register for a free repair, call Goodman at 888-520-0579 or contact the Houston, Texas-based company using its [website](https://www.goodmanmfg.com/about/contact-us). When you register, you may have to provide the brand and model number of your furnace in order to determine the correct repair kit for your product. This information is usually listed on the “Energy Guide” label. You may also need to supply the model number of the outdoor condenser that’s paired with your furnace, which is printed on a label attached to the unit.
+
+For more consumer product safety information, go to [cpsc.gov](http://cpsc.gov).
+
+**More Related Articles:**
+
+*   [Recall Alert: Amazon Recalls AmazonBasics Mattresses That Violate Federal Flammability Standard](https://www.homeserve.com/en-us/blog/home-improvement/amazon-basics-mattress-recall/)
+*   [Don’t Get Nailed! Hart Consumer Products Recalls Nail Guns Due to ‘Involuntary Discharge’ Injury Risk](https://www.homeserve.com/en-us/blog/home-improvement/hart-nailers-recall/)
+*   [Carbon Monoxide Warning: Usines Giant Factories Recalls Water Heaters With Control Valves That Pose Risk of CO Release](https://www.homeserve.com/en-us/blog/home-improvement/usines-giant-factories-water-heater-recall/)
+*   [Tipping and Entrapment Hazard: Magnussen Home Recalls 13,200 Chests of Drawers](https://www.homeserve.com/en-us/blog/home-improvement/magnussen-chests-recall/)
+*   [Lacerations Reported in Recall of Liberty Hardware Glass Cabinet Knobs](https://www.homeserve.com/en-us/blog/home-improvement/glass-cabinet-knobs-recall/)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?start=6&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

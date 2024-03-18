@@ -1,0 +1,89 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Your Home's Natural Gas System Works"
+headline: "How Your Home's Natural Gas System Works"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-28
+basePath: https://library.homeserve.com/m/
+heroImage: 77240607408be46d/Blog-TeapotOnStove_MSchmitz_0001.jpg
+heroAltDescription: "A stainless steel teapot sits atop one of the burners of a gas powered stove with a blue flame underneath"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A well-maintained natural gas system is essential for your family's safety, so it's worth understanding how it works. Here’s an overview."
+articleAbstract: "A well-maintained natural gas system is essential for your family's safety and to keep your home running efficiently, so it's worth understanding how it works. Here’s an overview."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Your Home's Natural Gas System Works"
+  parent: Interior-Home-Home-Improvement
+---
+  
+
+Around [half of all Americans](https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php) use natural gas to fuel their heating and hot water systems, but few stop to think about how their homes' natural gas systems function. A well-maintained natural gas system is essential for your family's safety and to keep your home running efficiently, so it's worth understanding how it works.
+
+**This May Also Interest You:** [**Here’s How to Turn Off Your Gas Supply Valves**](https://www.homeserve.com/en-us/blog/how-to/gas-shutoff-valve/)
+
+Ever wonder how natural gas gets to your home and makes its way to your gas-fueled appliances? Here’s an overview.
+
+Your Home's Natural Gas System
+------------------------------
+
+Many homeowners choose natural gas as a fuel source to power appliances like water heaters and ranges because it's often more efficient than running similar appliances on electricity. Fuel companies extract natural gas from underground, distributing it through pipe networks to your home. Your home has its own natural gas system made up of a gas meter and a branching network of supply lines that delivers gas to your appliances.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2befa2796e2712ae/Blog-HomeServeUSA-Day1-MODERNFOTOGRAPHICbyDAVENOONAN-309of338.jpg" alt="gas line shot"/>
+
+How Does Natural Gas Get to My Home?
+------------------------------------
+
+Natural gas is a fuel composed of methane and several other components. It occurs naturally under the earth's surface and can be extracted by drilling deep wells or fracking, a process that involves cracking stone formations to extract the natural gas inside.
+
+Companies collect the gas and refine it to remove oil, water and impurities. They may also burn off potentially dangerous gasses before sending it for distribution via a local gate station. Natural gas is odorless, so the gate station usually adds an odorant to give it a distinctive, unpleasant smell so you can detect a gas leak in your home if necessary.
+
+The gas is then ready to be piped to homes. It travels from the gate station along distribution pipelines to a local gas main that supplies a particular neighborhood. The gas main distributes the gas along small service lines to supply individual dwellings, entering your home via the gas meter.
+
+<img class="detail-image" src="https://library.homeserve.com/m/5a3b1422fcd4900b/Blog-HomeGasMeter_MDavis_IMG_7629.jpg" alt="Gas meter in basement"/>
+
+What Are the Different Parts of a Home's Natural Gas System?
+------------------------------------------------------------
+
+Your gas meter is one of the main parts of your natural gas system. The meter tracks your fuel use and contains a pressure regulator to achieve a lower pressure safe for household use.
+
+Another critical component of a home's natural gas system is the pipes, known as natural gas lines. Gas flows along a natural gas line from your meter inside your home. This supply line branches out into separate branch lines to fuel each gas-powered appliance. Drop lines supply gas downward to appliances below the supply line, while risers carry gas upwards to appliances above the line.
+
+Your home has two shutoff valves — one on the street side and one inside the house that's typically located on the supply pipe shortly after it enters your home. These valves let you shut off the gas quickly in the event of a gas leak.
+
+Most gas-powered appliances also have an individual shutoff valve a short distance from the appliance. These valves let you turn off the supply to repair or replace the appliance without shutting off the gas to your entire house.
+
+Most branch lines have a sediment trap where the line connects to the appliance, which is sometimes known as a dirt pocket or drip leg. A sediment trap is a downward extension of the drop or riser line. Gravity causes any water, dirt or sediment to fall into the sediment trap, preventing it from getting inside your appliance.
+
+<img class="detail-image" src="https://library.homeserve.com/m/7a49bedcee0cd800/Blog-GasMainShutOff_Erossi_0464.jpg" alt="a close up of a residential gas line shutoff"/>
+
+**More Related Articles:**
+
+*   [How Much Do Utilities Cost?](https://www.homeserve.com/en-us/blog/cost-guide/utilities/)
+*   [How to Install or Replace a Gas Water Heater](https://www.homeserve.com/en-us/blog/how-to/install-gas-water-heater/)
+*   [How to Relight Your Water Heater’s Pilot Light](https://www.homeserve.com/en-us/blog/how-to/light-water-heater-pilot-light/)
+*   [Gas Stove Vs. Electric Stove: Which Is Best For You?](https://www.homeserve.com/en-us/blog/buying-guide/gas-vs-electric-stove/)
+*   [How to Relight Your Furnace Pilot Light in 5 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/pilot-light-furnace/)
+
+What Do Natural Gas Pipes Look Like?
+------------------------------------
+
+Steel is the most commonly used material for making natural gas lines, and the lines are usually black with metallic connectors. Copper, brass or corrugated stainless steel tubing are sometimes used, although copper is prohibited in some areas. You may also have flexible connectors that connect your appliances to the pipes.
+
+Natural gas pipes are usually concealed in walls or ceilings, although flexible connectors cannot be concealed. You can't install gas pipes in ducts or chimneys because doing so would cause a fire risk.
+
+How Is Natural Gas Converted to Energy?
+---------------------------------------
+
+The natural gas flowing through your gas system is more pressurized than the air inside your home. Therefore, it flows into the surroundings when you turn on an appliance like a hob ring. A continuously-lit pilot light or an ignition spark ignites the gas, which provides fuel for a blue flame.
+
+What Appliances Use Natural Gas?
+--------------------------------
+
+Various household appliances use natural gas as fuel. These include:
+
+* **Clothes dryers**: Gas dryers typically produce more heat than electric models and dry your clothes faster, making them a more efficient option.
+* **Furnaces:** Gas furnaces are a popular option because they are highly fuel-efficient and heat your home relatively quickly.
+* **Stoves, ranges and ovens**: Ovens and stoves powered by natural gas tend to heat up faster than those with electric elements and let you instantly adjust the heat setting.
+* **Water heaters:** You can purchase gas-powered water heaters with a storage tank or tankless models that heat water on demand.

@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "8 Reasons You Have No Hot Water"
+headline: "No Hot Water? Here Are 8 Possible Causes"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-09-16
+basePath: https://library.homeserve.com/m/
+heroImage: 2b8f42e11283b752/Blog-GettyImages-184872747.jpg
+heroAltDescription: "thermostat"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Losing your hot water can be concerning. Here are eight possible reasons your hot water has run out on you."
+articleAbstract: "Losing your hot water can be pretty concerning but, luckily, it's usually easily solved. Here are eight possible reasons your hot water has run out on you."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "No Hot Water? Here Are X Possible Causes"
+  parent: Plumbing-Home-Improvement
+---
+  Along with streaming Netflix and having light flood a room when we flick a switch, having hot water flow from our taps and showerheads whenever we want is an oft-overlooked modern miracle of homeownership. That's why, when that flow goes cold, it can be shocking — and not just in a "Wow, that's freezing" kind of way while you're in the shower.
+
+**This May Also Interest You:** [**Why Does My Water Heater Smell Like Rotten Eggs?**](https://www.homeserve.com/en-us/blog/home-improvement/water-heater-smell/)
+
+Losing your hot water can be pretty concerning for a variety of reasons, but luckily, the solutions are usually pretty simple. Here are eight possible causes as to why your hot water has abandoned you.
+
+Water Leak
+----------
+
+Before hot water reaches your taps and showerheads, it needs to spend some time in your water heater. This appliance, which can be either gas- or electric-powered, takes the cold water that enters your home from your well or utility company and cooks it until it gets hot. It's akin to an electric tea kettle.
+
+Obviously, if your water heater is leaking, it will never fill with water so it won't have anything to warm. To see if this is the case, simply examine the area around the water heater to see if it is wet. If so, you'll likely need to replace the unit, but you can also call in a pro for a second opinion and to see if it is fixable. Sometimes leaks can happen around fixtures on the water heater, and if so, the solution might be as simple as replacing them.
+
+Gas Heater: Gas Leak
+--------------------
+
+If your hot water is fueled by natural gas and there is a leak in the supply line or where the line enters the tank, the appliance won't have the power it needs to heat up your water. The result is not only inconvenient, but it can be extremely dangerous as well. If you smell gas when you investigate your water heater, call your gas utility company immediately and report it as an emergency. It might also be prudent to leave your home until a repair person from the company arrives. Your utility company will usually fix any kind of gas leak. However, in terms of getting your water heater working again, you'll need to relight the pilot and wait a while to see if it is functioning properly. You can call in a water heater specialist or plumber to help with this.
+
+Gas Heater: Pilot Light Problems
+--------------------------------
+
+There are two other issues with gas-powered water heaters that can lead to a loss of hot water. The first is a pilot light that's blown out. The pilot light is the source of a constant flame inside your water heater. When the heater determines the need to heat up the water it is holding, it will open a valve that will cause gas to flow over the pilot light and cause it to ignite. To see if your pilot light is functioning, there is usually a small window in the front of the water heater. If you can't see a flame, remove the access panel and see if that helps you locate it. If there is still no flame, you'll need to [relight it](https://www.homeserve.com/en-us/blog/how-to/light-water-heater-pilot-light/) in accordance with the manufacturer's instructions.
+
+Your pilot light should burn with a bright blue flame. If not, make sure there are no drafts affecting it, which could keep it from functioning properly. If the flame looks yellow, it might be a sign of the presence of carbon monoxide, which spells trouble and needs to be looked at right away by a technician.
+
+**More Related Articles:**
+
+*   [How to Turn Off Your Water Heater — and When It May Come Up](https://www.homeserve.com/en-us/blog/how-to/turn-off-water-heater/)
+*   [Your Guide to Draining a Water Heater](https://www.homeserve.com/en-us/blog/how-to/drain-water-heater/)
+*   [How to Replace the Anode Rods on Your Water Heater](https://www.homeserve.com/en-us/blog/how-to/replace-water-heater-anode-rods/)
+*   [How to Install a Tankless Electric Water Heater: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-tankless-electric-water-heater/)
+*   [How Do I Turn My Water Heater On?](https://www.homeserve.com/en-us/blog/how-to/turn-on-water-heater/)
+
+Gas Heater: Faulty Thermocouple
+-------------------------------
+
+The second reason why a gas-powered water heater might fail is a faulty thermocouple. This is a small probe that should sit in the pilot light flame. Its purpose is to stop the flow of gas if it senses that the pilot light is out. Sometimes, these probes get knocked off track, so make sure it is directly in the flame. They can also get a buildup on them that prevents their function, so try cleaning yours off with some steel wool or fine-grit sandpaper. If your pilot light won't stay lit and you've tried these steps to fix the thermocouple, it is likely faulty and needs to be replaced. Call a technician.
+
+Electric Heater: Breaker Blues
+------------------------------
+
+Electric water heaters don't have pilot lights, because there is no gas to burn in order to heat up the water. Instead, they do their magic through the use of (naturally) electricity. But that's not to say things can't go wrong with them. If your electric water heater isn't working properly, there's a good chance that a breaker was tripped that supplies the appliance power. Check your breaker box and flip any breakers that have switched to the off position back on. If it trips again, then there might be a fault in the water heater, and you'll want to call in a pro to have a look.
+
+Electric Heater: Reaching The Limit
+-----------------------------------
+
+If the breaker is fine, check to see if the high-temperature limit has switched off on the water heater itself. To do so, first turn off the breaker to the unit. Then remove the service panel and press the red button you'll find there. This is the limit switch, and resetting it could solve your problem. To check, replace the panel, turn the breaker back on and listen to see if the water heater is functioning again.
+
+Electric Heater: Heating Element
+--------------------------------
+
+If these steps don't fix the issue, then you might have a failed heating element, which will need to be replaced. Unless you are comfortable with such repairs, calling in a technician might make the most sense.
+
+All Water Heaters: Age
+----------------------
+
+Keep in mind that water heaters have an average lifespan of only about 10 years. If yours is that old (or older) and it fails, it likely means the appliance is done doing its duty and should simply be replaced. You might also want to consider replacing a water heater that is getting on in years _before_ you are surprised by an unwanted cold shower one day.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

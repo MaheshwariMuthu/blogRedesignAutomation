@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Light and Relight Pilot Light on a Furnace"
+headline: "How to Relight Your Furnace Pilot Light in 5 Simple Steps"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-03-27
+basePath: https://library.homeserve.com/m/
+heroImage: 4c306f6096c6cd54/Blog-GettyImages-184098744.jpg
+heroAltDescription: "Repair Technician Removing Furnace Service Panel"
+metaDescriptions: "If your furnace pilot light goes out, it doesn't always mean a costly repair. Here's how to relight your pilot light."
+articleAbstract: "The pilot light is the small blue flame that lights the natural gas coming from the unit’s main burner. Sometimes, it can go out. Here's a step-by-step guide on how to relight it."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Relight Your Furnace"
+  parent: HVAC-How-To
+---
+  **Relighting Your Pilot Light at a Glance**
+
+* **Step 1:** Gather tools and materials
+* **Step 2:** Consult manufacturer directions
+* **Step 3:** Locate pilot light
+* **Step 4:** Let gas dissipate
+* **Step 5:** Relight
+
+If you have an older furnace or a gas heating system, it probably has a pilot light. That’s the small blue flame that lights the natural gas coming from the unit’s main burner. This pilot light can go out for a variety of reasons, literally leaving you in the cold. Thankfully, a furnace pilot light that’s gone out doesn’t always mean a costly repair call.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install a Furnace?**](https://www.homeserve.com/en-us/blog/cost-guide/furnace-replacement-cost/)
+
+In fact, you can relight a pilot light on most gas furnaces easily and safely. Follow these steps.
+
+Relighting a Pilot Light
+------------------------
+
+### 1\. Gather Tools and Materials
+
+To relight your pilot light, you’ll typically need a flashlight and a long-reach lighter or long-handled match. If you don’t have an appropriate lighter or match, a tightly rolled piece of paper may be used instead.
+
+### 2\. Read the Manufacturer’s Instructions
+
+Most furnaces have a prominent label that includes instructions for how to relight the pilot light. Because heating units are often located in dark areas such as basements or garages, take along a flashlight so you can read these instructions. If you can't find a label, check the manual that came with the unit or search the manufacturer's website for relevant information.
+
+### 3\. Locate the Furnace Pilot Light
+
+If you’ve read the unit’s instructions, you probably already know where the pilot light is located. Otherwise, check near the bottom of the furnace for a switch or knob, which should have three indicators: pilot, on and off.
+
+### 4\. Let Gas Dissipate
+
+Once you find the switch or knob, turn it to the off position. This closes the valve, halting the release of gas. With the knob switched off, any remaining gas can dissipate. After switching the pilot off, you should always wait at least five minutes prior to restarting to avoid starting a fire or causing injury to yourself or others. Then, switch it to “pilot.”
+
+### 5\. Relight the Pilot Light
+
+Next, locate the reset button, which should be near the on/off switch. Press and hold the button and place the tip of a lit match or lighter near the pilot light opening. This should reignite your furnace’s pilot light. Release the button once the pilot flame is lit and burning steadily.
+
+**More Related Articles:**
+
+*   [Getting Warmer … Narrow Down Why Your Heater Isn’t Working With These Troubleshooting Tips](https://www.homeserve.com/en-us/blog/home-improvement/heater-not-working/)
+*   [How to Change a Furnace Filter](https://www.homeserve.com/en-us/blog/how-to/change-furnace-filter/)
+*   [What Is the Difference Between Propane and an Oil Furnace?](https://www.homeserve.com/en-us/blog/buying-guide/propane-oil-furnace-differences/)
+*   [Top 5 Furnace Noises You Shouldn’t Ignore](https://www.homeserve.com/en-us/blog/home-improvement/furnace-making-noises/)
+*   [What Is the Difference Between a Furnace and a Heat Pump?](https://www.homeserve.com/en-us/blog/buying-guide/furnace-heat-pump-differences/)
+
+What to Do If Your Furnace Pilot Light Still Isn’t Lit
+------------------------------------------------------
+
+If your furnace pilot light isn’t lit after following the five steps above, try again. If it doesn’t light after a second try, or it doesn’t stay lit after releasing the reset button, your unit may require additional maintenance. It may be time to repair or replace your furnace, especially if you have an older unit or a newer system with an electrical ignition that isn’t functioning properly.
+
+Although it's easy enough to relight your furnace pilot or perform simple maintenance such as filter changes, repairs or replacement of this appliance should be handled by a skilled professional.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="441" height="281" src="https://www.youtube.com/embed/Ahxfi9LugzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,58 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean a Coffee Maker"
+headline: "Coffee Taste Nasty? Here's How to Clean Your Coffee Maker"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-20
+basePath: https://library.homeserve.com/m/
+heroImage: 609b1df97e316ad2/Blog-CoffeePotCleaning_MSchmitz_0001.jpg
+heroAltDescription: "coffee maker on countertop"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Here's how to keep your coffee maker clean and your coffee tasting great."
+articleAbstract: "Your drip coffee maker is one of the easiest kitchen appliances to get and keep clean. Here's how to do so and keep your coffee tasting great."
+category: ["How To"]
+eleventyNavigation:
+  key: "Coffee Taste Nasty? Here's How to Clean Your Coffee Maker"
+  parent: Appliances-How-To
+---
+  Nothing beats that first cup of coffee each morning. Unless, of course, your cuppa has begun to taste a little less revivifying and a little more revolting. Such a shift in the quality of your brew might indicate that it's time to give your coffee a good cleaning.
+
+**This May Also Interest You:** [**Caffeination Station: Here’s How to Build an At-Home Coffee Bar**](https://www.homeserve.com/en-us/blog/how-to/diy-build-coffee-bar/)
+
+That's because oils from the ground coffee can be left behind and cause your coffee to taste bitter over time. Leftover debris in your maker's water reservoir can also be a breeding ground for yeast and mold. While this generally doesn't present a health hazard, it's just _gross._ In fact, it can affect individuals who have mold or yeast sensitivities.
+
+Fortunately, your drip coffee maker is one of the easiest kitchen appliances to get and keep clean. Here's what you need to do.
+
+Wash What You Can
+-----------------
+
+The first step is an easy one: Wash all of the removable parts. This includes any kind of permanent filter basket, the carafe itself and the surfaces of the machine's main body.
+
+Using a simple soap-and-water solution should be enough to get everything clean. If you know that your coffee maker parts are dishwasher safe, you can also pop them in to give them an extra deep clean.
+
+If your carafe is refusing to come clean, try soaking it in warm soapy water for about an hour, then put about a half cup of rice inside. Swirl the solution around, and the rice grains should act as a gentle abrasive to remove stains.
+
+Also, take some time to wipe out any internal parts of the machine that are easily reachable, including the top and bottom of the lid. Use a clean, damp towel or paper towel. Leave the lid open and let everything dry thoroughly.
+
+Cleaning the entire machine this way is smart to do as a daily task, but you can get away with just washing out the filter basket and carafe daily and doing a more thorough cleaning once a week.
+
+**More Related Articles:**
+
+*   [Coffee Taste Nasty? Here’s How to Clean Your Coffee Pot](https://www.homeserve.com/en-us/blog/how-to/clean-coffee-maker/)
+*   [How to Clean Your Keurig Coffee Maker in 6 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-keurig/)
+*   [4 Surefire Methods for Cleaning the Crud Out of Your Microwave](https://www.homeserve.com/en-us/blog/how-to/clean-microwave/)
+*   [How to Install an Over-the-Range Microwave](https://www.homeserve.com/en-us/blog/how-to/install-over-the-range-microwave/)
+*   [How Much Does a Kitchen Island Cost?](https://www.homeserve.com/en-us/blog/cost-guide/install-kitchen-island/)
+
+Vinegar to the Rescue
+---------------------
+
+Over time, calcium deposits from your water can build up in your machine and begin to affect its function. These deposits can, for example, clog the water nozzle and make it harder for the coffee maker to operate, which can shorten its life. Preempt the untimely demise of your machine — and improve the taste of your coffee — with a simple vinegar and water solution.
+
+First, make sure your coffee maker is clean according to the steps above and that it is completely dry. Then, fill the water reservoir with a one-to-one mix of vinegar and water. Run the coffee maker as though you were making a full pot of coffee, but interrupt the cycle halfway through. You can usually do this by simply removing the carafe. Wait about a half-hour, then continue the cycle.
+
+Discard the vinegar-water brew from your carafe and rinse it out. Then run one or two more cycles of plain water through the machine, and you should be all set.
+
+Commercial descaling solutions are also available to use for this process, but unless your user manual particularly calls for a special cleaning formulation, vinegar should certainly get the job done.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Clean Your Oven | Cleaning Oven Tips and Tricks"></iframe>

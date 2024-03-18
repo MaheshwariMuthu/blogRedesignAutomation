@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Electrical Maintenance Tasks You Should Be Doing"
+headline: "Top 5 Electrical Maintenance Tasks Your Should Be Doing"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-09-23
+basePath: https://library.homeserve.com/m/
+heroImage: 2c733675bcce2a74/Blog-HomeServeUSA-THW-PhotoShoot-2019ModernFotographicbyDaveNoonan-152of247.jpg
+heroAltDescription: "interior electric"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Electrical preventive maintenance helps in more ways than one. Here are five tasks you need to do."
+articleAbstract: "Electrical preventive maintenance helps in more ways than one. It can save you money, keep bigger issues from getting and provide priceless peace of mind."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "X Electrical Maintenance Tasks"
+  parent: Electrical-Home-Improvement
+---
+  When it comes to home maintenance, there can be a lot to keep track of, and the upkeep of your home’s electrical systems may not be at the tip-top of your to-do list. But even though it can be easy to overlook, electrical maintenance is an important piece of the home-care puzzle. Taking care of your home’s electrical systems helps save energy and ensures everything is up to code and in proper working order.
+
+**This May Also Interest You:** [**All Homeowners Should Know These Electrical Terms**](https://www.homeserve.com/en-us/blog/buying-guide/electrical-terms/)
+
+The good news is that many electrical maintenance tasks are fairly straightforward, easy projects that don’t require a lot of specialty electrical equipment. Additionally, most of these tasks aren’t time-consuming and can be accomplished here and there as you can work them in. Here’s a list of five electrical tasks all homeowners can tackle to help keep their homes safe and functioning at their best.
+
+Top Electrical Maintenance Tasks for Homeowners
+-----------------------------------------------
+
+### 1\. Call an Electrician
+
+One of the best things you can do to ensure your electrical system is in good shape is to get it inspected by a professional. Even if you haven’t noticed anything awry, it can be nice to have electrical maintenance services from an electrician to make sure there’s nothing faulty that may have flown under your radar. In addition to pointing out any potential electrical hazards in your home, an electrician can point out ways to be more energy efficient and save money on your power bills. How often you get an electrical inspection is up to you, but most electricians recommend springing for one every three to five years.
+
+### 2\. Check Your Outlets
+
+Every couple of months, go through your home and test that all your outlets are still working properly. You can purchase an inexpensive [outlet tester](https://www.homedepot.com/p/Klein-Tools-GFCI-Electrical-Outlet-Tester-with-LCD-RT250/313832938?source=shoppingads&locale=en-US&&mtc=SHOPPING-RM-RMP-GGL-D27-027_011_TOOLS_ACC-NA-KLEIN_TOOLS-NA-SMART-NA-NA-MK495473330-9016864402-NBR-1927-CON-NA-FY22_1927_RM2&cm_mmc=SHOPPING-RM-RMP-GGL-D27-027_011_TOOLS_ACC-NA-KLEIN_TOOLS-NA-SMART-NA-NA-MK495473330-9016864402-NBR-1927-CON-NA-FY22_1927_RM2-71700000083602792-58700007073070013-92700063677501837&gclid=CjwKCAjwgaeYBhBAEiwAvMgp2jJViuhEcyNxGzxA7YN-wb2nrW1vkgZr5CYfB7IX4lfU_t8GdLS8ixoC-GkQAvD_BwE&gclsrc=aw.ds) from any major hardware store. You’ll also want to check the outlet plates, making sure there are no cracks, discoloration or burn marks that may signal an electrical issue. Don’t forget to test outdoor outlets, too, along with the less-frequently used ones of your home, like those in the basement or hiding behind furniture. If you find anything amiss, call in an electrician to investigate further.
+
+### 3\. Unplug Appliances
+
+As you're checking your outlets, it can be a good time to go ahead and unplug any appliances that aren’t in use. Unplugging appliances while they’re not being used has myriad benefits: It can help extend the life of your appliance, prevent damage from a power surge and save you money on your power bill. In fact, the [U.S. Department of Energy](https://www.energy.gov/energysaver/articles/energy-vampires-are-attacking-your-home-heres-how-stop-them) estimates you can save$100 to $200 a year just by unplugging appliances and other devices when they’re not being used.
+
+Unplugging appliances and extension cords can also help prevent the risk of electrical fire. Of course, it’s unrealistic that you’ll remember to unplug everything, all the time — plus, some outlets are just too inconvenient to unplug after every use. But if you can remember to unplug even half of your corded appliances, you can still save on your electricity costs and help extend the life of your items.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets With GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Wrong Kind of Blowout? Why Your Hair Dryer Keeps Tripping the Circuit Breaker](https://www.homeserve.com/en-us/blog/home-improvement/hair-dryer-tripping-circuit-breaker/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+### 4\. Examine Your Extension Cords
+
+While you’re at it, If you notice any heat-producing or high-electricity appliances plugged into extension cords, go ahead and try to reconfigure the plugs around that outlet to have those plugged directly into the wall instead of the extension cord. Additionally, if you notice you’re relying on many extension cords throughout the home, it might be time to consider adding more outlets to your home’s electrical system. Extension cords can be helpful additions in certain situations, but they can overload your home’s system, trip the circuit breaker and create hazards when they’re not used correctly. If you’re at all unsure about your use of extension cords with regard to electrical load and your home’s capacity, call in a qualified professional to take a look and help determine how best to proceed.
+
+### 5\. Test Your Detectors
+
+Testing your smoke detectors and carbon monoxide alarms is another important part of home maintenance. Testing should be done monthly. Press the test button on the front of the detector until the alarm sounds. You can then silence it by pressing the test button again. If your alarms are battery-powered, you should replace the batteries at least twice a year to prevent them from dying unexpectedly when you don’t have the correct replacements on hand.
+
+Rest Easy with Regular Electric Checks
+--------------------------------------
+
+When it comes to caring for your electrical system, a little goes a long way. By incorporating a few key daily, monthly and annual tasks, you can help ensure your electrical systems are being used efficiently. Adding some preventative maintenance into your home care routine helps in more ways than one. It can save you money, keep bigger issues from going unchecked, and provide that priceless peace of mind all homeowners want.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

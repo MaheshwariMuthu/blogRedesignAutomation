@@ -1,0 +1,34 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Safety Recall: Lifetime Products 6-Foot Seminar Table"
+headline: "It Could Collapse: Lifetime Products Recalls 43,000 6-Foot Folding Tables"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-03-23
+basePath: https://library.homeserve.com/m/
+heroImage: 78f2932cf587cac5/webimage-SeminarTableRecall_LifetimeProducts_0001.png
+heroAltDescription: "6-foot folding table open"
+metaDescriptions: "Utah-based Lifetime Products is recalling about 43,000 of its 6-Foot Seminar Tables due to a bracket defect that could result in an injury."
+articleAbstract: "If you bought a Lifetime Products 6-Foot Seminar Table in roughly the past four years, you’ll want to check whether you’re affected by a new federal safety recall. The Clearfield, Utah-based brand is recalling about 43,000 of the tables due to a defect that could result in an injury."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Lifetime Products 6-Foot Seminar Table Recall"
+  parent: Interior-Home-Home-Improvement
+---
+  If you bought a Lifetime Products 6-Foot Seminar Table in roughly the past four years, you’ll want to check whether you’re affected by a new federal safety recall. The Clearfield, Utah-based brand is recalling about 43,000 of the tables due to a defect that could result in an injury.
+
+**This May Also Interest You:** [**Watch Your Toes! 2.2 Million Edsal Shelving Units Recalled Due to Injury Risk**](https://www.homeserve.com/en-us/blog/news/edsal-shelving-unit-recall/)
+
+According to the [March 10 recall notice](https://www.cpsc.gov/Recalls/2021/Lifetime-Products-Recalls-6-Foot-Seminar-Tables-Due-to-Injury-Risk) from the Consumer Product Safety Commission, the affected folding tables’ “brace arms can fail to lock the table legs into place and the table can collapse, posing an injury risk to consumers.” Lifetime Products has received one report involving 11 tables with malfunctioning brace arms; no injuries have been reported.
+
+The Vietnam-manufactured tables were sold at Lifetime Stores in Utah and Idaho, and online at Amazon.com, Costco.com, Samsclub.com and elsewhere, from August 2016 through November 2020, at a price of around $90 apiece. The tables — which measure 6 feet long, 18 inches wide and 28 inches tall — have gray metal frames with white plastic tops, and bear the model number 80176, found on a green product I.D. sticker on the underside of the table along with the date of manufacture. The recalled tables were built between Aug. 7, 2016, and June 23, 2020.
+
+[Lifetime Products advises](https://www.lifetime.com/customerservice/261) owners to stop using the affected tables immediately and to contact the company for a free repair bracket. Owners can call Lifetime at 800-292-3865, email [customercare@lifetime.com](mailto:customercare@lifetime.com) or go to [lifetime.com](https://www.lifetime.com/) and click on “Product Recall,” for more information. For more consumer product safety info, go to [cpsc.gov](https://www.cpsc.gov).
+
+**More Related Articles:**
+
+*   [Jimco Lamp & Manufacturing Recalls 99,000 Accent Tables Over Shock Hazard](https://www.homeserve.com/en-us/blog/how-to/jimco-lamp-accent-table-recall/)
+*   [Amputation Risk Prompts Recall of 6,700 Toro Snowthrowers](https://www.homeserve.com/en-us/blog/home-improvement/toro-snowthrower-recall/)
+*   [Fire Hazard: 4,500 DeWALT Kerosene Heaters Recalled](https://www.homeserve.com/en-us/blog/home-improvement/cordless-kerosene-heater-recall/)
+*   [3,600 Powerhorse Portable Generators Recalled Over Risk of Electric Shock](https://www.homeserve.com/en-us/blog/home-improvement/portable-generator-recall/)
+*   [Shock Hazard Sparks Recall of 25,000 National Presto Smokers](https://www.homeserve.com/en-us/blog/news/national-presto-smoker-recall/)<br><iframe width="439" height="281" src="https://www.youtube.com/embed/8VoPsAM69RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

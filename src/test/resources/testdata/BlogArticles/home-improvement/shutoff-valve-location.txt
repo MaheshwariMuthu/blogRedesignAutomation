@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Where Are All the Shutoff Valves in My Home?"
+headline: "Where Are All the Shutoff Valves and Switches in My Home?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-07-14
+basePath: https://library.homeserve.com/m/
+heroImage: 58e59fc0bdad2f97/Blog-Getty_Red_Water_Shutoff_Valve_Image.jpg
+heroAltDescription: "water shutoff valve"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "In an emergency, knowing where to find your shutoff valves and switches can help minimize damage."
+articleAbstract: "Do you know how to turn off your gas, water or electricity? In an emergency, knowing where to find your shutoff valves and switches can help minimize damage."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Where Are All the Shutoff Valves in My Home?"
+  parent: Interior-Home-Home-Improvement
+---
+  Do you know how to turn off your gas, water or electricity? In an emergency, knowing where to find your shutoff valves can help minimize damage.
+
+**This May Also Interest You:** [**Here’s How to Turn Off Your Gas Supply Valves**](https://www.homeserve.com/en-us/blog/how-to/gas-shutoff-valve/)
+
+If you're facing a leak, or if work needs to be done on your pipes, you might need to shut off the water or gas coming into your home. You can also shut off the electricity to the entire house with one switch. Many appliances and fixtures have individual shutoff valves. 
+
+Main Water Shutoff
+------------------
+
+You'll want to shut off your water at the main valve if you have a major water leak or a burst pipe to prevent major water damage and flooding. Your main water shutoff valve is typically located where the water enters your home, which is usually your foundation at the front of your home. You'll usually find the shutoff valve within the first 3 to 5 feet of the line. If you don't have a basement, look near your water heater, in a crawl space or under your kitchen sink.
+
+Toilet
+------
+
+Each toilet should have its own shutoff valve to cut the water. Look below your toilet to see a hose running from the toilet to the wall. Look for a little knob there, which is the shutoff valve. Turning this knob will shut off all water to the toilet. This can come in handy if the toilet is clogged and overflowing or if you need to remove the toilet and want to empty all the water. 
+
+Washing Machine
+---------------
+
+Washing machines have hoses that connect them to the water supply, which is typically on the wall behind the machine. You should see a red or blue knob for hot or cold water. Turn both knobs to shut off the water. You might need to shut off the water if the hoses are leaking or you're replacing the washing machine. 
+
+Dishwasher
+----------
+
+If you look under the kitchen sink, you'll typically see a line running to the dishwasher. It should have a knob or valve you can turn to shut off the water. Shutting off the water is often necessary if you have a leak or are replacing the dishwasher. 
+
+Water Heater
+------------
+
+Water heaters typically have two shutoff valves: one on the cold water line running into the appliance and one on the hot water line running out. The cold water valve is typically blue, and the hot water valve is typically red. You might need to shut off the cold water if you're working on the water heater, have a leak or are replacing it. The hot water valve can be shut off if you have a leak in a hot water pipe. 
+
+**More Related Articles:**
+
+*   [9 Times When You Should Call a Professional Plumber](https://www.homeserve.com/en-us/blog/home-improvement/professional-plumber-repairs/)
+*   [Here’s How Long All the Systems in Your Home Will Last](https://www.homeserve.com/en-us/blog/home-improvement/home-systems-lifespan/)
+*   [How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+*   [How Your Home’s Natural Gas System Works](https://www.homeserve.com/en-us/blog/home-improvement/natural-gas-system/)
+*   [How Your Home’s Electrical System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-electrical-system/)
+
+Sink
+----
+
+Sinks typically have shutoff valves beneath them. You'll likely see one for the hot and cold water lines. You can shut off the water if you're replacing the faucet or have a leak. 
+
+Shower or Bath
+--------------
+
+Shower and bathtub shutoff valves are usually hidden behind an access panel. That panel can be in the bathroom, the room behind the bathroom or the ceiling of the room below. If you don't have an access panel, it could be hidden behind the wall. In that case, you would need to shut off the main water supply. 
+
+Gas Line
+--------
+
+As a general rule, you shouldn't handle any work on gas lines yourself. However, you might need to shut off the gas supply if you suspect a gas leak. Once you shut the gas off, call your gas provider to come turn it back on. The shutoff valve is usually before the gas meter, which can be outside your home or just inside where the gas line enters your home. You'll need an adjustable wrench to grab the tab and move it a quarter turn.
+
+Breaker Box
+-----------
+
+While this isn't a shutoff valve like gas and water, knowing where your breaker box is and how to shut off your home’s electricity is also important. You'll typically find the box in your garage, basement or utility room. It has a lever that shuts off all the power. It's a good idea to turn off and unplug appliances first to avoid damage from the sudden power loss.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

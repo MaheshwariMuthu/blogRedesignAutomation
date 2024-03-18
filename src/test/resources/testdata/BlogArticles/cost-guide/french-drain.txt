@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a French Drain Cost?"
+headline: "How Much Does a French Drain Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-06-14
+basePath: https://library.homeserve.com/m/
+heroImage: 350eb8ebabad9526/Blog-GettyImages-1217791955.jpg
+heroAltDescription: "wheelbarrow full of dirt from digging a trench for a french drain"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A French drain can rid your property of standing water. Here’s an installation cost breakdown."
+articleAbstract: "A French drain can rid your property of standing water. Luckily, installation isn’t overly complicated. Here’s a cost breakdown."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does a French Drain Cost?"
+  parent: Plumbing-Cost-Guide
+---
+  **French Drain Installation Costs at a Glance**
+
+* **Average total cost:** $5,000 (CAD 6,300)
+* **Average price per linear foot:** $10 (CAD 12)
+* **Basement drain cost:** $5,000-$13,500 (CAD 6,300-CAD 17,000)
+* **Basement drain price per linear foot:** $40-$100 (CAD 50-CAD 125)
+* **Sump pump:** $150-$300 (CAD 190-CAD 380)
+* **DIY installation cost:** $4-$8 (CAD 5-CAD 10)
+
+Worried about a damp basement, groundwater issues or flooding? If your answer is “oui,” installing a French drain may help. These drains can reduce flood risk by preventing surface water from pooling. If your yard is flat, the presence of standing water could be a tell-tale sign your home is at risk of water damage.
+
+**This May Also Interest You:** [**Au Revoir, Standing Water! How to Install a French Drain in 8 Steps**](https://www.homeserve.com/en-us/blog/how-to/how-to-install-a-french-drain/)
+
+A French drain can rid your property of standing water. Luckily, installation isn’t overly complicated. Here’s a cost breakdown.
+
+What’s a French Drain?
+----------------------
+
+A French drain is a trench that redirects the flow of water. The trench is filled with gravel and has a pipe running through it. This carries water away from the problem area.
+
+If you have water pooling in your basement or standing water in your garden, you may benefit from a French drain. The drain can redirect water to the street or a designated drainage ditch, preventing it from damaging your property.
+
+How Much Does a French Drain Cost?
+----------------------------------
+
+The cost of a French drain depends on the system’s size and location. According to [Bob Vila](https://www.bobvila.com/articles/french-drain-cost/), the average French drain costs $5,000 (CAD 6,300). An exterior drain located fairly close to the surface could cost as little as $500 (CAD 630) — or about $10 (CAD 12) per linear foot.
+
+Drains installed under your basement floor could cost between $5,000 and $13,500 (CAD 6,300 and CAD 17,000). Expect to pay $40 to $100 (CAD 50 to CAD 125) per linear foot for installation. If you'll need a sump pump as well (most interior French drains do), it will cost you between $150 and $300 (CAD 190 and CAD 380) extra to purchase and install.
+
+When calculating how much it will cost to install a French drain, there are several factors to consider. The cost of the pipe and gravel will be a small part of the quote from your contractor. The biggest portion of the price will be labor costs and equipment.
+
+If you prefer, you can install a basic French drain yourself, which costs between $4 and $8 (CAD 5 and CAD 10) per linear foot, according to data from [HomeGuide](https://homeguide.com/costs/drainage-system-installation-cost#diy).
+
+**More Related Articles:**
+
+*   [How Much Does Sod Cost to Install?](https://www.homeserve.com/en-us/blog/cost-guide/sod-installation/)
+*   [Basic Lawn Care and Maintenance Tips](https://www.homeserve.com/en-us/blog/home-improvement/lawn-care-maintenance-tips/)
+*   [How Much Does an Above-Ground Pool Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-an-above-ground-pool-cost/)
+*   [How Much Does a Sprinkler System Cost?](https://www.homeserve.com/en-us/blog/cost-guide/sprinkler-system-installation/)
+*   [How Much Does It Cost to Build a Garage?](https://www.homeserve.com/en-us/blog/cost-guide/build-garage/)
+
+How Much Gravel Does a French Drain Need?
+-----------------------------------------
+
+It's possible to work out the amount of gravel required based on the size of the trench. Use these steps to calculate how many tons of gravel you’ll need:
+
+**1**. Note the length, depth and width of the trench in feet.
+
+**2\.** Take several measurements for the width and depth. Average them if the trench is irregular in size.
+
+**3\.** Multiply the length by the width by the height.
+
+**4\.** Divide the result by 21.6.
+
+This will give you a slight overestimation because it doesn’t take into account the size of the perforated pipe. For residential drains, the estimate should be close enough to be useful. If you purchase gravel of different sizes, use the smaller stones closest to the pipe and place larger stones on top.
+
+How Deep Should a French Drain Be?
+----------------------------------
+
+For an outdoor French drain system, installation depth should be between 8 and 24 inches (20 to 60 centimeters). If the drain is near foundations or retaining walls, it may need to be deeper than that.
+
+Installing a simple French drain can be a DIY project. It's important to make sure you work carefully to avoid any underground utilities while digging the trench. You’ll want to call 811 or your local before-you-dig number to have utility lines marked.
+
+Installing a drain under a basement or around a retaining wall may require more tools and expertise. Consider hiring a professional installation company to ensure your drain is at the proper depth.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

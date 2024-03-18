@@ -1,0 +1,181 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Garbage Disposal Not Working — How to Fix It"
+headline: "Garbage Disposal Not Working? Here's How to Fix Common Issues"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-03-03
+basePath: https://library.homeserve.com/m/
+heroImage: 725e1410cbbd3d0/webimage-AdobeStock_68026856.jpg
+heroAltDescription: "plumber fixing under sink"
+metaDescriptions: "Leaking, clogged and smelly garbage disposals are an inconvenience. Learn how to fix a garbage disposal with these DIY tips."
+articleAbstract: "Your garbage disposal is a vital appliance that you use daily. The following are some common issues that can occur with your disposal along with different methods to remedy them."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-310-1912
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/appliance_repair/hs/a_call_away
+  large:
+      image: /en-us/assets/images/blog/appliances_elocal_banner1.png
+      alt: Appliances eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/appliances_elocal_banner2.png
+      alt: Appliances eLocal Banner 2
+category: ["How To"]
+
+eleventyNavigation:
+  key: "Garbage Disposal Not Working"
+  parent: Appliances-How-To
+---
+  
+
+Is your garbage disposal acting up? Thanks to daily wear and tear, your home's garbage disposal may need repaired from time to time. Common issues include dull blades, leaks, clogged drains and unpleasant smells.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**How Much Does It Cost to Install or Replace a Garbage Disposal?**](https://www.homeserve.com/en-us/blog/cost-guide/install-garbage-disposal/)
+
+Fortunately, you can address many of these issues yourself. The first step is to identify the problem. Here’s a troubleshooting guide.
+
+Safety First
+------------
+
+  
+Before you inspect or fix your garbage disposal, turn off the breaker that sends power to your kitchen. Disconnecting the power ensures you won't be injured by electric shock or be cut by the blades if the system unexpectedly turns on while you’re working on it. In some instances, you may also want to disconnect the drainpipes.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+If Garbage Disposal Refuses to Turn on at All
+---------------------------------------------
+
+  
+If you flip the switch and nothing happens, a variety of issues could be the cause. Disposals are fairly simple machines, however, so it is generally easy to figure out what is causing this malfunction. These are three most likely reasons your garbage disposal isn’t turning on:
+
+* **Electrical issues:** If you hear nothing when you flip the switch, there is an issue with the power sent from the breaker to the disposal. It could also mean that the power cord to the disposal has somehow come unplugged.
+* **Clogs:** If you hear the motor trying to turn but the blades aren't spinning, something has clogged it. Clogs are usually caused by excess food or a foreign object (such as a piece of silverware) falling into the drain.
+* **Broken motor:** The motor may be burned out or the disposal is simply broken.
+
+### The Fix
+
+  
+Start with the simplest solution: Check to see that the power cord is plugged in. If it’s plugged in and still not getting power, flip the breaker and check to see if there is a blown fuse.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}  
+  
+If these two methods don't solve your issue, shine a flashlight into the unit to see if anything is clogging it. In most cases, the blockage is removable with a pair of tongs. After removing it, power the unit on. The blades should spin freely.  
+  
+If none of these operations work, there is a chance your garbage disposal requires a complete replacement. Garbage disposals are easy to install and should come with instructions in the user's manual. Most models require just a few simple tools, and the disposal will be operable in a few minutes.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6438c105d06c03f/webimage-GarbageDisposal2_MSchmitz.jpg" alt="garbage disposal installed under a sink"/>
+-------------------------------------------
+
+If There’s a Humming Sound
+--------------------------
+
+Hearing a humming sound coming from the disposal? This is another common issue. Usually, this means there is power going to the disposal, but the motor can't turn the blades to chop waste before it goes down the drain. The following are some common reasons why the blades won’t turn:
+
+* **Overheating:** The disposal will shut off the blades if it becomes overheated. Overheating stems from constant overuse of the machine.
+* **Worn-out grinder:** Over time, the grinder will wear down and won't cut as well.
+* **Clogged grinder:** The interior grinder in the disposal may become jammed with waste.
+
+### The Fix
+
+  
+If your disposal is overheating, the first thing you should do is give the motor and blades time to cool down. After a while, your garbage disposal should be ready to go again.
+
+You could also press the reset button on the bottom of the garbage disposal. Every model of disposal has this feature. The button essentially acts as a second circuit breaker that will pop out if the disposal has an issue with overheating, clogging or grinding. Simply push the reset button and the disposal should start working.  
+  
+If these fixes don’t work, it may be time for a new grinder.
+
+If You Notice Leaking
+---------------------
+
+  
+Every drop of water that drains from the kitchen sink passes through the garbage disposal. Because of that, there is a chance that leaking may occur. Leaks may start as harmless droplets, but they can develop into very serious issues if they are not addressed right away. You’ll usually find the source of leaks in these places:
+
+* **Gaskets:** If there is an issue with the gasket, you will see water starting to leak between the flange and the rubber seal.
+* **Drain lines:** You will know the issue is with the drain lines if you see a leak where the line meets the appliance.
+* **Split or crack:** A split or crack in the body of the disposal is the culprit if water is leaking from its housing.
+* **Reset button:** In rare cases, you will see water leaking from the reset button housing on the bottom.
+
+<img class="detail-image" src="https://library.homeserve.com/m/322a1b9642520667/Blog-shutterstock_73555399.jpg" alt="stainless steel sink drain"/>
+
+### The Fix
+
+  
+The first thing you need to do is to find the source of the leak. A bad connection in the drain line can be fixed with a clamp or a zip tie. Epoxy can be used to seal off cracks that develop anywhere in the housing. You can prevent minor and major flooding using these techniques.  
+  
+Another thing to seal is the dishwasher's connection to the drainpipe. A loose connection here causes leaking in the disposal because food drained from the dishwasher passes through the disposal. Solve this issue by either securing the hose or installing a replacement hose.
+
+If Draining Happens Painfully Slowly
+------------------------------------
+
+  
+Did you just walk by your kitchen sink only to notice there is some sort of bog starting to develop? The water in the sink may be draining slowly, or it may not be draining at all. This isn't something that is simply caused by food waste caught in the blades.  
+  
+Usually, the cause of this issue is a clogged drain trap. The drain trap is the pipe that has an S-shaped curve. It may also be a P-shaped pipe. If there is too much food, the debris passing through the disposal could rest in the curves and get trapped. Clogs can form as more debris gets hung up on these curves, causing your sink to drain slowly.
+
+### The Fix
+
+  
+The first step you want to take when fixing your drain trap is to disconnect it from the system. Before you do, be sure to put down a bucket to catch any water that was previously blocked by the clogged trap. Then, clean it out using one of the following methods:
+
+* **Use a cable:** Once you disconnect the trap, poke a drain cable through it to remove the excess debris causing the blockage. Once you have pushed out the clog, flush it out with hot water.
+* **Use an auger:** If the clog is too far down in the plumbing to reach with a cable, you'll need a sink auger. Augers are similar to cable snakes but are designed to get clogs out of hard-to-reach places.
+* **Sharpen the blades:** Sharpen the blades with ice. Throw some ice into the disposal and turn it on. This will ensure food is chopped thoroughly, thus preventing trap from getting clogged again.
+
+**More Related Articles:**
+
+*   [How to Install a Garbage Disposal on Your Own](https://www.homeserve.com/en-us/blog/how-to/install-garbage-disposal/)
+*   [Why is My Garbage Disposal Leaking?](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-leaking/)
+*   [How to Unclog Your Garbage Disposal](https://www.homeserve.com/en-us/blog/how-to/unclog-garbage-disposal/)
+*   [How to Deep Clean a Garbage Disposal](https://www.homeserve.com/en-us/blog/how-to/clean-garbage-disposal/)
+*   [5 Ways to Keep Drains Smelling Fresh](https://www.homeserve.com/en-us/blog/home-improvement/shower-drain-smells/)
+
+If You Smell an Unfortunate Odor
+--------------------------------
+
+  
+You’ll know it when you smell it: The foul odor that develops when food waste sits too long in your drains. Eventually, it will start to decompose and stink up your kitchen. If you don't address the problem immediately, it's only going to get worse.
+
+### The Fix
+
+  
+Luckily, there are several different remedies you can try to get rid of a terrible smell coming from your garbage disposal:
+
+* **Citrus peels:** The pleasant aroma found in citrus fruits like lemons, limes or oranges releases when you toss peels into a running disposal. The acidic fruit also helps wash away the food waste in the drain.
+* **Bleach:** Bleach is a great neutralizer. It will kill odor-causing bacteria in the disposal.
+* **Vinegar:** Vinegar is sometimes effective in getting rid of odors as a replacement for bleach.
+* **Ice:** Part of the reason decomposing food isn't draining is that it isn't cut properly by the blades. Place as many ice cubes as you can in the disposal and run the blades to sharpen them.
+* **Specialty products:** If the above solutions don't work, try a product specifically designed to neutralize garbage disposal odor.
+
+Preventing Future Problems
+--------------------------
+
+  
+The best way to fix a problem with your garbage disposal is to prevent one from occurring in the first place. Use these tips to ensure you don't do anything that might damage your disposal:
+
+* **Food only:** Only put food items in your garbage disposal. Do not pour hot grease, oil or fat into the disposal as this can harden once cooled and clog your system.
+* **No harsh drain cleaners:** Don't use drain cleaners meant for use in bathroom drains. They often have harsh chemicals that can damage the interior of your disposal.
+* **Get out the Allen wrench:** There is a slot on the bottom of the disposal that fits an Allen wrench. Every once in a while, give it a turn to manually move the blades and free up any trapped debris.
+* **Keep it clean:** Debris can't get trapped if there is no debris in the first place. Clean out your disposal regularly so food waste can drain without any issues.
+* **Break it up:** Your garbage disposal is not indestructible. Break up bigger items into smaller pieces to make the job easier on the disposal.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5j759jOLiwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

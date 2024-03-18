@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is Terrazzo?"
+headline: "What Is Terrazzo?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-08-16
+basePath: https://library.homeserve.com/m/
+heroImage: 3a6b21ff0e569b64/Blog-TerrazoFloorInstall_ERossi_4701.jpg
+heroAltDescription: "A contractor weilds a large floor grinding  polishing machine to sand down a new Terrazo floor"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Terrazzo tiles or slabs are ideal for creating attractive, durable floors and countertops. Learn how to use terrazzo and how much it costs to install."
+articleAbstract: "Adding a terrazzo floor or countertop could be the ideal option if you want to inject a touch of traditional Italian charm into your home's interiors. This decorative material can transform plain surfaces into decorative features, and its versatility makes it an excellent choice for a broad range of projects."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is Terrazzo?"
+  parent: Interior-Home-Home-Improvement
+---
+  
+
+Adding a terrazzo floor or countertop could be the ideal option if you want to inject a touch of traditional Italian charm into your home's interiors.
+
+**This May Also Interest You:** [**How Much Does It Cost to Remove a Tile Floor?**](https://www.homeserve.com/en-us/blog/cost-guide/remove-tile-floor/)
+
+This decorative material can transform plain surfaces into decorative features, and its versatility makes it an excellent choice for a broad range of projects.
+
+What Is Terrazzo?
+-----------------
+
+Terrazzo is a composite material comprising marble chips and cement, giving it an attractive, flecked appearance. It was first used in Italy in the 16th century to recycle unused marble pieces.
+
+These days, you can purchase terrazzo in various colors, and it's ideal for creating a Mediterranean look in kitchens and bathrooms.  Some homeware companies also make furniture and decorative items from poured terrazzo.
+
+<img class="detail-image" src="https://library.homeserve.com/m/776dcaa2e15b78a9/Blog-TerrazoFloorInstall_ERossi_4699.jpg" alt="A close up of the concrete slurry that a Terrazzo floor starts life as before grinding and polishing "/>
+
+How Is Terrazzo Installed?
+--------------------------
+
+There are several methods for installing terrazzo, and which one you should use depends on your project. You can pour liquid terrazzo directly onto floors or countertops or purchase it in pre-made slabs. Alternatively, you could consider buying individual terrazzo tiles and applying them in the same way as marble tiles.
+
+What Can You Use Terrazzo Tile For?
+-----------------------------------
+
+Terrazzo tiles and slabs are highly versatile because you can mold them into virtually any shape. Therefore, terrazzo is a popular choice for countertops. Sealing terrazzo makes it waterproof, so you can use it to tile wet areas, such as showers, bath surrounds and backsplashes.
+
+Terrazzo is an excellent insulator because it retains heat well. This makes it a warmer alternative to flooring materials like concrete and wood. It's especially suitable for rooms with underfloor heating, as it takes longer to cool down, reducing the amount of time you need to leave your heating on.
+
+<img class="detail-image" src="https://library.homeserve.com/m/635f80bf39b14b43/Blog-TerrazoFloorInstall_ERossi_4703.jpg" alt="A recently sanded Terrazzo floor with water splashed to show the floor color "/>
+
+**More Related Articles:**
+
+*   [Cement Your Style With a Polished Concrete Floor](https://www.homeserve.com/en-us/blog/how-to/install-polished-concrete-floors/)
+*   [How to Tile a Floor: A 6-Step Installation Guide](https://www.homeserve.com/en-us/blog/how-to/tile-floor/)
+*   [Considering a Countertop Upgrade? Here’s a Countertop Cost Comparison](https://www.homeserve.com/en-us/blog/cost-guide/countertop-costs-comparison/)
+*   [Here’s How Much Marble Countertops Cost](https://www.homeserve.com/en-us/blog/cost-guide/marble-countertops-installation/)
+*   [How Much Does It Cost to Install a Backsplash?](https://www.homeserve.com/en-us/blog/cost-guide/tile-backsplash-installation/)
+
+Pros and Cons of Terrazzo
+-------------------------
+
+### Pros
+
+Terrazzo is highly durable, making it a good option for areas that see heavy usage. It's also suitable for eco-friendly interiors, as it uses off-cuts that would otherwise go to landfills. Terrazzo also comes in a wider range of finishes than many alternatives because adding materials, such as glass and quartz, to the mixture can create practically limitless color and texture combinations. You should be able to find a finish that perfectly suits your preferred aesthetic.
+
+Terrazzo is relatively easy to maintain by giving it a gentle clean with a steam mop or soft brush.
+
+### Cons
+
+Although terrazzo slabs are highly durable, poured terrazzo is somewhat prone to cracking. You can avoid this issue by choosing a modern terrazzo made from resin instead of cement.
+
+How Much Does Terrazzo Cost?
+----------------------------
+
+How much terrazzo costs depends on the size of your project and the installation method. Generally, using tiles is the most affordable way to install a terrazzo tile floor or countertop. Expect to pay [between $15 and $30](https://www.costowl.com/home-improvement/flooring/flooring-terrazzo-cost/) (CAD 20 and CAD 40) per square foot to install a terrazzo tile floor, including labor costs.
+
+Installing a poured terrazzo floor is significantly more expensive, costing between $20 and $100 (CAD 25 and CAD 130) per square foot. Expect to pay toward the upper end of this scale if you want a custom mix made from premium materials. Poured terrazzo projects tend to cost more per square foot if the installation area is smaller.
+
+The price to install terrazzo countertops is similar, coming in between [$50 and $100](https://marble.com/articles/cost-of-terrazzo-countertop#Cost+) (CAD 65 and CAD 130) per square foot. The total cost depends on various factors, including the size and thickness of your countertops. Generally, it's more expensive to install larger countertops. However, purchasing smaller terrazzo slabs often costs more per square foot because the standard size is 16 linear feet, making partial slabs harder to source. Adding decorative finishes, such as beveled edges, can also make your project more expensive.
+
+_All CAD conversions are based on the exchange rate on the date of publication._

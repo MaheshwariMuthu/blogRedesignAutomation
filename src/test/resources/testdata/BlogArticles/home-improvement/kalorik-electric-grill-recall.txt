@@ -1,0 +1,45 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Don't Be Shocked: Kalorik Recalls Over 3,000 Electric Grills Due to Shock Hazard"
+headline: "Don't Be Shocked: Kalorik Recalls Over 3,000 Electric Grills Due to Shock Hazard"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-18
+basePath: https://library.homeserve.com/m/
+heroImage: e89b1286303d2d3/Blog-ElectricGrillRecall_Kalorik_0001.jpg
+heroAltDescription: ""
+metaDescriptions: "Kalorik has recalled about 3,525 of its Electric Steakhouse Grills due to a shock hazard. The CPSC is warning consumers to stop using these grills immediately."
+articleAbstract: "Kalorik has recalled about 3,525 of its Electric Steakhouse Grills due to a shock hazard. The Consumer Product Safety Commission is warning consumers to stop using these grills immediately. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Kalorik Recalls Electric Steakhouse Grills Due to Shock Hazard"
+  parent: Appliances
+---
+  Kalorik has recalled about 3,525 of its Electric Steakhouse Grills due to a shock hazard. The [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/Kalorik-Recalls-Electric-Steakhouse-Grills-Due-to-Shock-Hazard-Recall-Alert) is warning consumers to stop using these grills immediately.
+
+**This May Also Interest You:** [**Fire Risk: Metal Ware Recalls NESCO Coffee Bean Roasters Over Reports of ‘Flames and Smoke’**](https://www.homeserve.com/en-us/blog/home-improvement/nesco-coffee-bean-roaster-recall/)
+
+In the June 3 recall, the CPSC reported that the grills’ knobs are incorrectly electroplated, which poses a risk of electric shock to users after the grill is fully preheated. Kalorik has received five reports of incidents — three in the U.S. and two in Canada — in which users suffered electric shocks.
+
+According to the Miami Gardens, Fla.-based [importer](http://www.kalorik.com/), this recall affects Model KPRO GR 45602. Grills with these date codes and purchase-order numbers are part of this recall:
+
+* **2019:** PO20-0065
+* **2026:** PO20-0259
+* **2032:** PO20-0305
+* **2033:** PO20-0336
+
+You can find the model number, date code and purchase-order number printed on a silver label on the back of the grill.
+
+The Kalorik electric grills were manufactured in China and sold between July 2020 and March 2021 for about $400 apiece. The grills were sold at [several online retailers](https://www.cpsc.gov/Recalls/2021/Kalorik-Recalls-Electric-Steakhouse-Grills-Due-to-Shock-Hazard-Recall-Alert), including kalorik.com, amazon.com, walmart.com, kohls.com, bedbathandbeyond.com, qvc.com, homedepot.com, macys.com, bestbuy.com, acehardware.com and hammacher.com. In addition, 71 units were sold in Canada.
+
+If you purchased a recalled grill, do not use it. Instead, contact the manufacturer for a free repair kit to replace the electroplated control knobs. Call Kalorik toll-free at 844-847-4556 or email [recall@kalorik.com](mailto:recall@kalorik.com). Kalorik is contacting all known purchasers directly.
+
+For additional details about this recall, visit [Kalorik’s recalls page](https://www.kalorik.com/pages/kpro-gr-45602-ss), and for more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Shock Hazard Sparks Recall of 25,000 National Presto Smokers](https://www.homeserve.com/en-us/blog/)
+*   [IKEA Recalls 148,000 Bowls, Plates and Mugs Over Burn Risk](https://www.homeserve.com/en-us/blog/home-improvement/ikea-dishes-recall/)
+*   [5.4 Million Clothing Steamers Recalled by HSN Over ‘Severe Burn Hazard’](https://www.homeserve.com/en-us/blog/home-improvement/hsn-clothing-steamer-recall/)
+*   [Fall Risk: Cheyenne Products Recalls 795,000 Chairs and Barstools](https://www.homeserve.com/en-us/blog/home-improvement/mainstay-chair-barstool-recall/)
+*   [Chairs Could Collapse: TJX Recalls 92,000 Wooden Folding Chairs for Fall, Injury Risk](https://www.homeserve.com/en-us/blog/home-improvement/outdoor-wooden-folding-chair-recall/)

@@ -1,0 +1,54 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Child Drownings Are on the Rise: How Parents and Pool Owners Can Keep Kids Swimming Safely"
+headline: "Child Drownings Are on the Rise: How Parents and Pool Owners Can Keep Kids Swimming Safely"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-16
+basePath: https://library.homeserve.com/m/
+heroImage: 63a77021a6ae6799/Blog-KidsInPool_CorDolce_0001.jpg
+heroAltDescription: "two kids playing in a pool"
+metaDescriptions: "New government data shows drowning incidents among children under age 15 are on the rise. Fewer swim lessons during the pandemic may be to blame."
+articleAbstract: "New government data released shows drowning incidents among children under age 15 are on the rise. Because COVID-19 restrictions canceled swimming lessons last summer, the Consumer Product Safety Commission is reminding parents and caregivers to remain vigilant when their children are playing in and around pools and spas."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Swimming Pool Safety Tips"
+  parent: Exterior-Home-Home-Improvement
+---
+  Pool season is upon us — though, for some children, it’ll be their first time back in the water in over a year. New government data released June 8 shows drowning incidents among children under age 15 are on the rise, and the pandemic may be to blame. Because COVID-19 restrictions canceled swimming lessons last summer, the [Consumer Product Safety Commission](https://cpsc.gov/Newsroom/News-Releases/2021/CPSC-Report-Shows-Child-Drownings-Remain-High-Most-Fatalities-to-Children-Under-Five) is reminding parents and caregivers to remain vigilant when their children are playing in and around pools and spas.
+
+**This May Also Interest You:** [**Keep Your Pool Running Swimmingly With These Maintenance Tips**](https://www.homeserve.com/en-us/blog/cost-guide/pool-maintenance/)
+
+According to the [annual drowning and submersion report](https://www.cpsc.gov/s3fs-public/Pool_or_Spa_Submersion_Estimated_Nonfatal_Drowning_Injuries_and_Reported_Drownings_May_2021.pdf) by the CPSC, drownings remain the leading cause of accidental death among children under 5 years old. On average, there were about 400 reported pool and spa drowning deaths of children under age 15 each year from 2016 to 2018. In that timeframe, 75% of the victims were 1 to 4 years old. Between 2018 and 2020, children in this age category accounted for 78% of nonfatal drowning injuries. The majority of drownings and drowning injuries occurred at residential pools.
+
+Fewer children took swimming lessons or swam in others’ pools in the past year due to COVID-19 restrictions, the CPSC reports. For younger children especially, their limited experience around water may put them at a greater risk of drowning.
+
+“As we enter the summer months, parents and caregivers must be mindful of the pandemic’s impact on their children’s swimming ability and water safety skills,” said Robert Adler, CPSC acting chair. “It is critical to refresh these life-saving skills, while practicing increased vigilance both anywhere children are swimming and during non-swim times as well.”
+
+To reduce drownings and drowning-related injuries, the [American Red Cross](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/water-safety.html) says parents and caregivers should work to improve their children’s “water competency,” which includes swimming and water safety skills. Children should be able to:
+
+*   Enter the water
+*   Get a breath
+*   Stay afloat
+*   Change position
+*   Swim a short distance
+*   Get out of the water safely
+
+The CPSC [report](https://www.cpsc.gov/s3fs-public/Pool_or_Spa_Submersion_Estimated_Nonfatal_Drowning_Injuries_and_Reported_Drownings_May_2021.pdf) also shows that the number of nonfatal drowning injuries resulting in hospitalization decreased from 6,300 in 2019 to 5,800 in 2020. But because of COVID-19 social distancing guidelines that limited gatherings and access to public pools, the CPSC advises that this decrease is not statistically significant.
+
+[PoolSafely.gov](https://www.poolsafely.gov) — a national public drowning education campaign — lists these pool safety tips for parents and caregivers:
+
+*   Don’t leave children unattended in or near water. This includes not only outdoor pools and hot tubs, but also bathtubs, buckets, ponds and fountains.
+*   Designate an adult “Water Watcher” who will keep track of children in the pool area. This person shouldn’t be distracted by any other activity while they’re watching the kids.
+*   If you own a pool, prevent unsupervised access with door alarms, pool covers, self-latching doors, gates and fences.
+*   Learn how to perform CPR through an online program.
+*   Learn to swim and teach your children how to swim.
+*   Make sure your drain covers are in line with federal safety standards.
+
+**More Related Articles:**
+
+*   [How Much Does a Pool Heater Cost?](https://www.homeserve.com/en-us/blog/cost-guide/pool-heater-installation/)
+*   [How, When and Why to Drain Your Swimming Pool](https://www.homeserve.com/en-us/blog/how-to/drain-pool/)
+*   [How Much Does a Pool Liner Cost to Repair or Replace?](https://www.homeserve.com/en-us/blog/cost-guide/pool-liner-replacement/)
+*   [How to Clean a Pool Filter](https://www.homeserve.com/en-us/blog/how-to/clean-pool-filter/)
+*   [How to Build an Above-Ground Pool](https://www.homeserve.com/en-us/blog/how-to/install-above-ground-pool/)

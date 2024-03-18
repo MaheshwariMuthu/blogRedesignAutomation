@@ -1,0 +1,96 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Ceiling Fan Wiring: How to Wire a Ceiling Fan"
+headline: "How to Wire a Ceiling Fan"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-03-27
+basePath: https://library.homeserve.com/m/
+heroImage: 3a81839bfb2da8fd/Blog-GettyImages-186773246.jpg
+heroAltDescription: "close up of an electrician holding the upper shroud of a residential ceiling fan to display the wiring "
+metaDescriptions: "Wiring a new ceiling fan is a project that you can likely tackle on your own in a few short hours without having to call on the pros. Here's how."
+articleAbstract: "Whether you’re looking to add a ceiling fan to a room in place of another fixture, or if you just want to upgrade a dated, existing fan with a more modern one, the change is bound to improve your space. And better yet, wiring and installing a new ceiling fan is likely a home improvement project that you can tackle on your own in a few short hours without having to call on the pros."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Wire a Ceiling Fan"
+  parent: HVAC-How-To
+---
+  **Ceiling Fan Installation at a Glance**
+
+* **Step 1:** Install mounting bracket
+* **Step 2:** Install fan assembly
+* **Step 3:** Attach blades and bulbs
+* **Step 4:** Test fan
+* **Step 5:** Bask in the breeze
+
+Ceiling fans can do wonders for a room in need of a little extra _oomph_ in air flow. They’re especially helpful in warmer climates, for obvious reasons, but because their blades can be directed to either pull air upward or downward, they can actually increase the energy efficiency of your home year-round. They also make great additions to a covered deck or patio space, adding a comforting breeze on stagnant summer evenings.
+
+**This May Also Interest You:** [**As the Seasons Change, So Should the Direction of Your Ceiling Fan**](https://www.homeserve.com/en-us/blog/home-improvement/ceiling-fan-direction/)
+
+Whether you’re looking to add a ceiling fan to a room in place of another fixture or just want to upgrade an existing fan with a more modern one, the change is bound to improve your space. And better yet, wiring and installing a new ceiling fan is likely a home improvement project that you can tackle on your own in a few short hours without having to call on the pros.
+
+Getting Started
+---------------
+
+Before beginning your installation, it’s important to make some careful considerations:
+
+### What’re You Wired For?
+
+Determine whether the room is already wired for a ceiling light. If the room _isn’t_ wired for a ceiling light, the job will become much more difficult, as you’ll have to run an electrical cable to the ceiling and cut a hole through the drywall. Adding wiring to a room can quickly get out of hand and will probably require you to hire an electrician in order to get the room wired safely.
+
+### Size for the Space
+
+Secondly, it’s important to make sure that you’re installing the correct size fan for the room. Rooms less than 144 square feet, like bathrooms, utility rooms and small bedrooms call for a fan under 42 inches. For medium-size rooms (between 145 and 200 square feet), a 45- to 50-inch fan is ideal. Finally, for larger-size rooms (more than 200 square feet), like master suites or living rooms, plan to install a fan measuring 50 inches or larger. Broadly speaking, you’ll want to make sure that the fan blades are at least 30 inches away from walls or any other obstructions.
+
+### Height Makes Right
+
+Lastly, ensure that the bottom edges of the blades are at least 7 feet off of the ground. This ensures that the fan will provide enough circulation to the room. It’ll also protect the taller folks among us from knockin’ our noggins.
+
+5-Step Fan Installation
+-----------------------
+
+For product-specific instructions, make sure you follow the manufacturer’s wiring diagram included with your product. If you’re missing the diagram, there’s a good chance you can find it online. The following outline should be considered a useful guide.
+
+### Step 1: Install the Mounting Bracket
+
+Before you begin installation on your new ceiling fan, make sure the relevant circuit breakers have been turned off at the electrical box. Then, make sure all the wiring has been stripped to expose bare copper at the ends.
+
+After you’ve shut off power and prepped your wire from the ceiling, it’s time to install the mounting bracket that should be included with your new ceiling fan assembly. Mounting brackets are sometimes pre-attached to the main component of the fan. If that’s the case, detach the ceiling fan mount bracket and screw the bracket to the ceiling light box with the screws included with the assembly. As you attach the bracket, make sure there’s enough room for the supply wiring from the ceiling to pass through the opening in the ceiling fan mount bracket.
+
+### Step 2: Install the Fan Assembly
+
+Once your ceiling fan mount bracket has been installed, use a stepladder and attach the fan assembly over the fan bracket. Once it’s secured, it’s time to connect the electrical wiring from the ceiling to the ceiling fan assembly. While connecting the wires included in ceiling fan assembly isn’t terribly difficult, it can seem pretty intimidating if you’ve never dealt with any home electrical components before. Simply put: You want to match up the colored (red, white, black) wires. The bare copper wire from the fan assembly connects to the green wire that extends from the ceiling.
+
+Pretty straightforward, right? It _is_ straightforward, but it can start to get confusing when a fan assembly contains a blue or red wire; this typically connects to the black wire from the ceiling, but you should always carefully read the manufacturer’s instructions before you start connecting wires. When the wires have been securely connected and capped with the plastic twist-on wire caps included with your assembly, push the wires back into the ceiling’s junction box.
+
+### Step 3: Attach the Blades and Bulbs
+
+After your electrical wiring has been properly connected, you can begin to attach the fan’s blades. Some fan blades are reversible, and typically contain two different shades of the same color. Decide which side you want to be visible and mount the blade bracket to the fan blade with the included hardware. Again, much of this depends on your specific ceiling fan brand and assembly; some fans have decidedly more efficient assemblies than others and only require the fan to snap into the bracket. After the fan blades are attached, add any lightbulbs or shades that have been included in your fan’s assembly.
+
+**More Related Articles:**
+
+*   [How to install a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/install-ceiling-fan/)
+*   [How Much Does it Cost to Install or Replace a Ceiling Fan?](https://www.homeserve.com/en-us/blog/cost-guide/ceiling-fan-installation/)
+*   [Best Outdoor Ceiling Fans](https://www.homeserve.com/en-us/blog/buying-guide/best-outdoor-ceiling-fans/)
+*   [Central Air Installation and Replacement Cost](https://www.homeserve.com/en-us/blog/cost-guide/central-air-installation-cost/)
+*   [Summer's Coming and We're All Wondering: Should I Replace or Repair My Air Conditioner?](https://www.homeserve.com/en-us/blog/home-improvement/repair-replace-air-conditioner/)
+
+### Step 4: Test Your Fan
+
+Once your fan assembly has been completed and mounted properly, turn your circuit breaker back on and test your ceiling fan to see if it’s working properly. If the fan doesn’t spin or the light isn’t turning on, you might need to turn the breaker back off and detach your fan from the mounting bracket to check your electrical wire connections.
+
+### Step 5: Time to Enjoy
+
+If your fan seems to be fully functional, your work here is done. Sit back and enjoy your newly updated fan. Bask in the gentle breeze that accompanies it and congratulate yourself for a job well done. By not hiring a pro for your fan installation, you’ve saved up to a couple hundred dollars — and for a project that you likely completed in an hour or two. Now the only question is: Which room of the house is in need of a fan next?
+
+_Although it can have a big impact on your comfort level, installing a ceiling fan is a relatively small job. As a homeowner, you know that bigger projects and repairs will come along. Being prepared with a home repair plan from HomeServe is one way to be ready for home maintenance costs and fixes. Once you have a plan in place and a covered issue arises, you can simply call the 24/7 repair hotline. A local, licensed and highly trained contractor will be sent out to you to get the job done to your satisfaction._
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8mzG-IJupUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

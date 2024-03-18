@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Water Softener?"
+headline: "What Is a Water Softener?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-03-17
+basePath: https://library.homeserve.com/m/
+heroImage: 507bab93afe1a9e5/Blog-855906892.jpg
+heroAltDescription: "a large blue residential water softener"
+metaDescriptions: "A water softener is a filtration system that removes minerals from your hard water. Find out more about water softeners here."
+articleAbstract: "Water softeners are a filtration system that removes minerals like magnesium and calcium from your water. Water softeners can also prevent damage to your appliances, clothes, dishes and even your hair and skin. Learn more here."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is a Water Softener?"
+  parent: Plumbing-Home-Improvement
+---
+  We drink it, bathe in it, wash with it and clean with it: Water is one of the most important features of your home. Ensuring it's properly filtered is essential. We often think of filtering water to drink, but there are other reasons that a filtration system — like a water softener — can be helpful.
+
+**This May Also Interest You:** [**Installing a Water Softener Isn’t So Hard: A 6-Step Guide**](https://www.homeserve.com/en-us/blog/how-to/water-softener-installation/)
+
+A water softener is a valuable appliance that can prevent damage to your home in the long term. Hard water contains mineral ions that can react with cleaning products. It can also wear down your fixtures more quickly than soft water. Read on to find out all about water softeners.
+
+A water softener is a filtration system that actively removes the high concentrations of minerals (like calcium and magnesium) from your water. These minerals are what make the water “hard.” Removing them results in softer water that's easier on your home's plumbing system and appliances. Soft water is also [better for your skin](https://www.watercare.co.uk/hard-water-vs-soft-water-which-is-better/), can leave your hair feeling smoother and may help balance your body’s pH level.
+
+How Does a Water Softener Work?
+-------------------------------
+
+Water softeners remove minerals like magnesium and calcium from water through a process known as [ion exchange](https://www.sciencedirect.com/topics/engineering/ion-exchange). Your hard water flows through a tank filled with negatively charged resin beads made of plastic. Magnesium and calcium are positively charged. As the hard water passes through, the negative ions attract the positively charged minerals in the hard water, actively removing the minerals from the water. Soft water then flows throughout your home.
+
+Why Is Hard Water a Problem?
+----------------------------
+
+Minerals like magnesium and calcium, in high concentrations, turn water into hard water. These minerals can react adversely with cleaning products. They also take a toll on your sinks, bathtubs and toilet bowls. Even your clothes and dishes can experience negative effects over time. If you have hard water in your home, you might notice some of these signs:
+
+*   Scale buildup on fixtures and hardware
+*   Clothing wearing out more quickly
+*   Rust-colored rings in your toilet bowl
+*   Soap scum on your shower tiles
+*   Your skin or hair feeling dry or dull after showering
+
+There are also invisible problems that occur in the home due to hard water. Minerals may build up on the inside of your piping, which can limit water flow and result in plumbing issues.
+
+**More Related Articles:**
+
+*   [How Much Does a Water Softener Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-a-water-softener-cost/)
+*   [How to Know if Your Bathtub Has Hard Water](https://www.homeserve.com/en-us/blog/home-improvement/hard-water/)
+*   [Plumbing Repair Cost Guide](https://www.homeserve.com/en-us/blog/cost-guide/plumbing-repair-costs/)
+*   [How Much Do Home Water Filtration Systems Cost?](https://www.homeserve.com/en-us/blog/cost-guide/water-filter-installation/)
+*   [How to Replace a Showerhead](https://www.homeserve.com/en-us/blog/how-to/change-shower-head/)
+
+FAQs
+----
+
+Here are the answers to some frequently asked questions about water softeners:
+
+### Is Drinking Softened Water Safe?
+
+Whether your softened water is safe to drink will depend on the level of sodium in it after softening. To confirm if your water is safe for drinking, the best thing to do is get it tested.
+
+### What Are the Disadvantages of a Water Softener?
+
+Softening your drinking water can result in different mineral levels. This can affect you the same way a diet change would. A water softener can also increase your utility bill. The softening process does not remove other elements that may be present in your water, like heavy metals, lead or a chlorine taste.
+
+### Are Water Softeners Worth the Cost?
+
+If you have extremely hard water in your home, a water softener is probably worth it. You may initially see an increase in your energy bills, but a water softener can actually save you money in the long run by preserving the plumbing and fixtures of your home.
+
+If You Suspect Hard Water ...
+-----------------------------
+
+Not certain whether you have a hard water problem, but you see some of the signs? Have your water professionally tested to find out. If you do have hard water, it's worth investing in a water softener as soon as possible to help keep your house and health in the best possible condition.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="520" height="281" src="https://www.youtube.com/embed/oX-jGd6sMF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

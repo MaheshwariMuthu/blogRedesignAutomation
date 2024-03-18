@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Turn Off a Water Heater"
+headline: "How to Turn Off Your Water Heater — and When It May Come Up"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-14
+basePath: https://library.homeserve.com/m/
+heroImage: 5ba742652edb1273/original/WaterHeater_onOFF_Erossi.gif
+heroAltDescription: "close up of a HoneyWell gas-powered high-efficiency water heater with the power switch alternating between on and off"
+metaDescriptions: "Knowing in advance how to turn off your water heater can give you the confidence that you know what to do in a plumbing emergency. Here’s a quick guide."
+articleAbstract: "Knowing in advance how to turn off your water heater can give you the confidence that you know what to do in a plumbing emergency. Here’s a quick guide."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Turn Off Your Water Heater (and When It May Come Up)"
+  parent: HVAC-How-To
+---
+  If you notice a leak from your water heater or your water supply is cut off, it's important to act quickly to avoid damage to your heater unit or surrounding walls and floors. Typically, this means turning off your water heater.
+
+**This May Also Interest You:** [**Does My Homeowners Insurance Cover My Water Heater?**](https://www.homeserve.com/en-us/blog/buying-guide/home-insurance-water-heater-coverage/)
+
+Knowing in advance how to turn off your water heater can give you the confidence that you know what to do in a plumbing emergency. Here’s a quick guide.
+
+Is It OK to Turn Off a Water Heater?
+------------------------------------
+
+It's generally best to avoid turning your water heater off too regularly. Some homeowners try to save money by switching off their water heaters when they don't need them, but the savings are unlikely to be significant enough to justify the additional wear and tear on your machine.
+
+Furthermore, you'll have to wait for around an hour for the water heater to produce enough hot water for a bath or shower after you turn it back on, which is bad news if you're in a rush and don't leave enough time. Switching your water heater on also puts it under extra stress, which could cause it to malfunction if you do it again and again. However, there are some situations when you'll need to turn your water heater off.
+
+When and Why Should You Turn Off a Water Heater?
+------------------------------------------------
+
+There are a couple of situations when you should consider turning your water heater off. If your main water supply is turned off for any reason, it's best to shut down the water heater as a precaution until the supply resumes. Continuing to run your water heater when the tank isn't full could cause heat damage to the internal components. 
+
+The other time you should always turn off a water heater is if it starts leaking. This is a sign of a faulty valve or could indicate that your heater is simply too old and needs replacing. A water leak from your heater could cause damage to your walls or floors, so turn it off until you can get support from a professional plumber. You'll also need to turn off an electric water heater before you flush it.
+
+How Do I Shut Off My Gas Water Heater?
+--------------------------------------
+
+First, locate the temperature dial on your gas water heater and twist it into the off position. Look around the top of the water heater to find the supply line and switch off the valve to stop any more water from flowing into the heater.
+
+Next, you need to switch off the gas supply to the heater. If you have a lever, turn it so that it's perpendicular to the supply line. If you have a knob, twist it clockwise until it won't go any further. Finally, turn the air relief valve off to let air inside the tank.
+
+How Do I Shut Off My Electric Water Heater?
+-------------------------------------------
+
+Start by finding the breaker box for your home's electricity supply and turn off the line to your water heater. You can usually find the breaker box on an external wall. If you plan on flushing your water heater, now is a good time. Turn off the water supply valve, then switch off the air supply valve to allow the tank to fill with air.
+
+**More Related Articles:**
+
+*   [Tired of Tepid? Here’s How to Turn Up the Temp on Your Water Heater](https://www.homeserve.com/en-us/blog/how-to/turn-up-water-heater/)
+*   [How to Install or Replace a Gas Water Heater](https://www.homeserve.com/en-us/blog/how-to/install-gas-water-heater/)
+*   [Your Guide to Draining a Water Heater](https://www.homeserve.com/en-us/blog/how-to/drain-water-heater/)
+*   [How to Test a Water Heater Element](https://www.homeserve.com/en-us/blog/how-to/test-water-heater-element/)
+*   [How Much Does It Cost to Repair or Replace Your Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/repair-or-replace-water-heater/)
+
+Can I Turn Off the Water and Leave My Water Heater On?
+------------------------------------------------------
+
+If you need to turn your water off for any reason, it's always safer to turn your water heater off, too. While many water heaters will be fine for a while without a water supply, reduced water pressure or a low water level inside the tank could cause the heater's components to overheat and burn. This could cause significant, expensive damage to your water heater. 
+
+How Do I Know If My Water Heater Is Off?
+----------------------------------------
+
+If you're concerned that you haven't turned your water heater off correctly, try turning on a faucet for a couple of minutes to ensure that the water runs cold. You can also try listening to the heater to check that it's silent. While a water heater should be reasonably quiet if it's in good working order, most make a low noise that will alert you if it’s still running.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/LfJL3ADHwTY?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

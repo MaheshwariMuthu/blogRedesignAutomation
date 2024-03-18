@@ -1,0 +1,73 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Do Utilities Cost?"
+headline: "How Much Do Utilities Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-08-02
+basePath: https://library.homeserve.com/m/
+heroImage: 4394fd4e6e9d2fb4/Blog-utility_bill_iStock-1173773326.jpg
+heroAltDescription: "Utility bill"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Utility costs really depend on where you live and how much of these services you consume."
+articleAbstract: "So, how much do utilities cost? We’ll say it once, and we’ll say it again: It really depends on where you live and how much of these services you consume."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Do Utilities Cost?"
+  parent: Interior-Cost-Guide
+---
+  Buying a new home? In addition to all of the fees and costs that go along with that, you’ll also want to make sure you budget for your monthly household expenses, like electricity and water. This can be a major headache, especially if you’re new to paying for utilities, or if you’re moving from an apartment to a single-family home. If you’re on a budget, it’s important to have a general idea — or at least a worst-case scenario idea — of how much the basics cost so you can decide whether you can really afford this new place.
+
+**This May Also Interest You:** [**More Power to You: How to Read Your Electricity Bill**](https://www.homeserve.com/en-us/blog/how-to/read-electricity-bill/)
+
+So, how much do utilities cost? We’ll say it once, and we’ll say it again: It really depends on where you live and how much of these services you consume. But by following a little sound advice and calculating using a few standard metrics, you can get a general idea of how much utilities will cost in your new home.
+
+How Much Is Water Every Month?
+------------------------------
+
+According to the [U.S. Geological Survey](https://www.usgs.gov/special-topic/water-science-school/science/water-qa-how-much-water-do-i-use-home-each-day?qt-science_center_objects=0#qt-science_center_objects), the average person uses approximately 80 to 100 gallons of water per day. Based on this average, a family of four would use about 10,500 gallons in a 30-day timeframe. Flushing the toilet requires the most water, and the next highest usage comes from baths and showers. Water prices vary across the country depending on what state you live in.
+
+Water costs are measured in centrum cubic feet, which is equal to 100 cubic feet of water, or [748 gallons](https://www.epa.gov/watersense/understanding-your-water-bill). So, to figure out the average cost of your water bill, you need to know how much a CCF of water is within your state. Most municipal water departments will provide this information to you.
+
+Your water bill is a combination of fixed fees, or facility and sewer charges, variable charges and the water volume. According to data from [LawnStarter](https://www.lawnstarter.com/blog/cost/average-water-bill-price/), states with the least expensive water prices are North Carolina, Wisconsin, Vermont and Maine. Those with the most expensive costs include West Virginia, Oregon and Alaska. In general, the average monthly cost of water for a family of four is approximately $73 (CAD 98). Most households spend between $37 and $115 (CAD 49 and CAD 154).
+
+How Much Does Electricity Cost?
+-------------------------------
+
+According to the [U.S. Bureau of Labor Statistics](https://www.bls.gov/regions/midwest/data/averageenergyprices_selectedareas_table.htm), the average cost of electricity in the United States is 16.5 cents (CAD 0.22) per kilowatt-hour, and a typical household uses around 908 kWh per month, making the average monthly electric bill around $149.82 (CAD 200).
+
+Just like water costs, electricity costs vary from state to state. Generally, you are paying to build, finance, maintain and operate the plant where you purchase your electricity from. If you pay attention — or check this data from the U.S. Bureau of Labor Statistics, the cost of fuel in your area will correlate with the cost of your electric bill. In states where fuel prices are high — such as Hawaii and Connecticut — your electric bill will be much higher than in places where fuel prices are lower, like Idaho and North Dakota. Other factors that can determine your electric bill cost include the time of the year, market changes and disruptions in how much fuel is on hand.
+
+A smart thermostat can learn your household patterns and adjust temperatures based on when your home is active or unoccupied. This will help you save on your heating and cooling bills. Keeping your household appliances in top condition is also an important factor in controlling utility costs.
+
+How Much Do Trash and Recycling Services Cost?
+----------------------------------------------
+
+[Trash and recycling fees](https://balancingeverything.com/average-utilities-cost/) are normally $12 to $20 (CAD 16 to CAD 27) per month for weekly or biweekly curbside services, so says Balancing Everything. With a recycling service, you normally have one paper bin and one metal and plastic bin. If you have more recycling than this every week, you can ask for additional bins, which will raise your monthly fee. Some trash services charge by the month, while others charge quarterly. Some may even expect you to pay for the service in advance. Factors that can affect your trash and recycling costs include where you live, the size of your container, local taxes and dumping charges.
+
+**More Related Articles:**
+
+*   [How Much Does Electricity Cost?](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [What’s It Like to Go Solar? 5 Things They Don’t Tell You in the Brochure](https://www.homeserve.com/en-us/blog/home-improvement/solar-panels/)
+*   [What’s a Free-to-Air Antenna and How Do You Set It Up?](https://www.homeserve.com/en-us/blog/home-improvement/free-to-air-antennas-explained/)
+*   [Trash Cash: Here’s How Much It Costs to Rent a Renovation Dumpster](https://www.homeserve.com/en-us/blog/cost-guide/dumpster-rental/)
+
+How Much Does Natural Gas Cost?
+-------------------------------
+
+[CenterPoint Energy](https://www.centerpointenergy.com/en-us/Services/Pages/natural-gas-electricity-cost-comparison.aspx?sa=mn&au=bus) says natural gas prices tend to be two to three times lower than electric prices in an area because gas is 90% more efficient, and it takes a lot less energy to extract natural gas from its source than it does to generate electricity. Your bill includes delivery costs and an interim rate adjustment. Season and location are the two main factors for your natural gas bill. Unlike electricity that's generated nearby, natural gas is shipped in from where it's extracted and stored. So, the further you live from a distribution point, the more expensive your gas bill will be.
+
+The [average cost of natural gas﻿](https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_DMcf_m.htm) for residential use is $14.47 (CAD 19) per thousand cubic feet, or around $65 to $70 (CAD 87 to CAD 94) [per month](https://www.sofi.com/learn/content/average-cost-of-gas-per-month/). You can keep these costs to a minimum by keeping your heating system maintained, using a smart thermostat, turning down your water heater and sealing all leaks around windows and doors.
+
+How Much Are Internet, Telephone and TV Bills Each Month?
+---------------------------------------------------------
+
+According to Forbes, the average household pays around $53 to $250 (CAD 71 to 334) per month for [phone, cable and internet bills](https://www.forbes.com/home-improvement/internet/internet-cost-per-month/). Your connection type is the biggest factor in how much you will pay. Fiber is the cheapest option at around $48 (CAD 64) per month, and a satellite connection is the most expensive. Other factors, such as data caps and upload and download speeds, can also affect your end cost. Many households opt out of cable services by signing up for streaming services like Hulu and Netflix, which have monthly subscription costs. Some of these plans include local channels, too.
+
+When signing up, it's a good idea to look for promotions that can lower your costs. Some streaming services offer bundle packages, so if you add options like HBO and Showtime, you save more than if you purchase these plans separately. If you don't watch movies as often, you can also pay on demand. With this option, you only pay for what you watch instead of paying for a library of movies. Services like Amazon and YouTube offer movies for rent individually.
+
+Most households use cell phone services as their main telephone connection. Regardless of what carrier you use, the [average cell phone bill](https://blog.gitnux.com/cell-phone-bill-statistics/) is around $114 (CAD 152) per user. You can control your cell phone costs by choosing a no-contract plan or by using a smaller carrier. You may only get a limited service area, but it’s ideal for those who tend to stay close to home.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

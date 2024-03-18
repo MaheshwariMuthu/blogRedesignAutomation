@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Happens During a Sewer Line Inspection?"
+headline: "What Happens During a Sewer Line Inspection?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-12-28
+basePath: https://library.homeserve.com/m/
+heroImage: 76cc2d0dbbabf1c/Blog-USP_SSL_SHMQ62EEA2AE_01.jpg
+heroAltDescription: "Septic sewer line snaking for a clog"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A sewer line inspection reduces the risk of leaks, backed-up sewage and other unpleasant drain issues. Here's a look inside the process."
+articleAbstract: "Sewer issues are some of the most disgusting home maintenance nightmares a homeowner can face. A sewer line inspection can help you avoid this stomach-churning scenario. Here’s a look inside the process."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Happens During a Sewer Line Inspection?"
+  parent: Plumbing-Home-Improvement
+---
+  Sewage backing up inside your house or seeping into your backyard is one of the most disgusting home maintenance nightmares a homeowner can face.
+
+**This May Also Interest You:** [**How Much Does Sanitary Sewer Line Maintenance and Repair Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/sewer-line-repair-and-replacement/)
+
+Fortunately, you can often avoid this stomach-churning scenario by booking a sewer line inspection. Here’s a look inside the process.
+
+What Happens During a Sewer Line Inspection?
+--------------------------------------------
+
+A sewer camera inspection involves examining the inside of your home's main drainpipe and sewer lines with a specialized camera. Your plumber can insert the camera into your sewer line via a "cleanout," which is a small pipe that provides access to your drains. Cleanouts are usually installed in your backyard, although some homes have an indoor cleanout.
+
+If you don't have a cleanout, your plumber will remove a toilet to access the sewer line. This process takes longer, so you'll likely pay more if you don't have an existing access point. It could be worth installing a cleanout if you plan to have regular sewer line inspections.
+
+After gaining access to your sewer line, the inspector runs a video camera through your drains and uses the footage to find clogs. They'll also look for cracks, holes, tree roots and any other problems that could cause your drains to back up or leak. After the inspection, your plumber may recommend repairs or modifications to your sewer line to improve its performance and reduce the risk of more expensive problems. For example, they may suggest repairing bellying (low areas of your pipes where water and sewage can accumulate).
+
+How long a sewer line inspection takes depends on the length and condition of your sewer line. Generally, you can expect your plumber to finish the inspection in under an hour. However, it could take longer if you have an unusually long sewer line or your inspector discovers issues.
+
+What Techniques and Tools Do Sewer Line Inspectors Use?
+-------------------------------------------------------
+
+Most professional sewer line inspectors use a camera called a borescope or sewerscope to view the inside of your plumbing system. Borescopes have flexible leads, allowing them to bend around any twists and turns in your pipework to examine hidden areas.
+
+Sometimes, a plumber may use a drain snake to check your sewer line for clogs. Drain snakes are flexible augers lined with hooks that grab onto clogs and dislodge them from your pipes. Hiring a plumber to clear your sewer lines with a drain snake may be cheaper than a full sewer camera inspection. However, a drain snake can't detect other common sewer line issues, such as leaks and penetrating tree roots.
+
+**More Related Articles:**
+
+*   [What to Do When Your Sewer Backs Up](https://www.homeserve.com/en-us/blog/how-to/sewer-backup/) 
+*   [Never Flush These 11 Things Down Your Toilet](https://www.homeserve.com/en-us/blog/home-improvement/things-to-never-flush-down-toilet/) 
+*   [Can You Pour Cooking Grease Down the Drain? No. Here’s Why](https://www.homeserve.com/en-us/blog/home-improvement/do-not-pour-grease-down-drain/) 
+*   [8 Things You Should Never Put Down the Garbage Disposal (and 5 Things You Can)](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-dos-and-donts/) 
+*   [What’s a Fatberg? (Spoiler: It’s as Gross as It Sounds)](https://www.homeserve.com/en-us/blog/home-improvement/what-is-a-fatberg/) 
+
+Do I Need a Sewer Camera Inspection?
+------------------------------------
+
+Many homeowners wait until they notice problems with their drains before scheduling a sewer line inspection. However, experts often recommend hiring a plumber to inspect your drains once per year to help keep on top of sewer line maintenance.
+
+The advantage of regular inspections is that they can detect minor issues before they worsen, allowing you to avoid more expensive repairs and disruption. They can also help protect your home against structural damage and health concerns associated with damaged sewer lines. While annual inspections should be enough for newer homes, your plumber may recommend having your sewer line checked more often if you live in an older property. Old houses are likelier to have damaged pipes or drainage systems made from leak-prone clay.
+
+Knowing the signs of sewer line issues reduces the risk of hefty repair bills and unpleasant sewage backups inside your home. Schedule an inspection as soon as possible if you notice:
+
+*   Rodents or other infestations
+*   Water backing up in your toilets, sinks or bathtubs
+*   Large trees growing near your sewer lines
+*   Unpleasant smells coming from your drains
+*   Unusually lush or overgrown patches of grass on your lawn
+*   Ground movement around your house
+
+You should always schedule a sewer camera inspection before buying a new house. Drainage issues aren't always apparent during a house viewing, and an inspection is essential for avoiding potentially costly repairs after moving in. If you're having a home inspection, your inspection company may carry out a free sewer line inspection or offer this service at a discount.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/a-9SAcEgcOs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Yeah, maybe put down the plunger and call a plumber."></iframe>

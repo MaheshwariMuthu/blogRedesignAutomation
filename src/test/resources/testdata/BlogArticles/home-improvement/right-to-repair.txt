@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What is Right to Repair?"
+headline: "What Is the 'Right to Repair' Movement?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-09-21
+basePath: https://library.homeserve.com/m/
+heroImage: 63361ba23c093c6b/Blog-HomeServeUSA-THW-PhotoShoot-2019ModernFotographicbyDaveNoonan-217of247.jpg
+heroAltDescription: "appliances"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Right to Repair aims to make replacement parts more affordable and accessible to consumers and repair technicians."
+articleAbstract: "Right to Repair aims to make replacement parts more affordable and accessible to consumers and repair technicians. Here are the pluses and minuses."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is the 'Right to Repair' Movement?"
+  parent: Appliances
+---
+  We’ve all experienced it: A beloved electronic or appliance is on the fritz, and the issue involves buying a replacement part. Let’s say it’s your dishwasher, and it needs a new motor. The problem is, a new motor is expensive, as is the labor to install it. It's so expensive, in fact, that it can feel like buying a completely new dishwasher would be smarter and simpler than fixing the one you have.
+
+**This May Also Interest You:** [**What’s the Difference Between Leasing and Rent-to-Own When It Comes to Appliances?**](https://www.homeserve.com/en-us/blog/home-improvement/leasing-vs-rent-to-own/)
+
+This frustrating process isn’t good for your wallet or the planet, as it ends up costing you more money and also sends a perfectly fixable product into the landfill.
+
+What Is Right to Repair?
+------------------------
+
+Recognizing this as a near-universal issue across the U.S., the [Right to Repair movement](https://www.repair.org/stand-up) aims to help combat the difficulties of part replacement by mandating that companies begin making replacement parts more affordable and accessible to consumers and third-party repair technicians.
+
+It’s also meant to increase access to repair information and reduce the number of product repairs that require specialty tools and diagnostic equipment, which are also frequent barriers to affordable repairs. This Right to Repair movement extends to home appliances, personal electronics like cell phones and computers, medical devices, vehicles and even farm equipment.
+
+According to [the Repair Association](https://www.repair.org/stand-up), as of 2022, the majority of states have an active Right to Repair bill in place, or have had a Right to Repair bill introduced in state legislature at some point. Under these bills, manufacturers must give consumers and third-party repair technicians access to tools, parts and other repair information.
+
+Planned Obsolescence
+--------------------
+
+Right to Repair also strives to combat planned obsolescence. [Planned obsolescenc](https://www.investopedia.com/terms/p/planned_obsolescence.asp)e is a strategy many manufacturers employ, under which new products become quickly outdated, making repairs increasingly difficult and expensive.
+
+For example, many newer smartphones don’t have batteries that can be replaced, unlike their older counterparts. Once your battery dies or is damaged in some way, you’ll have to replace the whole phone. Additionally, older models are often incompatible with new software updates and accessories, all but forcing the consumer to upgrade to a new product once their phone is outdated. Right to Repair aims to curb deliberate corporate actions like this that are both wasteful and costly to consumers.
+
+What Was the 2021 Executive Order About?
+----------------------------------------
+
+In July 2021, President Biden signed an [executive order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/) that, among other things, directs the Federal Trade Commission to make new policies and create guidelines for corporations to address the Right to Repair. The FTC later [voted to adopt a policy](https://www.ftc.gov/news-events/news/press-releases/2021/07/ftc-ramp-law-enforcement-against-illegal-repair-restrictions) to curb repair restrictions.
+
+The idea behind this executive order is that by requiring companies to make replacement parts less expensive and easier for customers and independent repair professionals to access, more folks will choose to fix their appliances and electronics rather than fully replace them.
+
+The belief surrounding the “right to fix” is that consumers should not have to rely so heavily on the manufacturer alone to access parts or repair their product, as doing so can be cost-prohibitive and complicated. Another part of the proposal includes allowing for the use of off-brand replacement parts and unauthorized repair technicians without voiding the manufacturer warranty.
+
+**More Related Articles:**
+
+*   [How Long Do Appliances Last?](https://www.homeserve.com/en-us/blog/home-improvement/how-long-do-appliances-last/)
+*   [Should I Buy a Smart Appliance? Here’s Everything You Need to Know](https://www.homeserve.com/en-us/blog/buying-guide/smart-appliances/)
+*   [What Are Floor Model Appliances and Should You Buy One?](https://www.homeserve.com/en-us/blog/buying-guide/floor-model-appliances/)
+*   [Should You Buy a Used Appliance? Weigh the Risks and Rewards](https://www.homeserve.com/en-us/blog/buying-guide/used-appliances/)
+*   [What Do You Do With an Old appliance? How to Recycle Fridges, Washers, Ovens and More](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+Are There Benefits for Consumers?
+---------------------------------
+
+Consumers can benefit from Right to Repair by gaining more access to affordable replacement parts for any DIY repair projects. But they can also save money when hiring an independent professional repair person. Furthermore, the hope is that consumers won’t have to buy new appliances or electronics as frequently, saving them the time, money and effort required to research and purchase new products.
+
+The proposed benefits go even further. The hope is that under this executive order, new repair laws will cause a ripple effect of benefits that extend beyond saving the consumer money. It should also help repair technicians at independent repair shops, as they’ll have greater access to parts that may have previously been too expensive or had fallen under strict manufacturer copyright laws. They may also get more work, since consumers won’t be bound by their warranty to get certain products repaired by the original manufacturer.
+
+And as far as environmental benefits go, Right to Repair aims to curb excessive production and reduce landfill waste by preventing the unnecessary disposal of appliances and electronics.
+
+Are There Downsides for Consumers?
+----------------------------------
+
+Despite its myriad benefits, Right to Repair still has some opponents. One worry is user safety. [Critics](https://www.nytimes.com/wirecutter/blog/what-is-right-to-repair/) contend that if parts become more affordable and easily available, then more consumers will attempt to do repairs on their own, which, if not done with proper care and consideration, could lead to injury.
+
+Another argument in favor of repair restrictions is that many new products — particularly personal electronics, like cell phones — are becoming so technologically complex (and getting smaller and smaller) that it’s hard _not_ to need specialty tools to repair them. The concern is that restricting the type of tools needed for repairs may limit product design and advancement.
+
+Keeping Things Fair With Right to Repair
+----------------------------------------
+
+Despite the above concerns, Right to Repair stands to help level the playing field a bit for consumers by keeping corporations in check. Right to Repair empowers consumers by reducing out-of-pocket costs for standard repairs and replacements. For homeowners, this means your household appliances may last longer and cost less in the long run. Plus, you can feel better about your environmental footprint by getting more life out of hard-to-recycle products like electronics and appliances.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does Rainwater Harvesting Cost?"
+headline: "How Much Does Rainwater Harvesting Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-12-29
+basePath: https://library.homeserve.com/m/
+heroImage: 665a682433b05798/Blog-GettyImages-1198105335.jpg
+heroAltDescription: "green plant in rain barrel with gutter downspout and home"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Rainwater harvesting provides a potential solution to high water bills. Here are the details on installation cost."
+articleAbstract: "Whether you’re looking for a way to live more sustainably or you just want to try to decrease your monthly water bill, rainwater harvesting provides a potential solution."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does Rainwater Harvesting Cost?"
+  parent: Exterior-Cost-Guide
+---
+  Whether you’re looking for a way to live more sustainably or you just want to try to decrease your monthly water bill, rainwater harvesting provides a potential solution. But if you’re new to the concept, you’ll no doubt have questions surrounding the process. Luckily, it’s not that complicated. Just collect and store the rainwater that falls on your property.
+
+**This May Also Interest You:** [**How to Make a Rain Barrel: A 4-Step DIY Guide**](https://www.homeserve.com/en-us/blog/how-to/diy-rain-barrel/)
+
+Here’s a look at the average price — plus the legal restrictions — of installing a system for rainwater collection.
+
+In Which States Is It Illegal to Collect Rainwater?
+---------------------------------------------------
+
+Your first concern when considering harvesting rainwater may be the legality. There are currently no federal regulations regarding rainwater collection, but numerous states have laws on the books. Colorado and Utah are the strictest of these.
+
+Because of extremely old laws dealing with water usage rights, collecting rainwater in Colorado used to be illegal. However, since 2016, each household is allowed to catch and store up to 110 gallons of rainwater. In Utah, there’s a maximum limit of 2,500 gallons for rainwater storage systems and a permit is required.
+
+For the other states that regulate water collection, legislation is built around rules specifying how the collection must be done or how the water can be used. The majority of states have no regulations on collection. Some states even actively encourage residents to collect and use rainwater with tax credits and other incentives. Check your state’s rules [here](https://worldwaterreserve.com/rainwater-harvesting/is-it-illegal-to-collect-rainwater/). Some localities might have restrictions or specifications, so always check local laws to ensure compliance.
+
+How Much Does a Rainwater Harvesting System Cost?
+-------------------------------------------------
+
+The cost of a rainwater harvesting system varies based on how sophisticated it is. A basic rain barrel costs between $120 and $160 (CAD 160 and CAD 215), according to [Fixr](https://www.fixr.com/costs/rainwater-collection-system#rain-barrel-cost). Simply putting one outside during rain to collect the water would be the cheapest option.
+
+Other, more involved systems designed to actively harvest the rainwater can be considerably more expensive. Based on [Fixr's data](https://www.fixr.com/costs/rainwater-collection-system#rain-barrel-cost), ‘dry’ systems that collect rainwater from your roof cost between $1,000 and $5,000 (CAD 1,350 and 6,800). Meanwhile, a more sophisticated 'wet' system that collects water via a network of underground pipes costs between $8,000 and $15,000 (CAD 10,800 and CAD 20,300) installed. Budget an extra $75 to $200 (CAD 100 to CAD 270) if you want a rainwater filtration system.
+
+**More Related Articles:**
+
+*   [Cleaning Gutters Doesn’t Have to Be Gut-Wrenching. Here’s a Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/gutter-cleaning/)
+*   [How Much Does It Cost to Clean Gutters?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-gutter-cleaning-cost/)
+*   [Gutter Installation Cost Guide](https://www.homeserve.com/en-us/blog/cost-guide/gutter-installation-cost/)
+*   [Everything You Need to Know About Gutters](https://www.homeserve.com/en-us/blog/buying-guide/gutter-system/)
+*   [How to Prevent Water Damage With Proper Home Drainage](https://www.homeserve.com/en-us/blog/how-to/water-damage-prevention/)
+
+How Much Does a Water Storage System Cost?
+------------------------------------------
+
+In many cases, the most expensive portion of the catchment system will be the storage component. Storing water for an extended period of time means the necessity for a larger space in most cases. Even if a larger tank isn’t necessary, ensuring the water remains safe and usable is important, and those components of your rainwater storage will be more expensive.
+
+Smaller tanks and bladders start from around $120 (CAD 160) for something equivalent to a barrel meant for longer storage. But larger and more permanent solutions could cost as much as $6,000 (CAD 8,100), depending on size and whether you need to connect pumps and other plumbing-type accessories.
+
+Are Rainwater Harvesting Systems Worth It?
+------------------------------------------
+
+After looking at the costs associated with rainwater collection and storage, it’s up to each individual to determine what best fits their situation. For many, it presents a viable option. Whether you’re looking to harvest rainwater for a home improvement or gardening project, remove yourself from the local water supply or anything in between, there are plenty of cost-effective options.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

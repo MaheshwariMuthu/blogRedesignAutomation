@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Fall Risk Prompts Recall of 3,100 Sauder Woodworking Bar Stools"
+headline: "Fall Risk Prompts Recall of 3,100 Sauder Woodworking Bar Stools"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-05-14
+basePath: https://library.homeserve.com/m/
+heroImage: 459e29857dc84b0c/webimage-BarStoolsRecall_SauderWoodworking.png
+heroAltDescription: "recall product"
+metaDescriptions: "Sauder Woodworking has recalled 3,100 Sauder and Aliesha-May counter-height bar stool sets due to a fall risk. Here’s how to find out if yours is one of them."
+articleAbstract: "Sauder Woodworking has recalled some Sauder and Aliesha-May counter-height bar stool sets due to a fall risk. About 3,100 units are affected by this recall. Here’s how to find out if yours is one of them."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Sauder Woodworking Recalls Counter Height Bar Stools Due to Fall Hazard"
+  parent: Interior-Home-Home-Improvement
+---
+  
+
+Sauder Woodworking has recalled some Sauder and Aliesha-May counter-height bar stool sets due to a safety hazard. According to the Archbold, Ohio-based [distributor](https://www.sauder.com/getmedia/e7306979-4583-4a8d-9fa1-817a93152813/424944-Consumer-Recall-Announcement), the stools’ legs may become unstable over time, posing a fall risk. About 3,100 units are affected by this recall. Here’s how to find out if yours is one of them.
+
+**This May Also Interest You:** [**Are You Sitting Down? Hillsdale Furniture Recalls 10,500 Stools Over Fall Risk**](https://www.homeserve.com/en-us/blog/home-improvement/jennings-stool-recall/)
+
+The recall, announced April 28, involves stools with item number 424944 that were manufactured between September 2019 and August 2020. To find the item number and the date your stools were manufactured, check the label on the underside of the seat.
+
+According to the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/Sauder-Woodworking-Recalls-Counter-Height-Bar-Stools-Due-to-Fall-Hazard), the stools were made in China and sold online at Wayfair.com, ZOLA.com, CYMAX.com and other online retailers between January 2020 and February 2021, at a price between $85 and $95 per set of two. Sauder Woodworking has received three reports of unstable stools, including two reports of falls; no injuries have been reported.
+
+Sauder Woodworking is contacting all known buyers of affected stools directly. If your stool set has been recalled, stop using it immediately and follow [these instructions](https://www.sauder.com/getmedia/ea6780b4-a461-4f58-8282-941959105420/424944-Instructions-for-Refund) posted by the manufacturer for rendering your stools unusable to prevent injuries. Upload the photos of the broken-down stools to [this recall form](https://www.sauder.com/service/recall/424944) for verification. Once verified, you’ll receive a $100 refund.
+
+You can reach Sauder Woodworking by calling 866-218-8312 or visiting the company’s [Public Notices](https://www.sauder.com/About/Public-Notices) page. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Watch Your Seat: 3,100 StyleWell Dining Chair Sets Recalled for Fall Risk](https://www.homeserve.com/en-us/blog/how-to/Wood-Windsor-Dining-Chair-Recall/)
+*   [Crushing Hazard Leads to Recall of 82,000 Bed Tech Platform Bed Frames](https://www.homeserve.com/en-us/blog/home-improvement/bed-frame-recall/)
+*   [It Could Collapse: Lifetime Products Recalls 43,000 6-Foot Folding Tables](https://www.homeserve.com/en-us/blog/home-improvement/lifetime-products-seminar-table-recall/)
+*   [Watch Your Toes! 2.2 Million Edsal Shelving Units Recalled Due to Injury Risk](https://www.homeserve.com/en-us/blog/news/edsal-shelving-unit-recall/)
+*   [Babyproofing Your House: A Child-Safety Checklist](https://www.homeserve.com/en-us/blog/how-to/baby-proofing-house/)

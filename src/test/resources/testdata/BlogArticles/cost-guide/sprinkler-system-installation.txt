@@ -1,0 +1,79 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Sprinkler System Cost?"
+headline: "How Much Does a Sprinkler System Cost?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-03-29
+basePath: https://library.homeserve.com/m/
+heroImage: f46282a0b68e857/Blog-GettyImages-1280295291.jpg
+heroAltDescription: "Automatic sprinkler system watering the lawn at sunrise. Close-up. Gardening and law care."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Learn how much it costs to install a sprinkler system or drip-irrigation system."
+articleAbstract: "If you work hard on your home’s landscaping, installing a home irrigation system might be the best way to ensure your toils don't go to waste. Here, we break down the costs."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does a Sprinkler System Cost?"
+  parent: Plumbing-Cost-Guide
+---
+  If you work hard on your home’s landscaping, installing some kind of home irrigation system might be the best way to ensure your toils don't go to waste. An irrigation system can keep your lawn green, your flowers and shrubbery thriving, and can even increase the value of your home. What's more, new smart irrigation systems can connect with weather forecasts and use sensing technology to keep water usage to a minimum. Still, these systems can cost as much as $7,000 for professional installation, so deciding to put one in should be carefully mulled over.
+
+**This May Also Interest You:** [**Au Revoir, Standing Water! How to Install a French Drain in 8 Steps**](https://www.homeserve.com/en-us/blog/how-to/how-to-install-a-french-drain/)
+
+Here are some things to consider as you’re thinkin’ ’bout sprinklin’:
+
+Do You Need a Sprinkler System?
+-------------------------------
+
+It might seem like an obvious answer, but understanding your need for a sprinkler system is an important part of this process. You'll want to take into consideration what your actual watering needs are. Do you live in a place that gets plenty of rain? Do you have a large lawn that needs coverage, or are there only a few areas that need consistent moisture? Is your yard planted with local vegetation that can withstand the weather fluctuations in your area, or do you have specialized plantings that need extra attention?
+
+A good way to determine how often your grass needs water is simply to step on it: If it springs back, then it's fine but if not, it needs to be watered. By conducting this simple test over a few weeks, you'll get a sense of just how much of a water deficit there may be in your yard.
+
+While installing a sprinkler system might seem like an efficient way to keep your plantings and grass healthy, according to a study by the American Water Works Association ([as reported by the EPA](https://www.epa.gov/sites/production/files/2017-01/documents/ws-outdoor-water-efficient-landscaping.pdf)), the most water-efficient way to keep your yard at the proper moisture level is to use a hose. The group says that manually watering with a hose will use 33% _less_ water outdoors than average household usage, while in-ground sprinklers cause 35% _more_ usage. Even more surprising is that sprinkler systems on timers actually use 47% more water than normal.
+
+That being said, if you set up and use your sprinkler system with water usage in mind, you can cut down significantly on the amount you use of this particular natural resource. Plus, if you’ve spent a good amount of money on your landscape, the extra water costs might outweigh the risk of losing precious grass or plants.
+
+One of the key steps you can take to have a sprinkler system function properly is to set it up with zones — a specific set of water outlets to a specific area of your yard. That lets you give low-water usage plants less moisture, while delivering greater amounts to grasses or other plantings that need it.
+
+Are You a Drip...
+-----------------
+
+There are basically two types of irrigation systems for your yard: drip and sprinkler. Drip systems consist of a long stretch of either flexible or rigid tubing that runs to a specific part of your yard. The tubing can be either above ground or buried 2 inches below ground. Water travels through the tube and slowly leaks out into the surrounding soil, which has the benefit of feeding the roots of your greenery directly.
+
+According to the AWWA, drip irrigation systems use just 16% more water than standard households versus 35% for normal sprinkler systems — so they’re also more water efficient. Part of the reason is that sprinklers broadcast water over a large area, which means some of that moisture is lost to evaporation; drip systems avoid this problem. That being said, drip systems are really best for watering specific areas of your yard, such as flower beds, rather than an entire lawn, which can be better served by the greater range of a sprinkler system.
+
+According to [Lawn Love](https://lawnlove.com/blog/drip-irrigation-cost/), you can expect to pay an average of $223 to $2,000 (CAD 306 to CAD 2,745) per watering zone for a drip irrigation system with the tubing above ground, and about $815 to $4,335 (CAD 1,118 to CAD 5,950) per acre for a system with buried tubes, which is helpful if you’ll be mowing the area where it’s installed.
+
+...Or Are You More of a Sprinkle?
+---------------------------------
+
+The second major type of home sprinkler system is one that uses a series of sprinkler heads sunk in the ground and spaced apart to provide broad irrigation coverage. These systems consist of a main water line and a series of branch lines that travel to the individual sprinkler heads.
+
+The ultimate cost of a sprinkler system is determined by a number of factors, including how easy it is to dig the trenches in your yard, how many zones and heads you'll need, whether you'll do the job yourself, and whether local building codes require you to hire a plumber to connect the system to your home's water supply.
+
+**More Related Articles:**
+
+*   [A Grassroots Effort: How to Lay Sod in 4 Steps](https://www.homeserve.com/en-us/blog/how-to/how-to-lay-sod-down/)
+*   [Basic Lawn Care and Maintenance Tips](https://www.homeserve.com/en-us/blog/home-improvement/lawn-care-maintenance-tips/)
+*   [How to Prevent Water Damage With Proper Home Drainage](https://www.homeserve.com/en-us/blog/how-to/water-damage-prevention/)
+*   [Summer Home Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/summer-maintenance-checklist/)
+*   [What's the Difference Between Septic and Sewer?](https://www.homeserve.com/en-us/blog/home-improvement/difference-between-septic-and-sewer/)
+
+DIY or Pro
+----------
+
+According to data from Lawn Love, a professionally installed sprinkler system for an average yard measuring 1,000 to 3,000 square meters will run between $500 and $1,500 (CAD 700 and CAD 2,100). Doing the job yourself, however, would save significant cash, ringing up at around $130 to $260 (CAD 180 to CAD 360). If your landscape watering needs are relatively simple, or you only need to sprinkle a portion of your yard, you may very well wish to go it alone.
+
+One important consideration to take into account before you begin is to measure your home's water pressure, which you can do by attaching a pressure gauge to your hose bib. Most sprinkler systems best operate around 30 psi (pounds per square inch of pressure) or more, so if your pressure is lower than that, you'll need a system designed for a more minimal flow.
+
+Keep in mind that a pro may be able to bring benefits to the job that you might not otherwise be able to take advantage of. Pros know their way around local permitting laws, will work with a plumber if needed to get your system installed legally, and will be aware of which parts of your yard to avoid due to water lines or other utilities. A good irrigation system installer will also help you plan the number of sprinkler heads and zones you'll need for your particular area of the country and the types of plants you have. If you’re still in the planning stages of your landscaping project, pros can also provide input in terms of what to plant where to minimize water usage.
+
+Smart Vs. Not
+-------------
+
+Beyond choosing either a drip or sprinkler system, and choosing the right sprinkler heads for your needs (which are inexpensive at around $45 (CAD 60) for a pack of four), you'll also want to decide what kind of control system you'd like your system to run off of. [Thumbtack](https://www.thumbtack.com/p/sprinkler-systems-cost#automatic-sprinkler-cost) says this can be as simple as a heavy-duty sprinkler timer that clicks your system on and off at the same time each day — which could cost as little as $50 (CAD 70) for a six-zone controller — to a modern “smart” system that connects to the internet and special in-ground sensors to adjust your watering schedule based on weather forecasts and soil saturation. A [smart sprinkler controller](https://homeguide.com/costs/sprinkler-system-install-cost) should run in the range of $60 to $300 (CAD 80 to CAD 415), depending on the features you need.
+
+The number of zones you set up will also factor into the final cost for your project. According to [HomeGuide](https://homeguide.com/costs/sprinkler-system-install-cost#zone), every additional zone you add to a system will run about $300 to $700 (CAD 415 to CAD 960) in extra expense.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

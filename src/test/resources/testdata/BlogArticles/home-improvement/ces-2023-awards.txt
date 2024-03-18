@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "5 CES Innovation Awards Honorees that Will Change How You Interact With Your Home"
+headline: "5 CES Innovation Awards Honorees that Will Change How You Interact With Your Home"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-01-11
+basePath: https://library.homeserve.com/m/
+heroImage: 10af72450b65fbc6/Blog-CESSign_Leazenby.jpg
+heroAltDescription: "CES sign at Consumer Electronics Show 2023"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The CES Innovation Award Honorees recognize products that change the way our homes function. Here are five that made the cut for 2023."
+articleAbstract: "The CES Innovation Award Honorees recognize products that change the way our homes function. Here are five that made the cut for 2023."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "5 CES Innovation Awards Honorees that Will Change How You Interact With Your Home"
+  parent: Interior-Home-Home-Improvement
+---
+  
+
+The Consumer Technology Association’s CES (formerly known as the Consumer Electronic Show is perhaps the most influential tech event in the world, and the Innovation Awards are a yearly competition that honors brands and products at the forefront of consumer technology. The program recognizes honorees in a variety of product categories, from smart home devices to everyday appliances that work to make our lives easier, more comfortable and maybe even a bit more fun.
+
+**This May Also Interest You:** [**What’s the Internet of Things?**](https://www.homeserve.com/en-us/blog/home-improvement/internet-of-things/)
+
+Want to know what made the cut for 2023? Here are five game-changing home products honored in the CES 2023 Innovation Awards.
+
+1\. A Motion-Detecting Pillow That Collects Health Data
+-------------------------------------------------------
+
+Are you plagued by chronic snoring issues that prevent you from having a fully restorative sleep? Look no further than the [10Minds Motion Pillow](https://www.ces.tech/innovation-awards/honorees/2023/honorees/m/motion-pillow-2023.aspx). This smart pillow is designed to help you stop snoring, naturally. It consists of a pillow and a Motion System drive unit that recognizes when you snore. Air is injected into the pillow’s airbag and gently adjusts the user’s head or lifts their cervical spine to keep snoring at bay. The best part? This pillow works to prevent snoring no matter what sleeping position you’re in.
+
+<img class="detail-image" src="https://library.homeserve.com/m/637e23ef4cce111b/Blog-IMG_3609.jpg" alt="Bartesian product on display"/>
+
+2\. An In-Home Bartender
+------------------------
+
+Here’s one for all the cocktail enthusiasts out there. The [Bartesian Duet](https://www.ces.tech/innovation-awards/honorees/2023/honorees/b/bartesian-duet.aspx) is the first-ever smart cocktail maker. Using capsules that contain real cocktail ingredients (kind of like a [Keurig coffee maker](https://www.homeserve.com/en-us/blog/how-to/clean-keurig/)), the Duet uses cutting-edge technology to create perfect cocktails for you, on-demand. Forget the mess, expense and time investment of learning how to mix your favorite cocktails yourself; the Bartesian Duet does it for you in an easy three-step process. First, fill the Duet with your water and favorite spirits, then insert a Bartesian cocktail capsule containing all the additional ingredients (bitters, extracts and juices), then press “Mix” to receive a perfectly crafted cocktail. Adjust the settings on the Duet to measure the exact ratio of your preferred spirit to customize any cocktail recipe. Oh, and it measures just 9.5 inches wide — slim enough to fit in nicely on kitchen counters of all sizes.
+
+**More Related Articles:**
+
+*   [Samsung Smart Refrigerators: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-refrigerator/)
+*   [What Is a Google Nest Learning Thermostat and What’s It Do?](https://www.homeserve.com/en-us/blog/buying-guide/google-nest-thermostat/)
+*   [How to Set Up a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/setup-ring-doorbell/)
+*   [Everything You Need to Know about Samsung Smart Microwaves: Features and Functionality](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-microwave/)
+*   [How Much Does It Cost to Install a Keyless Door Lock?](https://www.homeserve.com/en-us/blog/cost-guide/keyless-door-lock/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/6943bdf062a34c6f/Blog-GrapheneRadiator.jpg" alt="graphene radiator on display"/>
+
+3\. The World’s First Graphene Radiator
+---------------------------------------
+
+You might not think you’d ever see a domestic radiator on a list of the most innovative products of 2023, but then again, you probably haven’t seen anything like the [Graphene Radiator](https://www.ces.tech/innovation-awards/honorees/2023/best-of/g/graphene-radiator.aspx) by Graphene Square. This radiator is less like a traditional radiator and more like a virtual fireplace. Generating heat from the thinnest and strongest material in the world, graphene, this radiator uses less space and over 30% less energy than other heating appliances. When it comes to heating your space, the Graphene Radiator is a total game-changer.
+
+<img class="detail-image" src="https://library.homeserve.com/m/545c184a7022f8e0/Blog-LG-PURICARE-AERO-FURNITURE-scaled.jpg" alt="Aero Furniture product image"/>
+
+4\. Air-Purifying Furniture
+---------------------------
+
+Indoor air quality is [a big deal.](https://www.osha.gov/indoor-air-quality#:~:text=The%20quality%20of%20indoor%20air,%2C%20nose%2C%20throat%20and%20lungs.) That’s why high-quality air purifiers are some of the most sought-after home appliances. But finding the right one for your room can be a challenge. After all, they aren’t always the most attractive devices. That’s about to change. Introducing the [LG PuriCare Aero Furniture](https://www.ces.tech/innovation-awards/honorees/2023/honorees/l/lg-puricare™-aero-furniture.aspx): The air purifier that blurs the line between a piece of furniture and an electronic appliance. Offering advanced, 360-degree air purification, the Aero Furniture also serves as a stylish “table-type” surface. The device’s compact size makes it a perfect fit for smaller spaces, and its array of useful features — including built-in wireless chargers and atmospheric mood lighting, as well as LG’s state-of-the-art UVnano filtration — make the Aero Furniture a worthy consideration if you’re in the market for a bedside or coffee table.
+
+5\. Facial Recognition Locks
+----------------------------
+
+Smart home appliances have grown exponentially in recent years, and the field of smart home security is no exception. At the forefront of smart home security devices are [KeyinDB’s](https://www.ces.tech/innovation-awards/honorees/2023/honorees/k/keyindb-–-real-auto-locking-smart-opening-solution.aspx) smart locks with facial recognition. These smart locks have a door-closing sensor embedded in the tubular deadbolt itself. This means you can operate its auto door-locking capabilities without any additional accessories. What’s more: KeyinDB contains geofencing technology that senses when you’re close and opens the lock automatically, without any type of physical authentication. On top of all that, the KenyinDB offers facial recognition unlocking, meaning your door will unlock at the sight of your face. It’s the next step in smart technology that could take your home’s security to the next level.
+
+_This is part of our CES 2023 coverage. Follow along here and on our social media channels:_
+
+*   [_Instagram_](https://www.instagram.com/homeserve_usa/)
+*   [_TikTok_](https://www.tiktok.com/@homeserveusa?is_from_webapp=1&sender_device=pc)
+*   [_YouTube_](https://www.youtube.com/@HomeServeUSA)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/qpoqCRPHjqE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Find Your iPhone or Android Smartphone Serial Number"></iframe>

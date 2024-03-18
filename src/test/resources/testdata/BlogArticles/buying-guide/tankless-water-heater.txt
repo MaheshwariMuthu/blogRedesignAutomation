@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Is a Tankless Water Heater Worth the Cost?"
+headline: "Is a Tankless Water Heater Worth the Cost?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-06-10
+basePath: https://library.homeserve.com/m/
+heroImage: 93f29b3350a82c0/Blog-tanksVStankless_Erossi.jpg
+heroAltDescription: "side by side image of a traditional tank and modern tankless water heater"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "For some, the benefits of tankless water heaters outweigh the initial expense. Here's what you need to know."
+articleAbstract: "For many people, the long-term benefits of tankless water heaters more than compensate for their initial expense. Here's what you need to know."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Is a Tankless Water Heater Worth the Cost?"
+  parent: Plumbing-Buying-Guide
+---
+  If you’re in the market for a new hot water heater, chances are you’ve heard of a tankless model. These compact alternatives to traditional tank water heaters have become increasingly popular in recent years.
+
+**This May Also Interest You:** [**What’s the Difference Between Tank and Tankless Water Heaters?**](https://www.homeserve.com/en-us/blog/home-improvement/tank-vs-tankless-water-heater/)
+
+And for good reason: Tankless water heaters have many benefits. Unlike tank heaters that consume energy continuously, tankless heaters only use energy when you turn on the hot water or run certain appliances.
+
+Benefits of Tankless Water Heaters
+----------------------------------
+
+With their space-saving design and heat-on-demand system, tankless heaters are a popular choice both in terms of their profiles and their eco-friendly natures. They are also a safer water heater choice, since they don’t experience pressure buildups that put them at risk of exploding like tank water heaters. Still, with a price tag significantly heftier than their traditional, tanked counterparts, many folks wonder if a tankless heater is indeed worth the initial investment.
+
+How Much Does a Tankless Water Heater Cost?
+-------------------------------------------
+
+Electric [tankless heaters cost](https://www.homedepot.com/b/Plumbing-Water-Heaters-Tankless-Water-Heaters/N-5yc1vZ2fkoqer) anywhere from $200 to $1,000, depending on size and performance needs. Gas tankless heaters can cost twice as much, ranging from around $500 to $2,000.
+
+### Installation Costs
+
+While these prices are higher than most tank heaters, the bulk of added expense comes with the cost of tankless heater installation. On-demand heater installation is significantly more complex, and therefore more expensive, than installing a traditional tank heater. Plan to tack on [at least $1,000 extra](https://homeguide.com/costs/tankless-water-heater-installation-cost#install) for professional installation, depending on labor costs in your area and the complexity of the job.
+
+Is a Tankless Edition Worth the Initial Cost?
+---------------------------------------------
+
+For many people, the long-term benefits of tankless heaters more than compensate for their initial expense. A tankless heater can be [up to 34% more efficient](https://www.energy.gov/energysaver/tankless-or-demand-type-water-heaters) than a traditional water heater. This increase in efficiency can amount to annual savings of over $100, depending on the type and size of the heater. That said, the upfront investment of these on-demand water heaters may still scare some buyers away.
+
+**More Related Articles:**
+
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)
+*   [How to Install a Tankless Electric Water Heater: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-tankless-electric-water-heater/)
+*   [How Much Does It Cost For a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+
+How Long Do Tankless Water Heaters Last?
+----------------------------------------
+
+In terms of longevity, tankless gas water heaters win by a long shot, with operational life spans of 20 years or longer. This is twice as long as most of their tank-heating competitors. You can expect electric tankless heaters to last about eight to 10 years, which is more on par with traditional tank water heaters.
+
+Size It Right
+-------------
+
+If you do decide to purchase a tankless water heater, make sure to buy one with ample heating capabilities for your needs. An instant hot water heater that is too small for your home will leave you feeling lukewarm (both literally and metaphorically) at best, and your hot water flow rates may be impacted. Larger homes may even require two tankless heaters to ensure optimal performance.
+
+To Tank or Not to Tank
+----------------------
+
+Whether electric or gas-powered, tankless heaters are safer, sleeker and use a lot less energy than tank-based water heaters. Their on-demand heating system helps keep the hot water flowing for as long as you need it. And while they typically cost more up-front, the long-term energy savings and the long operating life coupled with the joy of knowing your shower will stay hot makes it well worth the investment for most. Because even the most frugal of consumers know there’s not much worse than a shower that goes cold mid-shampoo.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

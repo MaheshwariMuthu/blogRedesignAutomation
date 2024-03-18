@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean Condensate Pump and Drain Line"
+headline: "How Do You Clean the Condensate Pump on Your AC Unit?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-12
+basePath: https://library.homeserve.com/m/
+heroImage: 4aa16f948fa74e82/Blog-HOMESERVEUSA-PSEG-2019ModernFotographicbyDaveNoonan-128.jpg
+heroAltDescription: "hvac beauty shot"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Cleaning your HVAC system's condensate pump and lines is a simple maintenance task that can go a long way. Here's how to do it."
+articleAbstract: "Cleaning your HVAC system's condensate pump and lines is a simple maintenance task that can go a long way. Here's how to do it."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How Do You Clean a Condensate Pump?"
+  parent: HVAC-How-To
+---
+  It’s no secret that homeownership comes with its fair share of responsibilities. Sure, there’s the deserved sense of pride and accomplishment that comes with owning a home, but with that comes a mortgage, as well as a list of home repairs and maintenance chores that never seem to end. And while it isn’t particularly glamorous, HVAC maintenance is one of those things that every homeowner should add to their regular home care routine.
+
+**This May Also Interest You:** [**What’s a Condensate Drain Line ... And Why Should I Care?**](https://www.homeserve.com/en-us/blog/home-improvement/condensate-drain-line/)
+
+When it comes to maintaining your home’s HVAC system, it’s all about prevention. In other words, you want to put in the work that will help prevent future issues. Indeed, one of the most important tasks you can add to your maintenance list is cleaning your HVAC system’s condensate system. The condensate system includes a pump and a drain line that can get clogged with algae, dirt and other debris that can quickly spell trouble for your air conditioning and furnace.
+
+What’s a Condensate Pump?
+-------------------------
+
+A condensate pump is one of the most important components of an HVAC system. It’s a small pump that moves condensation produced by your HVAC to another location. Generally speaking, there are three main components of a condensate pump: the reservoir, float and the pump itself.
+
+When the air conditioning system creates cold air, or when a furnace creates heat, condensation is produced and collected in a reservoir. When the condensation level rises, the condensate pump is activated, pumping the water through a drain line and away from your home. Without a condensate pump, your HVAC unit would be full of standing and stagnant water, creating a host of problems, including the potential for costly water damage to your home.
+
+Needless to say, you’ll want to make sure your condensate pump is functioning properly. With the maintenance, you can keep water away from your HVAC system and avoid expensive repairs. Luckily, with a little know-how, routine cleaning on a condensate pump is a fairly simple process that almost anyone can handle.
+
+Why Should You Clean Your Condensate Pump?
+------------------------------------------
+
+A clogged condensate pump and drain line can negatively impact the indoor air quality of your home. Standing water can quickly grow a host of contaminants like mold, mildew and bacteria. These indoor pollutants flow into your home through the AC vents and could affect the health and safety of you and your family.
+
+Additionally, a clogged HVAC condensate pump can lead to expensive repairs to both your AC system and your home. In addition to a costly repair on your air conditioning unit, a clogged, malfunctioning pump can cause water to leak inside your home, potentially causing damage to the surrounding areas.
+
+**More Related Articles:**
+
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Got Central Air? Use This Top-to-Bottom Air Conditioner Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist/)
+*   [How to Clean your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [How Much Does It Cost to Replace an AC Compressor?](https://www.homeserve.com/en-us/blog/cost-guide/ac-compressor-replacement/)
+
+How Do You Clean a Condensate Pump?
+-----------------------------------
+
+Before attempting any maintenance on your HVAC system, make sure to shut off power to the unit at the breaker panel. Typically, condensate pumps are located directly on or beside the furnace. You should notice a small plastic box connected to a white PVC pipe on the side of your furnace. Once you’ve located it, unplug the pump and disconnect it from the PVC pipe. Then, remove it from the wall.
+
+Use a flathead screwdriver to remove the top of the pump. Empty all the water from inside the pump. Using warm, clean water, rinse the pump to remove any buildup of gunk, dirt and debris from the inside of the pump. Be sure to rinse the drain openings where the drain lines connect, too. Once you’ve completed an initial rinse of the pump, use a bottlebrush or a similar tool to remove any stubborn dirt and debris still present in the reservoir or drain openings. For small, hard-to-reach areas of the pump, using compressed air can help remove any additional debris.
+
+If you notice that your AC condensate pump has a large amount of algae growth, consider purchasing algae tablets from your local home improvement store. Algae tablets offer a great solution to keep your condensate pump clean and clear for extended periods of time.
+
+How Do You Clean a Condensate Drain Line?
+-----------------------------------------
+
+While cleaning your condensate pump is certainly important, maintaining clean and clear drain lines is also essential. Start by locating the drainpipe. Typically, condensate drain lines, or condenser lines, are found outside near your AC condenser unit. The drainpipe is made of PVC and will have a cap located on top.
+
+Remove the cap from the drainpipe and check for any debris that can be easily removed. When the debris has been removed, pour one cup of vinegar into the drain and replace the cap. Repeating this process monthly will help keep your condensation drain line and pump clean and in good working order.
+
+Proactive Prevention
+--------------------
+
+Staying on top of HVAC maintenance is all about being proactive. By keeping your air conditioner’s condensate system clean, you can keep your HVAC happy and healthy, thus avoiding costly repairs. This means one less thing on that lengthy repairs list, and more time to enjoy the less tedious aspects of homeownership.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

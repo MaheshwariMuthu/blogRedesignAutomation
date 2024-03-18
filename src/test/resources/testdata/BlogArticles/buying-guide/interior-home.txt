@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Interior-Home-Buying-Guide
+  parent: Buying Guide
+  title: Interior Home
+permalink: false
+---

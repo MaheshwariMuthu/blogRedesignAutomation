@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Whole-House Humidifier Setting in Winter"
+headline: "How to Set Your Whole-House Humidifier for Winter"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-01-18
+basePath: https://library.homeserve.com/m/
+heroImage: 6c6d7bc7dc86a64c/Blog-RH_HumidifierControl_ERossi_2983.jpg
+heroAltDescription: "HVAC return with a humidifier controller"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Dry indoor air in the winter months can  damage to your home. Here's how to use a whole-house humidifier to keep things comfy."
+articleAbstract: "Dry indoor air in the winter months can lead to health woes as well as damage to your home. Here's how to use a whole-house humidifier to keep things comfy."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Set Your Whole-House Humidifier for Winter"
+  parent: HVAC-How-To
+---
+  
+
+When the outside temperatures start dropping, your thoughts might immediately turn to cozying up next to a warm fireplace with some hot cocoa. Unfortunately, with these fun aspects of winter comes a slew of challenges. One of those is dry indoor air. When your heating system starts kicking into high gear, the relative humidity in your home decreases, leading to scratchy throats, eye irritation, dry skin and even nosebleeds.
+
+**This May Also Interest You:** [**How to Set Your Whole-House Humidifier For Summer**](https://www.homeserve.com/en-us/blog/how-to/whole-house-humidifier-summer-setting/)
+
+Dry air can negatively affect your immune system as well. Breathing air below a certain relative humidity for an extended period of time will cause important mucus membranes to dry out, limiting your ability to filter pollutants from the air you breathe.
+
+In extreme conditions, low moisture can also cause damage to your home — cracked wood floors and shrunken, peeling wallpaper can appear over time. In other words, when wintertime hits, the struggle can be real for both you and your house.
+
+Warmer Solutions
+----------------
+
+But, it doesn’t always have to be this way. Perhaps the most effective way to combat the dry-home blues is to install a whole-house humidifier, sometimes called a furnace humidifier. And if you already have one installed, knowing the optimal humidity levels can be a real lifesaver during the winter. While there are several types of whole-house humidifiers, they’re generally all controlled by humidistats, which operate much like thermostats, allowing you to control the humidity level of your home from a central location.
+
+How to Use a Whole-House Humidifier in the Winter
+-------------------------------------------------
+
+The purpose of a humidifier is to control the humidity levels in your home. Just as low moisture can cause a host of issues in your home, too much can be equally damaging — leading to mold, mildew and condensation. Maintaining optimal moisture levels can be a bit of a balancing act.
+
+**More Related Articles:**
+
+*   [Get Rid of the Humidity: Here’s How to Use a Dehumidifier Effectively](https://www.homeserve.com/en-us/blog/how-to/use-a-dehumidifier/)
+*   [5 Reasons You need a Dehumidifier in Your Home](https://www.homeserve.com/en-us/blog/home-improvement/dehumidifier-benefits/)
+*   [A Mist Opportunity: 5 Ways a Humidifier Helps Your Home Be Healthier](https://www.homeserve.com/en-us/blog/home-improvement/humidifier-health-benefits/)
+*   [Does Your Home Need a Whole House Humidifier?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-humidifier/)
+*   [5 Tips for Fresher indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+
+### Getting the Levels Right
+
+Because optimal moisture levels seem so mysterious, you may be asking yourself what level your humidifier needs to be at. As a general rule, a comfortable humidity level for a home during the summer, spring and fall is around 30% to 50%. Of course, as the air gets colder outside, you’ll need to re-adjust your indoor moisture levels. Left unchanged, 50% humidity is too much in the colder months and can lead to home damage.
+
+When the air gets really cold outside, between 0 and 10 degrees Fahrenheit (-18 and -12 degrees Celsius), lowering the indoor humidity to 20% will be a comfortable humidifier setting.
+
+But truly, the level of humidity is determined by many factors, including the total square footage of your house, outside temperature and humidity, as well as the inside temperature of your home. For those that want to get super specific, there are several free indoor [humidity calculators](https://www.richard-stanton.com/humidity-calculator/) available online.
+
+While maintaining optimal levels can be tricky at times, a good rule is to set your humidifier to 30%, and lower it if you start to notice condensation on your windows. If you’re not seeing moisture buildup and you’re comfortable, then you're good to go.
+
+A More Comfortable Winter
+-------------------------
+
+There’s a lot to love about winter: the pillowy soft snow, warm beverages and fireplace nights. But it’s hard to fully enjoy winter when the air in your house is too dry. Installing a whole-house humidifier is an effective way to maintain optimal indoor air quality in your home. Looking to beat the dry-home blues? Then start adding moisture to the air as soon as possible.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

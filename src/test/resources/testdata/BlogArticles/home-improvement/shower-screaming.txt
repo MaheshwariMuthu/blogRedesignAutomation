@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is My Shower Screaming?"
+headline: "Why Is My Shower Screaming?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2023-09-21
+basePath: https://library.homeserve.com/m/
+heroImage: 206c04be4cd4df9d/Blog-ScreamingShowerhead_CrowdContent.jpg
+heroAltDescription: "Illustration of a showerhead screaming"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Is your shower screaming? We uncover the reasons behind your shower's assault on your ears — and how to fix it."
+articleAbstract: "Is your shower screaming, whining or squealing? We uncover the reasons behind your shower's assault on your ears — and how to fix it."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My Shower Screaming?"
+  parent: Plumbing-Home-Improvement
+---
+  Few things are as pleasing as a shower and that soothing cascade of clean water washing away your cares. Then, a high-pitched squeal pierces the air, breaking your blissful experience. It's not the symphony you need for your morning or evening routine. In fact, it can make a stressful morning even worse. Naturally, you'll want to stop the squeal and discover the cause.
+
+**This May Also Interest You:** [**Showerhead Sickness: You’re Going to Want to Deep-Clean Your Showerhead After This**](https://www.homeserve.com/en-us/blog/home-improvement/showerhead-sickness/)
+
+Let’s dive into the world of bathroom acoustics. We’ll uncover the reasons behind your shower’s assault on your ears and explore practical solutions to silencing it.
+
+Why Is My Shower Making a High-Pitched Screaming/Squealing Sound?
+-----------------------------------------------------------------
+
+Let’s look at the three primary causes of shower noise.
+
+* **Mineral buildup**: Minerals within the water can accumulate within your plumbing. They partially obstruct the water flow, creating turbulence and vibrations manifesting in a high-pitched screech.
+* **Water pressure**: Faulty water pressure regulators can cause irregular water flow. This results in water pressure fluctuations that produce vibrations, which — you’ve guessed it — create that noise.
+* **Diverter valve**: Worn-out or damaged diverter valves can cause water to flow erratically. The resulting turbulence and vibrations can sound like whistling or squealing.
+
+How Do I Fix It?
+----------------
+
+Thankfully, there’s a way to get the screaming to stop. Let’s look at how to fix it. Begin all of the following solutions by turning off your shower’s water supply.
+
+### Solution 1: Clean the Shower Cartridge
+
+The shut-off valve is usually near the shower or in your home's utility area. Next, [locate and remove the shower cartridge](https://www.bhg.com/home-improvement/plumbing/how-to-fix-replace-tub-shower-faucet-cartridge/), which regulates the water flow and temperature. You might need to remove the shower handle first. Soak it with a mixture of equal parts white vinegar and water to dissolve the mineral deposits. Then, gently scrub the cartridge with a soft brush to remove them.
+
+After cleaning, rinse the cartridge thoroughly with water to excise any vinegar residue. Then, reinsert the cartridge, ensuring it's properly aligned and seated, and reattach the shower handle.
+
+### Solution 2: Regulate the Water Pressure
+
+If your shower's noise is linked to water pressure irregularities, consider [adjusting or replacing the water pressure regulator](https://www.thespruce.com/water-pressure-regulator-2718696#:~:text=How%20to%20Replace%20a%20Water%20Pressure%20Regulator). This can be an intricate task, so unless you’re a confident DIY-er, it’s [one of those times](https://www.homeserve.com/en-us/blog/home-improvement/professional-plumber-repairs/) you should contact a professional plumber.
+
+The regulator is usually located where the main water supply enters your home. Adjusting it involves turning a screw or a nut to change the pressure settings. This is simple enough, but be cautious because improper changes can cause other plumbing issues.
+
+### Solution 3: Replace the Diverter Valve
+
+The [diverter valve](https://www.homeserve.com/en-us/blog/home-improvement/shower-diverter-valve/) directs water flow between your showerhead and tub faucet. It can disrupt water flow and generate that screech if it’s worn out or damaged. Replacing the diverter valve is trickier, so you might want to consider contacting a professional plumber.
+
+The diverter valve is usually located behind the shower wall. Refer to your shower's manual to identify its position and how to remove it. Often, but not always, the shower handle and trim need to be removed first. Once you’ve done this, follow the manufacturer's instructions for removing and replacing the valve. This might involve unscrewing or unclipping components. After you’ve put the new valve in place, reassemble the shower components, ensuring everything is tightly secured.
+
+### Solution 4: Remove Mineral Deposits
+
+Mineral deposits in a shower exist wherever water flows, so you should clean the showerhead, too. Remove it from its arm by twisting it counterclockwise and place it in a container. Fill this with equal parts white vinegar and clean water, and leave the submerged showerhead for several hours or overnight.
+
+The vinegar’s acidic properties dissolve the mineral deposits. Gently scrub the showerhead with a soft brush to remove loosened deposits, and then wash it in clean water to remove vinegar residue. Reattach the showerhead, making sure the arm is clean as well.
+
+### Solution 5: Inspect the Tub Faucet
+
+If the screaming noise persists, check the tub faucet, especially if your shower and tub share the same plumbing. To inspect the tub faucet, you might need to remove a cover or handle that conceals the plumbing components.
+
+Once you gain access, soak the components with equal parts white vinegar and water, scrub away deposits and rinse thoroughly — as you would with the showerhead.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/VLcaeWk-vh0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Your Shower Head Needs a Bath #lifehack #cleaninghack #howto"></iframe>

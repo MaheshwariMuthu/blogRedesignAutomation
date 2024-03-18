@@ -1,0 +1,60 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does an AC Unit Lightning Surge Protector Cost?"
+headline: "How Much Does an AC Unit Lightning Surge Protector Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-09-22
+basePath: https://library.homeserve.com/m/
+heroImage: 27a4a532e48fb0c7/original/shutterstock_113736544_lightning_surge_EROSSI.gif
+heroAltDescription: "animation of a lightening strike hitting a suburban home"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Unfortunately, a bad storm can ruin HVAC units. A lightning surge protector is one way to protect your equipment and your investment."
+articleAbstract: "Not shockingly, a bad storm can ruin HVAC units. A lightning surge protector is one way to protect your equipment and your investment."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does an AC Unit Lightning Surge Protector Cost?"
+  parent: Electrical-Cost-Guide
+---
+  If you hear thunder and lightning outside, the last thing you want to worry about is whether your expensive equipment is okay. Unfortunately, a bad storm can ruin HVAC units.
+
+**This May Also Interest You:** [**How Much Do Electrical Repairs Cost? A Comprehensive Guide**](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+A lightning surge protector is one way to protect your equipment and your investment. Special surge protectors for AC units are available, so we'll dig into what can affect the cost and just how much you can expect to pay for one.
+
+Why Do I Need a Lightning Surge Protector?
+------------------------------------------
+
+A surge protector is something many people think they don't need until they're spending thousands of dollars on a new AC unit that was damaged in a lightning storm. Your AC unit can also create surges itself because it takes a lot of power to run during the hottest parts of the day. Those surges can damage other electronics that are connected to the same electrical system.
+
+If lightning or another large device causes a surge without a surge suppressor, that can damage your HVAC unit and other equipment in your home. The permanent damage from surges often necessitates a full replacement, so one bad surge can cost you thousands. Like having your AC unit cleaned and maintained, buying a surge protector is just a necessary cost of ownership.
+
+Can I Plug My AC Unit into a Surge Protector?
+---------------------------------------------
+
+You might be familiar with surge protectors as power strips that come cheap at a hardware store. While those can be great for smaller devices, an AC unit can quickly overpower a simple plug-in surge protector. Plugging your unit into a power strip with other devices could destroy those devices. Even worse — it could start an electrical fire!
+
+For your safety and the protection of your valuable equipment, it's best to purchase a surge protector that's specifically designed for an AC unit. It might even be a good idea to add checking your AC surge protector to your air conditioning maintenance checklist.
+
+**More Related Articles:**
+
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets with GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/replace-electrical-panel/)
+
+How Much Does an AC Surge Protector Cost to Install?
+----------------------------------------------------
+
+The cost of an AC surge protector can vary widely. According to data from [Bob Vila](https://www.bobvila.com/articles/whole-house-surge-protector-cost/#:~:text=According%20to%20HomeAdvisor%20and%20Angi,house%20surge%20protector%20at%20%24300.), prices for whole-house units range from $70 to $700 (CAD 94 to CAD 941). However, installation can bring additional costs. If you decide to install it yourself, you'll only have to spend money on the device. Like installing an air filter yourself, this can be a fairly simple operation. But if you decide to hire a professional to install an AC surge protector for you, the service can add another $50 to $100 (CAD 67 to CAD 134) per hour on top of equipment costs, according to Bob Vila﻿.
+
+The surge protector's capacity can affect the price as well. Surge protection devices have a short-circuit current rating that will tell you how much a suppressor can handle. The standard SCCR for an AC unit surge protector is 100 kA. Of course, greater protection can cost even more, but you might want to avoid cheaper units with lower SCCRs. After all, what's the point of a protector that doesn't have the capacity to protect your equipment?
+
+Are AC Surge Protectors Worth It?
+---------------------------------
+
+An AC surge protector certainly costs less than a new central air system. Although the initial investment can seem a little pricey, it'll certainly be less than a replacement HVAC system.
+
+Even better, lightning surge protectors give you peace of mind, knowing that your system can survive both heavy use and inclement weather. Remember, the surge protector doesn't just protect your AC unit; it also prevents surges coming from your unit from damaging other equipment on your electrical system.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

@@ -1,0 +1,97 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Use a Home Generator"
+headline: "How to Use a Home Generator"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-10-25
+basePath: https://library.homeserve.com/m/
+heroImage: 300731bee8196f10/Blog-GettyImages-1271832134.jpg
+heroAltDescription: "Residential generator"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A home generator can keep things running until your power returns. Here’s a guide to getting your generator up and running."
+articleAbstract: "A home generator can keep things running until your power returns. Here’s a guide to getting your generator up and running."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Use a Home Generator"
+  parent: Electrical-How-To
+---
+  Are power outages leaving you in the dark? Being without power can be uncomfortable and costly — all those perishable groceries you just bought won't last long without electricity.
+
+**This May Also Interest You:** [**Everything You Need to Know About Home Generators**](https://www.homeserve.com/en-us/blog/buying-guide/home-generators/)
+
+A home generator can keep things running until your power returns. Here’s a guide to getting your generator up and running.
+
+How Do You Hook a Generator to Your House?
+------------------------------------------
+
+There are two main types of generators: standby and portable generators. A standby generator gets wired into your home's electrical system and connects to the fuel source. If your power goes out, it turns on automatically and supplies power through the outlets like normal.
+
+Portable generators are more affordable, but they don't turn on automatically. You can plug directly into a portable home generator with an appliance or extension cord. The other option is to connect the portable generator to your home's electrical system. To do this, you'll need to have a transfer switch installed near your breaker box. This should be handled by a licensed electrician. When you need to use the generator, you plug a special cord into your home generator outlet and the transfer switch inlet.
+
+How Do You Start a Generator?
+-----------------------------
+
+A whole-house standby generator starts automatically when you lose power, but you'll have to turn on a portable home generator manually. Follow these steps:
+
+### Step 1: Set It Up
+
+First, set up the generator outdoors and away from your home. Unplug any cords from the generator. Make sure it's fully fueled, and check the oil levels.
+
+### Step 2: Get It Running
+
+Turn the fuel valve to the “on” position. Pull out the choke handle.  Flip the ignition or start switch. Then, move the choke handle to the “run” position.
+
+### Step 3: Plug In
+
+Wait several minutes for the generator to warm up before you plug anything into it.
+
+It's always best to review the instructions for your specific model, as the steps might vary. Do a trial run of starting the home generator before you need it, so you're not fumbling with it during a power outage.
+
+How Do You Use a Generator to Power Your Appliances?
+----------------------------------------------------
+
+One option is to connect extension cords directly to the generator. You can then plug your appliances and other electrical items into those extension cords.
+
+If you use a transfer switch to connect a portable generator directly to your electrical system, you'll use your appliances normally. They'll stay plugged into the outlets and work like normal. However, home generators are limited in how much power they can supply. You likely won't be able to run every appliance on the generator at the same time.
+
+Whole-house generators work the same way. They'll automatically supply electricity to your outlets and lights. You can use them like normal, but be careful not to run more than the generator can handle.
+
+How Do You Fuel a Generator?
+----------------------------
+
+Home generators can use a variety of fuel types, depending on the model. This can include gasoline, propane, diesel and natural gas.
+
+You'll add the fuel directly to the generator, unless you have a whole-house standby generator that's connected directly to the fuel source. You need to turn off the generator and let it cool down completely before adding more fuel. The heat from the generator can cause a fire or explosion if you don't wait.
+
+**More Related Articles:**
+
+*   [How to Perform a Generator Load Bank Test](https://www.homeserve.com/en-us/blog/how-to/generator-load-bank-test/)
+*   [Home Backup Generator Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/generator-maintenance/)
+*   [Feeling in the Dark? Here’s What to Do During a Power Outage](https://www.homeserve.com/en-us/blog/how-to/what-to-do-power-outage/)
+*   [How Much Does a Whole-House Generator Cost?](https://www.homeserve.com/en-us/blog/cost-guide/whole-house-generator/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+Generator Safety Tips
+---------------------
+
+A home generator is useful during a power outage, but it can also be dangerous if you don't use it properly. Here are some safety tips for how to use a generator properly:
+
+* **Read the manual.** Different models can vary in how they run and how you should use them safely. Read all instructions carefully before powering up your generator for the first time.
+* **Only use it outside.** Generators produce deadly carbon monoxide, so you should never run one inside a house, garage, shed or other structure. They need to be kept outdoors and positioned [at least 20 feet away](https://www.cdc.gov/disasters/cofacts.html) from vents, doors and windows to keep carbon monoxide out of your home.
+* **Make sure your carbon-monoxide detector works.** Even with precautions, carbon monoxide could get into your home. Install and test a battery-powered carbon-monoxide detector to monitor the situation.
+* **Use the right extension cords.** You need outdoor-rated, heavy-duty extension cords in order to operate your generator safely. Avoid exceeding 100 feet of extension cord between the generator and the item you're powering.
+* **Store fuel safely.** Keep your spare fuel outside of your home and away from heat or flammable items. Store it away from the generator since it will create heat, which could cause the fuel to start on fire or explode.
+* **Keep it dry.** A wet generator can cause you to get shocked or electrocuted. A canopy over the generator can protect it from rain. You should also avoid touching your generator when your hands are wet.
+* **Never back-feed.** When you plug your generator directly into an outlet, it's called back-feeding. This can be very dangerous, not only for you but also for your neighbors and utility workers.
+* **Avoid overloading the generator.** Find out how much your generator can handle and minimize what you connect to it to avoid overloading it.
+
+Being cautious with your generator can prevent electrocution, fires, explosions and carbon-monoxide poisoning.
+
+Choosing a Home Generator
+-------------------------
+
+The home generator size is the biggest factor when deciding which one to purchase. Consider which appliances you want to power with the generator. You'll need to know the wattage each item uses to get your total. Some appliances use additional power when they start up. For example, a refrigerator usually [runs on 700 watts](https://www.lowes.com/pdf/portable_generator_wattage_chart.pdf), but it uses 2,200 watts when it starts. Your generator needs enough capacity to handle the running wattage _and_ the start-up wattage. Add the wattage of the items you want to use with the generator to get your minimum size.
+
+You also need to decide between a portable and standby generator. Portable units are the most affordable, but they require more work to set up and keep fueled. Consider your budget and how much work you want to do during a power outage to help you decide.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

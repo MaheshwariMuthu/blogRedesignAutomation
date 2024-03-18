@@ -1,0 +1,155 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "LG Oven Error Codes"
+headline: "LG Oven Error Codes"
+author: Kaia Koglin
+tags: ["post"]
+publishDate: 2023-12-16
+basePath: https://library.homeserve.com/m/
+heroImage: 439e2a9c534edaaf/Blog-SmartKitchen_lifestyle.jpg
+heroAltDescription: "kitchen with blue cabinets and LG range"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If you understand LG oven error codes, you may be able to troubleshoot and even fix your oven."
+articleAbstract: "If you understand LG oven error codes, you may be able to get your oven working again. These simple codes let you know what’s wrong and can even tell you how to fix the problem."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "LG Oven Error Codes"
+  parent: Appliances
+---
+  It can be a disaster when your oven stops working, whether you’re baking a cake for your kid’s birthday party or just trying to get dinner on the table. The meal’s ruined, ingredients are wasted and you’re left with nothing to serve.
+
+**This May Also Interest You:** [**What Do You Do With an Old Appliance? How to Recycle Fridges, Washers, Ovens and More**](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+But if you understand the LG oven error codes, you may be able to get back on track. These simple codes let you know what’s wrong and can even tell you how to fix the problem.
+
+What Is an Error Code?
+----------------------
+
+An error code is commonly used in computing and electronics. The machine notes where a problem has occurred and generates the code to let the user know what the issue is. These codes are an important part of troubleshooting, as they stop the repair technician from having to pull apart your oven to find out what’s gone wrong. In many cases, the error code allows you to attempt to fix the problem rather than waiting for someone to come to your house and repair the machine.
+
+What Are the Common LG Oven Error Codes, and What Do They Mean?
+---------------------------------------------------------------
+
+LG oven error codes are generally made up of a series of numbers and letters. They’re normally listed in your user manual or can be found on the [LG support website](https://lgparts.com/pages/rangeoven-error-codes). Even within the same company, different machines can use different codes, so it’s important to look up those specific to your model of oven.
+
+Below are some of the common codes.
+
+### F1, F1F4, F4
+
+The oven sensor remains open during cooking.
+
+### F2, F2F5, F5
+
+The oven sensor is short during cooking.
+
+### F3
+
+Some keys are continuously short for over 60 seconds.
+
+### F6, F6F16, F16
+
+The temperature is over 650 degrees Fahrenheit during cooking. This error will not pop up during self-cleaning mode.
+
+### F9, F9F19, F19
+
+The oven isn’t heating above 130 degrees Fahrenheit or 150 degrees Fahrenheit. This error isn’t triggered when the oven is in PROOF or WARM mode.
+
+### F8, 18
+
+An oven probe is short.
+
+### F10, F20
+
+There’s a door lock failure.
+
+### F11
+
+There’s a communication error between the cooktop and the oven.
+
+### CF1 - CF7
+
+This error indicates that different sensors are open or short.
+
+### CFA
+
+This indicates there’s a communication error.
+
+### CFC
+
+This code shows when the cooktop is experiencing an overvoltage error.
+
+### CFF
+
+The box fan is not working.
+
+### F7
+
+The convection fan is not working.
+
+### F27
+
+The fan stalled during self-cleaning.
+
+### F24
+
+The steam thermistor remains open.
+
+### F25
+
+The steam thermistor is short.
+
+**More Related Articles:**
+
+*   [Should You Buy a Used Appliance? Weigh the Risks and Rewards](https://www.homeserve.com/en-us/blog/buying-guide/used-appliances/)
+*   [7 Ways Your Kitchen Will Evolve in the Next 10 Years](https://www.homeserve.com/en-us/blog/home-improvement/advancements-kitchen-technology/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+LG range error codes and LG stove error codes work differently. Some still use letters and numbers, while others use flashing lights. These codes can also be found on the [LG website](https://www.lg.com/us/support/help-library/error-codes-cooktop-and-range-CT00000303-20150154166283) and in your user manual.
+
+Below are some common ones to be aware of.
+
+### Child Lock
+
+This isn’t truly an “error.” It simply indicates that the child lock is on, disabling the control panel. To disable it, press and hold the lock button for 3 seconds.
+
+### Clean
+
+The Self-Clean or EasyClean function is active, and the machine won’t operate until it’s finished.
+
+### HS
+
+This is not an error code. It’s just an indication that a surface is hot. The message will disappear once the temperature has dropped.
+
+### PF
+
+The unit has experienced a power failure.
+
+### Sb
+
+Another non-error message. This code means Sabbath Mode is activated, and the oven doesn’t turn off until it’s deactivated. It is generally used on the Jewish Sabbath and Holidays.
+
+### Cooktop Flashing 1, 2 or 3 Bars
+
+There’s a fault with the thermistor or microcomputer of the cooktop.
+
+### Cooktop Flashing 4 Bars
+
+This is a “surface error.” Water or metal objects have come in contact with the touchpads for a prolonged time.
+
+### Cooktop Flashing 5 Bars
+
+There’s an error with the display.
+
+### Cooktop Flashing 6 Bars
+
+The cooktop has been supplied with a low voltage.
+
+Do I Need to Call a Repair Tech, or Can I Fix These Errors on My Own?
+---------------------------------------------------------------------
+
+Your user manual can generally give you directions on how to clear an error or when you need to call an electrician for repairs. Some errors, such as the Clean code, will clear on their own with no intervention required. Others are relatively easy to resolve.
+
+As an oven combines heat and electricity, there are many errors that do require a repair tech’s intervention. If you plan to do your own troubleshooting, make sure you put safety first by waiting for the oven to cool down and turning off the electricity to the machine. If you have any doubt over whether you can fix it, it’s best to contact an LG service technician.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Clean Your Oven | Cleaning Oven Tips and Tricks"></iframe>

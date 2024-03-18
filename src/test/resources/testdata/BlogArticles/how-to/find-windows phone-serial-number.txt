@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Do I Find the Serial Number on My Windows Phone?"
+headline: "How Do I Find the Serial Number on My Windows Phone?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-16
+basePath: https://library.homeserve.com/m/
+heroImage: 73c9a3719d2408c6/Blog-bigstock-221913124.jpg
+heroAltDescription: "stock photo"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Here's how to find your Windows phone's serial number — whether or not you have the device on hand."
+articleAbstract: "You may need to know your phone's serial number to get repairs or report it stolen. Here's how to find your Windows phone's serial number — whether or not you have the device on hand."
+category: ["How To"]
+eleventyNavigation:
+  key: "How Do I Find the Serial Number on My Windows Phone?"
+  parent: Appliances-How-To
+---
+  Knowing your Windows smartphone's serial number can be useful if you need to unlock your phone or report it stolen. However, many people don't write their device serial numbers down, which can cause issues if you need to find them in a hurry.
+
+**This May Also Interest You:** [**How Do I Find the Serial Number on My iPhone?**](https://www.homeserve.com/en-us/blog/how-to/find-iphone-serial-number/)
+
+Here's how to find your Windows phone's serial number — whether or not you have the device on hand.
+
+What Are Some Ways to Find Your Windows Phone’s Serial Number?
+--------------------------------------------------------------
+
+### In the Settings
+
+You can find your Windows phone's serial number by swiping down from the notification bar and clicking on “All Settings.” Click on “System,” select “About” and tap on “More Info” to display your serial number.
+
+### On the Keypad
+
+Alternatively, you can enter the code \*#06# on your Windows phone's keypad. The serial number will appear on the screen.
+
+### On the Outside of the Phone
+
+In a repair situation, you may need to find the serial number on a phone that won’t turn on. You can also find your Windows phone's serial number printed above the SIM card holder under the back cover.
+
+### On the Original Packaging
+
+Windows prints phone serial numbers on the original packaging. Therefore, you can save yourself the stress of searching for the serial number by writing it somewhere safe immediately after purchase or retaining the box.
+
+What If You Don’t Have Your Phone?
+----------------------------------
+
+If you lose your phone or someone steals it, you'll need to find the serial number another way. You can often find information about your device, including the serial number, by logging into your account on your carrier's website. If you don't have an online account, you could try calling the manufacturer or your carrier to see if they have your Windows phone's serial number on file.
+
+**More Related Articles:**
+
+*   [How Do I Find the Serial Number on My Android Phone?](https://www.homeserve.com/en-us/blog/how-to/find-android-smartphone-serial-number/)
+*   [How Do I Find the Serial Number on my Samsung Smartphone?](https://www.homeserve.com/en-us/blog/how-to/find-samsung-smartphone-serial-number/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+*   [How to Do a Home Inventory Before Disaster Strikes](https://www.homeserve.com/en-us/blog/how-to/create-home-inventory/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+
+Should You Share the Serial Number?
+-----------------------------------
+
+You may need to supply your Windows phone's serial number to a repair technician if you're having your phone fixed. The police may also require access to your serial number to establish your ownership of the phone if you report it stolen.
+
+However, it's generally best to keep your phone's serial number private unless you're sharing it for one of these purposes. You may be asked to share the serial number if you decide to sell your Windows phone online. However, this could allow someone to wrongfully claim benefits like warranty repairs or even order a replacement handset.
+
+What's an IMEI or MEID?
+-----------------------
+
+IMEI and MEID numbers are types of serial numbers, and which one you have depends on your carrier. “IMEI” stands for International Mobile Equipment Identity, and the number is 15 digits long. “MEID” stands for Mobile Equipment Identity, and these numbers are 14 digits. An IMEI or MEID number is unique to your phone and allows the manufacturer and other entities to identify it.<br><iframe title="YouTube video player" width="560" height="315" src="https://www.youtube.com/embed/qpoqCRPHjqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

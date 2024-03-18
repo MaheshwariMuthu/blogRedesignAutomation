@@ -1,0 +1,54 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Carbon Monoxide Warning: Usines Giant Factories Recalls Water Heaters With Control Valves That Pose Risk of CO Release"
+headline: "Carbon Monoxide Warning: Usines Giant Factories Recalls Water Heaters With Control Valves That Pose Risk of CO Release"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-11-06
+basePath: https://library.homeserve.com/m/
+heroImage: 2377618be3c5c353/Blog-WaterHeaterRecall_UsinesGiantFactories.jpg
+heroAltDescription: "White Giant-branded gas water heater."
+metaDescriptions: "Usines Giant Factories is recalling gas water heaters with Emerson-made control valves due to a carbon monoxide risk. Here’s what you need to know."
+articleAbstract: "Usines Giant Factories is recalling gas water heaters with Emerson-made control valves because the valves can fail to close properly. This can cause soot to accumulate on the burner, posing a risk of carbon monoxide poisoning to users. If you have one of these units, here’s what you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Usines Giant Factories Recalls Gas Water Heaters with Emerson Control Valves Due to Risk of Carbon Monoxide Poisoning"
+  parent: Plumbing-Home-Improvement
+---
+  
+
+[Usines Giant Factories](https://giantinc.com/wp-content/uploads/docs/GI-Recall002En-0921-F.pdf) is recalling gas water heaters with Emerson-made control valves because the valves have a non-conformant screw and bracket, which can prevent them from closing properly. This can cause soot to accumulate on the burner, posing a risk of carbon monoxide poisoning to users. If you have one of these units, here’s what you need to know.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the Consumer Product Safety Commission’s Nov. 3 [recall announcement](https://www.cpsc.gov/Recalls/2022/Usines-Giant-Factories-Recalls-Gas-Water-Heaters-with-Emerson-Control-Valves-Due-to-Risk-of-Carbon-Monoxide-Poisoning), no incidents or injuries have been reported in the U.S. Twenty incidents involving the Emerson control valves have been reported in Canada, including one in which carbon monoxide was released, resulting in the need for medical attention.
+
+The recall involves specifically propane and natural gas water heaters with 40-, 50- and 75-gallon capacities. To see if your unit is one of them, check the model number on the nameplate near the gas control valve. Affected model numbers include:
+
+*   UG40-38LFPV2-P1U-US
+*   UG40-40LFPV2-N1U-US
+*   UG50-38LFPV2-P1U-US
+*   UG50-38LFPV2-P2U-US
+*   UG50-38TFPDV1-N2U-US
+*   UG50-40LFPV2-N1U-US
+*   UG50-40LFPV2-N2U-US
+*   UG75-76MEPV1-N2U-US
+*   UG75-76MEPV1-P2U-US
+
+<img class="detail-image" src="https://library.homeserve.com/m/5629a8e68289c9e5/Blog-WaterHeaterModelNumber_UsinesGiantFactories.jpg" alt="Close up of recalled gas water heater control valve showing the model number."/>
+
+The control valves are black and have a white “Emerson” logo on the front. The model number and date code are printed on a label next to the bracket that holds the control valve to the water heater. Recalled model numbers are 37H73A-301P1 for natural gas models and 37H74A-301P1 for propane models. Affected date codes fall between 1821 and 1839.
+
+The control valves were manufactured in Mexico, and the water heaters were manufactured in Canada. Of the recalled units, 168 water heaters were sold in the U.S. and 10,832 were sold in Canada. They were sold by various plumbing supply companies (find the list [here](https://www.cpsc.gov/Recalls/2022/Usines-Giant-Factories-Recalls-Gas-Water-Heaters-with-Emerson-Control-Valves-Due-to-Risk-of-Carbon-Monoxide-Poisoning)) between June 2018 and July 2020 for $840 to $2,100.
+
+Owners of these units should reach out to Usines Giant Factories immediately to arrange a free replacement of the control valve by a certified technician. If you need to continue using the water heater while you’re waiting for a repair, the CPSC recommends placing working carbon monoxide detectors outside sleeping areas and on every level of your home.
+
+To contact Canada-based Usines Giant Factories, call 800-363-9354, email [recall@giantinc.com](mailto:recall@giantinc.com) or visit the company’s [recalls page](https://giantinc.com/en/recall-information). For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Tipping and Entrapment Hazard: Magnussen Home Recalls 13,200 Chests of Drawers](https://bynder-auto-posts.netlify.app/en-us/blog/home-improvement/magnussen-chests-recall/)
+*   [Lacerations Reported in Recall of Liberty Hardware Glass Cabinet Knobs](https://bynder-auto-posts.netlify.app/en-us/blog/home-improvement/glass-cabinet-knobs-recall/)
+*   [Safety Recall Alert: Meridian Furniture Recalls Ottomans Due to Laceration Risk](https://bynder-auto-posts.netlify.app/en-us/blog/home-improvement/meridian-furniture-ottomans-recall/)
+*   [Design Within Reach Recalls Furniture Due to Violation of Federal Lead Paint Ban](https://bynder-auto-posts.netlify.app/en-us/blog/home-improvement/design-within-reach-furniture-recall/)
+*   [Fire Risk Prompts Recall of Goal Zero Power Cables](https://www.homeserve.com/en-us/blog/home-improvement/goal-zero-power-cable-recall/)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?start=2&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

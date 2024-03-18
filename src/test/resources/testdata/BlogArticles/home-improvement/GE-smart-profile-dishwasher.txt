@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "GE Profile Smart Dishwasher Features"
+headline: "GE Smart Dishwashers: Smart Features and How They Work"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-02-18
+basePath: https://library.homeserve.com/m/
+heroImage: 2e145273188f3a15/Blog-GE-Smart-Device-5004-1139.jpg
+heroAltDescription: "The hand of a person wearing a red shirt holds a smartphone wirelessly connected to a GE brand smart dishwasher in a kitchen"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Here’s how GE’s Wi-Fi-connected dishwashers work, what their features are and how to link them to your smartphone."
+articleAbstract: "Why would your dishwasher need to be connected to the internet? For the features, of course. Here’s how GE’s Wi-Fi-connected dishwashers work, what their features are and how to link them to your smartphone."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "GE Profile Smart Dishwashers: Smart Features and How They Work"
+  parent: Appliances
+---
+  
+
+_Manufacturer image_
+
+Nowadays, an extraordinary number of seemingly mundane household items are getting a smart upgrade. Appliance manufacturer GE produces a range of dishwashers with integrated or optional internet connectivity.
+
+**This May Also Interest You:** [**How Much Do GE Smart Dishwashers Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/GE-smart-dishwasher/)
+
+But why would your dishwasher need to be connected to the internet? For the features, of course. Here’s how GE’s Wi-Fi-connected dishwashers work, what their features are and how to link them to your smartphone.
+
+What Is a Smart Dishwasher?
+---------------------------
+
+Smart dishwashers feature Wi-Fi connectivity that lets you link your appliance to your smartphone. Some models have integrated Wi-Fi. Others, like the models in GE’s dishwasher range, are compatible with an optional plugin Wi-Fi module.
+
+Wi-Fi connectivity lets you control your dishwasher's functions remotely using a smartphone app. For example, many smart dishwashers let you start and stop cycles, access maintenance advice and monitor your cycle's progress from your phone. Some smart dishwashers also include a diagnostic program that detects potential problems with your appliance and sends alerts to your chosen device.
+
+What Features Do Smart Dishwashers Have?
+----------------------------------------
+
+Even though they’re smart, these machines are _dishwashers_ first and foremost. Many GE dishwashers have integrated silverware and bottle jets to remove stubborn grime and clean deep containers like jars and wine glasses. There's also a steam cycle to loosen baked-on food before the wash cycle starts, as well as a sanitize function that kills [99.999%](https://www.geappliances.com/appliance/GE-Profile-Fingerprint-Resistant-Top-Control-with-Stainless-Steel-Interior-Dishwasher-with-Sanitize-Cycle-Dry-Boost-with-Fan-Assist-PDT715SYNFS) of bacteria.
+
+Some models also include a Piranha Hard Food Processor that allows you to put dirty crockery and kitchenware straight in the dishwasher without rinsing it first. This component functions like a garbage disposal, grinding large food particles into smaller pieces to stop them from clogging the water lines. The Active Flood Protector feature senses when the water exceeds a certain level and siphons it off with a pump to reduce the risk of overflowing.
+
+GE dishwashers with Dry Boost with Fan Assist use a fan to remove moisture from bottles, cups and jars. Therefore, you can take your tableware out of the dishwasher and use or store it right away without drying it by hand.
+
+**More Related Articles:**
+
+*   [How Much Does a Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+*   [LG Smart Dishwashers: Smart Features and Functionality](https://www.homeserve.com/en-us/blog/home-improvement/LG-smart-dishwasher/)
+*   [How Much Does an LG Smart Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/lg-smart-dishwasher/)
+*   [What’s the Deal With Countertop Dishwashers?](https://www.homeserve.com/en-us/blog/home-improvement/countertop-dishwashers/)
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)
+
+How Do You Connect Your GE Smart Dishwasher to Your Phone?
+----------------------------------------------------------
+
+Unlike other brands’ dishwashers with smart connectivity, many GE dishwashers don't include integrated Wi-Fi. Instead, you'll need to purchase a separate [U+ Connect Module](https://www.geapplianceparts.com/store/parts/spec/PBX23W00Y0) — for about $50 (CAD 63) — and plug it into your dishwasher to enjoy its smart functions. Not all GE dishwashers are compatible with this module, so you should check the product specifications on your model.
+
+First, download the Smart HQ app from the Apple or Google Play app store. Create a new account if you don't have one already, then click on the email verification link to activate your account. You can then sign in.
+
+Press the plus sign on the app home screen, tap the dishwasher option and press “OK.” The app will ask you if you have a Connected Appliances Information label. Select “Yes” or “No” and then tap next. The app will then guide you to enter the password printed on your U+ Connect Module.
+
+Follow the on-screen instructions to plug the Wi-Fi module into the RJ45 Connector port behind the toe kick panel. Your module light should start flashing. If it doesn't, press and hold the module button down until it starts.
+
+The app will then instruct you to join the GE network via your phone's Wi-Fi settings. You can access guidance on the Smart HQ app if you're unsure how to join. The app will then connect to the dishwasher via the U+ Connect module.
+
+Finally, select your home Wi-Fi network from the app menu and enter your password or enter your network name manually if it doesn't appear. The SmartHQ app will notify you when you've connected successfully.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

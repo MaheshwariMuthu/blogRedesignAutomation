@@ -1,0 +1,94 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Solar Water Heater: Is a Solar Water Heater Worth It?"
+headline: "Thinking About a Solar Water Heater? Here are the Pros and Cons"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-20
+basePath: https://library.homeserve.com/m/
+heroImage: 3d5b95606c5edc16/Blog-GettyImages-1292490186.jpg
+heroAltDescription: "solar hot water tank at sunset"
+metaDescriptions: "A solar water heater might be a worthwhile investment for your home. Here's everything you need to know about these systems."
+articleAbstract: "In the market for a new water heater? Consider a solar. They offer plenty of benefits, plus you might find that it's a worthwhile investment for your home. Here's what you need to know."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Solar Water Heaters: Pros &amp; Cons"
+  parent: HVAC-Home-Improvement
+---
+  You hop into the shower and quickly jump back out again because the steaming water you were promised is _nowhere_ to be found. If that’s the case, it may be time for a new hot water system. And as long as you’re in the market for one, consider a solar water heater.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install Solar Panels?**](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+
+If you don’t know much about them, you may be hesitant to get a solar-powered water heater. (How much do they cost? How well do they work if the sun’s not shining?) But solar hot water systems can offer plenty of benefits to homeowners. You may find that buying one is a worthwhile investment for your home. Here’s what you need to know.
+
+What’s a Solar Water Heater?
+----------------------------
+
+At their most basic, solar heating systems act as greenhouses for water. The technology isn’t new; the first system was [patented in 1891](https://www.motherearthnews.com/renewable-energy/history-of-solar-water-heating-zmaz03onzgoe). Systems have improved since then, and today, they use a set of solar panels — known as a solar collector — that trap heat. This heats the water, which is then stored.
+
+When deciding on a solar hot water system, you can choose between an active system and a passive system. The main difference is that active systems have a circulating pump and controls. Passive systems tend to be less efficient, but they are less expensive and often last longer. An installer can help you determine which type works best for your home, water needs and location.
+
+Is a Solar Water Heater Worth It?
+---------------------------------
+
+The answer to this question is always going to depend on your individual circumstances, but most people find a solar water heating system is a good investment. If you’re trying to build a more eco-friendly lifestyle, solar water is a great addition to your home as it decreases your carbon footprint.
+
+Even those not interested in going green for the environment find that a solar system helps give them more green financially by putting more money in their pocket. Although upfront costs can be high, these systems pay for themselves over time by reducing your energy bills.
+
+However, solar hot water systems aren’t without their disadvantages. Your potential savings can differ depending on where you’re located, and some homeowners have to pay additional costs to prepare their homes for the systems. It’s important to understand both the pros and cons of installing solar hot water before deciding if it’s right for you.
+
+What Are the Benefits of Solar Hot Water?
+-----------------------------------------
+
+### Cost Savings
+
+The [U.S. Department of Energy](https://www.eia.gov/todayinenergy/detail.php?id=37433) estimates that 19% of a household’s energy use goes toward heating water. In most homes, it accounts for the second-largest energy expenditure behind space heating. But once you have solar hot water installed, it doesn’t cost anything to heat the water because using the sun is free. The exact amount you can expect to save depends on a number of factors, such as how much hot water you use and where you live. However, the says that the average U.S. household [saves 50% to 80%](https://www.energy.gov/energysaver/estimating-cost-and-energy-efficiency-solar-water-heater) on their water heating bills after installing a solar hot water system. You’ll also be protected if there are fuel shortages or rising energy costs in the future.
+
+### Increased Home Value
+
+Homes with green features are becoming increasingly popular, so solar hot water can help your resale value. It’s likely solar hot water will add value to your home when you’re ready to sell as buyers continue to look for energy-saving and environmentally friendly housing options.
+
+### Tax Credits
+
+Currently, homeowners can get a [federal government tax credit](https://www.energystar.gov/about/federal_tax_credits/solar_energy_systems) for the cost of materials and installation of a solar hot water system. The credit is 26% for systems installed before the end of 2022, which can help offset the initial cost of the system. Keep in mind that some states have additional credits available that can lower the cost of the system even further. The credit is only available for systems that heat water in your home, not those used to heat pools or hot tubs.
+
+### Environmentally Friendly
+
+Solar hot water systems have a gas or electric backup system for overcast days, but most of your hot water is heated using 100% renewable energy. This means you’re lowering your household’s carbon footprint and keeping greenhouse gases out of the atmosphere.
+
+**More Related Articles:**
+
+*   [How to Install Solar Panels: 6 Steps to Daylight Savings](https://www.homeserve.com/en-us/blog/how-to/install-solar-panels/)
+*   [What’s It Like to Go Solar? 5 Things They Don’t Tell You in the Brochure](https://www.homeserve.com/en-us/blog/home-improvement/solar-panels/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [What Are Solar Shingles … and Do They Work?](https://www.homeserve.com/en-us/blog/home-improvement/solar-shingles/)
+*   [Does My Homeowners Insurance Cover My Water Heater?](https://www.homeserve.com/en-us/blog/buying-guide/home-insurance-water-heater-coverage/)
+
+What Are the Disadvantages of a Solar Water Heater?
+---------------------------------------------------
+
+### Upfront Costs
+
+[HowMuch.net](https://howmuch.net/costs/solar-water-heater-installation) says the average cost of installing a solar hot water system is $4,120, but exact prices depend on the type of system and where you live. According to [HomeServe data](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-replacement-cost/), replacing your old water heater with a regular, tanked model costs $1,741 on average.
+
+There’s definitely a premium for installing solar. However, tax credits can help lower the costs. And according to [Energy Star](https://www.energystar.gov/products/water_heaters/water_heater_solar/benefits_savings), solar hot water systems often last longer than traditional systems, so you can delay the cost of a replacement system.
+
+### Roof Space
+
+Solar hot water panels are much smaller than solar electricity panels because they're more efficient at converting sunlight to heat. Despite this, you do need room on your roof for the system. That space needs to be oriented in the right direction and can’t be covered by shade from trees or taller buildings. As the systems can be heavy, they may not be suitable for older houses. Or, you may need to reinforce the roof so it can hold the weight.
+
+With all these considerations, you may find it hard to find an appropriate space for a solar water system. Installers are generally happy to visit your property to determine if a system will work for you.
+
+### Less Efficiency on Cloudy Days
+
+Solar panels can generate heat on cloudy days, but you may find the system is less efficient in certain types of weather. This is especially true in northern states that get less sunshine during winter. The majority of systems have boosters that provide hot water when the sun isn’t up to the challenge, so you don’t need to worry about cold showers. However, you may have fewer financial benefits if you live in an area that lacks sunny days.
+
+### Maintenance Costs
+
+All hot water systems need to be maintained, whether you’re flushing the system or checking the valves. However, solar systems can be more difficult to maintain yourself due to the nature of the parts. It can also be harder to find someone to do maintenance than it would be if you had a traditional system. You should keep these future costs in mind when making your decision.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/LfJL3ADHwTY?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

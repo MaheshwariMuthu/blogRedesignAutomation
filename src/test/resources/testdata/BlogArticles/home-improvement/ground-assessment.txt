@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Ground Assessment?"
+headline: "What Is a Ground Assessment?"
+author: Lee Soren
+tags: ["post"]
+publishDate: 2023-08-24
+basePath: https://library.homeserve.com/m/
+heroImage: 22a46e8c20f2c727/Blog-GettyImages-1423037097.jpg
+heroAltDescription: "geotechnical soil site survey for building construction"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Before breaking ground on a new project, a geotechnical survey may be needed. These in-depth ground assessments can ensure a site's integrity."
+articleAbstract: "A ground assessment or geotechnical survey is essentially a surface and subsurface examination of the soils and rocks on a potential building site. Here's what to know before breaking ground on a new project."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is a Ground Assessment?"
+  parent: Exterior-Home-Home-Improvement
+---
+  You bought a great piece of land. You hired an architect who helped you design the house of your dreams. Now, it’s time to break ground and start building.
+
+**This May Also Interest You:** [**How Much Does Foundation Repair Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/foundation-repair/)
+
+But before you grab a shovel (or direct an excavator to your property), you’re going to need a ground assessment.
+
+What Is a Ground Assessment or Geotechnical Survey?
+---------------------------------------------------
+
+A ground assessment, which may be referred to as a geotechnical survey, is essentially a surface and subsurface examination of the soils and rocks on a potential building site. The resulting report may be used by an architect or builder to help design and construct the project, ensuring its structural integrity and safety.
+
+How Is a Geotechnical Investigation Performed?
+----------------------------------------------
+
+Typically, to conduct the assessment, an auger or drilling rig bores into the ground to extract soil samples, which are sent to a lab for analysis. The laboratory tests the sample to determine the chemical and physical characteristics and whether they're suitable for supporting a proposed structure, such as a house.
+
+In some cases, nonintrusive geophysical methods may also be used to conduct an assessment. These surveys, which often involve electrical, magnetic or seismic remote-sensing techniques or ground-penetrating radar, don’t cause damage to the subsurface. However, they may be less accurate.
+
+Who Performs These Assessments or Surveys?
+------------------------------------------
+
+Geotechnical investigations are typically performed by geotechnical engineers, who are sometimes referred to as soil engineers. These engineers are trained, licensed professionals who follow standards set by the American Society for Testing and Materials.
+
+What Can a Geotechnical Report Tell You?
+----------------------------------------
+
+A ground assessment can tell you the physical and chemical properties of a site’s soil and rocks, including:
+
+*   Soil and rock type
+*   Soil consistency
+*   Soil density and strength
+*   The presence of organic material
+*   The presence and level of groundwater
+*   Evidence of contamination
+*   Soil compaction
+*   Subsurface conditions
+*   The possibility of soil settling
+
+However, probably the most important information you’ll get in a ground risk assessment report is whether the soil and rock conditions meet the necessary requirements to support the structure you've planned. Moreover, the report may include recommendations for the foundation design and any seismic design factors that should be incorporated into the building plan. And if there's a problem, the geotechnical engineer who performs the survey can also suggest ways to fix it.
+
+**More Related Articles:**
+
+*   [Make Sure Your Window Wells are Well Maintained With This Checklist](https://www.homeserve.com/en-us/blog/home-improvement/window-well-maintenance/)
+*   [How Much Does It Cost to Install or Replace a Basement Window Well?](https://www.homeserve.com/en-us/blog/cost-guide/window-well-replacement/)
+*   [6 Ways to Make Your Window Wells Look Great From the Inside or Outside](https://www.homeserve.com/en-us/blog/how-to/decorate-window-wells/)
+*   [How to Install or Replace a Window Well](https://www.homeserve.com/en-us/blog/how-to/window-well-installation/)
+*   [How Much Does It Cost to Waterproof a Basement?](https://www.homeserve.com/en-us/blog/cost-guide/basement-waterproofing/)
+
+When Do You Need to Get a Ground Assessment?
+--------------------------------------------
+
+If you plan to build in a place that’s known for poor soil, you’ll probably need a ground assessment. Hillsides, regions prone to sinkholes and locations that may have been previously excavated may also necessitate a ground risk assessment prior to building. In some areas, authorities may also require a topographic survey prior to building.
+
+However, regardless of the region and risk, it’s almost always a good idea to obtain this type of report before commissioning the design and construction of a new structure.
+
+The Importance of Site Investigation
+------------------------------------
+
+Using a ground assessment, your engineer can make sure your structure is designed for safety and longevity. If you plan and build without this crucial information, you may run the risk of creating a structure that isn’t compatible with the existing soil conditions, which can be a costly and potentially unsafe mistake.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

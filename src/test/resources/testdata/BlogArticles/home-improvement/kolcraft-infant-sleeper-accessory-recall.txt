@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Infant Suffocation Death Risk: Kolcraft Recall Urges Parents to Stop Using Bassinet Sleeper Accessory Now"
+headline: "Infant Suffocation Death Risk: Kolcraft Recall Urges Parents to Stop Using Bassinet Sleeper Accessory Now"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-05-18
+basePath: https://library.homeserve.com/m/
+heroImage: 26b227a17126a196/Blog-InfantSleeperAccessoryRecall_Kolcraft_0001.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Chicago-based Kolcraft Enterprises Inc. is recalling 51,000 baby cradle accessories due to risk of infant suffocation death."
+articleAbstract: "Chicago-based Kolcraft Enterprises Inc. is recalling 51,000 baby cradle accessories due to risk of infant suffocation death. The recalled component is the inclined sleeper accessory included with Kolcraft Cuddle ’n Care 2-in-1 Bassinet &amp; Incline Sleepers as well as with Preferred Position 2-in-1 Bassinet &amp; Incline Sleepers."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Kolcraft Reannounces Recall of Inclined Sleeper Accessory and Urges Consumers to Act Now to Prevent Risk of Suffocation"
+  parent: Interior-Home-Home-Improvement
+---
+  Chicago-based Kolcraft Enterprises Inc. is recalling 51,000 baby cradle accessories due to risk of infant suffocation death. The recalled component is the inclined sleeper accessory included with Kolcraft Cuddle ’n Care 2-in-1 Bassinet & Incline Sleepers as well as with Preferred Position 2-in-1 Bassinet & Incline Sleepers. The sleepers were sold between March 2011 and December 2017, for about $140 apiece, nationwide, the [Consumer Product Safety Commission](https://cpsc.gov/Recalls/2021/Kolcraft-Reannounces-Recall-of-Inclined-Sleeper-Accessory-and-Urges-Consumers-to-Act-Now-to-Prevent-Risk-of-Suffocation) reported.
+
+**This May Also Interest You:** [**Don't Sleep on This: 700 HOFISH Mattresses Recalled Over Fire Risk**](https://www.homeserve.com/en-us/blog/home-improvement/hofish-mattress-recall/)
+
+No incidents or injuries have been reported stemming from the recalled Kolcraft products, which were manufactured in China, but deaths have been attributed to similar products.
+
+“Infant fatalities have been reported with other manufacturers’ inclined sleep products, after the infants rolled from their back to their stomach or side, or under other circumstances,” the CPSC stated.
+
+The recall — initially announced Feb. 20, 2020, then re-announced May 5, 2021 — affects the inclined sleeper accessory of Kolcraft Cuddle ’n Care 2-in-1 Bassinet & Incline Sleepers bearing a model number starting with KB063 as well as Preferred Position 2-in-1 Bassinet & Incline Sleepers bearing a model number starting with KB061. Model numbers can be found on the metal bar between the bassinets’ legs. Owners should note that only the inclined sleeper accessory is affected by the recall, not the entire bassinet; the bassinet can still be used without the inclined sleeper.
+
+Owners should stop using the accessory immediately and contact Kolcraft for either a $20 refund or a $35 voucher for products on the [company’s website](http://www.kolcraft.com/), which can be used until Feb. 20, 2022.
+
+Kolcraft is contacting all registered owners and known purchasers directly via a mailed postcard; owners can call the company at 800-453-7673, email [customerservice@kolcraft.com](mailto:customerservice@kolcraft.com) or go to the [product recall page](https://www.kolcraft.com/safety-notifications/kolcraft-inclined-sleeper-assembly/) on the company’s website. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Burn Injuries Cited in Water Removal Pump Recall by Scott Fetzer Consumer Brands](https://www.homeserve.com/en-us/blog/home-improvement/scott-fetzer-water-pump-recall/)
+*   [Smoke on the Water? Pentair Water Pool and Spa Recalls Pool Heaters Due to Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/pentair-pool-heater-recall/)
+*   [Over 700 Previously Recalled AC and Heat Pump Units Resold After Recalls Announced](https://www.homeserve.com/en-us/blog/home-improvement/ac-unit-heat-pump-recall/)
+*   [Fire Risk: Metal Ware Recalls NESCO Coffee Bean Roasters Over Reports of ‘Flames and Smoke’](https://www.homeserve.com/en-us/blog/home-improvement/nesco-coffee-bean-roaster-recall/)
+*   [Fire Risk Prompts Recall of Goal Zero Power Cables](https://www.homeserve.com/en-us/blog/home-improvement/goal-zero-power-cable-recall/)

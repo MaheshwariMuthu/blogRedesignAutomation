@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does Radon Inspection and Mitigation Cost?"
+headline: "How Much Does Radon Inspection and Mitigation Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-06-23
+basePath: https://library.homeserve.com/m/
+heroImage: 634c37cf61aa1958/Blog-RadonMitigation_Erossi_3432.jpg
+heroAltDescription: "A close up of a residential radon mitigation system exhaust pipe"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Knowing the average costs associated with radon inspection and radon mitigation systems can help you deal with radon issues."
+articleAbstract: "Knowing the average costs associated with radon inspections and radon mitigation systems can help you better prepare for dealing with radon issues."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does Radon Inspection and Mitigation Cost?"
+  parent: Interior-Cost-Guide
+---
+  Radon gas in your home doesn't cause immediate symptoms like carbon monoxide does, but it can increase your chances of lung cancer with prolonged exposure. That's why radon testing is important.
+
+**This May Also Interest You:** [**Heat Your Home Safely This Winter: Carbon Monoxide Safety Tips**](https://www.homeserve.com/en-us/blog/home-improvement/carbon-monoxide-safety/)
+
+Knowing the average costs associated with radon inspections and radon mitigation systems can help you better prepare for dealing with radon issues.
+
+**Who Should Test Their Home for Radon?**
+-----------------------------------------
+
+Because radon can occur anywhere, everyone should test for radon. Some states and areas [tend to have higher radon levels](https://www.epa.gov/radon/epa-map-radon-zones), but you can still have elevated radon results in other areas. Testing results can vary even within your neighborhood, so you should always test your home rather than basing assumptions about radon levels on your neighbors' results. Radon has no color, odor or taste, which means testing is the only way to detect it.
+
+**How Much Does a Home Radon Test Kit Cost?**
+---------------------------------------------
+
+Home radon tests are readily available online and through various organizations. Some state radon departments offer residents free or low-cost DIY testing kits. You can also buy DIY kits online or in home improvement stores, typically [between $9 and $40](https://www.houselogic.com/organize-maintain/home-maintenance-tips/diy-radon-testing/) (CAD 11.50 and CAD 50).
+
+To use the test, you put out a small canister for a specified period without disturbing it and then send it to a lab for analysis. Always follow the instructions with the kit to increase the accuracy of your results.
+
+**How Much Does a Professional Radon Test Cost?**
+-------------------------------------------------
+
+You also have the option of hiring a professional to handle the testing. Your state radon office can give you the names of certified radon companies. According to [LawnStarter](https://www.lawnstarter.com/blog/cost/radon-testing-price/), you can expect the professional radon inspection cost to be between $310 and $1,420 (CAD 415 and CAD 1,900) or more. The price really depends on the type of test you’re getting, and if mitigation is included. The national average cost is $840 (CAD 1,130). If you're getting a general home inspection, such as the inspection when selling or buying a home, you can usually add a radon test for about $150 (CAD 190) more.
+
+**What Is a Radon Mitigation System?**
+--------------------------------------
+
+A radon mitigation system helps lower the radon levels in your home. There are different types of radon mitigation, but they're all designed to keep radon inside your home at safe levels. The [Environmental Protection Agency](https://www.epa.gov/radon/what-epas-action-level-radon-and-what-does-it-mean) establishes 4 pCi/L as the threshold for correcting radon levels, but homeowners with radon levels between 2 pCi/L and 4pCi/L should also consider mitigation efforts.
+
+Many home radon mitigation systems use a fan to help move radon away from your home. A common system is one that sucks radon from underneath your foundation through a pipe and into the outside air to keep it from entering your home. Connecting a fan to the pipe helps create a vacuum effect to suck the radon from underneath the foundation.
+
+**More Related Articles:**
+
+*   [How to Install a Smoke Detector](https://www.homeserve.com/en-us/blog/how-to/install-smoke-detector/)
+*   [Gas Safety Guide: 7 Tips to Keep in Mind](https://www.homeserve.com/en-us/blog/home-improvement/gas-safety-tips/)
+*   [5 Home Repairs You Should Never Do Yourself](https://www.homeserve.com/en-us/blog/home-improvement/home-repairs-yourself/)
+*   [Wood-Burning Stove and Fireplace Safety Guide](https://www.homeserve.com/en-us/blog/home-improvement/fireplace-wood-burning-stove-safety/)
+*   [Is It Safe to Put Things on or Near Your Radiator?](https://www.homeserve.com/en-us/blog/home-improvement/can-you-put-items-on-radiator/)
+
+**How Much Does a Radon Mitigation System Cost?**
+-------------------------------------------------
+
+According to [National Radon Defense](https://www.nationalradondefense.com/about-us/articles/43211-radon-mitigation-system-cost.html), you can expect a total cost of $800 to $2,500 (CAD 1,075 to CAD 3,400) as a general guideline, though you may pay more depending on a number of factors, including the size of your home, how much radon is present in your home and the type of system needed for mitigation. The costs can vary by area. Your home's size, construction and foundation type can have a major impact on the cost. Some areas might offer financial assistance for homeowners who need radon mitigation.
+
+Get quotes from multiple radon mitigation companies to compare pricing. Some states require companies that install radon mitigation systems to be licensed, so check the requirements in your state and look for recommendations from your state's radon office.
+
+**Are There Other Costs Involved in Radon Remediation?**
+--------------------------------------------------------
+
+You might have some additional costs related to radon mitigation. In addition to the radon mitigation system cost, you'll also have a slight increase in your electric bill to operate the fan. The system also typically creates some air loss for your heated or cooled air. This can also cause a bump in your utility bills as your HVAC system works a little harder to keep your home comfortable.
+
+You might also need to do other repairs to your home to help reduce radon levels. Radon often enters through cracks and gaps in your home, so having them repaired can help keep radon out. Improving your home's ventilation can also help lower radon levels. These home improvement projects have an initial upfront investment that can increase your radon mitigation costs.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

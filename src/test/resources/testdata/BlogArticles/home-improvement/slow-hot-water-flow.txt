@@ -1,0 +1,88 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why You Have Slow Hot Water Flow and How to Fix It"
+headline: "5 Reasons You Have Slow Hot Water Flow — and 5 Fixes You Can Try"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-17
+basePath: https://library.homeserve.com/m/
+heroImage: 5359b2109d09ef4/Blog-GettyImages-1212066355.jpg
+heroAltDescription: "A human hand checks the temperature of the water flowing out of a silver metal rain style shower head in a white tiled shower"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Find out why it takes forever to get hot water out of a faucet and what you can do to fix it."
+articleAbstract: "There's nothing more frustrating that standing under a cold shower, waiting minutes for hot water to flow. Here are some reasons why you're experiencing this — plus a few ways to solve the problem."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Does It Take So Long for Hot Water to Come Out of My Sink?"
+  parent: Plumbing-Home-Improvement
+---
+  
+
+Turning on the faucet or shower and having to wait _minutes_ for hot water to come through can be a frustrating experience. It’s also wasteful and leads to higher water bills.
+
+**This May Also Interest You:** [**What’s the Difference Between Tank and Tankless Water Heaters?**](https://www.homeserve.com/en-us/blog/home-improvement/tank-vs-tankless-water-heater/)
+
+Aside from installing an on-demand water heater, what can you do to prevent this problem? Here’s what you need to know.
+
+Why Does It Take So Long for Hot Water to Come Out of the Faucet?
+-----------------------------------------------------------------
+
+### 1\. There’s Water Sitting in the Pipes
+
+If you experience slow hot water flow in one area, such as your kitchen hot water tap running slowly, it may be that there is water sitting in the pipes. This water must be displaced before hot water can come through.
+
+### 2\. You've Got Small Pipes
+
+The pipes may also have a small diameter, restricting the flow of water. And thicker pipes can leech heat from the water as it travels to appliances.
+
+### 3\. The Pipes are Low-Flow
+
+Some appliances may have a volume restrictor installed. These are in place to conserve water and lower costs, but they could cause hot water delay, especially when paired with another issue.
+
+### 4\. Your Water Heater Is Far Away
+
+The physical distance between the water heater and water fixture can cause slow hot water flow. If the water heater is in the basement on the east side of the house, it can make the hot water slow to reach the shower two floors up on the west side of the house.
+
+### 5\. The Water Heater’s Dirty
+
+There may be other issues with the water heater — the most common being sediment buildup. This is caused by minerals in hard water building up in the tank and restricting the space for hot water.
+
+<img class="detail-image" src="https://library.homeserve.com/m/52999dc554daf63e/Blog-WaterHeaterControl_Rossi_3001.jpg" alt="Water heater control valve"/>
+
+**More Related Articles:**
+
+*   [How to Turn Off Your Water Heater — and When It May Come Up](https://www.homeserve.com/en-us/blog/how-to/turn-off-water-heater/)
+*   [Your Guide to Draining a Water Heater](https://www.homeserve.com/en-us/blog/how-to/drain-water-heater/)
+*   [How to Replace the Anode Rods on Your Water Heater](https://www.homeserve.com/en-us/blog/how-to/replace-water-heater-anode-rods/)
+*   [How to Install a Tankless Electric Water Heater: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-tankless-electric-water-heater/)
+*   [How Do I Turn My Water Heater On?](https://www.homeserve.com/en-us/blog/how-to/turn-on-water-heater/)
+
+5 Ways to Make Hot Water Come Out Faster
+----------------------------------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/287ba515720a829b/Blog-46.jpg" alt="contractor, water"/>
+
+### 1\. Insulate Your Pipes
+
+If your pipes are causing the issue, one solution is to insulate your pipes, preventing them from pulling heat from the water as it travels. Insulation can keep the temperature of the water up to 4 degrees Fahrenheit (2 degrees Celsius) higher.
+
+### 2\. Install a Hot Water Recirculation Pump
+
+A hot water recirculation pump can cycle the cold water in your pipes back to your water heater and replace it with hot water ready where you need it. This can be a great solution to hot water issues, especially in newer homes.
+
+### 3\. Replace Fixtures
+
+If one particular appliance or fixture is slow, you can replace the model with one that has a higher flow rate. Be aware lower flow rates are designed to prevent high water consumption. However, if you are using up gallons of water waiting for the water to heat up, this may be a cost-effective option.
+
+### 4\. Fix Your Water Heater
+
+Sometimes, adjusting the setting on your water heater can fix the problem. Try turning the temperature up first.
+
+You may also want to clean your water heater. Turn off the water heater and drain it. Draining the tank and flushing it with cold water can remove a lot of the sediment buildup and fix your slow hot water problems.
+
+If these solutions don't work, you will need to call a plumber to diagnose the problem or consider a replacement.
+
+### 5\. Upgrade to a Tankless Water Heater
+
+Rather than storing hot water, a tankless water heater heats water as it flows through the system. Sometimes, they’re called “on-demand water heaters” for this reason. If you experience issues because of the distance between fixtures and the tank, you can install point-of-use units through your home, greatly increasing your access to hot water on-demand.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

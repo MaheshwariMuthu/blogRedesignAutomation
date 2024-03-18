@@ -1,0 +1,40 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Northern Tool & Equipment Portable Generator Recall"
+headline: "3,600 Powerhorse Portable Generators Recalled Over Risk of Electric Shock"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-03-05
+basePath: https://library.homeserve.com/m/
+heroImage: 77b7f0a55df45d0f/webimage-Powerhorse13000ESPortableGenerator_Manufacturer_0001.jpg
+heroAltDescription: "blue mobile generator"
+metaDescriptions: "Northern Tool & Equipment has recalled over 3,600 Powerhorse Portable Generators due to a risk of electrical shock"
+articleAbstract: "Northern Tool & Equipment has recalled Powerhorse 13000ES Portable Generators due to a wiring error that poses a risk of electrical shock. If you purchased one of these portable generators prior to September 2020, yours might be one of the 3,640 units recalled by the manufacturer. Here’s what you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Northern Tool & Equipment Portable Generator Recall"
+  parent: Electrical-Home-Improvement
+---
+  Northern Tool & Equipment has recalled Powerhorse 13000ES Portable Generators due to a wiring error that poses a risk of electrical shock. If you purchased one of these portable generators prior to September 2020, yours might be one of the 3,640 units recalled by the manufacturer. Read on to learn what you need to know.
+
+**This May Also Interest You:** [**How Much Does a Home Generator Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/home-generator-cost/)
+
+According to the Burnsville, Minn.-based [manufacturer](https://www.northerntool.com/shop/tools/help_product-recalls-item-799215), the affected Powerhorse 13000ES Portable Generators contain an incorrectly wired receptacle that may cause electrical shock if the unit is not appropriately grounded. This wiring issue affects the L5-30R 120V/30A receptacle, which is often used for RVs or at marinas.
+
+The recall was announced Feb. 24. The affected generators bear the model number 799215. Locate the serial number on the left side of the lower frame and check it against the list of recalled generators [here](https://www.cpsc.gov/Recalls/2021/Northern-Tool-and-Equipment-Recalls-Powerhorse-Portable-Generators-Due-to-Shock-Hazard).
+
+According to the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/Northern-Tool-and-Equipment-Recalls-Powerhorse-Portable-Generators-Due-to-Shock-Hazard), Northern Tool & Equipment has received one report of the wiring error, and no injuries have been reported. The portable generators were manufactured in China, and sold at Northern Tool & Equipment stores and online from July 2016 to September 2020, for around $1,850.
+
+If your generator is affected by this recall, the [CPSC recommends](https://www.cpsc.gov/Recalls/2021/Northern-Tool-and-Equipment-Recalls-Powerhorse-Portable-Generators-Due-to-Shock-Hazard) you immediately stop using the product and contact the manufacturer to schedule a free repair.
+
+If you purchased the product at a Northern Tool & Equipment store, you can call that store directly, or you can call Powerhorse Product Support at 1-866-443-2576; you can also use this number if you purchased a generator online. If you prefer to take your generator to a qualified technician of your choosing, [Northern Tool & Equipment](https://www.northerntool.com/shop/tools/help_product-recalls-item-799215) will reimburse up to $200 for repairs; coordinate reimbursement by calling Product Support.
+
+For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [The 411 on Home Generators](https://www.homeserve.com/en-us/blog/buying-guide/home-generators/)
+*   [How Much Does a Whole-House Generator Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-it-cost-to-install-a-generator/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-it-cost-to-replace-or-upgrade-an-electrical-panel/)
+*   [All Homeowners Should Know These Electrical Terms](https://www.homeserve.com/en-us/blog/buying-guide/electrical-terms/)<br><iframe width="474" height="281" src="https://www.youtube.com/embed/6UzAoR3TKdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

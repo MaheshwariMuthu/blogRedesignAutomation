@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Is It Safe to Use Gas Stove For Heat?"
+headline: "Is It Safe to Warm Your House With a Gas Oven or Stove?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-11-20
+basePath: https://library.homeserve.com/m/
+heroImage: 348091ba57b83666/Blog-GasStove_MSchmitz_0001.jpg
+heroAltDescription: "A black gas range stovetop has all four burners on emitting blue flames under black metal stove grates."
+metaDescriptions: "You should never use your gas stove as a heat source. Here's how to your home warm safely in an emergency."
+articleAbstract: "Many homeowners wonder if it's safe to use a gas stove for heating the house if they suddenly find themselves without heating. The short answer is no. Here we break down why it’s unsafe and offer some safer alternatives.  "
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Is It Safe to Warm Your House With a Gas Oven/Stove?"
+  parent: HVAC-Home-Improvement
+---
+  
+
+_HomeServe photo by Matt Schmitz_
+
+A central heating breakdown or shutoff can be stressful and inconvenient, especially if it happens during colder months. While you wait for the heat to come back on, it's important to figure out how to keep your home warm in an emergency. 
+
+**This May Also Interest You:** [**Hot Tips! 5 Backyard Fire Safety Suggestions**](https://www.homeserve.com/en-us/blog/how-to/fire-pit-safety/)
+
+Many homeowners wonder if it's safe to use a gas stove for heating the house if they suddenly find themselves without heating. The short answer is no. Below, we break down why it’s unsafe and offer some safer alternatives. 
+
+Is It Safe to Warm Your House With a Gas Stove or Oven?
+-------------------------------------------------------
+
+You should never consider using a gas stove for heating the house or leaving your oven on for long periods solely to warm your home. These appliances are only designed for cooking food and aren't intended to be used as a heat source. According to the [National Agricultural Safety Database](https://nasdonline.org/2012/d001480/staying-warm-in-an-unheated-house-coping-with.html), the potential dangers of using an oven or gas stove for heat significantly outweigh the risks of living temporarily in a cold house. 
+
+There are numerous safer ways to warm your home in an emergency than using a stove or oven. While you're finding an alternative heat source, you can keep yourself and your family warm during a heating outage by wearing extra layers and adding more blankets to your beds. 
+
+What Are the Dangers of Heating Your House With a Stove?
+--------------------------------------------------------
+
+The primary danger of using an oven or gas stove for heating a house is carbon monoxide poisoning, according to a [Washington, D.C., city government publication](https://ota.dc.gov/release/dangers-using-your-stove-home-heating). Gas ovens and stoves produce carbon monoxide during normal use, but they're more likely to produce dangerous levels when you use them for a purpose they weren't designed for. 
+
+Carbon monoxide gas is odorless and invisible, but it can have devastating health consequences. Inhaling carbon monoxide at lower levels can cause symptoms such as headaches and drowsiness, and it can be fatal in high doses. 
+
+Using a gas stove for heat can also significantly increase the risk of a house fire. Leaving an open flame unattended could cause surrounding materials to catch light, especially if the area around your cooker is cluttered or you have hanging items that could fall onto the stove. 
+
+What Are Some Ways You Can Heat Your Home If Your Furnace Isn't Working?
+------------------------------------------------------------------------
+
+So, if using an oven or gas stove for heat is dangerous, what can you do to stay warm if your furnace stops working? 
+
+One of the simplest ways to warm your home in an emergency is to use a portable electric heater. However, you may not have this option available if your heating breakdown is caused by a power outage. Alternatively, you could use a catalytic gas, biofuel or kerosene heater — or your wood-burning stove if you have one. When using an alternative heat source, always use the correct fuel and never use fuel intended for barbecues. 
+
+It's important to remain vigilant when using temporary heaters of any kind because they can cause house fires. Generally, you should keep anything that could catch fire at least 3 feet away from your heat source. You should also ensure that there is always someone supervising the heater or wood burner at all times and use a fireguard to make it inaccessible to small children and animals. 
+
+One of the safest and most efficient ways to use portable heaters is to gather everyone in the house into a single room and use it as your designated warm room so that the heater is never unattended. If you need to heat rooms while you sleep, you could consider placing soapstone blocks next to the heater during waking hours and then placing the warmed blocks in bedrooms after switching the heaters off at night. 
+
+**More Related Articles:**
+
+*   [Add Fuel to the Fire: Calculating the Cost to Run a Wood- or Pellet-Burning Stove](https://www.homeserve.com/en-us/blog/cost-guide/run-wood-stove-pellet-stove/)
+*   [How Does a Pellet Stove Work?](https://www.homeserve.com/en-us/blog/home-improvement/pellet-stove/)
+*   [How Much Does Heating Oil Cost?](https://www.homeserve.com/en-us/blog/cost-guide/home-heating-oil/)
+*   [7 Best Space Heaters for Your Specific Needs](https://www.homeserve.com/en-us/blog/buying-guide/NEEDS%20URL/)
+*   [How Much Does Boiler Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-repair/)
+
+What Resources Are Available If Your Heat Is Turned Off?
+--------------------------------------------------------
+
+If your heating is turned off because you're unable to pay your bills, you may be eligible for emergency assistance. Your local Low Income Home Energy Assistance Program or TANF program may provide funding or a loan to allow you to switch your heating back on.

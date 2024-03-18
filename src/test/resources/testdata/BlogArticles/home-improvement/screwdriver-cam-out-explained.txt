@@ -1,0 +1,42 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is Screwdriver 'Cam Out' and How Can I Avoid It?"
+headline: "What Is Screwdriver 'Cam Out' and How Can I Avoid It?"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-05-03
+basePath: https://library.homeserve.com/m/
+heroImage: 50394f8eb2389b5f/Blog-CamOut_MSchmitz_0001.jpg
+heroAltDescription: "screwdriver and screw"
+metaDescriptions: "Cam-out is annoying at best and destructive at worst. Here's how to avoid screwdriver cam-out in your DIY projects."
+articleAbstract: "Cam-out is when the screwdriver slips out of the head of the screw. Usually this is just annoying, but it can actually damage your project or the screw itself. Here's how to avoid it."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is 'Cam-Out' and How Can I Avoid It?"
+  parent: Interior-Home-Home-Improvement
+---
+  
+
+Cam-out is when a screwdriver slips out of the head of the screw while you’re turning it. Although cam-out is actually preferable in specific circumstances, most of the time, it just reduces the amount of torque you can use to tighten a screw.
+
+**This May Also Interest You:** [**10 Must-Have Electrical Tools for DIY Projects**](/en-us/blog/home-improvement/electrical-tools/)
+
+Many do-it-yourselfers despise cam-out for that reason. When the screwdriver head falls out of the screw, it may damage your project. Camming out can also strip screws; every time the screwdriver slips out, it wears away the screw’s grooves — and could get to the point where a screwdriver will no longer be able to insert into or remove it. The problem is exacerbated if you’re using an electric screwdriver.
+
+If you have a choice of screws, avoid Phillips- and flat-head to keep cam-out to a minimum. Due to their shape, flat head screwdrivers can easily slip out of either side of the screw. According to [Wired](https://www.wired.com/2011/07/0707phillips-screw-patent/), Phillips-head screwdrivers were _designed_ to cam out to avoid overtightening.
+
+<img class="detail-image" src="https://library.homeserve.com/m/52a53e9bdde76c8a/Blog-TorxScrewdriver_Erossi_4233.jpg" alt="close up of a torx or star-bit screw drive"/>
+
+To reduce cam-out, opt for Robertson (square), hex or Torx screws.
+
+If you can’t choose the screw, make sure you’re using the right screwdriver for the job. Don’t attempt to use a flat-head driver on a Phillips-head screw, for example. The screwdriver likely will pop out repeatedly, and you’ll almost certainly damage the screw.
+
+Match the sizes of the screw and screwdriver, too. One that's too large or too small won’t fit properly. [Handyman Magazine](https://www.youtube.com/watch?v=9llRkcl4_ME) recommends checking the screws’ packaging to find the compatible driver bit size.
+
+**More Related Articles:**
+
+*   [8 Easy DIY Home Maintenance Tips](/en-us/blog/home-improvement/home-maintenance-tips/)
+*   [Splash Course: How to Use a Power Washer](/en-us/blog/how-to/use-power-washer/)
+*   [Best Ways to Upgrade Your Home for Under $150](/en-us/blog/home-improvement/cheap-ideas/)
+*   [5 DIY Home Fixes for Common Accidents](/en-us/blog/home-improvement/common-home-repair-accidents/)
+*   [10 Best Holiday Gifts for the Home-Improvement DIYer in Your Life](/en-us/blog/buying-guide/holiday-gifts-for-diyer/)

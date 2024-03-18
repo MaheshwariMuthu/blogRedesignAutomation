@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What to Do After a Wildfire"
+headline: "What to Do After a Wildfire"
+author: Leigh Morgan
+tags: ["post"]
+publishDate: 2023-07-19
+basePath: https://library.homeserve.com/m/
+heroImage: 735f87f40192eb08/Blog-GettyImages-1008290418.jpg
+heroAltDescription: "Couple checking ruins after fire disaster."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "With wildfires becoming more common, it's important to know what to do when it's safe to return to your home. Learn what to do after a wildfire in your area."
+articleAbstract: "Even if you keep your yard clean and follow other fire safety rules, there's a chance your home could be damaged by a fire at some point. Here's what to do in the aftermath of a wildfire."
+category: ["How To"]
+eleventyNavigation:
+  key: "What to Do After a Wildfire"
+  parent: Interior-Home-How-To
+---
+  Whether you live in the U.S. or Canada, wildfires are a common occurrence in the hotter and dryer months of the year.
+
+**This May Also Interest You:** [**Learn How to Install a Smoke Detector Safely**](https://www.homeserve.com/en-us/blog/how-to/install-smoke-detector/)
+
+Even if you keep your yard clean and follow other fire safety rules, there's a chance your home could be damaged by a fire at some point.
+
+What to Do After a Wildfire: Returning to Your Home for the First Time
+----------------------------------------------------------------------
+
+After the wildfire, it's important to wait until officials have given the all-clear to return to your neighborhood. Even if the flames are out, there could be downed power lines or other potential hazards in areas that have been burned or exposed to intense heat. Wear long pants, a long-sleeved shirt, sturdy shoes and a hard hat to protect yourself from these hazards.
+
+In the wildfire aftermath, it's also important to wear an N95 respirator mask to keep pollutants from entering your airway. Make sure the mask fits properly and has no leaks around the edges. If you have a beard, consider other options, as most masks [don't create a tight seal](https://clark.wa.gov/sites/default/files/dept/files/public-health/wildfire%20smoke/DOH_Wildfire_Smoke_Face_Masks_Factsheet.pdf) around facial hair.
+
+After You Are Allowed to Return Home Following a Wildfire, Check For These Hazards
+----------------------------------------------------------------------------------
+
+*   Unstable utility poles
+*   Smoldering debris
+*   Live power lines
+*   Holes filled with ash from burned trees
+*   Heavy roof damage
+*   Collapsed floors
+
+If you feel it's safe to enter, turn off the electricity until you have a chance to do a thorough inspection. It's also important to check for the smell of gas before you go inside. If you notice a gas smell, call your utility company's emergency line immediately.
+
+**More Related Articles:**
+
+*   [What You Need to Know About Gas Safety](https://www.homeserve.com/en/blog/2019/june/about-gas-safey)
+*   [5 Tips for Carbon Monoxide Safety](https://www.homeserve.com/en-us/blog/home-improvement/carbon-monoxide-safety-tips/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [Protect Your Home with These Security Systems](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-security-systems/)
+*   [Wood-Burning Stove and Fireplace Safety](https://www.homeserve.com/en-us/blog/home-improvement/fireplace-wood-burning-stove-safety/)
+
+### Taking Photographs
+
+Before you touch anything, take photographs of every room from multiple angles. Your insurance company may ask for these photos once you file a claim. Make sure the photos aren't blurry or washed out due to using the flash when it's not needed.
+
+### Checking HVAC and Electrical Systems
+
+When you think about what to do after a wildfire, focus on the HVAC and electrical systems before turning your attention to other items. First, inspect the electrical panel to determine if any breakers tripped during the fire. This is a sign that the wiring in your home may have sustained significant damage. If you notice a tripped breaker, contact a licensed electrician, rather than attempting to fix it yourself.
+
+If you have any blown fuses, replace them with new ones that have the same amperage rating. Using a fuse with a higher amp rating may cause serious damage to your wiring, increasing the risk of a fire. Before using toilets, sinks and other plumbing fixtures, look around for signs of sewer damage, such as mildew growth, foul odors and insect invasions. If you notice any of these signs, contact a plumber immediately.
+
+### Handling Food and Chemicals
+
+Throw away any foods, medications or beverages that were damaged by smoke. If the fire caused bleach, ammonia or other chemicals to spill, contact your local department of health or environmental protection agency to find out the safest way to clean up. Wear a mask in case any of the chemicals mix together and produce toxic fumes.
+
+If Your Home Has Burned in a Fire, Here’s What to Know
+------------------------------------------------------
+
+Many tips on what to do after a wildfire focus on cleaning and repairing a home that hasn't been completely ruined. Unfortunately, wildfires are capable of burning a home to the ground. If this happens to you, the first step is to make sure everyone is safe. You may need to stay with family members, rent a hotel room or crash on a friend's couch until you can find more permanent housing. Many organizations, such as the Red Cross and Salvation Army, offer clothing and other basic items to help people get back on their feet.
+
+Once you're safe, contact your insurance company. An insurance rep can help you file a claim and explain what to expect at each stage of the process. If you still have a mortgage, it's also important to contact your lender and let them know that your home burned down. Any time you buy something to replace what you lost in the fire, keep the receipt in a safe place. This can help you with your insurance claim and make it easier to claim certain tax benefits available to wildfire victims.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

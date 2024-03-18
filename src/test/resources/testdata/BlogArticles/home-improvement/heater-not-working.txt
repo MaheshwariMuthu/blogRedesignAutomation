@@ -1,0 +1,121 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is My Heater Not Working?"
+headline: "Getting Warmer... Narrow Down Why Your Heater Isn't Working With These Troubleshooting Tips"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-03-02
+basePath: https://library.homeserve.com/m/
+heroImage: 5fa53e16f34ff621/Blog-shutterstock_132189722_Contractor_furnace_XL.jpg
+heroAltDescription: "Heater Not Working"
+metaDescriptions: "When your heater isn't working and flipping the thermostat off and on again doesn't fix it, it may be time for a furnace repair. Explore possible reasons your heater doesn't work."
+articleAbstract: "Although diagnosing heating system problems is for the professionals to do, you can get a general idea of what's wrong. Many of these problems can be prevented by keeping your air filter clean and staying on top of yearly maintenance."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+
+eleventyNavigation:
+  key: "Why Is My Heater Not Working?"
+  parent: HVAC-Home-Improvement
+---
+  In colder weather, having a properly functioning heater is essential. Unfortunately, heating systems can break down in dozens of different ways — from short cycling to malfunctioning pilot lights. If you’re experiencing a heater issue, don’t panic. You may be able to diagnose the problem and, in some cases, fix it yourself.
+
+**This May Also Interest You:** [**7 Best Space Heaters for Your Specific Needs**](https://www.homeserve.com/en-us/blog/buying-guide/seven-best-space-heaters/)
+
+Below are some common heater problems and how to fix them. Use this guide to troubleshoot what’s wrong with your heating system.
+
+The Heater Is Blowing Cold Air
+------------------------------
+
+  
+If your heating system is a heat pump, it's normal for the air from your vents to feel slightly cool. Your heater is still working unless the temperature of your home never reaches what you’ve set on the thermostat. If you have a high-efficiency furnace, then you may have felt the cool air during its low stage. Wait a few hours and see if your home maintains a steady temperature before contacting a heating repair technician.  
+  
+For the other types of heating systems, cold air is a problem that you will likely need a technician to diagnose. A simple cause may be that the fan mode is set to “on” instead of “auto.” Always check the thermostat settings before contacting a technician.  
+  
+Some heating systems have a burner delay. Check the owner's manual to find out if your model has this feature. With a burner delay, you will briefly feel cold air from the vents when the heater turns on. This should only last a few minutes. If it's continuing to blow cold air, you will need to continue troubleshooting the system.  
+  
+You may have a malfunctioning limit switch. This is usually indicated by an error message on your thermostat. Another sign is a blinking light on your furnace control board. The limit switch monitors the temperature inside your furnace and turns the fan on and off as needed. A broken fan limit switch can cause your heater to blow cold air.  
+  
+Dirty or clogged air filters restrict airflow, which can cause the limit switch to turn off the furnace too quickly. This airflow restriction may cause the heat exchanger to overheat, signaling the limit switch to turn off the fan. Change or clean the air filter to see if this fixes your problem. You should clean the air filter on a monthly basis to prevent heating problems.
+
+The Heater Isn't Producing Enough Heat
+--------------------------------------
+
+  
+Many of the same problems that can cause your heater to blow cold air can cause it to not produce enough heat. Some of these problems include incorrect thermostat settings, a broken fan limit switch or a dirty air filter. Check your thermostat settings and clean your air filter as detailed above to see if this fixes your heater.  
+  
+An outdated thermostat can cause your heater to not heat your home enough. Try replacing the thermostat. It's also possible your thermostat just needs new batteries.
+
+Assuming none of these simple fixes work, you will need a heating technician to inspect your furnace. It may need to be repaired or replaced.
+
+The Pilot Light Isn't Working
+-----------------------------
+
+  
+Old models of gas furnaces have a pilot light that needs to stay lit for the heater to function. When the pilot light changes colors, your heating system needs maintenance or repair. Contact an expert heating repair technician. If the pilot light has gone out, you can try lighting it on your own. Those who feel uncomfortable lighting it can call an expert heating technician for assistance.  
+  
+First check the thermostat settings. Then, follow the instructions in your owner's manual for safely lighting the pilot light. You'll need to call a technician if the pilot light regularly goes out.  
+  
+The color of your pilot light depends on your furnace's fuel source. Natural gas flames should be mostly blue with yellow at the tips. Propane flames are bluish green with yellow at the tips.
+
+It's Turning On and Off Too Frequently
+--------------------------------------
+
+  
+Short cycling is when your heater turns on and off so often that it can’t properly heat your home. This mas many potential causes, from minor to major.
+
+Thermostats that are in direct sunlight or near a heat source like a heat register can cause short cycling because of being overheated. A hot thermostat will register a higher temperature and signal the heating system to turn off. Likewise, thermostats should not be positioned near sources of cold air, like windows and doors. The cold air leaking into your home will also cause inaccurate thermostat readings and cool it off too fast. When a thermostat is either heated or cooled too fast, it can cause short cycling. A thermostat that is in “cool” mode may also cause your heating system to short cycle.  
+  
+Another simple cause behind short cycling is a dirty air filter. A dirty air filter restricts the flow of air, which can result in pressure backing up. This backup of warm air causes the furnace to turn off.  
+  
+If you just installed a new system and you’re experiencing issues, the new heater might be too large for your home. Installing a system that's too large for your space may cause short cycling among other problems. Always hire expert heating installation technicians to handle your home system installations.  
+  
+Blocked heat registers can also cause short cycling. Don’t place furniture too close to your heat registers. You also need to keep the heat registers open. Go through your home and check that your heat registers are open and unobstructed.  
+  
+Outside, check the exhaust vent for obstructions like snow, ice, bird nests and other items. A blocked exhaust vent not only causes short cycling but can lead to carbon monoxide buildup inside your home. You can fit a screen over the exhaust vent to prevent animals and debris from getting inside.
+
+**More Related Articles:**
+
+*   [Why Does My Heating System Clang?](https://www.homeserve.com/en-us/blog/home-improvement/heating-system-clang/)
+*   [How to Fix a Radiator Leak in 4 Steps](https://www.homeserve.com/en-us/blog/how-to/fix-radiator-leak/)
+*   [How Much Does an Air Source Heat Pump Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-an-air-source-heat-pump-cost/)
+*   [How to Bleed a Radiator](https://www.homeserve.com/en-us/blog/how-to/bleed-furnace/)
+*   [How Much Does a Heat Pump Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-a-heat-pump-cost/)
+
+The Heater Is Making Weird Noises
+---------------------------------
+
+  
+A malfunctioning heating system may make any of a number of sounds — banging, thumping, scraping, humming, squealing or rumbling — each with their own cause.
+
+Banging sounds may be caused by the sheet metal bending inwards. Dirty air filters, closed vents and undersized ducts are possible reasons for this problem. Try replacing the air filter. If that doesn’t work, call a professional.
+
+An unbalanced motor wheel or motor may make thumping sounds. Scraping indicates sharp metal is coming into contact with other parts of the system. You may have a broken blower wheel or motor mount. Turn off the system and wait for a professional to make repairs to avoid damaging your system more.  
+  
+Humming sounds may be related to the transformer, capacitor or interior fan. Squealing noises are typically caused by lost lubrication on moving parts of the system. A loose fan belt may also be the reason behind the squealing noises. Rumbling indicates that something is wrong with the burner. In these cases, you should turn off the heating system and wait for repairs.
+
+There Are Thermostat Issues
+---------------------------
+
+  
+If your thermostat isn’t working properly, it’s usually because of one of three reasons: dead or low batteries, faulty wiring or old age. Changing the batteries is a good place to start. If that doesn’t work, it’s not a good idea to mess with wiring on your own. Contact an expert to be safe.  
+  
+Your thermostat may be dirty. If it hasn't been cleaned in a while, try cleaning it first. Check your owner's manual for instructions on safely cleaning it.  
+  
+You should also check the furnace's power switch. This switch may be found on the furnace or on the wall somewhere near the furnace. Some furnace power switches affect the thermostat in addition to the furnace.
+
+There's a Burning Smell
+-----------------------
+
+  
+A dusty type of burning smell is self-explanatory. Usually, there’s just dust in the system that burns when your heating system runs. This is normal when you turn on the furnace at the end of summer as dust has collected inside of the system in the months it has not been used.  
+  
+A burning plastic smell, however, is a cause for concern. Turn off the heating system immediately and schedule an emergency heating repair. It's possible that electrical components are being burned, which is a safety risk. Another potential cause behind the smell is a failing fan motor.  
+  
+_You can further reduce your stress in these situations with a plan from HomeServe. If you have a plan in place, you can call our 24/7 repair hotline and we’ll send out a local, licensed contractor to assist you with a covered issue. See what plans are available where you live._
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6RoqfIe7HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,95 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Energy Tax Credit: 5 Ways to Save"
+headline: "Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates "
+author: Judy Beasley
+tags: ["post"]
+publishDate: 2021-04-04
+basePath: https://library.homeserve.com/m/
+heroImage: 3e1f0e0dd9532a33/Blog-1064999536.jpg
+heroAltDescription: "happy couple pays bills online"
+metaDescriptions: "Your new energy-efficient appliance might qualify you to receive a tax credit. Here's what you need to know."
+articleAbstract: "Are you putting in a new furnace or air conditioner this year? Learn whether your new energy-efficient appliance qualifies you to receive a federal tax credit — and how to claim it."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates "
+  parent: HVAC-Home-Improvement
+---
+  We could all use a tax break. If you plan to replace your HVAC system or a large appliance this year, you may want to consider purchasing a qualifying energy-efficient system. By doing so, you could qualify for a tax credit of up to $500. If you buy from certain manufacturers, you may also be eligible for rebates.
+
+**This May Also Interest You:** [**How Much Does HVAC Repair and Maintenance Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+
+If you’re looking for incentives to purchase efficient systems — beyond being kind to the environment — read on.
+
+What Are Residential Energy Efficiency Tax Credits?
+---------------------------------------------------
+
+According to Energy Star, the Non-Business Energy Property Tax Credits for residential energy efficiency have been [extended retroactively through Dec. 31, 2021](https://energystar-mesa.force.com/ENERGYSTAR/s/article/What-tax-credits-are-available-1600088465189). These tax credits apply for upgrades made to an existing home in the U.S. that is your primary residence. The tax credit is good for [10% of the cost](https://www.energystar.gov/about/federal_tax_credits/non_business_energy_property_tax_credits) of the system or appliance up to $500 or a specific amount between $50 and $300.
+
+To receive the tax credit, you will have to file an [IRS Form 5695](https://www.irs.gov/forms-pubs/about-form-5695). The tax credit is only available to private individuals. It cannot be claimed by businesses. It is not applicable to rentals or new builds, and it cannot be claimed for second or vacation homes.
+
+There are also tax credits available if you install a [renewable energy system](https://www.energystar.gov/about/federal_tax_credits/renewable_energy_tax_credits). Both new builds and existing homes qualify. Primary residences and second homes qualify, but rental properties do not. This tax credit expires Dec. 31, 2023. Until the expiration, the credit value will gradually decrease. So, the tax credit amount depends on when you installed the system. Here are the values:
+
+*   30% for renewable systems put into service before Dec. 31, 2019
+*   26% for systems put into service after Dec. 31, 2019, and before Jan. 1, 2023
+*   22% for systems put service after Dec 31, 2022, and before Jan. 1, 2024
+
+Which HVAC Systems and Appliances Qualify for a Tax Credit?
+-----------------------------------------------------------
+
+The energy tax credit is offered for systems put into service no later than Dec. 31, 2021. It's not only available for HVAC systems; some Energy Star appliances may also qualify. The appliances must have a certain efficiency rating to qualify. Energy Star lists those ratings — and other qualifiers — [here](https://www.energystar.gov/about/federal_tax_credits/non_business_energy_property_tax_credits).
+
+With the proper energy efficiency rating, these systems and appliances are eligible for the tax credit:
+
+*   Air source heat pumps
+*   Central air conditioning systems
+*   Gas, propane or oil hot water boilers
+*   Non-solar water heaters
+*   Advanced main air circulating fans
+*   Biomass stoves
+*   Insulation (installation costs not included)
+*   Metal and asphalt roofs (installation costs not included)
+*   Windows, doors and skylights (installation costs not included)
+
+Which Renewable Energy Systems Qualify for a Tax Credit?
+--------------------------------------------------------
+
+The maximum credit amount varies depending on the system you choose. Check the [Energy Star website](https://www.energystar.gov/about/federal_tax_credits/renewable_energy_tax_credits) for more specific information about which systems qualify. In general, these four types of renewable energy qualify for the credit:
+
+*   Geothermal heat pumps
+*   Small wind turbines
+*   Solar water heaters and solar panels
+*   Fuel cells
+
+**More Related Articles:**
+
+*   [What is a SEER Rating for AC Units (And Why Should You Care?)](https://www.homeserve.com/en-us/blog/home-improvement/what-is-a-seer-rating/)
+*   [How Much Does It Cost To Install Solar Panels?](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+*   [4 Ways to Make Your Refrigerator More Efficient](https://www.homeserve.com/en-us/blog/home-improvement/refrigerator-efficiency-tips/)
+*   [How Much Does It Cost for a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+*   [15 Ways to Save on Your Electric Bill](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+
+How Do I Claim My Tax Credit?
+-----------------------------
+
+In order to claim your energy efficiency tax credit, you will need to complete [IRS Form 5695](https://www.irs.gov/forms-pubs/about-form-5695) and include it in your filing. Be sure to retain your receipts and any paperwork that verifies the energy efficiency of your purchase. Use these [instructions by the IRS](https://www.irs.gov/pub/irs-pdf/i5695.pdf) to file the form.
+
+Remember that this is a tax credit and can only be applied to reduce your tax liability. If you owe less than the tax credit, you do not get a refund, nor can you use the balance later. You will want to check with your tax specialist to verify the system you choose will qualify. More information is available at [IRS.gov](https://www.irs.gov/newsroom/energy-incentives-for-individuals-residential-property-updated-questions-and-answers). Consult a tax specialist for assistance when filing.
+
+Are Manufacturer Rebates Available on Energy Efficient Systems?
+---------------------------------------------------------------
+
+To maximize your savings, look for rebate offers on new, efficient HVAC systems and appliances in your area. Manufacturers may offer rebates. Sometimes, utility companies may offer rebates on certain products. You can also check online for offers from local dealers and installers. Here are some places to look:
+
+*   Energy Star lists energy efficiency [rebates and offers in your area](https://www.energystar.gov/rebate-finder). Just plug in your ZIP code to search.
+*   Check the [Database of State Incentives for Renewables and Efficiency](https://www.dsireusa.org/) to find rebates at the state level.
+*   Browse the website of your local utility company to see if they offer any incentives, freebies or rebates for energy efficiency.
+*   Manufacturer rebates may be listed on the company website.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._

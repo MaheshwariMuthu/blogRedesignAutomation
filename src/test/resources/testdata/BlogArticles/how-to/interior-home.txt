@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Interior-Home-How-To
+  parent: How To
+  title: Interior Home
+permalink: false
+---

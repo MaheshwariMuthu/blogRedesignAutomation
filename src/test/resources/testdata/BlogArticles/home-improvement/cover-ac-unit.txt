@@ -1,0 +1,55 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Should You Cover Your Central Air Conditioner in the Winter?"
+headline: "Should You Cover Your Central Air Conditioner in the Winter?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-02-06
+basePath: https://library.homeserve.com/m/
+heroImage: 4387967bf6847801/Blog-CoverACUnit_HomeServe_0001.jpg
+heroAltDescription: "Man puts cover on AC unit outside a home near a wooden deck in the backyard."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "It makes sense to want to cover your AC unit to protect it from the elements if you live in an area that sees a lot of snow and ice. But here's the truth."
+articleAbstract: "It makes sense to want to cover your AC unit to protect it from the elements if you live in an area that sees a lot of snow and ice. But here's the truth."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Should You Cover Your Central Air Conditioner in the Winter?"
+  parent: HVAC-Home-Improvement
+---
+  When winter rolls around, there’s no shortage of tasks for homeowners to check off their to-do lists to prep their houses for the coming cold. The amount of winterizing that’s necessary will depend on the climate you live in, along with the specifics of your home.
+
+**This May Also Interest You:** [**Bundle Up: How to Prepare your HVAC System for Winter**](https://www.homeserve.com/en-us/blog/home-improvement/prepare-hvac-system-winter/)
+
+One long-standing debate is whether or not you should cover your HVAC unit in the winter. We’re going to settle it, once and for all.
+
+Do You Need to Cover Your Central AC Unit in the Winter?
+--------------------------------------------------------
+
+It makes sense, in theory, to cover your AC unit to protect it from the elements in winter, particularly if you live in an area that sees a lot of snow and ice. But the truth is that modern HVAC units were built and tested to withstand extreme temperatures and precipitation. They are made with materials capable of handling winter weather and have built-in drainage to get rid of winter precipitation and snow melt, so contrary to what you may think, most outdoor AC units don't actually need the protection of a cover during winter months.
+
+In fact, covering your air conditioning unit during winter can do more harm than good, because it may trap moisture and condensation in the unit, which can lead to mold and rust. This is especially true for plastic covers, like a tarp, or covers made of other non-breathable materials that can similarly foster mold growth and corrosion. What’s more, snug, air-tight covers can be very appealing to critters looking for a spot to cozy up during cold winter months, and the last thing you want is mice or other rodents making a nest in your AC unit — and they can fit into smaller spaces than you might think!
+
+When Should You Cover Your Air Conditioner?
+-------------------------------------------
+
+Although an air conditioner cover isn’t necessary for winter months, it can be helpful to have some protection for your unit in the fall. Covering just the top portion of your unit with an outdoor AC cover in the fall can help keep leaves, twigs, nuts and other falling debris from getting lodged in your unit, which can cause problems down the line.
+
+The key to covering your AC unit in the fall is to make sure the cover is breathable and only extends about six or so inches down the sides of the unit. You do not need a full unit cover to protect your AC unit from debris. This will ensure that although the top of your unit is protected, the unit still has plenty of room to breathe, preventing the trapped condensation buildup that can cause issues with rust or mold. You can also check with your HVAC manufacturer to see if there’s a specific weather shield top cover option that’s meant for your unit.
+
+**More Related Articles:**
+
+*   [Central Air Installation and Replacement Cost](https://www.homeserve.com/en-us/blog/cost-guide/central-air-installation-cost/)
+*   [What You Need to Know About AC Repair Costs](https://www.homeserve.com/en-us/blog/cost-guide/ac-repair-costs/)
+*   [How Much Do UV Lights Cost for HVAC Systems?](https://www.homeserve.com/en-us/blog/cost-guide/uv-lights-hvac/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Do You Need a Zoned HVAC System?](https://www.homeserve.com/en-us/blog/home-improvement/zoned-hvac-system/)
+
+Outdoor AC Cover Minimalism
+---------------------------
+
+Like most home maintenance, when it comes to winterizing, you want to keep your home protected without doing (or spending) more than necessary. And you certainly want to avoid doing something that may be harmful rather than helpful, which may be the case if you fully cover your HVAC unit in the winter with dense, non-porous cover.
+
+Air conditioning covers for winter may seem like a good idea, but they simply aren’t necessary for most modern units, especially since many covers out there can trap moisture and cause long-term damage to your unit. Plus, a full, cozy unit cover may appeal to mice and other critters as a place to get away from the cold.
+
+That said, covering the top of your unit in the fall to protect it from falling debris is not a bad idea, especially if your unit is in an area that receives a lot of tree detritus during the autumn months. If you do opt to cover your unit in the fall, just make sure to use a breathable top cover and remember to remove it before the first freeze of the season. Because when it comes to winterizing your HVAC unit, less really is more.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

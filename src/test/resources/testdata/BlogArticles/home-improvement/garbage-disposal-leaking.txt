@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is My Garbage Disposal Leaking?"
+headline: "Why Is My Garbage Disposal Leaking?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-05-02
+basePath: https://library.homeserve.com/m/
+heroImage: 313d4ac68bc3dc4b/Blog-GettyImages-484745695.jpg
+heroAltDescription: "under sink"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Many garbage disposal leaks are relatively easy fixes. Here's how to stop up the leaks."
+articleAbstract: "Before you start panicking, know that many garbage disposal leaks are relatively easy fixes, and not all issues will require calling in the pros. Here's everything you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My Garbage Disposal Leaking?"
+  parent: Plumbing-Home-Improvement
+---
+  A garbage disposal is one of a kitchen’s greatest conveniences. With the help of a disposal, dishwashing gets a whole lot easier. The extra step of scraping plates into the trash before washing can often be skipped entirely, allowing you to do all your dish cleaning in one location. Plus, any icky food sediment lurking in your sink after doing the dishes can simply be swept directly down the drain with the sprayer without having to dirty your hands.
+
+**This May Also Interest You:** [**How to Reset Your Garbage Disposal (Pssst ... It’s Way Easy!)**](https://www.homeserve.com/en-us/blog/how-to/reset-garbage-disposal/)
+
+But the benefits and ease a disposal offers quickly go down the proverbial drain if your garbage disposal starts leaking. What causes a garbage disposal leak? Do you need to call in a plumber? And most pressing: Will this leak send you back to trashcan-plate-scraping purgatory?
+
+Before you start panicking, know that many garbage disposal leaks are relatively easy fixes, and not all issues will require calling in the pros.
+
+What Are Some Reasons Garbage Disposals Leak?
+---------------------------------------------
+
+There are several possible culprits behind a garbage disposal that’s leaking water. If the disposal is newly installed, it’s likely a connection hasn’t been sealed properly. You may need more plumber’s putty to fully seal the flange to the sink, or you may need to recheck that your disposal has been securely fastened to all its connections.
+
+On the other hand, if your disposal is an older appliance and has been installed for some time, then it’s more likely that the leak is caused by rusting or cracked plumber’s putty. This can cause the connection to loosen over time. An issue like this would require scraping off the existing putty, replacing it with fresh putty and, depending on the level of rust, installing some replacement parts.
+
+Although less likely, the leak could also be the result of some extreme jostling or trauma to your disposal, particularly if the leak is significant and seems to have sprung up out of nowhere. For example, if your disposal was hit while you were under the sink doing other plumbing work, it may well have dislodged it enough to cause leaking in one or more areas.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install a Garbage Disposal?](https://www.homeserve.com/en-us/blog/cost-guide/install-garbage-disposal/)
+*   [8 Things You Should Never Put Down the Garbage Disposal (and 5 Things You Can)](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-dos-and-donts/)
+*   [Why Do My Drains Smell?](https://www.homeserve.com/en-us/blog/home-improvement/drain-smell/)
+*   [How Much Does It Cost to Install or Replace a Sink Drain?](https://www.homeserve.com/en-us/blog/cost-guide/replace-sink-drain/)
+*   [Can You Pour Cooking Grease Down the Drain? No. Here’s Why](https://www.homeserve.com/en-us/blog/home-improvement/do-not-pour-grease-down-drain/)
+
+Where’s the Leak Coming From?
+-----------------------------
+
+Regardless of what you think the issue may be, the first step in the troubleshooting process is to figure out where the disposal leak is coming from. If it’s hard for you to tell, try drying the entire area with a rag first and then run a bit of water to help identify the leak’s origins.
+
+One of the most common issues is a garbage disposal leaking from the top. Often, a top-leaking disposal is caused by a poorly sealed or loose flange. Check to ensure that the mounting bolts are tight. If that doesn’t solve the problem, you may need to add some fresh plumber’s putty to further secure the flange. If the leak persists, it could be that the rubber gasket is worn or cracked and needs replacing.
+
+If your garbage disposal is leaking from the side, then the problem is probably not with the unit itself but rather the supply lines. To remedy this, try tightening the metal clamps on the drain line connections and the screws on the drain pipe.
+
+Finally, if it seems that your disposal is leaking from the bottom, the issue is likely either a broken or deteriorated seal within the unit or that the shell itself has cracked. Most often, a bottom leak occurs around a garbage disposal’s bottom reset button. Unfortunately, an Insinkerator leaking from the bottom almost always needs to be fully replaced, since the disposal itself is the issue rather than just the connections.
+
+How to Stop Leaks
+-----------------
+
+After you’ve determined the leak’s origin, you’ll need to decide if you feel equipped to tackle the problem yourself. Unless a total replacement is in order, fixing a leaking disposal is typically a relatively easy task, requiring only a few common tools, possibly some plumber’s putty and an inexpensive replacement part or two. That said, you’ll need to assess your comfort levels with the project before diving under the sink.
+
+If you want to try and repair the leak yourself, make sure to turn off power to the disposal at the breaker before beginning. If you’re feeling intimidated, go ahead and call in a professional. The price you pay for calling a plumber is often worth the peace of mind that comes with passing the task off to expert hands. In most cases, your disposal should be back up and running in no time, allowing you to bask once more in the glory of modern kitchen convenience.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/5j759jOLiwc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

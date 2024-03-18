@@ -1,0 +1,193 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Noisy Radiator: Does Your Heating System Clang?"
+headline: "Noisy Radiator: Why Does My Heating System Clang?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-03-14
+basePath: https://library.homeserve.com/m/
+heroImage: 3ee95c549647c1f9/original/BangingRadiator_171333904.gif
+heroAltDescription: "animated gif showing a visual  banging  of an old fashioned   retro radiator against a brick wall "
+metaDescriptions: "Air bubbles trapped in the water can cause noisy radiators. Learn why your heating system might be making a banging noise, and get suggestions on how to stop it."
+articleAbstract: "When you're dealing with a noisy heating system, there are several possible causes. Our troubleshooting guide will tell you what you can do for yourself — and when to contact an expert HVAC contractor."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local HVAC contractor.
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/hvac/hs/expert
+  large:
+      image: /en-us/assets/images/blog/hvac_elocal_banner1.jpg
+      alt: HVAC eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/hvac_elocal_banner2.jpg
+      alt: HVAC eLocal Banner 2
+category: ["Home Improvement"]
+
+eleventyNavigation:
+  key: "Why Does My Heating System Clang?"
+  parent: HVAC-Home-Improvement
+---
+  
+
+Have you ever been sound asleep and suddenly awakened by a loud cling-clanging noise coming from your radiator? The problem could be as simple as trapped air bubbles — but bangs and clangs from your radiator are often more than just a nuisance. They may be a warning bell of a more serious issue.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**How to Fix a Radiator Leak in 4 Steps**](https://www.homeserve.com/en-us/blog/how-to/fix-radiator-leak/)You might be able to correct smaller issues on your own with a little knowledge and a few basic tools. However, most repairs will need the hand of an expert HVAC technician. The solution often depends on the type of heating system you have and the cause or extent of the problem.
+
+Here’s a guide to troubleshooting what’s wrong with your radiator — and how you may be able to fix it yourself.
+
+Types of Heating Systems
+------------------------
+
+  
+Heating systems are categorized by the type of fuel they use. Natural gas and electricity are the most common.  
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+  
+Older homes and homes located in colder climates often contain boilers and furnaces that distribute heat via water or steam. These are known as hydronic systems, and they work by heating water or air and pumping it through the house with a series of pipes or heat exchangers. These radiant heating sources are more efficient and better able to keep floors warm during the winter months.
+  
+When these systems need servicing, trapped water or air is usually what sounds the alarm.
+
+Why Does My Heating System Make a Banging Noise?
+------------------------------------------------
+
+  
+While banging pipes in the heating system are the loudest signs of trouble in your boiler, clicking and clanging are also common indicators that something's wrong. There are several reasons for all the racket:
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+### Radiator Is Too Level
+
+  
+This may seem counterintuitive. But in order for a radiator to work efficiently, it actually needs to be sloped slightly downward toward the condensate return line. You can remedy this yourself by adding a couple of shims under the lower end of the radiator. You don't need many, just enough to ensure that the condensate drains properly.  
+  
+Place a level on the top of the radiator to gauge the problem, and then insert enough shims to slightly raise the end that is opposite the steam pipe.
+
+<img class="detail-image" src="https://library.homeserve.com/m/3b4e384696f40a0d/Blog-523185954.jpg" alt="female contractor repairs heater"/>
+
+### Your Pipes Are Loose
+
+  
+Sometimes, you'll find that your pipes are hanging from the ceiling unsupported. The pipes may be tightly fitted wherever they're connected, but the main length of the pipe is subject to bumps and jolts as the water runs through it.  
+  
+This problem can be corrected by installing hangers or insulated clips from the ceiling at regular intervals to provide a little extra support. The recommended space between hangers depends upon the type of pipe and heat source. Steel pipes require a maximum of 7 to 8 feet between hangers for both water and steam. Standard copper pipes carrying water will need a maximum of 5 feet of space between hangers for quieter distribution.  
+  
+You can purchase hangers and clips at most hardware or home supply stores. Make sure to purchase clips or hangers that are wide enough to accommodate the width of the pipe and can be secured to the ceiling surface without fitting too tight or too loose. Place each clip around the pipe and screw it to the ceiling or joist at appropriate intervals.
+
+### Water Pressure Is Too High
+
+  
+When your water pressure is high, water can be forced through the pipes too hard and fast. This can lead to a noisy heating system. For your boiler to operate properly, your temperature gauge should read about 12 PSI when the water is cold and no higher than 30 PSI when it's hot. Anything higher will trigger the pressure relief valve and force it to open.  
+  
+These valves are adjustable, but the pressure should only be altered by a trained professional.
+
+### Your Heating System Uses Forced Water
+
+  
+When water is heated, it expands. However, expansion in a limited space like a pipe or radiator sometimes leads to a condition known as "air-bound" pipes. This can cause air bubbles to become trapped, which leads to a clanking or hammering noise in your pipes.  
+  
+This isn’t a DIY fix; you’ll want to call an HVAC technician to examine your system. They’ll know how to remove trapped air bubbles from the banging radiator pipes. Then, your repair professional can adjust the water temperature to prevent a recurrence.
+
+### Too Much Water in the Boiler
+
+  
+This is the opposite of having too much air in your pipes. The problem is common with steam-powered heating and radiator systems, and it can sound like a bull is running through your walls and pipes.  
+  
+However, the solution is simple for an HVAC technician. They’ll shut off the valve to prevent the flow of water, drain water from the pipes and set water to the proper level. Once that’s done, the technician will show you the correct settings so you can maintain it yourself.
+
+  
+Water can also become trapped inside the pipes if the water is heated too fast. This causes a drastic increase in pressure and a banging noise in the heating system. Other causes include limescale buildup and broken water pumps. Each of these issues requires attention from a licensed expert.
+
+### Valves Are Blocked or Broken
+
+  
+Sometimes, you'll turn on the valve or faucet and hear a clunking sound. One cause could be a piece of packing material or other debris that's trapped behind the opening or faucet. The valve, gasket or faucet itself may be broken or damaged.  
+  
+In any of these scenarios, the unit will need to be inspected by an HVAC technician. They will shut down the water main, remove the valve and clean or replace it. Usually, gaskets or seals will also be replaced at this time.
+
+**More Related Articles:**
+
+*   [How to Bleed a Radiator](https://www.homeserve.com/en-us/blog/how-to/bleed-furnace/)
+*   [7 Best Space Heaters for Your Specific Needs](https://www.homeserve.com/en-us/blog/buying-guide/seven-best-space-heaters/)
+*   [How Much Does an Air Source Heat Pump Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-an-air-source-heat-pump-cost/)
+*   [Don’t Get Cold Feet! Everything You Need to Know About Radiant Floor Heating](https://www.homeserve.com/en-us/blog/home-improvement/radiant-floor-heating/)
+*   [How to Insulate Your Attic in 7 Steps](https://www.homeserve.com/en-us/blog/how-to/insulate-attic/)
+
+What Can Be Done About a Clanging Heating System?
+-------------------------------------------------
+
+  
+Home maintenance and regular HVAC tune-ups will prevent a lot of potentially costly home repairs. If you live in multiunit housing, such as an apartment building or a condo, alert the building manager if your radiator is making noise. In that case, the main boiler is likely located in the property's common area or an area only accessible by the property manager.
+
+Homeowners can take care of a heating system with routine maintenance:
+
+<img class="detail-image" src="https://library.homeserve.com/m/2bc69cad5e99a575/Blog-GettyImages-1180815903.jpg" alt="Leaking radiator heater flooded the hardwood floor of a residence  "/>
+
+### Bleed Your Radiator
+
+  
+Water and steam furnaces use radiant heat to keep you toasty in the winter. Whichever type of heating system you have, you’ll need to “bleed” your radiator regularly to reduce buildup from excess water or condensed steam.  
+  
+This is as simple as inserting an Allen key into the recess of the valve at the top of the radiator. Homes with baseboard heating will find this recess at the end of the unit under the end cap.  
+  
+Here’s a quick guide to [bleeding your radiator](https://www.homeserve.com/en-us/blog/how-to/bleed-furnace/):
+
+1\. Place a bowl on the floor under the valve to catch any water.
+
+2\. Insert the radiator key into the slot on the valve.
+
+3\. Turn the key counterclockwise until you hear a slight hissing noise. This is trapped air escaping.
+
+4\. Leave the valve open until water begins dripping out.
+
+5\. Close the valve again by turning the key clockwise.
+
+6\. Repeat as needed throughout the cold season.
+
+### Insulate Your Pipes
+
+  
+In addition to securing your pipes with hangers or clips, you can reduce noise by insulating them. This will also protect them from cold air and will regulate the temperature within the pipes.  
+  
+You can purchase foam sleeves from your local home supply or hardware store. Make sure to purchase sleeves that will wrap completely and snugly around the pipes. You can also spray foam insulation into any gaps or holes.
+
+### Soften Your Water
+
+  
+One of the causes of noisy radiators and pipes is a buildup of debris or limescale. You should do whatever you can to prevent a buildup of minerals in your pipes. If your home uses well water or you live in an area where hard water is common, the easiest solution is to treat your water with a water softener.  
+  
+Unsure whether you have hard water? Look for rust in bathtubs and sinks or calcium and lime deposits on shower walls. These are often telltale signs. You can also have your water inspected by a professional.
+
+### Have Your Heating System Inspected Regularly
+
+  
+An ounce of prevention is worth a pound of cure. Schedule regular inspections of your home heating system before the start of the winter and again at the end of the season. This will keep your system running efficiently. It can also prolong the life of your heating system.  
+  
+The inspection should include:
+
+*   Checking for any leaks
+*   Checking for loose wires and worn parts
+*   Making sure that your thermostat is working properly
+*   Testing for clogs or blockages
+*   Examining all parts, indoors and out
+*   Looking for signs of corrosion in valves and other wearable parts
+*   Making necessary adjustments to water temperature and pressure
+
+  
+Make sure to schedule the service before you'll need to use your heating system and after you’re done with it for the year. Your service technician should be able to spot any potential problems and offer solutions at this time. Many repairs are easy enough for homeowners to manage on their own. However, systems that are under warranty — as well as any task that is dangerous or complicated — should always be attended to by a trained, licensed expert.  
+  
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

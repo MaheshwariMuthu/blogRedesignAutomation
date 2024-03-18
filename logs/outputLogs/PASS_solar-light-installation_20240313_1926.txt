@@ -1,0 +1,146 @@
+Browser Used: firefox
+
+Article Page URL:  https://contentful-blogs-dev.netlify.app/blogs/how-to/solar-light-installation
+
+Article title <Here's How to Install Solar-Powered Outdoor Lights> MATCHED
+
+Article author <Team HomeServe> MATCHED
+
+Article publishDate <October 08, 2021> MATCHED
+
+Article image <https://library.homeserve.com/m/6dc89e6197f256e8/Blog-GettyImages-1303410399.jpg> MATCHED
+
+Block1_Paragraph 1 MATCHED
+
+	You’ve just finished landscaping your yard, but as soon as it gets dark, you’re no longer able to enjoy it. Maybe you find yourself tripping as you walk along the garden path at night. Perhaps it’s time to add some outdoor solar lights to illuminate your yard — and maybe even increase the value of your home.
+
+Block1_Paragraph2_link 1 MATCHED
+
+	How Much Does It Cost to Install Outdoor Lighting?|https://www.homeserve.com/en-us/blog/cost-guide/outdoor-light-installation/
+
+Block1_Paragraph 2 MATCHED
+
+	This May Also Interest You: How Much Does It Cost to Install Outdoor Lighting?
+
+Block1_Paragraph 3 MATCHED
+
+	Solar lights are the perfect solution for your outdoor lighting needs. There’s no need to dig up your new landscaping to bury wires so you can add illumination to the outer reaches of your yard. Plus, with no wiring, you don't need an electrician for solar light installation. Here’s how to do it yourself.
+
+Heading 1: < Are Solar Lights Easy to Install? > MATCHED
+
+Block2_Paragraph 1 MATCHED
+
+	As solar lights have minimal wiring, they’re much easier to install than non-solar lights. Solar light installation can be a DIY job, or you may choose to call your handyman — either way, there’s usually no need to bring in an electrician.
+
+Heading 2: < How Do You Install Outdoor Solar Lights? > MATCHED
+
+Block3_Paragraph 1 MATCHED
+
+	The first step to solar light installation is choosing the right lights. Garden stakes can be used to highlight a path, and string lights can decorate patios, gardens and balconies. You can also find solar lights that attach to walls or fence posts.
+
+Block3_Paragraph 2 MATCHED
+
+	Make sure you pick something that is made of durable materials, as outdoor lights are exposed to the elements. Check that the bulbs provide enough illumination, and purchase enough lights for your project. Stake lights often come in sets, and it can be more cost-effective to buy in bulk if you know you’ll need quite a few.
+
+Block3_Paragraph 3 MATCHED
+
+	Once you’ve purchased your lights, leave them in full sunlight for about 12 hours so the battery is fully charged before installation.
+
+Block3_Sub Heading 4 MATCHED
+
+	Installing Solar Stakes
+
+Block3_List 5 MATCHED
+
+	Decide on placement: Mark out where you want to put the stakes.
+Install foundation stakes: Hammer the stakes into the ground using a rubber mallet. Watering the soil makes it easier to put them in. Use a level to check they’re straight and make sure each is pushed in the same amount so the lights don’t vary in height.
+Attach light posts: If the lights aren't attached, follow the instructions to secure them. Make sure the solar panel is positioned to get the most sunlight during the day.
+Position remote solar panels: If you want to put lights somewhere shaded, use stakes with remote panels that attach with wire. Put the panel in a sunny spot and follow the instructions to attach the wire. Don’t exceed the length of the wire and keep the panel close to the light so you don’t need to bury it.
+Activate the lights: Remember to switch the light on prior to use if it’s required. Most solar stakes turn on automatically when the sun goes down.
+
+Block3_Sub Heading 6 MATCHED
+
+	Installing String Lights
+
+Block3_Paragraph 7 MATCHED
+
+	String lights come in a variety of designs, from hanging lanterns to flowers, so you can find something that adds the finishing touch to your outdoor living space. Wires attach the solar panel to the bulb and make installation simple.
+
+Block3_List 8 MATCHED
+
+	Install solar panel: The panel is usually on a stake. Push it into the soil and position the panel where it gets the most sun.
+Decide on placement: Choose where you want to put the lights. Make sure the wires don’t go across walkways.
+Hang lights: Place screw-in hooks on walls or under eaves and hang the lights from these hooks. If you can’t use hooks, staples can be used to attach string lights to wood or other surfaces. Make sure you choose large staples that won’t damage the insulation wrapped around the wires.
+
+Block3_Paragraph 9 MATCHED
+
+	Now, you can relax and enjoy your string lights. These types of lights often come with power switches on the panel, so you can turn them on and off when needed.
+
+Block3_Sub Heading 10 MATCHED
+
+	Other Types of Outdoor Solar Lights
+
+Block3_Paragraph 11 MATCHED
+
+	Most outdoor solar lights that are designed to be placed on a wall or fence post come with mounting hardware so they can be easily attached. Follow the included instructions to make sure they’re mounted securely.
+
+Heading 3: < Maintaining Your Solar Lights > MATCHED
+
+Block4_Paragraph 1 MATCHED
+
+	Maintaining your outdoor solar lights is easy. Just clean any dust, debris or snow off them regularly to ensure the solar panel is unobstructed.
+
+Block4_Paragraph 2 MATCHED
+
+	More Related Articles:
+
+Block4_List3_link 1 MATCHED
+
+	Do Light Fixtures Add Value to Your Home?|https://www.homeserve.com/en-us/blog/home-improvement/light-fixtures-increase-home-value/
+
+Block4_List3_link 2 MATCHED
+
+	Hot Tips! 5 Backyard Fire Safety Suggestions|https://www.homeserve.com/en-us/blog/how-to/fire-pit-safety/
+
+Block4_List3_link 3 MATCHED
+
+	How Does a Solar Pool Heater Work and How Much Does It Cost?|https://www.homeserve.com/en-us/blog/cost-guide/solar-pool-heater/
+
+Block4_List3_link 4 MATCHED
+
+	How to Install LED Light Strips: A Step-by-Step Guide|https://www.homeserve.com/en-us/blog/how-to/install-led-strip-lights/
+
+Block4_List3_link 5 MATCHED
+
+	How Much Value Does a New Front Door Add to Your Home?|https://www.homeserve.com/en-us/blog/home-improvement/front-door-home-value/
+
+Block4_List 3 MATCHED
+
+	Do Light Fixtures Add Value to Your Home?
+Hot Tips! 5 Backyard Fire Safety Suggestions
+How Does a Solar Pool Heater Work and How Much Does It Cost?
+How to Install LED Light Strips: A Step-by-Step Guide
+How Much Value Does a New Front Door Add to Your Home?
+
+Heading 4: < Where Do You Place Solar Lights So They Get the Most Sun? > MATCHED
+
+Block5_Paragraph 1 MATCHED
+
+	The trickiest part of installing solar lights is placing them in the correct spot. Most need eight hours of direct sunlight a day for a full charge. Here’s how to check your placement prior to installation:
+
+Block5_List 2 MATCHED
+
+	Place markers: Use chalk or pots to mark where you want the lights.
+Observe: Every hour or so, check the markers to see if they’re still in sunlight. Make note of when it stops getting sun.
+Calculate: Calculate how much sun the spot is getting and adjust your placement if it doesn’t get enough sunlight.
+
+Block5_Paragraph 3 MATCHED
+
+	This method can be used for placement of stake lights and the solar panels used for other types of solar lights.
+
+Heading 5: < How Far Apart Should Solar Lights Be Placed? > MATCHED
+
+Block6_Paragraph 1 MATCHED
+
+	There’s no minimum distance required between solar panels, as long as the placement doesn’t block sunlight to another panel. A light every 6 to 8 feet usually provides a well-lit pathway. Remember that too many lights can overpower a landscape design, so look for quality rather than quantity.
+

@@ -1,0 +1,103 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Whirlpool Dishwasher Error Codes"
+headline: "Whirlpool Dishwasher Error Codes"
+author: John Warbuck
+tags: ["post"]
+publishDate: 2023-07-23
+basePath: https://library.homeserve.com/m/
+heroImage: 666ab9add3d45505/Blog-P170116_13z.jpg
+heroAltDescription: "whirlpool dishwasher in kitchen"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Your dishwasher can diagnose itself with Whirlpool dishwasher diagnostic mode. Here’s what you need to know."
+articleAbstract: "Your dishwasher can diagnose itself with Whirlpool dishwasher diagnostic mode. Here’s what you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Whirlpool Dishwasher Error Codes"
+  parent: Appliances
+---
+  Not knowing what’s wrong with your dishwasher can be frustrating. And something always seems to go wrong at the worst of times, right? It’s after a dinner party or during the holidays, and your dishwasher just won’t start up.
+
+**This May Also Interest You:** [**What Do You Do With an Old Appliance? How to Recycle Fridges, Washers, Ovens and More**](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+Fortunately, your dishwasher can diagnose itself with Whirlpool dishwasher diagnostic mode. Here’s what you need to know.
+
+What Is an Error Code?
+----------------------
+
+An error code is meant to give you a quick explanation of what’s wrong with your dishwasher whenever you encounter issues. If your Whirlpool dishwasher isn’t working properly, it might display one of these codes automatically to alert you to the issue. If there's no code, you can use the diagnostic mode to find out what the problem is.
+
+Error codes are useful because they help you determine what’s wrong, how serious the issue is and whether you’re able to fix it yourself.
+
+How to Use Whirlpool Dishwasher Diagnostic Mode to Tell What’s Wrong With Your Whirlpool Dishwasher
+---------------------------------------------------------------------------------------------------
+
+If your dishwasher isn’t running properly, you can set it to diagnostic mode to test its functionality. Follow these steps to initiate diagnostic mode:
+
+1.  Power on the dishwasher.
+2.  Open the door, and then press three keys in any order you choose.
+3.  Repeat the same pattern you chose in the step above.
+4.  Close the door and wait.
+
+If you’re having trouble entering diagnostic mode, you may need to check the owner’s manual to see if the process varies in any way. It can take up to half an hour for your dishwasher to complete the diagnosis, and it will display codes to communicate what’s wrong once it’s finished.
+
+**More Related Articles:**
+
+*   [Should You Buy a Used Appliance? Weigh the Risks and Rewards](https://www.homeserve.com/en-us/blog/buying-guide/used-appliances/)
+*   [7 Ways Your Kitchen Will Evolve in the Next 10 Years](https://www.homeserve.com/en-us/blog/home-improvement/advancements-kitchen-technology/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+Common Whirlpool Dishwasher Error Codes
+---------------------------------------
+
+This list of common [Whirlpool dishwasher error codes](https://whirlpoolservice.co.uk/dishwasher-repair/error-codes) can help you find the problem and fix it.
+
+### Error F1
+
+This code could mean your dishwasher isn’t being supplied with water at the correct temperature. There are two potential fixes for this. One is to make sure your home’s water heater is set properly, and the other is to check your dishwasher’s temperature sensor.
+
+### Error F2
+
+When you see this error code, it means the dishwasher has detected a leak. This error code usually means you need a new gasket, but it could also mean that your dishwasher isn't leveled properly, or you need a new filter assembly. Diagnostic mode catches the problem when it notices the water level isn’t high enough after filling the internal tub. The correct repair depends on the issue.
+
+### Error F3
+
+This error code means your dishwasher is unable to heat water. The temperature sensor may have gone bad, or you may need new heating coils.
+
+### Error F4
+
+This error code displays when your dishwasher isn’t draining water quickly enough after completing a cycle. Failing to fix this issue can leave mold and other microorganisms on your dishes. You may need to unclog your drain line. In some cases, you may need a new filter assembly, drain pump or drain line.
+
+### Error F5
+
+When you see this error code, it means the rotor isn’t spinning properly. It could be the result of gunk buildup on your fan or problems with the motor.
+
+### Error F6
+
+This error code means the water line isn’t bringing any water to your dishwasher. Check your water connections and plumbing to determine why your dishwasher can’t access water.
+
+### Error F7
+
+You'll see this error code if the water flow to your dishwasher is abnormally slow. You may need to adjust the inlet valve or hose to fix the issue.
+
+### Error F8
+
+This code means too much water is flowing into your dishwasher. Adjusting the inlet valve or hose should fix the issue.
+
+### Error F9
+
+When you see this error code, it means the dishwasher can’t turn off the water flow coming into the tub. This could be due to a faulty drain pump or inlet valve.
+
+### Error F10
+
+This error code means one or more of your sensors aren't working properly. It could take time to identify which sensor is causing the issue.
+
+When To Call a Professional To Fix Your Dishwasher
+--------------------------------------------------
+
+Most homeowners can fix many of the issues above themselves. However, if you realize the scope of the repair is well beyond your ability, it’s best to have someone trained in dishwasher repair handle it for you.
+
+Another reason to call a professional is convenience. Trained technicians can diagnose the issue and have your dishwasher working again in no time.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/qpoqCRPHjqE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Find Your iPhone or Android Smartphone Serial Number"></iframe>

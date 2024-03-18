@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Common Washer and Dryer Problems and How to Fix Them"
+headline: "Common Washer and Dryer Problems and How to Fix Them"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2022-10-30
+basePath: https://library.homeserve.com/m/
+heroImage: 4c1dec1f18c1560c/Blog-GettyImages-914788130.jpg
+heroAltDescription: "woman switching laundry"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Spare yourself loads of frustration by learning how to repair the most common washer and dryer problems yourself."
+articleAbstract: "Spare yourself loads of frustration by learning how to repair the most common washer and dryer problems yourself, and learn when you should call a pro instead."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Common Washer and Dryer Problems and How to Fix Them"
+  parent: Appliances
+---
+  Not being able to wash your clothes is a _major_ inconvenience, and repairing washers and dryers can be costly. Spare yourself loads of frustration by learning how to repair the most common washer and dryer problems yourself.
+
+**This May Also Interest You:** [**How to Get Water Out of Your Washer**](https://www.homeserve.com/en-us/blog/how-to/washing-machine-drain-water/)
+
+While some issues with these appliances may require the aid of a professional repair technician, the repairs may be covered under your home warranty. It’s wise to check your policy before paying out of pocket.
+
+Top 5 Washer and Dryer Repairs
+------------------------------
+
+### Washer or Dryer Won’t Start
+
+If your washer or dryer won’t run, the first thing to check is the power supply to the unit, especially if it has an LCD display that isn’t functioning, either. Go to your home’s main electrical panel and locate the circuit breaker that controls your washer and dryer. If it’s tripped, reset it and try to start the unit again.
+
+If the breaker isn’t tripped, then the problem may be with the electrical outlet the unit is plugged into. Many washrooms have ground-fault circuit interrupter (GFCI) outlets with an internal breaker that shuts off the power if it becomes overloaded, detects a ground fault or is exposed to moisture. GFCI outlets have a red reset button in the center of the receptacle that will pop out when the internal breaker gets tripped. If the button is popped out, you can simply press it in until it clicks and sits flush with the outlet housing. To test a regular outlet, either plug in a different corded appliance or use a non-contact voltage tester. Have the outlet replaced if it’s defective.
+
+If you were running multiple loads through your washer before it stopped working, it might have become temporarily overheated. Let the washer cool down for about 30 minutes before trying to start it again.
+
+Dryers and front-loading washers have a switch inside the door that needs to be engaged before it can start working. Verify that the door is fully closed, and press the switch multiple times to confirm it’s not broken or jammed. If the door won’t close properly, try cleaning around the perimeter of the door to wipe off any built-up residue that can prevent it from closing.
+
+If your washer still isn’t starting after taking the above troubleshooting steps, the issue may be caused by a defective washer motor, control knob or timer. If your dryer still isn’t starting, it might have a defective thermostat, terminal block, start switch or thermal fuse. In all cases, these parts should be replaced by a technician.
+
+### Washer or Dryer Smells
+
+Your washing machine’s moist and warm environment makes it the perfect environment for mold and mildew to flourish, leaving the tub and your clothes with a musty odor. Regularly using too much detergent in your washer can leave behind a residue where mold can grow, so your first step should be thoroughly cleaning the tub. Place two cups of white vinegar in the detergent dispenser and run a hot cycle. Afterward, dip a rag in vinegar or a diluted bleach solution and wipe down the inside of the tub, around the rubber seal and around the door.
+
+Musty odors in a dryer can be caused by leaving wet clothes in the tub for prolonged periods of time, a clogged lint trap or a vent that’s restricting airflow. Inadequate airflow can allow mold and mildew to propagate and prevents your dryer from producing enough heat to fully dry your clothes. Clean the lint trap and the vent to remove obstructions and built-up lint. Remove the odors by cleaning the inside of the tub and door with a rag moistened with a diluted bleach solution and allowing it to air dry.
+
+To keep mold from developing in the first place, the washer should be cleaned at least twice a year (ideally once a month), the dryer’s lint trap should be cleaned after every load, and the dryer’s vent should be cleaned at least once a year. After your loads, leave the door cracked open to promote good airflow. Avoid leaving wet clothes inside the tub for longer than necessary.
+
+### Washer or Dryer Is Vibrating
+
+Excessive vibrations aren’t just annoying. They can actually damage your washer or dryer’s motor if left unchecked. The most common reasons for vibrating machines are unbalanced or excessive loads and an unlevel unit. Ensure that you’re not overloading your machine by only filling it to two-thirds of the tub’s capacity. Avoid placing too many clothes to one side of top-loading washing machines.
+
+To check if the unit is level from front to back and side to side, place a spirit level on the top of the machine in two places — one parallel and one perpendicular to the front of the machine.
+
+If it’s out of level and your unit has adjustable legs, loosen the locking nuts on the front legs with a wrench and adjust them by screwing them in (to shorten) or out (to lengthen). Most machines have self-leveling back legs, so you only need to tilt the machine forward until the legs are a few inches off the ground before setting it back down to allow the legs to automatically adjust. If it doesn’t have adjustable or self-leveling legs, you can place shims under the legs until it’s level.
+
+Other possible causes of vibrations are worn or damaged drum seals or a broken drum bearing. In either case, they should be replaced by a qualified technician.
+
+**More Related Articles:**
+
+*   [Why Does My Washing Machine Smell?](https://www.homeserve.com/en-us/blog/how-to/clean-washing-machine/)
+*   [Avoid a Malfunction With These 9 Washing Machine Maintenance Tasks](https://www.homeserve.com/en-us/blog/how-to/washing-machine-maintenance/)
+*   [How to Move Your Clothes Dryer](https://www.homeserve.com/en-us/blog/how-to/move-clothes-dryer/)
+*   [Why Is My Washing Machine Leaking?](https://www.homeserve.com/en-us/blog/how-to/washer-leak/)
+*   [How to Clean Your Dryer Vent](https://www.homeserve.com/en-us/blog/how-to/clean-dryer-vent/)
+
+### Washer Isn't Draining
+
+Check to see if the drain hose is clogged or kinked. Check the hose for any kinks, and disconnect the hose to inspect for any obstructions. Many times, a clog is the result of using too much detergent, which leads to residue buildup in the hose. This can often be flushed out with water. Other times, it can be caused by a clogged lint screen located at the end of the hose that needs to be removed and cleaned. Kinks in the hose can sometimes be repaired by manually compressing them back into shape, but they usually indicate the hose needs to be replaced.
+
+If the washer is running but it’s not draining because the spin cycle isn’t working, the clutch may need to be replaced by a technician. Other possible causes for lack of drainage that require professional assistance are a bad drain pump, belt or bearing.
+
+### Dryer Isn't Heating
+
+A dryer that isn’t heating shares the same root problem as bad smells: improper airflow. Your dryer needs proper airflow in order to produce heat, so a clogged lint trap or vent will cause it to run without properly drying your clothes. Check the lint trap to make sure it’s clean, and inspect the dryer vent for lint buildup or other obstructions. Overloading your dryer to more than two-thirds of the tub’s capacity can also restrict airflow. It can also burn out the motor, heating element, and thermal fuse — all of which can prevent the machine from heating.
+
+Other possible causes are a bad thermostat, faulty temperature switch, broken timer or failing power cord. These issues will likely require the hand of a qualified technician.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

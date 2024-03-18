@@ -1,0 +1,88 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Dryer Making Noise: Here's Why and What to Do"
+headline: "Here's Why Your Clothes Dryer Is Making Noise"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-03-10
+basePath: https://library.homeserve.com/m/
+heroImage: 7eb82e11866142fa/Blog-ResidentalWasherDryer_ERossi-1122.jpg
+heroAltDescription: "residential washer and dryer in laundry room"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "There are several reasons for a noisy dryer — some of which are easy to fix yourself. Here’s what you need to know."
+articleAbstract: "There are several potential reasons your dryer is making noise, and, thankfully, some of them are easy to fix yourself. Here’s what you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My Dryer Making Noise?"
+  parent: Appliances
+---
+  Dryers make your laundry routine far more convenient than air drying, so unusual noises coming from your appliance can be a real worry.
+
+**This May Also Interest You:** [**How Much Does a Clothes Dryer Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/clothes-dryer/)
+
+There are several potential reasons your dryer is making noise, and, thankfully, some of them are easy to fix yourself. Here’s what you need to know.
+
+Common Dryer Noises
+-------------------
+
+### Grinding
+
+There are two likely causes of a grinding dryer: damaged drum glides or worn-out bearings. Drum glides allow the drum to move smoothly as it rotates, and they can wear out over time. A dryer drum rotating over worn-out drum glides makes a grinding or scraping sound.
+
+Alternatively, you might have a problem with your drum bearing. This bearing sits between the back of the drum and the dryer casing. If it wears out, the drum starts scraping against the casing and causes a grinding noise.
+
+### Rattling
+
+A rattling noise coming from your dryer could be due to a dirty or loose blower fan blade. A loose motor pulley can also cause a rattling sound. It's worth checking the area below the lint filter in case there are objects underneath rattling against the dryer.
+
+However, rattling isn't always a sign of a problem with the dryer itself. It could be something as simple as metal zips or other clothing trims hitting the inside of the drum as it spins. Dryers often vibrate during operation, which can also cause them to rattle against the wall or neighboring appliances.
+
+### Rumbling
+
+A loose, faulty or blocked blower wheel is a common cause of a rumbling dryer. This wheel distributes air evenly inside the dryer drum and removes hot, moist air through the vent. The blower wheel can get blocked with lint or slip out of position, leading to a loud rumbling or knocking sound.
+
+You can often tell if the blower wheel is to blame for your dryer making noise because it keeps spinning for a while after the cycle ends. Turn off the dryer and listen to see if the sound stops. If it doesn't, the blower wheel is likely to blame.
+
+### Squeaking
+
+If your dryer's squeaking, a worn-out idler pulley is a likely culprit. This pulley keeps the drum belt taught, so it's subjected to prolonged tension and friction. This wear and tear can cause it to squeak when it starts developing a defect, usually changing to a banging or grinding sound as it gets worse.
+
+Defective dryer rollers are also a common reason that dryers make a squeaking noise. The rollers turn on axles and hold the drum in place while it rotates. Mildly damaged roller axles or rollers tend to squeak, progressing to a banging sound as the problem worsens.
+
+### Thumping
+
+A faulty drive belt is one of the most common causes of a dryer making a thumping noise. This belt turns the dryer drum and can wear out with sustained friction. A damaged drive belt affects how the drum rotates and can lead to a loud thumping noise.
+
+Thumping sounds can also signify faulty rollers, roller axles or a worn-out idler pulley. Although these faults tend to cause squeaking at first, they generally progress to a thumping sound if you don't fix them right away.
+
+**More Related Articles:**
+
+*   [Need to Vent? Here’s How to Install a Dryer Vent](https://www.homeserve.com/en-us/blog/how-to/install-dryer-vent/)
+*   [How Much Does It Cost to Install a Dryer Vent?](https://www.homeserve.com/en-us/blog/cost-guide/dryer-vent-installation/)
+*   [Here’s How to Change the](https://www.homeserve.com/en-us/blog/how-to/reverse-washer-dryer-door/) Direction the Door Swings on Your Washer and Dryer
+*   [How to Move Your Clothes Dryer](https://www.homeserve.com/en-us/blog/how-to/move-clothes-dryer/)
+*   [Should You Repair or Replace a Clothing Dryer?](https://www.homeserve.com/en-us/blog/home-improvement/dryer-repair-replacement/)
+
+How Do I Stop My Dryer From Making Noise?
+-----------------------------------------
+
+There are a few DIY fixes you can try to stop your dryer from making noise before you call a technician.
+
+### 1\. Check for Rattling Objects
+
+First, check if there's something inside the drum that's hitting the sides and causing the noise. Try removing everything from the drum before restarting the dryer cycle.
+
+### 2\. Move or Pad the Dryer
+
+If this doesn't work, check if the dryer is rattling against the walls or neighboring appliances. If you can, pull the dryer away from the object to see if that stops it rattling. If that's not possible, try cushioning the sides with acoustic pads or blankets to dampen the noise.
+
+### 3\. Check That the Dryer Is Level
+
+Make sure the dryer is level using a spirit level. An imbalance can cause the drum to rotate unevenly and make noise. Try adjusting the dryer feet to level the appliance.
+
+### 4\. Call a Pro
+
+If none of the above tips are effective and your dryer's still making noise, there's probably an issue with the mechanisms supporting or turning the drum. You can check the drum yourself by switching the dryer off and then turning it by hand to see if it makes a noise. Push against the drum gently and see if it bounces back instantly. If it doesn't, that's a sign of a damaged mechanism. You may even notice shredded pieces of drum belt inside the drum.
+
+Generally, it's best to call a technician to inspect your tumble dryer in this situation instead of taking it apart yourself. A technician can diagnose the problem and fix or repair any faulty parts. Using a dryer that's making noise because of defective parts can make the problem worse, so keep it switched off until a professional can repair it.

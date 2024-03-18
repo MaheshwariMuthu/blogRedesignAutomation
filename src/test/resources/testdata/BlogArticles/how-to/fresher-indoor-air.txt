@@ -1,0 +1,104 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Improve air quality in the winter
+headline: 5 Tips for Fresher Indoor Air This Winter
+author: Meghan Stiltner
+tags: ['post']
+publishDate: 2020-12-17
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: dog-next-to-air-purifier.jpg
+heroAltDescription: smiling pug on counter with ionizer
+metaDescriptions: It can get pretty stuffy indoors during the winter months. Luckily, homeowners can easily improve the air quality in their house with a handful of helpful tips.
+articleAbstract: Keeping your windows and doors shut for months on end during the winter keeps the cold air out, but also seals in the stuffiness. There are many things you can do to help keep the air fresh in your home.
+category: ['How To']
+
+eleventyNavigation:
+  key: Improve air quality in the winter
+  parent: Interior-Home-How-To
+---
+
+Keeping your windows and doors shut for months on end during the winter keeps the cold air out, but also seals in the stuffiness. Without fresh air circulating in your home, it increases the likelihood of your family coming down with more than just cabin fever — they&#39;re actually at greater risk for illness.
+
+**This May Also Interest You:** [**5 Ways to Improve Indoor Air Quality**](https://www.homeservene.com/blog/5-ways-to-improve-indoor-air-quality)
+
+There are many things you can do to help keep the air fresh in your home. Read on for tips to help you breathe a little easier this winter.
+
+## 1. Get House Plants
+
+Plants are a great addition to your home any time of year, and that goes double for the winter months. Some plants are known to help clean the air the people in your home are all sharing. Not only are plants a natural, earthy approach to making your home healthier, but they&#39;re also pretty to look at.
+
+Some plants to consider include:
+
+* English ivy, which helps eliminate formaldehyde and other pollutants
+* Peace lilies, which help get rid of benzene
+* Lady palm, which helps purge the air of ammonia
+* Snake plants, which help remove carbon dioxide
+* Chrysanthemums, which filter toxins from household cleaners
+* Spider plants, which eliminates carbon monoxide and xylene
+
+Though by no means a cure-all, a little greenery can go a long way toward elevating air quality — and your mood.
+
+## 2. Stay Up on AC Maintenance and Preventive Care
+
+Properly caring for your heating, ventilation and air conditioning system helps reduce the amount of dust in your home and make sure everything is running properly. Preventive-maintenance activities that improve air quality include:
+
+* Cleaning condenser coils
+* Checking gas connections
+* Checking the thermostat
+* Cleaning air ducts
+
+A single HVAC-maintenance task you can perform that&#39;ll make a big difference is changing air filters. The air in your home flows through these filters, and if they&#39;re dirty and clogged, your home can&#39;t maintain air quality. HVAC filters should be changed out at least every three months — and even more frequently if you have pets in order to reduce the amount of pet dander flying around.
+
+## 3. Use an Air Purifier
+
+In the winter months, in the absence of fresh air in your home, allergens can multiply. An air purifier running during the winter months helps keep everyone healthy.
+
+Improving the air quality in our homes doesn&#39;t have to be a difficult task — simply running an air purifier can do the trick, ideally one with a High-efficiency particulate air filter, commonly known as a HEPA filter. There are different sizes to choose from depending on the square footage of the room you&#39;re putting the filter in, but be sure to choose the most commonly used room in the house.
+
+Some filter models to consider include:
+
+* Coway AP-1512HH Mighty
+* Coway Airmega 200M
+* Blueair Blue Pure 211+
+* Levoit Core 300
+* Austin Air HealthMate HM400
+
+## 4. Cut Down on Chemical Cleaners
+
+Everyone loves having a clean and disinfected home, especially in the wintertime when sickness is going around. Doesn&#39;t the smell of the cleaners in your spick-and-span house reassure you of how clean everything are? Well, that aroma is also a good indicator of all the chemical fumes you&#39;re breathing into your lungs. In general, it&#39;s a good idea to opt for nontoxic products that don&#39;t contain toxic chemicals — and it only becomes a better idea in the winter when you&#39;re not opening windows and doors to let the place air out.
+
+Seek out cleaners that are plant-based or otherwise classified as natural. You know how you&#39;re always hearing about how Grandma cleaned the house with vinegar and baking soda? Be like Grandma, because it&#39;s actually an effective alternative to chemical cleaners. Also consider investing in a steam mop, which cleans at high temperatures.
+
+Some options of chemical-free cleaners are:
+
+* Clean Essentials products
+* Meliora Cleaning Products
+* Essential Oils cleaning products
+* Branch Basics Concentrate
+* Force of Nature Products
+* Supernatural Products
+* Better Life All-Purpose Cleaners
+* Dr. Bonner&#39;s Cleaners
+* Natural options, such as vinegar, baking soda, and lemon juice
+
+## 5. Decrease the Dryness of Winter Air
+
+Finding simple ways to increase moisture in the air inside our homes can help to freshen things up in the bone-dry winter. Here are some things you can try:
+
+* Use a humidifier.
+* Leave the bathroom door open when showering
+* Fill the kitchen sink or bathtub with water and let it sit to evaporate
+* Dust regularly
+* Use the stovetop more than the oven
+
+## Why Does the Air Get Dry in the Winter?
+
+You&#39;ll notice the difference in the way the air feels from steamy summer days to frigid winter days. Humidity often accompanies warm weather, which is why you feel sticky and gross when you get hot. The cold winter air, on the other hand, is often dry.
+
+One of the reasons people tend to get sick more often in wintertime is due to the air, which dries out your nasal passages and causes irritation. Plus, you&#39;re spending more time inside in closer proximity to other people, allowing germs to spread faster.
+
+_Since we&#39;re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U4IFZzwZwdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+:::

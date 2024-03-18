@@ -1,0 +1,40 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Pentair Water Pool and Spa Recalls Pool Heaters Due to Fire Risk"
+headline: "Smoke on the Water? Pentair Water Pool and Spa Recalls Pool Heaters Due to Fire Risk"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-05-07
+basePath: https://library.homeserve.com/m/
+heroImage: 2738b73b2ac7a589/webimage-StaRitePoolHeaterRecall_Pentair.png
+heroAltDescription: "recall product"
+metaDescriptions: "Pentair has recalled about 4,700 pool heaters sold in December 2020 and January 2021 due to a manufacturing issue that poses a fire hazard. "
+articleAbstract: "Did you purchase a Pentair Water Pool and Spa pool heater in December 2020 or January 2021? If so, you should know: Pentair has recalled about 4,700 pool heaters due to a manufacturing issue that poses a fire hazard. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Pool Heaters Recalled by Pentair Water Pool and Spa Due to Fire Hazard"
+  parent: Appliances
+---
+  
+
+Did you purchase a Pentair Water Pool and Spa pool heater in December 2020 or January 2021? If so, you should know: Pentair has recalled about 4,700 pool heaters due to a manufacturing issue that poses a fire hazard.
+
+**This May Also Interest You:** [**'Burning, Smoking, Melting’: 800 PureLine Pool Pump Motors Recalled for Fire Danger**](https://www.homeserve.com/en-us/blog/home-improvement/pureline-pool-pump-motor-recall/)
+
+According to the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/Pool-Heaters-Recalled-by-Pentair-Water-Pool-and-Spa-Due-to-Fire-Hazard), a connection in the pool heaters may leak a combustible air-gas mixture, creating a potential fire risk. The recall was announced April 28. No incidents or injuries have been reported.
+
+The recall affects several models of Pentair Water Pool and Spa’s MasterTemp and Sta-Rite Max-E-Therm pool heaters manufactured between Dec. 22, 2020, and Jan. 6, 2021. To find out if yours has been recalled, check the manufacturing date and model number against [this list](https://www.pentair.com/en-us/landing-pages/pool-heater-recall-information.html). This information can be found on the serial number sticker on the heater.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2be1c3db98f8c273/webimage-MastertempPoolHeaterRecall_Pentair.png" alt="undefined"/>
+
+According to the Sanford, N.C.-based [manufacturer](https://www.pentair.com/en-us/landing-pages/pool-heater-recall-information.html), the heaters were sold by pool equipment retailers nationwide at a price between $2,200 and $3,100. Additionally, 21 units were sold in Canada. The pool heaters were manufactured in the U.S.
+
+If your water heater falls under this recall, shut off the gas supply immediately and contact Pentair Water Pool and Spa for a free repair or replacement. Call 800-831-7133 or visit [Pentair’s recalls page](https://www.pentair.com/en-us/landing-pages/pool-heater-recall-information.html) for more information. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Fire Risk Prompts Recall of Goal Zero Power Cables](https://www.homeserve.com/en-us/blog/home-improvement/goal-zero-power-cable-recall/)
+*   [Concussion, Broken Bones, Eye and Mouth Injury Risk: 1 Million Greenworks, Powerworks Pressure Washer Spray Guns Recalled](https://www.homeserve.com/en-us/blog/home-improvement/pressure-washer-spray-gun-recall/)
+*   [Shock Hazard Sparks Recall of 25,000 National Presto Smokers](https://www.homeserve.com/en-us/blog/)
+*   [Don’t Sleep on This: 700 HOFISH Mattresses Recalled Over Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/hofish-mattress-recall/)
+*   [In Case You Mist It: HD Hudson Recalls Garden Sprayers Due to Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/garden-sprayer-recall/)

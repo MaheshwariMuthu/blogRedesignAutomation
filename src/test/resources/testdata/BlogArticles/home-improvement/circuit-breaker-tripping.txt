@@ -1,0 +1,82 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Reasons Your Circuit Breaker Trips"
+headline: "Why're You Trippin'? 5 Reasons Your Circuit Breaker Trips"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-09-08
+basePath: https://library.homeserve.com/m/
+heroImage: 72b09aac28f149da/Blog-HOMESERVEUSA-DAY4-LIFESTYLE-2017DAVENOONAN-MODERNFOTOGRAPHIC-263of175.jpg
+heroAltDescription: "interior electric"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If your circuit breaker keeps tripping, it could be a sign of an electrical fault. Learn the most common reasons for a tripped circuit breaker."
+articleAbstract: "Understanding why your circuit breaker keeps tripping — and the potential risks — can help you differentiate between a straightforward cause and one that requires a professional to resolve."
+category: ["Home Improvement"]
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/home-improvement/circuit-breaker-tripping/', 'en-us'], ['https://www.homeserve.co.uk/living/electrical/why-does-my-fuse-box-keep-tripping/', 'en-gb']]
+eleventyNavigation:
+  key: "Why're You Trippin'? 5 Reasons Your Circuit Breaker Trips"
+  parent: Electrical-Home-Improvement
+---
+  
+
+It's never fun when the electricity cuts out while you're drying your hair or doing your laundry. However, simply switching the circuit back on and ignoring the issue can sometimes be dangerous.
+
+**This May Also Interest You:** [**Wrong Kind of Blowout? Why Your Hairdryer Trips the Circuit Breaker**](https://www.homeserve.com/en-us/blog/home-improvement/hair-dryer-tripping-circuit-breaker/)
+
+Understanding why your circuit breaker keeps tripping — and the potential risks — can help you differentiate between a straightforward cause and one that requires a professional to resolve.
+
+Why Does My Circuit Breaker Keep Tripping?
+------------------------------------------
+
+There are various potential reasons why your circuit breaker keeps tripping. Some are relatively benign and have safe DIY solutions, while others require an electrician to fix.
+
+These are some of the most common causes of a tripped circuit breaker and how to fix them. Some of these situations can be dangerous, so it's always best to call a professional if you're unsure.
+
+### 1\. Overloaded Circuit
+
+Each circuit in your home can only handle a certain electrical load. When you exceed the circuit's capacity, it heats up and causes the circuit breaker to trip. This usually happens when you plug in lots of power-hungry appliances, such as washing machines and dishwashers, using a single circuit.
+
+Sometimes, your lights will flicker or dim temporarily when you switch on an appliance, giving you an early warning that the circuit is overloaded. However, you may not notice an issue until the circuit breaker trips. If the problem resolves when you use fewer appliances, and the appliances work fine on a different circuit, you can be reasonably sure that an overloaded circuit is to blame.
+
+To fix this issue, you need to ensure the load placed on each circuit doesn't exceed [80%](https://www.thespruce.com/calculate-electrical-circuit-load-capacity-1152739) of its capacity. You'll need to know the capacity of each circuit in amps and the wattage of each appliance to figure out how much you can safely plug in. Here are some examples of safe maximum wattage loads:
+
+* **15-amp circuit:** 1,400 watts
+* **20-amp circuit:** 1,920 watts
+* **30-amp circuit:** 2,880 watts
+
+### 2\. Short Circuit
+
+A short circuit occurs when a hot wire touches a neutral wire, significantly increasing the electrical flow and making the circuit much hotter than usual. This excess heat causes the circuit breaker to trip to prevent damage and reduce the risk of a house fire.
+
+You may have a short circuit on your hands if the circuit breaker only trips when you plug in a particular appliance. Other warning signs include a burning smell coming from the outlet or breaker or discoloration around the plug socket.
+
+Short circuits pose a significant fire risk, so it's essential to stop using the appliance as soon as you notice an issue. You'll need to call a licensed electrician to locate the short circuit and perform repairs.
+
+### 3\. Faulty Connections
+
+Over time, the electrical components inside your appliances and outlets can loosen or corrode. When this happens, the circuit can overheat when you try to use the faulty fixture, triggering the circuit breaker to trip. This issue can be difficult (and dangerous) to diagnose and fix yourself, so it's best to call an electrician to resolve the problem.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2c601068bf06768c/Blog-ElectricPanel_ERossi_3680.jpg" alt="wide-shot of a residential 200 amp service panel "/>
+
+**More Related Articles:**
+
+*   [6 Tools You Need for DIY Electrical Projects](https://www.homeserve.com/en-us/blog/home-improvement/electrical-tools/)
+*   [How Your Home’s Electrical System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-electrical-system/)
+*   [What’s a Whole-House Surge Protector?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-surge-protector/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+
+### 4\. Ground-Fault Surges
+
+Ground-fault surges are similar to short circuits. They occur when electricity travels to the ground in an unexpected way. When this happens, the energy moving through the circuit increases dramatically, and the circuit breaker trips.
+
+There are various reasons for ground-fault surges. For example, the fault can occur when water seeps inside an electrical box or outlet or if the wires and other components wear out. Ground-fault surges can be extremely dangerous because the excess heat can cause a house fire. You could also experience an electric shock or burns if the electricity travels to the ground through the outer casing of an appliance.
+
+It's essential to call an electrician whenever you suspect a ground fault, and you should avoid using the affected fixture until they resolve the issue. Often, you'll need to replace faulty wiring or components to make the fixture safe to use.
+
+### 5\. Worn-Out Circuit Breaker
+
+If you've ruled out other causes, your circuit breaker may simply be approaching the end of its lifespan. Older circuit breakers tend to be overly sensitive, which means they can trip for no apparent reason. You may notice that your circuit breaker trips almost constantly, no matter how many appliances you unplug.
+
+In this situation, installing a new circuit breaker is the only solution. Installing a circuit breaker is a complex and potentially dangerous job, so it's best to hire an electrician unless you have substantial experience carrying out electrical work.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

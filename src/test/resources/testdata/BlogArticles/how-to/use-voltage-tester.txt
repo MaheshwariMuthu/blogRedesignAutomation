@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Use a Voltage Tester"
+headline: "How to Use a Voltage Tester"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-11-10
+basePath: https://library.homeserve.com/m/
+heroImage: 412f696642763bb2/Blog-GettyImages-1145855506.jpg
+heroAltDescription: "Electrician using a voltage multimeter to test a circuit panel for current"
+metaDescriptions: "A voltage tester lets you check whether a wire is live before you touch it. Here’s when — and how — to use one."
+articleAbstract: "A voltage tester lets you check whether a wire is live before you touch it, keeping you safer while you work. Here’s when — and how — to use one."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Use a Voltage Tester (and When)"
+  parent: Electrical-How-To
+---
+  Are you preparing to do electrical work? Even something as simple as replacing a thermostat puts you in contact with potentially hot wires, which pose a shock risk.
+
+**This May Also Interest You:** [**How Much Do Electrical Repairs Cost? A Comprehensive Guide**](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+A voltage tester lets you check whether a wire is live _before you_ touch it, keeping you safer while you work. Here’s when — and how — to use one.
+
+How Do You Test If a Wire Is Live?
+----------------------------------
+
+If you're doing anything with wiring, you need to know whether the wire is live. A live wire can result in electrical shocks, which can cause serious injury or death.
+
+The easiest and safest way to find out if a wire is live is by using a voltage tester. There are many different types of voltage testers with different features and benefits. No matter what type you get, the voltage tester will tell you if there's an electrical current flowing through the wire at the time.
+
+Do I Need a Voltage Tester or Multimeter?
+-----------------------------------------
+
+A voltage tester simply tells you if there's a current in the wire. It's the most basic tool and is usually enough for homeowners who are doing simple projects. On the other hand, a multimeter tests a variety of things, including the voltage, amps and resistance. It has a knob that lets you switch between the different measurements. It also has two probes connected to a red and black wire. Multimeters are often used by professionals, but a DIYer who does intermediate to advanced projects might also benefit from using one.
+
+Using a voltage tester is just fine if you only need to know if the wire is live. Learning how to use a multimeter is helpful if you need additional information. They can be especially helpful if you're working on an older home. For example, a multimeter can tell you if the ground wire is connected to the ground within the system.
+
+How Do You Use a Non-Contact Voltage Tester?
+--------------------------------------------
+
+A non-contact voltage tester is a safe way to test an outlet since you don't have to touch the wires. It's a battery-operated tool, and its only purpose is to tell you if there's still power running to the wire. It's a small pen or wand-like tool with a little tip that sticks out on one end. That's the part that you use to test the wires. You can use it to test electrical outlets, light switches, sockets, circuit breakers and other electrical wiring.
+
+Make sure the power is shut off at the electrical panel before using the non-contact voltage tester. Slide the voltage tester into the outlet. If there's still power to the outlet, you'll see the meter light up and hear a chirping or buzzing sound.
+
+If you're testing a wire instead of an outlet, simply touch the tester tip to the wire in question. You can use this method inside an outlet receptacle or on the wires inside light switches. Simply remove the cover and touch the voltage tester to the wires.
+
+For a light fixture, remove the light bulb after shutting off the power. Press the tip of the voltage tester to the bottom of the socket while the light switch is on. If the tester indicates that there's no power, remove the fixture from the electrical box and touch the tester to the wires inside the box.
+
+**More Related Articles:**
+
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets with GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/replace-electrical-panel/)
+*   [How to Replace an Electric Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+
+How Do I Test an Outlet With a Voltage Tester?
+----------------------------------------------
+
+A non-contact voltage tester is the easiest way to test an electrical outlet. Shut the power off to the outlet. Put the end of the voltage tester into the hot slot on the outlet. The hot slot is the narrow side, while the wider slot is the neutral side of the outlet plug.
+
+You can also pull the outlet receptacle out to do additional testing. Push the tester into the receptacle and touch it to different wires to see if any of them are live. This tells you if you need to shut off the power at the main panel.
+
+How Do You Use a Two-Prong Voltage Tester?
+------------------------------------------
+
+A two-prong voltage tester is also called a multimeter and can be used to check the wiring and grounding on the outlet.
+
+To check an outlet, adjust the knob to the “AC” function. The black probe should go into the wider neutral slot. The red probe then goes into the narrow hot slot. This gives you the reading, which, for a standard outlet, should be between 110 and 120 volts.
+
+You can check the grounding wire by leaving the red probe alone and moving the black probe to the ground hole below the slots. Your multimeter should give you the same reading if the wiring is correct. After testing, remove the red probe first and the black probe second.

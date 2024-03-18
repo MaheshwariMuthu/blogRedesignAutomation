@@ -1,0 +1,86 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Measure a Refrigerator"
+headline: "Will the Fridge Fit? How to Measure a Refrigerator"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2021-06-11
+basePath: https://library.homeserve.com/m/
+heroImage: 496a66a626a1bf3e/Blog-MeasureRefrigerator_Erossi_4659.jpg
+heroAltDescription: "Male holds a pocket rules to measure the width of a stainless steel refrigerator "
+metaDescriptions: "Refrigerator repairs can be costly, so you may opt to replace your fridge instead. Here's how to measure a refrigerator so you can find the perfect fit."
+articleAbstract: "Refrigerator repairs can be a costly and time-consuming endeavor. You may opt to replace the appliance outright. The first step is measuring your old fridge along with the new unit you’re considering replacing it with to make sure it will fit. Read on to learn exactly how to measure a refrigerator."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Measure a Refrigerator"
+  parent: Appliances-How-To
+---
+  **Measuring a Refrigerator at a Glance**
+
+* **Step 1:** Measure the space the fridge will occupy
+* **Step 2:** Measure entry path
+* **Step 3:** Measure new fridge
+
+A refrigerator is the essence of any kitchen. Every other appliance and tool is rendered useless without its presence. Unfortunately, fridges don’t last forever, and problems do arise. Refrigerator repairs can be a costly and time-consuming endeavor. If you find yourself facing expensive fridge fixes, you may opt to replace the appliance outright.
+
+**This May Also Interest You:** [**We Gotta Move These Refrigerators: A Step-by-Step Guide to Moving Your Fridge**](https://www.homeserve.com/en-us/blog/how-to/move-refrigerator/)
+
+Even if your fridge is in functional condition, you may just want to swap it out for a more energy-efficient model or upgrade to a smart refrigerator with every bell-and-whistle under the sun. In any case, the first step is measuring your old fridge along with the new unit you’re considering replacing it with to make sure it will fit. Read on to discover exactly how it’s done.
+
+Measure the Space Your Refrigerator Occupies
+--------------------------------------------
+
+Measuring a refrigerator is not so much a matter of taking the dimensions of the actual fridge as it is measuring the space the fridge occupies. Take the following steps to determine these dimensions:
+
+### Measure the Width
+
+Measure the width under the upper cabinets, between countertops and at the base between the walls, cabinets or baseboard trim. Use the shortest of these measurements when selecting your new refrigerator to guarantee it will fit in the space.
+
+### Measure the Height
+
+Measuring the height may not be necessary if there is open space above your fridge, but it is essential if there are cabinets immediately above it. If that’s the case, measure from the floor to the lowest part of the upper cabinets. It’s a good idea to measure two points: from the floor to the front of the upper cabinets and from the floor to the back of the cabinets. Doing so ensures that you will know the smallest measurement in case the cabinets aren’t square.
+
+### Measure the Depth
+
+Measure from the back wall to the front edge of your counters or adjoining wall.
+
+### Account for Room to Breathe
+
+Refrigerators need some space around them for proper ventilation to avoid overheating. Although the specific amount of space can vary between manufacturers, most models will need at least a ⅛-inch space on either side of the fridge, 1 inch above it, and 2 inches between the wall and the back of the fridge.
+
+Subtract these allowances from the measurements in the previous steps to determine the maximum dimensions of your new fridge.
+
+### Door and Drawer Considerations
+
+It’s also wise to account for the distance between your fridge and any potential obstructions to fully opening the doors or extending any pull-out drawers. Pull-out drawers require the refrigerator door to open at least 90 degrees, and insufficient space between the side of the fridge the door hinges on (or opens towards) and the closest cabinet or wall will prevent the door from opening wide enough.
+
+As a general rule, you want to allow 2 to 2.5 inches of clearance between these two points to allow the door to open wide enough. For French and side-by-side doors, you will need to factor this figure into both sides of the fridge. If the door of your new fridge doesn’t open wide enough, you can usually compensate by pulling the fridge further out from the wall for greater hinge clearance.
+
+**More Related Articles:**
+
+*   [Iced Out? Why Your Fridge Is Freezing Over](https://www.homeserve.com/en-us/blog/home-improvement/ice-buildup-fridge/)
+*   [Fridge Filthy? Here’s Your 7-Step Deep-Cleaning To-Do List](https://www.homeserve.com/en-us/blog/how-to/refrigerator-cleaning/)
+*   [Ever Cleaned Your Refrigerator Coils? Sure, We Believe You (But Here’s How, Just in Case)](https://www.homeserve.com/en-us/blog/how-to/clean-refrigerator-coils/)
+*   [How Do I Reset My Samsung Refrigerator?](https://www.homeserve.com/en-us/blog/how-to/reset-samsung-refrigerator/)
+*   [5 Best Smart Refrigerators for Various Household Needs](https://www.homeserve.com/en-us/blog/buying-guide/the-best-smart-refrigerators/)
+
+Measure Entrance Path
+---------------------
+
+Along with ensuring your new fridge will fit in the space it’s meant to occupy, you also want to guarantee that you’ll be able to get it through the door and past any obstacles on the path to its final resting place.
+
+It’s best to find the most direct path possible that avoids tight turns, narrow hallways and stairs. The entrance point to this route will typically be the door nearest the kitchen, so start by measuring the width of that door. If this door seems to be too narrow based on the width of your fridge space, measure the width of the nearest doors until you find one that will accommodate your new fridge.
+
+If a doorway isn’t quite wide enough but is within an inch or two, consider whether removing the door from its hinges will make the opening wide enough. Sliding glass doors tend to offer the widest access points and may serve as a workable option if available.
+
+It may go without saying, but your old fridge should be removed from the space prior to moving in the new unit.
+
+Measure the New Fridge
+----------------------
+
+When shopping for a new fridge, it’s best to manually measure the units you’re considering with a tape measure instead of relying on the dimensions provided by the manufacturer. When doing so, cross-reference the dimensions of your fridge space with the units you’re considering, taking the following factors into account:
+
+*   Note the height of the door hinges, as those can add an inch or more to the overall height of the fridge.
+*   Include the door handles on the front of the fridge when measuring the depth with the doors closed.
+*   Measure the overall depth of the fridge with the doors opened 90-degrees.
+*   Measure the distance any pull-out drawers extend out.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/XuHWMDQd4zA?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

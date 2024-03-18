@@ -1,0 +1,99 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Recharge a Ring Doorbell"
+headline: "How to Recharge a Ring Doorbell"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-04-30
+basePath: https://library.homeserve.com/m/
+heroImage: 15e98f925083ba87/Blog-lifestyle_doorbell_one_satinnickel_door_blue_2a-psd-Cropped.jpg
+heroAltDescription: "Close up shot of a 1st generation Ring video doorbell on a residential home"
+metaDescriptions: "Your video doorbell's battery can last for months, but eventually it'll need to be recharged. Here's how to recharge your Ring Video Doorbell."
+articleAbstract: "The battery on your  Ring Video Doorbell can withstand months of regular use before it needs a charge. However, you'll still need to throw it on the charger from time to time. Here's a step-by-step guide."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Recharge a Ring Doorbell"
+  parent: Electrical-How-To
+---
+  
+
+Manufacturer supplied image
+
+According to smart home security brand [Ring](https://support.ring.com/hc/en-us/articles/115003012526-Charging-the-Battery-on-Your-Ring-Video-Doorbell-2), the battery on your video doorbell can withstand months of regular use before it needs a charge. That means you’ll only have to throw it on the charger a handful of times each year. The drawback to that, of course, is that a few months between charges is _just_ long enough to forget exactly what to do each time.
+
+**This May Also Interest You:** [**How to Install a Video Doorbell**](https://www.homeserve.com/en-us/blog/how-to/install-video-doorbell/)
+
+No worries — we’ve got you covered. Here’s a quick step-by-step guide on how to recharge your Ring Video Doorbell, whether your model has a removable battery or an internal one.
+
+<img class="detail-image" src="https://library.homeserve.com/m/7fa878e45f13dd88/webimage-ring_video_doorbell_wired_pro_intro_blog_1456x546-2x.jpg" alt="Close up shot of a 2nd generation Ring video doorbell on a residential home"/>
+
+Manufacturer supplied image
+
+If Your Ring Doorbell Has a Removable Battery
+---------------------------------------------
+
+The latest model — the [Ring Video Doorbell 2](https://support.ring.com/hc/en-us/articles/115003012526-Charging-the-Battery-on-Your-Ring-Video-Doorbell-2) — has a removable battery. Here’s how to charge it:
+
+### 1\. Find the Charging Cable
+
+You’ll get an email or an alert from the Ring app when it’s time to charge your doorbell. The first thing you need to do is find the cable. The one that came in the box is bright orange — but if it’s lost to the darkest recesses of your junk drawer, any [micro-USB cable](https://www.amazon.com/micro-usb-cable/s?k=micro+usb+cable) will do.
+
+<img class="detail-image" src="https://library.homeserve.com/m/1ca9dbd9df36bf2c/webimage-ring_video_doorbell_wired_pro_installation_1000x1000.png" alt="A second generation Ring video doorbell with a specialty tool being used to remove the battery"/>
+
+Manufacturer supplied image
+
+### 2\. Remove the Battery
+
+Remove the security screw on the bottom of the faceplate, then take the faceplate off by lifting it up and toward you. Next, release the battery by pressing the tab and sliding it out.
+
+### 3\. Charge!
+
+Take the battery inside to charge. Plug the micro-USB cable into a USB port or wall outlet. Both the red and green indicator lights will turn on. The battery is fully charged when the red light turns off and the green one stays on. According to Ring, that can take anywhere from [five to 10 hours](https://support.ring.com/hc/en-us/articles/115003012526-Charging-the-Battery-on-Your-Ring-Video-Doorbell-2), depending on the power source you used.
+
+### 4\. Reinstall the Battery
+
+Put the battery back in. It’ll click when it’s secure. Then, wait 30 seconds for the doorbell to power back on. Replace the faceplate and screw it back in.
+
+**More Related Articles:**
+
+*   [What Are the Best Home Security Gadgets?](https://www.homeserve.com/en-us/blog/buying-guide/best-home-security-devices/)
+*   [Protect Your Home With These Security Systems](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-security-systems/)
+*   [Amazon Echo Vs. Google Home: The Voice Command Speaker Battle Begins](https://www.homeserve.com/en-us/blog/buying-guide/amazon-echo-google-home-differences/)
+*   [Heat Check: The 5 Best Smart Thermostats for Your Home](https://www.homeserve.com/en-us/blog/cost-guide/best-smart-thermostats/)
+*   [5 Best Smart Refrigerators for Various Household Needs](https://www.homeserve.com/en-us/blog/buying-guide/the-best-smart-refrigerators/)
+
+If Your Ring Doorbell Has an Internal Battery
+---------------------------------------------
+
+The [1st Generation Ring Video Doorbell](https://support.ring.com/hc/en-us/articles/206129023-Charging-the-Battery-on-Your-Ring-Video-Doorbell) has an internal battery. If you purchased your doorbell before 2020, this is likely the model you have. The steps to charge are as follows:
+
+### 1\. Don’t Wait to Charge
+
+When you get an alert from the Ring app that it’s time to charge your battery, you’re going to want to charge it as soon as you can. Ring says that if you [let your battery go dead](https://youtu.be/sFuKOYGw23s), you may have to go through the whole setup process again.
+
+### 2\. Remove the Doorbell
+
+You’ll have to take the whole doorbell inside to charge because the battery is part of the unit. To remove it from the mounting bracket, loosen (don’t completely unscrew) the two security screws on the bottom of the unit. Then, slide it off.
+
+### 3\. Plug It In
+
+Plug the orange cable (or any other micro-USB cable) into the back of the doorbell, then plug the other end into the wall or your laptop’s USB port. It’ll take between five and 10 hours for the battery to charge fully. The round light around the doorbell button will show you the battery’s level of charge. Once the whole circle turns blue, it’s done.
+
+### 4\. Reattach and Restart
+
+Put the doorbell back on the mounting bracket and screw it in place. Check the battery level in the app. If it doesn’t update right away, ring the doorbell a few times so it can sync.
+
+Troubleshooting
+---------------
+
+If you find that your battery didn’t charge as intended, or that it drains of power quickly, try the following solutions.
+
+### Battery Didn’t Charge
+
+If you were charging it outside, the weather might be to blame. According to Ring, the [battery contains software](https://support.ring.com/hc/en-us/articles/115005939463-Cold-Weather-and-Battery-Powered-Ring-Devices) that prevents it from charging if the surrounding temperature is too hot or too cold. While it is an inconvenience, this actually protects the battery from damage. Let the battery come to room temp before you plug it in.
+
+### Battery Drains Quickly
+
+Again: Check the weather. If it’s been [below 40 degrees](https://support.ring.com/hc/en-us/articles/208190773) lately, the batteries may have a harder time holding a charge. Your battery will also drain faster if the unit gets a lot more use than usual. To extend your battery’s life, Ring recommends changing your motion detection settings to be less sensitive.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._

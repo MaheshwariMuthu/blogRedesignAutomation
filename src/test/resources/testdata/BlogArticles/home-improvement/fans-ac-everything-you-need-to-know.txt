@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Hot This Summer? Here's Everything You Need to Know to Keep Cool"
+headline: "Hot This Summer? Here's Everything You Need to Know to Keep Cool"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-08-04
+basePath: https://library.homeserve.com/m/
+heroImage: 240338aaafa9e4c4/Blog-GettyImages-1213582701.jpg
+heroAltDescription: "Latin Man Relaxing In Front Of Fan At Home"
+metaDescriptions: "Here’s everything you need to know about air conditioners, fans, dehumidifiers and more — all in one convenient spot. "
+articleAbstract: "When the summer heat sets in, every household has its own way of dealing with the oppressive temperatures. No matter how you choose to keep cool during the dog days, here’s everything you need to know about air conditioners, fans, dehumidifiers and more — all in one convenient spot."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Hot This Summer? Here’s How to Keep Cool"
+  parent: HVAC-Home-Improvement
+---
+  When the summer heat sets in, every household has its own way of dealing with the oppressive temperatures. Some fire up the air conditioner or employ a fleet of fans. Others retreat to the much cooler basement and vow not to emerge until autumn arrives.
+
+**This May Also Interest You:** [**No AC? No Sweat. Here’s How to Keep Cool**](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+
+No matter how you choose to keep cool during the dog days, here’s everything you need to know about air conditioners, fans, dehumidifiers and more — all in one convenient spot.
+
+Buying an Air Conditioner?
+--------------------------
+
+If you’re in the market for a new air conditioner, you probably have a few questions on your mind, the main one being how much it’s going to cost. On average, expect to pay between $5,000 and $12,000 for a new central air unit. [Find more pricing information here](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/). See also: [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+
+In your AC search, you may come across some acronyms you’re unfamiliar with. Here’s the crash course on [SEER ratings](https://www.homeserve.com/en-us/blog/home-improvement/seer-rating/) (a metric of energy efficiency) and everything you need to know about [British Thermal Units](https://www.homeserve.com/en-us/blog/home-improvement/what-is-btu/), a measurement of cooling power.
+
+Not all the rooms or sections of your home may be ducted for central air conditioning. You can add a ductless [mini split AC](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/) instead. If you’re a renter (or just want to cool a small space), try a floor-standing [portable model](https://www.homeserve.com/en-us/blog/buying-guide/portable-air-conditioner-functionality/) or a [window unit](https://www.homeserve.com/en-us/blog/how-to/install-small-window-air-conditioner/).
+
+You can save yourself a chunk of change if you can repair your system instead of replacing it. Read more: [Should I Replace or Repair My Air Conditioner?](https://www.homeserve.com/en-us/blog/home-improvement/repair-replace-air-conditioner/)
+
+Air Conditioner Maintenance
+---------------------------
+
+Like any other HVAC system, your air conditioner needs some TLC in order to keep running properly. If you’d rather pay someone to do the work, check out our [maintenance cost guide](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/). Otherwise, keep these how-to guides handy when performing routine maintenance yourself:
+
+*   [Got Central Air? Use This Top-to-Bottom Air Conditioner Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Replacing Your HVAC Filter is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How to Clean a Window AC Unit: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/clean-window-ac-unit/)
+*   [How to Clean an Air Conditioner](https://www.homeserve.com/en-us/blog/how-to/clean-air-conditioner/)
+
+Dehumidifiers
+-------------
+
+Did you know that turning on your dehumidifier can help keep your home a little cooler? This is especially true if you live in a particularly muggy area. Here are [five more reasons you need a dehumidifier](https://www.homeserve.com/en-us/blog/home-improvement/dehumidifier-benefits/).
+
+Ceiling Fans
+------------
+
+A cool breeze from up above is a great way to keep air moving in bedrooms and living areas, even if you don’t have an air conditioner. Whether you’re installing a new fan or trying to troubleshoot the one you’ve got, we’ve probably written about it. Here’s every article we have on ceiling fans:
+
+*   [What’s the Span of Your Fan? Here’s How to Measure for a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/measure-ceiling-fan/)
+*   [How to Install a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/install-ceiling-fan/)
+*   [How Much Does It Cost to Install a Ceiling Fan?](https://www.homeserve.com/en-us/blog/cost-guide/ceiling-fan-installation/)
+*   [Where There’s a Wobble, There’s a Way: How to Fix a Wobbly Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/fix-wobbly-ceiling-fan/)
+*   [How to Wire a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/wire-ceiling-fan/)
+*   [How to Remove a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/remove-ceiling-fan/)
+*   [4 Ways to Clean Your Ceiling Fan (No. 3 Is Pretty Clever)](https://www.homeserve.com/en-us/blog/how-to/clean-ceiling-fan/)
+*   [As the Seasons Change, So Should the Direction of Your Ceiling Fan](https://www.homeserve.com/en-us/blog/home-improvement/ceiling-fan-direction/)
+*   [Best Outdoor Ceiling Fans](https://www.homeserve.com/en-us/blog/buying-guide/best-outdoor-ceiling-fans/)

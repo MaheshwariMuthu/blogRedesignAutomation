@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Real Flame Recalls 700 Fire Pits; the Wood Stored Underneath Can Catch Fire"
+headline: "Real Flame Recalls 700 Fire Pits; the Wood Stored Underneath Can Catch Fire"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-07-16
+basePath: https://library.homeserve.com/m/
+heroImage: 52d576832abef832/Blog-FirePitRecall_RealFlame.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Real Flame is recalling 700 Arroyo and Hideaway fire pits due to a fire hazard. The wood stored under the unit may catch fire. "
+articleAbstract: "Did you purchase an Arroyo or Hideaway fire pit from Crate and Barrel between December 2020 and May 2021? You should know that the manufacturer is recalling 700 of these fire pits due to a fire hazard. The wood stored under the unit may catch fire. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Real Flame Recalls Arroyo and Hideaway Wood Burning Fire Pits Due to Fire Hazard"
+  parent: Interior-Home-Home-Improvement
+---
+  Did you purchase an Arroyo or Hideaway fire pit from Crate and Barrel between December 2020 and May 2021? You should know that the manufacturer is recalling 700 of these fire pits due to a fire hazard. According to the [Consumer Product Safety Commission](https://cpsc.gov/Recalls/2021/Real-Flame-Recalls-Arroyo-and-Hideaway-Wood-Burning-Fire-Pits-Due-to-Fire-Hazard-Sold-Exclusively-at-Crate-and-Barrel-Recall-Alert), wood stored under the unit may catch fire.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the July 15 recall, the Racine, Wis.-based [manufacturer](http://www.realflame.com) has received one report of a fire that resulted in minor property damage. No injuries have been reported.
+
+This recall affects both the Arroyo and Hideaway Wood Burning Fire Pits. The Arroyo model is a chiminea-style fireplace and has the UPC 752370060107, while the Hideaway model is round and has the UPC 752370064501. These fire pits were made in China and sold exclusively at Crate and Barrel stores for about $700. In addition, about 80 fire pits were sold in Canada.
+
+If you own one of these fire pits, the CPSC advises that you stop using it immediately. Contact Real Flame to arrange for the fireplace to be removed and to receive a full refund. To reach the manufacturer, call 800-654-1704 or submit a [contact form](https://www.realflame.com/contact) on the website. Real Flame is contacting all known purchasers directly.
+
+For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [5.4 Million Clothing Steamers Recalled by HSN Over ‘Severe Burn Hazard’](https://www.homeserve.com/en-us/blog/home-improvement/hsn-clothing-steamer-recall/)
+*   [IKEA Recalls 148,000 Bowls, Plates and Mugs Over Burn Risk](https://www.homeserve.com/en-us/blog/home-improvement/ikea-dishes-recall/)
+*   [226,000 TruSense Smoke, Carbon Monoxide Alarms Recalled for Possible Failure to Alert Households to Fire](https://www.homeserve.com/en-us/blog/home-improvement/trusense-smoke-alarm-recall/)
+*   [‘Burning Smells, Flames and Smoking’ Cited in Recall of 42,000 Cove Appliance Dishwashers](https://www.homeserve.com/en-us/blog/home-improvement/cove-appliance-dishwasher-recall/)
+*   [Don’t Be Shocked: Kalorik Recalls Over 3,000 Electric Grills Due to Shock Hazard](https://www.homeserve.com/en-us/blog/home-improvement/kalorik-electric-grill-recall/)

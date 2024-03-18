@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Use a Dehumidifier"
+headline: "Get Rid of the Humidity: Here's How to Use a Dehumidifier Effectively"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-08-11
+basePath: https://library.homeserve.com/m/
+heroImage: 6af3e0c69eb1104e/Blog-GettyImages-1094124534.jpg
+heroAltDescription: "Dehumidifier with touch panel"
+metaDescriptions: "Too much humidity can cause issues inside your home, but a dehumidifier can help. Learn how to use one for maximum effectiveness."
+articleAbstract: "Too much humidity can cause issues inside your home, including mold and mildew growth. A dehumidifier can help. Learn how to use a dehumidifier, including where to place one for maximum effectiveness."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Use a Dehumidifier in Summer and Where to Place It"
+  parent: Appliances-How-To
+---
+  You've heard it before: “It’s not the heat, it’s the humidity.” Sticky summer air can make the high temps feel even more unbearable. But what do you do about the humidity?
+
+**This May Also Interest You:** [**5 Reasons You Need a Dehumidifier in Your Home**](https://www.homeserve.com/en-us/blog/home-improvement/dehumidifier-benefits/)
+
+All that moisture in the air is a problem when you're already trying to stay cool and comfortable. Plus, too much humidity can cause issues inside your home, including mold and mildew growth. A dehumidifier can help. Learn how to use a dehumidifier, including where to place one for maximum effectiveness.
+
+When Should You Use a Dehumidifier?
+-----------------------------------
+
+You can use your dehumidifier any time your home feels moist and humid. That usually happens during the summer months if you live in a humid climate. Ideal humidity levels in a home should fall between [30% and 50%](https://www.bobvila.com/articles/humidity-level-at-home/), which you can check by using a hygrometer.
+
+If your home's humidity levels go above that, use a dehumidifier to prevent mold growth and other issues. You can also look for signs of high humidity, such as condensation on your toilet tank or windows and warping wood. It's best to use a dehumidifier before you start noticing damage inside your home.
+
+What Settings Should I Put My Dehumidifier On?
+----------------------------------------------
+
+When figuring out how to use a dehumidifier, navigating the settings can be confusing. Dehumidifiers often have a built-in humidistat. It's similar to a thermostat, except it measures the humidity in the room and makes the dehumidifier run when needed to keep it within the set range. During the summer, set the dehumidifier to keep your home between the recommended 30% to 50% humidity. If you set the target humidity level too low, the unit has to work harder to remove that much moisture, which can cause unnecessary wear and tear.
+
+Do Dehumidifiers Use a Lot of Electricity?
+------------------------------------------
+
+Dehumidifiers use a relatively low amount of electricity compared to appliances like air conditioners. Larger dehumidifiers are often more energy-efficient than smaller ones. Most new models are designed for energy efficiency, but the way you use them can also impact how much electricity it uses.
+
+Here are some tips to make your dehumidfier more energy-efficient:
+
+*   Choose a dehumidifier that's designed for the size of the room. If it's too small or too large, it can't work efficiently.
+*   Keep the filter clean to improve airflow through the dehumidifier.
+*   Empty the tank regularly. If the tank is full, the unit shuts off. If it's constantly shutting off and turning on, it can't run at optimal efficiency.
+*   Shut the doors and windows in the room to help the unit work more efficiently.
+
+Where Should I Put a Dehumidifier?
+----------------------------------
+
+Another part of learning how to use a dehumidifier is knowing where to place it. If your humidity issues are mainly in one area, such as in your basement, place the dehumidifier there. A dehumidifier works by drawing damp air inside, removing the moisture and blowing the drier air out of the unit. It should have enough space around it to allow air to flow in and out of the unit, so don't place it against a wall or near furniture. Leave at least 6 inches between the unit and any other surface; allowing even more space is better.
+
+Drainage is another placement consideration. Some units have a hose that continuously drains the moisture that's removed from the air. You need to position it near a drain to allow the hose to empty. If your unit has a tank, consider how close to a drain or sink it is, so you can easily empty it.
+
+**More Related Articles:**
+
+*   [No AC? No Sweat. Here’s How to Keep Cool](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+*   [10 Tips to Improve Indoor Air Quality in Your Home](https://www.homeserve.com/en-us/blog/how-to/improve-home-air-quality/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+*   [Allergies Are Nothing to Sneeze at. Here are 12 Ways to Allergy-Proof Your Home](https://www.homeserve.com/en-us/blog/how-to/allergy-proof-your-home/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+
+How Do I Know If My Dehumidifier Is Working Properly?
+-----------------------------------------------------
+
+Look for indicator lights and listen for sounds of the unit running to make sure it's operating. Verify that water is collecting in the tank or draining from the hose to make sure it's drawing moisture out of the air. Keeping a hygrometer in your home is an easy way to check humidity levels. You can use it to see if the dehumidifier is keeping the room at the selected humidity level.
+
+Benefits of Learning How to Use a Dehumidifier
+----------------------------------------------
+
+Having a dehumidifier in your home for high-humidity periods can come in handy. Here are some of the benefits you can enjoy:
+
+* **Allergy relief.** Using a dehumidifier can help reduce allergies because it can get rid of allergens in your home.
+* **Mold and mildew prevention.** High humidity levels give mold spores the moisture they need to grow. Running a dehumidifier consistently can keep your home at a normal humidity level and reduce the risk of mold.
+* **Reduced structural damage.** Too much moisture can damage the structure of your home, so reducing the moisture level can prevent expensive damage.
+* **Personal comfort.** High humidity makes you feel hotter because of the moisture in the air. When you sweat, you feel cooler because the sweat evaporates off your skin. If the air is already full of moisture, the sweat doesn't evaporate as quickly. Plus, damp air inside your home — even if it's cool — can feel sticky and uncomfortable.

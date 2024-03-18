@@ -1,0 +1,6 @@
+---
+eleventyNavigation:
+  key: Appliances
+  parent: Home Improvement & Maintenance
+permalink: false
+---

@@ -1,0 +1,63 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Google Nest Cam?"
+headline: "What's a Google Nest Cam and How Does It Enhance Home Security?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-10-12
+basePath: https://library.homeserve.com/m/
+heroImage: 34b4c162b2a54ac/Blog-GoogleNestDoorbell_JamesYarema_0001.jpg
+heroAltDescription: "A white Google Nest Doorbell video security device with a black circular camera is affixed to a brown stucco exterior wall."
+metaDescriptions: "The Google Nest Cam is a home security camera. Learn how it works to decide if it's the best fit for your security needs."
+articleAbstract: "The Google Nest Cam is one option for a home security camera. It has lots of convenient functions that make it versatile. Learn how it works to decide if it's the best fit for your security needs."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "What Is a Google Nest Cam and How Does It Enhance Home Security?"
+  parent: Appliances-Buying-Guide
+---
+  Keeping your home secure gives you peace of mind — whether your family is home or away. From video doorbells to security cameras, you have a lot of options for home security these days.
+
+**This May Also Interest You:** [**How to Install a Video Doorbell**](https://www.homeserve.com/en-us/blog/how-to/install-video-doorbell/)
+
+The Google Nest Cam is one option for a security camera that you can place inside or outside your home. It has lots of convenient functions that make it versatile, including connectivity with other smart products. Learn how it works to decide if it's the best fit for your security needs.
+
+What Does a Google Nest Cam Do?
+-------------------------------
+
+The [Google Nest Cam](https://store.google.com/us/product/nest_cam_battery?hl=en-US) provides a 24/7 live feed of the view from the camera lens. It's a security camera that you can install indoors or outdoors, and it has a weatherproof design to hold up to all conditions. The camera runs on a rechargeable battery. You can access the camera feed and its features through the app, letting you monitor your home from anywhere.
+
+The camera can tell the difference between people, animals and vehicles, so you know exactly what it notices. You can set up notifications to come to your phone and set zones so you only get notified about activity in specified areas. The notifications tell you exactly what the camera sees. You can set it to only provide certain notifications, such as a person seen by the camera.
+
+Two-way audio lets you interact with people near the camera. You can say something to the people, and they can talk back to you. This can come in handy if a delivery person is dropping something off and you want to give them specific instructions.
+
+Is the Google Nest Cam Wireless?
+--------------------------------
+
+The Google Nest Cam is a wireless camera that works indoors or outdoors to let you customize your home security system setup. It's a battery-powered camera and doesn't need to be wired to transmit the images it captures. This makes it easy to install wherever you want it. You can also use it as a wired camera when you hardwire it with the optional weatherproof cable. This eliminates the need to recharge the camera.
+
+The [Nest Cam Indoor](https://store.google.com/us/product/nest_cam_specs?hl=en-US), a different model, is wired, as are several upcoming iterations of the [Nest Cam](https://store.google.com/us/category/nest_cams?hl=en-US).
+
+Do Nest Cameras Have Night Vision?
+----------------------------------
+
+Google Nest cameras have night vision, which gives you a clear view in darker conditions. It's an HDR video camera, which helps improve the clarity of the images, even in bright or dim conditions. You can also get an [outdoor version with floodlights](https://store.google.com/us/product/nest_cam_floodlight_wired?hl=en-US) attached, which offers an even better view of what's outside your home. The zoom feature is another way you can get a better view of something on the camera.
+
+**More Related Articles:**
+
+*   [How Much Does a Home Security System Cost?](https://www.homeserve.com/en-us/blog/cost-guide/home-security-system/)
+*   [How to Install a Nest Thermostat](https://www.homeserve.com/en-us/blog/how-to/nest-thermostat-installation/)
+*   [How Much Does It Cost to Install a Ring Doorbell?](https://www.homeserve.com/en-us/blog/cost-guide/ring-doorbell-installation/)
+*   [How Much Does It Cost to Install a Keyless Door Lock?](https://www.homeserve.com/en-us/blog/cost-guide/keyless-door-lock/)
+*   [Lose Your House Key: Here’s How to Install a Keyless Door Lock](https://www.homeserve.com/en-us/blog/how-to/keyless-door-lock/)
+
+How Does Google Nest Security Work?
+-----------------------------------
+
+The Google Nest suite of smart products includes a wide range of devices, many of which add security to your home, such as a [video doorbell](https://store.google.com/us/category/nest_doorbells?hl=en-US) and a [variety of cameras](https://store.google.com/us/category/nest_cams?hl=en-US). You can choose which parts you want to include and build your own home security system. For example, you can install a camera at each door plus a video doorbell on your front door. Inside, you might install more cameras and the [Nest Protect](https://store.google.com/us/product/nest_protect_2nd_gen?hl=en-US) smoke alarm and carbon monoxide detector. This lets you customize your smart home setup.
+
+All of these smart devices are easy to control using the [Google Home App](https://support.google.com/chromecast/answer/7071794?hl=en&co=GENIE.Platform%3DAndroid), letting you monitor your home from anywhere. If you have the Nest Cam, you can save and share clips from your phone. 
+
+How Far Back Can You View Video?
+--------------------------------
+
+You can look back to 3 hours on the video feed for your Google Nest Cam for free. If you want longer access, you can sign up for [Google Nest Aware](https://store.google.com/us/product/nest_aware?hl=en-US), which is a paid subscription service. This gives you longer access to the 24/7 video feed — as far back as 10 days with Nest Aware Plus. The subscription offers additional features, such as familiar face recognition and the ability to connect to local emergency services from the app if you need help. The camera also stores up to an hour of video on its internal memory if the power and Wi-Fi go out.

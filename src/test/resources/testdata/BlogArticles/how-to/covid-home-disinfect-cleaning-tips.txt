@@ -1,0 +1,100 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to clean and disinfect your Home during COVID-19
+headline: How to clean and disinfect your Home during COVID-19
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2020-04-21
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: clean-disinfect-home-covid-tips-01-full.jpg
+heroAltDescription: How to Desinfect House During Covid
+metaDescriptions: Spring cleaning is typically the perfect time to sweep out the garage, reorganize the linen closet and wipe down the windows.
+articleAbstract: Spring cleaning is typically the perfect time to sweep out the garage, reorganize the linen closet and wipe down the windows.
+category: ['How To']
+
+eleventyNavigation:
+  key: How to clean and disinfect your Home during COVID-19
+  parent: How To
+---
+
+:::: blog-info
+Spring cleaning is typically the perfect time to [sweep out the garage](/en-us/blog/home-improvement/garage-organization-tips){target="_blank"}, reorganize the linen closet and wipe down the windows. But in Spring 2020, our cleaning goals are slightly different.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+::::
+
+While shelter-in-place orders around the country may be giving families plenty of time to tackle those Marie Kondo-inspired tidying-up projects, these guidelines are essential to slow the spread of the novel coronavirus.
+
+Here are some helpful cleaning strategies that may help you keep germs at bay, even if your family is in good health:
+
+## Protect yourself
+
+Remember to wear disposable gloves when you’re cleaning, and wash your hands before and after to help minimize the spread of germs. It’s also best to work in a well-ventilated space, as disinfecting chemicals can be very strong. Also, never mix cleaning chemicals as this can create toxic off gassing.
+
+## Clean first, then disinfect
+
+The CDC explains that [cleaning and disinfecting](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html){target="_blank"} are two different things. Cleaning helps remove dirt, debris and other residue, whereas disinfecting helps kill bacteria and pathogens.
+
+First, wipe down surfaces with a cleaning towel or soap and water to remove dirt. Then follow up by using an [EPA-approved disinfectant](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2){target="_blank"} or a diluted household bleach solution containing 4 teaspoons of unexpired bleach for each quart of water.
+
+Your disinfectant will need to remain on the surface for a certain amount of time, so follow the manufacturer’s instructions. For a household solution, wait at least 1 minute.
+
+## Focus on High-Touch Surfaces
+
+The CDC also recommends cleaning high-touch surfaces in high-traffic areas. These include bathroom and kitchen surfaces, faucets, doorknobs, hard-backed chairs, lightswitches, game controllers, computer keyboards and mobile devices.
+
+## Explore cleaning guides from HomeServe
+
+If you’re like me and have become somewhat obsessive about keeping your house clean and wanting to try to keep the coronavirus at bay, check out the following HomeServe blogs for general cleaning tips and tricks that may help with hard-to-clean spots and surfaces.
+
+Don’t forget to bookmark this post so you can come back to these helpful hints when next year’s Spring cleaning season comes around.
+
+### Cleaning Products to Use Around the House
+
+::: list-none
+* [How to clean with eco-friendly products.](/en-us/blog/buying-guide/toxic-cleaning-products){target="_blank"}
+:::
+
+### Bathroom Cleaning Guides
+
+::: list-none
+* [How to clean a shower head.](/en-us/blog/how-to/clean-showerhead){target="_blank"}
+* [How to clean shower doors.](/en-us/blog/how-to/clean-shower-doors){target="_blank"}
+* [How to clean tile grout.](/en-us/blog/how-to/clean-grout){target="_blank"}
+* [How to get rid of mold.](/en-us/blog/how-to/mold-removal){target="_blank"}
+:::
+
+### Kitchen Cleaning Guides
+
+::: list-none
+* [How to clean your kitchen and fend off ant invasions.](/en-us/blog/how-to/rid-kitchen-ants){target="_blank"}
+* [How to clean out a clogged kitchen sink.](/en-us/blog/how-to/unclog-kitchen-sink){target="_blank"}
+* [How to clean stainless steel appliances.](/en-us/blog/how-to/clean-stainless-steel){target="_blank"}
+* [How to clean an electric stovetop.](/en-us/blog/how-to/clean-electric-stove-top){target="_blank"}
+* [How to clean your oven.](/en-us/blog/how-to/clean-oven){target="_blank"}
+* [How to clean a dishwasher.](/en-us/blog/how-to/clean-dishwasher){target="_blank"}
+:::
+
+### Living Space cleaning guides
+
+::: list-none
+* [How to clean an air conditioner.](/en-us/blog/how-to/clean-air-conditioner){target="_blank"}
+* [How to clean laundry machines.](/en-us/blog/how-to/clean-washing-machine){target="_blank"}
+* [How to clean hardwood floors.](/en-us/blog/how-to/clean-hardwood-floors){target="_blank"}
+* [How to clean lighting fixtures.](/en-us/blog/how-to/clean-lighting-fixtures){target="_blank"}
+* [How to clean your thermostat.](/en-us/blog/how-to/clean-thermostat){target="_blank"}
+:::
+
+## Prepare for the unexpected with a Home Repair Plans
+
+As you and your family follow shelter-in-place orders and spend more time at home, you’re counting on your essential home systems to stay in working order. Now, more than ever, your home is playing a major role as your living space, office, schoolhouse, play zone, fitness center and more. An unexpected home system breakdown could have consequences for all of these aspects of your life.
+
+:::: blog-info
+Being prepared for the unexpected with a repair plan from HomeServe is a good strategy.. [Enter your ZIP code]({{ migrationData.homepage }}){target="_blank"} to see which home repair plans are available in your area.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+::::

@@ -1,0 +1,88 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Repair an Air Conditioner?"
+headline: "How Much Does It Cost to Repair an Air Conditioner?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-12-10
+basePath: https://library.homeserve.com/m/
+heroImage: 5dfc8dd8cb737985/Blog-GettyImages_489609826_CMYK_19x12.jpg
+heroAltDescription: "technician checking external HVAC unit"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Air conditioner repair costs can vary. This guide to AC repair costs can help you understand the rates you may be given."
+articleAbstract: "Air conditioner repair costs can vary. This guide to AC repair costs can help you understand the rates you may be given."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Repair an Air Conditioner?"
+  parent: HVAC-Cost-Guide
+---
+  A central air conditioning unit is a big investment. According to [This Old House](https://www.thisoldhouse.com/heating-cooling/reviews/air-conditioner-costs), a new central AC unit can cost anywhere between $2,500 and $7,000 (CAD 3,414 and CAD 9,559) on average, as long as you have the ductwork already installed. To preserve that investment, professionals encourage their clients to schedule regular HVAC maintenance for their HVAC systems.
+
+**This May Also Interest You:** [**10 Ways to Make Your Central Air Conditioner More Efficient**](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioner-energy-efficiency-tips/)
+
+Home repairs — and the costs that come with them — are a necessary evil. Air conditioner repair costs can vary. This guide to AC repair costs can help you understand the rates you may be given.
+
+Average Air Conditioner Repair Costs
+------------------------------------
+
+According to data from [HomeGuide](https://homeguide.com/costs/ac-repair-cost), repairing an air conditioner usually costs somewhere in the ballpark of $150 to $650 (CAD 205 to CAD 888). However, costs can vary wildly, depending on the part that needs to be repaired or replaced.
+
+Air Conditioner Repair Costs by Part
+------------------------------------
+
+### Faulty Circuit Breakers, Relays or Fuses
+
+If you notice the AC unit is having electrical issues, the culprit could be faulty circuit breakers, relays or fuses. [HomeGuide](https://homeguide.com/costs/ac-repair-cost#breaker) says parts typically cost $75 to $300 (CAD 102 to CAD 410), including installation. The source could also be the main panel. Once an HVAC contractor takes a look, they can tell you if a repair is necessary or if it's something that requires a replacement.
+
+### Freon Leak Fix
+
+The average cost to fix a Freon leak is $200 to $1,500 (CAD 273 to CAD 2,048). When there are holes or corrosion on the coils where the refrigerant lives, leaks occur. The refrigerant is important for an air conditioner. If the level is too low, the air may not be properly cooled off. To prevent further damage to the unit, the leak must be repaired, as well as the coils.
+
+### Refrigerant Recharge
+
+The average cost for a refrigerant recharge is between $100 and $600 (CAD 137 and CAD 819), according to [HomeGuide](https://homeguide.com/costs/ac-repair-cost#breaker). An air conditioner’s refrigerant level should never be too low. The process a professional uses to refill it is known as a refrigerant recharge. So, the AC recharge cost is the refill, which requires specialized equipment and skills.
+
+### Thermostat Replacement
+
+The average cost to replace a thermostat can range from $75 to $575 (CAD 102 to CAD 785). It's important that your thermostat always be as close to accurate as possible. Programmable thermostats can be off by up to five degrees. If you notice that your AC unit is running too long or not long enough, the thermostat may be in need of repair.
+
+After an inspection, a technician will go over their findings and let you know how much your home air conditioner repair will cost. In some cases, it may be best to replace the thermostat, for example. If your current thermostat is an older model, it could be worth your while to make the upgrade to a smart thermostat instead of repairing the older model. Smart thermostats have an error rate of as little as half a degree. Plus, they offer several benefits, such as allowing you to adjust your settings and preferences, as well as improved energy efficiency.
+
+Additionally, HVAC professionals believe that a smart thermostat can extend the life of your current air conditioner unit.
+
+**More Related Articles:**
+
+*   [How to Prep Your AC Unit for Summer](https://www.homeserve.com/en-us/blog/how-to/prepare-air-conditioner/)
+*   [HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/) 
+
+### AC Compressor Replacement
+
+According to [Bob Vila](https://www.bobvila.com/articles/ac-compressor-cost/), replacing an AC compressor can cost anywhere from $800 to $2,800 (CAD 1,092 to CAD 3,824). When you turn on your air conditioner and you hear it go through the motions, but no output is produced, the AC compressor may be in need of repair. Every part of an AC system is important. The compressor, however, is particularly important. This is the heart of an AC unit. If it isn't operating correctly, your air won't be cooled. You'll hear the unit turn on, and you'll hear the fans run, but there won't be any cold air output.
+
+In some cases, it's more cost-effective to replace the compressor than it is to repair it. In other cases, it's more cost-effective to replace the AC unit. A technician who examines your unit will be able to give you more information and outline your options.
+
+### Condensing Components Repairs
+
+The average cost for repairs to the AC condensing components is $100 to $700 (CAD 137 to CAD 956). The condensing unit includes the fan and pump. Sometimes, the fan gives out, and other times, it's the pump. Once these components stop operating as intended, it's best to replace them. The cost you'll incur is for the part and the service call. Those who are handy with a screwdriver and can follow instructions might be tempted to complete the replacement as a DIY project. However, it’s always best to utilize the services of a professional.
+
+Professional HVAC technicians can complete the repair or replacement. They'll also test the unit and get it as close to the manufacturer's settings as possible. This gives the AC unit the opportunity to reach its expected lifespan.
+
+### Evaporator Coil Repair
+
+The average cost of an evaporator coil is $400 to $2,400 (CAD 546 to CAD 3,277). Since the refrigerant runs through the coil as a liquid and gas, the coil is a prime target for bacterial growth and corrosion. To keep the AC unit running and the indoor air quality of your home healthy, it's important for the coils to be repaired in a timely manner.
+
+HVAC Service Call Costs
+-----------------------
+
+Service calls can cost anywhere from $75 to $200 (CAD 102 to CAD 273), according to [HomeGuide](https://homeguide.com/costs/hvac-repair-cost). When you know your air conditioning unit isn't operating correctly, an HVAC technician can come to your home and take a look. In most cases, you're going to incur a service call charge, and the technician will also give you a repair estimate. The air conditioning repair costs are based on the technician's findings.
+
+Emergency Repair Costs
+----------------------
+
+The average cost for an emergency repair varies. The emergency repair cost varies due to a variety of factors, including demand and urgency. There will be the service call fee, as well as the costs of the labor and parts.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-vh1RDJC1M8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Change an HVAC Filter"></iframe>

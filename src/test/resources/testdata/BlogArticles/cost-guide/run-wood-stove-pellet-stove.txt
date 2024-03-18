@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Add Fuel to the Fire: Calculating the Cost to Run a Wood- or Pellet-Burning Stove"
+headline: "Add Fuel to the Fire: Calculating the Cost to Run a Wood- or Pellet-Burning Stove"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-11-27
+basePath: https://library.homeserve.com/m/
+heroImage: 534c54e132047067/Blog-PelletBurningStove_USDAgov_0001.jpg
+heroAltDescription: "Wood pellet burning stove"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A wood- or pellet-burning stove can help you save money on your heating bills — but don't forget about installation costs."
+articleAbstract: "Installing a wood-burning or pellet-burning stove can help you save money on your heating bills — but which type of stove is cheapest to install and run? "
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "Add Fuel to the Fire: Calculating the Cost to Run a Wood- or Pellet-Burning Stove"
+  parent: HVAC-Cost-Guide
+---
+  Heating your home with a wood or pellet stove can be incredibly cost-effective when compared to running an oil furnace or gas fireplace.
+
+**This May Also Interest You:** [**Ventless Gas Fireplaces: Pros and Cons You Should Take to ‘Hearth’ Before Installing One**](https://www.homeserve.com/en-us/blog/buying-guide/ventless-gas-fireplaces/)
+
+Installing a wood-burning or pellet-burning stove can help you save money on your heating bills — but which type of stove is cheapest to install and run? We’ve got your answer below.
+
+How Much Does It Cost to Install a Wood-Burning Stove?
+------------------------------------------------------
+
+According to [HomeGuide](https://homeguide.com/costs/wood-stove-installation-cost), the average wood-burning stove installation price is between $1,200 and $4,500 (CAD 1,600 and CAD 6,001). Pellet stoves can be similar in terms of up-front costs, ranging in price from $1,500 to $5,000 (CAD 2,000 to CAD 6,667) if you have an existing chimney. As with any other home improvement, it's worth considering how much each stove costs to run to see what the total cost of ownership is.
+
+The question of how much a wood-burning stove costs doesn't matter in the long term if one particular type of fuel is much more expensive than the other. In general, both types of stoves are affordable to run and can save you money compared to a gas fireplace or furnace.
+
+How Much Does Wood Cost for a Wood-Burning Stove?
+-------------------------------------------------
+
+[HomeGuide](https://homeguide.com/costs/wood-stove-installation-cost) says the average cost of a cord of wood is between $175 to $580 (CAD 233 to CAD 773), although prices can increase dramatically in the winter due to extra demand.
+
+Firewood is sold by the cord. One cord is 128 cubic feet of wood, or a stack that's 4 feet by 4 feet by 8 feet in size. The total amount of wood contained in that space may vary between suppliers depending on the way they stack the wood. Some suppliers sell face cords, which are one-third of the depth of a full cord. These suppliers may still use the word “cord” in their advertisements, so it might seem like you’re getting a full cord for quite a steal. It's important to check advertisements carefully so you know exactly what you're getting.
+
+Not all wood is suitable for burning. Wood that is wet or has excess moisture could damage your stove and will release smoke or creosote. In many areas, there are rules about emissions, and burning anything other than dry firewood is not permitted.
+
+How Much Do Pellets for a Pellet Stove Cost?
+--------------------------------------------
+
+Pellets usually cost around $250 per ton, according to data from [Forbes](https://www.forbes.com/home-improvement/kitchen/pellet-stove-installation-cost/#how_much_does_it_cost_to_run_a_pellet_stove_section). Because pellets are measured by weight rather than volume, it's easier to understand how much you're getting. A ton of pellets always contains the same amount of wood, so you can compare prices between various sellers more readily.
+
+**More Related Articles:**
+
+*   [How Much Does Chimney Repair and Removal Cost?](https://www.homeserve.com/en-us/blog/cost-guide/chimney-repair/)
+*   [How Much Does a Gas Fireplace Cost?](https://www.homeserve.com/en-us/blog/cost-guide/gas-fireplace-installation/)
+*   [How to Light a Gas Fireplace: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/light-gas-fireplace/)
+*   [How Does Heating Your Home With Oil Work and Who’s Still Using It?](https://www.homeserve.com/en-us/blog/home-improvement/home-heating-oil/)
+*   [Why Am I Using So Much Heating Oil? Here’s How to Reduce Your Consumption](https://www.homeserve.com/en-us/blog/how-to/reduce-heating-oil/)
+
+Wood-Burning Stove Vs. Pellet Stove: Which Is Cheaper to Run?
+-------------------------------------------------------------
+
+To compare the cost of wood pellets and firewood, you need to understand how much of each fuel a typical homeowner might use. A ton of pellets produces 25% less energy than a cord of wood, but the way pellet stoves work is more efficient, which offsets some of that difference.
+
+You can expect a pellet stove to produce more heat and to burn for longer than a wood-burning stove, which means it often comes down to how often you're using the stove to heat your home, whether you want a long-burning fire and even the size of your house. In addition, many pellet stoves have a fuel feeder that runs on electricity, so in the event of a power outage, a wood-burning stove may be less of a hassle.
+
+If the stove is your primary heat source, you'll likely find yourself using more tons of pellets per year than you would cords of wood, making pellet stoves more expensive to run. However, the feeder systems can make for hands-off operation, and some homeowners prefer them for that convenience.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

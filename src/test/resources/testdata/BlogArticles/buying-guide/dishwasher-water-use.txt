@@ -1,0 +1,60 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Water Do Dishwashers Use?"
+headline: "How Much Water Do Dishwashers Use?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-16
+basePath: https://library.homeserve.com/m/
+heroImage: 3538a0985f068df1/Blog-Dishwasher.jpg
+heroAltDescription: "Dishwasher"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "You might be surprised to know that a dishwasher uses less water than washing dishes by hand."
+articleAbstract: "How much water does your dishwasher use every cycle? You might be surprised to know that, in general, using a dishwasher takes less water than washing dishes by hand."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "How Much Water Do Dishwashers Use?"
+  parent: Appliances-Buying-Guide
+---
+  How much water does a dishwasher use? It's something you might wonder about, especially when your water bill arrives.
+
+**This May Also Interest You:** [**Weird Sound Coming From the Dishwasher? How to Diagnose Dishwasher Noises**](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-making-noise/)
+
+You might be surprised how much water the average dishwasher uses and how it compares to washing your dishes by hand.
+
+How Much Water Does a Typical Dishwasher Cycle Use?
+---------------------------------------------------
+
+The amount of water used per cycle can vary depending on the efficiency of your machine and its age.
+
+In the U.S., if your dishwasher was manufactured after May 30, 2013, it has to meet [federal limits](https://www.ecfr.gov/current/title-10/chapter-II/subchapter-D/part-430/subpart-C/section-430.32) that mandate no more than 5 gallons of water used per cycle for a standard-sized appliance. Compact dishwashers made in the same timeframe can use no more than 3.5 gallons. If you choose an [Energy Star-rated dishwasher](https://www.energystar.gov/products/appliances/dishwashers/key_product_criteria), it can only use a maximum of 3.5 gallons per cycle for a standard-size model or 3.1 gallons per cycle for a compact model. Older dishwashers use a lot more water — often [10 to 15 gallons](https://www.bobvila.com/articles/dishwasher-vs-hand-washing/) per cycle.
+
+Is It More Efficient to Handwash Dishes?
+----------------------------------------
+
+The alternative to using an automatic dishwasher is washing your dishes by hand. How much water does a dishwasher use compared to handwashing dishes? Surprisingly, a dishwasher usually uses less water. When you handwash dishes, you might use anywhere from [9 to 27 gallons](https://water.usgs.gov/edu/activity-percapita.php), depending on how many dishes you wash and your efficiency when washing and rinsing them.
+
+If you have a new dishwasher — especially an Energy Star-rated model — using the dishwasher is typically more efficient when it comes to water usage. However, an older model will use more water and make the process less efficient. The winner in hand versus machine washing can also depend on your habits when you wash dishes by hand.
+
+**More Related Articles:**
+
+*   [Install a Dishwasher Yourself: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-dishwasher/)
+*   [How Much Does a Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)
+*   [What’s the Deal With Countertop Dishwashers?](https://www.homeserve.com/en-us/blog/home-improvement/countertop-dishwashers/)
+*   [How Much Do Countertop Dishwashers Cost?](https://www.homeserve.com/en-us/blog/cost-guide/countertop-dishwashers/)
+
+How to Wash Dishes More Efficiently
+-----------------------------------
+
+Whether you wash your dishes by hand or in a dishwasher, you can make the process more efficient.
+
+* **Wait for a full load.** If you use a dishwasher, only run it when the machine is full. If you do multiple smaller loads throughout the day, you'll use more water overall. This can also be true of handwashing dishes. If you fill the sink to wash a few dishes, you'll waste more water than you would if you wanted until you had lots of dishes and washed them all at once.
+* **Skip pre-rinsing:** When you pre-rinse your dishes for the dishwasher, you'll add to your water consumption. You typically just need to scrape the food on the dishes before putting them in the machine instead of rinsing.
+* **Fix issues:** If you’re having issues with your dishwasher, have them fixed immediately to keep the appliance efficient and working properly to get dishes clean with one cycle.
+* **Upgrade your dishwasher.** If you have an old model, consider installing a new dishwasher that's more efficient.
+* **Install an aerator.** An aerator installed on your kitchen faucet cuts down on how much water comes out of the faucet without reducing the effectiveness of the flow.
+* **Reduce your suds.** Only add enough dish soap to create sufficient suds for handwashing. More bubbles mean more rinsing and higher water consumption.
+* **Start with a little water.** Instead of filling your sink to the top to handwash, start with just an inch or so in the bottom. As you wash smaller dish items, rinse them with hot water directly into the sink to fill it gradually. When you get to larger items, the sink will have more water in it.
+* **Wait to turn on the water.** Avoid turning on the faucet until you're done scrubbing a dish and are ready to rinse.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clear Food From Drain"
+headline: "How to Clear Food Debris From Your Drain"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-14
+basePath: https://library.homeserve.com/m/
+heroImage: 218efcdb78d93597/Blog-AdobeStock_104614206.jpg
+heroAltDescription: "plunging kitchen sink"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Food in your sink drain can cause a mucky mess. Get your plumbing back in order: Here’s how to clear your drains."
+articleAbstract: "Whether a whole plate of food goes down the drain suddenly or a food clog builds up slowly, food in your sink drain can cause a mucky mess and a stinky drain. Get your plumbing back in order: Here’s how to clear your drains."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clear Food Debris From Your Drain"
+  parent: Plumbing-How-To
+---
+  
+
+Whether a whole plate of food goes down the drain suddenly or a food clog builds up slowly, food in your sink drain can cause a mucky mess and a stinky drain. Without a garbage disposal, the food sits in the pipe and blocks anything else from passing.
+
+**This May Also Interest You:** [**Why Do My Drains Smell?**](https://www.homeserve.com/en-us/blog/home-improvement/drain-smell/)
+
+Get your plumbing back in order: Here’s how to clear your drains.
+
+How Do You Keep Food From Going Down the Drain?
+-----------------------------------------------
+
+Keeping food out of the drain in the first place means you don't have to worry about how to clear food from a drain. If you don't have a garbage disposal, scrape all food into a trash can or compost bin before putting dishes into the sink.
+
+If you have a garbage disposal, put a small amount of food down at a time and run water the entire time. Avoid things like potato peels, rice and bread that can jam up the garbage disposal. Drain foods like pasta or potatoes carefully, using a strainer to prevent chunks from falling down the drain.
+
+Never pour cooking grease down the drain. Avoid rinsing even small amounts of grease off pans into the drain. They might seem safe to pour down the drain when they're liquids, but they can solidify in the pipes and create a tough, greasy clog.
+
+Getting the Gunk Out: 5 Things to Try
+-------------------------------------
+
+Even if you're careful, some food remnants will likely make it down your drain. Over time, they can clump together and form a clog that slows or blocks your drain. Start with the easiest methods with the tools you already have available and work up to the more complex and time-consuming options if needed.
+
+**More Related Articles:**
+
+*   [Effort Down the Drain: How to Sanitize Your Sink Hole](https://www.homeserve.com/en-us/blog/how-to/clean-sink-drain/)
+*   [Can You Pour Cooking Grease Down the Drain? No. Here’s Why](https://www.homeserve.com/en-us/blog/home-improvement/do-not-pour-grease-down-drain/)
+*   [8 Things You Should Never Put Down Your Garbage Disposal (and 5 Things You Can)](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-dos-and-donts/)
+*   [How to Reset Your Garbage Disposal (Pssst … It’s Way Easy!)](https://www.homeserve.com/en-us/blog/how-to/reset-garbage-disposal/)
+*   [What’s a Fatberg? (Spoiler: It’s as Gross as It Sounds)](https://www.homeserve.com/en-us/blog/home-improvement/what-is-a-fatberg/)
+
+### 1\. Use a Plunger
+
+Grab a small cup plunger with a flat bottom to get a tight seal along the sink. Place enough water in the sink to cover the bottom edge of the plunger, and place the cup over the drain. Move the plunger up and down quickly and firmly multiple times to loosen the food clog. Test the drain to see if it cleared the food.
+
+### 2\. Try Hot Water
+
+Before trying boiling water, check the pipes below your sink to see if they're made of PVC. If they are, skip this method as the boiling water can damage the pipes. If you have metal pipes under your sink, you’re in the clear. Remove as much standing water from the sink as possible. Then, pour several cups of boiling water down the drain. This helps soften and push the food clog through the pipes.
+
+<img class="detail-image" src="https://library.homeserve.com/m/77240607408be46d/Blog-TeapotOnStove_MSchmitz_0001.jpg" alt="A stainless steel teapot sits atop one of the burners of a gas powered stove with a blue flame underneath"/>
+
+### 3\. Break It Up With an Auger
+
+A plumbing auger has a long cable that you can feed into the drain to break up the clog. Once you meet resistance with the cable, crank the auger to tear apart the food clog. Pour hot water down the drain to push the remaining food through the pipe.
+
+### 4\. Use Vinegar and Baking Soda
+
+Recreate a science fair volcano in your kitchen. Pour baking soda down the drain and follow it with vinegar to create a bubbling reaction that can help move the food clog. Running hot water down the drain afterward can help clear the remaining clog. You can use this method weekly to help clean the drain and prevent food buildup that can lead to clogs.
+
+<img class="detail-image" src="https://library.homeserve.com/m/77ee2d141b4c672b/Blog-GettyImages-1150199946.jpg" alt="Person wearing rubber gloves uses an adjustable wrench on a drain pipe underneath a sink."/>
+
+### 5\. Remove the P-Trap
+
+Removing the P-trap under the sink is a good way to clean the drain and remove the food clog. The curved piece unscrews so you can remove it and empty the food that's lodged in it. If the food isn't in the curved piece, you can insert your auger into the wall pipe to break up food clogs in that section.<br><iframe title="YouTube video player" width="560" height="315" src="https://www.youtube.com/embed/5j759jOLiwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

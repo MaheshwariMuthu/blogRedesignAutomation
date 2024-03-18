@@ -1,0 +1,80 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Plumbing Vent Guide
+headline: The Ultimate Guide to Venting
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment']
+publishDate: 2019-07-15
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: sink.jpg
+heroAltDescription: Plumbing Vent Guide
+metaDescriptions: Plumbing vent pipes (also known as plumbing air vents) are vital to keeping your plumbing system running smoothly.
+articleAbstract: Plumbing vent pipes (also known as plumbing air vents) are vital to keeping your plumbing system running smoothly.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Plumbing Vent Guide
+  parent: Plumbing-Buying-Guide
+---
+
+As a homeowner, I was aware that my HVAC system had air vents, namely because I could see them throughout my home - and, quite literally, can feel the air coming out of them. But I had no idea my plumbing system also had ventilation. _(Seriously, who knew?)_
+
+[1]: {{ migrationData.planspage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+:::: blog-info
+While many homeowners are like me and don't realize they exist, plumbing vents are a vital component of the pipes that keep your water flowing. Understanding plumbing vents is especially helpful if you plan to build a new construction home or remodel your current one. In general, the more you know about your plumbing system, the more likely you are to keep the drains running smoothly.
+
+## What is a plumbing vent?
+
+Also known as a vent stack, the plumbing vent is responsible for regulating air pressure in plumbing systems. While drain pipes remove water and waste, the plumbing vent is there to bring fresh air into the system to keep everything flowing without any dangerous pressure buildups or slow drainage problems. What's more, plumbing vents safely extract sewer gases and odors, preventing them from creeping into your living areas.
+
+## What are the different types of vents?
+
+Plumbing vents vary depending on the fixture types and locations. Local building codes will also help determine the [type and number of fixtures your home needs](https://www.bhg.com/home-improvement/plumbing/drain-venting/){target="_blank"}, as noted by _Better Homes & Gardens_. Some of the most common include:
+
+* ### True vent:
+
+When plumbing fixtures are conveniently located, a vertical pipe can simply be attached to a drain line and run up through the roof, creating a vent near the top of the vent stack.
+
+* ### Re-vent or auxiliary vent pipe:
+
+This type of vent attaches to the drain line closest to the plumbing fixture, and then runs over the main vent.
+
+* ### Wet vent:
+
+Plumbing codes allow wet vents when the fixture is close to a vent stack.
+
+* ### Loop vent:
+
+This is an alternative when re-venting and wet venting will not work. It involves installing a separate vent pipe through the roof.
+
+* ### Common vent:
+
+When there are two fixtures on opposite sides of a wall, such as two sinks in a bathroom, they will usually connect into the main vent stack via a common vent.
+
+[Learn More About Home Repair Plans Near You][1]{target="_blank"}
+
+## Why do your pipes need venting?
+
+Your plumbing system is there for two main reasons: to provide you with clean water and remove waste. In order to do that efficiently, the system needs both drainage and venting capabilities. The vent pipes work their magic every time you use a plumbing fixture - like flushing the toilet or draining the bath - to help water and waste move properly through the drainage pipes.
+
+## Where should you install venting?
+
+Plumbing vents should be on the roof so that fumes evaporate away from windows, doors and cooling units and other areas where the unwanted gases could sneak into your home. According to _Home Guide SF Gate_, plumbers generally [combine vents and pipes so that they all connect to the main vent stack](https://homeguides.sfgate.com/easiest-way-vent-bathroom-plumbing-69544.html){target="_blank"}.
+
+I think of it as a stack of LEGOs, giving each piece a designated location and position. The drain pipes should slope downward, for instance, while vent pipes face upward and connect near the roof. The golden rule is to install the vent higher on the stack than the drain connection. Plumbing codes also determine the distance between fixtures and vent pipes, so be sure to consult with a professional before installing or repairing any venting in your system.
+
+## What are the signs of trouble to know?
+
+If your plumbing air vents or stacks start to malfunction, the tell-tale signs are [drainage problems](/en-us/blog/how-to/plumbing-drainage-problems){target="_blank"}, such as suspicious gurgling sounds coming from your drains, slow draining from sinks or bathtubs and other water flow interruptions.
+
+If your [DIY plumbing repair](/en-us/blog/home-improvement/plumbing-system-maintenance-tips){target="_blank"} attempts fail to fix the issue, don't hesitate to [call a professional plumber](/en-us/blog/home-improvement/professional-plumber-repairs){target="_blank"} to diagnose the issue. The sooner you get an expert on the case, the less likely you are to cause costly damage to your pipes and venting system.
+::::
+
+Being prepared for plumbing repairs before they arise is always a good strategy. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}

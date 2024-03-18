@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Replace a Radiator Vent or Valve?"
+headline: "How Much Does It Cost to Replace a Radiator Vent or Valve?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-09-26
+basePath: https://library.homeserve.com/m/
+heroImage: 2db6d2d5d956a2ee/Blog-GettyImages-1072789340.jpg
+heroAltDescription: "male plumber working on a residental radiator"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "You can sometimes fix a broken radiator valve yourself, but you'll usually need to replace the part with a new one. Here’s a look at how much that costs."
+articleAbstract: "Problems with your radiator? You can sometimes fix a broken radiator valve yourself, but you'll usually need to replace the part with a brand-new one. Here’s a look at how much that costs."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Replace a Radiator Vent or Valve?"
+  parent: HVAC-Cost-Guide
+---
+  The valves inside your radiator are essential for controlling the temperature of your room. All radiators have two valves: one to control how much water enters the radiator and another to control how much water leaves it. A broken radiator valve isn't usually a plumbing emergency, but it can leave you feeling chilly if a valve develops a fault during winter.
+
+**This May Also Interest You:** [**How to Bleed Your Radiator**](https://www.homeserve.com/en-us/blog/how-to/bleed-furnace/)
+
+You can sometimes fix a broken radiator valve yourself, but you'll usually need to replace the part with a brand-new one. Here’s a look at how much that costs.
+
+Signs Something Is Wrong With Your Radiator Valve
+-------------------------------------------------
+
+The most obvious sign that something is wrong with a radiator valve is that twisting the valves doesn't change the amount of heat the radiator produces. However, there are a few other signs that a new radiator valve is in order.
+
+Radiator valves can sometimes get jammed, especially if you leave the radiator off for long periods without turning the valve. You can often fix this problem by spraying the valve pin with a little WD-40. If this doesn't work, or you notice water leaking from the valve, it's often quicker and easier to replace the valve than attempt to repair it. You can fix a leaking valve temporarily with plumber’s tape while you wait for a replacement part.
+
+A radiator that doesn't heat up or has cold patches can also indicate a problem with one of the valves. However, it could also be a sign that you need to bleed the radiator. You don't need to replace your radiator valve if bleeding the radiator resolves the issue.
+
+How Much Does It Cost to Replace a Radiator Valve?
+--------------------------------------------------
+
+According to data from [HomeGuide](https://homeguide.com/costs/home-radiator-repair-cost#:~:text=Replacing%20a%20radiator%20valve%20costs,technician%20to%20fix%20a%20radiator.), replacing a radiator valve costs between $10 and $60 (CAD 13 to CAD 80) for the part itself.
+
+How much it costs to hire a professional to replace the valve depends on whether you choose a plumber or an HVAC technician. [Plumbers](https://homeguide.com/costs/plumber-cost) usually charge between $45 and $150 (CAD 60 and CAD 201) per hour, and [HVAC technicians](https://www.lawnstarter.com/blog/cost/hvac-repair-price/#:~:text=Generally%2C%20you%20can%20expect%20to,repair%2C%20including%20labor%20and%20parts.) are more expensive at $60 to $150 (CAD 80 to CAD 201) per hour.
+
+Overall, a radiator valve replacement costs between $100 and $350 (CAD 134 and CAD 468) if you hire a professional to do it for you. You may have to pay more if you need the work done outside regular working hours or at short notice in an emergency.
+
+**More Related Articles:**
+
+*   [Is It Safe to Put Things on or Near Your Radiator?](https://www.homeserve.com/en-us/blog/home-improvement/can-you-put-items-on-radiator/)
+*   [It’s Too Hot in Here! How to Turn Down Your Radiator](https://www.homeserve.com/en-us/blog/how-to/turn-down-radiator/)
+*   [Noisy Radiator: Why Does My Heating System Clang?](https://www.homeserve.com/en-us/blog/home-improvement/heating-system-clang/)
+*   [How to Fix a Radiator Leak in 4 Steps](https://www.homeserve.com/en-us/blog/how-to/fix-radiator-leak/)
+*   [Everything You Need to Know About Boilers](https://www.homeserve.com/en-us/blog/buying-guide/boilers/)
+
+How Long Does It Take to Replace a Radiator Valve?
+--------------------------------------------------
+
+It usually takes around 90 minutes to replace a radiator valve, but a professional plumber or HVAC technician may complete the job faster. It's essential to turn off your heating system and allow your radiators to cool down before the technician arrives so that they can begin work right away.
+
+How Often Should You Change Radiator Valves?
+--------------------------------------------
+
+Radiator valves can last up to 10 years or longer, and there's generally no need to change them if they're still functioning correctly. However, thermostatic radiator valves can become less accurate with age, so it's a good idea to upgrade the heads at least every 10 years. Consider replacing the entire valve if you notice a decline in its performance.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

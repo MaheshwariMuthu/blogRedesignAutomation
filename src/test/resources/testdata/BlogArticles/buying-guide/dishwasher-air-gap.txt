@@ -1,0 +1,54 @@
+---
+layout: layouts/post-layout.njk
+titleTag: What Is Dishwasher Air Gap and What Does It Do?
+headline: Ever Wonder What A Dishwasher Air Gap Is?
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'DIY']
+publishDate: 2019-07-24
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: fixing_dishwasher.jpg
+heroAltDescription: What Is Dishwasher Air Gap and What Does It Do?
+metaDescriptions: A dishwasher air gap is an essential part of dishwasher installation, so you should always research it before working on a dishwasher.
+articleAbstract: A dishwasher air gap ensures your machine remains sanitary. Here’s what else you need to know.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: What Is Dishwasher Air Gap and What Does It Do?
+  parent: Appliances-Buying-Guide
+---
+
+::: blog-info
+I'll admit it, I never thought about the inner workings of my dishwasher until it started [giving me issues](/en-us/blog/home-improvement/common-dishwasher-problems){target="_blank"}, and I had to figure out why the dishes weren't coming out clean. When someone asked me if I’d checked the “dishwasher air gap”, I had no idea what they were talking about. So, that prompted me to Google how dishwashers work. _(I’m somewhat of a self-proclaimed expert now.)_
+
+[1]: {{ migrationData.planspage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+What I learned is: Your dishwasher is connected to the same plumbing infrastructure as the rest of your kitchen, meaning it's eerily close to the dirty drain water that flows down your sink. If there's a clog in your drains, that dirty water could flow back up into your dishwasher, contaminating your kitchen's sanitation haven. Lucky for you, the dishwasher air gap is there to prevent such an unfortunate event from plaguing your appliance.
+
+### So what is a dishwasher air gap anyway?
+
+Usually fitted to an existing hole on the sink or countertop and covered with a decorative cap, a dishwasher air gap connects to hoses below the sink or countertop. One is the dishwasher drain hose and the other typically connects to the sink's drain pipe or garbage disposal.
+
+As the unit runs, the dishwasher pump pushes wastewater to the air gap so it can exit through the drain hoses. If there is a backup or build up in pressure, the air gap also pushes fresh air into the hoses to prevent dirty water to flow back into the dishwasher. The process is essential for preventing cross-contamination between pipes and backflow into the dishwasher.
+
+### Does your dishwasher have an air gap?
+
+I know, after all this talk about dirty sink water, why wouldn't you want to have a dishwasher air gap? Well, some building codes only require minimal ventilation systems, so if you can't find an air gap in your kitchen, odds are your area doesn't consider it a compulsory component. However, if you're planning on [installing a new dishwasher](/en-us/blog/how-to/install-dishwasher){target="_blank"} any time soon, be sure to check local building and plumbing codes to determine if you should be including an air gap.
+
+[Learn More About Home Repair Plans Near You]({{ migrationData.planspage }}){target="_blank"}
+
+### Do you need to do anything with the air gap?
+
+Your dishwasher air gap will generally get on with its business with little necessary maintenance. However, cleaning it regularly can prevent blockage issues. To do so, simply remove the cover and unscrew the plastic cap. _DoItYourself_._com_ recommended [removing the air gap entirely](https://www.doityourself.com/stry/how-to-measure-copper-pipe-fittings){target="_blank"} so you can flush it with water and wipe away debris. While you have visibility to the hoses, check it for clogs. If you see any signs of trouble, you can remove them to rinse and dry. Once you get everything back in place, be sure to check for leaks during the next dishwasher cycle.
+
+If you want to install an air gap for your existing dishwasher, you can [purchase a kit and follow this step-by-step guide](https://homeguides.sfgate.com/install-dishwasher-airgap-kit-40857.html){target="_blank"} from _SFGate Home Guides_. Alternatively, a licensed plumber can easily handle the project.
+
+Maintaining the air gap goes hand in hand with overall dishwasher upkeep. For instance, [loading your dishwasher](/en-us/blog/how-to/load-dishwasher){target="_blank"} correctly and cutting down on excessive water use can boost the appliance's efficiency. And while it may feel a tad counterintuitive, you should clean your entire dishwasher about once a month.
+
+Being prepared before dishwasher and other plumbing system issues arise is always a good strategy. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+:::

@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Size a Window Air Conditioner: What to Know About BTUs"
+headline: "New to BTUs? Here's What to Know About BTUs When Shopping for an Air Conditioner"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-09
+basePath: https://library.homeserve.com/m/
+heroImage: 3badbb526cc8ad4f/Blog-FrigidaireWindowACUnit_AWiesen_011.jpg
+heroAltDescription: "window ac unit"
+metaDescriptions: "BTUs are an important measurement to consider when shopping for an AC unit. Find out more in this guide."
+articleAbstract: "BTUs aren’t a standard measurement we use in day-to-day life, so you’re not alone if you have no clue what they stand for. Here’s everything you need to know about BTUs when it comes to picking out an air conditioner."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What to Know About BTUs When Shopping for an AC Unit?"
+  parent: HVAC-Home-Improvement
+---
+  It’s just _too_ hot out, so you’ve finally given in: Time to get an air conditioner. If this is your first time shopping for an AC unit, your first concern is probably what size unit you need. One of the metrics you might encounter is the BTU — or British Thermal Unit.
+
+**This May Also Interest You:** [**What Is a BTU?**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-btu/)
+
+BTUs aren’t a standard measurement we use in day-to-day life, so you’re not alone if you have no clue what they stand for. Here’s everything you need to know about BTUs when it comes to picking out an air conditioner.
+
+Determining Your Air Conditioning Needs
+---------------------------------------
+
+One of the first things you need to do when considering an air conditioner is to determine what solution suits your budget and needs. For some, getting a central air system installed might be the best option. For others, installing a window unit or using a portable model could be more appropriate. All systems have their pros and cons, so it’s important to look at the specifics to see which will be the right fit for you.
+
+For many people — especially if they're renting or otherwise unable to commit to a full ductwork installation — a window or portable AC unit is a good choice. Window units and portable ACs are sized differently than central air systems because they’re meant to cool down a room, not your entire house. For that reason, window and portable units are often sized in BTUs — and they’re the models we’re discussing in this guide.
+
+What Are BTUs in Air Conditioning?
+----------------------------------
+
+BTUs are the standard unit of measurement for thermal energy. One BTU is the amount of heat required to raise the temperature of 1 pound of water by 1 degree Fahrenheit. When it comes to air conditioning, it’s representative of how much heat a unit can remove from a room per hour. A 4,000-BTU air conditioner, for example, removes 4,000 BTUs of heat from a room per hour.
+
+Is Higher BTU Better?
+---------------------
+
+Higher BTU numbers do mean that a unit will remove more heat from a room per hour. But higher isn’t automatically better; it’s also important to account for the size of the room. Even though you might find a higher BTU AC, it could be more than what your room needs. You don’t want to overspend and make the room too cold at the same time.
+
+What Size Room Is a 5,000-BTU Air Conditioner For?
+--------------------------------------------------
+
+For ideal fitment, it’s best to plan for the size of the room. According to [Energy Star](https://www.energystar.gov/products/heating_cooling/air_conditioning_room), a 5,000-BTU unit is good for between 100 and 150 square feet. This is both for optimal cooling as well as energy efficiency. So, depending on the square footage of the space you need to cool off, you might need a unit capable of a much different BTU output.
+
+For instance, a 7,000-BTU air conditioner can cool a 250- to 350-square-foot room. If you need to cool a 500-square-foot space, you’ll need an AC unit rated for 12,000 BTUs.
+
+There are other factors beyond the room size to consider, too. Whether or not the room gets excessive sun or shade can also alter the recommendations for capacity. For best results, a good rule of thumb would be to increase or decrease by 10%, depending on which situation applies to you.
+
+**More Related Articles:**
+
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [Hot or Cold in Your Household? Split the Difference With a Mini Split Air Conditioner](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/)
+*   [No AC? No Sweat. Here’s How to Keep Cool](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+
+Other Considerations When Choosing an AC Unit
+---------------------------------------------
+
+When you’re deciding on the number of BTUs you need, you should consider factors beyond just room size. Airflow for the room is absolutely crucial. It doesn’t matter if the air coming out of the unit is cold; if it doesn’t circulate properly, you’ll just end up with uneven temperatures in the space.
+
+Consider what will be happening in the room and what kinds of appliances or devices might be used within it. Rooms with specialty lighting that produces heat will need to be treated differently. So too will rooms like the kitchen or laundry areas, because they are filled with appliances actively producing additional heat.
+
+So, What’s Best?
+----------------
+
+If you’ve looked at all of this information and decided on the number of BTUs you need, the next step is to compare different models. As with most everything else, there’s not necessarily a best air conditioner model for everyone. There can be a best model for you, though. You have numerous choices, so be sure to do your due diligence and compare based on how each fits your needs.
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8mzG-IJupUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

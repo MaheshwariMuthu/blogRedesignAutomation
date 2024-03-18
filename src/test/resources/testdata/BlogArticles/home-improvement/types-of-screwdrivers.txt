@@ -1,0 +1,133 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Screwdrivers: Different Types of Screwdrivers and Their Uses"
+headline: "What Are the Different Types of Screwdrivers and Their Uses?"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-04-28
+basePath: https://library.homeserve.com/m/
+heroImage: 6f4b3de7284164b1/webimage-ScrewdriverQuestionMark_MSchmitz_0001.jpg
+heroAltDescription: "assorted hand tools in question mark shape"
+metaDescriptions: "Whether you’re assembling a home-repair toolbox or just trying to find the right tool for the job, we got you. Here’s a primer on screwdrivers."
+articleAbstract: "here are dozens of different kinds of screwdrivers — and more cropping up all the time as manufacturers develop new types of screws. Luckily, there are really only a few varieties the average homeowner should keep on hand. Here’s a primer on screwdrivers."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Different Types of Screwdrivers and Their Uses"
+  parent: Interior-Home-Home-Improvement
+---
+  
+
+Shopping the screwdriver aisle at the hardware store can be intimidating, especially for the uninitiated. Do you need a flat head or a Phillips? What’s the difference between a 3/8-inch and a 7/16-inch? And do you need a full set, or can you make do with one “universal” model?
+
+**This May Also Interest You:** [**10 Must-Have Electrical Tools for DIY Projects**](https://www.homeserve.com/en-us/blog/home-improvement/electrical-tools/)
+
+There are dozens of different kinds of screwdrivers — and more cropping up all the time as manufacturers develop new types of screws. Luckily, there are really only a few varieties the average homeowner should keep on hand.
+
+<img class="detail-image" src="https://library.homeserve.com/m/14f430d7cce39ecd/Blog-Screwdrivers_Erossi_4235.jpg" alt="a set of Klein screwdrivers sits atop a leather tool pouch"/>
+
+Whether you’re building a home-repair toolbox or just trying to find the right tool for the job, we got you. Read on for a primer on screwdrivers.
+
+Types of Screwdriver Heads
+--------------------------
+
+Screwdrivers have three basic parts: the handle, shaft and head. Screwdrivers are usually categorized by the type of head they have. Here are some common ones:
+
+<img class="detail-image" src="https://library.homeserve.com/m/78fceb4dda48f50c/Blog-PhillipsScrewDriver_Erossi_4236.jpg" alt="close up of the back end of a phillips head screwdriver"/>
+
+### Phillips Head
+
+**AKA:** Cross head screwdriver
+
+If you only own one screwdriver, this is the one you want. Phillips head screws are as close to a universal screw as you can get in the U.S. You’ll find them almost everywhere, including in electronics and most home hardware applications.
+
+Phillips head screwdrivers and their corresponding screws were invented for the automotive industry in the 1930s. According to [Wired](https://www.wired.com/2011/07/0707phillips-screw-patent/), they’re designed to “cam out,” or slip out, of the head of a screw once it’s tight. This made for fast work on early assembly lines because the screwdriver lets you know when the screw is fastened. These days, many do-it-yourselfers dislike the cam-out of Phillips screwdrivers because it can result in damage to their projects from slipups, or to the screws themselves.
+
+**Sizes:** Construction equipment supplier [Tanner Bolt & Nut](https://resources.tannerbolt.com/articles/what-type-of-screw-is-this/) says sizes usually range from #0 to #4, though you can typically find larger and smaller ones. The most common size is #2.
+
+<img class="detail-image" src="https://library.homeserve.com/m/772b3b4da918c758/Blog-StandardScrewdriver_Erossi_4237.jpg" alt="The back-end of a flat-head Klein screw driver"/>
+
+### Flat Head
+
+**AKA:** Straight head, flat blade, slotted screwdriver
+
+In terms of screwdriver technology, flat head screwdrivers are the most basic model. [The Spruce](https://www.thespruce.com/screwdriver-flat-blade-1825053) says they date back to at least the 1500s. The blade is shaped like a chisel and (as you could probably guess) is flat. They fit into slotted screws, which have an indented line running through the diameter of the head.
+
+Depending on the size, flat head screwdrivers can also be used like a multitool. You can use them to pull up nails or pry open cans of paint. That said, you won’t find many slotted screws in the wild these days as they’re the worst when it comes to cam-out.
+
+**Sizes:** Flat head screwdrivers come in standard sizes, usually in fractions of an inch. Some common sizes are 1/8-, 3/8- and 1/4-inch.
+
+<img class="detail-image" src="https://library.homeserve.com/m/69346d3166bb4b55/Blog-GettyImages-1066104240.jpg" alt="An allen wrench tool kit made of canvas"/>
+
+### Allen Wrench
+
+**AKA:** Hex key, Allen key, hex screwdriver, Ikea wrench
+
+Even if you’ve never intentionally purchased a screwdriver, you might have one of these floating around in your junk drawer. If you do, it probably came with your Ikea or other put-it-together-yourself furniture. They’re also great for bike repairs.
+
+Hex or Allen keys may not look like the typical screwdriver with a distinct head, shaft and handle, but rather an L-shaped piece of metal with hexagonal ends. They fit into hexagon-shaped holes in screws.
+
+**Sizes:** Allen wrenches usually come in standard sizes, according to [Hunker](https://www.hunker.com/12003994/how-do-i-know-what-size-allen-wrench-i-need). 1/16-, 3/16- and 5/16-inch hex wrenches are common, but you can find them in many sizes. You can also find them in European sizes, measured in millimeters. Sometimes hex wrenches come in the package of screws they’re intended to be used with, so you may not need to worry about sizing at all.
+
+<img class="detail-image" src="https://library.homeserve.com/m/be126c1d5c055fa/Blog-TorxScrewdriver_Erossi_4234.jpg" alt="hand holding up a torx or star-bit screw driver"/>
+-------------------------------------------
+
+Torx
+----
+
+**AKA:** Star bit screwdriver
+
+Torx is a brand name. The head of a Torx screwdriver is a six-pointed star. According to [eHow](https://www.ehow.com/facts_6011714_torx-screwdriver_.html), you’ll find Torx screws on bikes, computers, car parts and more as they become more popular. Because of their shape, they’re particularly resistant to camming out. Many woodworkers are fans of these for that reason.
+
+**Sizes:** Torx screwdrivers come in whole-number sizes, usually stylized with a “T.” Sizes T10 and T25 are common.
+
+<img class="detail-image" src="https://library.homeserve.com/m/52a53e9bdde76c8a/Blog-TorxScrewdriver_Erossi_4233.jpg" alt="close up of a torx or star-bit screw drive"/>
+-------------------------------------------
+
+Less-Common Screwdriver Heads
+-----------------------------
+
+If you’re based in the U.S. and don’t do much construction or industrial work, the four screwdriver heads listed above are probably the only ones you’ll ever encounter. However, there are dozens more, like:
+
+* **Japanese Industrial Standard**: These are cross-shaped and look a lot like Phillips head screwdrivers. Occasionally, they can be used interchangeably.
+* **Tri-Wing and Tri-Point:** You’ll often find these in small sizes. According to [Popular Mechanics](https://www.popularmechanics.com/home/tools/g2809/11-strange-screws/), tri-wing or tri-point screws are used on electronics — namely Microsoft, Apple and Nintendo products — to encourage owners to seek professional repairs.
+* **Robertson:** These square-headed screwdrivers are popular in Canada.
+* **Pozidriv:** This also looks like a Phillips. Pozidriv screws are eight-pointed. They have a cross-shaped slot, plus a shallower, X-shaped slot imposed on top. They’re popular in Europe.
+
+**More Related Articles:**
+
+*   [Home Maintenance Checklist: 15 Things to Do for Spring](https://www.homeserve.com/en-us/blog/home-improvement/spring-home-maintenance-checklist/)
+*   [5 DIY Home Fixes for Common Accidents](https://www.homeserve.com/en-us/blog/home-improvement/common-home-repair-accidents/)
+*   [Best Ways to Upgrade Your Home for Under $150](https://www.homeserve.com/en-us/blog/home-improvement/cheap-ideas/)
+*   [8 Easy DIY Home Maintenance Tips](https://www.homeserve.com/en-us/blog/home-improvement/home-maintenance-tips/)
+*   [4 Steps for Proper Electrical Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/electrical-maintenance/)
+
+Types of Screwdrivers
+---------------------
+
+Here are some the different types of screwdrivers, categorized by their respective functions:
+
+### Manual
+
+These screwdrivers are pretty basic. They have a head, shaft and handle, and you turn them with your hand. You can find right-angle variations that fit where a regular straight screwdriver couldn’t.
+
+### Ratcheting
+
+To fully unscrew a screw with a normal screwdriver, you either have to spin your hand 360 degrees or remove and reinsert the bit every time your hand twists as far as it can go in one direction. A ratcheting screwdriver fixes this problem. The head spins normally in one direction and stays put as you turn your hand back the other way.
+
+### Precision
+
+These are manual screwdrivers, only smaller. They can be used for electronics and jewelry. You usually find them in small box sets [like this one](https://www.staples.com/Stanley-6-Pieces-Precision-Short-Jewelers-Screwdriver-Set-0-1-Tip-Size-1-4-3-mm/product_601010?ci_src=17588969&ci_sku=601010&KPID=601010&cid=PS:CRL:GS:SBD:PLA:Fac&gclid=CjwKCAjw9r-DBhBxEiwA9qYUpT0QujE4VqDLcq9LIWssKzABdCBb11N4gCaq6ixmUgCTx59oPfwftxoCZicQAvD_BwE) or in eyeglasses repair kits. Sets typically come with Phillips, flat and sometimes Torx heads.
+
+### Magnetic
+
+According to [Bob Vila](https://www.bobvila.com/articles/best-magnetic-screwdriver/), magnetic screwdrivers attach to screws, which holds them in place as you fasten them for one-handed operation.
+
+### Electric
+
+This is not a drill! Actually, they’re a lot smaller than drills, and they’re meant to put screws into predrilled holes. They’re available in corded and cordless varieties. You can exchange the bits on some power drills to convert them into power screwdrivers.
+
+### Multi-Bit
+
+These have interchangeable bits in multiple sizes or types. Because the bits attach to the shaft magnetically, multi-bit screwdrivers are usually magnetic screwdrivers, too.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._

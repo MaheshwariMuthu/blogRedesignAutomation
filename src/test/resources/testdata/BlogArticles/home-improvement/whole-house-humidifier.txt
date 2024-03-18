@@ -1,0 +1,130 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Does Your Home Need a Whole-House Humidifier?
+headline: Does Your Home Need a Whole-House Humidifier?
+author: Team HomeServe
+tags: ["post", "HVAC"]
+publishDate: 2020-12-02
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: closed-humidifier.jpg
+heroAltDescription: A newer hvac-mounted humidifier unit
+metaDescriptions: Installing a whole-house humidifier has lots of benefits, including reducing illness, preserving your furniture and avoiding cracked, dry skin.
+articleAbstract: Installing a whole house humidifier can provide a host of benefits, including limiting infections like the flu, colds and other respiratory conditions. In addition to helping your health, the system can also help preserve wood floors and furniture, musical instruments, and even the paint on your walls.\
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local HVAC contractor.
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+
+eleventyNavigation:
+  key: Does Your Home Need a Whole-House Humidifier?
+  parent: HVAC-Home-Improvement
+---
+
+:::: blog-info
+You know when it&#39;s happening: the cool breezes, the shorter days, the morning frost that blankets your front lawn. Winter is on its way. That&#39;s the season to don those wool sweaters and socks, make some hot cocoa, and get cozy. But, while there&#39;s plenty to love about the colder months, they also bring with them a host of potential discomforts. As the temperature starts to drop, the air becomes much drier — and this arid air can wreak havoc on both our bodies _and_ our homes.
+
+**This May Also Interest You:** [**A Mist Opportunity: 5 Ways a Humidifier Helps Your Home be Healthier**](/en-us/blog/home-improvement/humidifier-health-benefits/)
+
+Overly dry air can cause cracked skin and lips, itchy eyes and irritated nasal passages. It can even damage your wood furniture and finishes by causing them to shrink and crack. Low humidity can also increase the occurrence of static electricity in your home. One way to address the potential discomfort and damage is to install a whole-house humidifier.
+::::
+
+## Getting Dryness Under Control
+
+If the low humidity in your home is causing you some of these problems, it&#39;s time to take action. If you notice the problem is relegated to a particular room — due to poor insulation, perhaps — then a small humidifier might be the best solution. These are best used in limited capacities and in smaller spaces, say, in your bedroom overnight.
+
+However, for more widespread and persistent issues, you may want to consider installing a whole-house humidifier, or central humidifier, on your home&#39;s heating, ventilation and air conditioning system. These devices provide a steady stream of moisture to every room in your house and can help regulate the humidity levels throughout the year.
+
+<img class="detail-image" src="/en-us/assets/images/blog/home-improvement/humidifier-control.jpg" alt="HVAC return with a humidifier controller"/>
+
+## What Is a Whole-House Humidifier?
+
+Whole-house humidifiers are attached directly to your home&#39;s HVAC system and work by bringing water vapor into the ducts. A distribution tray helps disperse the humidity throughout your house while you adjust the levels from the thermostat.
+
+Installing a whole-house humidifier can provide a host of benefits. Because viruses survive longer in low humidity, a dry house can make you overly susceptible to infections like the flu, colds and other respiratory conditions. In addition to harming wood floors and furniture, dry air can also damage musical instruments, and can even cause paint to crack. What&#39;s more, an overly dry house may lead to dry nasal passages, sore throats and other sinus discomfort.
+
+When looking to purchase a whole-house humidifier, keep in mind that there three main types: steam, drum and flow-through humidifiers.
+
+## Steam Humidifiers
+
+Steam humidifiers work alongside your heating system to convert water into steam before it&#39;s introduced into your duct system. Water is first collected in a reservoir and then heated into steam before being distributed throughout your home.
+
+Steam humidifiers work especially well in homes that utilize heat pumps. Heat pumps generally produce heat at a lower pressure than gas furnaces. Because they use their own heat source, they are able to generate more moisture throughout your home by working in tandem with the low-pressure heat pump system.
+
+Steam humidifiers are typically the most energy-efficient whole-house humidifying option. Although they&#39;re generally more expensive ($300-$1,000) than other humidifiers, they can save you money in the long run on energy costs.
+
+## Drum Humidifiers
+
+Drum humidifiers harness the power of evaporation to humidify your home. Air produced by your HVAC system moves through a bypass tube that contains the humidifier, moisturizing the air as it passes through the duct system.
+
+Also known as a reservoir humidifier, these humidifiers comprise a revolving drum and an absorbent pad (also called a water panel or filter) that soaks up water from a reservoir. When the air moves through the bypass tube, water evaporates from the pad and mixes with the flow.
+
+While drum humidifiers are incredibly efficient, water can sometimes stay sitting in the drum for extended periods of time. The stagnant water can become a breeding ground for certain dangerous bacteria that can make you pretty sick.
+
+Drum Humidifiers are generally regarded as the most affordable humidifier option, costing between $75 and $200.
+
+<img class="detail-image" src="/en-us/assets/images/blog/home-improvement/opened-humidifier.jpg" alt="humidifier filter"/>
+
+## Flow-Through or Moisture Pad Humidifiers
+
+Like drum humidifiers, flow-throughs use evaporation to increase humidity in your home. But unlike drum humidifiers there aren&#39;t any moving parts or electricity to contend with. Instead, the water dampens the water panel, then hot air from the HVAC passes through the pad and the moisture is carried through the duct system and into your home.
+
+Another key difference between these and drum humidifiers has to do with the water source. Flow-throughs attach directly to your water source and do not utilize a reservoir or drum, which reduces the potential for contaminated water. However, because it must attach directly to your water source, a flow-through humidifier must also have some form of drain pipe system like a sump pump. Flow-through models can cost anywhere from $200-$300.
+
+## How to Clean and Maintain a Whole-House Humidifier
+
+Because of the potential for bacteria and mold growth, it&#39;s essential that you properly clean and maintain your humidifier. For example, most manufacturers recommend that you replace your humidifier&#39;s water panel filter at least once a year — although it&#39;s probably a good idea to replace it more often. However, some models offer washable water panels, allowing you to soak your filter in cold water to dissolve away the dirt and grime. Then, drain the water, rinse the filter and wipe it down, and you&#39;re good to go.
+
+To clean your humidifier&#39;s reservoir, follow these steps:
+
+- First, be sure to empty it out completely.
+- Then, fill it to roughly two-thirds full.
+- Add a drop or two of bleach to kill any existing bacteria growth.
+- Make sure all walls and corners of the reservoir have been cleaned by the water/bleach mixture.
+- When you&#39;re done, simply rinse and reattach the reservoir.
+
+<br>
+
+Because they lack evaporator pads, steam humidifiers generally require the least annual maintenance. Still, it&#39;s important to ensure that the connecting pipes and the reservoir are clean and deposit-free. You can use the same bleach mixture, or instead, a 1:3 vinegar-to-water mixture that will effectively dissolve any buildup.
+
+Regardless of the type of humidifier you have in your home, it&#39;s essential that you have a plan for long-term idle periods of time. If you turn off your humidifier, or are away from your home for more than a few days, you should make sure that you completely drain your humidifier&#39;s reservoir. Then, remove it and store it in a spot where it can stay dry and cool.
+
+## What About During the Summer?
+
+Sure, maintaining optimal humidity levels in your home during the dry, cold season is a no-brainer — but what about during the hot, humid summer months? Although many owners shut down their humidifiers during this season, there are quite a number of arguments for keeping it running year-round.
+
+For example, running the air conditioning can make the air in your home dry, causing many of the same discomforts you may experience during the winter months, including itchy eyes, sore throat and headaches. Furthermore, summer is a major allergy season, and allergy symptoms can be compounded by dry air.
+
+For that reason, whole-house humidifiers are a great solution to combat these summer maladies. Using a humidifier in the summer can also help improve the air quality in your home. What&#39;s more, proper humidity levels can aid in your body&#39;s ability to clear up infections and congestion.
+
+Finally, although it sounds counterintuitive, using a humidifier in the summer can actually keep you cooler. For one, an AC unit working in conjunction with a humidifier can keep your room cooler for longer periods of time. Adequate moisturized air will make you feel cooler, thus allowing you to raise the temperature of your AC and use less energy.
+
+## Are Whole-House Humidifiers Always the Best Option?
+
+Just because your air is too dry in your home, it doesn&#39;t necessarily mean you need to install a humidifier on your HVAC system immediately. Although these centralized units can do wonders for maintaining proper humidity levels, they also can create some potential issues.
+
+Home humidifiers can cause mold to grow in your house. Mold needs cold surfaces to grow, and in the winter there are plenty of places for mold to grab hold of. You may not realize it, but a mold problem can develop quickly, and often without you noticing. It doesn&#39;t always grow up and down your walls, instead — and even more often - it grows inside your duct system and blows moldy air particles throughout your house. If this ends up happening, dry air is the least of your concerns. Mold in your home can present itself in a number of ways and can even make you dangerously ill. If you do opt for a home humidifier, it&#39;s crucial that you&#39;re aware of the potential for mold growth.
+
+Before installing a whole-house humidifier, it&#39;s important to first identify why your home is too dry in the first place. More than likely, you have places throughout your home that are allowing air to both enter and escape.
+
+The best way to identify air leakages in your home is through a blower door test. These tests measure your home&#39;s air tightness. A powerful fan is mounted to an exterior door and pulls air outside of the house, thus lowering the air pressure of the house and measuring the air infiltration rate of your home.
+
+Even if you end up installing a humidifier in your home, you need to make sure you seal air leakages properly. Not doing so will both limit the effectiveness of your humidifier and will create more opportunities for mold growth in your home.
+
+## Best Practices for Whole-House Humidifiers
+
+If you do choose to install a whole-house humidifier in your home, it&#39;s vital that you understand how to operate it properly. Humidity levels must be set according to the temperature in the room. If humidity levels are too high, condensation can collect inside the duct system, leading to the potential for rust or mold growth. High humidity levels inside your home can also lead to condensation appearing on your windows, which again, can drip down into the walls and create the potential for mold growth.
+
+Certain home humidifiers offer sensor technology that detect humidity levels and can tell you when you need to engage your humidifier system. It&#39;s a great way to combat the moisture problems that commonly present themselves. In general, humidity levels are considered low when they&#39;re below 30%. Ideally, you want the humidity in your home to be between 40% and 50%.
+
+## Plenty of Clean Air to Share
+
+Whole-house humidifiers can offer a great way to improve the air quality inside your home, but they&#39;re not the only solution. Because of the inherent risks associated with whole house humidifiers, make sure you really need one before you purchase one. Although these central units can greatly increase the humidity levels in your home, they aren&#39;t air purifiers, and many irritants can still be present in the air in your home.
+
+That said, whole house humidifiers can be a great solution. Optimal humidity levels are not just more comfortable for you and your family, but also help maintain the furnishings inside your home. By adding a whole-house humidifier to your home, you&#39;ll be able to adjust humidity levels as you see fit. Proper humidity can even make you feel warmer in the winter months, leading to energy savings.
+
+If you decide to install one, ensure that it&#39;s used properly and maintained often. While you can attempt the installation yourself, unless you&#39;re very experienced at home improvement projects, the job is best left to an HVAC technician, who can also help you determine the best type of humidifier for your home. Professional installation of a system should cost no more than $1,000, and is often much less depending on where you live and the type of system you choose.
+
+_Plus, because your whole-house humidifier relies on your HVAC system to operate, you&#39;ll want to make sure that it stays in tip-top shape. When you&#39;re prepared with an appliance plan from HomeServe, you can keep your appliances and working properly. When an issue arises, you can call our 24/7 repair hotline, and we will send a local, expert technician to handle repairs, up to the benefitted amount. Learn more about [plans from HomeServe](/) today._

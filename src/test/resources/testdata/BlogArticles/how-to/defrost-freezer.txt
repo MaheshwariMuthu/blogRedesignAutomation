@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Defrost a Freezer"
+headline: "Defrosting, Demystified: Here’s How Often You Need to Defrost Your Freezer"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-03-23
+basePath: https://library.homeserve.com/m/
+heroImage: 2dc2892b2f09e28c/Blog-GettyImages-538235137.jpg
+heroAltDescription: "close up shot of a residential freezer covered in frost "
+metaDescriptions: "How often should you defrost your freezer? Get the answer — and some defrosting techniques — here."
+articleAbstract: "You should defrost your freezer at least once every year, or more often if you have a lot of frost buildup. Here's what you need to know about defrosting."
+category: ["How To"]
+eleventyNavigation:
+  key: "Why, How and How Often Do I Need to Defrost My Freezer?"
+  parent: Appliances-How-To
+---
+  Freezers are designed to preserve food by keeping it frozen — so how can frost be a bad thing? Too much frost can actually make your freezer run less efficiently. It can also cause inconveniences like stuck freezer drawers and unpleasant smells. Excessive frost can even lead to freezer burn, degrading the food you store there.
+
+**This May Also Interest You:** [**Freezer Not Freezing? Chill Out! Here are 3 Ways to Fix Common Problems**](https://www.homeserve.com/en-us/blog/how-to/fix-your-freezer/)
+
+So, how often do you need to need to defrost a freezer? And what are some effective ways to do that? Everything you need to know, below.
+
+Why Is My Freezer Frosting Up?
+------------------------------
+
+Frost can build up inside your freezer for many reasons:
+
+*   Your freezer is over-filled with food
+*   Your freezer is left empty or nearly empty for long periods
+*   The freezer is left open for long periods, introducing humidity
+*   You put hot items or moist packaging directly into the freezer
+
+To avoid problems, never put hot food into the freezer. Allow it to cool first. If you buy food at the grocery store and it's partially defrosted by the time you get home, wipe the condensation off with a cloth before putting the food away.
+
+### How Often Should I Defrost My Freezer?
+
+Ideally, you should defrost your freezer at least once a year. It's also a good idea to defrost your freezer if the ice buildup is more than ¼ inch in thickness. Defrosting your freezer is an important maintenance task. Performing regular maintenance can keep your freezer working efficiently, which could help you avoid costly service charges down the line.
+
+How Long Does It Take to Defrost a Freezer?
+-------------------------------------------
+
+This depends on how large the freezer is and how much ice has accumulated. A large chest freezer with a significant amount of ice could take 24 hours to defrost properly. A two or three-drawer freezer may defrost much more quickly.
+
+**More Related Articles:**
+
+*   [Common Refrigerator Problems and How to Fix Them](https://www.homeserve.com/en-us/blog/home-improvement/common-refrigerator-problems/)
+*   [5 Best Smart Refrigerators for Various Household Needs](https://www.homeserve.com/en-us/blog/buying-guide/the-best-smart-refrigerators/)
+*   [Check Out the Average Cost to Service These Top 3 Refrigerator Brands](https://www.homeserve.com/en-us/blog/buying-guide/average-cost-service-refrigerator-repair/)
+*   [4 Ways to Make Your Refrigerator More Efficient](https://www.homeserve.com/en-us/blog/home-improvement/refrigerator-efficiency-tips/)
+*   [Every Cost You Need to Know About With Refrigerator Repair](https://www.homeserve.com/en-us/blog/cost-guide/refrigerator-repair-costs/)
+
+How to Defrost a Freezer
+------------------------
+
+To defrost your freezer, you will need:
+
+*   Plastic spatula
+*   Ice scraper
+*   Cooler box
+*   One or two large bowls
+*   Kettle for boiling water
+*   Towels
+
+Follow these steps to defrost your freezer:
+
+1\. Try to make as much space in the freezer as you can, either by using up food or moving any items you want to keep frozen into a cooler box to keep them from defrosting.
+
+2\. Once your freezer is empty, remove the drawers (if necessary) and turn off the freezer. Scrape out any loose chunks of ice with a spatula. Break up as much ice as you can to speed up the defrosting process.
+
+3\. Leave the door open and let nature take its course. Place some towels in front of the freezer to catch any excess water. Some freezers have a drainage hose that helps with the removal of excess water. If your freezer has this feature, use shims to raise the front of the freezer slightly, directing water flow to the back. Place the hose in a bowl or bucket to catch excess water.
+
+4\. If your freezer has a lot of excess ice in it, fill a bowl with boiling water and place it on top of a towel inside the refrigerator. The towel is there to protect the coils of the freezer and mop up melting ice. Do not put a hot bowl directly onto the surface of the freezer because the heat may damage the appliance.
+
+5\. Wait for the ice to melt, then use an ice scraper to clear as much melted ice as possible.
+
+6\. Once you've removed all the ice, clean the walls of the freezer with a mixture of baking soda and hot water. Next, use a towel to remove all of the excess water from the freezer. 
+
+7\. Turn the freezer back on and replace the drawers. You can now put your frozen food in the freezer. Take care not to overfill it.
+
+This basic maintenance task should help you avoid common freezer problems and may even reduce your electricity bills.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="394" height="281" src="https://www.youtube.com/embed/XuHWMDQd4zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

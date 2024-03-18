@@ -1,0 +1,55 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to fix Shower Drain smells
+headline: 5 ways to keep Drains smelling fresh
+author: Team HomeServe
+tags: ['post', 'Tips & Lists']
+publishDate: 2017-09-07
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: drains.jpg
+heroAltDescription: Kitchen Drain
+metaDescriptions: Thankfully, there are a few easy steps you can take to ward off these awful drain odors for good. Read on to learn more.
+articleAbstract: 'Let’s face it: your drains handle a lot of the dirty work around the home. Whether it’s your gutters ferrying away excess rainwater or your garbage disposal shredding your leftover dinner scraps'
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: How to fix Shower Drain smells
+  parent: Plumbing-Home-Improvement
+---
+
+Let’s face it: your drains handle a lot of the dirty work around the home. Whether it’s your gutters ferrying away excess rainwater or your garbage disposal shredding your leftover dinner scraps, your drainage systems may eventually start to smell foul. Thankfully, there are a few easy steps you can take to ward off these awful odors for good. Read on to learn more.
+
+## Check your pipes for obstructions
+
+If your drain pipes are stopped up with food and other such debris, they may emit an unpleasant odor. This is because the clogged matter begins to decay within the pipe while it stays lodged somewhere along the plumbing. A plunger or sump-pump can help resolve the clog.
+
+Kitchen drains are not the only ones prone to nasty odors—bathroom drains can smell, too. These stenches are most often caused when hair gets washed down and trapped in your pipes, which slows draining and subsequently allows odors to take hold. You can get shower and bathtub strainers at any home improvement, hardware, or plumbing supply store—these work pretty well in keeping hair and other debris out of your bathroom plumbing.
+
+## Schedule routine maintenance
+
+As mentioned above, it is natural for a drain pipe to smell bad. However, merely resolving the issue once won’t keep the stench away forever. Once a week (make it a regular part of your weekly cleaning schedule), pour boiling hot water down your drains. For a long-term solution, make sure to have a professional check your pipes on a regular basis to ensure that they perform their duties at optimum effectiveness, and keep nasty debris from accumulating and stinking up your plumbing.
+
+## Pick your style of deodorizing
+
+Every household seems to have its own remedy for stinky drains and many of them are quite effective. Some utilize the simple method of dousing drains with white vinegar, boiling water, or essential oils with boiling water, while others favor a mix of soap or baking soda with lime, or even ice and rock salt. You can truly take your pick.
+
+One of the most effective solutions we’ve found makes use of vinegar and lime. Here are a couple tips on how to use this method to clean your drains:
+
+<iframe loading="lazy" area-hidden="true" class="video-frame" width="560" height="315" data-src="https://www.youtube.com/embed/eLR-tXGquVs?rel=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fwww.homeserve.com" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media" id="574914408"></iframe>
+
+::: list-disc
+* Fill an ice tray halfway with vinegar, then drop a wedge of lime in the center of each cube. Once frozen, dump these vinegar-lime ice cubes into your garbage disposal system to clean your unit’s blades and the drain pipes while replacing foul odors with a citrus-fresh scent.
+* If your sink doesn’t have a disposal system, you can mix vinegar and lime juice together and pour down the drain to flush the bad smells out of your pipes. Be sure to rinse afterwards with hot water.
+:::
+
+## Use a drain screen
+
+If you do not use an in-sink garbage disposal system, you should consider using a screen over the sink drain and other drain holes. This will prevent any solid matter from entering your drain pipes, keeping it free of gunk and grime.
+
+## Go easy on your drains
+
+Be mindful of what you dispose of in your drains. Do not pour grease, chemicals, paints, or adhesives down the sink. Try not to dispose of food in the sink that could get clogged in the pipes. Remember, any decaying matter in your plumbing line may cause your drains to smell bad. Often times a dishwasher can be a culprit – if your dishwasher isn’t draining [please read this!](https://www.familyhandyman.com/appliance-repair/dishwasher-repair/dishwasher-not-draining/view-all/){target="_blank"}
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5j759jOLiwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

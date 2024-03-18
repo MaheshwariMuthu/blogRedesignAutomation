@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Do Building Codes Mean for DIY Projects?"
+headline: "What Do Building Codes Mean for DIY Projects?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-12
+basePath: https://library.homeserve.com/m/
+heroImage: 6efd589f9468db34/Blog-GettyImages-1279745263.jpg
+heroAltDescription: "Building Permit - Construction Permit: with blueprints and hardhat"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Before you start the project you’ve been dying to tackle, here's what you should know about residential building codes."
+articleAbstract: "Before you start the kitchen remodel you’ve been dying to tackle, here are a few things you should know about residential building codes."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Do Building Codes Mean for DIY Projects?"
+  parent: Interior-Home-Home-Improvement
+---
+  These days, many homeowners are saving money on home renovations and repairs by doing the work themselves, and with the help of step-by-step video tutorials from industry pros, household DIY projects are easier than ever.
+
+**This May Also Interest You:** [**Why Do You Need a Building Permit and How Much Will It Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/building-permits/)
+
+Before you start the kitchen remodel you’ve been dying to tackle, here are a few things you should know about residential building codes.
+
+What Are Building Codes?
+------------------------
+
+Building codes are regulations that govern the construction or modification of residential or commercial buildings in a specific jurisdiction. They're designed to ensure a structure’s soundness and often reflect safety concerns, including the natural disasters a region is prone to. For example, a city located in an earthquake zone may mandate structural reinforcements that address shaking from even minor quakes, while areas impacted by hurricanes may require buildings to have impact-resistant windows or doors.
+
+Building codes may also regulate such things as:
+
+*   The number and placement of fire alarms
+*   The amount of ventilation
+*   The required number of bathrooms
+*   The positioning of electrical outlets
+
+What Are Some of the Most Common Types of Codes that Affect DIYers?
+-------------------------------------------------------------------
+
+Most DIY projects involve residential repairs and renovations, so homeowners typically need to understand and follow their local government’s residential code requirements. Although building standards can be extensive, common types of codes that DIYers bump into include:
+
+* **Plumbing codes:** DIYers completing kitchen or bathroom remodels need to know the [Uniform Plumbing Code](https://www.uniformcodes.org/plumbing-codes/) and any additional local regulations. These regulations govern the types of materials you can use, the placement of fixtures and legal water pressure levels.
+* **Electrical codes:** Electrical work should usually be left to a professional electrician, but if you’re going to tackle wiring projects yourself, you’ll need to understand the [National Electrical Code](https://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=70). The NEC regulates all aspects of wiring, including the appropriate circuit breaker to use and the need for tamper-resistant receptacles.
+* **Deck-building codes:** Building or expanding a deck is a common household DIY project, but adhering to the proper codes can be tricky since there isn’t a single specific deck-building code. Rather, for a deck to be code-compliant, it must follow building standards for railings, stairs, ledger boards and other structural elements.
+
+DIYers should also be aware of permitting codes, which can tell them which projects will need a construction permit. Plus, because building codes change over time, it’s important for DIYers to understand local regulations regarding when a building must be brought up to code.
+
+**More Related Articles:**
+
+*   [What Is a Home Improvement Loan and How Do You Get One?](https://www.homeserve.com/en-us/blog/home-improvement/home-improvement-loan/)
+*   [How to Knock Down a Wall: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/knock-down-wall/)
+*   [Should You Remodel or Move? Here’s How to Decide](https://www.homeserve.com/en-us/blog/home-improvement/remodel-or-move/)
+*   [Moving? Renovating? Here’s Everything You Need to Know About Short-Term Storage Costs](https://www.homeserve.com/en-us/blog/home-improvement/short-term-storage/)
+*   [What Do You Need a Property Survey for and How Much Does One Cost?](https://www.homeserve.com/en-us/blog/cost-guide/property-survey/)
+
+Why Is It Important to Follow Building Codes?
+---------------------------------------------
+
+Building codes are intended to protect the health and safety of a structure’s occupants, and DIYers who adhere to these local and national regulations can ensure a safer home that may be worth more on the market. These regulations may also serve as a blueprint for a well-done DIY job. However, for many DIYers, the most compelling reason to follow building codes is to avoid the consequences that may arise if you fail to comply.
+
+Whether you’ve failed to follow a national or local regulation, building code violations can have serious consequences, including:
+
+* **Unsafe work:** If you violate a building code, you may be jeopardizing your family’s health and safety.
+* **Fines:** Depending on your local jurisdiction, code violations may result in monetary fines.
+* **Loss of a sale:** Code violations can cause your house to fail a home inspection, potentially resulting in the loss of a sale.
+* **Preventing occupancy:** In extreme circumstances, typically pertaining to safety, code violations can prevent occupancy in a house.
+
+If a building code has been violated, the homeowner is usually given a reasonable time frame in which to correct the problem. However, violations that pose an immediate danger will likely need to be handled right away and may need to be addressed by an industry professional.
+
+Do I Need a Building Permit?
+----------------------------
+
+Not all DIY projects need building permits, and requirements can vary by location. Large jobs, such as knocking down walls, almost always require a permit. The best way to know whether your project requires a legal permit is to contact your local building department or consult a licensed contracting professional. You can also check out the [Insurance Institute for Business and Home Safety](https://ibhs.org/public-policy/building-codes-by-state/) for a state-by-state guide to building codes.

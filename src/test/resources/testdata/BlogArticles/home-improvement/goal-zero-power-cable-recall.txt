@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Fire Risk Prompts Recall of Goal Zero Power Cables"
+headline: "Fire Risk Prompts Recall of Goal Zero Power Cables"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-04-27
+basePath: https://library.homeserve.com/m/
+heroImage: 347b59f28c429dc2/webimage-PowerCableRecall_GoalZero_0001.jpg
+heroAltDescription: "black"
+metaDescriptions: "Goal Zero has recalled 7,850 power cables due to a fire risk. Find out more here."
+articleAbstract: "Did you purchase a Goal Zero cable between March 2019 and December 2020? If so, you might want to read this: The manufacturer has recalled about 7,850 units due to reports of the cables overheating or catching on fire. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Goal Zero Power Cable Recall"
+  parent: Electrical-Home-Improvement
+---
+  Did you purchase a Goal Zero power extension cable between March 2019 and December 2020? If so, you might want to read this: The manufacturer has recalled about 7,850 units due to reports of the cables overheating or catching on fire.
+
+**This May Also Interest You:** [**Broken Wrists Cited in Recall of 10,000 Log Splitters With Briggs and Stratton Engines**](https://www.homeserve.com/en-us/blog/home-improvement/ytl-log-splitter-recall/)
+
+According to the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/Goal-Zero-Recalls-Power-Cables-Due-to-Fire-Hazard), the pins inside the power cords can become deformed and may overheat, posing a fire risk. The Bluffdale, Utah-based [manufacturer](https://www.goalzero.com/product-features/ec8-recall/) has received four reports of such incidents, in which the cables were connected to a vehicle battery. The cables overheated, melted or caught on fire, leading to property damage in some cases; no injuries had been reported.
+
+Goal Zero has recalled two models: the 12-foot EC8 Extension cables and Male EC8 to Ring cables. The affected model numbers are 98201 and 98202, respectively. The 12-foot cable was sold individually and in the Car Charge Kit. The Male EC8 cable was also sold individually and with various Yeti Tanks.
+
+The cables were manufactured in China and were sold at REI, Sportsman’s Warehouse and Bass Pro Shops. They were also available online from Amazon, Backcountry and Goal Zero’s website.
+
+If you own one of these cables, the CPSC recommends you stop using it immediately and contact the manufacturer for a free replacement. Call Goal Zero at 888-794-6250, email [productreplacement@goalzero.com](mailto:productreplacement@goalzero.com) or fill out the product replacement form [here](https://www.goalzero.com/product-features/ec8-recall/). For more consumer product safety information, visit [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [In Case You Mist It: HD Hudson Recalls Garden Sprayers Due to Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/garden-sprayer-recall/)
+*   [Don’t Sleep on This: 700 HOFISH Mattresses Recalled Over Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/hofish-mattress-recall/)
+*   [Crushing Hazard Leads to Recall of 82,000 Bed Tech Platform Bed Frames](https://www.homeserve.com/en-us/blog/home-improvement/bed-frame-recall/)
+*   [Are You Sitting Down? Hillsdale Furniture Recalls 10,500 Stools Over Fall Risk](https://www.homeserve.com/en-us/blog/home-improvement/jennings-stool-recall/)
+*   [Sleep Tight! Casa Kids Recalls Bunk Beds Due to Loose Screws](https://www.homeserve.com/en-us/blog/home-improvement/cabina-bunk-beds-recall/)

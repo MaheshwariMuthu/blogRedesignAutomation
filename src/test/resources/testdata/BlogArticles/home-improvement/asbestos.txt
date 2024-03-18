@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is Asbestos?"
+headline: "What Is Asbestos?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-08-19
+basePath: https://library.homeserve.com/m/
+heroImage: 27b0039d0f8311e3/Blog-GettyImages-1319162451.jpg
+heroAltDescription: "Old and very dangerous asbestos roof. Asbestos dust in the environment. Health problems. View through magnifying glass"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "What is asbestos, and how bad is it if you have it in your home? Here's what to know about this controversial and potentially dangerous material."
+articleAbstract: "What is asbestos, and how bad is it if you have it in your home? Here's all you need to know about this controversial and potentially dangerous material."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is Asbestos?"
+  parent: Interior-Home-Home-Improvement
+---
+  
+
+In terms of building materials, asbestos is something of a supervillain. First mined in the [late 19th century](https://scdhec.gov/environment/your-home/asbestos/history-asbestos), it became clear by the 1930s that the naturally occurring mineral could cause serious health concerns to people who came in contact with it.
+
+**This May Also Interest You:** [**5 Home Repairs You Should Never Do Yourself**](https://www.homeserve.com/en-us/blog/home-improvement/home-repairs-yourself/)
+
+Still, because of the money involved in producing asbestos-based goods, that [information was covered up](https://www.washingtonpost.com/archive/politics/1978/11/12/new-data-on-asbestos-indicate-cover-up-of-effects-on-workers/028209a4-fac9-4e8b-a24c-50a93985a35d/), and many people continued to get sick from its use throughout the 20th century. Even today, asbestos [isn't entirely banned in the U.S.](https://www.politico.com/news/2022/04/05/epa-moves-ban-asbestos-00022900), although it is heavily regulated.
+
+Here's everything you need to know about this controversial and potentially dangerous material.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6ea8b542e8e3f7a0/Blog-GettyImages-1267659690.jpg" alt="a gloved hand using tweezers to hold Chrysotile asbestos fiber close up."/>
+-------------------------------------------
+
+What Exactly Is Asbestos?
+-------------------------
+
+Asbestos is a naturally occurring mineral that is mined from veins in the Earth. There are two main types of asbestos: amphibole and serpentine (names that certainly add to its supervillain mystique).
+
+Amphibole asbestos fibers are straight and jagged and have five subcategories: tremolite, amosite, crocidolite, anthophyllite and actinolite. Serpentine asbestos fibers are curly and are found in only one variety known as chrysotile.
+
+What Is Asbestos Used For?
+--------------------------
+
+These days, not much. However, it is still in wide use in countries including China, Russia, Mexico and India. But because asbestos fibers are strong, fire resistant and were found to be excellent insulators against heat, they have traditionally been used in a variety of building materials, including pipe insulation, roofing and siding shingles, patching and paint compounds, vinyl floor tiles, some heat-resistant fabrics and cement — especially cement boards used around furnaces or heating stoves.
+
+What Does Asbestos Look Like?
+-----------------------------
+
+It's hard to tell if a building material contains asbestos simply by looking at it. But if you have an old home (asbestos was used extensively in construction from the 1940s to the 1970s) and you have renovations planned, you should take a good look around and see if your home contains any of the materials described above. If so, you'll want to execute your demolition phase very carefully. If you suspect your home might have asbestos-containing materials, you can [send a sample off to a lab](https://emsl-test-kits.apex22.com/?gclid=CjwKCAjwt7SWBhAnEiwAx8ZLalqMuI93jJcKnY3mfXMM2TO0ZkDSoRPL0pmLbwFNKIHiEnHCG45yhRoCjy4QAvD_BwE), or you can get a local asbestos contractor to conduct an evaluation for you.
+
+**More Related Articles:**
+
+*   [What Is a Home Improvement Loan and How Do You Get One?](https://www.homeserve.com/en-us/blog/home-improvement/home-improvement-loan/)
+*   [Moving? Renovating? Here’s Everything You Need to Know About Short-Term Storage Costs](https://www.homeserve.com/en-us/blog/home-improvement/short-term-storage/)
+*   [Trash Cash: Here’s How Much It Costs to Rent a Renovation Dumpster](https://www.homeserve.com/en-us/blog/cost-guide/dumpster-rental/)
+*   [What Do Building Codes Mean for DIY Projects?](https://www.homeserve.com/en-us/blog/home-improvement/residential-building-codes/)
+*   [Should You Remodel or Move? Here’s How to Decide](https://www.homeserve.com/en-us/blog/home-improvement/remodel-or-move/)
+
+Why Is Asbestos Harmful?
+------------------------
+
+So if asbestos resists fire and adds strength to building materials, why is it considered so harmful?
+
+Actually, for homeowners, asbestos-containing materials are not necessarily something to be concerned about. That's because the substance really only becomes dangerous when it becomes airborne. That's when the asbestos fibers enter via our airways and permanently lodge in our lungs, causing serious health issues such as [mesothelioma](https://www.mayoclinic.org/diseases-conditions/mesothelioma/symptoms-causes/syc-20375022#:~:text=Overview,and%20deadly%20form%20of%20cancer.) and lung cancer. Workers involved in the mining of asbestos and the production of asbestos-containing materials, as well as members of the U.S. Navy — which used asbestos on ships from the 1930s to the 1970s — are also prone to the health impacts of inhaled asbestos.
+
+What Should I Do If I Suspect I Have Asbestos in My Home?
+---------------------------------------------------------
+
+Don't touch it! As mentioned, asbestos is not harmful if left alone, but can truly wreak havoc on your lungs once it becomes airborne. So if you think you have some in your house, it's best to only remove a sample to send to a lab for testing. To do so, make sure you wear disposable coveralls, gloves and a respirator fitted with a HEPA filter. Alternatively, you could call in a contractor to conduct the test for you.
+
+If it turns out you do have asbestos in your home and you need to remove it for renovation work, your best bet is to call in an asbestos abatement professional to do the job for you. They will understand local restrictions and guidelines regarding its removal and disposal and will have all of the equipment needed to get the job done safely. They may also determine that sealing the asbestos is a better option than removing it.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Insulate Windows | Cheap and Easy with Plastic Film"></iframe>

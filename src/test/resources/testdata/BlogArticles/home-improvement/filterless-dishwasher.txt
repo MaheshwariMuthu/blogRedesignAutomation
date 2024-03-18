@@ -1,0 +1,50 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Filterless Dishwasher?"
+headline: "What Is a Filterless Dishwasher?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-07-01
+basePath: https://library.homeserve.com/m/
+heroImage: 4aaa240947b93a90/Blog-AdobeStock_70413340.jpg
+heroAltDescription: "filling up dishwasher"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A filterless dishwasher offers a hands-off approach to dishwasher maintenance."
+articleAbstract: "No one likes cleaning their dishwasher filter, but it's an essential routine maintenance task. A filterless or self-cleaning dishwasher offers a more hands-off approach. Here’s what you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is a Filterless Dishwasher?"
+  parent: Appliances
+---
+  Nobody relishes the task of cleaning a dishwasher filter, but it's an essential part of your maintenance routine if you have a manual-cleaning model.
+
+**This May Also Interest You:** [**My Dishwasher Is Overflowing With Suds … Help!**](https://www.homeserve.com/en-us/blog/how-to/dishwasher-overflowing/)
+
+On the other hand, a filterless or self-cleaning dishwasher offers a more hands-off approach. Here’s what you need to know.
+
+How Does a Filterless Dishwasher Work?
+--------------------------------------
+
+Filterless — or self-cleaning — dishwashers actually do have filters, but they're designed to clean themselves to save you time on appliance maintenance. Self-cleaning filters are more common in older models that are 10 years or older. Newer models usually have filters that you clean manually because they allow the dishwasher to operate quietly.
+
+Most self-cleaning filters contain a grinder that works similarly to a garbage disposal. The grinder breaks up waste into tiny particles that can pass down the drain without clogging it, leaving you with a clean dishwasher. Self-cleaning dishwashers with grinders tend to be noisy, although decent insulation can help reduce the sound.
+
+Some premium dishwashers have a self-cleaning filter containing a fine mesh instead of a grinder. The mesh breaks the food waste into smaller pieces to prevent blocked drains.
+
+How Can You Tell If You Have a Filterless Dishwasher?
+-----------------------------------------------------
+
+The simplest way to tell if you have a filterless dishwasher is to check your model's user manual. If you don't have the manual and can't find it online by searching the model number, you can try inspecting your dishwasher visually.
+
+Self-cleaning filters sit at the bottom of the dishwasher and usually have a cover that looks like a grid or a network of holes. These filters don't require much maintenance, so you shouldn't notice unpleasant odors coming from your machine.
+
+Meanwhile, a manual-cleaning dishwasher filter looks more like a carafe water filter. Over time, food debris can accumulate inside, causing nasty smells and reducing water flow. Dishes not getting properly clean is a sign that you probably have a clogged manual-clean dishwasher filter.
+
+**More Related Articles:**
+
+*   [Why Isn’t My Dishwasher Draining?](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-not-draining/)
+*   [Weird Sound Coming From the Dishwasher? How to Diagnose Dishwasher Noises](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-making-noise/)
+*   [How Much Does a Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+*   [What’s the Deal With Countertop Dishwashers?](https://www.homeserve.com/en-us/blog/home-improvement/countertop-dishwashers/)
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

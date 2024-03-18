@@ -1,0 +1,54 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Tesla Model HVAC? Elon Musk Teases Tesla-Made Home Heating, Ventilation and Air Conditioning System"
+headline: "Tesla Model HVAC? Elon Musk Teases Tesla-Made Home Heating, Ventilation and Air Conditioning System"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-18
+basePath: https://library.homeserve.com/m/
+heroImage: 528976cfdda5a2c2/Blog-TeslaHome_Tesla_0001.jpg
+heroAltDescription: "red tesla parked in driveway"
+metaDescriptions: "Tesla Model HVAC? Elon Musk Teases Tesla-Made Home Heating, Ventilation and Air Conditioning System"
+articleAbstract: "Elon Musk has once again hinted at a “super efficient” Tesla home HVAC system modeled after the electric cars' air filters. But it's still unclear whether this is a potential Tesla product or if the CEO is thinking out loud (well, on Twitter.)"
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Tesla Model HVAC? Elon Musk Teases Tesla-Made Home Heating, Ventilation and Air Conditioning System"
+  parent: HVAC-Home-Improvement
+---
+  Elon Musk has once again hinted at a “super efficient” Tesla home [HVAC system](https://www.homeserve.com/en-us/blog/buying-guide/hvac/). But it's still unclear whether this is a potential product from the Silicon Valley-born all-electric luxury automaker, or if Musk is thinking out loud, well ... on Twitter, as it were.
+
+**This May Also Interest You:** [**Smart AC Not a Dumb Idea If You’re Looking to Cut Climate-Control Costs**](https://www.homeserve.com/en-us/blog/buying-guide/smart-ac/)
+
+The Tesla CEO took to [Twitter](https://twitter.com/elonmusk/status/1405008067775762432?s=20) on June 15 to confirm that new firmware is coming soon for the Tesla Model S that will make the heating, ventilation and air conditioning system noise quieter on the already characteristically quiet vehicle. He also touted the air purification system available in the Model S sedan and Model X SUV, which uses a high-efficiency particulate air [(HEPA) filter](https://www.epa.gov/indoor-air-quality-iaq/what-hepa-filter-1) that can remove at least 99.97% of airborne particles like dust, pollen and bacteria. (Tesla calls this feature [Bioweapon Defense Mode](https://www.tesla.com/en_CA/blog/putting-tesla-hepa-filter-and-bioweapon-defense-mode-to-the-test), in case you were wondering.)
+
+Musk seemed so proud of this innovation that he may break Tesla’s no-advertising policy just to tell people about it, reported [Electrek](https://electrek.co/2021/06/16/elon-musk-tesla-home-hvac-advertise-car-air-purification-system/), a publication that writes about sustainable energy and electric cars, with a particular emphasis on Tesla. He also [tweeted](https://twitter.com/elonmusk/status/1405026591541927936?s=20) that it would be “great” to use the technology in homes: “Oh man, home hvac that is super energy efficient, quiet & purifies the air would be great. We developed it for the car, but it can be scaled up for home use.”
+
+Such a home HVAC system has been an open secret Tesla product-in-supposed-development for some time now. Musk has been talking about it for nearly three years, but so far, no such product has been announced by the company.
+
+The whole idea came to light in an interview on the [Joe Rogan Experience podcast](https://youtu.be/ycPr5-27vSI) in 2018, during which Musk teased the idea of a “Tesla Smart Home.” Not to be confused with the [Disney classic](https://movies.disney.com/smart-house), Musk’s idea of a smart house wasn’t a “genius home,” but an air conditioning system that can predict when you’ll be in the house and cool the rooms you’re most likely to use. Theoretically, it could connect to your Tesla to know when you’re on your way home.
+
+When podcast host Rogan asked whether he had thought about creating an air conditioning system, Musk said that he couldn’t answer questions about potential products, adding that making an air conditioning system “would be a really interesting idea.”
+
+However, Musk’s more recent communication has hinted that a Tesla HVAC system is a little more nebulous than the label “potential product” suggests.
+
+In March 2020, Musk [tweeted](https://twitter.com/elonmusk/status/1242247568479797248?s=20) about an upgraded version of this idea: “Sure would love to do home hvac that’s quiet & efficient, with humidity control and HEPA filter.” A few weeks after that, Musk [tweeted](https://twitter.com/elonmusk/status/1253381481075965954?s=20) he was “dying” to make an HVAC system that also includes water distillation.
+
+Over a year later, there’s still no major announcement from Tesla on when — or _whether_ — we’ll see a home HVAC system, though green-household-tech endeavors aren’t unprecedented from the company, which also markets [solar roofs](https://www.tesla.com/solarroof) and [solar panels](https://www.tesla.com/solarpanels). Plus, Musk _is_ the type to keep you on your toes.
+
+“We will make super efficient home hvac with hepa filters one day,” he [tweeted](https://twitter.com/elonmusk/status/1304441544913481730?s=20) in September.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Electric Car Charging Station?](https://www.homeserve.com/en-us/blog/cost-guide/ev-charging-station-installation/)
+*   [Electric Car Charging at Home: Everything You Need to Know](https://www.homeserve.com/en-us/blog/how-to/charge-electric-vehicle/)
+*   [Heat Check: The 5 Best Smart Thermostats for Your Home](https://www.homeserve.com/en-us/blog/cost-guide/best-smart-thermostats/)
+*   [Amazon Echo Vs. Google Home: The Voice Command Speaker Battle Begins](https://www.homeserve.com/en-us/blog/buying-guide/amazon-echo-google-home-differences/)
+*   [Your Definitive Guide for the Best Smart Home Devices](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-devices/)
+
+_Manufacturer image_

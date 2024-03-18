@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------
+|ArticleName				|Title	|Author	|Date	|Image	|
+--------------------------------------------------------------------------
+|clean-oven				|Pass	|Pass	|Pass	|Pass	|
+|load-dishwasher			|Fail	
+
+|clean-mattress				|Pass	|Pass	|Pass	|Pass	|
+|clean-stainless-steel-sink	|Pass	|Pass	|Pass	|Pass	|
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|ArticleName				|Heading		|Paragraph		|Link			|List			|Image			|Video			|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|clean-oven				|Pass: 32 Fail: 0	|Pass: 47 Fail: 1	|Pass: 16 Fail: 0	|Pass: 1 Fail: 1	|Pass: 1 Fail: 0	|Pass: 1 Fail: 0	|
+|load-dishwasher			|Not Migrated	|
+|clean-mattress				|Pass: 12 Fail: 0	|Pass: 19 Fail: 0	|Pass: 3 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|clean-stainless-steel-sink

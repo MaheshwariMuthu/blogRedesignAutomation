@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Water Can Low-Flow Fixtures Actually Save?"
+headline: "How Much Water Can Low-Flow Fixtures Actually Save?"
+author: Kaia Koglin
+tags: ["post"]
+publishDate: 2023-10-16
+basePath: https://library.homeserve.com/m/
+heroImage: 2906ee0e48490b1c/Blog-GettyImages-1171354412.jpg
+heroAltDescription: "Shower head in bathroom with water spray or water flow. Fresh water flow from shower head for cleaning body."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Low-flow fixtures are plumbing fixtures that use less water. But do they actually help you conserve this natural resource?"
+articleAbstract: "Low-flow fixtures are plumbing fixtures that use less water. But do they actually help you conserve this natural resource?"
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Much Water Can Low-Flow Fixtures Actually Save?"
+  parent: Plumbing-Home-Improvement
+---
+  According to the [Environmental Protection Agency](https://www.epa.gov/watersense/showerheads), the average family uses up to 40 gallons of water per day just for showering. That quickly adds up when it comes to your water bill, which is where low-flow fixtures come in.
+
+**This May Also Interest You:** [**Let It Flow: Improve Low Water Pressure in the Shower**](https://www.homeserve.com/en-us/blog/how-to/diy-shower-pressure-fixes/)
+
+These specially designed faucets, showerheads and toilets use less water every day. This is great in states where droughts have made water increasingly scarce and can save you money no matter where you live.
+
+What Is a Low-Flow Fixture?
+---------------------------
+
+Low-flow fixtures are plumbing fixtures that use less water. They're generally found in the bathroom, but it's also possible to get low-flow fixtures for the kitchen and garden. Water flow is generally measured in how many gallons per minute, or gpm, leave the faucet or showerhead. Low-flow options have a lower gpm. There are different methods that low-flow fixtures use to save water.
+
+### Faucets and Showerheads
+
+There are two types of low-flow faucets and showerheads. The first is an aerator, which mixes air into the water. It gives the feel of a full water flow, but the water volume is greatly reduced. The second is a laminar, which distributes water into individual streams. This lowers water volume without the mist associated with aerators.
+
+### Toilets
+
+Again, there are two types of low-flow toilets. The first is a low-flow, gravity-fed toilet. These have a modified trap design that doesn’t need as much water to push the contents of the bowl into the trap. These traps also have a siphoning effect. They will continue to drain without extra water once the bowl starts draining.
+
+The other option is a pressure-assist toilet. These use a pressurized water tank that makes the water rush into the bowl forcefully. This extra force helps contents flush away quickly. Although most often used in public toilets, there are now pressure-assist toilets available for the residential market.
+
+You should also consider a dual-flush toilet. These toilets have two flush options. One releases a larger amount of water for solid waste — usually around 1.5 gallons. The smaller one releases around 0.9 gallons and is intended for when you’re only flushing liquids.
+
+**More Related Articles:**
+
+*   [Here’s How to Hack Your Low-Flow Showerhead ... But Should You?](https://www.homeserve.com/en-us/blog/how-to/low-flow-showerhead/)
+*   [8 Shower Storage Solutions](https://www.homeserve.com/en-us/blog/buying-guide/shower-storage/)
+*   [How to Replace a Shower Valve](https://www.homeserve.com/en-us/blog/how-to/shower-valve-replacement/)
+*   [Showerhead Stuck? Here’s How to Remove It](https://www.homeserve.com/en-us/blog/how-to/showerhead-removal/)
+*   [How Much Does It Cost to Replace a Showerhead?](https://www.homeserve.com/en-us/blog/cost-guide/shower-head-replacement/)
+
+How Much Water Are Low-Flow Fixtures Supposed to Save?
+------------------------------------------------------
+
+The exact amount of water saved by low-flow plumbing fixtures depends on the type of fixtures. However, [the EPA says](https://www.epa.gov/watersense/statistics-and-facts) that water-efficient fixtures use at least 20% less water than standard fixtures. This saves money on water bills and energy bills because you don’t need to heat as much water.
+
+Fixtures that earn the government’s [WaterSense label](https://www.epa.gov/watersense/about-watersense) must show that they save water while still performing as well as, or better than, standard models. When planning a change to low-flow fixtures, it can help to know the exact savings of each type of fixture.
+
+*   [**Bathroom faucets:**](https://www.epa.gov/watersense/bathroom-faucets) Standard faucets use 2.2 gpm, while water-saving faucets use just 1.5 gpm. This is a 30% reduction that can save you up to 700 gallons of water each year.
+*   [**Showerheads:**](https://www.epa.gov/watersense/showerheads) Standard showerheads use 2.5 gpm, but WaterSense showerheads must use 2.0 gpm or less. This would save the average family 2,700 gallons per year.
+*   [**Toilets:**](https://www.epa.gov/watersense/residential-toilets) Toilets are the main source of water use in the home, with older toilets using 6 gallons of water per flush. Current federal standards use 1.6 gallons per flush, and WaterSense models use 1.28 gallons per flush or less. This can save 13,000 gallons per year.
+
+Do They Actually Save Water in Practice?
+----------------------------------------
+
+There are a lot of fixtures on the market that claim to save water. Choosing those with the EPA’s WaterSense label ensures you’re getting a product that’s been certified to use at least 20% less water than standard models.
+
+However, you may be wondering if the reality doesn’t live up to the theory. For example, if your shower has worse water pressure, you may have longer showers. If the toilet doesn’t work as well, a double flush could negate any water savings.
+
+This has definitely been an issue in the past. Fortunately, people in the industry have continued innovating. WaterSense products are tested by consumers before they’re certified, so you can be assured of fixtures that perform well. This will let you enjoy your hot shower while still saving water.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/VLcaeWk-vh0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Your Shower Head Needs a Bath #lifehack #cleaninghack #howto"></iframe>

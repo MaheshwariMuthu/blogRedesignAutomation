@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is There Rust in the Dishwasher?"
+headline: "Why Is There Rust in the Dishwasher?"
+author: Erin Wallace
+tags: ["post"]
+publishDate: 2024-01-26
+basePath: https://library.homeserve.com/m/
+heroImage: 6679567305d1d6ca/Blog-GettyImages-1369621761.jpg
+heroAltDescription: "rusted dishwasher tines"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If you've noticed rust in your dishwasher, don't be alarmed. It's a common problem. Find out the reasons this happens and how you might prevent it."
+articleAbstract: "Dishwashers are supposed to get your dishes clean, of course, but if your dishwasher model is older, you may have started to notice rust spots in the interior tub or on the racks themselves."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is There Rust in the Dishwasher?"
+  parent: Appliances
+---
+  Dishwashers are supposed to get your dishes clean, of course, but if your dishwasher model is older, you may have started to notice rust spots in the interior tub or on the racks themselves.
+
+**This May Also Interest You:** [**Should You Repair or Replace Your Dishwasher?**](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-repair-replacement/)
+
+What Is Rust?
+-------------
+
+Before examining the causes of rust in a dishwasher, it's important to understand what rust is and how it forms. Rust is oxidized iron. In other words, it's what forms when iron reacts with oxygen and water. Other metals can corrode, too, but what results isn't referred to as rust. Think about a cast iron pan — if a cast iron pan has water on it, even small drops, and the water isn't dried off, it reacts with oxygen in the air and eventually will form surface rust.
+
+Your dishwasher and its racks aren't made entirely of iron because iron is extremely heavy, but the racks and the interior _are_ likely made from stainless steel, which is composed of iron and carbon.
+
+Why Is There Rust at the Bottom of My Dishwasher?
+-------------------------------------------------
+
+There may be rust at the bottom of your dishwasher for many reasons — it might have to do with your water supply, the dishwasher itself or the items you're putting in the dishwasher.
+
+### Water Supply
+
+If the water coming out of the faucet looks a little reddish-brown to you, or if you're noticing a reddish-brown coating on your dishes when they come out of the dishwasher, that issue likely has something to do with your water supply. Your water pipes might need to be inspected, or it might be a town or city problem, and you can contact your water department for more information about that.
+
+### Dishwasher Parts
+
+If your dishwasher is more than a few years old, you may have noticed small rust spots on the racks themselves, especially on the ends of the tines that hold glasses and plates in place. While these racks are usually made of stainless steel, they have a protective coating on them. Over time, with lots of exposure to hot water, heat and soap, that coating can wear off and cause the metal underneath to rust when exposed to water and oxygen.
+
+### Pots and Pans and Cutlery
+
+Some pots and pans can develop small rust stains if they're put in the dishwasher often. Stainless steel is composed partly of iron, so the risk of rusting and pitting is there. This is why it's best to hand-wash and dry pots and pans. Drying them right away can help prevent rust spots from forming.
+
+If you do use the dishwasher, remove metal items immediately after the dishwasher finishes and dry them with a dishcloth before putting them away. This can help prevent them from rusting.
+
+Why Is There Rust on the Racks or Basket in the Dishwasher?
+-----------------------------------------------------------
+
+The racks in the dishwasher are made of stainless steel but have a protective coating on them that can wear off over time. When that happens, the metal underneath can rust when exposed to water and oxygen.
+
+Depending on the dishwasher model you have, you may be able to replace the interior rack with a new one. If the rusting is happening on the cutlery basket, you may be able to replace that as well.
+
+**More Related Articles:**
+
+*   [How Much Does a Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+*   [Why Isn’t My Dishwasher Draining?](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-not-draining/)
+*   [Don’t Get Lost in the Wash: How to Use Your Dishwasher Efficiently](https://www.homeserve.com/en-us/blog/how-to/use-dishwasher/)
+*   [Weird Sound Coming From the Dishwasher? How to Diagnose Dishwasher Noises](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-making-noise/)
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)
+
+How Do You Prevent Rust From Forming in Your Dishwasher?
+--------------------------------------------------------
+
+One way to prevent rust from forming is to remove dishes and cutlery immediately after they finish washing and drying and dry off any excess water with a dry dishcloth. Use the heat dry setting to help evaporate excess water.
+
+You can also run citric acid crystals through a dishwasher cycle to help remove rust stains from the inside of the dishwasher and objects put into the dishwasher. To do this, fill the detergent receptacle with citric acid crystals and run the dishwasher through a normal cycle. Then, run another cycle, but this time, fill the detergent cup with the typical amount of dishwashing soap.
+
+Does Rust in the Dishwasher Mean Repair or Replace?
+---------------------------------------------------
+
+Many dishwasher parts can be purchased individually to replace ones that may have rusted, such as baskets, racks and seals. Search for your model number online to find what parts are available. If your dishwasher is more than 10 years old, though, it might be worth replacing.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/Ss3da5F_Nk4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Clean Your Dishwasher (Properly)"></iframe>

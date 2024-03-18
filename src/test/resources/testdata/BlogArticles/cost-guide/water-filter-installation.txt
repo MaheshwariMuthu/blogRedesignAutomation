@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Do Home Water Filtration Systems Cost?"
+headline: "How Much Do Home Water Filtration Systems Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-07-21
+basePath: https://library.homeserve.com/m/
+heroImage: 15addb7e46ec58c2/Blog-Whole-Home-Water-Filtration.jpg
+heroAltDescription: "A graphic visualization of GE s GE WHOLE HOME WATER FILTRATION"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A whole-house water filter can remove impurities from your water supply. Here's what it'll cost to install one."
+articleAbstract: "From filter pitchers to whole-house water filters, there should be a filtration option to suit your needs and budget. This covers how much different types of home water filtration systems cost. "
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Do Home Water Filtration Systems Cost?"
+  parent: Plumbing-Cost-Guide
+---
+  If you can't stand the taste of your tap water or are worried about limescale wreaking havoc on your plumbing, a home water filtration system could help. According to [Fixr](https://www.fixr.com/costs/water-purification-system#whole-house-water-filtration-system-cost), the average homeowner spends around $2,500 (CAD 3,100) installing a water filtration system. However, costs can vary significantly depending on the type of water filter you choose.
+
+**This May Also Interest You:** [**How to Clean Your Icemaker and Change the Filter**](https://www.homeserve.com/en-us/blog/how-to/clean-icemaker-filter/)
+
+From straightforward filter pitchers to sophisticated whole-house water filters, there should be a filtration option to suit your needs and budget. This guide gets into how much different types of home water filtration systems cost.
+
+What Do Home Water Filtration Systems Do?
+-----------------------------------------
+
+Home water filtration systems remove contaminants and chemicals from your home's water supply. One of the primary roles of these systems is that they can improve the taste of your tap water by removing treatment chemicals. Some home water filtration systems can also soften your water by removing minerals, which can help prevent limescale damage to your plumbing and fixtures.
+
+Filtration systems can't remove every contaminant in your water, and many only remove certain substances. Therefore, it's essential to consider your water source when selecting a home water filtration system. You should get your water tested at least once per year if you use a private well. Alternatively, you'll receive an annual [Consumer Confidence Report](https://www.cdc.gov/healthywater/drinking/public/understanding_ccr.html) with your water bill that explains the contaminant levels in your water if you use a public system. You can use this information to decide which water filter type is right for your home.
+
+What Are the Different Types of Home Water Filtration Systems?
+--------------------------------------------------------------
+
+The cheapest way to enjoy filtered water is to purchase a water filter pitcher, costing between $20 and $100 (CAD 25 to CAD 125). These pitchers contain a small filter that can remove impurities from drinking water. However, they require regular filter changes and can only filter relatively small quantities of water. Therefore, many homeowners choose to install a more robust filtration system.
+
+### Countertop Filters
+
+Countertop water filters are significantly larger than pitcher filters, letting you filter more water over a shorter period. The unit sits on a countertop and doesn't require professional installation because you don't need to connect it to your plumbing system. Therefore, it's a significantly cheaper option than an under-sink or whole-house water filter, but it takes up some counter space.
+
+### Faucet Filters
+
+There are two types of faucet water filters available: faucet-mounted and faucet-integrated filters. You can attach a faucet-mounted model to your existing faucet, but they aren't compatible with all faucet types. Faucet-mounted filters are relatively affordable but can cause reduced water flow from the fixture.
+
+Integrated faucet filters are more expensive and require replacing your existing fixtures with faucets containing a built-in fixture. These models require professional installation but are less likely to affect the flow rate.
+
+### Under-Sink Filtration Systems
+
+Under-sink filtration systems sit in the space below your sink and divert water through a filter to the faucet. These filtration systems tend to be pricey and require a professional to install. However, they are an excellent space-saving option compared to countertop filters and can handle large water volumes.
+
+### Whole-House Water Filters
+
+Whole-house water filters can be a good option if you want to treat all the water entering your home. These systems are relatively expensive to install and may require plumbing modifications and regular maintenance. They could be a good option if you live in a hard water area and want to avoid limescale damage to your entire plumbing system.
+
+**More Related Articles:**
+
+*   [Have Hard Water? Here’s How to Know and How to Treat It](https://www.homeserve.com/en-us/blog/how-to/spot-and-treat-hard-water/)
+*   [What Is Water Softener Salt?](https://www.homeserve.com/en-us/blog/home-improvement/water-softener-salt/)
+*   [How Do You Clean a Water Softener?](https://www.homeserve.com/en-us/blog/how-to/clean-water-softener/)
+*   [How Much Does It Cost to Install or Replace a Water Softener?](https://www.homeserve.com/en-us/blog/cost-guide/water-softener-installation/)
+*   [What Is a Water Softener?](https://www.homeserve.com/en-us/blog/home-improvement/water-softener-explained/)
+
+How Much Does It Cost to Install an Under-Sink Water Filtration System?
+-----------------------------------------------------------------------
+
+A basic, single-stage under-sink water filtration system usually costs between $50 and $200 (CAD 60 and CAD 250). Meanwhile, a multi-stage under-sink filter capable of removing large particles and chemicals costs between $200 and $400 (CAD 250 and CAD 500).
+
+How Much Does a Whole-House Water Filter Cost?
+----------------------------------------------
+
+Expect to pay between $1,500 and $10,000 (CAD 1,900 and CAD 12,500) for a whole-house water filter. How much you pay depends on the system size, filtration method and brand. You'll also need to pay around $500 (CAD 625) to have your system professionally installed, but costs could be higher if you’ll need extensive plumbing modifications.
+
+Reverse-osmosis filters are the most common type of whole-house water filter. They work by pushing water from the main supply through a semipermeable membrane at high pressure to remove larger particles. Therefore, a reverse-osmosis filter can remove unpleasant-tasting chemicals while softening your water to protect your plumbing system.
+
+A reverse-osmosis whole-house water filter usually costs between $1,500 and $1,800 (CAD 1,900 and CAD 2,250) for the unit itself. Therefore, you should expect to pay between $2,000 and $2,300 (CAD 2,500 and CAD 2,900), including labor costs.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

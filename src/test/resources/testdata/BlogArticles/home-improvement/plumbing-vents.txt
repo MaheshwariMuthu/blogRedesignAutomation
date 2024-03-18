@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Things You Should Know About Plumbing Vents"
+headline: "4 Things You Should Know About Your Plumbing Vents"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-09-13
+basePath: https://library.homeserve.com/m/
+heroImage: 391dab6ba904db19/Blog-PlumbingVents_Erossi_4134.jpg
+heroAltDescription: "two highlighted exterior plumbing ehxaust vents"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Pipe vents are essential aspects of a home’s plumbing system. Here's what you need to know about them."
+articleAbstract: "Pipe vents are essential aspects of a home’s plumbing system. Here's what you need to know about installing, maintaining and monitoring them."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "4 Things You Should Know About Your Plumbing Vents"
+  parent: Plumbing-Home-Improvement
+---
+  As a homeowner, it can pay to have a basic understanding of your home’s plumbing system. Knowing how your plumbing works can save you much in the way of money, energy and time by equipping you to troubleshoot, diagnose and maybe even fix any specific issues that might arise.
+
+**This May Also Interest You:** [**9 Times When You Should Call a Professional Plumber**](https://www.homeserve.com/en-us/blog/home-improvement/professional-plumber-repairs/)
+
+You may not realize it, but in order for wastewater to flow out of your home, you need vent pipes that help regulate the air pressure in the plumbing system. Without them, you’d have trouble even flushing your toilet.
+
+If you’re in the midst of a bathroom remodel that requires installing new fixtures in new locations, you’ll need to make sure they’re connected to the plumbing vent system. It can also be helpful to have a working knowledge of plumbing vent systems in case your vent malfunctions.
+
+Looking to learn more? Here’s what every homeowner should know about their plumbing vents.
+
+1\. What Plumbing Vents Are
+---------------------------
+
+Also called a vent stack, a plumbing vent is a vertical pipe attached to your drain line that runs through your roof. The plumbing vent pipe, or plumbing air vent, removes gas and odors from your plumbing system and allows fresh air to enter the pipes, helping the water to flow out of the drain pipes.
+
+2\. What Plumbing Vents Do
+--------------------------
+
+Plumbing vents have two basic functions. One of which is to allow unpleasant smelling wastewater and sewer gasses to escape your plumbing system instead of entering your home. Plumbing vent pipes are typically located on roofs, away from windows, to ensure the fumes exit the home completely.
+
+The other function of the plumbing vent is to move fresh air into your plumbing system. This helps move water through every plumbing fixture in your house, like toilets and sink drains. Think of the way in which you need to let a little air into the bottle as you pour soda in order to make the drink flow smoothly.
+
+3\. Different Types of Plumbing Vents
+-------------------------------------
+
+There are several different styles of vent pipes that you might need to install depending on the size and scope of your plumbing system and other construction-related issues. Often homes rely on several of these options working in concert with one another.
+
+* **True vent:** This is the most common vent option. In simplest terms, a true vent is a vertical pipe attached to your drain line that exits through the roof. They often function as the main vent that other fixtures can connect to.
+* **Re-vent pipe or auxiliary vent:** Attached to the drain line near specific plumbing fixtures, re-vent pipes run up and over to connect to the main vent.
+* **Common vent:** Two plumbing fixtures installed on opposite sides of a wall are typically tied into the vent stack using something known as a sanitary cross.
+* **Wet vent:** This venting option operates as a drain pipe and a vent at the same time. Wet vent drainage systems drain water from one fixture while venting the air from another. Although they’ve been used for over 100 years, wet vent systems have only recently been added to the plumbing code in many areas. If you’re planning on installing one in a bathroom remodel, make sure you check your local code prior to construction.
+* **Loop vent:** For free-standing fixtures like kitchen island sinks, loop vents are ideal. These vent pipes run under the floor, rise from the P-trap, and create a loop inside the cabinet sink.
+* **Air admittance valve:** An AAV is a one-way mechanical valve typically installed at the site of the plumbing fixture. AAVs allow venting to occur without having to tie into a larger venting system. They’re ideal for venting fixtures where you aren’t able to easily connect to an existing vent system.
+
+**More Related Articles:**
+
+*   [Plumbing Repair Cost Guide](https://www.homeserve.com/en-us/blog/cost-guide/plumbing-repair-costs/)
+*   [9 Common Plumbing Myths — Busted](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-system-myths/)
+*   [Here’s How Long All the Systems in Your Home Will Last](https://www.homeserve.com/en-us/blog/home-improvement/home-systems-lifespan/)
+*   [How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+*   [Pipe Burst? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+
+4\. Common Plumbing Vent Issues
+-------------------------------
+
+Although vent pipes typically don’t have water flowing through them, they’re still subject to many typical plumbing issues. For example, clogs are one of the most common problems associated with sewer vent pipes. If your vent pipe gets clogged, all of your plumbing fixtures tied into the vent stack will be affected.
+
+A sink with a slow drain that bubbles and gurgles or a strong sewage smell around your toilet are both indicators that your toilet vent pipe is clogged. Because most vent pipes exit through the roof, old leaves, twigs or even a bird’s nest could be clogging the pipe.
+
+Clogs in your vent pipe system cause a buildup of negative pressure, meaning that water won’t be able to flow out of your home very well. It’s similar to putting your finger over the opening of a straw to trap water inside. When you remove your finger, the water is able to flow out of the straw.
+
+If you suspect you have any blockage in your vent, make sure you have a professional come examine the situation. Left unchecked, a blocked air vent can lead to other costly repairs, like leaks and sediment buildup.
+
+Under Pressure
+--------------
+
+Pipe vents are essential aspects of a home’s plumbing system. Owning a home means learning about all sorts of things you never put much thought into before. But by understanding as much as you can about the important systems of your home, you can keep those budgets intact and those anxiety levels low.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nk_hBpyP3Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How Much Does Sewer Line Maintenance and Repair Cost?"></iframe>

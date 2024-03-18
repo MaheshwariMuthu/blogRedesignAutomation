@@ -1,0 +1,109 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Causes Water to Turn Brown or Yellow?"
+headline: "Here’s Why Your Water Is Discolored — and What You Can Do About It"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-03-23
+basePath: https://library.homeserve.com/m/
+heroImage: 5cc109784f8e74a3/Blog-GettyImages-523615224.jpg
+heroAltDescription: "a residential sink with contaminated brown water flowing from it "
+metaDescriptions: "Is your water yellow or brown? Usually minerals are the culprit. Here's everything you need to know."
+articleAbstract: "The appearance of brown or yellow water in the home is often the result of minerals or sediments in your water supply. Luckily, there are a few ways to resolve the issue. Here's what you need to know."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0919
+stickyDisplayText: Call today for a local plumber.
+lightboxCopy: Local plumbing pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/plumbers/hs/same_day
+  large:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner1.png
+      alt: Plumbing eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner2.jpg
+      alt: Plumbing eLocal Banner 2
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My Water Discolored and What Can I Do About It?"
+  parent: Plumbing-Home-Improvement
+---
+  Dirty water — or what looks like dirty water — is a shock when it comes out of your tap. You'll want to investigate immediately to figure out what is causing discoloration in your water. Sudden changes in the water's color can indicate contamination, changes in mineral concentration or other problems in the home that require your attention.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**How Much Do Home Water Filtration Systems Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/water-filter-installation/)
+
+If your water looks dirty, it’s usually due to minerals or sediments in your water supply. There are several ways to resolve this issue — read on to find out more.
+
+What Is Discolored Water?
+-------------------------
+
+Discolored water is usually yellow, brown or orange. Discoloration can indicate a change in the filtration or water supply to your home if it appears suddenly. It typically contains minerals, rust and other sediments that influence its appearance.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+What Causes Discoloration in Water?
+-----------------------------------
+
+The number one cause of discolored water in the home is a high concentration of natural minerals in the water supply, such as iron and manganese. Minerals are heavier than the water itself and can settle in pipes when the water usage is low. You may notice discoloration in your water when you first turn on the tap after being away on a long vacation because the water has been sitting stagnant in the pipes. Your water should return to a normal color as you run it.
+
+If the water changes color within the same day and there's no change in usage, you will need to further investigate the cause of discoloration. Potential causes can include:
+
+*   Old water lines corroding
+*   Malfunctioning filtration
+*   Changes in city water pressure
+*   Heavy rain in your area
+
+Discolored water may also indicate recent work on the water system for the city, altering the level of flow through the water lines.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+### Why Is My Water Yellow?
+
+Yellow water in your home is usually a sign of high levels of iron in your water. When this occurs, the iron has likely been exposed to oxygen, leading to rust. Local incidents like a water main break can also be responsible for stirring up sediments in the pipes as the water moves more quickly. This can result in yellow water running from your taps spontaneously.
+
+### Why Is My Water Brown?
+
+If you have brown well water, the cause might be similar to instances of yellow water. The most common reason for brown water in the toilet or from your taps is a high iron or manganese concentration in the water supply. With a well — especially a shallow one — a sudden onset of brown water could indicate surface filtration or a well collapse. In this case, you should not drink the water because there may be contaminants from the ground level.
+
+**More Related Articles:**
+
+*   [Installing a Water Softener Isn’t So Hard: A 6-Step Guide](https://www.homeserve.com/en-us/blog/how-to/water-softener-installation/)
+*   [How Much Does a Water Softener Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-a-water-softener-cost/)
+*   [How to Know If Your Bathtub Has Hard Water](https://www.homeserve.com/en-us/blog/home-improvement/hard-water/)
+*   [How Much Does a Septic Tank System Cost?](https://www.homeserve.com/en-us/blog/cost-guide/septic-tank-system-cost/)
+*   [Everything You Need to Know About Your Sump Pump](https://www.homeserve.com/en-us/blog/home-improvement/everything-to-know-sump-pump/)
+
+Is Discolored Water Safe to Drink?
+----------------------------------
+
+When you experience discolored water, your first concern is likely whether it’s safe to drink. The majority of the time, naturally occurring minerals are the cause of yellow or brown water in your home. These are generally harmless. Brown water coming from the tap is unappealing and can sometimes come with a tangy taste or smell. While this doesn't mean it's unsafe, it's best not to assume your water is okay to drink if you notice a sudden onset of discoloration.
+
+Rust, iron and other sediments in the water are not known health concerns, but until you've identified the cause behind the discoloration, you should filter the water or use bottled water for drinking. This is especially important if you're on a private well. When your well water is brown, this could mean groundwater is contaminating your water supply. If the problem persists, you can take a water sample to be tested locally.
+
+Also, remember that brown or yellow water can damage your clothes if you wash them, and it can stain the fixtures in your home over a prolonged period. That's why it's critical to investigate and resolve instances of discolored water quickly.
+
+How Can I Fix Dirty Water?
+--------------------------
+
+To get rid of dirty water, there are a few methods you can try:
+
+*   Run cold water from your tap for 20 minutes. If the water clears, the discoloration was likely caused by stirred-up sediment in the pipes after a period of low usage.
+*   If the water mostly clears but still has some brown in it occasionally, consider installing a filtration system or a water softener to remove hard minerals from your water supply.
+*   You can also check if the brown water is coming through hot, cold or both. If hot water is the exclusive issue, your water heater is the culprit. Scale or rust may be affecting the hot water, so it's time to flush out the water heater.
+*   If you're on a well and have experienced heavy rain recently, the discoloration may be a result of [changes in the water table](https://www.nationalgeographic.org/encyclopedia/water-table/). You may need to improve your filtration system to remove minerals from the water.
+*   If you're on a city grid and the problem persists or is a known issue in your area, contact the city to resolve the issue.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="391" height="281" src="https://www.youtube.com/embed/oX-jGd6sMF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

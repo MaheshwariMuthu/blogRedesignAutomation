@@ -1,0 +1,104 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Reset My Samsung Refrigerator"
+headline: "How Do I Reset My Samsung Refrigerator?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-04-26
+basePath: https://library.homeserve.com/m/
+heroImage: 11b911230162f44f/webimage-SamsungRefrigerator_Samsung_0001.jpg
+heroAltDescription: "smart refrigerator in home kitchen"
+metaDescriptions: "Fridge feeding you error codes? Or, maybe it's stuck in Demo mode. Here's how to reset your Samsung refrigerator."
+articleAbstract: "Smart Samsung refrigerators come loaded with a lot of useful features, but sometimes the firmware encounters problems. You'll need to reset it to get things back to normal. Here’s how to reset your Samsung refrigerator, plus some simple fixes for other fridge errors."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Reset My Samsung Refrigerator"
+  parent: Appliances-How-To
+---
+  
+
+Samsung refrigerators — particularly the smart units — come loaded with a lot of useful features. However, in order for your fridge to give you a temperature readout or alert you when your groceries are about to expire, it has to have some modern-day tech. As with anything that's highly digital, sometimes the firmware encounters problems. You'll need to reset it to get things running normally again.
+
+**This May Also Interest You:** [**5 Best Smart Refrigerators for Various Household Needs**](https://www.homeserve.com/en-us/blog/buying-guide/the-best-smart-refrigerators/)
+
+Here’s how to reset your Samsung fridge, plus some simple fixes for other fridge errors.
+
+Reset Instructions
+------------------
+
+Reset instructions vary from model to model. Some models of Samsung refrigerators have a reset button on the inside. If that's the case, it will be clearly labeled and located either behind the ice bucket or on the control panel.
+
+Samsung fridges that don't have a dedicated reset button can usually be reset using a standard key combination. Press and hold the Power Cool and Power Freeze buttons simultaneously for five seconds. If the reset has worked, you'll hear a chime, and the fridge will start back up with the default settings.
+
+When Do You Need to Reset a Samsung Refrigerator?
+-------------------------------------------------
+
+From time to time, you may encounter issues with the unit running at an incorrect temperature or behaving strangely after a power outage.
+
+Here are some examples of when you might need to perform a reset:
+
+### Incorrect Temperature Display
+
+If your fridge's temperature display is flickering, providing inconsistent readings or not giving a reading at all, try to pinpoint the cause of the problem first.
+
+Inconsistent readings could be due to a genuine issue with the thermostat. Alternatively, someone may have put hot food into the fridge, which can make it difficult for the fridge to maintain a consistent temperature. If you want to avoid condensation, mold issues and potentially high refrigerator repair costs, let food cool down before putting it into the fridge.
+
+You can reset the temperature using the touchscreen control panel. Depending on the model, this may be located on the inside or outside of the refrigerator door. Press the Fridge or Freezer button to display the current temperature.
+
+To change the fridge temperature, keep tapping the Fridge button. Each press of the button reduces the temperature setting by one degree until it reaches as low as the fridge can go. Tapping the button again will “loop” the temperature setting back to the highest level. For freezer sections, press and hold the button to change the temp, and release it when it reaches the correct setting.
+
+If the display is not working, perform a hard reset of the fridge by pressing and holding the Power Cool and Power Freeze buttons for five seconds. This will reset the entire unit.
+
+<img class="detail-image" src="https://library.homeserve.com/m/ba65e91cb407f84/webimage-2018FamilyHubRefrigerator_Samsung_0002.jpg" alt="smart refrigerator in home kitchen"/>
+
+### Turning Off Demo Mode
+
+In Demo mode, the fridge will appear to be on, but the cooling function is disabled. If your Samsung [refrigerator is stuck in Demo mode](https://www.samsung.com/us/support/answer/ANS00048861/), you'll need to reset it. The way you do this depends on how old the fridge is.
+
+For models made before 2014, you can press and hold the Energy Saver and Freezer buttons for ten seconds to deactivate Demo mode. If your fridge is a newer model, you can press and hold the Freezer, Energy Save and Lighting buttons for ten seconds. If that doesn't work, press and hold Freezer, Energy Save and Fridge for ten seconds.
+
+After the demo mode has been deactivated, the display will show the current temperature.
+
+### Resetting a Frozen Touchscreen
+
+In most cases, a reset will fix a frozen touchscreen. If it doesn't, you may need to [switch the screen off and on again](https://www.samsung.com/us/support/answer/ANS00087902/), which can be done using the red switch located behind a small panel at the top of the fridge, behind the right-hand door.
+
+Just flip the red switch off, wait a few seconds, then flip it back on again. The screen should function as normal.
+
+**More Related Articles:**
+
+*   [Iced Out? Why Your Fridge is Freezing Over](https://www.homeserve.com/en-us/blog/home-improvement/ice-buildup-fridge/)
+*   [Fridge Filthy? Here’s Your 7-Step Deep-Cleaning To-Do List](https://www.homeserve.com/en-us/blog/how-to/refrigerator-cleaning/)
+*   [Your Stainless-Steel Fridge Will Shine Bright Like a Diamond With These Cleaning Tips](https://www.homeserve.com/en-us/blog/how-to/clean-stainless-steel/)
+*   [Common Refrigerator Problems and How to Fix Them](https://www.homeserve.com/en-us/blog/home-improvement/common-refrigerator-problems/)
+*   [Check Out the Average Cost to Service These Top 3 Refrigerator Brands](https://www.homeserve.com/en-us/blog/buying-guide/average-cost-service-refrigerator-repair/)
+
+Fixing a Broken Ice Maker
+-------------------------
+
+Ice maker issues are among some of the most common refrigerator problems across all models of fridges, not just Samsung. Fortunately, they're usually easy to fix. To [reset the ice maker](https://www.samsung.com/us/support/troubleshooting/TSG01207806/), pull the ice tray all the way out to access the blue reset button.
+
+If you can't remove the tray, defrost the unit. It's a good idea to defrost your unit regularly, even if you aren't having problems with it. Once you can reach the reset button, press and hold it for about five seconds or until you hear a chime. You can then reinsert the tray and use the ice maker as normal.
+
+Resetting the Fridge After a Power Outage
+-----------------------------------------
+
+If your fridge is behaving strangely after a power outage or is showing the 1E or SE error message, a reset should solve the problem.
+
+First, press and hold the Energy Save and Lighting buttons. This will perform a soft reset. If that doesn't work, press and hold the Fridge and Freezer buttons for ten seconds for a full reset.
+
+Water Filter Issues on a Samsung Refrigerator
+---------------------------------------------
+
+Some French door refrigerators have a built-in water filter, and the control panel features a water filter indicator to remind you when the filter needs to be changed.
+
+The indicator should be reasonably intelligent, but sometimes the warning symbol persists for longer than it should. You can reset the indicator by pressing and holding the Alarm button, one of the Ice/Water buttons and the Crushed Ice button. Check your refrigerator's instruction manual to confirm exactly which buttons should be pressed to reset the filter indicator.
+
+Fixing Error Code 22E on a Samsung Fridge
+-----------------------------------------
+
+Error code 22E is a warning that there's a problem with your fridge. Resetting your refrigerator by pressing and holding the Fridge and Freezer buttons for ten seconds may dismiss the error temporarily, but it's important to figure out what's prompting the error code so you can fix the underlying issue. Common causes include a clogged vent hole, blade lock, water stagnating in the drainage system, wiring issues or problems with the motor.
+
+Samsung lists additional fridge error codes — and what they mean — [here](https://www.samsung.com/us/support/troubleshooting/TSG01003409/).
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="484" height="281" src="https://www.youtube.com/embed/XuHWMDQd4zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

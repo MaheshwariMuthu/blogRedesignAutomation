@@ -1,0 +1,118 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Install a Google Nest Thermostat"
+headline: "How to Install a Google Nest Learning Thermostat"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-11-17
+basePath: https://library.homeserve.com/m/
+heroImage: 7d788a33241a875a/Blog-GoogleNestThermostat_DanLefebvreUnsplash_0005.jpg
+heroAltDescription: "A white Google Nest Thermostat with a circular black digital display with a blue and white readout is affixed to a white wall with a 63-degree temperature displayed."
+metaDescriptions: "A smart thermostat can be a key asset in any home. Learn how to install a Google Nest Learning Thermostat with this guide."
+articleAbstract: "A smart thermostat can be a key asset in a modern home. The Google Nest brand is a popular choice. Learn how to install a Google Nest Learning Thermostat with this guide."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install a Google Nest Learning Thermostat"
+  parent: HVAC-How-To
+---
+  
+
+**Google Nest Learning Thermostat Installation at a Glance**
+
+* **Step 1:** Remove old thermostat
+* **Step 2:** Mount Nest thermostat
+* **Step 3:** Connect to Wi-Fi
+
+A major attraction of the smart home revolution is the ability to use a single control panel to manage all sorts of home functions that used to run separately. The heating and cooling systems that make your home comfortable are one of the biggest considerations, especially now that those systems can be "smart" enough to learn your patterns and run only at the most needed times, minimizing waste and saving money.
+
+**This May Also Interest You:** [**How to Install a Nest Thermostat**](https://www.homeserve.com/en-us/blog/how-to/nest-thermostat-installation/)
+
+This is why a smart thermostat can be a key asset in a modern home. The Google Nest brand is a popular choice. Learn how to install a [Google Nest Learning Thermostat](https://store.google.com/product/nest_learning_thermostat_3rd_gen?hl=en-US&gclid=Cj0KCQjwwY-LBhD6ARIsACvT72PAtC9GAJ2iz3u7_gmtoHNG2-Wm9l0d1pCFdWQn6c2Lu676vuRVKGkaAvEXEALw_wcB&gclsrc=aw.ds) below.
+
+Getting Started
+---------------
+
+The stages of installing a Google Nest thermostat are fairly straightforward and use tools that you're likely to have on hand. Once you've run a [compatibility check](https://store.google.com/us/widget/compatibility/thermostat) with your home's HVAC system, you can unbox your new thermostat and make sure that all the items are there. These include:
+
+*   Display, base and trim plate
+*   Steel plate
+*   Mounting screws and wiring labels
+*   Nest screwdriver
+*   <img class="detail-image" src="https://library.homeserve.com/m/ef3c0d61e0f9ed7/Blog-AdjustingThermostat_MSchmitz_0001.jpg" alt="Human hand adjusting thermostat on a gray wall with a green snake plant in the photo"/>Installation and welcome guides
+*   Pro installation card
+
+The main tool you'll need is a Phillips screwdriver, which will usually come with your Nest thermostat (that's the "Nest screwdriver" above). You will also need a screwdriver of the right size and type to unscrew your existing thermostat.
+
+You'll need to download a copy of the Nest app, which provides guidance for the installation process and can be acquired from [Google Play](http://home.nest.com/) or the [Apple App](https://itunes.apple.com/us/app/nest-mobile/id464988855?mt=8) Store. Once you have the app running on a mobile device, tablet or laptop, you can begin the installation process.
+
+How to Install a Google Nest Learning Thermostat
+------------------------------------------------
+
+### 
+
+### Step 1: Remove Your Old Thermostat
+
+Switch off the old thermostat by toggling the appropriate circuit breaker, and switch off all circuit breakers connected to your home's HVAC system. Remove the old unit's display and consult the Nest app. It will quiz you about the wiring setup of that thermostat. Once you've answered these questions, you can disengage the unit.
+
+The Nest comes with blue stickers that you will be able to attach for labeling the four wires leading into that thermostat, each of which will be dedicated to a specific port.
+
+Once you've carefully removed these wires from your own thermostat, you can unscrew it from the wall and remove it.
+
+### Step 2: Mount Google Nest
+
+Mark the position to be taken by your Google Nest Learning thermostat, level it using the small onboard bubble level and mark the new screw holes with a pencil. Install the trim plate that comes with the unit if you'd like to conceal any screw holes from the old thermostat, and then attach the Nest base to the wall.
+
+Once you've done this, consult the Nest app, which should provide you with a custom wiring guide for installation. Connect the wires you labeled earlier to the Nest, and attach the Nest's display.
+
+With all of this in place, you're ready to restore the power to your thermostat and HVAC system. Reset your circuit breakers accordingly.
+
+### Step 3: Connect the Thermostat to Wi-Fi and Complete Setup
+
+Once the thermostat is powered up, instructions on its display will guide you to finding your wireless network and entering the appropriate password. Once the thermostat is connected, an on-screen setup will guide you through some further simple steps, including:
+
+*   Updating the thermostat's firmware
+*   Checking that the wiring is properly connected
+*   Registering the type of power your HVAC system is using
+*   Letting Nest know its location in your house
+
+The final step is setting your preferred temperatures for when you're home and away. With your Google Nest Learning Thermostat connected and set up and the Nest app running on your mobile or another device in your home, you're ready to begin making use of its controls and third-generation learning capabilities.
+
+**More Related Articles:**
+
+*   [How to Install a Nest Doorbell](https://www.homeserve.com/en-us/blog/how-to/nest-doorbell-installation/)
+*   [How Much Does It Cost to Install a Nest Doorbell?](https://www.homeserve.com/en-us/blog/cost-guide/nest-doorbell-installation/)
+*   [How Much Does Google Net Hub Cost?](https://www.homeserve.com/en-us/blog/cost-guide/google-nest-hub/)
+*   [Smart AC Not a Dumb Idea If You’re Looking to Cut Climate-Control Costs](https://www.homeserve.com/en-us/blog/buying-guide/smart-ac/)
+*   [Heat Check: The 5 Best Smart Thermostats for Your Home](https://www.homeserve.com/en-us/blog/cost-guide/best-smart-thermostats/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/24f6afcda96bdd/Blog-Nest-home-security-and-temperature-control.jpg" alt="Nest home security and temperature control"/>
+-------------------------------------------
+
+FAQs
+----
+
+### Can You Install a Nest Learning Thermostat Yourself?
+
+Yes. Although it's perfectly possible to have a Nest thermostat [professionally installed](https://support.google.com/googlenest/answer/9850152), most homeowners should be able to handle a Google Nest thermostat installation as a DIY project. It takes about half an hour.
+
+### How Do I Know If the Nest Learning Thermostat Is Compatible With My HVAC System?
+
+Before you take your Nest thermostat out of the box, run the [compatibility checker](https://store.google.com/us/widget/compatibility/thermostat) widget to make sure that your home's HVAC system is compatible with Google Nest.
+
+### How Many Wires Does Nest Learning Thermostat Need?
+
+Typically, four. This is parallel to the standard four wires that most standard thermostats use.
+
+### Does a Nest Learning Thermostat Need to Be Hardwired?
+
+Yes. To run your home's HVAC systems, it needs to be wired into your home's power supply to ensure continuous function. Although the Google Nest Learning Thermostat does have an onboard battery system designed to cope with short power outages, this isn't adequate for operating the device over any length of time beyond a few hours.
+
+### Can I Install a Nest Learning Thermostat Without a C-Wire?
+
+Most thermostat units have four wires that are easily connected to a replacement Nest thermostat. Some, however, may lack a C-wire, also called a "common" wire. Fortunately, it is possible to connect a Google Nest unit to such an arrangement by using a C-wire adapter, an item widely available at numerous retailers. However, such workarounds might prove less than reliable in the long run.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

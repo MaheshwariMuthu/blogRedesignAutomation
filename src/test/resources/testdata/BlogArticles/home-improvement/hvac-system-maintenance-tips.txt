@@ -1,0 +1,156 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "The Do's and Don'ts of HVAC Maintenance"
+headline: "The Do's and Don'ts of HVAC Maintenance"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-06-06
+basePath: https://library.homeserve.com/m/
+heroImage: 63e02a1eda1db357/Blog-shutterstock_183731408.jpg
+heroAltDescription: "technician checking external HVAC unit"
+metaDescriptions: "A lot of homeowners make the mistake of ignoring their HVAC system until it breaks down. Here's what you need to know about HVAC maintenance."
+articleAbstract: "A lot of homeowners make the mistake of ignoring their HVAC system until it breaks down. If you don't want to end up shivering in winter or sweltering in summer, it's a good idea to set up a preventative maintenance plan. Ready to get started on HVAC maintenance? Here's what you need to know. "
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+
+eleventyNavigation:
+  key: "HVAC maintenance do’s and don'ts | Home improvements"
+  parent: HVAC-Home-Improvement
+---
+  
+
+A lot of homeowners make the mistake of ignoring their HVAC system until it breaks down. If you don't want to end up shivering in winter or sweltering in summer, it's a good idea to set up a preventative maintenance plan. This can help your heating, air conditioning and ventilation systems run more efficiently and reduce your chances of a major problem.
+
+**This May Also Interest You:** [**How Much Does HVAC Repair and Maintenance Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+
+Ready to get started on HVAC maintenance? Here's what you need to know.
+
+Must-Do HVAC Maintenance Tasks
+------------------------------
+
+When people talk about HVAC maintenance plans, they are referring to a broad range of checkups, cleanings and other tasks. Your exact HVAC maintenance checklist might vary a little depending on what sort of system you have. However, most maintenance plans will include these basic tasks, some of which you can do yourself:
+
+<img class="detail-image" src="https://library.homeserve.com/m/37fe442bd2b1ff0d/Blog-HVACfilterbeforeandafter_Erossi_002.jpg" alt="A side by side comparison of a clean HVAC furnace filter and a dirty filter "/>
+
+### Filter Replacement
+
+Depending on your system, you might need to change the air return filter for your AC and the air filter for your furnace. Some systems also have oil filters that also need replacing.
+
+### Remove Debris
+
+Removing weeds, shrubs and other overgrowth from your outdoor unit will help it run more efficiently.
+
+### Clean the Coils
+
+Both the evaporator and the condenser for the AC system have coils that should be cleaned occasionally to remove dust.
+
+### Check for Leaks
+
+Drain lines, refrigerant lines, exhaust flues and condensate lines can all have leaks that impair operation or damage your home.
+
+<img class="detail-image" src="https://library.homeserve.com/m/1c63754f11bf4723/Blog-shutterstock_Heating_Tech_CMYK_132189731.jpg" alt="technician fixing furnace"/>
+
+### Tighten Fittings
+
+Blower fans, belts and other moving parts can loosen over time, so fittings need to be tightened occasionally.
+
+### Lubricate the Motor
+
+The motors that run electrical systems can occasionally benefit from lubrication.
+
+### Perform Operating Tests
+
+Various checks can be used to make sure all the systems are operating within recommended standards.
+
+### Clean the Combustion Chamber
+
+On some types of furnaces, the combustion chamber may need regular cleaning.
+
+HVAC Maintenance: Do’s and Don’ts
+---------------------------------
+
+As you can see, there are all sorts of tasks involved in HVAC maintenance. To better understand the best way of maintaining your HVAC system, follow these guidelines:
+
+### DO: Perform Maintenance at the Start of the Busy Season
+
+When possible, try to schedule your maintenance to coincide with the times when you know your system will be running harder. In some places, this might mean scheduling maintenance in late spring and late fall. However, if you live in an especially hot or cold climate, you can probably get away with doing maintenance just once a year. Performing maintenance tasks right before your system will be running ensures your system doesn't break right when you need it, and it improves your operating efficiency.
+
+### DON'T: Try to Do Everything Yourself
+
+There are a lot of smaller maintenance tasks you can do yourself, such as changing filters, rinsing off your outdoor condenser and clearing away grass near your unit. However, it is important to get professional help for most of these tasks, especially those that involve going into the machine to clean parts. Professionals also have access to the specialized tools needed to do things like check refrigerant levels or test for gas leaks.
+
+### DO: Customize Your Filter Replacement Schedule to Suit Your Needs
+
+The general rule of thumb is to change your AC filter and furnace filter every three months. While this is a good starting point for creating a maintenance routine, it's not always the best schedule. The type of filter you have can affect how often you need to change it. Some furnaces may use thicker filters that only need to be changed every six months or so. If you have lot of pets or you are allergic to pollen, you might want to change your filters more frequently. Some people benefit from changing them every month or every other month.
+
+### DON'T: Procrastinate on Maintenance
+
+This one might seem obvious, but it still bears repeating. Regular maintenance is one of the best things you can do for your system. Skipping it or delaying it can lead to major issues. You need to make sure you are getting some kind of cleaning and maintenance check at least once a year. If you find yourself forgetting to make the appointment, there are a few ways to set up reminders. Some people use their phone or app to set reminders. Certain smart thermostats can remind you, too. You might also want to consider scheduling your next maintenance visit with the technician at the end of your current one so that you never forget.
+
+### DO: Shop Around for the Best Maintenance Package
+
+Many homeowners just assume that all HVAC companies provide the same services. The reality is that every company can offer as much or as little as they want. Before you hire someone, check to make sure they actually include all the essential services you want. This should include a full range of checkups, cleanings and preventative care. You should also check that the company can handle your system. Some heating and cooling systems, like geothermal heat pumps, may require specialized care that certain companies do not offer.
+
+**More Related Articles:**
+
+*   [Replacing your HVAC Air Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [Is an HVAC Tune-up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Do You Need a Zoned HVAC System?](https://www.homeserve.com/en-us/blog/home-improvement/zoned-hvac-system/)
+*   [How Often Should You Change Your Furnace Filter](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/2bbe38b8710f11cf/Blog-AdobeStock_12970622.jpg" alt="technician checking external HVAC unit"/>
+
+How Much Will You Pay for HVAC Maintenance?
+-------------------------------------------
+
+The average cost for maintenance will mostly just depend on where you live. Typically, companies offer a flat rate. Expect to pay more if you live in an area with a high cost of living. You might want to shop around a little as different companies may have slightly different prices. A single maintenance visit will cost between $140 and $200.  
+  
+This might seem a little pricey, but keep in mind that it's much better than the alternative — expensive repairs. The average HVAC repair costs somewhere in the $150 to $1,200 range, while buying a new system can cost up to $12,000. Regular maintenance can end up saving you quite a bit of money.  
+  
+If you want to save on maintenance, consider getting a contract with an HVAC company. Signing up for a contract lets you pay a lower price for regular maintenance visits. Some companies may also offer lower repair prices or priority scheduling for contract customers. A contract usually costs $100 to $150 a year. In addition to saving a little money, you'll never have to worry about forgetting to schedule a maintenance check.
+
+Why Do You Need to Do HVAC Maintenance?
+---------------------------------------
+
+Taking the time to do regular maintenance comes with all sorts of perks. Some of the benefits include:
+
+### Lower Utility Bills
+
+When your equipment is properly maintained, it needs less energy to cool or heat your home. This means you spend less on keeping your home at a comfortable temperature.
+
+### Reduced Risk of Emergencies
+
+The last thing you want is a heater that breaks down during a blizzard or an AC unit that quits working on the hottest day of the year. During a maintenance check, the technician can catch problems early so your system doesn't grind to a halt at an inconvenient time.
+
+### Prevention of Pricey Repairs
+
+The big perk of maintenance is that it keeps minor issues from becoming major problems. During maintenance, an HVAC tech can spot things like a loose screw or worn belt. Repairing these smaller things before they damage more of the equipment can prevent a big problem that is expensive and challenging to fix.
+
+### Safety
+
+Some types of HVAC issues can be dangerous. Leaking carbon monoxide from a furnace or refrigerant from an AC unit can damage the health of you, your family and your pets. Maintenance will reduce the risk of dangerous issues going unnoticed for months.
+
+### Creates a More Comfortable Environment
+
+When your system gets regular maintenance, it takes less time for your home to reach your preferred temperature. This means you don't have to sit around sweating while your AC slowly kicks on.
+
+How to Tell If You Need Repairs or Replacements
+-----------------------------------------------
+
+Ultimately, one of the big perks of HVAC inspections and maintenance is that the technician can let you know if anything needs to be fixed. In many cases, the signs you need repairs might be obvious. During maintenance, your technician might find broken parts or note that your system is not outputting enough air at the proper temperature. You may also notice other signs, such as:
+
+*   Strange rattling or grinding noises
+*   A system that switches on and off too often
+*   A home that's always too cold or too hot
+*   Strange or unpleasant smells
+*   Dust coming from vents
+
+Once you notice something is wrong, you will need to decide whether to repair or replace the system. The right choice typically just depends on the cost to fix your system. Experts typically recommend you multiply the age of the unit by the cost of repairs. If this exceeds more than half the cost of replacing the unit, you are better off just going ahead and getting a new one. It might also be a good idea to replace your HVAC if your system is very old, sized incorrectly or if it lacks energy efficiency.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6RoqfIe7HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

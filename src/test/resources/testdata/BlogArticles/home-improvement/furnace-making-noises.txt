@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Furnace Noises You Shouldn't Ignore"
+headline: "7 Furnace Noises You Shouldn't Ignore"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-09-16
+basePath: https://library.homeserve.com/m/
+heroImage: 7e5988f37024d1fa/webimage-Cleveland-Furnace.png
+heroAltDescription: "HVAC"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Is your furnace making noise? Take a look at this list of common furnace warning sounds before calling in the pros. "
+articleAbstract: "Is your furnace making noise? Take a look at this list of common furnace warning sounds before calling in the pros. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "7 Furnace Noises You Shouldn't Ignore"
+  parent: HVAC-Home-Improvement
+---
+  Odd noises coming from your furnace may just be the ordinary sounds of your home gearing up for the winter, or they could be harmless grumbles of an older unit getting going. But sometimes, these noises are signs that trouble is afoot.
+
+**This May Also Interest You:** [**How Much Does HVAC Repair and Maintenance Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+
+Is your furnace making noise? Take a look at this list of common furnace warning sounds before calling in the pros.
+
+Rattling
+--------
+
+If you hear a rattling noise emanating from your furnace, it’s a clear sign that something is wrong. That said, there are a number of different reasons why a furnace might be rattling, some of which are more severe than others.
+
+For example, a rattle could indicate that there are loose bolts in the access hatch. If so, take a wrench and give the loose part a quick tightening up. While this could be a sign of normal wear and tear, it could also mean that your system is getting too old. A rattle might also point toward a crack in your heat exchanger, burner or blower motor fan belt. For this, you’ll want to have a technician diagnose the problem and perform any necessary repairs or replacements. In any event, a rattle is a furnace noise that should not be ignored.
+
+Chirping
+--------
+
+Another common warning sound a furnace will make is a chirping noise. If it sounds like there’s a small bird trapped in your furnace, you’ll definitely want to investigate further. In the best-case scenario, chirping might mean that your furnace is simply warming up after switching on, especially if the sound occurs towards the beginning of the cold season. This is a perfectly normal sound.
+
+However, it might also mean that the pulley for the blower motor is out of alignment or that the mounting plate is touching the blower wheel, especially if it sounds like a metal chirp or squeak. Again, if it doesn’t seem to go away after the furnace starts up, there’s a good chance something is wrong with your heating system, and you'll want to call a pro to have a look.
+
+Booming
+-------
+
+Perhaps one of the more unsettling noises you can hear when your furnace kicks on is a loud booming or banging sound. If your furnace makes a loud noise when turning on, it most likely indicates that your furnace is experiencing a so-called delayed ignition. Under normal circumstances, when the thermostat triggers your furnace to switch on, gas valves open and the burners ignite. However, sometimes for a variety of reasons, the burners won’t ignite and gas builds up as a result. When the burners do ignite, it creates a small explosion, producing a loud booming sound. Although this sounds dangerous, it’s unlikely that you're in any immediate danger. Still, it’s definitely something you’ll want to have looked at by a technician. Over time, these small explosions can damage other parts of your heating system, including your heat exchanger, which can leak deadly carbon monoxide into your home.
+
+**More Related Articles:**
+
+*   [What’s the Difference Between a Furnace and a Heat Pump?](https://www.homeserve.com/en-us/blog/home-improvement/furnace-heat-pump-differences/)
+*   [HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+*   [Here’s Why You Need to Get a Furnace Tune-up](https://www.homeserve.com/en-us/blog/home-improvement/furnace-tune-up/)
+*   [What Do I Do If My Heat Goes Out?](https://www.homeserve.com/en-us/blog/home-improvement/broken-furnace-stopgaps/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+
+Squealing or Whistling
+----------------------
+
+A high-pitched squeal or screech coming from your furnace is another sign that something isn’t quite right in your heating system. However, this type of high-pitched sound from your furnace could mean several different things. For example, a high-pitched squeal or scraping noise is a clear indicator that there’s an issue with a motor bearing in your blower. Over time, as a result of age, dirt buildup or a faulty capacitor, these bearings can become worn out and will need to be replaced. Otherwise, you risk the motor overheating.
+
+However, if your furnace is making more of a whistling noise, the sound might point toward an air-flow issue, like a dirty air filter, obstructed air vent or a damaged duct. If you hear a whistle, open your vents and change your filter. If the noise is still there, call a technician to investigate further.
+
+Popping or Clicking
+-------------------
+
+Among the trickier sounds to diagnose in a furnace is a popping or clicking sound. In many instances, these sounds are perfectly normal. In older furnaces, small clicking or popping sounds are simply the sound of the warm air changing the air pressure inside your ducts and air vents. However, clicking and popping can also be an indication that something more serious is malfunctioning in your heating system. For example, a popping sound could mean that your furnace burners are dirty and may need cleaning. Similarly, a constant clicking sound might be a signal that your heat exchanger is cracked. And while it may not sound so alarming, a cracked heat exchanger is something you’ll want to get repaired as soon as possible as it's one of the leading causes of residential carbon monoxide poisoning. If you hear a clicking sound coming from your furnace that doesn’t seem to quit after it’s been running for a moment, call a technician immediately.
+
+Sounding the Warning Bell
+-------------------------
+
+It’s important not to ignore any of these warning sounds your furnace might make. Sometimes these noises are no cause for concern, but it’s always better to be safe than sorry when it comes to your home’s heating system.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

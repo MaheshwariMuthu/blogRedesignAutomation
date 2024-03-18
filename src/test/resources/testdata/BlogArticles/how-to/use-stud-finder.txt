@@ -1,0 +1,93 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Use a Stud Finder"
+headline: "How to Use a Stud Finder"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-12-07
+basePath: https://library.homeserve.com/m/
+heroImage: 27911d8b9fa2f1c5/Blog-GettyImages-465474029.jpg
+heroAltDescription: "Stud Finder being held by a man against a painted drywall"
+metaDescriptions: "Electronic stud finders can quickly find wall studs without damaging your walls. Here’s how these useful gadgets work. "
+articleAbstract: "The trial-and-error days of locating studs by hammering nails randomly into the wall are long gone. Electronic stud finders can quickly find wall studs without damaging your walls. Here’s how these useful gadgets work."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Use a Stud Finder"
+  parent: Appliances-How-To
+---
+  **Using a Stud Finder at a Glance**
+
+* **Step 1:** Inspect stud finder
+* **Step 2:** Calibrate stud finder
+* **Step 3:** Locate stud
+* **Step 4:** Mark location
+* **Step 5:** Locate flanking studs
+
+If you want to hang a heavy item on your wall using screws, you'll need to find a stud first. Wall studs are vertical wooden planks that form part of your home's wall frames. They can provide secure support for heavy wall fixtures.
+
+**This May Also Interest You:** [**How to Use 3M Claw and Similar Drywall Mounts**](https://www.homeserve.com/en-us/blog/how-to/use-3m-claw/)
+
+Fortunately, the trial-and-error days of locating studs by hammering nails randomly into the wall are long gone. Electronic stud finders are tools that can quickly find wall studs without damaging your walls. Here’s how these useful gadgets work.
+
+How Does a Stud Finder Work?
+----------------------------
+
+Old-style stud finders used rotating magnets to detect the nails in wall studs, making stud detection a painstaking process. Most modern stud finders have a capacitor plate that detects a type of static electricity called an electrostatic field.
+
+The electrostatic field of the materials in your wall depends on their density. A wooden stud is denser than plasterboard. Therefore, a stud finder can detect the change in density to tell you the exact location of your wall studs.
+
+What Are Some Different Types of Stud Finders?
+----------------------------------------------
+
+Which stud finder type is best for you depends on your budget and what you need it for. Basic stud finders are the most affordable tools, but they won't locate the stud edges as accurately as electronic models. Most stud finders are handheld, and there are three main types to be aware of:
+
+### Basic
+
+The most basic stud finders locate the fasteners used to secure the studs using magnets or electricity.
+
+### Electronic
+
+Standard electronic stud finders detect density changes in the wall materials to locate studs.
+
+### Multipurpose
+
+Multipurpose stud finders incorporate radar technology to detect pipes, metal and ceiling beams as well as wall studs.
+
+Multipurpose stud finders are usually more expensive, and a standard electronic stud finder may perform just as well at locating studs in the wall. However, investing in a multipurpose stud finder could save you money if you do a lot of your own home maintenance because you won’t have to purchase additional gadgets in the future.
+
+How to Use a Stud Finder to Find a Stud in the Wall
+---------------------------------------------------
+
+Before you start looking for a stud, identify the rough location and height on the wall where you want to hang your item to narrow down your search area. Remove any nearby pictures or items from the wall that could cause a false reading on your stud finder.
+
+### Step 1: Inspect Your Stud Finder
+
+First, check that your stud finder's batteries are fully charged because it can't locate studs accurately without full power. Remove any dust or dirt from the side with the contacts to ensure a precise reading.
+
+### Step 2: Calibrate the Stud Finder
+
+Your wall studs will be spaced either [16 or 24 inches](https://www.washingtonpost.com/realestate/how-to-find-studs-hidden-inside-walls/2011/08/29/gIQAAlzj3H_story.html) (40 or 60 centimeters) apart, so you should search a roughly 2-foot area around where you want to place your item. Hold the stud finder flat against the wall and press the power switch.
+
+You'll then need to calibrate your stud finder. Many models have a calibration button, but the exact method can vary, so you should check your manual for calibration instructions. Your stud finder will beep or flash a few times and stop when calibration is complete.
+
+**More Related Articles:**
+
+*   [Anchors, a Way: How to Properly Use Drywall Anchors](https://www.homeserve.com/en-us/blog/how-to/use-drywall-anchors/)
+*   [How to Remove Drywall Anchors: 3 Techniques to Try](https://www.homeserve.com/en-us/blog/how-to/remove-wall-anchors/)
+*   [Walls Looking Worse for Wear? Follow This 5-Step Wall-Washing Guide](https://www.homeserve.com/en-us/blog/how-to/clean-walls/)
+*   [How to Fix a Large Hole in Your Drywall](https://www.homeserve.com/en-us/blog/how-to/fix-large-hole-in-wall/)
+*   [How to Mount a Flatscreen TV to a Wall](https://www.homeserve.com/en-us/blog/how-to/mount-flatscreen-tv/)
+
+### Step 3: Locate the Stud
+
+Starting from one side roughly a foot away from your hanging location, move the stud finder horizontally across the wall until it alerts you to a stud. It may beep or flash, depending on your model. When you get an alert, move the stud finder around until you find the exact location of the stud.
+
+### Step 4: Mark the Stud Location
+
+Use a pencil to make a small mark on the wall where the stud is so you know where to drill. Some stud finders have a center-finding function. In this case, mark the edges of the stud on the wall and make a mark halfway between them so that you can drill into the center.
+
+### Step 5: Locate the Flanking Studs
+
+Stud finders can sometimes give a false positive reading if they locate another dense material in your wall, like a pipe. Wall studs are spaced evenly, so you can check that you've actually found a stud by locating the neighboring studs with your stud finder.
+
+Search the wall on either side of your marked stud and mark with a pencil where you get a positive reading. If your marks are at an equal distance from your original stud marking, you can feel confident that what you found is a stud. You can now hammer or drill into the wall to hang your fixture.

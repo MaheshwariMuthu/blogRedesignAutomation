@@ -1,0 +1,82 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to make ice cream at home with a Blender
+headline: You only need this one appliance to make ice cream at home
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment']
+publishDate: 2019-07-05
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: HomemadeIceCreamHS.png
+heroAltDescription: How to make ice cream at home with a Blender
+metaDescriptions: With just a blender, you can make your favorite summertime snack - ice cream - at home.
+articleAbstract: With just a blender, you can have your favorite summertime snack.
+category: ['How To']
+
+eleventyNavigation:
+  key: How to make ice cream at home with a Blender
+  parent: How To
+---
+
+Calling fellow ice cream lovers: I have some delicious news for you. The other day, I had a serious craving for the iconic summer sweet. (Although, let's be real. There's rarely ever a time when I don't want ice cream.) Much to my disappointment, I had none in the freezer - and I also had no desire to leave the coolness of my home or the comfort of my pajamas to go get some.
+
+[1]: https://www.homeserveusa.com/totalhomewarranty
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+:::: blog-info
+That was the moment when I discovered that I could have ice cream in about an hour with a little help from a tiny _(and now very beloved)_ appliance: my blender.
+
+With a blender and short list ingredients, you have all you need to make your very own homemade ice cream. Here's how the magic happens:
+
+## The basic steps
+
+### 1\. Gather the ingredients
+
+All you need for basic ice cream is milk, ice cubes, sugar and vanilla extract. Some recipes also call for heavy cream for a richer consistency.
+
+### 2\. Blend it together
+
+Add your ingredients to the blender - just like you would to make a smoothie or milkshake - and blend them together.
+
+[Learn More About Home Repair Plans Near You](https://www.homeserveusa.com/totalhomewarranty){target="_blank"}
+
+### 3\. Freeze the mixture
+
+Pour the mixture into a sealed container and put in the freezer for about an hour. If you like a soft-serve consistency, you won't have to wait as long before you can enjoy your ice cream.
+
+And almost as exciting as the ice cream itself: Clean-up will be easy. Simply put the ingredients away, rinse out the blender and [load up the dishwasher](/en-us/blog/how-to/load-dishwasher){target="_blank"}. If you have leftovers, store them in the freezer for next time.
+
+## The flavors are endless
+
+When you're in control of the recipe, you can make whatever kind of ice cream floats your boat. Feel free to experiment with fruit, chocolate, cookies and other classics. If you need some inspiration, here are [13 easy ice cream blender recipes to try](https://www.blendtec.com/blogs/news/13-blender-ice-cream-recipes){target="_blank"}.
+
+You can also give your ice cream a healthy spin by using alternative ingredients. For instance, LEAFtv recommended [substituting frozen bananas for sugar](https://www.leaf.tv/articles/how-to-make-a-smoothie-with-a-magic-bullet/){target="_blank"}. Prevention magazine also compiled a list of [healthy ice cream recipes](https://www.prevention.com/food-nutrition/g20467319/healthy-blender-ice-cream-recipes/?slide=1){target="_blank"} that are high in good fats, protein and antioxidants that store-bought versions generally lack.
+
+## The tips to know
+
+Now that you're aware of how easy it is to make homemade ice cream, keep these tips in mind to perfect the practice:
+
+* ### Make frozen milk cubes:
+
+If you're planning ahead, pour some milk into ice cube trays and freeze them. Blend them instead of ice cubes so the finished result is creamier and doesn't have an icy taste or texture.
+
+* ### Use powdered milk:
+
+Adding this can help you achieve that rich and creamy texture you know and love, even if you use regular ice cubes.
+
+* ### Go for the toppings:
+
+Adding ingredients to the blender will turn your ice cream a different shade and create a consistent flavor throughout. However, feel free to stick with a classic vanilla and embellish with toppings after. Alternatively, you can add chocolate chips and fruit chunks after blending so that they're in the ice cream, but their shape and texture will still be intact.
+
+* ### Maintain your blender:
+
+You never know when the craving is going to hit. Be sure to keep up on your [appliance maintenance](https://www.homeserveusa.com/blog/2018/january/maintaining-your-appliances){target="_blank"} so you always have working tools to satisfy the hankering.
+::::
+
+The next small miracle appliance to add to your repertoire? An [Instant Pot](https://www.homeserveusa.com/blog/2018/december/what-is-instant-pot-guide){target="_blank"} It's as easy to make full-blown meals in an Instant Pot as it is to make ice cream in a blender.
+
+Being prepared for home repairs and appliance issues is always a good strategy. See how [plans from TotalHome Warranty by HomeServe](https://www.homeserveusa.com/totalhomewarranty/plans-pricing){target="_blank"}can help with the costs of covered appliance and home system repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}

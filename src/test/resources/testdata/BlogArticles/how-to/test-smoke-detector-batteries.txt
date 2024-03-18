@@ -1,0 +1,54 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Test the Batteries in Your Smoke and Carbon Monoxide Detectors"
+headline: "How to Test the Batteries in Your Smoke and Carbon Monoxide Detectors"
+author: Katelynne Shepard
+tags: ["post"]
+publishDate: 2023-07-26
+basePath: https://library.homeserve.com/m/
+heroImage: f5e5da88dc28f3a/Blog-CarbonMonoxideDetector_MSchmitz_0001-copy.jpg
+heroAltDescription: "A human hand replaces the 9-volt battery in a home smoke alarm and carbon monoxide detector"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Fire alarm batteries need to be tested on a regular basis to ensure that everything is in working order. Here's a step-by-step testing guide."
+articleAbstract: "Fire alarm batteries need to be tested on a regular basis to ensure that everything is in working order. Here's a step-by-step testing guide."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Test the Batteries in Your Smoke and Carbon Monoxide Detectors"
+  parent: Interior-Home-How-To
+---
+  Setting off the fire alarm every time you cook can be annoying, but having working smoke and carbon monoxide detectors in your home can potentially save your life.
+
+**This May Also Interest You:** [**How to Install a Smoke Detector**](https://www.homeserve.com/en-us/blog/how-to/install-smoke-detector/)
+
+Fire alarm batteries need to be tested on a regular basis to ensure that everything is in working order.
+
+How Do You Test the Batteries in Your Smoke Detector or Carbon Monoxide Detector?
+---------------------------------------------------------------------------------
+
+When you are testing a carbon monoxide or fire alarm battery, you are also testing that the device is working as it should. Below are the steps for how to test a smoke detector or carbon monoxide detector that has a battery compartment.
+
+### Step 1: Locate the Test Button
+
+The first step when conducting a fire alarm test is to find the test button on the device. This is usually an oval button in the middle of the device on the front, and it will be labeled "Test." If you have other people in the house, make sure to let them know you're about to test the smoke and carbon monoxide detectors beforehand.
+
+### Step 2: Press and Hold the Button
+
+There should be instructions on the detector for how long to hold the button to start the test and what should happen. Usually, you hold the button for three to five seconds and wait to hear the normal alarm. Some models may emit a specific series of beeps during a test instead.
+
+If you have a large home, you may want to ask someone to stand at the farthest point from the detector so you can be sure that everyone will hear it in an emergency.
+
+### Step 3: Replace the Batteries If Necessary
+
+If the detector doesn't sound the alarm or the noise is very faint, that's a sign that either the detector isn't working properly or the batteries need to be replaced. In general, carbon monoxide and smoke alarm batteries should be replaced every six months, even if they appear to be in working order, but you may need to replace them sooner.
+
+To replace the batteries, flip the device over and find the battery compartment. Some models have a lock that you must turn with a butter knife or other flat object. Take the old batteries out — making sure to dispose of them properly — and put new batteries in. Close the compartment and run the test sequence again to ensure the new batteries are working.
+
+### Step 4: Schedule Your Next Test Reminder
+
+Carbon monoxide and smoke detector batteries should be tested once per month, so make sure you have a note in your planner or on your phone calendar as a reminder.
+
+What If My Detector Doesn't Have a Battery?
+-------------------------------------------
+
+Some newer models don't have a replaceable smoke alarm battery. Instead, the battery is housed in an internal compartment that isn't accessible, and trying to get to it can actually damage the device. If you have one of these and the alarm isn't working properly when you test it, you will need to replace the entire alarm. These models generally have a stated lifespan of 10 years on the box, but it's possible for them to go bad long before this, which is why regular testing is so important. It's also possible to have a smoke alarm that is hardwired. These should still have a battery backup in case of a power outage.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

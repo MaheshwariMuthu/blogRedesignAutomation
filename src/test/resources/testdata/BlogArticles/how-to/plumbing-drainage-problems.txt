@@ -1,0 +1,210 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "15 Common Plumbing Problems Every Homeowner Needs to Watch Out For"
+headline: "15 Common Plumbing Problems Every Homeowner Needs to Watch Out For"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-02-08
+basePath: https://library.homeserve.com/m/
+heroImage: 784ce6318ea0dd7c/Blog-AdobeStock_35636171.jpg
+heroAltDescription: "tightening faucet with wrench"
+metaDescriptions: "Plumbing problems are gonna happen. Know how to spot trouble and respond to an emergency. Read on to familiarize yourself with 15 common plumbing issues."
+articleAbstract: "The beauty of homeownership is knowing know plumbing problems are bound to happen. That's why it's a good idea to know how to spot trouble so you can fix it before a disaster happens."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0919
+stickyDisplayText: Call today for a local plumber.
+lightboxCopy: Local plumbing pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/plumbers/hs/same_day
+  large:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner1.png
+      alt: Plumbing eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner2.jpg
+      alt: Plumbing eLocal Banner 2
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "15 Common Plumbing Problems Every Homeowner Needs to Watch Out For"
+  parent: Plumbing-Home-Improvement
+---
+
+Have you been hearing the drip, drip, drip of your bathroom faucet throughout the night? Are you having issues with flushing your toilet? Is water pressure a problem in your shower? If you're a homeowner, sooner or later you'll have to deal with issues involving your plumbing. There's no need to panic, though: Some common plumbing issues you’ll be able to handle yourself if you have the proper tools and know-how.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**Reasons to Call a Professional Plumber**](https://www.homeserve.com/en-us/blog/home-improvement/professional-plumber-repairs/)
+
+If you aren't sure how to tackle an issue or the problem is serious, it's best to [call in a professional](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.homeserve.com_&d=DwMGAw&c=52_qzcCJImpyELfSiqccK6a88fsAvZ7n9PFxSlq6MQ4&r=6uewxg5vGOc7eJbPskR81eA5_yHAjedXfDv7KmI2YRA&m=9XdfvyjLAFI2chdpTvS8qluNaZb1t7cjD9_hlnZ6530&s=x_KIE3IEfWZR1o70qe-SImXLQgT71yd9DdWh1edIqSw&e=). Of course, before you start any do-it-yourself project, make sure you take your own safety into account. For most issues, you'll want to shut off your water first. Regardless of what the problem is, you should wear safety goggles and gloves at the very least.
+
+Here are 15 common plumbing problems every homeowner should be on the lookout for:
+
+1\. Dripping Faucet
+-------------------
+
+  
+The most obvious detriment of having a dripping faucet is wasting water. Assuming a faucet drips only once a second, that’s 86,400 drips a day. At 15,140 drips per gallon, that’s a total of 5.7 gallons of wasted water a day. That’s more than 2,000 gallons a year, which is about 8 tons of water literally going right down the drain. These are the numbers for just a single faucet. If the home has more than one leaky faucet, the waste quickly multiplies. Even if you have a slow-drip faucet, you’re wasting a whole lot of water.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+  
+That’s in addition to the fact that water and metal surfaces don’t generally go well together. All that excess water can create patches of rust in pipes and other fixtures. This could lead to even more leaks — many of which might be undetectable until it’s too late.
+
+Similarly, water and wood don’t mix well, either. Instead of rust, _rot_ becomes the enemy. Wet, rotting wood can also breed mold, which can cause many health issues. A combination of rot, rust and mold can be disastrous for the structural integrity of your home.  
+  
+Fixing a dripping faucet — and preventing all these issues — can be as simple as putting in new O-rings, but it also depends on the type of faucet you have.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+2\. Running Toilet
+------------------
+
+  
+A running toilet is an even more wasteful version of the leaky-faucet problem. How bad can it get? Well, a small toilet will waste about 20-30 gallons of water per day. A medium-sized toilet will waste more, while a running bidet will waste a dozen tons of water a month. If your toilet is running and a couple of quick handle jiggles don’t get it to stop, then you should call a plumber.  
+  
+Of course, the running toilet could be as simple as a leaking flapper. That still wastes water, albeit at a much-reduced rate.
+
+In either case, a plumber will be able to set you right. Sometimes, the toilet will run only for a second or two, intermittently. This is the famous “haunted toilet” that seems to have a ghost flushing it. Most of the time, however, the reason it does this is all too real: a worn-out stopper. It would be a good idea to replace all the inner workings of the toilet when replacing one. That way, you won’t have to have two service calls in quick succession.
+
+3\. Clogged Toilet
+------------------
+
+  
+Clogged toilets can be annoying. They overflow. They smell bad. They get waste all over the floor. And worse, yet: They can be a symptom of a much more dire situation than you might initially suspect: septic system damage.
+
+Fortunately, clogged toilets aren’t usually a sign of faulty plumbing or impending catastrophe. A few vigorous plunges should clear them. Still, there are times when you need to call a plumber. For instance: If water or sewage backs up in multiple locations within the home, something is seriously wrong.  
+  
+When these situations occur, the blockage could be anywhere from the septic tank or sewer line to ... well, _any_ pipe in the house. An expert professional plumber might have to use powerful tools to clear the clogs. Sometimes, the clogs happen because people flush stuff that shouldn’t be flushed, such as hair, dental floss and food. You can help keep your toilet, pipes, and sewer and septic tank connections healthy by following the old plumber’s maxim: No. 1, No. 2 and toilet paper _only_.
+
+4\. Slow or Clogged Drains
+--------------------------
+
+  
+One of the most common issues for which people call an expert plumbing professional is slow drains. Many times, these problems occur for similar reasons to clogged toilets. Goodness knows what detritus gets clogged up in your pipes. As with toilets, don’t put items down the drain that can cause a clog. Unfortunately, it’s not usually possible to effectively plunge a kitchen or bathroom sink — plus, it’s not a good idea to try because of how unsanitary it is.  
+  
+Such slow drains might only need a bit of drain cleaner but, many times, you’ll have to call in the cavalry. The big problem with drain clogs is that the pipes that become clogged are hidden behind plaster or drywall. They require a “bit of digging” to be reached. Because these pipes often bend and curve around load-bearing structural components of your home, they can be difficult to reach and take care of — even when an expert is on the job.
+
+5\. Water Heater Not Working
+----------------------------
+
+  
+Water heater problems might require the services of a plumber, an expert natural-gas professional, an electrician or any combination of the three. Some common issues include:
+
+*   Valves giving way, causing the water heater to flood the surrounding area
+*   Corrosion or rust interfering with water circulation in the tank
+*   Bacteria invading the tank and making your water smell terrible
+
+But the most common problem with a water heater is that it doesn’t live up to its name — providing either too little hot water, or none at all.  
+  
+If it’s the latter, it might be as simple as needing to relight the pilot on a gas heater or replace the heating element on an electric heater. Corrosion, rust, or sediment in the tank — more common in areas with hard water — must be cleaned out for your tank to function properly, and that requires an expert.
+
+A leaking water heater, however, cannot be repaired. It’s done for, and it must be replaced.
+
+6\. Leaky Pipes
+---------------
+
+  
+Leaky pipes are typically the first thing people think of when it comes to the question of whether to call a plumber. It could be a leaking toilet pipe, a leaking pipe under a sink or just about any other pipe in your home. Leaky pipes, like dripping faucets, create not only enormous water waste but also damage to the home. Water rots wood, causes metal to rust and pools up to form breeding grounds for both bacteria and insects that transmit disease.  
+  
+Leaky pipes and other fixtures may need replacing. Even the highest-quality items wear out over time. If the culprit is a fixture, it could be so old that finding parts for it will be impossible — at which point it’s better to replace it. Pipes, whether metal or PVC, can be replaced a lot easier than an entire system. A professional plumber will not only be able to advise you on the best course of action, but also to perform the repair or repairs on everything from a leaking pipe under the sink to signs of a near-gusher behind the hallway drywall.
+
+7\. Low Water Pressure
+----------------------
+
+  
+Low water pressure is troublesome even if you’re not in the shower. It’s possible that you have low water pressure from the utility, which can be checked easily with a pressure gauge. It’s also possible that there are problems within your home. It could be as simple as trying to do too much at once. If you run the dishwasher _and_ water the lawn, your shower might not be so great. Of course, you might also have blocked pipes. To find out if the low pressure exists throughout the home, check different locations, one at a time.  
+  
+Check your water valve. It could only be halfway open. Run each faucet and showerhead and make note of any with low pressure. If there’s just one location with low pressure, that particular fixture or set of pipes is probably blocked in some way. If the whole house has low pressure, one or more main pipes has an issue.
+
+8\. Main Water Line Break or Leak
+---------------------------------
+
+  
+There are two kinds of water main breaks. First, the public delivery line itself could break. Second, the delivery line from the public main that brings water to your home could break.
+
+In the case of the former, it’s not your issue. The municipality where you live is responsible for fixing that. When it comes to the latter, you’re responsible. Water main breaks of any type are, at once, both spectacular _and_ frightening. They call for major repairs and heavy equipment to fix, often requiring the digging up of your property. As such, they demand top expert professionals and are certainly not do-it-yourself jobs.  
+  
+Water main leaks are only marginally less serious — and still require immediate attention. If left alone, they can become water main _breaks_. They, too, require heavy equipment and digging.
+
+These water main issues are the biggest jobs any plumber will ever tackle. Depending on the age of your house, it might even be a good idea to replace decades-old pipes with newer, tougher pipes. In any event, an expert professional plumber will be able to advise you.
+
+9\. Sewer Line Issues
+---------------------
+
+  
+While water mains bring the water to you, sewer lines take it back out again. Sewer lines won’t explode with a geyser of Old Faithful proportions, but related problems are usually … _disgusting_. Most of the time, however, sewer line issues amount to simple blockages. If you put stuff down the toilet that doesn't belong — including the misleadingly named “flushable wipes” — then a sewer clog _will_ happen eventually. Even if you don’t, you still might need an expert professional plumber to come clean the lines.  
+In some cases, however, sewer main pipes need replacing, particularly in older homes where clay pipes were the norm. Cast-iron pipes will likely last forever, but the clay pipes may chip or break, leaving you with a disagreeable problem. While having sewer main pipes replaced, it’s usually also a good idea to have all the connecting pipes checked, too. In the worst-case scenario, the sewer line cannot be cleared and must be replaced. In these cases, it’s usually a good idea to get more than one professional plumber’s opinion.
+
+10\. Expensive Water Bill
+-------------------------
+
+  
+Sudden increases in your water bill can result from a variety of reasons. A drip a second from a single faucet adds up to just under 6 gallons daily. Normal use for a family of four is about 200 gallons daily. Over the course of a month, that will be 6,180 gallons instead of 6,000 — and that extra 180 gallons adds up over time. The weather can also impact your bills; dry weather increases water usage as you strive to keep your lawn from dying. Extra people living in your home also results in more water usage.  
+  
+Your utility may use estimates for your bill based on previous consumption. If they’ve estimated low, then you might see a sudden spike as the bill “catches up.” Installing water-saving fixtures and other such devices can offset a rising bill or reduce a static bill. It’s also good for the environment to use less water.
+
+11\. Downspout Issues
+---------------------
+
+  
+While pipes and fixtures can cause problems at or below ground level on your property, faulty downspouts can be problematic both below and above ground. If they become disconnected or the connections become stressed or broken, water can seep down around the foundation. This can cause sweating walls and foundation damage below the ground. Sweating walls, not to mention water that seeps out of the foundation, will result in a wet basement.  
+  
+If downspouts become clogged, they might overflow back into the gutters, which then causes the gutters to overflow. That’ll contribute to your “water-in-the-basement” problem. Overflowing gutters can also adversely affect the wood to which they’re connected, as well as the soffits, fascia and shingles near the overflow point. Even if you clean your gutters, if you don’t clean your downspouts, you might wind up with gutters that fall off your home.
+
+12\. Wet Spots on the Lawn
+--------------------------
+
+  
+Wet spots and standing water on your lawn can be minor or serious. Minor grading problems can cause puddles that aren’t overly dangerous unless the grade slopes backward toward the house; if it does, it causes the same kind of problem as bad downspouts. Major problems include leaking or otherwise damaged septic systems, leaking sewer mains or even leaking water mains. All of these should be handled immediately so that they don’t turn into utter disasters.  
+  
+Some standing-water problems can be whisked away with a few shovelfuls of dirt and some new sod. Others require a backhoe, a full team of expert plumbing professionals — and a lot of money. It pays to have your property periodically checked to avoid an unwelcome surprise.
+
+13\. Overflowing Gutters
+------------------------
+
+  
+Both these and the aforementioned poor downspouts can cause not only wet spots on your lawn but also foundational problems. Having drainage tile installed to shunt water that overflows away from the house is a sound strategy to protect your foundation.
+
+Overflowing gutters can be very serious in cold weather. Once the rain stops, for example, a clogged and overflowing gutter can be ripped off the house as the water freezes into heavy ice. Such damage can ruin the side of your roof, necessitating many more repairs than you even wanna think about having to do.  
+  
+It’s crucial to keep the gutters free from debris and trash so that they can flow freely and remove water from around your house. Many people install wire mesh over their gutters to keep out twigs, leaves and other debris that can clog the gutters and make them overflow.
+
+If your gutters are clean, yet they still overflow, you might have a gradient problem. The gutters may not be aligned correctly at the proper angles.
+
+14\. Water Stains in Basement
+-----------------------------
+
+  
+Water stains in your basement are what’s left behind after you have a flood or other damaging water issue. Often, the stains contain mold, mildew or other nasty things that both smell bad and expose occupants of your house to health risks. These stains aren’t just unsightly; they also show possible areas of both aesthetic and structural damage. One overflowing gutter, for example, could cause water to seep into your basement and ruin your brand-new drywall.  
+  
+If the water stains are extensive, it might be prudent not only to replace the stained materials but also to assess the soundness of any other materials to which the stained items might have been attached. For example, you should check the joists behind the drywall for wood rot and metal rust.
+
+15\. Mildew in the Attic
+------------------------
+
+  
+Most attics don’t have plumbing in them, but some might. Also, any attic that’s behind a wall that’s been affected by an overflowing gutter or clogged downspout could have mold and mildew problems. Because attics are drier than other places in the home, water damage could go unnoticed, particularly if the damage occurs behind any added walls. It’s a good idea to have an expert in to assess both the existence of water damage and the attic’s propensity for being damaged because of faulty exterior water systems.  
+  
+Mildew is usually just annoying and not physically harmful. Mold, however, can be deadly when the spores are inhaled. An expert mold professional will be able to advise you further.
+
+What to Do in a Plumbing Emergency
+----------------------------------
+
+  
+First, don't panic. If possible, try to determine the cause of the emergency if you can. Using towels, sheets, or other absorbent materials, try to contain the flow of water as best you can and ring for the expert plumbing professionals. Once an emergency has occurred, time is of the essence. You shouldn't wait.  
+  
+[_Plumbing problems_](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.homeserve.com_en-2Dus_blog_how-2Dto_plumbing-2Ddrainage-2Dproblems_&d=DwMGAw&c=52_qzcCJImpyELfSiqccK6a88fsAvZ7n9PFxSlq6MQ4&r=6uewxg5vGOc7eJbPskR81eA5_yHAjedXfDv7KmI2YRA&m=9XdfvyjLAFI2chdpTvS8qluNaZb1t7cjD9_hlnZ6530&s=5yDKh65uDb_neSstDI2yZN2xXD9-l8eVhNd_1lDUcYs&e=) _don't have to be the end of the world. HomeServe can help you devise the right solution to your problem and also assist in preventing future issues. Give us a call today to find out more about_ [_our plumbing plans_](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.homeserve.com_sc_plans-23filter-3Dplumbing&d=DwMGAw&c=52_qzcCJImpyELfSiqccK6a88fsAvZ7n9PFxSlq6MQ4&r=6uewxg5vGOc7eJbPskR81eA5_yHAjedXfDv7KmI2YRA&m=9XdfvyjLAFI2chdpTvS8qluNaZb1t7cjD9_hlnZ6530&s=J4uJ1iBpu9gAJEZqnKFrk6xfQ5XWnvMVukh29sCKpvE&e=)_._
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5j759jOLiwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

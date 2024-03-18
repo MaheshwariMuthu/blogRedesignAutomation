@@ -1,0 +1,59 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Can You Keep Your Water Heater Outside?"
+headline: "Can You Keep Your Water Heater Outside?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-25
+basePath: https://library.homeserve.com/m/
+heroImage: 4b052910be5d92b3/Blog-HOMESERVEUSA-PSEG-2019ModernFotographicbyDaveNoonan-109.jpg
+heroAltDescription: "technician with water heater"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If you're trying to save space, installing an outdoor water heater might be a good option. Here's what you should know."
+articleAbstract: "If you're worried about indoor air quality or want to save space, you might be wondering if it's possible to install a water heater outdoors. Understanding how outdoor water heaters work and what protection they need can help you decide if it's the right option for your household."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Can You Keep Your Water Heater Outside?"
+  parent: Plumbing-Home-Improvement
+---
+  
+
+Your water heater is an essential part of your home's plumbing system, but working out where to install it can be a real headache. If you're worried about indoor air quality or want to save space, you might be wondering if it's possible to install a water heater outdoors.
+
+**This May Also Interest You:** [**How to Replace the Anode Rods on Your Water Heater**](https://www.homeserve.com/en-us/blog/how-to/replace-water-heater-anode-rods/)
+
+Understanding how outdoor water heaters work and what protection they need can help you decide if it's the right option for your household.
+
+Can You Keep a Water Heater Outside?
+------------------------------------
+
+Whether you can install a water heater outdoors depends on the local climate and your water heater type. Some tankless gas water heaters are specifically designed for outdoor installation with integrated vents on the front panel. They could be suitable if you want hot water on demand and live in a relatively temperate climate. However, they may not be a good option if your area gets very cold in the winter because low temperatures can make your water heater less efficient.
+
+Choosing a water heater intended for outdoor use is essential if you want to install it outside. Conversely, you can't install an outdoor water heater indoors. Indoor and outdoor water heaters have different venting requirements, and choosing the wrong one could allow exhaust gasses to build up inside your home. It's a good idea to consult a professional plumber to help you decide if an outdoor water heater is suitable for your home and which model to pick.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6dc3b00678e6982b/Blog-Dominion_Appliances_SHMP929B47B9_04.jpg" alt="Appliance repair water heater"/>
+
+Why Might Someone Install an Outdoor Water Heater?
+--------------------------------------------------
+
+There are several reasons why installing a water heater outdoors could be beneficial. First, it saves you the hassle of venting your water heater through the roof. Instead, you can simply place it on any exterior wall near the main gas line and a hot water pipe. It could also be a good option for heating areas like pool houses or small homes where you don't want to waste interior space on storing a water heater.
+
+Installing an outdoor water heater also means that you won't be bothered by the sounds it makes during operation. It also reduces the risk of a gas leak inside your home, making it an option worth considering for safety-conscious homeowners.
+
+**More Related Articles**
+
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+*   [What’s the Deal With Self-Cleaning Water Heaters?](https://www.homeserve.com/en-us/blog/home-improvement/self-cleaning-water-heater/)
+*   [How to Flush Your Tankless Water: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [Thinking About a Solar Water Heater? Here Are the Pros and Cons](https://www.homeserve.com/en-us/blog/home-improvement/solar-water-heater/)
+*   [What’s the Difference Between Tank and Tankless Water Heaters?](https://www.homeserve.com/en-us/blog/home-improvement/tank-vs-tankless-water-heater/)
+
+Do You Need to Build an Enclosure for an Outdoor Water Heater?
+--------------------------------------------------------------
+
+You don't usually need to build an enclosure for a gas-powered tankless water heater installed outside. However, you'll need an enclosure if you want to put an electric tankless water heater or a tank-style heater outdoors. Otherwise, adverse weather and moisture could damage your unit, and you may end up voiding the warranty.
+
+You can purchase enclosures specifically designed for housing outdoor tank-style and tankless water heaters to protect them from the elements. However, an enclosure won't be enough to protect your heater and keep it working efficiently if you live in a cold climate.
+
+It's also important to check whether any enclosure you're considering provides adequate insulation. Galvanized steel enclosures tend to offer less insulation than other materials, so it's a good idea to raise your water heater off the ground if you decide to use one.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,25 @@
+--------------------------------------------------------------------------
+|ArticleName				|Title	|Author	|Date	|Image	|
+--------------------------------------------------------------------------
+|soundproof-room			|Pass	|Pass	|Pass	|Pass	|
+|summer-maintenance-checklist	|Pass	|Pass	|Pass	|Pass	|
+|solar-water-heater			|Pass	|Pass	|Pass	|Pass	|
+|stove-oven				|Pass	|Pass	|Pass	|Pass	|
+|solar-water-heater			|Pass	|Pass	|Pass	|Pass	|
+|stucco-house				|Pass	|Pass	|Pass	|Pass	|
+|solar-powered-outdoor-lights	|Pass	|Pass	|Pass	|Pass	|
+|storm-door-installation			|Pass	|Pass	|Pass	|Pass	|
+|solar-shingles				|Pass	|Pass	|Pass	|Pass	|
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|ArticleName				|Heading		|Paragraph		|Link			|List			|Image			|Video			|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|soundproof-room			|Pass: 7 Fail: 0	|Pass: 16 Fail: 0	|Pass: 6 Fail: 0	|Pass: 4 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|
+|summer-maintenance-checklist	|Pass: 17 Fail: 0	|Pass: 23 Fail: 0	|Pass: 6 Fail: 0	|Pass: 3 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|solar-water-heater			|Pass: 4 Fail: 0	|Pass: 16 Fail: 0	|Pass: 10 Fail: 0	|Pass: 2 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|stove-oven				|Pass: 12 Fail: 0	|Pass: 23 Fail: 0	|Pass: 8 Fail: 0	|Pass: 2 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|solar-water-heater			|Pass: 12 Fail: 0	|Pass: 19 Fail: 0	|Pass: 13 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|stucco-house				|Pass: 10 Fail: 0	|Pass: 19 Fail: 0	|Pass: 12 Fail: 0	|Pass: 3 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|solar-powered-outdoor-lights	|Pass: 3 Fail: 0	|Pass: 15 Fail: 0	|Pass: 10 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|storm-door-installation			|Pass: 3 Fail: 0	|Pass: 14 Fail: 0	|Pass: 10 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 0 Fail: 0	|
+|solar-shingles			

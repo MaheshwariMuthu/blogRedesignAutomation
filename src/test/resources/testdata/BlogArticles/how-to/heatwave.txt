@@ -1,0 +1,93 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What to Do During a Heat Wave"
+headline: "What to Do During a Heat Wave"
+author: Lee Soren
+tags: ["post"]
+publishDate: 2023-08-23
+basePath: https://library.homeserve.com/m/
+heroImage: c31972d77f727ce/Blog-GettyImages-1480852667.jpg
+heroAltDescription: "Young woman cooling down by ventilator at home"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Heat waves can be dangerous — and even deadly. Protect your home and family with these tips for staying cool and comfortable during a prolonged period of heat."
+articleAbstract: "Heat waves can be dangerous — and even deadly. Protect your home and family with these tips for staying cool and comfortable during a prolonged period of heat."
+category: ["How To"]
+eleventyNavigation:
+  key: "What to Do During a Heatwave"
+  parent: HVAC-How-To
+---
+  Could you fry an egg on your driveway? If the answer is yes for days on end, you’re probably experiencing a heat wave.
+
+**This May Also Interest You:** [**Hot This Summer? Here’s Everything You Need to Know to Keep Cool**](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+Unfortunately, these extreme weather conditions don’t just mean a creative way to cook breakfast. They can be downright dangerous. That’s why it’s crucial to protect your home and family from the sizzling temperatures.
+
+What Is a Heat Wave?
+--------------------
+
+Ready.gov defines extreme heat — commonly known as a heat wave — as a period of time when [temperatures stay above 90 degrees](https://www.ready.gov/heat) for two or more days, accompanied by high humidity.
+
+Why Are Heat Waves So Dangerous?
+--------------------------------
+
+When temperatures stay so high for so long, your body struggles to maintain its normal temperature. This can lead to heat-related illnesses, such as heat cramps, heat exhaustion and heat stroke.
+
+In extreme cases, overheating can even lead to death. In fact, according to the [National Weather Service](https://www.weather.gov/hazstat/), heat waves result in more fatalities than any other weather-related hazard. Children, older adults and individuals with medical conditions may be particularly susceptible to illness and death caused by exposure to extreme heat.
+
+Can You Prepare for a Heat Wave?
+--------------------------------
+
+If you live in a climate that’s prone to super-high temps, you can take steps to prepare your home for the next heat wave by:
+
+*   Insulating your home
+*   Hanging window coverings, such as curtains or shades
+*   Keeping your air conditioner well-maintained
+*   Installing window air conditioning units or ceiling fans
+*   Installing an attic fan or ventilator
+*   Switching from incandescent light bulbs to LEDs
+*   Applying window reflectors, which reflect heat away from your home
+*   Identifying public places where you can cool off, such as your local library or a designated cooling center
+
+Even better, many of the home improvements listed here promote energy savings, so your wallet will thank you, too.
+
+**More Related Articles:**
+
+*   [Got Central Air? Use This Top-to-Bottom Air Conditioner Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Replacing Your HVAC Filter is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How to Clean a Window AC Unit: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/clean-window-ac-unit/)
+*   [How to Clean an Air Conditioner](https://www.homeserve.com/en-us/blog/how-to/clean-air-conditioner/)
+
+What Are Some Ways to Protect Your Home and Keep Cool During a Heat Wave?
+-------------------------------------------------------------------------
+
+If a heat wave has already arrived, don’t worry. Here are some easy ways to keep your home and family cool when the weather isn’t:
+
+* **Stay hydrated:** Drinking regularly during extreme heat can help reduce the risk of dehydration. Stick with decaffeinated, nonalcoholic and non-carbonated beverages.
+* **Block out the sun:** Closing your blinds or curtains can block out direct sunlight, keeping your home cooler.
+* **Don’t cook:** Your oven can release more heat into your home, so heat waves are a great time to eat out or indulge in refrigerated favorites, such as coleslaw and macaroni salad. Just be sure to keep meals light.
+* **Stay inside:** Unless you’re going for a dip in the pool, skip the outdoor activities, such as mowing the lawn.
+* **Prepare before going out:** If you do have to go out, make sure you’re prepared. Wear a T-shirt, don a hat and always wear sunscreen.
+* **Choose low-energy activities:** To keep cool, avoid high-energy activities. Instead, catch up on your favorite low-key pastimes, such as binge-watching your favorite TV show.
+* **Hit the water:** A cool shower or bath can bring down your body temperature. Even a quick one can help if you're feeling overheated.
+* **Seek shade:** When you're outdoors, stay out of the sun whenever possible. If there are no trees or awnings nearby, wear a wide-brimmed hat.
+* **Protect your pets:** Hot days are also dangerous for pets, so keep them inside (especially at midday), make sure cool, fresh water is available at all times and don’t let them walk on burning pavement.
+* **Check on vulnerable family members, friends and neighbors:** Heat waves can be especially dangerous for certain people, including seniors, folks with chronic medical conditions and pregnant women, so check in to make sure they’re safe, especially if they don’t have air conditioning.
+* **Remember your plants:** Plants can suffer from extreme heat, too. Water them regularly — preferably in the morning, when it’s cooler — and move potted plants into the shade.
+
+Heat-Related Illnesses
+----------------------
+
+Even when you’re careful, extreme temperatures can harm your health, so it’s important to watch for the following signs of heat-related illnesses:
+
+*   Weakness
+*   Headache
+*   Dizziness
+*   Nausea
+*   Muscle cramps or spasms
+*   Pale, clammy skin
+
+If you or someone you know exhibits one or more of these symptoms, get them to a cool place, apply cool, wet cloths and have them sip water.
+
+However, more serious symptoms, such as confusion, vomiting, a rapid pulse or loss of consciousness may indicate heat stroke. If you see these signs, seek medical attention immediately.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/Y7MRjp7m3ZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="HVAC Tune Up Tips!"></iframe>

@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What's the Difference Between an Oven, Stove and Range?"
+headline: "Oven, Stove or Range — What's the Difference?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-06-22
+basePath: https://library.homeserve.com/m/
+heroImage: 3e41a1dca88dbdea/Blog-GettyImages_538161084_Oven_19x12_RGB.jpg
+heroAltDescription: "front and knobs of a stainless steel oven"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "This quick guide will tell you all you need to know about what's what with your stoveovenrange."
+articleAbstract: "The hub of kitchen cooking is an appliance that seems to be going through a bit of an identity crisis. But fear not: This quick guide will tell you all you need to know about what's what with your stoveovenrange."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "What's the Difference Between an Oven, Stove and Range?"
+  parent: Appliances-Buying-Guide
+---
+  
+
+When it comes to their names, most kitchen appliances aren't very fussy. The sink is "the sink." The microwave is "the microwave." And the coffee maker? Yup, "the coffee maker." Sure your refrigerator might go by "fridge" on occasion, but that's pretty much as saucy as it gets – except, of course, for your stove. Or is it your oven? Or, um ... the range?
+
+**This May Also Interest You:** [**How Much Does a Stove or Oven Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/stove-oven/)
+
+Oddly, the hub of kitchen cooking is an appliance that seems to be going through a bit of an identity crisis. But fear not: This quick guide will tell you all you need to know about what's what with your _stoveovenrange_.
+
+The Oven
+--------
+
+The simplest place to start here is with the oven. An oven is pretty much any kind of box into which you put food to be cooked by a heat source. In nearly all homes, that heat source is either electric or gas, but the heat source can also be wood, as anyone who's been to a wood-fired pizza joint knows. Even your microwave is called a microwave _oven_ because it uses electromagnetic waves to cook food in a box.
+
+Ovens can be stand-alone units that go on the floor, or they can be mounted in a wall, making them, logically, wall ovens. When they are floor-based units, they are often topped with a series of burners, which leads us to the next category …
+
+<img class="detail-image" src="https://library.homeserve.com/m/1c6650b8d113470e/Blog-WolfDoubleOven_AWiesen_IMG_0508.jpg" alt="Wolf double oven"/>
+
+The Range
+---------
+
+A range is nothing more than an oven crowned with a cooktop. Sometimes the cooktop is open and uses flames. Other times, it’s a sheet of glass and uses electricity as the heat source. This oven-cooktop combination can even use different heat sources in each part, typically taking the form of an electric oven that sits beneath gas burners in a setup known as dual-fuel.
+
+While some homes have wall ovens with cooktops located elsewhere in a kitchen, far and away, the range is the most common setup in American homes. They generally come in 30-inch varieties, but you can upgrade to professional-style 36-inch models with extra burners and features like griddle and grill attachments.
+
+**More Related Articles:**
+
+*   [Gas Stove Vs. Electric Stove: Which Is Best For You?](https://www.homeserve.com/en-us/blog/buying-guide/gas-vs-electric-stove/)
+*   [Is Oven Cleaner Toxic? Here’s What You Need to Know](https://www.homeserve.com/en-us/blog/home-improvement/oven-cleaner-toxic/)
+*   [How to Replace an Oven Lightbulb](https://www.homeserve.com/en-us/blog/how-to/oven-light-bulb-replacement/)
+*   [No Hot Takes, Here” A Deep Dive on Deep Cleaning Your Oven](https://www.homeserve.com/en-us/blog/how-to/clean-oven/)
+*   [Should You Use Your Oven’s Self-Cleaning Feature — and If So, How?](https://www.homeserve.com/en-us/blog/how-to/oven-self-cleaning-feature/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/57a32bb7b2049bf4/Blog-TurnOffStove_MSchmitz_0001.jpg" alt="Human hand adjusting the burner with the knob of the black stovetop on which a stainless steel teapot sits as well as a teacup with a teabag in it"/>
+-------------------------------------------
+
+The Stove
+---------
+
+When most of us refer to “the stove,” what we really are talking about is the cooktop — the part of a range that produces heat on which we boil, steam, sauté and fry our food. However, the cooktop (also known as a hob in the U.K.) does not necessarily need to be part of the range. As mentioned, it is quite possible to have ovens recessed into the wall, and a cooktop installed elsewhere, such as on an island in the center of the kitchen.
+
+Some of the confusion with the term stove is that it also refers to a device that produces heat from a fuel source. So something that produces heat from pellets or wood is every bit a stove as that four or six-burner on your counter or your range — though you might refer to the former as a wood stove to avoid confusion.
+
+Range or Split Setup: Which Is Right for You?
+---------------------------------------------
+
+Part of the reason to understand the difference in these terms is that they can help you decide which kind of setup is best for your needs if you are remodeling or building a kitchen from scratch. While the standard is a 30-inch range that slides against the wall, you might find that the convenience of separating your cooktop from your oven makes sense. It helps avoid congestion around a single appliance, and the raised position of in-wall ovens means it's simply easier to get trays and baking dishes in and out. With two separate appliances, if one breaks, you don't need to senselessly get rid of the other.
+
+You will, however, pay more for this configuration. [According to Consumer Reports](https://www.consumerreports.org/kitchen-appliances/cooktop-and-wall-oven-vs-range/), a high-quality range can be purchased for under $1,000 (CAD 1,275). If you choose to separate the oven from the stove, you'll pay around $700 to $1,000 (CAD 900 to CAD $1,275) for the cooktop and $1,500 (CAD 1,915) for a single wall oven, while stepping up to a double wall oven will run you $2,000 to $3,000 (CAD 2,550 to CAD 3,800) more.
+
+Likewise, choosing a professional-grade floor-based range that's 36 inches versus 30 inches will also up the price, with the larger models generally starting at the $4,000 (CAD 5,100) price point.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

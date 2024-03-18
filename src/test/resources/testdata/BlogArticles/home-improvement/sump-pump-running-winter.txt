@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Sump Pump Running in the Winter"
+headline: "Why Does My Sump Pump Run in the Winter?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-05-02
+basePath: https://library.homeserve.com/m/
+heroImage: 6dffe1b55be15759/Blog-GettyImages-1295286886.jpg
+heroAltDescription: "A sump pump in a home basement-plumbing repair"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "How does your sump pump operate in the winter months? Should it even be operating at all? Here's what you need to know."
+articleAbstract: "How does your sump pump operate in the winter months? Should it even be operating at all? Here's what you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Does My Sump Pump Run in the Winter?"
+  parent: Plumbing-Home-Improvement
+---
+  A sump pump’s job is to move water that collects in a sump basin out of your basement and away from your home. As such, it makes sense that a sump pump works its hardest during rainy months, when flooding is most likely to send unwanted water into basements and crawl spaces.
+
+**This May Also Interest You:** [**Protect Your Home Against Flooding With This Sump Pump Maintenance Checklist**](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-maintenance/)
+
+But what about in the winter months? How does it operate when snow and ice are involved?
+
+Is It Normal for a Sump Pump to Run During the Winter?
+------------------------------------------------------
+
+The truth is, a sump pump still has some work to do in the winter, so you may hear it running from time to time during the winter months. This is because all that ice and snow does eventually melt, giving the sump pump the occasional wintertime work. But if your sump pump seems to be running constantly, you may have an issue to address.
+
+Why Is It Running Continuously?
+-------------------------------
+
+If your sump pump seems to be running nonstop, there are a few things to check on as part of the troubleshooting process:
+
+### Reason 1: Frozen Flex Hose
+
+The flex hose was not removed and has frozen. If your pump is running continuously in cold weather, a frozen flex hose is the most likely culprit. The flex hose connects to your pump’s drainpipe on your home’s exterior to help water drain in winter. But if frozen, it prevents water from draining properly, causing a backup, an overworked pump and, potentially, flooding.
+
+### Reason 2: Incorrect Settings
+
+The float switch is stuck or on the wrong setting. This can happen any time of year, but it’s always a good idea to check the float switch to make sure it’s not jammed or turned to the manual “on” position before reaching out to a professional.
+
+**More Related Articles:**
+
+· [How to Install a Sump Pump: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/sump-pump-installation/)
+
+· [Sump Pump Alarm Going Off? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/buying-guide/sump-pump-alarm/)
+
+· [How Much Does It Cost to Replace or Install a Sump Pump?](https://www.homeserve.com/en-us/blog/cost-guide/sump-pump-installation/)
+
+· [Sump Pumps: Everything You Need to Know](https://www.homeserve.com/en-us/blog/home-improvement/how-sump-pump-works/)
+
+· [How Much Do Flood Damage Repairs Cost?](https://www.homeserve.com/en-us/blog/cost-guide/water-damage-restoration/)
+
+How Do I Stop It From Running Constantly?
+-----------------------------------------
+
+A continuously running sump pump isn’t just a waste of energy. It can also be damaging to your pump in the long run. If a pump is working hard to pump out water that’s not there or water that can’t get out, it can wear out quickly or begin to malfunction. That’s why it’s essential to pinpoint what’s causing your pump to run more than it should and take steps to correct it sooner rather than later.
+
+### Do’s
+
+Remove your flex hose in the fall. Make this a yearly habit before winter rolls around to prevent freezing and keep your sump pump running smoothly.
+
+Consider purchasing a sump pump anti-freeze attachment that connects to your pipe to help prevent clogs and freezing.
+
+### Don’ts
+
+Some people wonder if they should turn off the sump pump in winter. Do _not_ do this. You shouldn’t turn off your sump pump in winter as it still needs to be ready to run in the event of any ice or snowmelt.
+
+Be Wise: Winterize
+------------------
+
+While a sump pump does run in cold weather, it shouldn’t run _all_ the time. So, as you winterize other parts of your home, make sure to take a few extra moments to give your sump pump the attention it deserves. Disconnecting your sump pump flex hose in time for winter or attaching an anti-freeze device can help keep your pump happy and running as it should — no matter the wind-chill factor.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

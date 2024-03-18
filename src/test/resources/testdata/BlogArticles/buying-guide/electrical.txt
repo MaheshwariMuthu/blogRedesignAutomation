@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Electrical-Buying-Guide
+  parent: Buying Guide
+  title: Electrical
+permalink: false
+---

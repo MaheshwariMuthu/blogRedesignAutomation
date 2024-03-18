@@ -1,0 +1,84 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why You Shouldn't Overload Your Dishwasher"
+headline: "Why You Shouldn't Overload Your Dishwasher"
+author: Angela Noel
+tags: ["post"]
+publishDate: 2023-12-20
+basePath: https://library.homeserve.com/m/
+heroImage: 5ebcec8f03fbde7e/Blog-GettyImages-1629018803.jpg
+heroAltDescription: "Front view of built-in opened dishwasher machine at kitchen with clean utensil"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Although it's tempting to toss in more dishes to save time, overloading your dishwasher can cause significant problems over time."
+articleAbstract: "Although it's tempting to toss in more dishes to save time, overloading your dishwasher can cause significant problems over time, leading to lackluster results and a taxed appliance."
+category: ["How To"]
+eleventyNavigation:
+  key: "Why You Shouldn't Overload Your Dishwasher"
+  parent: Appliances-How-To
+---
+  "Need a hand with the dishes?" It's a kind gesture when asked by a guest after a party, but an easy one to decline in favor of loading everything in the dishwasher on the way to bed.
+
+**This May Also Interest You:** [**Should You Repair or Replace Your Dishwasher?**](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-repair-replacement/)
+
+Although it's tempting to toss in more dishes and soap to save time, overloading your dishwasher can cause significant problems over time. An overloaded dishwasher struggles to clean your dishes, leading to lackluster results and a taxed appliance.
+
+The Hazards of an Overloaded Dishwasher
+---------------------------------------
+
+Dishes that aren't clean are an obvious result of overloading a dishwasher. However, some of the most frustrating issues that can happen when you add those additional dirty plates may be less apparent at first glance.
+
+### What Can Happen If You Overload Your Dishwasher?
+
+A dishwasher cleans your dishes by dispensing water and detergent during the wash cycle. Spray arms blast food bits and grime with powerful streams of water, leaving pots and pans clean and ready to be used again. Overloading the unit can cause the following issues:
+
+#### Damaged Spray Arms
+
+Large items can easily block the spinning action of spray arms. Pans need to be angled so their handles point down out of the way, and long utensils should be placed perpendicularly across the top rack, so they don't fall.
+
+#### Water Leaks
+
+When you overload a dishwasher, it reduces the amount of space between your dishes and impedes sudsing and rinsing. In worst-case scenarios, the impeded water may leak out, potentially damaging your kitchen floor and cabinets.
+
+#### Broken Dishes
+
+Stack glassware and metal too close together and you'll quickly discover that dishwashers make a lot of noise when overloaded. The resulting racket is a clear warning that your dishes are in danger of being chipped or dented as they knock about during the wash.
+
+### Frequent Overloading Could Spell Trouble for Your Machine
+
+Overloading a dishwasher forces it to work harder to clean your dishes. Since the load won't come out pristine, you'll likely run it again to finish the job, making the dishwasher work even harder. The strain can cause internal parts to wear out faster and potentially lead to avoidable repairs, and you may even need to replace your appliance.
+
+Dishwasher overloading also causes food particles and oily residues to build up over time. This gunk can block water streams and clog filters, making it hard for the unit to rinse and drain. The accumulation is also a breeding ground for bacteria, potentially compromising your family's health and triggering foul odors.
+
+**More Related Articles:**
+
+*   [How Much Does a Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+*   [Why Isn’t My Dishwasher Draining?](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-not-draining/)
+*   [Don’t Get Lost in the Wash: How to Use Your Dishwasher Efficiently](https://www.homeserve.com/en-us/blog/how-to/use-dishwasher/)
+*   [Weird Sound Coming From the Dishwasher? How to Diagnose Dishwasher Noises](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-making-noise/)
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)
+
+How Do You Avoid Overloading Your Dishwasher?
+---------------------------------------------
+
+Your dishwasher's manual is the best place to look for guidance when loading it up. Dishwasher designs vary considerably across brands, but there are tried-and-true rules to follow for any unit.
+
+### Check the Detergent Dispenser
+
+Just like the rotating spray arms, the detergent dispenser has to remain unblocked to function. Load cookie sheets, platters and other bulky items along the sides and back to ensure soap flows evenly.
+
+If you use a dishwashing detergent pod, place it in the dispenser. Adding it into the middle of the dishwasher will cause it to dissolve too soon and the dishes won't be coated correctly.
+
+### Mix and Match Sizes
+
+It may make it easier to unload silverware by putting spoons in one section of the tray and forks in another, but mixing them is better since they can easily nest, which can prevent water from rinsing them.
+
+The variety of shapes and sizes will naturally help spread the utensils apart. Similarly, mixing different-sized plates and lids helps the water flow through the running dishwasher and boosts its cleaning ability.
+
+### Work With the Tines
+
+Use the tines as a gauge of where to place items. The even spacing helps you spread dishes out. Glasses and mugs should fit between tines to prevent them from bumping into each other, and bowls should be securely placed into the dividers to keep them from flipping over and collecting dirty water.
+
+### Dishwasher-Safe Items
+
+One final tip is to always check dishes to ensure they're dishwasher-safe. Ignoring the manufacturer's instructions can damage your items. Wooden utensils and cutting boards, for example, can swell and crack, creating gaps for bacteria to develop.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/Ss3da5F_Nk4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Clean Your Dishwasher (Properly)"></iframe>

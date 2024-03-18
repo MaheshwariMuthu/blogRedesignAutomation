@@ -1,0 +1,211 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What's the Difference Between Septic and Sewer?"
+headline: "What's the Difference Between Septic and Sewer?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-01-17
+basePath: https://library.homeserve.com/m/
+heroImage: 175cbeb8758d1d6a/Blog-GettyImages-1219801968.jpg
+heroAltDescription: a cross-section graphic illustration of a septic tank buried in a front yard
+metaDescriptions: Getting ready to have your home inspected? Our home inspection checklist will prepare you for what to expect and how to prepare for when the inspector arrives.
+articleAbstract: Septic system vs sewer system. Do you know the difference? Find out what you need to know about septic systems and how they differ from sewer systems.
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0919
+stickyDisplayText: Call today for a local plumber.
+lightboxCopy: Local plumbing pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/plumbers/hs/same_day
+  large:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner1.png
+      alt: Plumbing eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner2.jpg
+      alt: Plumbing eLocal Banner 2
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's the Difference Between Septic and Sewer?"
+  parent: Plumbing-Home-Improvement
+---
+
+Whether you’re a clueless new homeowner, or a seasoned, savvy one, the ins and outs of your septic system can cause bring about feelings that can range from disgust to curiosity. But as is commonly-known, septic systems have been around for centuries – all over the world.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+__This May Also Interest You:__ [__How to Keep Septic Tank Plumbing Costs to a Minimum__](https://www.homeserve.com/en-us/blog/cost-guide/septic-tank-pumping-costs/)
+
+
+They are a proven, efficient, adaptable, and environmentally-friendly way to deal with wastewater. (Yes, *that* wastewater.) So let’s dive in and find out what you need to know about septic systems and how they differ from sewer systems. 
+
+## Septic Vs. Sewer
+
+The main difference between a septic system and a sewer system is, a septic system treats your wastewater on site. Usually, it’s placed underground on the land your house is built on.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+Sewer systems take the wastewater away from your home and route it underground to a treatment plant typically operated by the city. Sewer systems are usually provided by municipalities and are not available everywhere homes are built for many reasons. In these situations, private septic systems prevail.
+
+Both systems do the same thing, which is to clean the wastewater while keeping contaminants out of the groundwater. Everything that gets into our groundwater, ends up in our drinking water. Polluted groundwater means polluted drinking water.
+
+## How Does a City Sewer Connection Work?
+
+Home plumbing systems are designed to keep clean water coming into the fixtures and dirty wastewater apart. All the drains in your home are plumbed to connect at one big pipe that takes wastewater away, underground. If you have a sewer system, this main drain pipe connects to an even bigger pipe that is part of a network.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+This network of sewer pipes is routed directly to a water treatment plant. Here wastewater is treated and contaminants are removed to allow the water to be reused and made drinkable again.
+
+<img class="detail-image" src="https://library.homeserve.com/m/5f10bbd06421e6e6/webimage-iStock_000007759161_sewer_main_cover_K.tif" alt="sewer line cover"/>
+
+## How Does a Septic System Work?
+
+With private septic systems, all the wastewater treatment takes place at home. Generally speaking septic systems work by separating and breaking down the contents of your wastewater. Your wastewater, well, everyone’s to be exact, contains solids, liquids, bacteria, and elements that make the solution a biohazard until it is properly treated. And these contaminants have to be kept separate from groundwater. Polluted groundwater means polluted drinking water, right?
+
+So the septic system first works to contain your wastewater. Next with some biology and natural science at work, the system will separate and break down the materials into more natural elements. Finally, the cleaned environmentally friendly water will return back to the land on site. All while protecting our valuable groundwater.
+
+## What Are the Main Parts of a Septic System?
+
+All private septic systems are going to have four main parts in varying shapes and forms: 
+
+### 1. Main Drain Pipe
+
+Like the sewer system, homes with a septic system have a main drain pipe underground that all the drains in the house are connected to. All this pipe does is get your wastewater where it needs to go. This pipe from the home is the first part of the system.
+
+### 2. Septic Tank
+
+Next is the septic tank. Septic Tanks come in all sizes, shapes, and configurations. Your local service professionals are the best resource for the tank that will serve you best. Tanks are always hidden underground and can be located with a manhole cover and a riser or two at ground level.  
+
+Your septic tank keeps wastewater away from the groundwater. It is watertight, and holds wastewater long enough to start the separation process. Wastewater will generally form three layers in the tank. From the top down they are:
+
+- Scum
+- Wastewater
+- Sludge
+
+The scum layer is composed of oils, fats, and other materials that float. The wastewater layer is what is left in the solution. This often contains microbes, bacteria, and substances that are not heavy enough to sink. On the bottom are the solids that settle out to form the sludge layer. When you hear about a septic tank being pumped, the technician is removing all three layers but the focus is on removing the sludge and scum layers specifically. 
+
+## How Big Is a Septic Tank?
+
+Size varies but it also matters. Tanks range in size from 750 to 1250 gallons. As a general rule, the septic system capacity and tank capacity you need are determined by the number of people the dwelling can hold. Professionals calculate tank capacity based on maximum possible usage for the dwelling. 
+
+With the collection and separation process that takes place in the septic tank, it is obvious that a tank that is too small will be a headache and need more frequent servicing. Consult with your local service professionals for the correct tank your home needs.
+
+## How Deep Is a Septic Tank?
+
+The depth of your tank will be prescribed in most cases by the municipal code your house is built in. Tank depth needs to take into account the type of soil in your location, groundwater levels, as well as allow access to the manhole or service ports for maintenance. Several feet underground is typical.
+
+## What Is a Leach Field?
+
+A leach field is a drain field by another name. This is the third part of your septic system. Every time some wastewater enters the tank, a somewhat equal amount of wastewater flows out of the tank through another pipe leading to a network of buried perforated pipes, or soakers. This network of pipes is under the surface of the field, hence the name. The purpose of the leach field is to distribute the treated water for final treatment by the soil.
+
+## How Does the Soil Work?
+
+This is the fourth component and final step in cleaning up wastewater. In your soil, the treated water is exposed to oxygen and microbes in the soil that can digest or contain contaminants before the water filters down into the groundwater. So the soil in and under your leach field is actually a powerful water filter.
+
+## What About Septic Tank Pumping?
+
+By now you see how a septic system is basically a huge water filter. Wastewater in, clean water out. Like all filtration systems, there is some cleaning involved for it to work efficiently. And if we have not mentioned it yet, inside a septic tank is not the place you want to be. 
+
+Remember the three levels formed in your septic tank? These three are the scum layer, wastewater, and sludge layer. In septic systems, the wastewater layer is the only layer we want to move from the system into your leach field. By design, the top layer of scum, and the bottom layer of sludge, are separated from the water and contained in the tank. See why tank size matters?
+
+### Your Septic System Must Be Pumped Out
+
+Eventually, all septic tanks need pumping out, to remove the scum and sludge layers and return the tank to its full capacity. With some biology in hand, we have learned how to help the septic system work more efficiently and go for longer periods between pump outs.
+
+This involves the use of helpful microbes or bacteria, in the tank. You may have heard about anaerobic and aerobic septic systems. And the truth is, all systems use both, because your septic tank has both aerobic and anaerobic environments inside. 
+
+### What’s in The Septic Tank?
+
+Let’s start with the worst stuff in the tank which is solid, human waste. This is what the septic system is designed to contain at the bottom of the tank. It forms sludge, to put it nicely. The sludge is the bottom layer, under the wastewater and scum. And if the sludge layer builds up, or builds too rapidly, it takes up space in the tank leaving less room for wastewater. This can cause your system to exceed its capacity and result in disastrous leaking, clogs, and flooding of your septic system with raw sewage. Yuck!
+
+The sludge layer is on the bottom, underwater, where there is no oxygen. So you may be advised to periodically introduce anaerobic bacteria, that live for the sludge layer, into the septic tank. These bacteria digest and break down the typical materials in your sludge layer. 
+
+The results of this process become part of the wastewater solution in the tank and now can be passed into the leach field and the rest of the water treatment process. And the sludge layer in your tank is kept at an acceptable level for the system to function efficiently, longer. 
+
+## How Often Should I Have My Septic System Pumped?
+
+The answer is ... it depends. Capacity, system design, age, usage amount, and other factors will have an impact on your answer. Generally, if your system is properly installed and designed with enough capacity for your use, septic service professionals recommend having your system pumped and inspected once every three to five years. 
+
+If your system is needing more attention, or you are seeing and smelling signs something is wrong, it may be time to consult with your local professional for help. 
+
+Overall, these four things will affect the frequency of pumping your septic tank.
+
+1. Number of people in the house
+2. Amount of wastewater generated
+3. The volume of solids in the wastewater
+4. Septic tank size
+
+You may be buying a house with a system already installed and therefore have no choice about the size of the septic tank. It is an “As-Built” condition. So the top three factors may be the areas you can influence the most to decrease the frequency of having your system pumped. Pumping is not a bad thing. All septic systems get pumped. Likewise, don’t treat your septic system like a trash can. Solids take up valuable space in the tank and need more time to break down if they do at all.
+
+## Septic System Care
+
+Like other systems in your home, proper care and maintenance go a long way to preventing expensive repairs in the future.  Replacement components or entire systems can run into thousands of dollars and the hassle is worth avoiding. Here are some basic best practices you can do yourself to save money in the long run and bring you peace of mind. 
+
+Here are some things to do that help you take care of your septic system. Make a sketch of where it is in relation to your house with notes on service and access ports. Have this handy each time you have your system serviced. Keep good records of all inspections, repairs, pumpings, and other services performed on your system. And always have your system regularly inspected and pumped by a licensed professional. If you sell your house, the buyer will ask for records as a sign the system was maintained. 
+
+Tools you may need for DIY:
+
+- Screwdriver or wrench for fasteners on the service ports
+- Long lengths of PVC or wood for dipstick measurements
+- Pencil for marking
+- Pole with hook device for removal of screen filters
+- Low-pressure water hose for cleaning screen filters
+- Flashlight
+- Gloves
+
+Measure the layers in the septic tank. DIY or have your professional do it regularly and keep a record. This will help you determine how often your tank may need pumping. Your tank needs to be pumped if and when; the bottom of the scum layer is within 6 inches of the bottom of the outlet tee, or the top of the sludge layer is within 12 inches of the outlet tee.
+
+## What Should I Keep Out of My Septic System?
+
+- Diapers
+- Cat litter
+- Coffee grounds
+- Hygiene products
+- Grease
+- Household cleaners and chemicals
+- Petroleum products
+- Solvents
+- Paints
+- Auto products
+- Pesticides
+- Kitchen scraps
+- Tobacco products
+- Latex products
+- Cotton swabs
+- Too many high water load appliances
+- Tree and plant roots
+- Things that can clog
+
+## Septic Systems Work Best With:
+
+- High-Efficiency water appliances
+- Leach fields with grasses
+- Hot tubs that drain somewhere else
+- Moderate use of cleaners or baking soda
+
+## What Problems Do I Look for?
+
+Clogs and leaks are the most common issues with septic system use. When these happen downstream, the result will be notified either in the house plumbing with backed-up drains or in the field around the system tank and leach field. Check for ponding water or mud near your septic system. You will likely notice an odor as well.  
+
+Take careful notice of what your drains or toilets do when a high water volume appliance like a dishwasher or clothes washer drain. Drains that back up when these appliances are used are a sign something is wrong. Flooded or muddy leach fields with an odor are an indication the system is backed up, clogged, or over capacity.
+
+## If You Are Buying a Home With a Septic System in Place
+
+Ask the seller for the permits and inspection approvals from the city showing the installation was inspected and up to code for that time period. Any and all documentation for repairs, service, pumping, even if the maintenance was done by the owner should be collected and made available for the buyer. 
+
+Consider having a professional inspection done by a licensed septic technician prior to closing on the house. Think of it as a second objective opinion. Peace of mind and information you can use to make an informed decision. If the system is aging, parts may not be available for repairs, and your professional technician will have insight for you about this. Future septic system upgrades may need to be considered when deciding to purchase the home.
+
+Understand, a septic system inspection is separate from the home inspection. Licensed home inspectors will inspect the plumbing in the dwelling. But the septic system is not included in states like Texas, for example. In these states, septic system inspections are completed by licensed septic technicians. Your real estate expert is a great source of information regarding the houses and inspections in their areas. 
+
+Having a sewer septic line plan from [HomeServe](https://www.homeserve.com/) is a great way to be prepared for maintenance costs and repairs. Septic Systems can be costly systems to repair and problems need to be fixed quickly.  Once you have a plan in place and a covered issue arises, you can simply call the 24/7 repair hotline. A local, licensed and expert contractor will be sent out to you to get the job done to your satisfaction.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

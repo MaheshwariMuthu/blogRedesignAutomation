@@ -1,0 +1,63 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Does My Shower Smell Like Sewage?"
+headline: "Why Does My Shower Smell Like Sewage?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-07-12
+basePath: https://library.homeserve.com/m/
+heroImage: 54e9d1ffe6cc9522/Blog-DominionEnergy_IPD_SHMP224720EB_06.jpg
+heroAltDescription: "white tiled shower and drain"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Sewer smells in your shower are certainly unpleasant. In many instances though, they can be dealt with fairly easily and affordably, without needing a plumber."
+articleAbstract: "Sewer smells in your shower are certainly unpleasant. In many instances though, they can be dealt with fairly easily and affordably, without needing a plumber."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Does My Shower Smell Like Sewage?"
+  parent: Plumbing-Home-Improvement
+---
+  Nothing ruins a nice, hot shower like the smell of sewage emanating from your shower drain. Sewer smells or other foul odors coming from your shower, while not always a cause for alarm, are anything but pleasant.
+
+**This May Also Interest You:** [**5 Reasons You Have Slow Hot Water Flow — and 5 Fixes You Can Try**](https://www.homeserve.com/en-us/blog/home-improvement/slow-hot-water-flow/)
+
+If your shower smells like sewage and you’re not sure why, you’ll want to get to the bottom of things, _stat_. Read on for a list of some of the most common culprits of shower drain smells along with how to fix them.
+
+Why Does My Shower Smell Like Sewage?
+-------------------------------------
+
+### 1\. P-Trap Problems
+
+If you notice your shower drain smells like sewage, the P-Trap is on of the first places you’ll want to check, since dirty or dry P-traps are often to blame for stinky shower drains. Despite its name, a P-trap is actually a U-shaped piece of pipe that lies beneath the rest of the drain’s pipeline and holds water to stop sewer gases from traveling up through the drain and into your bathroom. But a dirty P-trap that’s blocked by buildup like hair and soap scum can’t do its job properly. Another P-trap-related issue that can make your drain smell like sewage is a dry P-trap, usually caused by a clogged ventilation line or other problem with your plumbing vent.
+
+If you suspect a dirty P-trap is sending sewer gases into your shower, first try cleaning the P-trap with a simple baking soda and vinegar combo, very hot (but not boiling) water or, if you must, a chemical drain cleaner. Be sure to run water down the drain for a bit to thoroughly rinse afterward. However, if a dry P-trap is the issue, you’ll need to call in a professional plumber to take a look at the plumbing’s vent line.
+
+### 2\. Drain Clogs
+
+A drain clog is another common culprit when it comes to a stinky shower. Drain clogs occur when shower debris — like hair, soap scum, mineral deposits and oils (the same particles that can cause problems in your P-trap) — build up and slow the flow of the drain, causing more debris to accumulate that begins to smell over time. One thing to note with drain clogs is that they can produce a variety of odors but, oftentimes, as this build up breaks down, it releases hydrogen sulfide, causing a sulfuric, eggy smell that is unpleasant to say the least.
+
+If you suspect a drain clog, try using a drain snake to remove the debris buildup. If shower drain clogs are a consistent issue in your shower, consider purchasing a drain strainer to help prevent future clogs. You can also, again, try pouring very hot water down the shower drain to help rid it of any residual soap and oil buildup that the drain snake may have missed.
+
+### 3\. Bacterial Buildup
+
+If your shower tile or drain has a film of bacterial buildup that has collected over time, it could potentially cause a musty or unpleasant, sewer-like smell. Biofilm is a bacteria that can attach to shower tiles or stalls, and in and around your shower drain, accumulating over time.
+
+If there’s an odor in your shower and you aren’t sure it’s a sewer smell, you might try cleaning your shower tiles and your drain to see if eliminating bacteria buildup helps kill the stench. Try scrubbing your shower and drain cover with an antimicrobial disinfectant cleaner. If you want to take this a step further, you can detach your drain cover and use a paint roller cover to vertically clean the sides of your drain pipe with that same disinfectant to help wash away any biofilm buildup. A steam cleaner, which can usually be rented from your local home improvement store, is another option.
+
+**More Related Articles:**
+
+*   [Here’s How to Hack Your Low-Flow Showerhead ... But Should You?](https://www.homeserve.com/en-us/blog/how-to/low-flow-showerhead/)
+*   [8 Shower Storage Solutions](https://www.homeserve.com/en-us/blog/buying-guide/shower-storage/)
+*   [How to Replace a Shower Valve](https://www.homeserve.com/en-us/blog/how-to/shower-valve-replacement/)
+*   [Showerhead Stuck? Here’s How to Remove It](https://www.homeserve.com/en-us/blog/how-to/showerhead-removal/)
+*   [How Much Does It Cost to Replace a Showerhead?](https://www.homeserve.com/en-us/blog/cost-guide/shower-head-replacement/)
+
+Can I Fix It Myself (and, If So, How?) or Do I Need a Plumber?
+--------------------------------------------------------------
+
+Whether you can tackle your shower’s sewer smell on your own will depend on the scope and specifics of your particular issue, but for many of these problems you can try addressing them inexpensively and independently first, either with a drain snake, a baking soda/vinegar wash, or a deep clean. None of these is likely to cause any harm, even if they don’t solve the sewer smell in your bathroom. If the problem persists after you try your at-home remedies, it’s time to call a plumber to investigate the issue further.
+
+So Long, Sewer Smell!
+---------------------
+
+Sewer smells in your shower are an unpleasant business. But the good news is that, in many instances, they can be dealt with fairly easily and affordably, without having to call in the pros. If your home remedy doesn’t help or you have recurring issues with shower drain smells in your bathroom, you’ll obviously want a plumber to take a closer look. Either way, once you’ve addressed the issue and sent that shower drain smell back from whence it came, then congratulations! Reward yourself by taking a lovely, long shower that no longer offends your olfactory system. _Ahhh_, it smells like … _victory_.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/5j759jOLiwc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Retrieve a Wedding Ring that Went Down the Drain | 5 Steps"></iframe>

@@ -1,0 +1,98 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Install an Attic Fan"
+headline: "How to Install an Attic Fan: 7 Breezy Steps"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2022-11-30
+basePath: https://library.homeserve.com/m/
+heroImage: 5794b3676d3aa114/Blog-GettyImages-1205142094.jpg
+heroAltDescription: "green barn roof rafters ventilation fan"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Learn how to install an attic fan to reduce your energy bill in the summer and prevent possible roof damage in the winter. "
+articleAbstract: "Poor air circulation in your attic can lead to higher energy bills in the summer and roof damage in the winter. Learn how to install an attic fan for better airflow."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install an Attic Fan"
+  parent: HVAC-How-To
+---
+  During the scorching heat of summer, the trapped heat inside your attic will cause your air conditioner to run longer and harder, resulting in higher energy bills and a shortened lifespan of your AC unit. In the winter, poor airflow can contribute to mold growth in your attic and the formation of ice dams on your roof, possibly causing damage to the roofing material and gutters.
+
+**This May Also Interest You:** [**Whole House Fan Vs. Attic Fan: What’s the Difference?**](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-versus-attic-fan/)
+
+While the gable (the triangular end of an exterior wall formed by a pitched roof) is equipped with a louver vent to promote airflow in the attic, it usually doesn’t provide sufficient circulation to combat extreme temperatures.
+
+To remedy this, you can install a powered attic vent over the louver vent to maximize the air circulation in your attic. Read on to learn how to install an attic fan to start saving money in the summer and keep your roof protected during the winter.
+
+How to Install an Attic Fan
+---------------------------
+
+### Things You’ll Need
+
+*   1/2- to 3/4-inch plywood
+*   Circular saw
+*   Plunge router or jigsaw
+*   Tape measure
+*   Electric drill and/or screwdriver
+*   Wood screws or nails
+*   Non-contact voltage tester
+*   Pencil
+*   Wire nuts
+*   Electrical tape
+
+### Step 1: Find an Electricity Source
+
+An attic fan typically receives its power by connecting its electrical cable to the wires inside a junction box (a metal box where the electrical connections for ceiling fixtures and other electrical components are housed) that’s located near the louver vent.
+
+Depending on the fan, the junction box may need to have anywhere from 3 to 5 amps available on its circuit to prevent it from overloading and tripping the breaker. If you’re unfamiliar with calculating the available amps on a circuit, hire an electrician to determine which circuit you should use, or possibly have them install a designated junction box or circuit for the fan.
+
+Once you’ve determined which junction box you’re going to use, shut off the power to its circuit by turning off the associated circuit breaker inside your home’s main electrical panel.
+
+### Step 2: Build the Fan Mount
+
+An attic fan is too heavy to mount directly onto your louver vent, so a mounting plate is needed. A mounting plate attaches to the studs on either side of the vent to secure the fan in place. While some attic fans have integrated mounting plates, most will require that you construct one out of plywood.
+
+Use a tape measure to measure the distance between the outside edges of the studs on either side of the vent. Take a piece of 1/2- or 3/4-inch plywood that’s wide enough to span the distance between the studs and tall enough to accommodate the fan. For example, if the studs are 19 inches apart and the attic fan (including the mounting brackets) is 16 inches in diameter, you will need a piece of plywood that’s at least 19 inches wide and 16 inches tall.
+
+Use a circular saw to cut the plywood to length, then measure and mark the center of the sheet. Center the fan over the mark and trace the outside diameter of the fan with a pencil. Do not include the mounting brackets that protrude from the fan’s housing in your outline. Use a plunge router or jigsaw to cut out the circular outline from the center of the plywood.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Attic Fan?](https://www.homeserve.com/en-us/blog/cost-guide/attic-fan-installation/)
+*   [Got Gable Vents? Here’s What You Need to Know About Your Attic’s Airflow](https://www.homeserve.com/en-us/blog/home-improvement/gable-vent/)
+*   [How Much Does It Cost to Install a Whole-House Fan?](https://www.homeserve.com/en-us/blog/cost-guide/whole-house-fan/)
+*   [Whole-House Fan Installation Guide: 5 Steps to a Cooler Home](https://www.homeserve.com/en-us/blog/how-to/whole-house-fan-installation/)
+*   [How Much Does It Cost to Install a Ceiling Fan](https://www.homeserve.com/en-us/blog/cost-guide/ceiling-fan-installation/)
+
+### Step 3: Attach the Fan to the Mount
+
+If the fan’s mounting brackets need to be installed separately, use a screwdriver or electric drill to secure the brackets to the fan housing with the accompanying screws.
+
+Center the fan over the cut-out portion of the mounting plate and drive the provided screws through the mounting brackets into the plate.
+
+### Step 4: Install the Fan
+
+Take the fan and thermostat/humidistat up to the attic. Hold the fan over the center of the louver vent with the two ends of the mounting plate resting on the studs to the sides of the vent. Screw or nail the mounting plate to the studs.
+
+Note: It’s often helpful to have a second person hold the fan in place while you fasten the mounting plate to the studs.
+
+### Step 5: Install the Thermostat/Humidistat
+
+Some attic fans have a thermostat/humidistat that’s built into the fan, but most temperature and humidity controllers consist of a separate rectangular box. You’ll need to install this box on a nearby stud, and it connects to the fan with an electrical cable. When selecting a stud to anchor the controller to, ensure that it’s close enough to the fan for the cord to reach both components.
+
+If the thermostat/humidistat isn’t provided with the electrical cable already connected to it, make the necessary electrical connections by following the wiring diagram found in the manufacturer’s instructions.
+
+### Step 6: Connect the Fan to Power
+
+Verify that the junction box you’re connecting to is powered off by touching a non-contact voltage tester to one of the electrical wires, then take off the cover on the junction box by removing the screws holding it in place.
+
+Follow the manufacturer’s instructions on connecting the fan’s electrical wires to the wires inside the junction box. Generally speaking, the fan’s black “hot” wire connects to the black wire in the box, the white “neutral” wire connects to the box’s white wire and the bare “ground” wire connects to the bare wire or ground screw.
+
+The electrical connections need to be done in compliance with your local building codes, which may not be reflected in the wiring instructions. Hire an electrician to perform this step if you’re unfamiliar with the codes or otherwise uncomfortable connecting the wires yourself.
+
+### Step 7: Restore Power and Set the Thermostat/Humidistat
+
+Turn the circuit breaker back on at your electrical panel. Adjust the thermostat until the fan kicks on, or turn on the manual power switch (if equipped) to verify that it works. Finally, set the desired temperature and humidity levels.
+
+In the summer, the temperature should be set to between 90 and 110 degrees Fahrenheit (32 and 43 degrees Celsius), or about 15 to 20 degrees Fahrenheit (8 to 10 degrees Celsius) higher than the outside temperature. In the winter, the fan will operate based on the humidity settings on the humidistat, which should be between 40% and 60% relative humidity. Once the temperature or humidity exceeds those levels, the fan will automatically turn on.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/8mzG-IJupUA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Ceiling Fan Direction | Summer vs. Winter"></iframe>

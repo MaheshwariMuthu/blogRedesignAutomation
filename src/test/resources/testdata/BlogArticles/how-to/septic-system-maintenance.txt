@@ -1,0 +1,92 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Septic System Maintenance Tips"
+headline: "4 Things Homeowners Need to Do to Maintain Their Septic Systems"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-03-05
+basePath: https://library.homeserve.com/m/
+heroImage: 6abae261477ddcd4/Blog-GettyImages-665765298.jpg
+heroAltDescription: "Emptying septic tank"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "By learning the basics of septic tank maintenance, you can save in more ways than one. Here's all you need to know."
+articleAbstract: "By learning the basics of septic tank maintenance, you can save in more ways than one. Here's all you need to know."
+category: ["How To"]
+eleventyNavigation:
+  key: "Septic System Maintenance 101"
+  parent: Plumbing-How-To
+---
+  Whether you’ve recently moved into a home that relies on a septic system or have used one for years, it’s worth taking a moment to understand how to help keep your system in tip-top shape.
+
+**This May Also Interest You:** [**What’s the Difference Between Septic and Sewer?**](https://www.homeserve.com/en-us/blog/home-improvement/difference-between-septic-and-sewer/)
+
+Though they’re fairly simple structures, septic tanks are susceptible to malfunction and, if they aren’t properly maintained, will eventually fail. When this happens, repairs can be pricey, and if you have to replace your entire septic system, you can expect to spend upwards of [$6,000](https://www.forbes.com/home-improvement/home/septic-tank-installation-cost/#:~:text=If%20you%20are%20considering%20putting,may%20cost%20upwards%20of%20%2420%2C000.) (CAD 8,200).
+
+How Do Septic Systems Work?
+---------------------------
+
+Basic septic systems have two main parts: the tank and the drainfield.
+
+The tank, typically underground somewhere on your property, receives household wastewater through a large drain pipe connected to your home’s plumbing system. The septic tank then naturally treats the wastewater coming from your home by allowing the solid, organic matter to break down and digest. During this natural process, grease, oils and solid matter are separated from the wastewater and discharged through the perforated drainpipes into the soil, also called the drainfield.
+
+Properly maintained, a septic tank is an efficient, environmentally friendly way to treat your wastewater. That said, septic systems that aren’t maintained properly are prone to malfunction, which can lead to the contamination of soil and groundwater around your home, possibly polluting any nearby natural water systems. What’s more, when septic systems fail, your toilets, sinks and drains will clog, and the foul odors emitted throughout your property will make you want to run far, far away.
+
+How to Properly Maintain Your Septic System
+-------------------------------------------
+
+If you’ve ever dealt with a malfunctioning septic system, you already know: The results aren’t pretty. Luckily, keeping your septic system in good shape isn’t especially difficult. Here are some basic guidelines:
+
+### Have Your Tank Regularly Inspected and Pumped
+
+As a general rule, you should plan on having your septic system inspected at least once every three years by a certified septic service professional. During the inspection, the service provider will check the tank for leaks, and take a close look at the tank's scum and sludge layers. A septic tank typically has a T-shaped outlet that keeps the sludge and scum in the tank, allowing the water to travel into the drainfield.
+
+If the scum and sludge layer is more than a quarter of the liquid depth, your service provider will recommend that you pump your tank. For your convenience, the National Onsite Wastewater Recycling Association has an online [directory of septic system professionals](https://www.nowra.org/septic-locator/) to make it easy to find one in your area.
+
+In addition to regular inspections, it’s also highly recommended you have your septic tank pumped every three to five years. That said, how often you’ll need to pump the tank depends largely on a few factors, like the size of the tank, water usage, volumes of solids in wastewater and household size.
+
+### Maintain Efficient Water Usage
+
+Another way to ensure your septic system stays in good working condition is to maintain the efficient use of water in your household. Because all of the water a household uses ends up in the septic system, it makes sense that the more water you conserve, the less work your septic system will have to do.
+
+One simple way to cut back on water usage is to install high-efficiency toilets, faucets and showerheads. Not only will this help keep your septic system functioning properly, but it will also help keep your water bills low in the process. You can also replace your existing clothes washer and dishwasher with [Energy Star](https://www.energystar.gov/)\-certified versions, for example. Though they might cost more upfront, you’ll end up saving money in the long run.
+
+**More Related Articles:**
+
+*   [Never Flush These 11 Things Down Your Toilet](https://www.homeserve.com/en-us/blog/home-improvement/things-to-never-flush-down-toilet/)
+*   [Can You Pour Cooking Grease Down the Drain? No. Here’s Why](https://www.homeserve.com/en-us/blog/home-improvement/do-not-pour-grease-down-drain/)
+*   [8 Things You Should Never Put Down the Garbage Disposal (and 5 Things You Can)](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-dos-and-donts/)
+*   [What’s a Fatberg? (Spoiler: It’s as Gross as It Sounds)](https://www.homeserve.com/en-us/blog/home-improvement/what-is-a-fatberg/)
+*   [How Often Should I Pump My Septic Tank?](https://www.homeserve.com/en-us/blog/home-improvement/pump-septic-tank-frequency/)
+
+### Dispose of Waste Properly
+
+It’s worth repeating that everything that is flushed down the toilet or goes down the drains in your home ends up in your septic tank. That said, even the smallest foreign objects can affect the way your septic system performs. If a clog occurs, you could end up with a flooded drainfield — or worse, backed-up sinks and toilets.
+
+Here are some items that should never enter your septic system:
+
+*   Cooking grease
+*   Baby wipes
+*   Any kind of paper other than toilet tissue
+*   Condoms
+*   Feminine hygiene products
+*   Dental floss
+*   Coffee grounds
+*   Cat litter
+
+You’ll also want to avoid flushing any pharmaceuticals and other household chemicals like gasoline, pesticides, paint and antifreeze. While these items won’t necessarily clog up your system, the presence of harsh chemicals can affect the overall integrity of your tank, causing it to corrode or deteriorate. Just remember, your septic tank relies on a natural system of living organisms that help to break down household waste. Any toxin you pour down your drain can negatively impact how well these organisms perform.
+
+### Take Care of the Drainfield
+
+Aside from taking care of your septic tank, it’s also imperative that you maintain the health of your drainfield as well. The drainfield releases the treated water from the septic tank back into the soil and groundwater. When the drainfield malfunctions, it can negatively impact the performance of the entire septic system.
+
+You can protect your drainfield by keeping the area clean and clear of trees and other plants. Roots from trees and shrubs will grow toward the presence of water and will eventually damage the perforated pipes in the drainfield. Keeping the lawn mowed will help keep the drainfield aerated, clean and clear as well.
+
+Also, take care not to drive or park on the drainfield. Aside from possibly damaging the tank on your way there, regularly driving or parking on the field can compact the soil around the pipes, limiting their ability to absorb the treated water released by the drainfield.
+
+Septic Tank 101
+---------------
+
+By learning the basics of septic tank maintenance, you can save in more ways than one. On the one hand, you’ll save money by reducing the frequency of septic repairs and complications. And on the other hand, you’ll enjoy the benefits of disposing of your wastewater efficiently and in an environmentally friendly way.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nk_hBpyP3Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How Much Does Sewer Line Maintenance and Repair Cost?"></iframe>

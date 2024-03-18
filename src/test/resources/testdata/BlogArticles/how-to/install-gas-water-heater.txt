@@ -1,0 +1,164 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Install or Replace a Gas Water Heater"
+headline: "How to Install or Replace a Gas Water Heater"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-06-22
+basePath: https://library.homeserve.com/m/
+heroImage: 4d2e3d1bb81f7e3e/Blog-HOMESERVEUSA-PSEG-2019ModernFotographicbyDaveNoonan-103.jpg
+heroAltDescription: "pseg, technician, water heater"
+metaDescriptions: "Installing a water heater is a highly technical process beyond the skill level of many DIYers. If you're confident you can handle it, read this how-to guide."
+articleAbstract: "Replacing a gas water heater requires identifying the type of water heater you own, selecting a new one and removing the old unit. You’ll need to know how to connect the water and gas lines to the new heater and be able to ignite the pilot light. If you’re up for all that, read this how-to guide."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install or Replace a Gas Water Heater (Tank and Tankless)"
+  parent: Plumbing-How-To
+---
+  
+
+**Installing a Water Heater at a Glance**
+
+* **Step 1:** Measure and prep space
+* **Step 2:** Turn off water supply
+* **Step 3:** Drain tank
+* **Step 4:** Disconnect gas and water lines
+* **Step 5:** Remove overflow pipe and pressure relief valve
+* **Step 6:** Clean floor
+* **Step 7:** Hook up flue hat
+* **Step 8:** Solder gas line
+* **Step 9:** Light pilot light
+
+There are few things worse than a malfunctioning water heater. No hot water means no clean dishes or clothes — and cold showers for you. If you’re experiencing problems with your water heater, it may be time for a replacement. You can save some cash by replacing your unit yourself.
+
+**This May Also Interest You:** [**How Much Does It Cost to Repair or Replace Your Water Heater?**](https://www.homeserve.com/en-us/blog/cost-guide/repair-or-replace-water-heater/)
+
+Before you head out to buy a new water heater, you need to know that water heater installation is not a task for amateurs. If you don't know what you're doing, you can injure yourself while attempting the installation. And if you make a mistake in the process, you could damage your property.
+
+Replacing a gas water heater requires identifying the type of water heater you own, selecting a new one and removing the old unit. You’ll need to know how to connect the water and gas lines to the new heater and be able to ignite the pilot light.
+
+If you’re up for all that, read on.
+
+<img class="detail-image" src="https://library.homeserve.com/m/5e71b78f2604f30f/Blog-HOMESERVEUSA-PSEG-2019ModernFotographicbyDaveNoonan-94.jpg" alt="technician with water heater"/>
+-------------------------------------------
+
+Can I Install a Gas Water Heater Myself?
+----------------------------------------
+
+If cost is your primary concern, it may actually be more affordable to have a professional help you — but you certainly can take care of a gas water heater installation on your own if you're confident in your abilities.
+
+According to [Consumer Reports](https://www.consumerreports.org/water-heaters/tankless-water-heaters-vs-storage-tank-water-heaters/), 90% of water heater replacement occurs when the old water heater has failed. If you don’t know how to install a gas water heater, you don’t want to have to learn while water is flowing everywhere. It can also be unsafe to do it by yourself without any experience or knowledge on the topic.
+
+If you are unsure at all of what to do, it is far safer to trust the installation to a professional. This is not a DIY project you can afford to mess up; gas leaks pose a serious risk to your home and the environment. If you connect the waterline improperly, you may experience leaks.
+
+What Kind of Water Heater Do I Own?
+-----------------------------------
+
+Before you can properly install a new water heater, you need to remove the one you have. If you own a gas water heater, it will require more effort to remove than if you’ve got an electric model. You can tell if you have an electric water heater because it will have a cord running it and it won’t be connected to a gas line.
+
+It's also a good idea to jot down the make and model of your water heater because each system is slightly different. Get out your copy of the manual to see the instructions for how to turn the system off and flush it out safely.
+
+Choosing the Right Water Heater
+-------------------------------
+
+Decide whether you want to use natural gas or electricity to power your water heater, then decide if you want a water heater with a tank. The more important decision is going to be between gas or electric because it will impact your monthly energy bill and maintenance costs.
+
+### Electric Water Heaters
+
+Electric water heaters are the easiest to install. They’re also less expensive to purchase. However, they do come with downsides. Here are the benefits and disadvantages to consider:
+
+*   Electric water heaters require less upkeep because they're not connected to a gas line. You don't run the risk of gas leaks that can cause explosions or carbon monoxide poisoning.
+*   You will pay less for the actual water heater. However, electricity is more expensive than natural gas, so this benefit will be short-lived as you see higher electricity bills.
+*   If you lose power, you will lose access to hot water because the water heater requires power to operate.
+*   Electric water heaters heat water slower than their gas-powered counterparts.
+*   There are no high-efficiency electric water heaters on the market.
+
+### Gas Water Heaters
+
+You will need to be more experienced to install a gas water heater, and the installation will take more time. There are quite a few pros and cons to consider if you're considering a gas water heating system, like:
+
+*   Natural gas is cheaper than electricity. If you're looking to save money on your utilities, this is the way to go.
+*   Gas-powered units heat water quickly. A tankless gas water heater is much more effective and efficient than its electric counterpart.
+*   If your power goes out, your water heater will continue to operate unbothered. This can be very helpful during storms or other outages.
+*   Gas water heaters are more expensive to install. That said, the money you save on your utility bill will offset the initial cost over time because they're cheaper to run.
+
+There are also safety concerns related to having a gas system. If you have a gas leak, you may need to hire a professional to address the concern quickly, and you could be exposed to carbon monoxide and flammable gas.
+
+Some of the safety concerns that accompany a gas water heating system can be mitigated by having carbon monoxide detectors in your home. You can protect yourself by having a professional handle the installation, inspection and maintenance of your unit. If you install it yourself, you need to take every reasonable precaution to make sure that your system is not leaking gas. Check your connections routinely so that you know when you need to perform repairs.
+
+Despite the need for routine maintenance, higher installation cost and safety concerns, gas water heaters are more popular than electric ones. They’re simply more economical in the long run. You will save more money throughout the lifetime of your system than you would save upfront with an electrical unit.
+
+### Tankless Water Heaters Vs. Storage Water Heaters
+
+Whether you should opt for a tankless model depends on the amount of demand you intend to place on the unit and the climate you live in. Tankless water heaters take up only a fraction of the space needed for a tanked model, but they’re unable to keep any hot water in storage. They take a little longer to heat the water, but once they do, the output is about four gallons of hot water per minute.
+
+This may seem like a lot, but it may not be enough if you're running the shower, dishwasher and laundry machine at the same time. Having a tankless unit means you sacrifice your ability to draw hot water on demand. Colder climates pose another drawback; cold water takes longer to heat, so if you’re starting with water coming in from cold pipes, it will extend the time needed to warm the water.
+
+While tankless water heaters take up less space and require less maintenance, chances are that you need to retrofit your plumbing system to accommodate one of them. Tank systems are much more popular, and most homes are already set up for them. If you live in a cold climate, a tank water heater system is probably going to be better for you.
+
+A tanked system works by constantly heating the water in your storage tank so that you have hot water on demand whenever you turn it on. You can get tanks in excess of 100 gallons, though they’ll take up a lot of space. Most people select a capacity between 40 and 55 gallons. Since the water in the tank is always hot, you also lose quite a bit of energy heating water that may not be used, making these systems less eco-friendly.
+
+**More Related Articles:**
+
+*   [Your Guide to Draining a Water Heater](https://www.homeserve.com/en-us/blog/how-to/drain-water-heater/)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)
+*   [How Do I Turn My Water Heater On?](https://www.homeserve.com/en-us/blog/how-to/turn-on-water-heater/)
+*   [Don’t Forget to Flush! A 6-Step Guide for Flushing Your Gas or Electric Water Heater](https://www.homeserve.com/en-us/blog/how-to/flush-water-heater/)
+*   [How to Relight Your Water Heater’s Pilot Light](https://www.homeserve.com/en-us/blog/how-to/light-water-heater-pilot-light/)
+
+How Do I Install a Gas Water Heater?
+------------------------------------
+
+Safety is the first priority when working with gas lines. Make sure that your gas and water are completely cut off while you work to avoid accidents and injuries. Ensure there are no leaks before you use the new system. We don't recommend attempting to install your own water heater if you're not aware of all these safety requirements.
+
+This step-by-step guide will demonstrate how to install the most popular type of water heater, a gas model with a storage tank.
+
+### Step 1: Measure and Prepare the Space
+
+The best way to do this is to measure the unit you currently own, then purchase a new water heater according to those dimensions. Make sure the new water heater is up to any local codes or ordinances so that you don’t install it only to learn that you need to remove it due to non-compliance.
+
+### Step 2: Cut Off the Water Supply
+
+Shut off the water supply to your whole house at the water main shutoff valve. Turn the water control valve into the off position on the unit itself as well. Then, run your faucets throughout your home to drain your system of as much hot water as possible. Keep the faucets open while removing the old unit.
+
+### Step 3: Drain the Tank
+
+Connect a hose to the drain valve and [drain the tank](https://www.homeserve.com/en-us/blog/how-to/drain-water-heater/). You can run the hose to an area outside your home or empty the water into buckets or a drain in your home that leads to the sewer. This process can take a few minutes or more, but it's important to make sure that the tank is fully empty before you move forward.
+
+### Step 4: Disconnect the Gas and the Water
+
+If the lines have been soldered together, you will need a tubing cutter for this step. Your water should already be off, so start by shutting the gas off to the water heater. If you don't see shutoff valves at the heater, you'll have to shut off the main supply to the house. Sanding the pipe before you disconnect it might make it easier when you need to solder the new pipe. Remove the gas piping, but keep the tank tee and sediment trap as it was.
+
+### Step 5: Remove the Overflow Pipe and Pressure Release Valve
+
+These will be connected to your new unit. You will need to detach your old water heater from the gas exhaust but leave the vent hood in place. Removing your water heater might be a hassle because it's going to be heavy. You should make sure you know how and where to dispose of it before you move anything. Call your local waste management service for more information on how to dispose of old water heaters.
+
+### Step 6: Clean the Floor
+
+Make sure you have enough space to work. Place the new unit at least 6 inches from any wall or space for proper ventilation. Put the new unit in place and use a level to make sure it’s sitting flat.
+
+### Step 7: Hook Up the Flue Hat
+
+Work in the opposite order as the removal: Hook the flue hat to the gas exhaust vent, then install the heat trap fittings and water line connections. If you don't install these correctly, your water flow won't work properly, and hot water won't be fed into your plumbing system. Follow the arrows on the lines to make sure that you're feeding them in the right direction.
+
+### Step 8: Solder the Gas Line
+
+If you used a tubing cutter on the gas line during removal, you’ll need to solder the pipe to reconnect it. Reconnect the waterline as well. Then, you'll need to reinstall the pressure relief valve. At this point, you will have to connect the gas line and test it to make sure there are no leaks. Run soapy water over any locations where gas may leak and look for bubbles.
+
+### Step 9: Light the Pilot Light
+
+Finally, [light the pilot](http://v) and turn your water back on. Make sure to close the faucets you left open before this step.
+
+Is It Difficult to Replace a Gas Water Heater?
+----------------------------------------------
+
+Installing a gas water heater is not typically a DIY task for most homeowners; you can't learn how to install a gas water heater overnight. It can be extremely dangerous to take this task on if you're not properly prepared and have no plumbing experience. There are many things that can go wrong. You also need to make sure that your system meets all of the local building codes.
+
+It’s recommended that you contact a professional plumber for installation because a plumber will be able to install your unit quickly, can often dispose of the old one and will know what codes and regulations govern what type of system you are allowed to install. You’ll also have more peace of mind because a professional will complete all of the proper safety checks to make sure your new water heater is free of leaks.
+
+How Long Does It Take to Install a Gas Water Heater?
+----------------------------------------------------
+
+A professional plumber can usually complete installation in under two hours. Since a water heater with a tank is extremely heavy, a plumber might bring a coworker along to help with the removal.
+
+You might not be able to move the unit by yourself. And if you lack experience, the process may take you several hours — or even all day — because you'll spend a lot of time making sure you know where everything needs to go.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/LfJL3ADHwTY?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

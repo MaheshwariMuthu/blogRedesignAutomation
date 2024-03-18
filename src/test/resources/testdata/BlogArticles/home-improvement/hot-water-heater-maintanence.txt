@@ -1,0 +1,94 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to maintain a Hot Water Heater
+headline: How to maintain a Hot Water Heater
+author: Team HomeServe
+tags: ['post', 'Plumbing']
+publishDate: 2018-11-27
+videoSrc: https://www.youtube.com/embed/LfJL3ADHwTY?enablejsapi=1&origin=https%3A%2F%2Fwww.homeserve.com
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: /en-us/assets/images/blog/home-improvement/hot-water-heater.jpg
+heroAltDescription: Fixing Hot Water Heater
+metaDescriptions: 
+articleAbstract: HomeServe Hints has these simple steps for you to use when looking to maintain your hot water heater.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: How to maintain a Hot Water Heater
+  parent: Water-Heater-Home-Improvement
+---
+
+::::: blog-info
+With an older hot water heater, [signs of trouble](/en-us/blog/home-improvement/water-heater-warnings-signs/){target="_blank"} like scalding water, leaks, discoloration and weak water pressure mean you need to do some DIY maintenance work to prevent bigger problems.
+
+[1]: {{ migrationData.planspage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+But even if you’ve just had a brand [new water heater installed](/en-us/blog/cost-guide/water-heater-installation-cost/){target="_blank"} in your home, you’ll need to complete regular maintenance to keep it working in good condition. 
+Let’s address the essentials of how to maintain a water heater properly.
+
+## Shutting off the Energy Source
+
+Before completing any maintenance tasks on your hot water heater, shut off the power. The process is different depending on if you have a gas or electric appliance. With electric water heaters, you can simply turn off the power at the circuit breaker. With gas heaters, you’ll need to extinguish the pilot light. 
+
+## Dialing back the Thermostat
+
+While most heaters are automatically set at 140 degrees Fahrenheit, the U.S. Department of Energy recommends setting units at 120 degrees. Not only will this help [avoid mineral buildup, corrosion and scalding](https://energy.gov/energysaver/projects/savings-project-lower-water-heating-temperature){target="_blank"}, but it can save you 4%-22% on energy each year.
+Then locate the thermostat dial. On electric water heaters, you’ll usually find two dials behind removable panels, with one for the upper heating element and another for the lower heating element. With a gas appliance, look for a dial on or near the gas valve toward the bottom of the water heater tank.
+
+To get the most accurate setting, check the temperature of the water flowing from the furthest-away tap before adjusting anything. Let the water run on hot for a few minutes, then use a thermometer to gauge the temperature. After you turn down the thermostat, wait a few hours before taking a second reading at the tap.
+
+## Flushing the Tank
+
+Many homeowners don’t realize the importance of draining or flushing out a hot water heater. But why do you need to flush your water heater — and how often should you do it?
+The buildup of sediment, debris and minerals at the bottom of a hot water heater can lead to bigger problems, but you can avoid a system malfunction if you drain the tank. You should do this [once every six months](https://www.directenergy.com/blog/how-to-flush-a-water-heater/){target="_blank"}, according to Direct Energy, or more frequently if the water is especially hard in your region. 
+
+Start by turning off the electricity or gas, depending on your model. Connect a regular garden hose to the drain valve, then place the other end in a five-gallon bucket or near a floor drain. Open the drain valve, and allow the water to flow until it's clear. Be careful as the water will be very hot.
+
+Family Handyman notes that [the sediment may be gone](https://www.familyhandyman.com/plumbing/water-heater/extend-water-heater-life/){target="_blank"} after about two or three gallons of water, but this project could take much longer if you’ve never done it before. You can also flush all the water out but will need to refill the tank before turning on the power.
+
+## Testing the Temperature and Pressure Relief Valve
+
+The TPR valve protects your hot water heater from, overheating, building up too much pressure and exploding. To check that your water heater’s TPR valve is working correctly, start by switching off the power and then close the cold water supply valve. Place a bucket beneath the relief valve to catch any drips, then lift up the valve to release it.
+After the valve opens, you should hear a puff of air or see some water run out. If this doesn’t happen, or if your valve keeps spilling out water, it needs replacing. Open the drain valve to partially drain the tank, then remove the old TRP valve with a pipe wrench. Install a new valve in the same spot, but make sure you don't over-tighten it.
+
+## Inspecting the Anode Rod
+
+The anode rod is often called the sacrificial anode because it deteriorates to keep your water heater functioning properly. It attracts sediment and debris but will corrode over time so that the water storage tank itself doesn’t corrode. They typically last less than five years, but you should check every year to see how it’s holding up.
+Partially drain the water heater tank and find the anode rod at the top of the appliance. Water Heater Hub advises using a [socket or boxed end wrench](https://www.waterheaterhub.com/water-heater-anode-rod-replacement/){target="_blank"} to unscrew the anode, and having someone hold the tank in place for you. If it looks about 50% corroded, simply screw a new one into the same place.
+
+## Maintaining the Water Softener
+
+If you live in a region with hard water, your hot water heater may have a water softener attached to it. A softener is made up of a brine tank and a resin tank — but the latter sometimes sits inside the brine tank. 
+To maintain these components, shut off the water softener and engage the bypass valve so that your water flows directly into the water storage tank without passing through the water softener system.
+
+Depending on the issue inside the brine tank, you may need to break up the hardened salt bridge with a broomstick or wooden spoon and add hot water to re-dissolve the salt into a briny solution. Or, you can use a shop vacuum to clean it all out and then refill the tank with salt and hot water until it’s about two-thirds full. 
+
+## Changing out the Dip Tube
+
+If you’re only getting lukewarm water out of your hot water heater, the appliance’s dip tube might be broken. This is a plastic pipe that carries cold water down to the heat source. If it cracks, the cold water will just seep into the heated water, taking down the temperature. 
+Family Handyman notes that high volumes of [faulty dip tubes](https://www.familyhandyman.com/plumbing/water-heater/how-to-repair-or-replace-defective-water-heater-dip-tubes/){target="_blank"} were produced in the mid-1990s, so appliances made or modified during this time may be especially susceptible. 
+
+To check the dip tube, turn off the hot water heater’s power supply and cold water intake, then partially drain the tank to lower the water level inside. Once you locate the dip tube, which is connected to the cold water intake source, use a tubing cutter to cut it apart crosswise. You’ll need some rags to soak up the water that spills out. 
+
+Then, unscrew the leftover piece with a pipe wrench. Lower a new cross-linked polyethylene dip tube into your water tank and install it in the same spot by screwing it into the cold water source.
+
+## Descaling a Tankless Water Heater
+
+According to SFGate, tankless water heaters need to be [cleaned out with vinegar once a year](https://homeguides.sfgate.com/flush-out-tankless-hot-water-heater-53060.html){target="_blank"} to reduce mineral buildup. To do this, turn off the power and water supply valves.
+Connect one garden hose to the cold water service port and attach the other end to a submersible pump in a five-gallon bucket. Attach a second hose to the hot water service port and drop the other end in the bucket. 
+
+Pour four gallons of undiluted, food-grade white vinegar into the bucket and switch on the pump to flush the vinegar throughout the [tankless heater](/en-us/blog/buying-guide/hot-water-heater-systems/){target="_blank"}. After about 45 minutes to an hour, switch off the pump, disconnect the hoses and discard the vinegar. Keep just the second hose in place and open the cold water shutoff valve to rinse out the system with fresh water for about 10 minutes.
+
+## Finding a Home Repair Plan for your Plumbing System
+
+Now that you’re familiar with how to maintain a water heater, you may be able to extend the life of your appliance, increase its efficiency and save money on your monthly heating bills. 
+However, even a well-maintained unit may experience more serious issues that require professional water heater repair services. And major [plumbing repairs can be expensive](/en-us/blog/cost-guide/plumbing-repair-costs){target="_blank"} — especially if you’re not prepared.
+
+In the event of unexpected problems, having a home repair plan from HomeServe already in place can help offset the costs of covered repairs. Enter your [ZIP Code]({{ migrationData.homepage }}){target="_blank"} to learn more about affordable plumbing repair plans available in your area.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+:::::

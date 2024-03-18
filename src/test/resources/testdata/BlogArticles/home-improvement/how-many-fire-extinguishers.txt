@@ -1,0 +1,59 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Many Fire Extinguishers Do You Need?"
+headline: "How Many Fire Extinguishers Do You Need?"
+author: Bridget Coila
+tags: ["post"]
+publishDate: 2023-10-24
+basePath: https://library.homeserve.com/m/
+heroImage: 786f1ec10bb9501/Blog-GettyImages-485403652.jpg
+heroAltDescription: "Fire extinguisher in front of retro flower wallpaper"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "For most residences, one or two fire extinguishers may be enough, but the specific number you need depends on the layout of your house."
+articleAbstract: "For most residences, one or two fire extinguishers may be enough, but the specific number you need depends on the size and layout of your home as well as where flammable materials are located."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Many Fire Extinguishers Do You Need?"
+  parent: Interior-Home-Home-Improvement
+---
+  Whether you're dealing with a kitchen flare-up or a scented candle that got out of hand, having a fire extinguisher nearby can be the difference between a minor emergency and a total disaster.
+
+**This May Also Interest You:** [**Learn How to Install a Smoke Detector Safely**](https://www.homeserve.com/en-us/blog/how-to/install-smoke-detector/)
+
+For most residences, one or two fire extinguishers may be enough, but the specific number you need depends on the size and layout of your home as well as where flammable materials are located.
+
+How Many Fire Extinguishers Do You Need in Your House?
+------------------------------------------------------
+
+To determine the number of fire extinguishers your home needs, start by assessing the size of your home. Most apartments and small one-story houses only need one fire extinguisher, preferably in a centrally accessible location close to the kitchen. For larger houses, a general guideline is to have one fire extinguisher per floor. If your house has a complex layout, try to keep an extinguisher within about 40 feet of any location in your home. It's also a good idea to keep a fire extinguisher in the garage because most garages may contain high quantities of combustible contents, such as motor oil and gasoline.
+
+Where and How Should You Store Fire Extinguishers in Your Home?
+---------------------------------------------------------------
+
+Accessibility is key when you need a fire extinguisher, so store them in places that are easy to reach. Avoid keeping extinguishers in crowded cabinets or behind locked doors. You can store a fire extinguisher on a countertop or get a bracket that holds it on the wall for convenience.
+
+What Types of Fire Extinguishers Are Needed for Home Use?
+---------------------------------------------------------
+
+There are multiple types of fire extinguishers, and the type required depends on the fire hazard level of each part of your home. Fire extinguishers are rated by type, with A, B and C being the most common for home use, and by size. A-type extinguishers have sizes ranging from 1 to 3, which indicates how much liquid is inside. B- and C-type extinguisher sizes indicate the maximum square footage covered by the contents. You can find portable fire extinguishers rated for home use at most hardware stores.
+
+The National Fire Protection Association [recommends a 2-A: 10-B:C fire extinguisher](https://www.kidde.com/home-safety/en/us/fire-safety/fire-extinguishers-for-home/) for each level of your house and a higher-rated extinguisher, such as a 3-A: 40B-C Garage/Workshop unit for your garage. Regular fire extinguishers may not work with a fire caused by electricity, such as burning electrical wires. These fires may require a 1-A: 10-B:C type extinguisher.
+
+**More Related Articles:**
+
+*   [Wood-Burning Stove and Fireplace Safety](https://www.homeserve.com/en-us/blog/home-improvement/fireplace-wood-burning-stove-safety/)
+*   [How to Test the Batteries in Your Smoke and Carbon Monoxide Detectors](https://www.homeserve.com/en-us/blog/how-to/test-smoke-detector-batteries/)
+*   [Is It Safe to Put Things on or Near Your Radiator?](https://www.homeserve.com/en-us/blog/home-improvement/can-you-put-items-on-radiator/)
+*   [Hot Tips! 5 Backyard Fire Safety Suggestions](https://www.homeserve.com/en-us/blog/how-to/fire-pit-safety/)
+*   [How to Create a Disaster Preparedness Plan](https://www.homeserve.com/en-us/blog/how-to/disaster-preparedness-plan/)
+
+What Situations Require More Fire Extinguishers in the Home?
+------------------------------------------------------------
+
+If you use your home in ways that increase the chance of a fire, you may want more extinguishers to handle the extra fire hazard. Most residential homes are considered low-risk and only need fire extinguishers. If you use your home for small business purposes, such as a daycare or office, you might fall under commercial regulations as a light fire hazard. Commercial and industrial buildings, such as commercial kitchens, may be classified as an ordinary fire hazard II, which may require the installation of sprinklers in addition to fire extinguishers.
+
+What Other Fire Safety Essentials Are Needed for Home Use?
+----------------------------------------------------------
+
+In addition to fire extinguishers, smoke detectors are an essential requirement for home fire safety. Sprinklers are an optional item but may be useful for a larger home or one that doubles as a business. If you choose to install sprinklers, a fire protection company can help with installation. Fire protection services can also monitor and service sprinklers, wired fire alarm systems or other fire alert and suppression systems.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pBbYRM89xxc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Even the HomeServe TikTok guy can’t #DIY everything!"></iframe>

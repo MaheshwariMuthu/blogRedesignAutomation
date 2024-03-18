@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "7 Tips to Lower Your Electric Bill"
+headline: "7 Tips to Lower Your Electric Bill"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2023-08-18
+basePath: https://library.homeserve.com/m/
+heroImage: 6e65f32419f8294b/Blog-GettyImages-517994041.jpg
+heroAltDescription: "energy savings with turning off electrical appliances"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Explore how to lower your electric bill with a variety of methods, including free options and methods that have a cost associated with them."
+articleAbstract: "If you're on a tight budget, look for free ways to save energy and lower your bills. If you have some extra money for the project, there are paid upgrades you can make."
+category: ["How To"]
+eleventyNavigation:
+  key: "7 Tips to Lower Your Electric Bill"
+  parent: Electrical-How-To
+---
+  Do you dread looking at your energy bills each month? Whether your goal is to save money or save the planet, learning how to lower an electric bill effectively can help.
+
+**This May Also Interest You:** [**More Power to You: How to Read Your Electricity Bill**](https://www.homeserve.com/en-us/blog/how-to/read-electricity-bill/)
+
+If you're on a tight budget, look for free ways to save energy and lower your bills. If you have some extra money for the project, there are paid upgrades you can make.
+
+What Are Some Ways to Lower Your Electricity Bill?
+--------------------------------------------------
+
+When deciding how to save on an electric bill, you can cut back on energy consumption in several ways.
+
+Free Ways to Save Energy
+------------------------
+
+These are things that anyone can do without spending a dime. Explore these options for how to save electricity for free.
+
+### 1\. Adjust Your Thermostat Settings
+
+Lower heat settings in the winter and higher AC settings in the summer can help save you money. If you have a programmable thermostat, this is even easier. Set a schedule based on when you're home and away. Making a [7- to 10-degree adjustment](https://www.energy.gov/energysaver/programmable-thermostats) from your regular setting for eight hours each day could save you up to 10% on energy.
+
+### 2. Unplug What You're Not Using
+
+Unplugging appliances in your home when you're not using them could save you energy. Even if an electrical appliance isn't being used, it's still pulling some electricity. If it's something you don't use all day long, like your toaster or hair dryer, unplug it between uses.
+
+### 3\. Go Cold
+
+Using cold water to wash your laundry can reduce energy by giving your water heater a break. Washing in cold water can also help your clothes last longer, which can save you money on your wardrobe.
+
+How to Save Electricity With Upgrades
+-------------------------------------
+
+When you're trying to figure out how to lower electric bill costs, you might not want to invest a lot of money. However, there are several effective options that involve upgrading your current home or adding new features. Consider these upgrades to help lower your energy bills.
+
+### 1\. Upgrade Your Appliances
+
+Old appliances are often greedy with electricity. Upgrading to newer models of major home appliances can cut your energy bills. They use less energy and typically have features that optimize operations. For example, a dryer might use sensors to determine when your clothes are dry so it doesn't run longer than necessary. Plus, new appliances usually come with lots of bells and whistles that make your chores easier and more enjoyable.
+
+### 2\. Replace Light Bulbs and Switches
+
+Getting rid of incandescent bulbs and using LED or CFL bulbs instead can use less power for your home lighting. Another bright way to save is by installing dimmer switches instead of traditional light switches. With a dimmer switch, you can lower the light levels and use less energy. Smart home devices to control your lights can also save energy by allowing you to shut off lights from anywhere. Location-based controls can shut off lights based on how far away your phone is, and sensors can turn lights on and off based on someone being in the room.
+
+### 3\. Take Care of Your HVAC System
+
+Your heating and cooling system sucks a lot of power. It takes a lot of energy to keep your home warm and cool, and in many areas, you need either the heat or AC most of the year. Keeping your HVAC system as efficient as possible can reduce energy costs. Changing the air filter regularly is a simple way to do so. Check the filter monthly and change it as needed.
+
+Another important part of improving efficiency is scheduling regular professional tune-ups. HVAC technicians check all the parts, tighten connections and lubricate moving parts to help everything run smoothly.
+
+### 4\. Repair and Improve
+
+Gaps and leaks around your home, such as cracks along windows or gaps at the bottom of doors, can make your HVAC system work harder and use more power. Fixing those issues can make a big improvement in your energy use and home comfort. Adding insulation can also help.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

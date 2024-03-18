@@ -1,0 +1,85 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "The Top 10 Products We Saw at CES 2024 — Ranked!"
+headline: "The Top 10 Products We Saw at CES 2024 — Ranked!"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2024-01-17
+basePath: https://library.homeserve.com/m/
+heroImage: 13346eacab218ec/Blog-CES2023_IMG_3653.jpg
+heroAltDescription: "CES logo sign"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "That's a wrap on CES 2024. Here are the 10 coolest things we saw at the trade show."
+articleAbstract: "Unfortunately, with CES being an industry-only event, consumers themselves aren’t allowed on the show floor. We were happy to do the legwork and bring you tons of coverage right here on the HomeServe blog. Here's a look at the best things we saw."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "The Top 10 Products We Saw at CES 2024 — Ranked!"
+  parent: Interior-Home-Home-Improvement
+---
+  After a [Midwest blizzard](https://weather.com/storms/winter/news/2024-01-10-winter-storm-gerri-forecast-snow-wind-west-midwest-northeast) and a few weather-related flight cancelations, HomeServe has _finally_ returned home following a full week at CES 2024 in Las Vegas. The trade show (formerly known as the Consumer Electronics Show) brought together thousands of exhibitors, each showing off the latest and greatest in tech of all types. Our coverage focused on what’s really just a small corner of just one of the massive show floors: smart home technology and appliance innovations.
+
+**This May Also Interest You:** [**CES 2024: 7 Cool Smart Home Products We’re Excited to See**](https://www.homeserve.com/en-us/blog/home-improvement/homeserve-ces-2024/)
+
+Unfortunately, with CES being an industry-only event, consumers themselves aren’t allowed on the show floor. But honestly, as cool as it is, navigating a convention with more than 4,000 exhibitors and [130,000-plus](https://www.ces.tech) attendees is no walk in the park. So, we were happy to do the legwork and bring you tons of coverage right here on the HomeServe blog.
+
+Here, we’ve ranked the coolest home-related products we saw at CES 2024:
+
+10\. [FreePower for Countertop](https://www.homeserve.com/en-us/blog/home-improvement/freepower-ces-2024/)
+----------------------------------------------------------------------------------------------------------
+
+Wireless chargers are not new — but FreePower upped the game by putting its charging technology into countertops. Any surface can be used to charge your phone.
+
+9\. [Sevvy Smart Cooker](https://www.homeserve.com/en-us/blog/home-improvement/sevvy-smart-cooker-ces-2024/)
+------------------------------------------------------------------------------------------------------------
+
+A lot of us are aiming to be healthier in the new year, and Sevvy’s smart cooker, with its patented, low-temperature technology, hopes to make healthy eating accessible to home chefs at every ability level.
+
+8\. [Alertify Property Monitor](https://www.homeserve.com/en-us/blog/home-improvement/alertify-ces-2024/)
+---------------------------------------------------------------------------------------------------------
+
+If you’re an apartment or condo dweller, you no doubt have a neighbor (or used to have a neighbor) who flouted the rules on every available occasion. This device can help property owners — of both long- and short-term rentals — keep tabs on their properties while they’re away.
+
+7\. [Hisense Smart Built-In Dishwasher](https://www.homeserve.com/en-us/blog/home-improvement/hisense-dishwasher-ces-2024/)
+---------------------------------------------------------------------------------------------------------------------------
+
+Automation is the name of the game with so many smart home products displayed at CES, and Hisense’s new dishwasher is no different. This thing varies the amount of detergent it uses for each type of cycle, and it dispenses the correct amount of detergent for whatever cycle you select.
+
+6\. [Current Model G Electric Grill](https://www.homeserve.com/en-us/blog/home-improvement/current-backyard-ces-2024/)
+----------------------------------------------------------------------------------------------------------------------
+
+Electric grills are known for their low cooking temps when compared to gas or charcoal grills, but Current turns that notion on its head with a fully electric no-flame grill that heats up to 700 degrees Fahrenheit in just 10 minutes.
+
+5\. [GE Profile UltraFast With Ventless Heat Pump Technology](https://www.homeserve.com/en-us/blog/home-improvement/ge-profile-heat-pump-tech-ces-2024/)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+GE says it has improved on the often-lackluster experience of using a two-in-one washer-dryer combo with the brand-new GE Profile UltraFast. The UltraFast also has heat pump technology for its dryer, which means it can be placed anywhere where there’s a water hookup, even if there’s no vent. At the GE booth, we also saw the [GE Profile Smart Smoker](https://www.homeserve.com/en-us/blog/home-improvement/ge-smoker-ces-2024/), which brings the technology of a smoker indoors.
+
+4\. [Whirlpool SlimTech Fridge Technology](https://www.homeserve.com/en-us/blog/home-improvement/whirlpool-slimtech-ces/)
+-------------------------------------------------------------------------------------------------------------------------
+
+Refrigerators have looked the same for decades, but Whirlpool’s new fridge innovation might be changing the game for good. SlimTech is a powder that can be used inside the doors and walls of refrigerators instead of the polyurethane foam that’s ubiquitous among fridge manufacturers. The result is a much slimmer profile and 25% more in-fridge storage capacity.
+
+3\. [WaterCube Atmospheric Water Generator](https://www.homeserve.com/en-us/blog/home-improvement/watercube-ces/)
+-----------------------------------------------------------------------------------------------------------------
+
+You likely have some sort of electrical generator to use while camping, or just in case the power goes out at home. Genesis Systems has made a water generator that can be used in the exact same instances — except when the problem is lack of water. The residential solution pulls water out of thin air to create more than 100 gallons per day.
+
+2\. [Woosh Smart HVAC Filter and Smart Air Quality Monitor](https://www.homeserve.com/en-us/blog/home-improvement/woosh-air-ces/)
+---------------------------------------------------------------------------------------------------------------------------------
+
+You’ve moved out and gotten your home … but wouldn’t it be nice if someone would give you a gentle reminder to do your chores? Woosh’s smart HVAC filter does just that. The system can let you know when it’s time to order a replacement filter. Woosh’s smart air quality monitor automates your HVAC experience even more by detecting your home’s air quality and activating your HVAC system accordingly to reduce the amount of pollutants in the air.
+
+1\. [iFLO Smart HVAC Drain Line Cleaner](https://www.homeserve.com/en-us/blog/home-improvement/iflo-ces-2024/)
+--------------------------------------------------------------------------------------------------------------
+
+This product is our favorite for a reason: AC drain line clogs can lead to _major_ flooding. And as many times as we at HomeServe implore you to clean out your drain line, in some particularly hot and humid areas of the country, gunk can build up faster than you can clean it out. Enter: iFLO, the world’s first and only automated HVAC drain line cleaner.
+
+CES 2024: We’re Not Done With You Yet!
+--------------------------------------
+
+Check out our continuing coverage of CES 2024 here on the [HomeServe blog](https://www.homeserve.com/en-us/blog/), as well as on our social channels:
+
+*   [TikTok](https://www.tiktok.com/@homeserveusa)
+*   [Instagram](https://www.instagram.com/homeserve_usa/)
+*   [YouTube Shorts](https://www.youtube.com/@HomeServeUSA/shorts)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/kelkErNj5Dw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="What even is a condensate drain line???"></iframe>

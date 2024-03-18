@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: What's the difference between Furnace and Heat Pump?
+headline: What is the difference between a Furnace and a Heat Pump?
+author: Team HomeServe
+tags: ['post', 'Know Your Equipment', 'Top Tips and Lists']
+publishDate: 2019-10-29
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: FurnaceHS.jpg
+heroAltDescription: Furnance and Water Heater
+metaDescriptions: Learn the difference between heat pumps, gas furnaces, oil furnaces for home heating options.
+articleAbstract: When it comes to home heating options, it’s important to know the differences between heat pumps, gas furnaces and oil burning furnaces.
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: What's the difference between Furnace and Heat Pump?
+  parent: HVAC-Buying-Guide
+---
+
+As October winds down and temperatures drop, it's time to start thinking about [home heating](/en-us/blog/cost-guide/new-furnace-cost){target="_blank"}. (Yep, sweater weather is here.) I will confess, I’ve already turned my heat on – as I hate feeling chilled to the bone first thing in the morning. But when it comes to heating, one of the most common debates is that of furnace vs. heat pump. Let’s debate:
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+:::: blog-info
+## A question of fuel
+
+The main difference between a furnace and a heat pump is fuel. As explained by PickHVAC, a furnace often runs on natural gas or liquid propane (LP), while a heat pump [is driven by an electricity-circulated refrigerant](https://www.pickhvac.com/faq/furnace-vs-heat-pump-vs-dual-fuel/){target="_blank"}.
+
+There are exceptions: Some furnaces burn [home heating oil](/en-us/blog/buying-guide/propane-oil-furnace-differences){target="_blank"} as opposed to gas or LP, and some are electric. Meanwhile, heat pumps sometimes use electric resistance heating. Another fun fact: oil is more often heated in a boiler than a furnace. And is less common in the U.S. than gas furnaces or heat pumps. That’s because of the 85% of the oil burned each year in the US, most of it is [confined to New England and the tri-state area](https://www.eia.gov/energyexplained/heating-oil/use-of-heating-oil.php){target="_blank"}, per the Energy Information Administration.
+
+## The choice between furnace or heat pump
+
+As with a lot of things in life, choosing whether to use a heat pump or gas furnace is less about comparison and more an issue of considering certain factors.
+
+[Learn More About Home Repair Plans Near You]({{ migrationData.homepage }}){target="_blank"}
+
+Here's are the factors homeowners should consider:
+
+* ### Location:
+
+According to Energy Vanguard, [location plays a big role](https://www.energyvanguard.com/blog/69996/The-Shocking-Truth-About-Heat-Pumps){target="_blank"} because it determines climate. For example, if you're living in the southern or southwestern U.S., it'll be hot more often than cold. You won't need the natural gas or oil common in colder regions, so a heat pump is best. In colder areas, it's the opposite.
+
+* ### Cost:
+
+PickHVAC notes that gas furnaces cost more per British Thermal Unit (BTU) than heat pumps. But it's a small difference - between $11 and $14 per BTU with the former; $7 and $10 for the latter. And a heat pump costs much more to install on average than a furnace ($6,700 versus $3,175).
+
+* ### Sustainability:
+
+If your carbon footprint matters to you, a heat pump is better, as its impacts the environment far less than gas or oilfurnaces.
+
+* ### Efficiency:
+
+Heat pumps packaged with central air conditioning systems kill two birds with one stone, but run much less efficiently than those running separately from the AC.
+::::
+
+Being prepared for issues with your heating system is always a good strategy. [Plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help you deal with the costs of covered repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}

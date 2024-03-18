@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Reset Your Garbage Disposal"
+headline: "How to Reset Your Garbage Disposal (Pssst ... It's Way Easy!)"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2021-06-25
+basePath: https://library.homeserve.com/m/
+heroImage: 599b3e954ce0278b/Blog-GarbageDisposalResetButton_MSchmitz_0001.jpg
+heroAltDescription: "finger pushing the garbage disposal reset button"
+metaDescriptions: "If your garbage disposal isn't working, resetting it might be all that's needed to fix it. Learn how it's done, and discover some troubleshooting tips."
+articleAbstract: "Like most kitchen appliances, a garbage disposal’s essential functions are often taken for granted ... until it stops working, that is. One of the easiest and most effective methods of repair is to simply reset it. Read on to discover how to reset your garbage disposal — plus, learn what to do if a simple reset doesn’t work."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Reset Your Garbage Disposal"
+  parent: Plumbing-How-To
+---
+  Like most kitchen appliances, a garbage disposal’s essential functions are often taken for granted ... Until it stops working, that is. Before dishing out a chunk of change to hire a plumber to fix the issue, there are several troubleshooting and repair steps you can perform yourself.
+
+**This May Also Interest You:** [**8 Things You Should Never Put Down the Garbage Disposal (and 5 Things You Can)**](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-dos-and-donts/)
+
+One of the easiest and most effective methods is to simply reset it. Read on to discover how to reset your garbage disposal — plus, learn what to do if a simple reset doesn’t work.
+
+Safety First
+------------
+
+Before proceeding, you should disconnect the garbage disposal from its electrical power source. Doing so is essential for preventing any injuries that could result from the garbage disposal accidentally turning on while you’re working on it.
+
+You can do this by unplugging the garbage disposal’s power cord from its wall outlet, turning off the wall switch that operates the garbage disposal or turning off the breaker that controls the garbage disposal on your home’s electrical service panel.
+
+When Do You Need to Reset Your Garbage Disposal?
+------------------------------------------------
+
+Your garbage disposal is designed to automatically shut off when it’s being overworked by a clog, has been running for too long or the motor is otherwise overheating. When this happens, an integrated circuit breaker will trip and shut off the power.
+
+When the built-in circuit is tripped, a normally depressed reset (or “overload”) button will pop out. The reset button is usually (but not always) red in color, and it’s often located on the very bottom of the garbage disposal. In many cases, pushing the reset button is all that’s required to restore power to the garbage disposal.
+
+How to Reset Your Garbage Disposal
+----------------------------------
+
+Once the power is shut off, locate the reset button on the bottom of the garbage disposal. Push it in until you hear or feel it click. You can then restore power to your garbage disposal and run it to see if it works.
+
+**More Related Articles:**
+
+*   [Garbage Disposal Not Working? Here’s How to Fix Common Issues](https://www.homeserve.com/en-us/blog/how-to/fix-garbage-disposal/)
+*   [How to Remove a Garbage Disposal](https://www.homeserve.com/en-us/blog/how-to/remove-garbage-disposal/)
+*   [How Much Does It Cost to Install or Replace a Garbage Disposal?](https://www.homeserve.com/en-us/blog/cost-guide/install-garbage-disposal/)
+*   [Why Is My Garbage Disposal Leaking?](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-leaking/)
+*   [How to Deep Clean a Garbage Disposal](https://www.homeserve.com/en-us/blog/how-to/clean-garbage-disposal/)
+
+What If My Garbage Disposal Turns on but Still Doesn’t Work?
+------------------------------------------------------------
+
+If you’ve pressed the reset button and the garbage disposal only hums or makes another strange sound, there is likely something clogging the flywheel — the part that spins the impellers to shred food waste.
+
+Visually inspect inside the drain to see if you can identify the offending object or substance. If you can see what it is, you can try to remove it with tongs or pliers. You shouldn’t, however, use your hands to remove any obstructions, even if you’re _sure_ the power is off.
+
+Sometimes, the material will be stuck inside or around the flywheel, so you might need to manually turn the flywheel to dislodge the clog. To do this, find the hexagon-shaped hole on the bottom of the unit. This hole is usually made to accommodate a 1/4-inch Allen wrench. You can either use a standard Allen wrench set or a [garbage disposal “de-jamming” wrench](https://www.amazon.com/Sink-Erator-Division-4577-Disposer/dp/B00LLLWQ0E/ref=sr_1_14?dchild=1&keywords=garbage+disposal+wrench&qid=1622743834&sr=8-14) that’s specifically designed for this purpose.
+
+Place the wrench into the hole and begin to gently turn it back and forth. If it’s difficult to turn, that verifies the presence of a clog. Continue turning back and forth to dislodge the clog until you can easily turn the wrench 360-degrees without any resistance. Once functionality has been restored, you can try to remove the material with your tongues or pliers or try to grind it up if it’s a soft food substance.
+
+Once the source of the clog has been removed, hit the reset button, turn the power back on and test your garbage disposal to see if it works.
+
+What If My Garbage Disposal Still Doesn’t Work?
+-----------------------------------------------
+
+If you’ve worked through the previous troubleshooting steps and your garbage disposal _still_ isn’t working, that usually means that the motor has burnt out and needs to be replaced. You can either replace it yourself or have a professional do it for you. A [new garbage disposal can cost between $50 and $250](https://www.homeserve.com/en-us/blog/cost-guide/install-garbage-disposal/), and professional installation can cost between $120 and $600.
+
+Whether you’ve successfully fixed your garbage disposal or had to replace it with a new one, ensure that you keep it running at its best by giving it the occasional deep clean.

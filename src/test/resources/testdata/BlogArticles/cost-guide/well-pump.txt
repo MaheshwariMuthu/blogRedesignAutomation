@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Replace or Install a Well Pump?"
+headline: "How Much Does It Cost to Replace or Install a Well Pump?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-06-29
+basePath: https://library.homeserve.com/m/
+heroImage: 36986c0f2e882ee6/Blog-GettyImages-480915008.jpg
+heroAltDescription: "residential well pump"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Here’s a primer on well pumps and how much it’ll cost to install or replace one."
+articleAbstract: "The cost of replacing or installing a well pump depends on the depth of your well and the type of well pump you choose. Here’s a primer on well pumps and how much it’ll cost to install or replace one."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Replace Or Install A Well Pump?"
+  parent: Plumbing-Cost-Guide
+---
+  You probably know your well pump as that ugly piece of plastic or metal that sticks out like a sore thumb in your yard. You narrowly miss it every time you mow the lawn. Maybe you cover it with a fake rock or hide it in some flowers just so you don’t have to see it. As annoying as it is to look at, your well pump is a pretty important piece of equipment. So, when something goes wrong, you’ll probably need to replace it right away.
+
+**This May Also Interest You:** [**5 Signs Your Well Pump Is Not Well**](https://www.homeserve.com/en-us/blog/home-improvement/replace-well-pump/)
+
+The cost of replacing or installing a well pump depends on the depth of your well and the type of well pump you choose. Here’s a primer on well pumps and how much it’ll cost to install or replace one.
+
+How Much Does It Cost to Replace or Install a Well Pump?
+--------------------------------------------------------
+
+The well pump is perhaps the most important part of your water system. It collects water from the well and drives it upward into the rest of the water system in your home. If you're installing a new well, you'll need a pump to make use of it. The average cost to replace a well pump is between about $540 and $1,850 (CAD 690 and CAD 2,370), according to [HomeGuide](https://homeguide.com/costs/well-pump-cost#replace).
+
+What Factors Into the Cost of Well Pumps?
+-----------------------------------------
+
+For a basic model suited for shallower wells, a well pump can cost as little as $200 (CAD 260). On the upper end, a constant pressure pump may cost as much as $5,000 (CAD 6,415). More powerful pumps draw water at a higher rate and will give better water pressure.
+
+There are several common styles of well pump:
+
+### Jet or Centrifugal Pumps
+
+This type sits above ground level. Jet pumps create a vacuum to draw water through the system, but water pressure can vary.
+
+### Submersible Pumps
+
+Submersible pumps are located underground, submerged in the water. They’re more powerful than jet pumps and are best for deeper wells, from 25 to 150 feet (8 to 46 meters).
+
+### Solar Pumps
+
+As the name suggests, these are solar-powered, reducing day-to-day running costs. Both submersible and jet pumps can be solar-powered. Solar pumps cost between $1,650 and $3,200 (CAD 2,115 and AD 4,100), but installing one could save you a significant amount on your energy bills.
+
+### Hand Pumps
+
+Hand-powered pumps are inexpensive — between $50 and $600 (CAD 65 and CAD 770) — and suitable for shallow wells. They are manually operated and don’t require electricity to run. Depending on how handy you are, you may be able to install one yourself. However, hand pumps aren’t used as a primary well pump; often, they’re installed as a backup.
+
+**More Related Articles:**
+
+*   [Everything You Need to Know About Your Sump Pump](https://www.homeserve.com/en-us/blog/home-improvement/everything-to-know-sump-pump/)
+*   [How Much Does a Septic Tank System Cost?](https://www.homeserve.com/en-us/blog/cost-guide/septic-tank-system-cost/)
+*   [Au Revoir, Standing Water! How to Install a French Drain in 8 Steps](https://www.homeserve.com/en-us/blog/how-to/how-to-install-a-french-drain/)
+*   [How Much Does a Water Softener Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-a-water-softener-cost/)
+*   [Prevent Frozen-Pipe Problems by Knowing These Things Down Cold](https://www.homeserve.com/en-us/blog/how-to/frozen-pipes/)
+
+Labor and Other Expenses
+------------------------
+
+In addition to the cost of the pump, you’ll also have to pay to have it installed. In most cases, it’s not a DIY job. Working with pumps, septic tanks and your home's water system is something you should leave to the professionals.
+
+Depending on the depth of the well and the complexity of the job, expect to pay between $250 and $800 (CAD 320 and CAD 1,025) for labor. Simply fitting a pump is relatively inexpensive, especially with a shallow well. However, if the tank itself needs replacing or wiring work needs to be done, the price of the job will increase.
+
+Except for inexpensive hand pumps, the bulk of the cost of replacing a well pump comes from the purchase of the pump itself. Generally, labor costs are less than half of the total cost of installation.
+
+Should You Repair or Replace a Well Pump?
+-----------------------------------------
+
+Sophisticated submersible pumps can fail. They may run constantly, become clogged or suddenly lose pressure. In some cases, repairing a pump can cost less than replacing it. If all that's required is a new pressure switch or some limited rewiring, expect to pay between $150 and $600 (CAD 190 and CAD 770).
+
+Many older homes have wells with jet pumps that weren’t designed for the level of output a modern family may need. It may be better to replace the pump with a submersible design or an energy-efficient solar pump.
+
+Most well pumps will last for at least a decade unless the water in the area is rich in sediment. Accepting the upfront replacement cost could keep you from potentially expensive repairs down the road.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

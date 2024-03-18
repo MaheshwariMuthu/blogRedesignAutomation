@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Do I Find the Serial Number on My Google Pixel Phone?"
+headline: "How Do I Find the Serial Number on My Google Pixel Phone?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-01
+basePath: https://library.homeserve.com/m/
+heroImage: 401782c6ad90a5ca/Blog-sebastian-bednarek-BBuxnOkl2Uk-unsplash.jpg
+heroAltDescription: "A white Google Pixel smartphone sits atop its packaging bearing the Google G logo"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Many people forget to note their serial number when they first purchase their Google Pixel phone, but there are plenty of easy ways to find it."
+articleAbstract: "Many people forget to note their serial number when they first purchase their Google Pixel phone, but there are plenty of easy ways to find it."
+category: ["How To"]
+eleventyNavigation:
+  key: "How Do I Find the Serial Number on My Google Pixel Phone?"
+  parent: Appliances-How-To
+---
+  _Photo by_ [_Sebastian Bednarek_](https://unsplash.com/@abeso?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on [Unsplash](https://unsplash.com/s/photos/google-pixel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+
+Your Google Pixel's serial number is essential for proving your ownership of the phone. You might need to know your serial number to unlock the phone, establish the warranty status or file a police report if your smartphone is stolen.
+
+**This May Also Interest You:** [**How Do I Find the Serial Number on My iPhone?**](https://www.homeserve.com/en-us/blog/how-to/find-iphone-serial-number/)
+
+Many people forget to note their serial number when they first purchase their Google Pixel phone, but there are plenty of easy ways to find it.
+
+Finding Your Google Pixel's Serial Number
+-----------------------------------------
+
+### On the Original Packaging
+
+The easiest way to check your [Google Pixel's serial number](https://support.google.com/store/answer/3333000?hl=en) is to look for the sticker on the back of the original packaging. It's generally a good idea to retain the packaging when you buy a new smartphone or write the serial number down somewhere safe before discarding it.
+
+### On the Outside of the Phone
+
+Phone won’t turn on? The good news is that your Google Pixel phone may also have the serial number printed inside the SIM card tray.
+
+### In the Settings
+
+However, if you can't get your hands on the original box, you can still find your Google Pixel’s serial number on the phone itself. Open the phone's settings, tap "Device Information,” then tap "Status." There, you can find your phone's serial number.
+
+Can You Find Your Google Pixel Serial Number Without the Phone?
+---------------------------------------------------------------
+
+You can still access your Google Pixel's serial number without the phone in your hand if it's lost or stolen. Begin by signing into your [Google Dashboard](https://www.google.com/settings) account on a computer and clicking on the Android arrow. This will provide a list of all the Android devices linked to your account, including their serial numbers. Locate your Google Pixel phone on the list and make a note of the serial number.
+
+**More Related Articles:**
+
+*   [How Do I Find the Serial Number on My Android Phone?](https://www.homeserve.com/en-us/blog/how-to/find-android-smartphone-serial-number/)
+*   [How Do I Find the Serial Number on my Samsung Smartphone?](https://www.homeserve.com/en-us/blog/how-to/find-samsung-smartphone-serial-number/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+*   [How to Do a Home Inventory Before Disaster Strikes](https://www.homeserve.com/en-us/blog/how-to/create-home-inventory/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+
+Should You Share the Serial Number?
+-----------------------------------
+
+It's usually best to avoid sharing serial numbers with others. Someone could use your serial number to pretend to be the owner of your phone, allowing them to access free services or to request a fraudulent repair or replacement.
+
+There are some situations when it's OK to share your serial number. For example, a repair technician may require the number to check your phone's warranty, or you may need to give it to the police if someone steals your phone. However, it's wise to abstain from posting your serial number online, such as on a selling site like eBay.﻿
+
+What's an IMEI or MEID?
+-----------------------
+
+The “IMEI” stands for International Mobile Equipment Identity, which is another name for your Google Pixel's serial number. These numbers are 15 digits long. A 14-digit MEID number is another type of serial number, with “MEID” standing for Mobile Equipment Identifier. Whether you have an IMEI or MEID number depends on your carrier.

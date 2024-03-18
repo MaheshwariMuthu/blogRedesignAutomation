@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Does High Humidity Affect Your Home?"
+headline: "High Humidity Can Harm Your Home. Here's How to Head Off Damage"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-10-04
+basePath: https://library.homeserve.com/m/
+heroImage: 4acf7289d9d0a0b9/Blog-GettyImages-1187177202.jpg
+heroAltDescription: "Condensation on old window panes"
+metaDescriptions: "High humidity levels can affect your comfort, your health, belongings and the structure of your home."
+articleAbstract: "Humidity doesn't just have an impact on your comfort. It can also affect your personal belongings and the structural integrity of your home. High humidity levels are also the cause of health concerns. Here's how to mitigate damage from humidity."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Does Humidity Affect Your Home &amp; How to Prevent Damage"
+  parent: Interior-Home-Home-Improvement
+---
+  If you’re staring at the number on the thermostat in disbelief because it feels much warmer than the reading, you’re probably dealing with a high-humidity situation. Humidity doesn't just have an impact on your comfort. It can also affect your personal belongings and the structural integrity of your home.
+
+**This May Also Interest You:** [**Get Rid of the Humidity: Here’s How to Use a Dehumidifier Effectively**](https://www.homeserve.com/en-us/blog/how-to/use-a-dehumidifier/)
+
+High humidity levels are also the cause of health concerns, so it’s important to know when you’re in need of a good dehumidifier or humidifying system for your home.
+
+How Does Humidity Affect Your House?
+------------------------------------
+
+Humidity can change how you perceive temperature due to its impact on air quality. Lower humidity makes it feel cooler, while high humidity in the house makes you feel warmer. When relative humidity is high, the air has a high moisture content, making it harder for your sweat to evaporate and cool you down. Those who suffer from respiratory conditions such as asthma may feel like they’re struggling to breathe when the humidity is high.
+
+Low humidity can have a negative impact on your health and your home as well. It’s the cause of some sore throats and dry mouth, and it can exacerbate cold and flu symptoms. It may make people [more likely to spread COVID-19](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjM6crPjuHyAhUIa80KHTMEBDcQFnoECBkQAQ&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Frobertglatter%2F2020%2F10%2F25%2Fdry-air-indoors-will-increase-transmission-of-covid-19-as-winter-approaches%2F&usg=AOvVaw38qDuPRawj1r1psak8w_pm), and it can worsen the symptoms of the disease.
+
+Both low and high humidity can damage items in your home, including structural components. Walls, furniture, flooring and other components can suffer harm when the humidity levels are out of control.
+
+For these reasons, humidity is best when it’s balanced.
+
+What Happens If You Have Too Much Humidity in Your House?
+---------------------------------------------------------
+
+High humidity in a house invites microorganisms and helps them flourish. Dust mites, mold and mildew all thrive in warm and moist conditions. Once mold or mildew finds its way into your walls or floors, it can spread rapidly and be expensive to remove. Mold infestations can be toxic to some people — especially those who are allergic.
+
+Excessive humidity can also damage the structural components of your home. Wood floors absorb the moisture and begin to expand. This warps the wood and can ruin your floors and baseboards.
+
+Many people don’t know that mold feeds on the materials in their homes. It breaks down walls, destroys furniture, eats through carpet and clothing and can even ruin paper. It may eat away at the paint on your walls and cause wallpaper to peel.
+
+Can Humidity Damage Electronics?
+--------------------------------
+
+Everyone knows to keep their electronics away from water. One of the threats that high humidity in a home brings is condensation. Air flows in and out of many devices so that they don’t overheat.  When warmer, humid air comes in contact with the colder surfaces inside of an electronic device, small droplets of water form on the surface of contact.
+
+Too much condensation can cause components in your computer or television to short circuit. If enough condensation builds inside of a computer, for example, it can cause catastrophic damage to a motherboard, hard drive or processor. Replacing these components is often pricey because they are the more expensive parts that make up a computer.
+
+The ideal humidity for electronics is under 50%. Humans are most comfortable between 30% and 60% humidity, so it’s possible for your home to have high humidity for your electronics without you realizing it. One of the ways you can combat this is to keep the temperature in your home lower by running the air conditioner. Modern air conditioners dehumidify the air as they lower the temperature to help people feel more comfortable.
+
+**More Related Articles:**
+
+*   [5 Reasons You Need a Dehumidifier in Your Home](https://www.homeserve.com/en-us/blog/home-improvement/dehumidifier-benefits/)
+*   [Hot This Summer? Here’s How to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+*   [A Mist Opportunity: 5 Ways a Humidifier Helps Your Home be Healthier](https://www.homeserve.com/en-us/blog/home-improvement/humidifier-health-benefits/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+
+Does Humidity Affect Drywall?
+-----------------------------
+
+Just as with everything else in your home, your drywall can be impacted by both high and low humidity. Low humidity can cause cracks to appear in the drywall, and the plaster can crumble. Relative humidity levels in excess of 60% invite dust mites, mildew and mold into the drywall. Given enough time, mold can spread through the drywall and destroy it.
+
+The only way to repair the drywall is to kill the mold, cut out the damaged drywall and replace it. This can be a costly undertaking, even when doing it yourself. In addition to the supplies and material you’d need, there is the inconvenience of the time needed to complete the project. As long as there is mold in your home, other family members and pets may suffer from adverse reactions to the mold.
+
+What Is the Best Way to Control Humidity?
+-----------------------------------------
+
+Purchasing a hygrometer lets you keep tabs on the humidity level in your home to determine if it’s in the ideal range of 30% to 50%. Running the air conditioner regularly helps keep the humidity lower in the summer months, but you may need to place dehumidifiers in rooms that are more humid, like the basement. A humidifier (which adds moisture to the air) often helps during the winter if your heating system dries the air out. You can now purchase whole-house humidifiers that keep your home in the ideal humidity range during the dry season.

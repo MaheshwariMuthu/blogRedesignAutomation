@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Fix Electrical Cords"
+headline: "How to Fix Electrical Cords and Charging Cables"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-12-11
+basePath: https://library.homeserve.com/m/
+heroImage: 5fd611f21f88c1ce/Blog-GettyImages-1338971344.jpg
+heroAltDescription: "Electric wiring connected by a wire nut connectors on white background"
+metaDescriptions: "Broken electrical cords are a common household irritation. Here's how to fix cords by wiring a new plug or using a shrink tube."
+articleAbstract: "Broken electrical cords are a common household irritation and have multiple causes — from accidents with power tools to pets gnawing on cables. Here's how to fix an electrical cord by wiring a new plug or using a shrink tube."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Fix Electrical Cords"
+  parent: Electrical-How-To
+---
+  There's nothing more annoying than losing power in the middle of mowing your lawn and discovering that you've cut through the extension cord. Broken electrical cords are a common household irritation and have multiple causes — from accidents with power tools to pets gnawing on cables.
+
+**This May Also Interest You:** [**Conceal Your Cords: How to Install a Cable Management System**](https://www.homeserve.com/en-us/blog/how-to/diy-cord-organizer/)
+
+Fortunately, you _can_ fix broken electrical cords. Here's how to fix an electrical cord by wiring a new plug or using a shrink tube.
+
+Can an Electrical Cord Be Repaired?
+-----------------------------------
+
+It is possible to repair electrical cords, but you shouldn't attempt the repair unless you're confident that you know how to do it safely. A cord that hasn't been repaired properly could cause an electric shock or pose a fire risk. If in doubt, call a professional to do the work for you or simply purchase a new cord.
+
+As the [Occupational Safety and Health Administration](https://www.osha.gov/laws-regs/standardinterpretations/1998-12-16) warns, it’s not generally a good idea to fix an electrical cord with electrical tape. However, you can use it to reinforce a cord with superficial damage to the outer insulation. If your cord has a deep cut in the outer insulation that allows it to bend more than the rest of the cord or the wires are exposed, it needs more than tape. Follow the instructions for how to fix a severed electrical cord below.
+
+How to Fix a Severed Electrical Cord: Wire a Plug End
+-----------------------------------------------------
+
+It depends on where the cut is located. If you've cut the cord very close to where it joins the appliance, you'll most likely need a new cable. However, if the cord is cut closer to the plug and has enough length attached to the appliance, you can install a new plug on the severed end and accept a shorter electrical cord. Before starting, switch off the power at the outlet to avoid an electric shock. Then, unplug and discard the length of cord attached to the plug.
+
+### Step 1: Strip the Wires
+
+Using wire strippers, remove around 3/4 of an inch (2 centimeters) of the outer casing surrounding the three insulated wires. Be careful not to cut the internal wires, or you could end up losing additional cable length. Next, strip 1/2 inch (about 12 millimeters) of insulation from each of the three wires to expose the metal.
+
+### Step 2: Connect the Wires to the Plug
+
+Use a screwdriver to unscrew the new plug and remove the outer casing to access the terminal screws. Attach each wire to the correct terminal screw by wrapping the exposed metal wire clockwise, then tighten the screws. You should connect the green grounding wire to the green grounding screw, the black hot wire to the brass terminal and the white neutral wire to the silver screw.
+
+### Step 3: Replace the Plug Casing
+
+Put the casing back on the new plug and tighten the screws firmly. You can now check the repair by plugging the cord into an electrical outlet and seeing if the appliance works. If you're repairing a severed extension cord, you can plug the other end into a plug-in circuit tester to check that you wired the plug correctly.
+
+**More Related Articles:**
+
+*   [What’s a Whole-House Surge Protector?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-surge-protector/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+
+How Do You Fix a Charging Cord?
+-------------------------------
+
+If the insulation around your phone charging cord is split, but the wires inside are still intact, you can use a piece of shrink tube to repair the damaged insulation. Shrink tubing reduces in size when you heat it to form a tight, protective seal over the damaged cable.
+
+Before you start, check the rough diameter of your wire so that you know what size shrink tubing to buy. Don't forget to check the shrink ratio to ensure it will shrink to the correct size. For example, a 2:1, 2-millimeter shrink tube is ideal for fixing a 1-millimeter wire because the tube will halve in diameter when you apply heat.
+
+Cut the shrink tube a little longer than the damaged section because it will also shrink lengthwise. Next, slide the tube over the damaged cable and apply heat using a heat gun or hairdryer on a hot setting. Keep moving the heat source over the shrink tube to avoid damaging the wires inside.
+
+Alternatively, you could consider using a shop-bought cable saver if your charger cord is fraying near the end. You can purchase cable savers online and at DIY stores. However, they tend to be expensive, so buying a new charger might be more cost-effective, depending on the type.
+
+How Do You Repair an Extension Cord?
+------------------------------------
+
+Extension cord repair is straightforward as long as you don't mind shortening the cable. If the cord is broken nearest the male end (the plug end), you can simply follow the instructions above explaining how to fix an electrical cord by replacing the plug end.
+
+If your cord is broken near the female end (receptacle end), you can purchase a replacement female part. Attach the part in the same way as wiring a new plug, connecting the green wire to the green terminal screw, the black wire to the brass terminal screw and the white wire to the silver screw.

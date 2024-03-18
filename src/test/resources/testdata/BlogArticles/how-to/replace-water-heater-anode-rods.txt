@@ -1,0 +1,89 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Replace Anode Rod in Water Heater"
+headline: "How to Replace the Anode Rods on Your Water Heater"
+author: Mark Soto
+tags: ["post"]
+publishDate: 2022-02-17
+basePath: https://library.homeserve.com/m/
+heroImage: 8c8062fed8aa8c6/Blog-GettyImages-1177752044.jpg
+heroAltDescription: "A man holding a anode damaged from corrosion. In the background the boiler and a view of the lawn. Close up"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "An anode rod helps extend the life of your water heater. Here's how to replace yours."
+articleAbstract: "Anode rods play an important role for your water heater, but they don't last forever. Here's how to replace your water heater's anode rod when the time comes."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Replace the Anode Rods on Your Water Heater"
+  parent: Plumbing-How-To
+---
+  **Replacing Water Heater Anode Rods at a Glance**
+
+* **Step 1:** Turn off gas or power and water
+* **Step 2:** Locate anode rod
+* **Step 3:** Drain water
+* **Step 4:** Remove rod
+* **Step 5:** Install replacement
+
+An anode rod is a not-so-well-known tool that plays a very critical function for your water heater. They are found inside a water heater and are an essential component that improves the life span of your heater by essentially sacrificing themselves.
+
+**This May Also Interest You:** [**What’s the Deal With Self-Cleaning Water Heaters?**](https://www.homeserve.com/en-us/blog/home-improvement/self-cleaning-water-heater/)
+
+Their whole purpose is to corrode and collect sediment to prevent it from reaching the heater. Anode rods are commonly made of either magnesium or aluminum, with magnesium being the more capable option.
+
+It’s important to learn the signs that an anode rode no longer works properly to not only help increase the lifespan of the heater, but also to keep the water quality in your home at a high level.
+
+### How to Know If the Anode Rod Is Bad
+
+Ideally, an anode rod should be replaced every 3 to 5 years. If you live in an area with high water hardness, you’ll want to do this more often. If you aren’t sure when it was last replaced, there are some ways to tell that it’s gone bad.
+
+The most common sign that it’s no longer properly working is a rotten egg smell coming from your water or the heater itself. The rotten egg smell stems from the sulfur found in the water. Although it’s not exactly dangerous, it’s not very pleasing, and it’s something you will want to get rid of right away.
+
+In other cases, you might also notice that the water looks slightly different or discolored. Another way to check whether it’s gone bad is simply looking at the anode rod. If the rod is rusty, discolored or clearly corroded, it’s time to replace it with a new one.
+
+### Magnesium Vs. Aluminum Anode Rod: Which Is Better?
+
+You have two popular options when buying an anode rod — magnesium or aluminum rods.
+
+Magnesium anode rods are considered the most efficient of the two, but there are some drawbacks. While magnesium is more capable of preventing corrosion, it’s also susceptible to giving off sulfur smells and doesn’t last as long. It doesn’t last as long because it corrodes faster since it attracts sediments better, which is kind of what you want it to do in the first place.
+
+On the other hand, aluminum rods are the cheaper option of the two. They don’t produce any smells. The downsides are that they don’t catch nearly as much sediment as their magnesium counterparts.
+
+Ultimately, if you live in an area with a high level of minerals in the water — magnesium rods should be the go-to choice. On the other hand, if hard water isn’t a huge concern, then aluminum anode rods are suitable enough.
+
+**More Related Articles:**
+
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [How to Turn Off Your Water Heater — and When It May Come Up](https://www.homeserve.com/en-us/blog/how-to/turn-off-water-heater/)
+*   [How Much Does It Cost to Repair or Replace Your Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/repair-or-replace-water-heater/)
+*   [How Do I Turn My Water Heater On?](https://www.homeserve.com/en-us/blog/how-to/turn-on-water-heater/)
+*   [How to Relight Your Water Heater’s Pilot Light](https://www.homeserve.com/en-us/blog/how-to/light-water-heater-pilot-light/)
+
+How to Replace an Anode Rod
+---------------------------
+
+### Step 1: Turn Off Power or Gas Supply and Water
+
+For safety purposes, you should turn off the power at the circuit breaker if you have an electric heater. If you have a gas heater, then turn off the gas supply. You should also turn off the water supply valve.
+
+### Step 2: Locate the Old Anode Rod
+
+While it depends on your water heater model, most anode rods are located at the top of the tank. You might be able to see its visible head under a plastic cap. If you still have the water heater manual available, it will tell you the exact place where the anode rod is located.
+
+### Step 3: Drain Water From the Tank
+
+To make the old anode rod easier to remove, empty some of the water in the tank. As a rule of thumb, empty either 2 gallons (7.5 liters) or 10% to 15% of what the tank holds. To drain it, add a garden hose to the valve at the bottom of the heater and run the other end to another place where you can safely dispose of the water. The water that comes out can be very hot, so be careful not to come into contact with it when you’re draining it out.
+
+### Step 4: Remove the Old Anode Rod
+
+Find the anode rod’s exact positioning at the top of the tank. Specific tank models, like Rheem, will have a plastic covering. If necessary, use a screwdriver to remove the covering and any insulation that covers its head.
+
+Then, use a 1-1/16 socket and attach it to the head of the anode rod. Turn the socket counterclockwise to remove it from the tank. It’s a good idea to have someone next to you with a towel ready in case any water seeps out.
+
+Once the rod head is sufficiently pulled up enough for you to remove it, use your hand to pull it upwards. Use caution as it might still be hot. If you haven’t looked at it previously, you will notice that it’s quite corroded or rusty at this point, which means it did its job well.
+
+### Step 5: Install the Replacement Rod
+
+Once the old rod has been removed, you can now replace it with a new anode rod. Place it back into the same spot and turn it with your hand just as when you removed it. Then, once you can no longer turn it further, tighten it with the socket again and install a new plastic cap on top of it.
+
+Once it’s fully in place, turn the water and power or gas supply back on. After a day, check that there is no leakage anywhere around the area or water heater.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

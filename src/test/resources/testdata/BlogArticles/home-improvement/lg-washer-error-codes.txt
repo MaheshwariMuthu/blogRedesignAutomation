@@ -1,0 +1,166 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "LG Washing Machine Error Codes"
+headline: "LG Washing Machine Error Codes"
+author: Kaia Koglin
+tags: ["post"]
+publishDate: 2023-12-17
+basePath: https://library.homeserve.com/m/
+heroImage: 185b4c890e3490d6/Blog-WashTower_Lifestyle-002.jpg
+heroAltDescription: "dark laundry room with lg washer and dryer"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Knowing LG washing machine error codes can help you figure out what’s gone wrong with your machine and how to fix it. "
+articleAbstract: "It’s important to get a broken washer working again as soon as possible. Knowing LG washing machine error codes can help you figure out what’s gone wrong and how to fix it."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "LG Washing Machine Error Codes"
+  parent: Appliances
+---
+  A malfunctioning washing machine can definitely make your life messy. The dirty laundry piles up, and you have nothing to wear. If the washer stopped working halfway through a cycle, you could even be left with a pile of wet clothes to deal with.
+
+**This May Also Interest You:** [**What Do You Do With an Old Appliance? How to Recycle Fridges, Washers, Ovens and More**](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+That’s why it’s important to get it working again as soon as possible. LG washing machine error codes can help you figure out what’s gone wrong and how to fix it.
+
+What Is an Error Code?
+----------------------
+
+Error codes are important tools in troubleshooting that help repair technicians diagnose problems in computers and electronics. The machine determines where, and often why, an error has occurred, and the code communicates that to the user. This stops people from having to pull apart machines to determine what the issue is. Often, these codes allow you, as the user, to attempt to fix the problem rather than waiting for a repair tech to come out and service the machine.
+
+Common LG Washing Machine Error Codes and What They Mean
+--------------------------------------------------------
+
+LG washing machine error codes are made up of a combination of letters and numbers. They should be listed in your user manual or can be found on the [LG support website](https://www.lg.com/us/support/help-library/lg-washer-error-code-list--20150140270078). Even within companies, error codes aren’t always universal. For example, dE errors can indicate a problem with the door or drawer, depending on the model. It’s important to check the code for your machine to make sure you have an accurate diagnosis of the problem.
+
+Below are some of the common error codes for LG washing machines.
+
+### IE
+
+This code indicates a water inlet error. The correct water level has not been reached.
+
+### UE, uE, UB
+
+The load is unbalanced because it is too small, the clothes are gathered to one side or the appliance is tilted.
+
+### 0E
+
+Water is overflowing.
+
+### FE
+
+Water is overflowing. The drain pump will operate to drain water automatically.
+
+### PE
+
+The pressure sensor assembly is out of order.
+
+### dE1, dE2
+
+The door is not latched, or the door switch assembly is out of order.
+
+### tE
+
+The thermistor is out of order.
+
+### LE
+
+Connectors in the motor harness are disconnected.
+
+### EE
+
+The EEPROM (a sort of microchip) isn’t working properly.
+
+### PF
+
+There’s a power supply error in which power is supplied rapidly.
+
+### Sud
+
+The washing machine has detected too many suds.
+
+### uS, V5, VS
+
+The vibration sensor is out of order, or the vibration sensor communication is not working.
+
+### Ed1
+
+The detergent in the reservoir has not decreased or has hardened.
+
+### Ed2
+
+This is an “open-circuit pump” error. The amount of liquid detergent in the reservoir has not decreased.
+
+### Ed3
+
+The amount of softener in the reservoir has not decreased or has hardened.
+
+### Ed4
+
+This is an “open-circuit softener pump” error. The amount of fabric softener in the reservoir has not decreased.
+
+### Ed5
+
+PCB does not work due to poor communication.
+
+### OPn
+
+The drawer was open during operation.
+
+### nE, nF
+
+The Wi-Fi modem isn’t connected, or there was an issue with the Wi-Fi modem function.
+
+### FF
+
+The drain hose is frozen.
+
+### E6
+
+A foreign object is stuck between the pulsator and the tub.
+
+### CL
+
+This is not an error. It simply means that the child lock feature is active.
+
+### tCL
+
+A tub-clean cycle is overdue. Run a tub-clean cycle to clear this error.
+
+### dE, dE1, dE2
+
+The drawer is not closed properly.
+
+### DL
+
+The door latch isn’t functioning properly.
+
+### DR
+
+The cycle has timed out and is automatically draining water.
+
+### CE
+
+This indicates a “cycle error” in which the drum can’t reach the required speed.
+
+### d3
+
+A coupling part is malfunctioning.
+
+**More Related Articles:**
+
+*   [Should You Buy a Used Appliance? Weigh the Risks and Rewards](https://www.homeserve.com/en-us/blog/buying-guide/used-appliances/)
+*   [7 Ways Your Kitchen Will Evolve in the Next 10 Years](https://www.homeserve.com/en-us/blog/home-improvement/advancements-kitchen-technology/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+  
+Do I Need to Call a Repair Tech, or Can I Fix These Errors on My Own?
+------------------------------------------------------------------------
+
+Whether you need to call a repair tech will depend on the error. Some errors resolve on their own. For example, in most cases, a suds error will add a suds-reducing cycle to the wash. This adds around two hours to the wash cycle but doesn’t require any intervention from you.
+
+Troubleshooting guides offer you steps to take to try to fix each LG washing machine error code. The guides also tell you when a service technician must be called. Repair techs are essential when computing or electrical components must be fixed or replaced.
+
+If you plan to do any troubleshooting yourself, make sure you put safety first. A washing machine uses both water and electricity, which can be a dangerous combination. Unplug the machine when necessary, and if you’re in any doubt about your ability to do the repair, contact an LG service technician.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/E7N374KASqs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Eco-friendly laundry hack!"></iframe>

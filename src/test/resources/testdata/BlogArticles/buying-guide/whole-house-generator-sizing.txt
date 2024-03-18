@@ -1,0 +1,98 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Big a Generator Do I Need for My House"
+headline: "How Much Generator Do I Need for My House?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-03
+basePath: https://library.homeserve.com/m/
+heroImage: 4da4df18392dc98d/Blog-GettyImages-1278295972.jpg
+heroAltDescription: "Whole home generator"
+metaDescriptions: "How big a generate do you need? Find out more about generators and what size you might need for your house."
+articleAbstract: "Proper whole-house generator sizing is important in meeting demands and avoiding excessive wear and tear on the machine. Here, we’ve broken down generator sizing to help you prepare for emergencies and avoid overspending."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "How Much Generator Do I Need?"
+  parent: Electrical-Buying-Guide
+---
+  What size generator do I need? It's an important question — and one you _definitely_ want to ask before you shell out for a home backup generator that can keep your major appliances running during power outages.
+
+**This May Also Interest You:** [**Home Backup Generator Maintenance Checklist**](https://www.homeserve.com/en-us/blog/home-improvement/generator-maintenance/)
+
+Proper whole-house generator sizing is important in meeting demands and avoiding excessive wear and tear on the machine. Below, we’ve broken down generator sizing to help you prepare for emergencies and avoid overspending.
+
+How Do You Determine What Size Generator You Need?
+--------------------------------------------------
+
+Whole-house generator sizing is based on watts, so you need a generator that has enough wattage to run all of the items you want or need to keep going during a power outage.
+
+For a basic calculation, determine which appliances you want the generator to run if you lose power. Think about the things that are most important, such as your refrigerator, heating and cooling systems, security system, medical equipment and lights. Add up the wattage required to run those items. Factor in the start-up wattage used for some appliances, such as HVAC systems and refrigerators. They initially draw more wattage than they do once they're actually running.
+
+The size of the unit also affects generator cost, so it's often a balance of your budget and your electrical needs. Being conservative instead of buying the largest generator available lowers your initial cost and also reduces how much fuel you need, making the generator cheaper to use overall. Keep in mind that your electrical needs could increase over time, though, so buying the bare minimum now could leave you short on power in the future.
+
+What Will a 10,000-Watt Generator Run?
+--------------------------------------
+
+If you choose a 10,000-watt generator, you can expect it to run most — if not all — of your larger appliances. You can weather a power outage without really noticing the power is out. Some examples of what it can run include:
+
+*   Refrigerator
+*   Freezer
+*   Small appliances
+*   Lights
+*   Sump pump
+*   Window air conditioner
+*   Furnace
+*   Washing machine
+*   Electric stove
+*   Dishwasher
+*   TV
+
+Keep in mind that running all of the major appliances at once could strain the 10,000-watt generator. That's especially true when things like your refrigerator or air conditioner first kick on and suck more power. The more things you run at the same time, the more fuel your generator uses, which increases your costs. However, a 10,000-watt generator should let you do most of your activities like normal with very little disruption.
+
+How Much Can a 7,500-Watt Generator Run?
+----------------------------------------
+
+A 7,500-watt generator is generally a good size, unless you have a very large home or want to run every appliance you have on the generator. It can handle most of your household appliances, although it's a good idea to balance what you run at the same time. Doing dishes, cooking dinner, washing laundry and blasting the AC all at the same time can put a strain on a 7,500-watt generator.
+
+Some things that can run on a 7,500-watt generator include:
+
+*   Refrigerator
+*   Freezer
+*   Water heater
+*   Lights
+*   Electric stove
+*   Air conditioning
+*   Space heaters
+*   Washing machine
+*   Dryer
+*   Small appliances
+
+With this size, you can run most of your home items, so it'll seem like you didn't lose power. However, taking turns running items that draw a lot of power is a good idea.
+
+**More Related Articles:**
+
+*   [How Much Does a Home Generator Cost?](https://www.homeserve.com/en-us/blog/cost-guide/home-generator/)
+*   [How Much Does a Whole-House Generator Cost?](https://www.homeserve.com/en-us/blog/cost-guide/whole-house-generator/)
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets with GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+
+What Will a 2,200-Watt Generator Run?
+-------------------------------------
+
+If you choose a 2,200-watt generator, you'll likely need to cycle through different appliances because you won’t be able to use them all at once. While it can accommodate many of your large appliances individually, running multiple appliances at the same time can quickly blow past the 2,200 watts. This size is a bare-bones option that can help you keep just your essentials running during a power outage.
+
+According to [Lowes](https://www.lowes.com/pdf/portable_generator_wattage_chart.pdf), these are the wattages of common appliances for reference:
+
+*   Refrigerator: 700 watts (2,200 starting watts)
+*   Microwave: 625 to 1,000 watts
+*   Electric stove: 2,100 watts
+*   TV: 500 watts
+*   Sump pump: 800 watts (1,300 starting watts)
+*   Space heater: 1,800 watts
+*   Washing machine: 1,150 watts (2,250 starting watts)
+
+Whole-House Generator Sizing and Use Tips
+-----------------------------------------
+
+Ensure your generator can run what you really need. Go larger if you have the budget so you can run things beyond the basics. Running anything and everything your generator can handle at the same time increases fuel consumption. Limiting how much you run helps conserve fuel and lower costs. Proper generator maintenance also helps keep it running efficiently.

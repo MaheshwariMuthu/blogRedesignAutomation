@@ -1,0 +1,161 @@
+Browser Used: firefox
+
+Article Page URL:  https://contentful-blogs-dev.netlify.app/blogs/how-to/refinish-hardwood-floors
+
+Article title <How to Refinish Hardwood Floors: 9 Steps, Start to Finish> MATCHED
+
+Article author <Team HomeServe> MATCHED
+
+Article publishDate <January 26, 2021> MATCHED
+
+Article image <https://library.homeserve.com/m/39f7c0250191c54a/Blog-GettyImages-184997291.jpg> MATCHED
+
+Block1_Paragraph 1 MATCHED
+
+	Hardwood is an attractive and durable choice for home flooring that can hold up under constant abuse while still managing to look good. But nothing lasts forever, and every seven to 10 years, even hardwood needs refresh. A professional refinishing can be pricey — up to $4,000 at the high end. So if you’re not prepared to spend your hard-earned cash on your hardwood floor, you can opt to spend your time instead of spending your money, and do the work yourself.
+
+Block1_Paragraph2_link 1 MATCHED
+
+	Here's How to Clean Your Hardwood Floors for That Flawless Shine|https://www.homeserve.com/en-us/blog/how-to/clean-hardwood-floors/
+
+Block1_Paragraph 2 MATCHED
+
+	This May Also Interest You: Here's How to Clean Your Hardwood Floors for That Flawless Shine
+
+Block1_Paragraph 3 MATCHED
+
+	If you decide to go the DIY direction — which could save you hundreds or even thousands of dollars — this nine-step overview can walk you through hardwood floor refinishing process:
+
+Heading 1: < Step 1: Gather What You’ll Need > MATCHED
+
+Block2_List 1 NOT MATCHED
+
+	A soft-bristle broom
+A vacuum with a hardwood floor attachment
+A hammer
+Finishing nails
+Plastic sheeting
+Painter’s tape
+A pry bar
+A belt sander or a drum sander
+Sandpaper in 36to 40-grit, 60-grit, 100-grit and 220-grit
+An edge sander
+A floor buffer with a fine-grit sanding screen
+Tack cloth
+Foam applicator pad
+Hardwood floor stain
+Cotton pads or paper towels
+Either water-based polyurethane wood lacquer or oil-based polyurethane wood finish
+A lacquer roller with a long handle and a quality paintbrush
+
+	A soft-bristle broom
+A vacuum with a hardwood floor attachment
+A hammer
+Finishing nails
+Plastic sheeting
+Painter’s tape
+A pry bar
+A belt sander or a drum sander
+Sandpaper in 36- to 40-grit, 60-grit, 100-grit and 220-grit
+An edge sander
+A floor buffer with a fine-grit sanding screen
+Tack cloth
+Foam applicator pad
+Hardwood floor stain
+Cotton pads or paper towels
+Either water-based polyurethane wood lacquer or oil-based polyurethane wood finish
+A lacquer roller with a long handle and a quality paintbrush
+
+Heading 2: < Step 2: Prepare the Floor > MATCHED
+
+Block3_List 1 MATCHED
+
+	Sweep the floor with a soft-bristle broom to avoid scratching your wood floors.
+Vacuum the floor using a hardwood floor attachment, if your vacuum comes with one.
+Nail down any protruding nails with a hammer and secure loose floorboards with finishing nails.
+
+Heading 3: < Step 3: Prepare the Room > MATCHED
+
+Block4_List 1 MATCHED
+
+	Move all furniture and other household items, including all rugs or carpeting.
+Seal air vent covers to prevent dust from entering your home’s ductwork, and all doors to keep dust out of the rest of the house.
+Pull up any molding where the floors meet the walls, using a pry bar.
+
+Heading 4: < Step 4: Rough Sanding > MATCHED
+
+Block5_Paragraph 1 MATCHED
+
+	This is where things can get expensive. Refinishing floors requires several kinds of sanders.
+
+Block5_List2_link 1 MATCHED
+
+	sanding your hardwood floors|https://www.hgtv.com/design/remodel/interior-remodel/buffing-vs-sanding-hardwood-floors
+
+Block5_List 2 MATCHED
+
+	Begin sanding your hardwood floors with either a belt sander or drum sander. Always wear safety goggles or a dust mask.
+Start with a coarser-grit sandpaper, 36 to 40 grit, then move to a medium, about 60 grit, and finally, end with 100-grit, fine sandpaper.
+Work in lengths of 3-4 feet at a time. Complete one pass with each type of sandpaper.
+For best results, replace the abrasive belt every 250 feet or so.
+Between rounds of sanding with the different-grit sandpapers, sweep or vacuum the floor to remove excess debris.
+
+Heading 5: < Step 5: Edge Sand the Corners and Small Areas > MATCHED
+
+Block6_List 1 MATCHED
+
+	Use an edge sander for getting to small spaces like closets, in corners or along edges where the larger sander can’t access.
+Follow the same process as with the belt or drum sander, going through three rounds of sanding, from coarser to finer grit sandpaper.
+
+Heading 6: < Step 6: Buff the Floors > MATCHED
+
+Block7_Paragraph 1 MATCHED
+
+	This is an important final step for making your job look more professional. It also helps buff away any scratches from the other sanders.
+
+Block7_List 2 MATCHED
+
+	Use a floor buffer with a fine grit sanding screen.
+Let the buffer move in a sweeping motion to create a smooth surface on the floor.
+
+Heading 7: < Step 7: Clean Up the Dust > MATCHED
+
+Block8_List 1 MATCHED
+
+	After buffing, do a thorough job of sweeping and then vacuuming the floor.
+Afterwards, use a tack cloth, picking up any visible loose dust.
+
+Block8_Image 2 MATCHED
+
+	https://library.homeserve.com/m/129c6c17a5ce1de5/Blog-GettyImages-184871036.jpg
+
+Heading 8: < Step 8: Apply Stain > MATCHED
+
+Block9_Paragraph 1 MATCHED
+
+	When staining hardwood floors, you can decide to change the color of your wood floors at this stage, based on your current color preferences and style of wood floor.
+
+Block9_List 2 MATCHED
+
+	Using a foam applicator pad, work in one small section at a time, moving in the direction of the wood grain.
+Check for extra stain and remove it as you go; cotton pads or paper towels can be used for this.
+Let the stain dry completely.
+
+Heading 9: < Step 9: Apply Finish > MATCHED
+
+Block10_Paragraph 1 MATCHED
+
+	The two most common wood finishes available are water-based polyurethane wood lacquers and oil-based polyurethane wood finishes. Although water-based finishes are less noxious, they dry faster, which makes application a challenge. Oil-based polyurethane finishes have the advantage of drying more slowly, but they also require respirator use during application.
+
+Block10_List 2 MATCHED
+
+	Apply finish smoothly and evenly with the roller and paintbrush.
+Apply three coats for oil-based stains and four coats for water-based stains.
+After each coat dries, lightly sand the surface with 220 sandpaper.
+Wait 24 hours before applying the second coat.
+Reattach the baseboard molding you removed earlier.
+
+Block10_Paragraph 3 MATCHED
+
+	Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood.
+

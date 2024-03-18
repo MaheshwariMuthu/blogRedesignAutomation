@@ -1,0 +1,84 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Your Home's Plumbing System Works"
+headline: "How Your Home's Plumbing System Works"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-01-31
+basePath: https://library.homeserve.com/m/
+heroImage: 77ee2d141b4c672b/Blog-GettyImages-1150199946.jpg
+heroAltDescription: "Person wearing rubber gloves uses an adjustable wrench on a drain pipe underneath a sink."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Knowing how different plumbing system components function can help you diagnose and manage plumbing problems."
+articleAbstract: "Your plumbing system is an essential part of your home, but many homeowners don't understand how it works. Knowing what the different plumbing system components do and how they function can help you diagnose and manage plumbing problems."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Your Home's Plumbing System Works"
+  parent: Plumbing-Home-Improvement
+---
+  Your plumbing system is an essential part of your home, but many homeowners don't understand how it works.
+
+**This May Also Interest You:** [**Got Plumbing Problems? Here’s What Plumbing Issues Homeowners Insurance Covers … and What It Doesn’t**](https://www.homeserve.com/en-us/blog/buying-guide/plumbing-system-home-warranty-coverage/)
+
+Knowing what the different plumbing system components do and how they function can help you diagnose and manage plumbing problems.
+
+How Does a Plumbing System Work?
+--------------------------------
+
+Your plumbing system consists of freshwater and wastewater subsystems. The freshwater subsystem pushes water through your pipes under enough pressure to supply upstairs fixtures. Meanwhile, the wastewater subsystem transports used water away from your home. Depending on your wastewater system, the water travels to a municipal sewer or a septic tank.
+
+Plumbing systems also contain a water heater with a tank to store hot water and supply your fixtures. Alternatively, you may have a tankless system that heats water on demand.
+
+How Does Fresh Water Enter Your Home?
+-------------------------------------
+
+Most American homes get their water supply from a public water supply system in their town or city. The entity responsible for the communal water supply uses powerful pumps to transport water from a well or body of water to a water tower, and the source depends on the natural geography of the area. Water suppliers then treat and filter the water to make it safe to drink.
+
+Sometimes, the tower is located on high ground, allowing gravity to pull water along supply lines to people's homes. Otherwise, the supplier pumps the water to supply local houses with water.
+
+Some homeowners in remote communities have their own wells that supply their homes with fresh water. They may also have a tank as part of their plumbing system to store water so that it's readily available.
+
+How Does Fresh Water Flow to Fixtures Like Sinks and Showers?
+-------------------------------------------------------------
+
+After fresh water enters your home via a main water supply line, it's pumped under pressure along supply pipes made from plastic, iron or copper. These pipes branch out to supply every fixture in your home, including toilets, faucets and showers. Some of the water supplies your water heater and travels along hot water supply pipes to your fixtures.
+
+Pressure is essential for forcing water through your plumbing system. A pressurized system allows water to travel upward to supply upstairs taps and push around corners in your pipework.
+
+**More Related Articles:**
+
+*   [5 Things You Should Know About Your Plumbing Vents](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-vents/)
+*   [Condensation on Your Toilet? Don’t Sweat It](https://www.homeserve.com/en-us/blog/home-improvement/condensation-toilet-tank/)
+*   [15 Common Plumbing Problems Every Homeowner Needs to Watch Out For](https://www.homeserve.com/en-us/blog/how-to/plumbing-drainage-problems/)
+*   [Pipe Burst? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+*   [How Do You Flush a Toilet Without Running Water](https://www.homeserve.com/en-us/blog/how-to/flush-toilet-without-running-water/)
+
+What Are the Major Parts of a Home Plumbing System?
+---------------------------------------------------
+
+Your home's plumbing system has three major parts:
+
+* **Pipes**: Supply hot and cold fresh water to your fixtures
+* **Fixtures**: Allow access to hot and cold fresh water
+* **Drains**: Carry wastewater from your fixtures to the sewage system
+
+Each part of your plumbing system requires proper installation and maintenance to keep everything working correctly. A professional plumber can advise you on how to care for your plumbing system.
+
+What Are Plumbing Vents?
+------------------------
+
+Plumbing vents, also known as vent stacks or plumbing air vents, control the airflow through your plumbing system. These vents are vertical pipes that attach to a drain line and allow waste gases to escape while supplying fresh air to your plumbing system.
+
+Plumbing vents prevent a vacuum from forming inside your plumbing system, allowing water to flow freely to your fixtures. They also stop sewer gases from entering your home by carrying them to the main roof vent away from your home's ventilation system.
+
+How Is Wastewater Taken Out of the Home?
+----------------------------------------
+
+Unlike your freshwater system, your drainage system isn't pressurized. When you flush the toilet or let the water run down the plughole, gravity transports it downward through the fixture drain. Fixture drainpipes usually have curved sections called traps that prevent waste gases from traveling back up the pipe and into your home.
+
+Fixture drains connect to horizontal branch drain lines concealed in the walls. These horizontal lines have a slight downward angle to allow the water to flow into soil stacks, which are large vertical pipes that connect to the main drain. The main drain is usually located underneath your house.
+
+The main drain line is angled downward to encourage wastewater and solid waste toward the municipal sewer main or septic field. The municipal sewer main is a communal line owned by your city or county that transports the sewage to a wastewater treatment plant. Some municipal sewer lines transport water using gravity alone, but others use pumps to push wastewater through the system.
+
+If you live in a rural area where it would be too expensive or impractical to install a public sewer system, you may have a septic tank. These tanks are large concrete or steel containers installed underground in the yard. Sewage flows through the main drain line into the septic tank, where solids sink to the bottom to form sludge and floating waste rises to the top. This creates a layer of clear wastewater in the middle. As more water enters the tank, some of the existing water flows into perforated pipes in a drain field where it seeps into the ground.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

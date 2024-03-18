@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Dishwasher Not Draining? Here's Why"
+headline: "Why Isn't My Dishwasher Draining?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-21
+basePath: https://library.homeserve.com/m/
+heroImage: 483f60fc1795466a/Blog-BoschSilencePlusDishwasher_AWiesen_0007-JPG.jpg
+heroAltDescription: "detail shot of bosch dishwasher"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Got standing water in the dishwasher? Use this troubleshooting guide to isolate the cause of the problem and fix it."
+articleAbstract: "You open the dishwasher expecting to see your sparkling dishes, only to be greeted by a puddle of water and a lot of frustration. Fortunately, with some step-by-step troubleshooting, it's possible to isolate the cause of the problem and fix it."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Isn't My Dishwasher Draining?"
+  parent: Appliances
+---
+  
+
+A dishwasher not draining can be a frustrating thing to deal with. You open the dishwasher expecting to see your sparkling dishes only to be greeted by a puddle of water and a lot of frustration. The buildup of water isn't just unsightly; it can present a hygiene problem, too.
+
+**This May Also Interest You:** [**How to Install Your Dishwasher Yourself: A 10-Step Guide**](https://www.homeserve.com/en-us/blog/how-to/install-dishwasher/)
+
+Fortunately, with some step-by-step troubleshooting, it's possible to isolate the cause of the problem and fix it.
+
+<img class="detail-image" src="https://library.homeserve.com/m/9066a87f9774a55/Blog-iStock_000083296155_Large-jpg.jpg" alt="Man s hand taking out a dishwasher filter"/>
+
+Why Is There Standing Water in the Bottom of My Dishwasher?
+-----------------------------------------------------------
+
+Standing water at the bottom of your dishwasher can be caused by several issues. The most common problems are:
+
+*   A dirty filter
+*   A blocked hose
+*   A broken pump
+
+A clogged dishwasher filter is the most likely cause out of the three. These filters can quickly accumulate grease and grime and should be cleaned regularly. It's less common for the dishwasher drain hose or sink pipe to become clogged, but it can happen if you put dishes in your dishwasher without removing all of the food debris first.
+
+Foreign objects such as food debris can also clog the pump. If this happens, it's likely you'll be able to hear the pump struggling, and you'll notice the dishwasher not draining completely. To prevent these problems, make sure you scrape your plates clean before you put them in the dishwasher.
+
+Your dishwasher's instruction manual will tell you whether you need to fully pre-rinse dishes before putting them in the dishwasher. Many newer models say pre-rinsing is not necessary. However, this doesn't mean you should put dishes in the dishwasher with large pieces of leftover food still on them — your dishwasher’s not a garbage disposal, after all.
+
+<img class="detail-image" src="https://library.homeserve.com/m/7a81013195220180/Blog-DishwasherHose_MSchmitz_0001.jpg" alt="Human hand checks dishwasher hose underneath a kitchen sink with visible plumbing, electrical cords and a spray can of cleaning product."/>
+
+Why Does It Matter That My Dishwasher Isn’t Draining?
+-----------------------------------------------------
+
+A dishwasher not draining could present a health hazard. The standing water at the bottom of the dishwasher is a perfect location for bacteria to grow. That's why it's important to fix the issue as quickly as possible, so your dishes come out of the dishwasher clean and hygienic.
+
+**More Related Articles:**
+
+*   [How Much Does a Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [Don’t Get Lost in the Wash: How to Use Your Dishwasher Efficiently](https://www.homeserve.com/en-us/blog/how-to/use-dishwasher/)
+*   [Should You Repair or Replace Your Dishwasher?](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-repair-replacement/)
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)
+
+Can You Force a Dishwasher to Drain?
+------------------------------------
+
+If your dishwasher has a lot of water in it, you may be able to force it to drain by starting it then canceling the current cycle. Some models have a “drain” option or setting alongside their cycle selection options. If your dishwasher failed to drain after a power outage, using this option could be a quick, effective solution.
+
+If the dishwasher has only a small amount of standing water, removing the water manually may be necessary. Turn off the dishwasher and open the door. Scoop out as much water as you can using a cup or bowl, then use absorbent cloths to mop up what's left.
+
+How Do You Fix a Dishwasher That Won't Drain?
+---------------------------------------------
+
+If you're noticing that water often collects in the bottom of your dishwasher, you should first check the drain hose and the filter. Clean the filter, and look for food debris that may be clogging the drain hose. If your dishwasher is plumbed into the same pipes as your garbage disposal, run the disposal to make sure those pipes are free from obstruction, too. If you notice that a pipe is damaged, replacing it could be an inexpensive fix. Use a drain snake on your sink to make sure those pipes aren’t clogged.
+
+Another thing to check is the air gap. Look under the sink for a small plastic cylinder inside a metal casing. With the dishwasher and garbage disposal turned off, remove the casing and unscrew the cap. Clear any debris, and run a drain snake through the air gap to remove anything that may be clogging the pipes.
+
+If the above suggestions do not fix the issue, consider calling a professional to perform more extensive checks. It may be that the pump on the dishwasher itself is damaged and needs to be replaced. If the dishwasher is not draining, but it's still under warranty, calling the retailer or manufacturer could be a good option.

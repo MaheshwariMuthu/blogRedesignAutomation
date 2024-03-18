@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "5 Smart Home Devices You Need in Your Home"
+headline: "Get Smart: 5 Essential Smart Home Devices For Every Area of Your Home"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-01-27
+basePath: https://library.homeserve.com/m/
+heroImage: 4d0d632005c692a2/Blog-GettyImages-1208382111.jpg
+heroAltDescription: "Beautiful woman activating a lock system at her smart home smiling"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The right smart systems can enhance your home’s safety, efficiency and comfort. Here are some of the best devices that are truly worth thinking about."
+articleAbstract: "The right smart systems can enhance your home’s safety, efficiency and comfort. Here are some of the best devices that are truly worth thinking about."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "X Best Smart Home Devices For Every Area of Your Home"
+  parent: Appliances-Buying-Guide
+---
+  
+
+In the world of smart devices, the options for your home can feel overwhelming. With everything from smart mailboxes to smart pet food dispensers, it can be hard to discern what would truly be a beneficial addition to your home’s arsenal.
+
+**This May Also Interest You:** [**5 CES Innovation Awards Honorees That Will Change How You Interact With Your Home**](https://www.homeserve.com/en-us/blog/home-improvement/ces-2023-awards/)
+
+And although smart home technology may not be the right fit for everyone, when utilized correctly, certain smart systems can enhance your home’s safety, efficiency and comfort. Here’s a list of five types of smart home tech that are truly worth thinking about for your home.
+
+<img class="detail-image" src="https://library.homeserve.com/m/48ac916dd8c07700/Blog-SmartThermostat_Rossi_2992.jpg" alt="EcoBee thermostat on modern wall"/>
+
+Smart Thermostat
+----------------
+
+If you’re interested in adding smart technology to your home but aren’t sure where to start, consider a smart thermostat. Smart thermostats make it easy to keep your home’s temperature comfortable yet efficient with their automated temp settings and remote operation functions. Smart thermostats remove some of the hassle of having to remember to manually adjust your temperature, and their use can lead to significant energy savings — with an average of about $50 to $100 (CAD 65 to CAD 130) in savings a year, or about [8% reduced energy costs](https://www.consumerreports.org/appliances/thermostats/are-smart-thermostats-worth-it-a7822875275/), depending on your usage. Plus, at around $100 (CAD 130), they aren’t a huge investment and will likely pay for themselves in about a year. If you’re interested in a home automation system that’ll save on energy costs and doesn’t require a lot of technological know-how or monitoring, then a smart thermostat may be a good fit.
+
+**<img class="detail-image" src="https://library.homeserve.com/m/6fafb18367f729b/Blog-VideoDoorbell_Erossi__3843.jpg" alt="Step-by-step guide to installing a Wyze video doorbell on a residential home "/>**
+
+Smart Doorbell
+--------------
+
+A smart doorbell is another great entry into the world of smart home devices. A smart video doorbell sends you motion detection notifications, allows you to talk to guests at your door via two-way audio and records video so you can protect your home and package deliveries. Wondering what that noise you heard on your porch at 2 a.m. was? Your smart doorbell video can capture it, so you can rest easy knowing that the only intruder in your neighborhood was a curious raccoon. There are lots of well-reviewed smart doorbell options out there—like [the Google Nest doorbell](https://www.lowes.com/pd/Google-Nest-Hello-Wired-Wi-Fi-Compatibility-Smart-Video-Doorbell-Camera/1001176264?cm_mmc=shp-_-c-_-prd-_-elc-_-ggl-_-PLA_ELC_173_Smart-Home-_-1001176264-_-online-_-0-_-0&gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNn6qqNl90UCviuXeVYhFuOScW9L1Fti1LtDia5zEJq35y8I92b8mr8aAs6QEALw_wcB&gclsrc=aw.ds), [Amazon Ring,](https://www.amazon.com/Ring-Video-Doorbell-Venetian-Bronze-2020-Release/dp/B08N5NQ69J/ref=sr_1_1_sspa?crid=7LW6JX3A0Q9Y&keywords=amazon+ring&qid=1673351763&sprefix=amazon+ring%2Caps%2C108&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQjRGNjdORjY2WlFCJmVuY3J5cHRlZElkPUEwMTAyNzQ0MkM0SzNQQTNLTkJFRSZlbmNyeXB0ZWRBZElkPUExMDQ2MTk0WDBMMVVMQk1PVFE3JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) [Nooie Doorbell Cam](https://us.nooie.com) and [Arlo Wired Video Doorbell](https://www.bestbuy.com/site/arlo-essential-wi-fi-smart-video-doorbell-wired-with-homekit-google-assitant-and-amazon-alexa-white/6379206.p?skuId=6379206&ref=212&loc=1&extStoreId=953&ref=212&loc=1&gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNkFjwOzd3bHf3UB64QcqRr3c88SqvA8N7kN6bC_9Q3-ICaDqj6u2v0aAt7mEALw_wcB&gclsrc=aw.ds). Note that some are wired, and others are wireless (using batteries only), so take installation into consideration when making your selection.
+
+**<img class="detail-image" src="https://library.homeserve.com/m/1b181ba1a4f409d8/Blog-SchlageSmartLock_Erossi_4595-jpg.jpg" alt="smart front door and keypad lock"/>**
+
+Smart Locks
+-----------
+
+Smart locks are becoming an increasingly popular smart home system, particularly with the rise of short-term rentals and the ease of keyless entry they afford. Wi-Fi-enabled smart locks allow you to lock or unlock your doors even when you’re away from the property, or adjust entry passcodes between, say, one vacation rental stay and the next. They can also be great assets to your own residence, allowing you to lock or unlock your house at a specific time of day. This feature allows you to unlock your door to let someone in while you’re away and can save you from having to remember to manually lock up each evening before bed.
+
+**More Related Articles:**
+
+*   [What’s the Internet of Things?](https://www.homeserve.com/en-us/blog/home-improvement/internet-of-things/)
+*   [What’s a Lighting Control System?](https://www.homeserve.com/en-us/blog/buying-guide/lighting-control-system-benefits/)
+*   [Samsung Smart Refrigerators: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-refrigerator/)
+*   [What Is a Google Nest Learning Thermostat and What’s It Do?](https://www.homeserve.com/en-us/blog/buying-guide/google-nest-thermostat/)
+*   [How to Set Up a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/setup-ring-doorbell/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/3a59b8b812015bcb/Blog-GoogleNestHub_Y2kcrazyjoker4WikimediaCommons_0003.jpg" alt="A Google Nest Hub device sits next to compatible smart speakers on a table."/>
+
+Smart Assistant
+---------------
+
+Smart home assistants, like the [Samsung Family Hub](https://www.smartthings.com), [Google Nest Hub](https://www.bestbuy.com/site/nest-hub-7-smart-display-with-google-assistant-2nd-gen-chalk/6450820.p?skuId=6450820&ref=212&loc=1&extStoreId=953&ref=212&loc=1&gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNklV58GJc4NEmRcafLgXFWUpzV1uoxEVBPRgMB_9gHnWrC7nJASd7YaAjNpEALw_wcB&gclsrc=aw.ds) or [Amazon Echo Dot,](https://www.amazon.com/All-New-release-clock-Smart-speaker/dp/B09B8W5FW7/ref=asc_df_B09B8W5FW7/?tag=hyprod-20&linkCode=df0&hvadid=598278422131&hvpos=&hvnetw=g&hvrand=9809790159570183343&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010265&hvtargid=pla-1816657980429&psc=1) are also Wi-Fi-connected home technology options with myriad uses. They can help manage other smart devices and streamline your life. These smart hubs have features that allow you to voice command, automate or adjust settings on your other devices. For example, you could adjust your smart thermostat, dim your smart lights and lock your smart-lock-enabled front door, all from one central command hub. Even though you can also do all this from the various apps on your phone, a home assistant is meant to make it one step easier. You can also add to shopping lists, play music or look up information on the internet without having to sit down with your phone or laptop. The features and capabilities of smart hubs run the gamut, as does the product price range. You can get one for as little as $45 (CAD 60) or upwards of $300 (CAD 400), depending on how many bells and whistles you want.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2f90d44981cb0a55/Blog-482662790.jpg" alt="person using universal tablet remote"/>
+
+Smart Lighting
+--------------
+
+Like other smart technologies, smart lighting systems connect to an app on your phone or a smart assistant to allow for customizable light settings, like timed dimming and nightly switch-offs. Some systems even feature color-changing smart bulbs and mood-specific lighting. Forget to switch off your lights before you head out of town? If the lights are smart-enabled and connected to your app, you can just switch them off from your phone, and even set them to turn back on at certain intervals to deter unwanted visitors, if you’d like.
+
+Finding Your Smart Home Automation Sweet Spot
+---------------------------------------------
+
+There’s no doubt about it: Smart technology has changed the way we live. Whether or not you add smart home technology to your home is entirely up to you. But if you want to give smart home devices a try, the above list is a great place to start.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/qpoqCRPHjqE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Find Your iPhone or Android Smartphone Serial Number"></iframe>

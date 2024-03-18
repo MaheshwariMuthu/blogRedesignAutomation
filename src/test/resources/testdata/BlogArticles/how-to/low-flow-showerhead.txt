@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Low-Flow Shower Head: How to Increase Water Pressure in the Shower"
+headline: "Here's How to Hack Your Low-Flow Showerhead ... But Should You?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-08-23
+basePath: https://library.homeserve.com/m/
+heroImage: 2906ee0e48490b1c/Blog-GettyImages-1171354412.jpg
+heroAltDescription: "Shower head in bathroom with water spray or water flow. Fresh water flow from shower head for cleaning body."
+metaDescriptions: "You can remove the regulator in your low-flow showerhead for higher water pressure, but doing so may have consequences. Here's what you need to know."
+articleAbstract: "A quick internet search will reveal plenty of tutorials describing how to increase water pressure in the shower if you have a low-flow showerhead. However, using these DIY fixes could increase your utility bills and even make your water run afoul of the law, as we explain here."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Hack Your Low-Flow Showerhead (but Should You?)"
+  parent: Plumbing-How-To
+---
+  Low water pressure in the shower is _annoying_. Some days, it seems like the water is just trickling out of the showerhead, producing hardly enough flow to rinse the shampoo out of your hair. If you have a low-flow showerhead, this problem is probably all too familiar to you. These showerheads limit the water pressure to save on water and energy costs — but if it costs you your sanity in the process, is it really worth it?
+
+**This May Also Interest You:** [**Showerhead Stuck? Here’s How to Remove It**](https://www.homeserve.com/en-us/blog/how-to/showerhead-removal/)
+
+A quick internet search will reveal plenty of tutorials describing how to increase water pressure in the shower if you have a low-flow showerhead. However, using these DIY fixes could increase your utility bills and even put you on the wrong side of the law, as we'll explain below.
+
+What Is a Low-Flow Showerhead?
+------------------------------
+
+A low-flow showerhead is specially designed to use less water for cost and environmental reasons. According to Exelon, to qualify as low-flow, the showerhead should release water at a rate of [no more than 2.5 gallons per minute](https://blog.constellation.com/2017/06/23/best-low-flow-shower-heads/).
+
+Low-flow showerheads can save you a significant amount of money on your water and water heating bills. They're also helpful for water conservation. Using less water during your shower helps reduce the amount of saltwater that needs to be desalinated for drinking and washing. The desalination process uses a lot of energy and is expensive, so reducing the need for desalination is good for the planet and could even lower taxes.
+
+Why Does My Showerhead Have No Pressure?
+----------------------------------------
+
+If you've just installed a brand-new showerhead and find that the pressure is suddenly lower, it's probably because you've purchased a water-saving showerhead. Check the labels around the rim, or perform the showerhead GPM test as described below. If the showerhead flow rate is lower than the legal limit in your area, you could consider replacing it with a more powerful one.
+
+If you had water pressure problems before installing a new showerhead and the issue continues, the reason for your low water pressure could be down to blocked, leaking or damaged pipes or an issue with the shower controls. In this situation, it's best to call a professional plumber to inspect your plumbing and repair any damaged pipes or mechanisms.
+
+How Do I Know If My Showerhead Is Low-Flow?
+-------------------------------------------
+
+Often, you can determine whether your showerhead is low-flow by reading any labels printed around the rim. If your showerhead is labeled 2.5 GPM or less, you have a low-flow showerhead. Any showerhead labeled 2.6 GPM or above is a high-flow showerhead.
+
+If your showerhead doesn't have a label, try [this trick](https://www.bbldwp.com/DocumentCenter/View/55/Determination-of-Low-Flow-Plumbing-Fixtures) to determine the flow rate. Place a bucket or container with a 1-gallon marker under the showerhead. If your showerhead can fill it to the gallon marker in 20 seconds or less, it is high-flow. If it takes more than 20 seconds, it is low-flow.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Replace a Showerhead?](https://www.homeserve.com/en-us/blog/cost-guide/shower-head-replacement/)
+*   [How to Replace a Showerhead](https://www.homeserve.com/en-us/blog/how-to/change-shower-head/)
+*   [Here’s How to Remove a Shower Drain](https://www.homeserve.com/en-us/blog/how-to/remove-shower-drain/)
+*   [How to Install or Replace a Shower Drain](https://www.homeserve.com/en-us/blog/how-to/shower-drain-installation/)
+*   [How to Replace a Shower Valve](https://www.homeserve.com/en-us/blog/how-to/shower-valve-replacement/)
+
+How Do I Increase the Flow on My Low-Flow Showerhead?
+-----------------------------------------------------
+
+Most low-flow showerheads have a rubber pressure-reducing valve (called a regulator) to maintain a lower pressure. You can increase the flow by simply taking it out. You could also consider enlarging the hole that allows water into your showerhead with a drill to increase the amount of water coming through.
+
+Should I Remove the Regulator in My Low-Flow Showerhead?
+--------------------------------------------------------
+
+The regulator in a low-flow showerhead limits the amount of water that can flow through it, reducing the pressure. Some people choose to remove the regulator to achieve less restricted water flow. While the obvious advantage of doing this is significantly higher water pressure, there are a couple of reasons why it might not be such a great idea.
+
+The U.S. Department of Energy is likely to reimpose a legal flow rate limit of 2.5 GPM for showerheads as a part of its energy-saving efforts. The law was previously revised to allow for higher water pressure using multiple showerheads, but the [Department of Energy](https://www.bbldwp.com/DocumentCenter/View/55/Determination-of-Low-Flow-Plumbing-Fixtures) has stated that it intends to return to the previous low-flow laws. Therefore, it's a good idea to test your showerhead flow rate — especially after taking steps to increase the pressure — to ensure that it won't fall afoul of federal law in the future.
+
+Some states may impose tighter restrictions on legal showerhead flow rates, often to help maintain a steady freshwater supply during hot weather. For example, the standard legal flow rate in both Hawaii and Washington State is 1.8 GPM. It's worth checking the restrictions in your area before tampering with your showerhead.
+
+In addition, removing the flow regulator will also increase your overall water usage and the amount of power used for heating water, which is bad for your wallet and the environment.

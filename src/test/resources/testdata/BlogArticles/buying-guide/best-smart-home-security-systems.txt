@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Best Smart Home Security Systems
+headline: Protect your Home with these Security Systems
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment']
+publishDate: 2019-03-29
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: smartHomeSecurityHS.jpg
+heroAltDescription: Smart Home App
+metaDescriptions: Home security systems have gotten 'smarter' and high tech. They are among the best smart gadgets for your home and allow you to monitor your house from virtually anywhere.
+articleAbstract: Keeping our homes and families safe has gone high tech. Find out which smart home security systems are best.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Best Smart Home Security Systems
+  parent: Electrical-Buying-Guide
+---
+
+:::: blog-info
+When I was growing up, our German shepherd Penny and my dad’s Louisville slugger baseball bat was all we needed for home security. Now, more than 50 years after the invention of the home security system (by a NYC woman named Marie Van Brittan Brown), home security systems have gotten “smarter” and gone super high tech. You can now monitor your house from virtually anywhere. Home security systems are among the [best smart gadgets for your home](/en-us/blog/buying-guide/best-smart-home-devices){target="_blank"}, complete with features like doorbell cameras, window and door sensors, motion detectors, smart locks and alarms that work with your Wi-Fi network to protect your home from intruders.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+The services vary by system, with some allowing you to have full control over the monitoring while others offer full-blown systems with monthly fees for professional 24/7 surveillance. With so many options out there, it helps to lean on industry experts for some advice.
+
+Here's the general consensus on the best smart home security systems available today:
+
+## [Frontpoint](https://www.frontpointsecurity.com/){target="_blank"}
+
+Frontpoint offers a comprehensive home security and home automation system, and the company is known for its excellent customer service. The experts at _SafeHome_._org_ rank Frontpoint as the system with the [best overall value](https://www.safehome.org/security-systems/best/){target="_blank"}, naming it as a suitable home security option for 95 percent of households.
+
+While there is a monitoring contract required, Frontpoint doesn't require professional installation, drilling, wiring or any other complicated setups. The system is compatible with Alexa, making it an ideal choice for [Amazon](http://amazon.com/){target="_blank"}-enhanced households.
+
+[Learn More About Home Repair Plans Near You]({{ migrationData.planspage }}){target="_blank"}
+
+## [SimpliSafe](https://simplisafe.com/){target="_blank"}
+
+_WireCutter_ chose SimpliSafe as their [top pick for smart home security systems](https://thewirecutter.com/reviews/the-best-home-security-system/){target="_blank"} due to its affordability and comprehensive suite of add-ons like video and doorbell cameras, smoke alarms and sensors. Plus, it supports Amazon and Google voice commands.
+
+SimpliSafe is ideal for homeowners looking for a simple and secure system with reasonable monthly monitoring fees and no long-term contract required.
+
+## [Abode](https://goabode.com/){target="_blank"}
+
+Named the [best system to work with other smart home devices](https://www.cnet.com/topics/smart-home/best-smart-home-devices/best-home-security-devices/){target="_blank"} by _CNET_, Abode is one of the best do-it-yourself security systems for homeowners who want an easy-to-install, no-contract option. There's also the flexibility to add third-party gadgets and services to the system.
+
+## [Ring Alarm](https://shop.ring.com/pages/security-system){target="_blank"}
+
+This is a more affordable, no-frills option, suggested by _WireCutter_ as a solid budget pick. It's a standalone system, meaning it doesn't support other smart devices, but it's easy for homeowners to install and monitor on the system's app.
+
+## [Vivint](https://www.vivint.com/){target="_blank"}
+
+While on the pricier end, Vivint gets the [highest smart home security system rating](https://www.pcmag.com/roundup/341490/the-best-smart-home-security-systems){target="_blank"} from _PCMag_._com_. The system offers superior 24/7 security and a top-of-the-line video doorbell solution. However, this premium system does require professional installation and a long-term contract with steep monthly costs.
+
+## [Nest Secure](https://nest.com/alarm-system/overview/){target="_blank"}
+
+If you're already a fan of the [Nest smart thermostat](/en-us/blog/buying-guide/nest-thermostat-review){target="_blank"}, the company also offers a DIY smart home security system. While easy to install and configure, this option is ideal for homeowners who are already comfortable managing their smart devices.
+
+## [ADT Pulse](https://www.adt.com/pulse){target="_blank"}
+
+As the most well-known brand in home security, ADT is trusted by many homeowners. ADT Pulse is a full-service smart home security system, although it does require a hefty contract commitment.
+
+While your home security system can protect you from unwanted intrusions, it can't prevent unexpected home system breakdowns. That's where a home warranty or home repair plan can save the day.
+::::
+
+See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}

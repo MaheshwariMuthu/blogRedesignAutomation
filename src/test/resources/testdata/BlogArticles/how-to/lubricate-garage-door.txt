@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How (and Why) to Lubricate Your Garage Door"
+headline: "How (and Why) to Lubricate Your Garage Door"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-10-21
+basePath: https://library.homeserve.com/m/
+heroImage: 312862cb4f58e074/Blog-CloseUpGarageSpring_ERossi-1129.jpg
+heroAltDescription: "garage door spring"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Lubrication is important to keep your garage door working properly. Here's what to do."
+articleAbstract: "Your garage door benefits from regular lubrication to keep things rolling smoothly. This step-by-step guide reviews how to lubricate your garage door."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Lubricate Your Garage Door"
+  parent: Exterior-Home-How-To
+---
+  
+
+It's easy to take modern conveniences for granted. Take your automatic garage door, for example — you push the button, and it opens or closes like magic.
+
+**This May Also Interest You:** [**What Do You Do If Your Garage Door’s Spring Breaks?**](https://www.homeserve.com/en-us/blog/home-improvement/broken-garage-door-spring/)
+
+But all those moving parts aren't magical at all and benefit from regular lubrication to keep things rolling smoothly.
+
+Why Lubricate Your Garage Door?
+-------------------------------
+
+Your garage door has lots of moving parts that keep it opening and closing, including rollers, hinges, springs and chains. Lubrication allows those parts to glide smoothly, which creates less friction and strain on your garage door opener. Without proper lubrication, your garage door might stop working. Lubrication also helps the garage door operate with less noise. If you've noticed your garage door squeaking or sounding louder than usual, learning how to lubricate a garage door could help.
+
+How Do You Lubricate Your Garage Door?
+--------------------------------------
+
+The two best lubricant options for garage doors are white lithium grease and silicone spray. White lithium grease needs to be rubbed on by hand, while silicone typically comes in a spray can with a thin straw to direct the lubricant where you want it. Follow these steps to learn how to lubricate a garage door:
+
+### Step 1: Cut the Power
+
+Disconnect the garage-door opener power source to prevent it from accidentally opening while you're lubricating it.
+
+### Step 2: Clean the Tracks
+
+Wipe or vacuum the garage-door tracks. Dirt and debris can prevent the rollers from moving smoothly along the tracks.
+
+### Step 3: Lubricate the Hinges
+
+Apply lubricant on the hinges with the door open. You can open the door with the power cut by disengaging it from the garage-door opener. Have someone help you lift the door to expose the hinges. Garage doors are heavy and can cause serious injury if they fall on you, so proceed with caution.
+
+<img class="detail-image" src="https://library.homeserve.com/m/56ceab0593ddaa3f/Blog-GettyImages-1213750732.jpg" alt="Garage door metal panel hinge"/>
+
+### Step 4: Apply Lubricant to the Rollers
+
+Lubricate each roller. For plastic rollers, spray the outside and the area where the shaft connects to the roller. Nylon rollers without ball bearings showing can be lubricated the same way. For steel rollers and nylon rollers with exposed ball bearings, spray the lubricant into the ball bearings that are inside the rollers. A silicone lubricant works well for this, since it has a thin tube applicator that you can direct toward the ball bearings.
+
+### Step 5: Lubricate Other Moving Parts
+
+Spray or rub the bearing plates and springs with the lubricant. Apply more lubricant on the top rail, which runs from the door to the opener near the ceiling, and the armbar, which connects the door to the top rail. Lubricate the lock and keyhole if your garage door has them.
+
+<img class="detail-image" src="https://library.homeserve.com/m/22e0dc14da23bfd1/Blog-GarageDoor_ERossi-1130.jpg" alt="garage door opener"/>
+
+### Step 6: Test
+
+Turn the power back on for the garage-door opener. Open and close the garage door a few times to make sure everything is rolling smoothly and to distribute the lubricant.
+
+Lubricating your garage door should be part of a larger maintenance protocol. Inspect all parts to make sure everything moves correctly and looks like it should. If anything looks bent or broken, call a technician to inspect it. You might also need to tighten nuts and bolts on the garage door to keep everything secure.
+
+**More Related Articles:**
+
+*   [A DIY Guide to Replacing Your Garage-Door Spring](https://www.homeserve.com/en-us/blog/how-to/replace-garage-door-spring/)
+*   [How Much Do Smart Garage-Door Openers Cost?](https://www.homeserve.com/en-us/blog/cost-guide/smart-garage-door-opener-services/)
+*   [Is a Smart Garage-Door Opener a Wise Investment?](https://www.homeserve.com/en-us/blog/home-improvement/smart-garage-door/)
+*   [How to Open a Garage Door Manually](https://www.homeserve.com/en-us/blog/how-to/open-garage-door-manually/)
+*   [Common Garage Door Problems and How to Repair Them](https://www.homeserve.com/en-us/blog/how-to/common-garage-door-problems/)
+
+Tips for Lubricating Your Garage Door
+-------------------------------------
+
+* **Repeat regularly.** Lubricating garage doors every six months helps keep them moving smoothly. You might need to lubricate more frequently if the garage door is noisy or doesn't roll smoothly, especially if you live in a harsh environment that's tough on garage doors.
+* **Avoid petroleum-based lubricants.** They don't protect against corrosion as well as white lithium or silicone-based lubricants do. You might also notice the door sticking in cold temperatures, and other types of lubricants tend to attract dirt.
+* **Don't lubricate the tracks.** Adding lubricant to the tracks can make it harder for the rollers to move.
+* **Have a stepladder handy.** Many of the parts you need to lubricate, including the top rail and springs, are near the ceiling and difficult to reach. A stepladder makes it easier to apply the lubricant safely to those parts.
+* **Wipe away the excess.** Keep a rag handy to wipe excess lubricant away as you spray. Drips can keep the door from operating smoothly.
+* **Go light with lubricant.** You can avoid drips and excess lubricant by applying light coats. You can always add more if necessary.
+* **Be careful around springs.** Garage-door springs are under a large amount of tension. Avoid messing with the springs while lubricating and maintaining the garage door.
+
+Lubricating the garage door should help things move smoothly and quietly. However, if your garage door is still making strange noises or isn't working well, it's probably time to call a technician to see if you need to have some parts replaced.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/0MOnA0K2ijw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Open Your Garage Door Manually"></iframe>

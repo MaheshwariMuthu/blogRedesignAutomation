@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Best Home Security Gadgets
+headline: What are the Best Home Security Gadgets?
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2019-05-17
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: SecurityCameraHS.jpg
+heroAltDescription: Home Security Camera System
+metaDescriptions: Learn which are the best smart security camera systems. Plus discover other smart home security devices that can help you rest easy.
+articleAbstract: Looking for smarter home security? These devices may help to change your home security for the better.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Best Home Security Gadgets
+  parent: Smart-Home-Buying-Guide
+---
+
+We all have one. That friend or family member that is always worried about something. In my case, it’s not my brother, my sister, or my BFF. It’s me: I'm the worrywart. For better or worse, I'm always thinking about how I can prepare for the worst case scenarios. So it’s not surprising to those who know me that  I take home security measures super seriously.
+
+[1]: {{ migrationData.planspage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+::: blog-info
+With all the advanced technology available today, safeguarding a home is easier than ever. In my research, I found that many modern home security devices can help you rest easy when it comes to threats to your home. _(Phew!)_
+
+Here are the best smart home security gadgets available to help protect the home:
+
+## Smart doorbells
+
+With a video doorbell, you can always have eyes on your entryway - even when your 30 miles away at work. Video doorbells usually have features like video storage, motion detectors and alarms, which can help protect your home from burglaries.
+
+Ring doorbells are among the highest rated in front-door protection, although _PC Mag_._com_ also praised the SkyBell HD, August Doorbell Cam Pro and Nest Hello with [positive reviews](https://www.pcmag.com/roundup/358684/the-best-video-doorbells){target="_blank"}.
+
+[Learn More About Home Repair Plans Near You]({{ migrationData.planspage }}){target="_blank"}
+
+## Smart locks
+
+Locks in the digital age have keypad entry codes and connect to your Wi-Fi network. You can control the lock and manage access codes on your phone, which is especially ideal if you want to temporarily change the code for babysitters, visitors or renters. Plus, forgetting your keys becomes less inconvenient when you can simply touch a keypad to enter and exit.
+
+_WireCutter_ named two Yale Assure Connected by August models as the [best smart locks](https://thewirecutter.com/reviews/the-best-smart-lock/){target="_blank"} for their convenience, security, reliability and aesthetics. The KwikSet Kevo Smart Lock and August Smart Lock also got high marks from the tech experts.
+
+## Security cameras
+
+The best way to see what's happening inside and outside of your home is to install security cameras. Smart ones generally have features like motions sensors, two-way talk, LEDs, alarms and easy integration with other smart home devices.
+
+The [top security camera picks](https://www.cnet.com/topics/security-cameras/best-security-cameras/){target="_blank"} from the editors at _CNET_ include: Amazon Cloud Cam, Netgear Arlo Pro, Ring Spotlight Cam, Nest Cam IQ Indoor and Logitech Circle 2.
+
+## The entire system
+
+If you're ready to secure your home with all the bells and whistles, consider investing in an all-inclusive smart home security system. That way, you can have all the gadgets connected to one central hub. Check out this roundup of the [best home security systems](/en-us/blog/buying-guide/best-smart-home-security-systems){target="_blank"} available to safeguard your abode.
+
+While your home security gadgets can protect your home from unwanted intrusions, they can't prepare  you for unexpected home system and appliance breakdowns. That's where a home warranty or home repair plan is a good plan of action.
+:::
+
+See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}

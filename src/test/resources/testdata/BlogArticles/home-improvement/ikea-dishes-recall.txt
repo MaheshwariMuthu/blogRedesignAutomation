@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "IKEA Recalls 148,000 Bowls, Plates and Mugs Over Burn Risk"
+headline: "IKEA Recalls 148,000 Bowls, Plates and Mugs Over Burn Risk"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-11
+basePath: https://library.homeserve.com/m/
+heroImage: 69aa64ce34e07a81/Blog-PlatesCupsBowlsRecall_IKEA.jpg
+heroAltDescription: "ikea recall alert"
+metaDescriptions: "IKEA is recalling about 148,000 plates, bowls and mugs because the dishes can break, causing hot food or liquid to leak out. "
+articleAbstract: "IKEA is recalling about 148,000 plates, bowls and mugs due to a burn hazard. According to a May 19 recall alert from the Consumer Product Safety Commission, the dishes can become brittle and break, causing hot food or liquid to leak out."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "IKEA Recalls Bowls, Plates, and Mugs Due to Burn Hazard"
+  parent: Interior-Home-Home-Improvement
+---
+  IKEA is recalling about 148,000 plates, bowls and mugs due to a burn hazard. According to a May 19 recall alert from the [Consumer Product Safety Commission](https://cpsc.gov/Recalls/2021/IKEA-Recalls-Bowls-Plates-and-Mugs-Due-to-Burn-Hazard), the dishes can become brittle and break, causing hot food or liquid to leak out.
+
+**This May Also Interest You:** [**Fire Risk: Metal Ware Recalls NESCO Coffee Bean Roasters Over Reports of ‘Flames and Smoke’**](https://www.homeserve.com/en-us/blog/home-improvement/nesco-coffee-bean-roaster-recall/)
+
+IKEA has received 123 reports of such incidents worldwide. There have been four reports of injuries — most of them burns caused by hot contents — two of which required medical attention. One incident, without injury, has been reported in the U.S.
+
+The HEROISK and TALRIKA lines of bowls, plates and mugs are involved in this recall. Recalled units have supplier number “23348,” “Made in Taiwan” and “PLA” molded into the bottom of the item.
+
+The dishes were imported by IKEA Supply AG of Switzerland. They were sold between August 2019 and May 2021 at IKEA stores nationwide and online at ikea-usa.com for $4 to $12. Additionally, about 11,400 units were sold in Canada.
+
+[IKEA](https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-heroisk-and-talrika-bowls-plates-and-mugs-pub1bd8d7a0?itm_campaign=REVAMPHP&itm_element=LegalB-Button-Legal&itm_content=general-TALRIKAHEROISKrecall-CTA) is warning purchasers to stop using the recalled plates, bowls and mugs immediately. You can return them directly to any IKEA store for a full refund — no receipt required. Contact IKEA at 888-966-4532 or visit the [Product Recalls](https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-heroisk-and-talrika-bowls-plates-and-mugs-pub1bd8d7a0?itm_campaign=REVAMPHP&itm_element=LegalB-Button-Legal&itm_content=general-TALRIKAHEROISKrecall-CTA) page. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Fall Risk: Cheyenne Products Recalls 795,000 Chairs and Barstools](https://www.homeserve.com/en-us/blog/home-improvement/mainstay-chair-barstool-recall/)
+*   [Chairs Could Collapse: TJX Recalls 92,000 Wooden Folden Chairs for Fall, Injury Risk](https://www.homeserve.com/en-us/blog/home-improvement/outdoor-wooden-folding-chair-recall/)
+*   [Are You Sitting Down? Hillsdale Furniture Recalls 10,500 Stools Over Fall Risk](https://www.homeserve.com/en-us/blog/home-improvement/jennings-stool-recall/)
+*   [Watch Your Seat: 3,100 StyleWell Dining Chair Sets Recalled for Fall Risk](https://www.homeserve.com/en-us/blog/how-to/Wood-Windsor-Dining-Chair-Recall/)
+*   [It Could Collapse: Lifetime Products Recalls 43,000 6-Foot Folding Tables](https://www.homeserve.com/en-us/blog/home-improvement/lifetime-products-seminar-table-recall/)

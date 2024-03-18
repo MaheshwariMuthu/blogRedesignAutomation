@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Home improvement ideas under $150
+headline: Best ways to upgrade your home for under $150
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2019-08-26
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: DIYHomeFixTools.jpg
+heroAltDescription: DIY Home Tools
+metaDescriptions: Adding crown moulding, light fixtures, a fresh coat of paint are some simple and cheap home improvement ideas.
+articleAbstract: Inexpensive home improvement top of mind? Check out these easy to install improvements  -  all under $150.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Home improvement ideas under $150
+  parent: Home Improvement & Maintenance
+---
+
+:::: blog-info
+I’ve been in the mood to do some serious home improvements. _(Probably from all the_ [HGTV](https://www.hgtv.com/){target="_blank"} _shows I watch.)_ But like so many homeowners - I worry about the impact that any serious renovations will have on my wallet. Walking through the aisles at your local hardware or [HomeGoods](https://homegoods.com/){target="_blank"} store, you'll see some of the most attractive items have somewhat prohibitive price tags.
+
+[1]: {{ migrationData.planspage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+But don't be discouraged. There are plenty of ways to upgrade your home’s appearance - and value - without racking up a big bill. Here’s a few suggestions:
+
+## Affordable adjustments to the exterior
+
+To me, nothing is better than enjoying a cool, autumn night. The weather is still nice enough for me and my family to sit outside and spend time together. Here are a few ways to improve your property's exterior aesthetic:
+
+::: list-square
+* You can make your porch or yard seem more spacious and inviting by adding an [outdoor dining table](https://www.buzzfeed.com/jessicaprobus/diy-before-you-buy){target="_blank"}, according to _BuzzFeed_. While a complete patio furniture set will break the $150 threshold, the table itself probably won't, especially if you surround it with chairs you already have.
+* A set of backyard string lights with a soft yellow hue adds [warmth to your backyard](https://www.popularmechanics.com/home/interior-projects/how-to/g2582/11-home-upgrades-for-under-100/){target="_blank"}, according to _Popular Mechanics_ - perfect for early-evening hangouts.
+* Even something as simple as setting up a new mailbox or putting a fall wreath on your door can do a lot to freshen up its appearance.
+:::
+
+## Simple storage hacks
+
+Seasons are transitional, meaning you often feel compelled to turn over a new leaf one way or another. And decluttering the home is a good way to do that. But if you want to get organized, you need space for randomly strewn items. Here's how to make it - on the cheap:
+
+::: list-square
+* According to _Real Simple_, it's a cinch [to make custom cabinets](https://www.realsimple.com/home-organizing/home-improvement/easy-home-improvements-under-100?slide=541504#541504){target="_blank"} for rooms in need of extra storage, using secondhand units, new paint and some wood trim. It'll can also cost less than $100!
+* Shelves are easy - and cheap - to add to any room in the house, especially those that appear to have a bunch of blank space on any of the walls. According to _BuzzFeed_, this addition can also be attractive to buyers, if you plan on showing the home in the near future.
+:::
+
+[Learn More About Home Repair Plans Near You](https://www.homeserveusa.com/sc/lp/dlp/available-home-repair-plans){target="_blank"}
+
+## Energy efficient updates
+
+What's better than an inexpensive upgrade to your house that also has the potential to save you additional money over time? _(Who can say no to that?!)_ Consider some of these suggestions from _Popular Mechanics_:
+
+::: list-square
+* Adding a ceiling fan can cut down on cooling costs, and it's less expensive if you add it to an existing overhead light fixture in any room.
+* Timers and dimmers will help lower your electricity bill by limiting average light usage (and intensity).
+* Efficient LED lights mounted under kitchen cabinets make it easy to prepare and cook meals no matter what time it is.
+:::
+
+While home improvement is a fun way to make your home more comfortable and enjoyable, it’s also important to be prepared ahead of time for unexpected home repairs. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the cost of covered repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+::::

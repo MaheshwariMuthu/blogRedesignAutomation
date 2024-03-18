@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Look Out Below! Recalled Pool and Patio Umbrellas Could Break and Fall During Use"
+headline: "Look Out Below! Recalled Pool and Patio Umbrellas Could Break and Fall During Use"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-08
+basePath: https://library.homeserve.com/m/
+heroImage: 59ff15ab42f1378c/Blog-PatioUmbrellaRecall_Umbroso_0001.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Umbrosa has recalled about 250 umbrellas due to reports of the umbrella arm breaking while in use.  "
+articleAbstract: "Did you purchase an Umbrosa pool or patio umbrella between July 2018 and February 2020? If so, you need to read this: The manufacturer has recalled about 250 units due to reports of the umbrella arm breaking while in use."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Pool and Patio Umbrellas Recalled Due to Injury Hazard"
+  parent: Exterior-Home-Home-Improvement
+---
+  Did you purchase an Umbrosa pool or patio umbrella between July 2018 and February 2020? If so, you need to read this: The manufacturer has recalled about 250 units due to reports of the umbrella arm breaking while in use.
+
+**This May Also Interest You:** [**Smoke on the Water? Pentair Water Pool and Spa Recalls Pool Heaters Due to Fire Risk**](https://www.homeserve.com/en-us/blog/home-improvement/pentair-pool-heater-recall/)
+
+According to the [Consumer Product Safety Commission](https://cpsc.gov/Recalls/2021/Pool-and-Patio-Umbrellas-Recalled-Due-to-Injury-Hazard-Recall-Alert), the umbrella arm can break at the elbow, posing an injury risk to those sitting below. Umbrosa has received five reports of umbrellas breaking. No injuries have been reported.
+
+The recall specifically affects Umbrosa Evolution Umbrellas with the Evolution flexible arm. The May 27 alert includes 200 umbrellas that were [previously recalled](https://cpsc.gov/Recalls/2019/Shadescapes-Recalls-Pool-and-Patio-Umbrellas-Due-to-Injury-Hazard-Recall-Alert) in October 2018; the now-recalled arm was provided as a remedy to that recall.
+
+The umbrellas were manufactured in Belgium. They were sold at the ShadeScapes showroom in Hotchkiss, Colo., and through ShadeScapes dealers and other resellers nationwide, for $1,800 to $7,600.
+
+If you own one of these umbrellas, stop using it immediately and reach out to Umbrosa to receive a free replacement arm. You can contact the Belgium-based manufacturer by calling 800-522-0328 or emailing [recall@umbrosa.be](mailto:recall@umbrosa.be). Umbrosa is contacting all known purchasers directly. For more consumer product safety information, visit [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Chairs Could Collapse: TJX recalls 92,000 Wooden Folding Chairs for Fall, Injury Risk](https://www.homeserve.com/en-us/blog/home-improvement/outdoor-wooden-folding-chair-recall/)
+*   [‘Burning, Smoking, Melting’: 800 PureLine Pool Pump Motors Recalled for Fire Danger](https://www.homeserve.com/en-us/blog/home-improvement/pureline-pool-pump-motor-recall/)
+*   [In Case You Mist It: HD Hudson Recalls Garden Sprayers Due to Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/garden-sprayer-recall/)
+*   [Fall Risk Prompts Recall of 3,100 Sauder Woodworking Bar Stools](https://www.homeserve.com/en-us/blog/home-improvement/sauder-woodworking-barstools-recall/)
+*   [Concussion, Broken Bones, Eye and Mouth Injury Risk: 1 Million Greenworks, Powerworks Pressure Washer Spray Guns Recalled](https://www.homeserve.com/en-us/blog/home-improvement/pressure-washer-spray-gun-recall/)

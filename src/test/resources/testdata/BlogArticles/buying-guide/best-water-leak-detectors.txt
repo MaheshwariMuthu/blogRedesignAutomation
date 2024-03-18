@@ -1,0 +1,114 @@
+---
+layout: layouts/post-layout.njk
+titleTag: The Best Water Leak Detectors 2020
+headline: Best Water Leak Detectors 2020
+author: Team HomeServe
+tags: ['post']
+publishDate: 2020-10-08
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: best-water-leak-detectors-01-full.jpg
+heroAltDescription: The Best Water Leak Detectors 2020
+metaDescriptions: Choose the best smart water leak detectors to detect leaks before they happen to protect your home from potential plumbing problems.
+articleAbstract: Choose the best smart water leak detectors to detect leaks before they happen to protect your home from potential plumbing problems.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: The Best Water Leak Detectors 2020
+  parent: Plumbing-Buying-Guide
+---
+
+:::: blog-info
+::: mobile-top-margin
+Chances are good that, at this moment, you have at least one smoke detector monitoring your home for the signs of a fire (if not, you should get one!). But what about monitoring for leaks? While fire is certainly a more dangerous threat than floods, a major leak in your home can also cause some serious damage. In fact, according to the National Association of Insurance Commissioners, [just one inch of water can cause $20,000 or more in destruction](https://www.naic.org/documents/cmte_c_trans_read_wg_related_flood_insurance_basics_v4.pdf).
+:::
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+::::
+
+Fortunately, in the age of smart homes, there are now a wide range of electronic monitoring devices that can alert you to the fact that water is appearing in your home somewhere it's not supposed to be. These range from simple devices that sound an alarm when moisture is detected, to more complex units that send notifications to your smartphone when a leak is spotted and even shut off your water main to protect your home.
+
+## Considerations
+When choosing a water leak detector, you'll want to determine where you think you need monitoring. Generally, basements, laundry rooms, bathrooms, and under-sink monitors in kitchens are the most common spaces to install systems.
+
+Next, you'll need to decide if you want to combine all your monitors and run them through a smart home hub like Google Home, Amazon Alexa, or Apple HomeKit, or maybe you’ll find stand-alone sensors are good enough. Regardless of which you choose, you'll want to make sure that the system can be monitored by one app, no matter how many sensors you set up.
+
+Another important consideration is whether or not you want a system that can attach to your water main and turn it off if a problem is detected. These systems are generally more expensive than basic monitors, but they have the potential to save you significant cash should a leak develop when you're not home.
+
+Finally, you'll want to give some thought to whether simple leak monitoring is good enough, or if you want sensors that can also detect a build-up of humidity or warn you when your pipes are getting close to freezing (if you live in a cold climate).
+
+The good news is that no matter what team you fall on for these considerations, there is likely a leak sensor that's perfect for your needs. Here are our picks of the top five.
+
+::: leak-detector-image
+![Moen Flo](/en-us/assets/images/blog/buying-guide/Moen-Flo.jpg)
+:::
+
+## Flo by Moen Smart Water Detector and Smart Water Shutoff
+If water monitoring devices were celebrities, this would be the Beyonce of the bunch. It's uniformly praised for being the best-in-class system, is easy to use, and has the Moen name standing behind it.
+
+A basic monitor costs around $50 and comes with a remote sensing disc as well as a battery that lasts for two years. The sensing disc is a small wafer attached to the main sensor that can be placed wherever a leak is most likely. Mount the monitor under your sink, for example, and then put the sensor below the trap and you'll be covered. For even more sensing ability, you can purchase a Leak Sensing Cable for about $19.00, which is a six-foot extension that can sense water along its entire length, so it can be slid into difficult areas or placed completely around items like toilets or hot water heaters. All sensors provide humidity, temperature, and leak monitoring information to the accompanying app.
+
+Finally, there is a Smart Water Shutoff. At $499.99, it's not a cheap accessory, but it mounts on your water main, links up with all the sensors, and will turn off the water to your house if it senses a problem. It requires a plumber for installation. It is a stand-alone system, so one Water Shutoff will monitor the pressure in your entire home and identify issues. That means you don't need the stand-alone sensors, so there is a bit of saving there.
+
+All alerts come into the app which, if you have the Shutoff unit, will give you information about your water usage, let you turn your water off remotely, and set the conditions for when you want the system to alert you or shut things down. You can also pause the monitoring by putting the system to sleep if you will be doing a water-intensive activity like washing your car. Additionally, the Moen system integrates with Amazon Alexa and Google Home.
+
+::: leak-detector-image
+![Phyn](/en-us/assets/images/blog/buying-guide/phyn.jpg)
+:::
+
+## Phyn Smart Water Assistant
+If placing sensors all-around your home seems like too much work (or will cost too much money), the Phyn system might be a good option. It comes in two varieties: the Phyn and the Phyn Plus. The Phyn, which sells for $299, can be installed under any sink in the home by anyone who can wield a wrench. One unit goes on the hot line, one on the cold, and they connect to a mountable unit that links up to your home's WiFi. From there, the sensor actually monitors the pressure in your entire plumbing system (just like the Moen Smart Water Shutoff) and, when it notices a change that is unusual, it will alert you via an app. It can distinguish between normal usage like washing clothes or running a bath, and issues like a leak or freezing pipes.
+
+The Phyn Plus does the same thing, but mounts on your water main and can shut down the line if it detects a problem. It retails for the much heftier price tag of $699.
+
+A nice advantage of this system is that it can also provide you information about your home's water usage, helping you to make decisions and adjustments that can save water and money. Although it works out of the box, the Phyn improves during a two-week training period where you can tag activities it detects to help it learn your house's environment. Also, both the Phyn and the Phyn Plus are wired systems, so wherever you install them, you'll need to be sure you have an electrical outlet nearby.
+
+The system works with Amazon Alexa, Google Home, and IFTTT.
+
+::: leak-detector-image
+![Flume](/en-us/assets/images/blog/buying-guide/Flume.png)
+:::
+
+::: heading-margin-bottom
+## Flume
+:::
+
+_Easiest Installation_
+
+If connecting a gadget to the pipes under your sink or to your water main gives you pause, Flume provides almost the same level of monitoring as Phyn, and all you have to do is strap it to your water meter. There's no plumbing to mess with, but there are two concerns. The monitoring device itself requires 3 AA batteries which should last around a year, but will always need to be replaced. Second, you need to link the device to its own hub which needs to be plugged in somewhere in your home. It's an easy process and the Flume app walks you through it step-by-step, but it's just something to be aware of. Once set up, the system will alert you via the app when it notices an unexpected increase in water usage, which could be indicative of a leak.
+
+The Flume is a cheaper option than both Phyns and the Moen Solution, coming in at $199 and works with the Amazon Echo.
+
+::: leak-detector-image
+![Guardian](/en-us/assets/images/blog/buying-guide/Guardian.png)
+:::
+
+## Guardian
+Guardian takes yet another approach to keeping your home safe from leaks. It consists of a boxy device that mounts directly on your water main – there is no need to cut into pipes or hire a plumber. From there it attaches to the valve knob itself, which it can mechanically turn on and off when it is notified of an issue. It receives leak information from sensors which you can place around your home anywhere up to 1,000 feet and two stories away. Unlike the two-year battery life of the Moen sensors, these last for 15 years.
+
+One of the nice benefits of the system is that it works even if your WiFi goes down as the sensors talk directly to the monitoring box (although app notifications would be disabled during a power outage). Plus, there is an optional battery backup that can keep the system running for up to 12 hours if your power does go out.
+
+The luxury of this no-plumbing-involved system doesn't come as cheap as Flume, though. A kit with the valve controller, one leak detector and one probe that extends from the detector will run you $199. Upgrading to three detectors and two probes increases the price to $299, and additional detectors start at $49, with discounts for multi-packs.
+
+::: leak-detector-image
+![Govee](/en-us/assets/images/blog/buying-guide/Govee.jpg)
+:::
+
+## Govee WiFi Water Leak Detector
+If you have a newer home or simply aren't that concerned about leaks, then a simple budget system might do the job for you. China-based Govee sells a leak-detection system at a price that almost defies the rules of commerce. For $39.99, you get one hub that connects to your WiFi system and three sensors, which you can place wherever leaks might be an issue.
+
+When the sensors detect leaks they will both let out a high-pitched siren and send a notification to an app on your smartphone. Extra sensors are available in a pack of five for just $39.99, which means you can have an eight-sensor system in your home for under $100.
+
+Although Govee isn't a well-known brand, the products they make get solid reviews, and this system is no exception. It pulls in four stars from over 1,400 ratings on Amazon and the vendor seems to be extremely engaged with customer issues and inquiries.
+
+Just be aware that the kit requires a 2.4GHz Wi-Fi network and won't work with routers that only broadcast at 5GHz.
+
+## Additional Protection
+::: blog-info
+Most homeowners' insurance policies do not cover damage from flooding events, so it's critical that you protect yourself as best as you can. A plan from HomeServe is a great addition to any leak monitors you install because, if something goes wrong with your plumbing system, you can call our 24/7 repair hotline and we will send a local, expert technician to handle repairs, up to the benefitted amount. Learn more [about plans from HomeServe]({{ migrationData.homepage }}) today.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+:::

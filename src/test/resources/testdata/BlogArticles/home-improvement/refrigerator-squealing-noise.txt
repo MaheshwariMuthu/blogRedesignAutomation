@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is My Fridge Making a High-Pitched Squealing Noise?"
+headline: "6 Reasons Your Fridge Is Making a Squealing Noise — and How to Make It Stop"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-06-03
+basePath: https://library.homeserve.com/m/
+heroImage: 1a518c3a18fba027/Blog-bigstock-Male-Worker-Repairing-Refriger-354270548.jpg
+heroAltDescription: "male appliance repairman working on the back of a refrigetor"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A high-pitched squealing noise can be a sign that your fridge needs to be repaired."
+articleAbstract: "A fridge making a high-pitched squealing noise can be a real headache. Not only is the sound incredibly annoying, but it can also be a sign that you need a fridge repair."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My Fridge Making a High-Pitched Squealing Noise?"
+  parent: Appliances
+---
+  All refrigerators make a low humming sound when they're operating normally, but a fridge making a high-pitched squealing noise can be a real headache.
+
+**This May Also Interest You:** [**How Much Does a Fridge Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/refrigerator/)
+
+Not only is the sound incredibly annoying, but it can also be a sign that you need a fridge repair.
+
+Why Is My Fridge Making a Squealing Sound?
+------------------------------------------
+
+There are various reasons why a fridge might make a squealing sound, and many only require simple and cheap fixes. However, ignoring the problem can lead to bigger, more expensive issues over time, so getting to the bottom of the sound as quickly as possible is essential.
+
+### 1\. Broken Fan
+
+A broken or worn-out evaporator, condenser or compressor fan can cause your fridge to make a high-pitched squealing sound. Often, an obstructed motor shaft is to blame for the noise. Another clue that your evaporator fan could be to blame is a fridge that doesn't cool properly or a compressor that runs constantly.
+
+### 2\. High-Efficiency Compressor
+
+Many modern refrigerators have a high-efficiency compressor. These components work faster than regular models, allowing them to cool the fridge down quicker and use less energy.
+
+A high-efficiency compressor can help reduce your utility bills, but its speed often makes it noisier than older-style fridges. Therefore, you might notice a high-pitched whistling noise when the compressor kicks in, even if it's working correctly. However, a loud squealing noise warrants further investigation.
+
+### 3\. Faulty Ice Dispenser
+
+All ice dispensers produce a little noise while they're making ice. However, if you hear a high-pitched squealing sound coming from the ice dispenser, it could be a sign that it's faulty. Your ice dispenser may also continue making a squealing sound after it finishes making ice if it isn't connected correctly.
+
+**More Related Articles:**
+
+*   [How to Find and Clean Your Refrigerator Drip Pan](https://www.homeserve.com/en-us/blog/how-to/clean-refrigerator-drip-pan/)
+*   [What Temperature Should Your Fridge Be?](https://www.homeserve.com/en-us/blog/home-improvement/refrigerator-temperature/)
+*   [Will the Fridge Fit? How to Measure a Refrigerator](https://www.homeserve.com/en-us/blog/how-to/measure-refrigerator/)
+*   [Ever Cleaned Your Refrigerator Coils? Sure, We Believe You (But Here’s How, Just in Case)](https://www.homeserve.com/en-us/blog/how-to/clean-refrigerator-coils/)
+*   [We Gotta Move These Refrigerators: A Step-by-Step Guide to Moving Your Fridge](https://www.homeserve.com/en-us/blog/how-to/move-refrigerator/)
+
+### 4\. Broken Capacitor
+
+The capacitor is part of your fridge's motherboard. A faulty capacitor can't supply a steady flow of energy to the fans inside your fridge, causing them to speed up and slow down constantly. Over time, this can cause your fridge to make a high-pitched squealing sound.
+
+### 5\. Main Control Board Problems
+
+Your fridge's main control board sits behind the back panel and controls many of the unit's components. Therefore, a faulty main control board can cause various issues that could lead to a loud squealing sound coming from your fridge.
+
+### 6\. Unstable Fridge
+
+An unstable fridge can cause vibrations that make your fridge rattle against the floor or wall, and it could also cause components like the drip pan to vibrate inside the refrigerator. Although these vibrations usually make a rattling sound, they can sometimes be high-pitched. An unstable fridge is a less common reason for your fridge making a squealing sound, but it's worth checking if you've ruled out other causes and can't get to the bottom of the issue.
+
+How to Fix It
+-------------
+
+It's a good idea to try some simple fixes for a fridge making a squealing noise before you call a technician to save yourself money on professional repairs. Check the fans for obstructing debris and gently clean the blades with a damp cloth. It's also worth checking that the ice dispenser is connected correctly. If your fridge isn't level, adjust the feet or prop up the corners with folded cardboard to see if it solves the problem.
+
+If you've checked the most straightforward causes and the squealing sound doesn't stop, it's time to book a repair. A technician can sometimes fix the components causing a squealing noise without replacing them altogether. However, you'll need to replace certain parts if they develop a fault, such as the capacitor or main control board.

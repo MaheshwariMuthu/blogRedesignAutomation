@@ -1,0 +1,99 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Install a Google Nest Cam"
+headline: "How to Install a Google Nest Cam"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-10-19
+basePath: https://library.homeserve.com/m/
+heroImage: 3fa9b032b594a8dd/Blog-GoogleNestCam_MSchmitz_0001.jpg
+heroAltDescription: "Google Nest Cam for outdoor use, colored white with a black face, mounted on a surface."
+metaDescriptions: "The Google Nest Cam is simple to install, getting you up and running in a matter of minutes. Here's what you need to know."
+articleAbstract: "The Google Nest Cam is strikingly simple to use and a breeze to install, getting you up and running in a matter of minutes. Here's a step-by-step installation guide."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install a Google Nest Cam"
+  parent: Electrical-How-To
+---
+  
+
+_HomeServe photo by Matt Schmitz_
+
+**Google Nest Came Installation at a Glance**
+
+* **Step 1:** Set up Nest Cam
+* **Step 2:** Choose location
+* **Step 3:** Test run
+* **Step 4:** Mount base
+
+It’s the dawn of a new age. With modern smart home technology, you no longer need to pay a security company exorbitant monthly fees to monitor your home for you. Instead, you can just do it yourself. And with Google Nest Cam, keeping an eye on things has never been more functional or more enjoyable.
+
+**This May Also Interest You:** [**How Much Does a Home Security System Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/home-security-system/)
+
+The [Google Nest Cam](https://store.google.com/us/product/nest_cam_battery?hl=en-US) is strikingly simple to use and a breeze to install, getting you up and running in a matter of minutes. What’s more, Nest Cams easily integrate with other Google compatible smart home gear, giving you complete control over the comings and goings of your home _and_ maximizing efficiency along the way.
+
+Endless Possibilities
+---------------------
+
+Each Nest Cam has 1080p resolution, two-way communication and a wide, 130-degree field of vision. The cameras send motion alerts straight to your phone, which you can then look into via their live feed. You’ll need to subscribe to Nest’s paid subscription service, [Nest Aware](https://store.google.com/us/product/nest_aware?hl=en-US), to fully utilize all of the smart features of the camera, like intelligent motion detection or supersight close-up tracking, the latter of which automatically zooms in and tracks a person for easy identification. Nest Cams' innovative security features ultimately make them highly customizable devices tailored specifically to your needs.
+
+Ready to take your home security into your own hands? Follow these steps to install a Nest Cam and up your home security game in no time at all.
+
+Step 1: Set Up the Nest Cam
+---------------------------
+
+Before taking your Nest Cam outside, it’s a good idea to get everything set up inside first.
+
+Start by connecting your Nest Cam to the included power adaptor. Align the magnetic connector on the power cord with the connector at the bottom of the camera. You’ll feel the magnets snap into place as you connect them. When the device is plugged into an outlet, the blue light on the camera will indicate that it is turned on.
+
+Next, you’ll need to add the camera to your Nest account. The [Nest app](https://home.nest.com) links the camera to your home’s Wi-Fi, smartphone and any other Google-Nest-compatible smart devices you might already have set up. It’s also the place where you’ll be able to monitor the Nest Cam’s video feed.
+
+If you don’t already have an account, setting one up is pretty simple. First, download the Nest app from the Apple App Store or Google Play Store, open it up and tap “Sign up.” Once you’ve created an account, tap “Add product,” choose Nest Cam and scan the product’s QR code to add it to the app. Finally, you’ll want to enter a location name such as “Front Door” or “Back Deck.”
+
+Step 2: Choose a Location
+-------------------------
+
+Before you can start mounting your Nest Cam, take some time to determine the best possible location. It’s likely that you already have an idea as to where you’d like to install it, but you’ll want to factor in other things like shelter and access to an outdoor outlet.
+
+Although the Nest Cam is technically weatherproof, you want to avoid installing it in an exposed area because rain, snow and even excess sunlight can all affect the camera’s view. When installing the camera outdoors, it’s best to pick a spot under an overhang if possible.
+
+Google Nest Cam comes in both [wired](https://store.google.com/product/nest_cam_specs) and [battery-powered](https://store.google.com/us/product/nest_cam_battery?hl=en-US) options. If you’re using a wired camera, make sure there’s a power source nearby. The power cord included with the Nest Cam is both paintable and weatherproof, meaning it can be used outside without issue. But, if no outdoor outlet is available, you can also drill through your exterior wall to access an indoor outlet. Use a 1.2-inch drill bit to drill a hole in both the outdoor and interior walls. Then, route the power cord through the hole. Be sure to caulk around the holes when you are done.
+
+A battery-powered Nest Cam can open up your placement options significantly. It’s got a strong, long-lasting battery, so there's no need to mount it near a power source. Google estimates the power in the battery to last for months at a time. Just make sure your Wi-Fi connection is strong, and you’ll be good to go.
+
+Finally, Google recommends you place the Nest Cam roughly 7 to 10 feet high to get an optimal field of vision. Paying close attention to these details will ensure you get the most out of your Nest Cam’s capabilities.
+
+<img class="detail-image" src="https://library.homeserve.com/m/4f254b4039dc2e21/Blog-GoogleNestCam_MSchmitz_0002.jpg" alt="Google Nest Cam for outdoor use, colored white with a black face, mounted on a surface."/>
+
+_HomeServe photo by Matt Schmitz_
+
+**More Related Articles:**
+
+*   [How to Install a Video Doorbell](https://www.homeserve.com/en-us/blog/how-to/install-video-doorbell/)
+*   [How to Install a Nest Thermostat](https://www.homeserve.com/en-us/blog/how-to/nest-thermostat-installation/)
+*   [How to Set Up a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/setup-ring-doorbell/)
+*   [How Much Does It Cost to Install a Ring Doorbell?](https://www.homeserve.com/en-us/blog/cost-guide/ring-doorbell-installation/)
+*   [How to Recharge a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/recharge-ring-doorbell/)
+
+Step 3: Give the Nest Cam a Test Run
+------------------------------------
+
+Once you’ve found the best location for the Nest Cam, you’ll want to give the camera a quick test run. Hold the camera in the desired location, open your Nest app and make sure the video comes through clearly.
+
+Keep in mind that if the video isn’t clear, you’ll need to move the Nest Cam closer to your Wi-Fi or vice-versa. Sometimes moving the camera just a few inches makes a big difference in terms of the camera’s video quality. You might need the help of a partner here to hold the camera in place while you check on the video quality.
+
+Step 4: Mount the Base
+----------------------
+
+If the video signal is clear, you can go ahead and attach the camera base in your desired location. The base is magnetic, so if you install it on a metal surface, the base will attach simply by magnet alone. However, if you’re affixing it to wood, drywall or plaster, use the mounting plate and wood screws included in the box. For brick, stucco or other masonry, you’ll need to use the wall anchors in addition to the screws and mounting plate.
+
+To affix the base to the spot of your choice using this second option, hold the mounting plate directly to the mounting surface and insert the screws into the wall. If you need to use the wall anchors, start by drilling two 1/4-inch pilot holes into the wall, then lightly tap the anchors in place using a hammer or mallet. From there, you can proceed to screw in the included wood screws.
+
+When the wall plate is mounted, twist the magnetic camera plate clockwise over the wall plate, and you’ll be able to attach the camera to the magnetic plate.
+
+A Whole New World
+-----------------
+
+Once the camera is set up, mounted and connected to a power source, you are good to go. Take some time to explore each feature to see what you like.
+
+Installing a smart camera is one of the easiest and most effective ways to increase your home security. With a host of features that are both comprehensive and super easy-to-use, Google’s Nest Cam is one of the best smart cameras out there. Adding one to your home will truly take your home security capabilities to a new level.

@@ -1,0 +1,79 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Should I Buy a Ductless Air Conditioner?"
+headline: "Should You Buy a Ductless Air Conditioner?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-08-28
+basePath: https://library.homeserve.com/m/
+heroImage: 87a7e48864e2245/Blog-GettyImages-510960216.jpg
+heroAltDescription: "Air conditioning unit and heat pump unit side by side"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: " If you're dreading the mess and disruption of installing ductwork in your home, a ductless AC could provide an excellent alternative."
+articleAbstract: "Installing central AC will keep your home cool and comfortable in hot weather, but it's not your only option. If you're dreading the disruption of installing ductwork in your home, a ductless AC could provide an excellent alternative."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Should I Buy a Ductless Air Conditioner?"
+  parent: HVAC-Buying-Guide
+---
+  Installing central air conditioning is a common way to keep your home cool and comfortable in hot weather, but it's not your only option. If you're dreading the mess and disruption of installing ductwork in your home, a ductless air conditioner could provide an excellent alternative.
+
+**This May Also Interest You:** [**Hot or Cold in Your Household? Split the Difference With a Mini-Split Air Conditioner**](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/)
+
+Ductless air conditioners can be more affordable and practical in some circumstances, but they're not suitable for every home.
+
+What Is a Ductless Air Conditioner?
+-----------------------------------
+
+Ductless air conditioners — also known as mini-split or split air conditioners — are a type of air conditioner that doesn't require ductwork. The system consists of an outdoor compressor and condenser that cools the air down and an indoor, wall-mounted air handler that circulates cool air around the room. A conduit containing refrigerant and power cables connects the indoor and outdoor units.
+
+Until relatively recently, ductless AC units were most commonly used in small apartments. Nowadays, you can purchase units powerful enough to cool larger homes.
+
+Ductless Air Conditioners: Pros and Cons
+----------------------------------------
+
+### Pros
+
+One of the primary advantages of installing ductless air conditioners is that you won't need to install ducts in your home. For that reason, they can be a good option for older homes without an existing system to support a ducted AC unit.
+
+Installing separate ductless AC units in each room also allows you to customize the temperature of each space, unlike central air systems that cool each room equally. They also run significantly quieter than ducted AC systems, which could be a significant benefit if you dislike the sound of a traditional unit.
+
+Another benefit of ductless air conditioners is that they don't lose energy as the air moves through ductwork, making them energy-efficient and often more affordable to run than traditional systems. Installing a ductless system also reduces the risk of spreading dust and other allergens throughout your home.
+
+Ductless air conditioners tend to be quicker and cheaper to install than ducted systems. Unlike traditional ACs, the narrow conduit connecting the indoor and outdoor units means that there's no large opening that an intruder could use to access your home.
+
+**More Related Articles:**
+
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+*   [Keep Your Cool With Our Top 5 Picks for Window Units](https://www.homeserve.com/en-us/blog/buying-guide/best-apartment-window-air-conditioners/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [Is It Actually Cheaper to Run Fans Than Air Conditioning?](https://www.homeserve.com/en-us/blog/home-improvement/fan-versus-ac/)
+
+### Cons
+
+One of the main drawbacks of ductless air conditioning is that you'll need to install wall-mounted air conditioners in each room. These units can be prominent, and some homeowners prefer not to have a visible air handler taking up wall space. If you don't want a wall-mounted unit in every room you wish to cool, you may be better off with a central air conditioning system.
+
+Another potential issue with ductless ACs is that they require more maintenance than traditional, ducted systems to stay in good working order. Homeowners with ductless mini-split air conditioners should change the filters monthly.
+
+Finally, it's worth considering your local climate before settling on a ductless AC. Although the outdoor unit can heat air, as well as cool it down, these air conditioners work better as cooling units than a heat source. Generally, a mini-split air conditioner won't provide adequate heating in colder climates, which means you may need to install an alternative heating system alongside them.
+
+Comparing Costs: Ductless Vs. Ducted Air Conditioners
+-----------------------------------------------------
+
+How much a ductless air conditioner costs to install depends on how many units you need. According to [Modernize](https://modernize.com/hvac/central-air-conditioner-installation/ductless-ac), the average homeowner spends around $5,000 (CAD 6,500), including the cost of labor. The typical price range is $1,500 to $8,500 (CAD 1,900 to CAD 11,000).
+
+Installing a ductless AC in one room costs about $1,800 (CAD 2,300) on average. Prices increase based on the number of rooms because of the number of units you need. Installing a mini split in four rooms, for example, costs $3,800 (CAD 4,900) on average.
+
+Meanwhile, [Fixr](https://www.fixr.com/costs/central-air-conditioner-installation#central-ac-prices-by-efficiency) says it costs around $7,000 (CAD 9,000) on average to install a central air conditioning system in an average 2,000-square-foot home. This figure includes the cost of installing or modifying ductwork. However, you could pay up to $15,000 (CAD 19,300) to install a powerful system with a high Seasonal Energy Efficiency Rating.
+
+Therefore, installing multiple mini-split air conditioner units is often cheaper than investing in central air conditioning, especially if you don't have existing ductwork. Furthermore, you could save significant money by installing ductless air conditioning if you also need a heating system because they can cool and heat your home.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

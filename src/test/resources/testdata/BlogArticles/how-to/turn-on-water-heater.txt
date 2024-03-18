@@ -1,0 +1,92 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Turn on a Water Heater and Water Heater Pilot"
+headline: "How Do I Turn My Water Heater On?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-05-14
+basePath: https://library.homeserve.com/m/
+heroImage: 27013f0619e1d433/Blog-WaterHeaterControl_ERossi_3142.jpg
+heroAltDescription: "Gas water heater temperature control"
+metaDescriptions: "Has your water run cold? Chances are your water heater has turned off. Here's how to turn your gas or electric water heater back on."
+articleAbstract: "Has your water run cold? Chances are your water heater has turned off. Unless it needs to be repaired or replaced, you should be able to get it back in working order yourself. Here’s how to get your gas or electric water heater up and running again."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Turn on a Water Heater"
+  parent: Plumbing-How-To
+---
+  
+
+Has your water run cold? Chances are your water heater has turned off. Your water heater can shut off for a variety of reasons, ranging from minor electrical or gas issues to full system failure. If you have a gas water heater with a pilot light, something as simple as a gust of wind can extinguish the flame. In any case, the first thing you want to do before you pick up the phone and call a technician is to try to turn your water heater back on.
+
+**This May Also Interest You:** [**Don’t Forget to Flush! A 6-Step Guide for Flushing Your Gas or Electric Water Heater**](https://www.homeserve.com/en-us/blog/how-to/flush-water-heater/)
+
+Unless your water heater needs to be repaired or replaced, you should be able to get it back in working order yourself. Here’s how to get your gas or electric water heater up and running again.
+
+<img class="detail-image" src="https://library.homeserve.com/m/1aded574f4bfec36/Blog-GettyImages-174625704.jpg" alt="water heater"/>
+-------------------------------------------
+
+Common Types of Water Heaters
+-----------------------------
+
+How you turn on your water heater depends on the type of water heater you have. Most households have either a gas or electric tank-style water heater. They work pretty simply: The tank fills up with water, and the heating elements in the tank warm the water.
+
+Tankless water heaters are becoming more common. Instead of holding hot water in a tank, these water heaters use super-heated coils that heat water immediately and as needed, which is why they’re sometimes called on-demand water heaters.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6ce28f1376c3a107/Blog-GettyImages-171241723.jpg" alt="Hand Turning Down Water Heater Thermostat"/>
+-------------------------------------------
+
+How to Turn on a Gas Water Heater
+---------------------------------
+
+If your water heater has a pilot light, it’s a gas model. Follow these steps to turn it back on:
+
+### 1\. Turn Off the Gas
+
+The gas shut-off valve on your water heater should be clearly labeled. Turn it to the “Off” setting. Wait at least five minutes to ensure the gas has dissipated.
+
+### 2\. Check for Any Open Valves or Faucets
+
+Shut off any faucets or valves connected to the tank that may be open. This is always a good thing to check when troubleshooting your water heater, as one of the valves might have been bumped open.
+
+### 3\. Turn the Cold Water On
+
+Next, turn on the cold-water supply to the water heater. If you prefer to drain it first and start fresh, you can. It’s vital to make sure the tank is filled before you turn it back on. Turning your water heater on when it’s empty or when the water level is low can damage it. You could also take this time to flush your system. [Flushing your water heater](https://www.youtube.com/watch?app=desktop&v=LfJL3ADHwTY&feature=youtu.be) every one to three years can help remove sediment and make it last longer.
+
+### 4\. Light the Pilot
+
+Every manufacturer recommends a different set of steps to relight the pilot light, so it’s crucial to follow the specific instructions that came with your unit. You can usually find these instructions posted on the side of the tank or in the owner’s manual. This is important: If you notice a strong smell of gas at any time, stop what you’re doing, turn off the main gas valve in your home and call a professional.
+
+Here are the basic steps for relighting the pilot, depending on whether you have an automatic or manual system:
+
+#### Electronic Igniter
+
+While holding the pilot igniter button down, press the spark generator button. Keep holding the pilot igniter button for 20 to 30 seconds until it lights. If the water heater pilot doesn’t light after this amount of time, you may need to press the spark generator down every 10 seconds until it does. Usually, you can see if it’s lit through the little glass window where the pilot is. Once it’s lit, turn the control knob to “On."
+
+<img class="detail-image" src="https://library.homeserve.com/m/27b0b16de8c8f903/Blog-iStock-163520892.jpg" alt="technician fixing water heater"/>
+
+#### Manual Pilot
+
+Locate the pilot light access. Push and turn the gas valve to “Pilot." While holding the knob down, use a long-reach lighter to ignite the pilot. Continue pushing the knob or button for about a minute. Slowly release it and turn it back to “On." You should hear a whoosh or click indicating the main burner is igniting.
+
+After you relight the pilot light, give the water tank at least an hour to heat up, then check to see if it’s working.
+
+**More Related Articles:**
+
+*   [The Age-Old Question: Is My Water Heater Gas or Electric?](https://www.homeserve.com/en-us/blog/buying-guide/water-heater-gas-electric/)
+*   [How to Drain a Water Heater the Right Way](https://www.homeserve.com/en-us/blog/how-to/drain-water-heater/)
+*   [Here’s How Much It Will Cost to Replace a Water Heater](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-replacement-cost/)
+*   [Is a Tankless Water Heater Worth It?](https://www.homeserve.com/en-us/blog/buying-guide/tankless-water-heater/)
+*   [7 Tell-Tale Signs of a Water Heater Not Working](https://www.homeserve.com/en-us/blog/home-improvement/water-heater-warnings-signs/)
+
+How to Turn on an Electric Water Heater
+---------------------------------------
+
+Electric water heaters don’t have a pilot, so the process is simple. First, make sure the breaker that controls the water heater is switched off. Check for any open valves or faucets and close them. Then, turn on the cold water to let the hot water tank fill. Once it’s full, all you need to do is turn the breaker back on. Just like a gas water heater, it may take an hour or more to heat up.
+
+What If My Water Heater Still Doesn’t Work?
+-------------------------------------------
+
+With regular maintenance, electric and gas water heaters can work well for many years, but nothing lasts forever. If you’ve tried to turn on your water heater and light the pilot to no avail, contact a professional to see if it needs to be repaired or replaced.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/LfJL3ADHwTY?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

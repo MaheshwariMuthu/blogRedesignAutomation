@@ -1,0 +1,114 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "LG Dryer Error Codes"
+headline: "LG Dryer Error Codes"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2023-12-15
+basePath: https://library.homeserve.com/m/
+heroImage: 5d681dce8b706099/Blog-New-WashTower_Lifestyle_01.jpg
+heroAltDescription: "laundry room with LG appliances"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Unlock the mystery of LG dryer error codes to troubleshoot and fix your machine."
+articleAbstract: "It's natural to think an error code is bad, but they're actually useful because they can help you quickly diagnose a problem. Here's what to know about LG dryer error codes."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "LG Dryer Error Codes"
+  parent: Appliances
+---
+  Error codes have an almost magical ability to make people ask questions. After the initial uh-oh, the first question is usually: Why did this have to happen now? And then what does that error code even mean?
+
+**This May Also Interest You:** [**What Do You Do With an Old Appliance? How to Recycle Fridges, Washers, Ovens and More**](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+It's natural to think an error code is bad, but they're actually useful because they can help you quickly diagnose a problem. The sooner you know the problem, the sooner you can get it fixed and get on with other important things.
+
+What Is an LG Error Code?
+-------------------------
+
+What's an error code on an LG dryer? LG says, "Error codes help identify problems causing your LG dryer to not function properly."  If your dryer's stopped working for no obvious reason, the illuminated (and sometimes flashing) digital code on its control panel is telling you something's wrong.
+
+Technicians use error codes to help them determine the likely fault so they can repair the problem quickly for the customer. You can check the code as well to see if it's a fault you can fix or if you need to call a repair tech. It'll be in the documentation supplied with your LG dryer, or you can read on to discover the most common codes and what they mean.
+
+How to Read LG Dryer Error Codes
+--------------------------------
+
+[LG dryer codes](https://www.lg.com/us/support/help-library/lg-dryer-error-code-list-CT10000011-20152310891742) can be letters and numbers, such as the following three common examples.
+
+**d80:** The dryer's exhaust duct is clogged 80% of the way.
+
+**d90:** The dryer's exhaust duct is clogged 90% of the way.
+
+**d95:** The dryer's exhaust duct is clogged 95% of the way.
+
+Sometimes, error codes are shown as bars on the display. For example, if the flow sense indicator displays two or four bars, it means the exhaust system is badly restricted.
+
+Keep in mind that error codes vary from model to model. If your dryer is a gas system, for example, the “d80” error code might indicate a lack of gas supply to the appliance. Be sure you’re interpreting the correct error by using the manufacturer’s guide that came with your appliance.
+
+Common LG Dryer Error Codes
+---------------------------
+
+Other common LG dryer codes include the following.
+
+### nP
+
+There's a problem with the home's electrical supply because the dryer can't detect a current.
+
+### PS
+
+The power cord voltage is improper. It could mean the appliance has been incorrectly wired or your power socket can't provide the 240 volts the dryer needs.
+
+### dE
+
+This refers to a door error, which normally means you haven't closed the door correctly or something's preventing it from closing.
+
+### E13
+
+This indicates the water isn't draining correctly, which could mean an issue with the drain hose or the water in the sump is frozen.
+
+### FO or a flashing Insert Filter
+
+This indicates the lint filter isn't properly in position.
+
+### HS
+
+This indicates a problem with the humidity sensor. This will cause the dryer to run for 2.5 hours, making it look like it's not drying.
+
+### PF
+
+This normally happens after a power outage and can usually be fixed by doing a factory reset.
+
+### tE1 or tE3
+
+This indicates a potential problem with the dryer's thermistor, which is normally resolved with a factory reset.
+
+### tE2
+
+This indicates a problem with the thermistor, specifically during cold conditions. Excess humidity in the dryer's vent caused by the steam cycle options has made the duct cool too fast.
+
+### Add
+
+This indicates there isn't enough water to complete a steam cycle.
+
+### GAS
+
+In a gas-powered dryer, this indicates the appliance isn't receiving gas.
+
+**More Related Articles:**
+
+*   [Should You Buy a Used Appliance? Weigh the Risks and Rewards](https://www.homeserve.com/en-us/blog/buying-guide/used-appliances/)
+*   [7 Ways Your Kitchen Will Evolve in the Next 10 Years](https://www.homeserve.com/en-us/blog/home-improvement/advancements-kitchen-technology/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+Do I Need to Call a Repair Tech to Fix These Errors?
+----------------------------------------------------
+
+Calling a repair tech or fixing the problem yourself depends on the error code. You wouldn't call a professional for dE because this means the door isn't closed properly or CL, which isn't even an error code (it means the child lock is activated). But you may need to call a repair tech if a factory reset doesn't fix the problem. To perform a factory reset:
+
+1.  Unplug the dryer or trip the circuit breaker.
+2.  Press and hold the Start Pause button for 5 seconds.
+3.  Restore power to the dryer and try to run a cycle.
+
+Some error codes relate to faults that should only be handled by professionals. For example, TE4 means a thermistor problem is causing the unit's temperature to go out of range. This is an issue that only a qualified technician should handle. Other problems may not be directly linked to the dryer's performance but should still be left to professionals. An example would be the PS code, which means an improper supply of electricity. This isn't a job for anyone because a mistake could be catastrophic, so it's best to leave it to a qualified repair tech.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/E7N374KASqs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Eco-friendly laundry hack!"></iframe>

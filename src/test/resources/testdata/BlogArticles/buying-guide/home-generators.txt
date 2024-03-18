@@ -1,0 +1,90 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Everything You Need to Know About Home Generators"
+headline: "Everything You Need to Know About Home Generators"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-16
+basePath: https://library.homeserve.com/m/
+heroImage: 4da4df18392dc98d/Blog-GettyImages-1278295972.jpg
+heroAltDescription: "Whole home generator"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A home generator can make power outages much more manageable. Here’s what you need to know."
+articleAbstract: "A home generator can make frustrating power outages much more manageable. Here’s what you need to know about these machines."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Everything You Need to Know About Home Generators"
+  parent: Electrical-Buying-Guide
+---
+  Long gone are the pioneer days of living with no electricity or running water. Everyone expects the lights to turn on and electronics to start on demand — which is why power outages are so frustrating.
+
+**This May Also Interest You:** [**How Much Generator Do I Need for My House?**](https://www.homeserve.com/en-us/blog/buying-guide/whole-house-generator-sizing/)
+
+A home generator can make power outages much more manageable. Here’s what you need to know about these machines.
+
+What Is a Generator?
+--------------------
+
+A home generator is a machine that supplies electricity to your home when you're not getting it from the power grid. It's a supplemental source of electricity when your power is out, often during a storm or service interruption. It typically only runs essential items, with the size of the generator dictating how much it can power at one time.
+
+Who Are Home Generators For?
+----------------------------
+
+Everyone can benefit from having a home generator, but some situations make a generator more important. If you experience frequent power outages due to a poor power supply or frequent storms, a generator can keep key items running. It can save you a lot on spoiled food and can keep you comfortable during extended power outages. You might also need a home generator if someone in your home relies on medical equipment, such as suction devices or breathing machines. Many medical devices have battery backups, but those batteries could die during an extended power outage. A generator eliminates that worry.
+
+What Are the Different Types of Generators?
+-------------------------------------------
+
+There are three main types of generators and several power source options for each type. The types of generators include:
+
+* **Standby generators:** Also called a whole-house generator, this type is permanently installed and kicks on within seconds of you losing power. You can choose to have it power your entire home or just a few circuits, and it can also connect to another existing source, such as your home's natural gas supply.
+* **Portable generators:** These generators are smaller and meant for short-term use. You can move them to different locations and power a few items during a power outage. They can also be used on worksites, especially remote locations.
+* **Inverter generators:** An inverter generator features an engine that connects to an alternator, generating AC power that it converts to DC power. These generators are usually small and lightweight, and they're often used for camping, boating or tailgating.
+
+The fuel type is also an important consideration. You need to have enough of the fuel on hand to keep the generator going through the power outage. Some types of generator fuel include:
+
+*   Gasoline
+*   Diesel
+*   Propane
+*   Natural gas
+*   Solar energy
+*   Batteries for some inverter generators
+
+**More Related Articles:**
+
+*   [How to Perform a Generator Load Bank Test](https://www.homeserve.com/en-us/blog/how-to/generator-load-bank-test/)
+*   [Home Backup Generator Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/generator-maintenance/)
+*   [Feeling in the Dark? Here’s What to Do During a Power Outage](https://www.homeserve.com/en-us/blog/how-to/what-to-do-power-outage/)
+*   [How Much Does a Home Generator Cost?](https://www.homeserve.com/en-us/blog/cost-guide/home-generator/)
+*   [How Much Does a Whole-House Generator Cost?](https://www.homeserve.com/en-us/blog/cost-guide/whole-house-generator/)
+
+Which Type of Generator Is Best?
+--------------------------------
+
+The best type of generator depends on your needs. A standby generator is the easiest to use because it turns on automatically and connects to your existing power system. They also tend to offer the most power, which can keep more things running inside your home. However, they tend to cost the most, so families on a budget might prefer a portable generator to run only the essentials. Inverter generators tend to be more efficient, and they're quieter than portable generators. Consider your budget and needs to choose your generator type. With regular generator maintenance, all types can work well and be beneficial in power outages.
+
+How Are Generators Sized?
+-------------------------
+
+Generators are sized in watts or kilowatts. The manufacturer lists the total wattage it can handle, which should help you determine how many items you can run on the generator at one time. You'll need a larger generator with a higher wattage if you want to run multiple large appliances during a blackout.
+
+### What Size Do I Need?
+
+Choosing the right size of generator for your home ensures you have enough power during an outage. If it's too small, your electrical load can damage the generator, or you might not have enough power to run all of your necessary items. A generator that's too large can waste money.
+
+To estimate your ideal generator size, determine which items you want the generator to operate and how much power they take. Then, add the total wattage required for those items to ensure you get a generator that can handle everything. You'll need to know the number of watts used while each item is running as well as the number of startup watts for some appliances. For example, a refrigerator typically uses [700 watts](https://www.homelite.com/pdf/wattage_worksheet.pdf) to run, but it takes an additional 2,200 watts when it starts up. A TV typically takes 500 watts to run and doesn't require any additional wattage when it starts. Your generator needs to accommodate the running wattage and the startup wattage for those appliances that draw more power initially.
+
+Home Generator Safety
+---------------------
+
+While home generators are beneficial, they can also be dangerous. Safe generator use keeps your appliances running without risking your family's safety. Follow these safety guidelines:
+
+*   Keep portable generators outside away from your house to prevent carbon monoxide poisoning.
+*   Have a working carbon monoxide detector on every level of your house.
+*   Protect your generator from water with an open canopy covering, and avoid using it if it's rainy or overly wet.
+*   Run a generator load bank test to ensure your generator can handle your electrical load.
+*   Choose outdoor-rated extension cords designed for the electrical load you're using.
+*   Ground your generator properly to prevent shock or electrocution.
+*   Store fuel safely in a proper container.
+*   Wait for the generator to cool before adding more fuel.

@@ -1,0 +1,84 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Find Your Mac's Serial Number"
+headline: "3 Ways to Find the Serial Number on Your iMac"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-02-25
+basePath: https://library.homeserve.com/m/
+heroImage: 5b44d178c1f4678b/Blog-iMacComputer_ERossi_0001.jpg
+heroAltDescription: "The backside of an iMac computer is displayed for the purpose of finding the device serial number on the affixed tag"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Do you know your computer's serial number? Use this guide to find the serial number on your iMac desktop computer."
+articleAbstract: "Knowing your iMac's serial number could be a real life-saver if it breaks or gets stolen. Use this guide to find the serial number on your iMac desktop computer."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Find a Serial Number on a Mac Desktop Computer"
+  parent: Appliances-How-To
+---
+  The last thing you probably think of doing when you buy a new desktop computer is noting the serial number. However, knowing your iMac's serial number could be a real life-saver if it breaks or gets stolen.
+
+**This May Also Interest You: How to Find the Serial Number on Your Appliances and Gadgets**
+
+Use this guide to find the serial number on your iMac desktop computer.
+
+Why Do You Need to Know the Serial Number?
+------------------------------------------
+
+You'll need to know your Mac's serial number if you want to have your computer repaired under warranty. The serial number allows Apple to check your warranty's status and view your device's repair history.
+
+The police may ask for your device’s serial number if you report your computer as stolen. Knowing the serial number can help the police establish your ownership of the device, and they may also be able to use it to track the computer's location.
+
+What Can Your iMac's Serial Number Tell You?
+--------------------------------------------
+
+Your iMac’s serial number shows when and where your device was made. This information makes it easier for repair technicians to identify how it was manufactured and what parts it requires.
+
+Your Apple serial number also provides access to certain information about your device's history. For example, it can reveal whether it's still under warranty and who owns the computer.
+
+What's the Difference Between the Model Number and Serial Number?
+-----------------------------------------------------------------
+
+All iMac desktop computers have an Apple serial number and a model number. The model number is common to all iMacs of the same type and year. However, your serial number is a unique identifying code for your exact device, and no other computer will share the same number.
+
+It's easy to tell the difference between your serial number and model number if you're unsure which is which. If you search for the model number on a search engine, you'll see pages of information about your particular type of iMac. Searching for the serial number — because it’s just a random string of characters — will produce unrelated results.
+
+**More Related Articles:**
+
+*   [How Do I Find the Serial Number on My Android Phone?](https://www.homeserve.com/en-us/blog/how-to/find-android-smartphone-serial-number/)
+*   [How Do I Find the Serial Number on my iPhone?](https://www.homeserve.com/en-us/blog/how-to/find-iphone-serial-number/)
+*   [How Do I Find the Serial Number on my Samsung Smartphone?](https://www.homeserve.com/en-us/blog/how-to/find-samsung-smartphone-serial-number/)
+*   [Wi-Fi Wars: Household Battling or Bandwidth? Everyone Wins With These Tips](https://www.homeserve.com/en-us/blog/home-improvement/improve-wifi-speed/)
+*   [What’s a Google Nest Hub and What Can You Do With It?](https://www.homeserve.com/en-us/blog/buying-guide/google-nest-hub/)
+
+How to Find the Serial Number on an iMac
+----------------------------------------
+
+There are several easy ways to find your Mac's serial number, even if you don't have the device on hand.
+
+### 1\. Examine the Device
+
+You can find your Mac's serial number printed on the back of the computer. Find the label titled “Designed by Apple in California” and look for the serial number on the final line. It's essential to turn off your Mac before tipping it or turning it upside down to avoid damaging the hard drive.
+
+### 2\. Click the Apple Logo
+
+Alternatively, you can access your iMac's serial number from your desktop by clicking on the Apple icon. Usually, this is located in the top left-hand side of the screen. In the dropdown menu, select “About This Mac.” Select the “Overview” tab from the on-screen menu that pops up, then scroll down until you find the serial number.
+
+### 3\. Check Your Apple ID Account
+
+If your iMac is lost or stolen, don’t panic! You can find your serial number remotely by logging into your Apple ID account on another device — provided you linked your iMac to your account. [Log into your Apple ID account here](https://appleid.apple.com/#!&page=signin).
+
+Click on “Devices” from your account menu and tap on your computer's name to view the serial number.
+
+How to Find the Model Number on an iMac
+---------------------------------------
+
+You can find your iMac's model number printed on the Mac or on the sticker attached to the original packaging. You can also follow the steps above to view your model number via “About This Mac” or by logging into your Apple ID account.
+
+Should You Share Your Serial Number?
+------------------------------------
+
+You can safely share your serial number with a repair technician, the police or a warranty company.
+
+Otherwise, it's sensible to keep your iMac's serial number secret. Although the potential for someone committing fraud with your Apple serial number is reasonably limited, it could allow someone to access repair services or obtain a replacement device.

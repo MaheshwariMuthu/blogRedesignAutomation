@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Garage Storage Hacks
+headline: The ultimate guide to Garage Storage Hacks
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2020-03-25
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: garage-storage-hacks-01-full.jpg
+heroAltDescription: Garage Storage Hacks
+metaDescriptions: Follow our guide to garage storage so you can maximize every square foot.
+articleAbstract: Here’s how you can organize your garage in no time!
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Garage Storage Hacks
+  parent: Interior-Home-Home-Improvement
+---
+
+In the past few weeks, our whole world has changed due to corona virus and the COVID 19 pandemic. I have quickly realized how unprepared I was for this new life of social distancing and flattening the curve. So in doing my part to adhere to the CDC and WHO public health guidelines, I am staying home as much as I can. I've found a great tactic to destress is to spend my time focusing on home organization. And since it's now officially spring, the garage is first up on the list.
+
+I knew it was bad when the cars started living on the driveway on a permanent basis. My garage was officially a storage pit - and it was easier to ignore it than commit to what would likely be days of work to get the space back in order.
+
+[1]: /en-us/home-warranty/combo/
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+:::: blog-info
+The motivation finally came when I was planning to buy a new car. There’s no way my brand new MINI was going to live outside and face the turmoil of Massachusetts weather.
+
+Trust me: It was worth it. No matter how daunting home organization projects feel, the result is more space to live your best life. (_Or in this case, for my MINI to live its best life._)
+
+Ready to spruce up your garage? Here are some storage hacks to help:
+
+## Start with the shelving
+
+The most important step to optimizing the space in your garage is to free up the floor space. Install plenty of wall shelving to store tools, decorations, cleaning supplies, sports gear and other items that are taking up valuable space where your cars should be. If you don't actually want to see all the stuff on the shelves, consider floating garage storage cabinets that still have shelving behind the doors.
+
+## Be smart with flat-backed buckets
+
+Stock up on some containers that are flat on one side for easy hanging on the garage wall. For instance, HGTV recommended [storing your car wash supplies in a flat-backed bucket](https://www.hgtv.com/design/rooms/other-rooms/20-clever-garage-storage-hacks-pictures){target="_blank"}. That way, you can easily transport the bucket to the driveway when you're working on the cars, and all the supplies have one convenient home in between washes.
+
+## Contain the cords and hoses
+
+Extension cords and hoses can be as annoying as the wires in your home office or living room. Keep them from getting tangled by looping them up neatly and hanging them on a hook on the wall or inside the door of storage cabinets. You can use chains, rope or even wire organizers to keep them from unraveling while hanging from the hook.
+
+[Learn More About Home Repair Plans Near You](/en-us/home-warranty/combo/){target="_blank"}
+
+## Repurpose the items you have
+
+As you're cleaning up your garage, odds are you might come across some old paint cans, furniture or containers. Don't be so quick to throw them away, as many of these items can act as storage solutions. For example, HGTV noted that an old golf bag can be an ideal place to store garden tools. A filing cabinet on its side can also store those gardening items, cleaning supplies, scrap wood or other odds and ends - after you remove the drawers, of course.
+
+## Utilize overhead space
+
+Much like maximizing wall space to free up room on the floor, there's plenty of storage opportunities on your garage ceiling. Family Handyman offered [several easy hacks](https://www.familyhandyman.com/storage-organization/brilliant-ways-to-organize-your-garage/){target="_blank"}, such as a track for plastic storage bins to slide into and hang from, mounted shelves and cabinets near the ceiling for long-term storage and seasonal supplies.
+
+## Take advantage of pegboard storage
+
+Installing a pegboard is one of the smartest ways to store tools and other small items, as you can use the pre-punched holes to install hooks, baskets and other storage devices. Plus, hanging these items increases workspace and makes DIY projects that much easier to complete.
+
+## Have a stroke of DIY genius
+
+If you're willing to roll up your sleeves and get crafty, you can create a lot of garage storage solutions by hand - and save yourself some money in the process. These [DIY tips](/en-us/blog/home-improvement/garage-organization-tips/){target="_blank"}, for instance, will help you organize your garage like a pro.
+::::
+
+Being prepared for home repairs and appliance issues is always a good strategy. See how [plans from TotalHome Warranty by HomeServe](/en-us/home-warranty/combo/){target="_blank"} can help with the costs of covered appliance and home system repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}

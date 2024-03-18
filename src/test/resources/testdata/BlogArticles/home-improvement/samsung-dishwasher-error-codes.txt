@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Samsung Dishwasher Error Codes"
+headline: "Samsung Dishwasher Error Codes"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2023-05-29
+basePath: https://library.homeserve.com/m/
+heroImage: 316754f783e1e235/webimage-KBIS2020-Sketch_main7_Samsung.png
+heroAltDescription: "Samsung dishwasher open"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If your dishwasher has a digital display, you could get help figuring out what's wrong with the Samsung dishwasher error code that shows up."
+articleAbstract: "If your dishwasher has a digital display, you could get help figuring out what's wrong with the Samsung dishwasher error code that shows up. Here's a guide to Samsung dishwasher codes to help you with troubleshooting issues. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Samsung Dishwasher Error Codes"
+  parent: Appliances
+---
+  _Manufacturer image_
+
+Is your Samsung dishwasher on the fritz? If your dishwasher has a digital display, you could get help figuring out what's wrong with the Samsung dishwasher error code that shows up.
+
+**This May Also Interest You:** [**How Do I Reset My Samsung Refrigerator?**](https://www.homeserve.com/en-us/blog/how-to/reset-samsung-refrigerator/?gm-vt=1)
+
+Here's a guide to Samsung dishwasher codes to help you with troubleshooting issues.
+
+What Is an Error Code?
+----------------------
+
+Samsung dishwasher error codes are combinations of numbers or letters that indicate what's wrong. It's just a two-digit or letter code, so you won't know what it means just by looking at it, but Samsung dishwasher error codes can help you pinpoint exactly what's going on. It's important to note that not all Samsung dishwashers use error codes — only models with a digital display.
+
+Common Samsung Dishwasher Error Codes and What They Mean?
+---------------------------------------------------------
+
+Some [Samsung dishwasher error codes](https://www.samsung.com/us/support/troubleshooting/TSG01002074/) are specific to only a few models, while others are codes you might see on any model with a digital display. The following code guide can help you with Samsung dishwasher troubleshooting:
+
+* **1E:** Waterwall models might display this code if the water isn't going through the filter. Cleaning the filter should help.
+* **3C:** This code means you have a dishwasher pump failure. You can try restarting the dishwasher, but you might need professional service.
+* **3E:** When you see this code, it means your water is too hot. Adjusting the thermostat on your water heater to below 176 degrees Fahrenheit could help fix the problem.
+* **4C or 4E:** If you see this code, it means there's an issue with either the water pressure or temperature. Turning up the thermostat on the water heater might help if it's set too low.
+* **5C, SC, 5E or SE:** These codes indicate that your Samsung dishwasher isn't draining properly. The drain hose could be clogged or might not be properly attached. If that isn't the issue, try cleaning the drain and filter.
+* **7E:** If you have a Waterwall model, this code means the reflector isn't working correctly. On a newly installed appliance, this could happen if you don't remove the packing tape. It could also mean there's something blocking the reflector, or if you removed the reflector, you might not have reinstalled it correctly.
+* **9E:** In this scenario, your dishwasher doesn't have enough water. Try emptying the dishwasher and running a normal cycle. If that doesn't help, you might need service on the appliance.
+* **AP:** The AP in this code stands for “Access Point mode,” which means it's trying to connect to a mobile device. If the appliance is already connected and you get this error, you could try turning the dishwasher off and on to see if that fixes the issue.
+* **bE or 6E:** If there's a button stuck on the panel, you'll see this code. To fix it, shut off the appliance and touch all the buttons. Turn it back on to see if it works correctly.
+* **CE:** You'll see this code if the control panel and the other components can't communicate. You can try restarting the appliance before calling an appliance repair service.
+* **HC, 1E or IE:** If you see this code on a rotary model, it means the interior temperature in the dishwasher is too high. Shut the power off and wait for about a minute. Take everything out of the dishwasher and try running it again.
+* **HE:** Another temperature-related Samsung dishwasher error code, HE means the appliance isn't detecting the temperature inside correctly. Try emptying the unit and running another cycle.
+* **LC or LE:** This means the leak sensor is detecting moisture, so you might have a leak somewhere. In Waterwall models, it could mean the reflector is blocked. Your dishwasher should turn itself on if this code happens in an attempt to empty the water. This error can happen by mistake if you move the appliance and water splashes on the sensor or if you overfill the detergent dispenser.
+* **OC, 0C, oE:** When this code appears, there's too much water in the appliance, which could be due to a drain issue. You might need to check the drain hose and clean the filter and drain to correct the issue.
+* **PC:** Your Zone Wash feature isn't working right if you see this code. Try turning the unit off and running another cycle.
+* **PE:** This code means the half-load function isn't working correctly. You can try emptying the machine and running it again.
+* **tE:** This is another temperature sensor issue, meaning it's not detecting the temperature inside correctly. Try restarting it.
+
+**More Related Articles:**
+
+*   [Samsung Smart Washers and Dryers: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-washer-dryer/)
+*   [How Much Do Samsung Smart Refrigerators Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-refrigerator/)
+*   [Everything You Need to Know About Samsung Smart Microwaves](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-microwave/)
+*   [Samsung Smart Ranges: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-range/)
+*   [How Much Do Samsung Smart Ranges Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-range/)
+
+Do I Need to Call a Repair Tech, or Can I Fix These Errors on My Own?
+---------------------------------------------------------------------
+
+Some Samsung dishwasher codes are simple fixes. Turning the unit off and on again helps in many cases. You might need to clean out the drain or filter. If the quick fixes don't work, call for service to have a professional diagnose and fix the issue.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/Ss3da5F_Nk4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Clean Your Dishwasher (Properly)"></iframe>

@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Are Time-of-Use Rates and When Is Electricity Cheaper?"
+headline: "How to Take Advantage of Time-of-Use Rates and Lower Your Electricity Bill"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-10
+basePath: https://library.homeserve.com/m/
+heroImage: 31e5714a468efb7/Blog-HoneywellThermostat_MSchmitz_0001.jpg
+heroAltDescription: "Pushing button on Honeywell thermostat"
+metaDescriptions: "Using electricity when it's cheaper can help lower your bills. Here's how to take advantage of time-of-use rates."
+articleAbstract: "Have you ever heard of time-of-use electricity rates? Knowing your on- and off-peak hours can help you figure out when electricity is cheaper so you can lower your bills."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Realize Peak-Hours Rate Savings on Your Utility Bill"
+  parent: Electrical-How-To
+---
+  
+
+Is your electric bill a shocking — and not-so-welcome — surprise each month? Many things can cause your utility bills to soar, including increased use of heating, ventilation and air conditioning systems, inefficient appliances, poor insulation and excessive electric use.
+
+**This May Also Interest You:** [**How Much Does Electricity Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/)
+
+One factor you may not know about is time-of-use rates, which indicate peak hours during which electricity costs more. If you run every appliance in the house and have all the lights on during those peak hours, your electric bill is likely to skyrocket. Understanding those time-of-use rates can help you figure out when electricity is cheaper so you can lower your bills.
+
+What Are Time-of-Use Electricity Rates?
+---------------------------------------
+
+When an electric company uses time-of-use rates, they adjust the cost of electricity based on the time of day or the day of the week power is consumed. Sometimes even the season can affect the electricity rates.
+
+During peak energy use times when lots of people use power, the rates are higher. Meeting electricity demands at those times can force companies to use less efficient methods that cost more. Off-peak times, when fewer people are using electricity, have lower rates. The goal is to encourage consumers to change their habits to decrease the electricity demands at those peak times.
+
+What’s a Peak-Hours Rebate?
+---------------------------
+
+Some electric companies offer peak-hours rebates to encourage people to conserve energy during their peak times. The company might designate certain days and times when the rebate is available — usually the highest demand times, called peak events. You can earn a rebate during that peak event if you conserve energy. The amount you receive is often based on how much you lower your energy use. Rebates are often given as a credit on your next utility bill.
+
+What Are the Peak and Off-Peak Times for Electricity?
+-----------------------------------------------------
+
+The specific hours can vary by company, so check with your power provider to determine the exact hours. Peak hours are times when more people are using electricity. They often include daytime and evening hours. Nighttime hours are usually considered off-peak times since most people are asleep and not using much electricity. Some companies consider weekends as off-peak times.
+
+Evening hours are often included in peak hours when time-of-use rates are higher. Most people are home from work, have lights on, cook dinner and do other tasks that require electricity. On hot or cold days, you might set your HVAC system to run more when you're home in the evening, or you might turn on fans or space heaters.
+
+Peak and off-peak rates can also vary based on the time of year. Your company might have different peak hours in the summer than in the winter, for example, based on use. That's why asking your provider about their time-of-use rates is the best option.
+
+Is Electricity Cheaper at Night?
+--------------------------------
+
+Electricity is usually cheaper at night since it's considered an off-peak time if your electricity provider uses time-of-use rates. Not many people use electricity at night, other than for HVAC systems, once they go to sleep. Since the demand drops off at night, many companies lower their rates.
+
+**More Related Articles:**
+
+*   [Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load](https://www.homeserve.com/en-us/blog/how-to/phantom-loading/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets with GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [8 Home Efficiency Measures You Can Take This Earth Day](https://www.homeserve.com/en-us/blog/how-to/earth-day-energy-efficiency/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/efcebb311c83a40/Blog-1173773326.jpg" alt="close up of a utility bill"/>
+-------------------------------------------
+
+Using Time-of-Use Rates to Lower Your Bill
+------------------------------------------
+
+When is electricity cheapest through your utility provider? That's the information you need to help lower your electric bills based on the time-of-use rates. Find out the peak and off-peak hours for your provider so you can plan your electricity usage. Shift the things that use the most energy, like running your dishwasher, oven, washer and dryer, to the off-peak hours.
+
+Instead of running your dishwasher as soon as dinner is over, wait until the off-peak hours later in the evening to start it. Cook meals in a slow cooker or on the grill so you don't have to run your electric stove or oven during peak hours. If weekend rates are lower in your area, do food prep on the weekends so you don't have to cook as much during the week. Start a load of laundry as soon as non-peak hours begin, and toss the load in the dryer before you go to bed.
+
+Pay attention to everything you use that consumes electricity during those peak hours. Shut off lights as soon as you're done in the room. Turn off the TV if no one is watching it. Use electrical items for as little time as possible, and get the entire family on board with reducing peak-hours energy consumption. Those little things add up quickly if you're using them during peak hours.
+
+Other Ways to Reduce Your Electric Bill
+---------------------------------------
+
+Making other changes to your electrical use in addition to cutting down on power during peak hours can lower your electric bill even more. Start with a home energy audit to see where you can improve your home. The audit can help identify gaps, lack of insulation and other issues that make your home consume more energy.
+
+Consider replacing old appliances that are outdated and not energy-efficient. You can often get tax credits and rebates for replacing your HVAC system or other appliances. This helps offset the cost of the new appliances, and you'll recoup more of the cost over time with lower energy bills.

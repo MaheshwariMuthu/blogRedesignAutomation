@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Prepare Your Home for Fumigation Treatment"
+headline: "How to Prepare Your Home for Fumigation Treatment"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-07-06
+basePath: https://library.homeserve.com/m/
+heroImage: 64544e4fbf5316fb/Blog-GettyImages-1175133753.jpg
+heroAltDescription: "Tented large two story house that is being treated to kill termites and other bugs with structural fumigation"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Fumigating your entire home is a daunting idea and a big undertaking. Here are some before-and-after suggestions and advice."
+articleAbstract: "Fumigating your entire home is a daunting idea and a big undertaking. Here are some before-and-after suggestions and advice."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Prepare Your Home for Fumigation Treatment"
+  parent: Interior-Home-How-To
+---
+  Ugh! Termites! They’re one of the last types of creatures you want to find in your home. But if all other avenues for getting rid of drywood termites have been explored, fumigating your home may be your only option.
+
+**This May Also Interest You:** [**How Much Do Termite Treatments and Fumigation Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/termite-treatment/)
+
+Fumigation is a daunting idea and a big undertaking. We’ll share some suggestions and advice for preparing your home for fumigation and what happens afterward.
+
+What Does It Mean to Fumigate a Home?
+-------------------------------------
+
+Fumigation is a process that uses gaseous pesticides (fumigants) to completely rid a space of pests. The method can be used for a variety of pests but is most often utilized when a home is infected with drywood termites. Fumigation allows the gas to reach into every nook and cranny of a home and penetrate the wood in which these termites live. A home is typically tented when fumigated. This keeps the chemicals in the house while the fumigation process is occurring. Because fumigation is a toxic practice, the fumes can be poisonous to people, pets and plants — not just the pests.
+
+Prepping Your Home for Fumigation
+---------------------------------
+
+If a professional exterminator has recommended tenting your home for fumigation, some advanced planning is needed. You’ll need to be out of the house for at least two to three days — your exterminator will confirm the time frame — so you will need to find a place to stay for your family and pets (don’t forget to bring the fish). Plants also shouldn't stay in a home that’s being fumigated.
+
+You’ll also need to coordinate with the gas company to have your service cut off before the fumigation and restored at the time the fumigator directs. Tell the gas company what’s happening; they will need to lock your meter. This is a precaution in case of a gas line leak. A dangerous natural gas buildup could occur in your tented house in case of a leak or break. You may also be asked to turn off and unplug all appliances and heat sources, including computers and heaters.
+
+In the days prior to the fumigation, rake back grass, mulch and plants from the exterior of your home. You want to leave space for the tenting. Water any shrubs or plants up to 18 inches around your house. This moisture helps protect plants that are outside the tent. It also helps prevent fume leakage at the tent’s base. If you have potted plants on a patio or deck, move them away from the house. Also, take down any rooftop antennas, awnings and weathervanes to allow the tenting to be as secure as possible.
+
+Please note bad weather can impact your fumigation. Because your home will be tented with tarps, your fumigator may have to reschedule if heavy rains or wind are forecast.
+
+Fumigation Day
+--------------
+
+The day has come! You and your pets and plants are ready to relocate. Before leaving, open all doors between rooms, as well as closet doors, drawers and cabinets. Leave easy access to any basement, attic, or other storage areas. If you have any plastic covers on mattresses or furniture, remove those.
+
+Take any open food products with you, including pet food. Unopened products can be left in the home. Items in soft packaging, like cardboard boxes, must be double-bagged. Sealed bottles, jars or cans can be left, but you may consider double-bagging them as well. Typically, fumigators will provide you with appropriate bags and instructions. This is especially useful for refrigerated and frozen items. Don’t forget to take all medications. If a product goes in your mouth or you put it on your body, it should be removed or double-bagged.
+
+Be sure to leave a full set of keys for the fumigator, as they need to be able to access every area of your home. A secondary locking system will be used on all doors to ensure no one enters the house until it's safe to do so.
+
+**More Related Articles:**
+
+*   [We’ve Got Bedbugs! Now What?](https://www.homeserve.com/en-us/blog/home-improvement/get-rid-of-bedbugs/)
+*   [Got Mice or Rats? Here’s How to Get Rid of Them](https://bynder-auto-posts.netlify.app/en-us/blog/home-improvement/get-rid-of-rats-mice/)
+*   [Houseplant Pests: Common Critters and How to Get Rid of ’Em](https://www.homeserve.com/en-us/blog/how-to/get-rid-of-houseplant-bugs/)
+*   [Got Roaches? Try These 4 Solutions](https://www.homeserve.com/en-us/blog/home-improvement/get-rid-of-roaches/)
+*   [Got Yard Pests? Here’s How to Deal With Damage](https://www.homeserve.com/en-us/blog/home-improvement/get-rid-of-yard-pests/)
+
+Returning Home
+--------------
+
+Your fumigator will tell you when your home is safe to re-enter and should provide an “all-clear” document. You can have your gas unlocked and turned on again; the gas company most likely will want to see the safe-to-enter proof the fumigator gave you before they restore your service.
+
+The fumigant is a pure gas, meaning it leaves no residue after the space has been completely aerated. It’s not necessary to wash clothing, curtains and dishes.
+
+Finding out your home has termites and needs to be fumigated isn’t pleasant. Preparing your home for fumigation does take time and advance planning. And remember: Your fumigator is your partner in this process. Ask them any questions you may have, and be sure to follow their directions carefully. They’ll ensure fumigation is safe for you and your family and that the process eliminates those pesky drywood termites from your home.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

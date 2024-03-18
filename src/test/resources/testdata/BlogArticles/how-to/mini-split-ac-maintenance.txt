@@ -1,0 +1,86 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean and Maintain a Mini-Split Air Conditioner"
+headline: "How to Clean and Maintain a Mini-Split Air Conditioner"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-10-17
+basePath: https://library.homeserve.com/m/
+heroImage: 473369d6546f69b4/Blog-Mitsubishi_SplitACUnit_AWiesen_IMG_0499.jpg
+heroAltDescription: "Mitsubishi Electric split HVAC unit with remote"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Keeping your mini-split AC clean can help prevent HVAC disasters. Learn how to care for your unit with this mini-split AC maintenance checklist."
+articleAbstract: "Keeping your mini-split AC clean can help prevent HVAC disasters. Learn how to care for your unit with this mini-split AC maintenance checklist."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clean and Maintain a Mini-Split Air Conditioner"
+  parent: HVAC-How-To
+---
+  Sky-high energy bills and AC performance issues can turn summer into a real headache.
+
+**This May Also Interest You:** [**Hot or Cold in Your Household? Split the Difference With a Mini-Split Air Conditioner**](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/)
+
+Fortunately, you can keep your energy usage under control and prevent common AC bugbears by following a mini-split AC maintenance routine.
+
+Mini-Split AC Maintenance: 7 Tasks to Add to Your To-Do List
+------------------------------------------------------------
+
+Mini-split AC maintenance is straightforward with the right knowledge and equipment. Use this simple maintenance checklist to keep your air conditioner in working order between professional services.
+
+### Before You Start
+
+Before starting your mini-split AC maintenance routine, switch off the unit and turn the power off at the breaker to prevent electric shocks. You could also consider creating a mini-split AC maintenance kit to ensure you have all the equipment you need on hand.
+
+### Things You’ll Need
+
+*   Condenser fin comb
+*   Microfiber cloths
+*   Bristle brush
+*   Dish soap
+
+### 1\. Declutter
+
+Mini-split ACs operate best in an uncluttered area free from shelves, bookcases and any other items on the surrounding walls. Regularly check the space around your mini-split unit, and move any furniture or wall art that could stop it from functioning correctly.
+
+### 2\. Remove Dust
+
+Over time, dust can build up on your mini-split AC. If you don't remove the dust regularly, it can get inside the unit and damage the filter and other components. You can clean the outside of your air conditioner by wiping it with a damp cloth at least once per month. Add a few drops of dish soap to remove stubborn dirt and grime.
+
+You'll need to dust the area around your mini-split unit at least twice per week to prevent dust from entering your system. Monitor the area daily, and remove dust as soon as you notice it.
+
+### 3\. Clean the Coils
+
+Cleaning the condenser coils helps your mini-split AC run more efficiently and removes dirt and dust to improve indoor air quality. You can clean the coils by spraying them with a garden hose on low pressure. Alternatively, use a damp cloth to wipe away any dirt and debris. Follow the cleaning schedule recommended in your user manual — many manufacturers recommend cleaning your condenser coils around once per month.
+
+The condenser fins can bend easily, so it's important to be gentle. If you accidentally bend the fins, you can realign them using a condenser fin comb.
+
+Turning on your air conditioner with wet coils can be dangerous. Therefore, you should allow them to air dry thoroughly before turning the power back on.
+
+**More Related Articles:**
+
+*   [How Does a Portable Air Conditioner Work?](https://www.homeserve.com/en-us/blog/buying-guide/portable-air-conditioner-functionality/)
+*   [Cooling Fans Vs. Portable Air Conditioners: What’s the Difference?](https://www.homeserve.com/en-us/blog/home-improvement/cooling-fan-vs-air-conditioner/)
+*   [New to BTUs? Here’s What to Know About BTUs When Shopping for an Air Conditioner](https://www.homeserve.com/en-us/blog/home-improvement/btu-air-conditioning/)
+*   [No AC? No Sweat. Here’s How to Keep Cool](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+
+### 4\. Clean the Filters
+
+Clogged air filters force your air conditioner to work harder, increasing your energy bills and causing wear and tear. Cleaning recommendations for mini-split filters vary between manufacturers, so you should check your manual and follow the company's recommendations.
+
+You can usually clean the filters using dish soap and warm water. Alternatively, remove dust and debris using your vacuum cleaner's brush attachment. While most mini-split ACs have reusable filters, you should replace the filters if they're damaged or challenging to clean.
+
+### 5\. Clean the Fan Cage
+
+Remove any dirt or debris from the fan cage using a bristle brush, and wipe away stubborn grime using a damp cloth. Dry the cage thoroughly before turning on your air conditioner.
+
+### 6\. Check the Drain Lines
+
+Your mini-split air conditioner has plastic tubes to drain water from your interior units to the outside of your home. Allowing these lines to become blocked can cause water to back up into your mini-split air conditioner, potentially damaging the unit and causing leaks. Check the lines regularly for clogs and contact an HVAC professional if you discover blockages.
+
+### 7\. Schedule Professional Maintenance
+
+DIY mini-split AC maintenance can help prevent wear and tear and keep your system running smoothly. However, it doesn't replace professional maintenance.
+
+As a rule of thumb, you should hire an HVAC technician to service your mini-split air conditioner at least once per year. Maintenance schedules can vary between brands, so you should defer to your manufacturer's guidelines. Scheduling maintenance before summer ensures your AC functions correctly in hot weather and can help you avoid high-demand periods.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/Y7MRjp7m3ZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="HVAC Tune Up Tips!"></iframe>

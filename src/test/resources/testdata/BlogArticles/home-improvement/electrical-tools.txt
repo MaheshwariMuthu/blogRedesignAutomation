@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Electrical Tools You Need for DIY Projects"
+headline: "6 Tools You Need for DIY Electrical Projects"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-05-30
+basePath: https://library.homeserve.com/m/
+heroImage: 6ebaedaa498cc076/Blog-GettyImages-1129160928.jpg
+heroAltDescription: "variety of tools"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Having the right tools makes any DIY electrical job easier. Make sure you have these six tools in your arsenal."
+articleAbstract: "Having the right tools on hand is important. Here are six tools that’ll make embarking on a DIY electrical project safer and easier without breaking the bank. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Electrical Tools You Need for DIY Projects"
+  parent: Appliances
+---
+  When it comes to home DIY projects, electrical work may not be the first thing that springs to mind. While electrical work is known for its technical and dangerous nature, the truth is that there are quite a few home electrical projects that homeowners can tackle themselves with the proper know-how, caution and a few essential electrician tools.
+
+**This May Also Interest You:** [**Home Hacks: Common Household Items You Can Use Instead of Buying a New Tool**](https://www.homeserve.com/en-us/blog/home-improvement/household-items-for-tools/)
+
+Below is a list of some basic electrical tools that’ll make embarking on a DIY electrical project — like replacing that outdated light fixture or adding a dimmer to a light switch — safer and easier, without breaking the bank.
+
+1\. Multimeter
+--------------
+
+In simplest terms, a multimeter is a tool that measures electricity. More specifically, it's used to measure the voltage, continuity and resistance of a variety of electrical components and circuits. Although they may appear complicated, multimeters are one of the most important electrical tools to have on hand, even for the less electrical savvy DIYer. For example, you can use a multimeter to test old batteries, check extension cords, test surge protectors and spot faulty electrical outlets.
+
+2\. Wire Strippers
+------------------
+
+If you have spent any time at all attempting to strip the plastic coating of the ends of wiring, then you’ll know that it can be a frustrating, time-consuming process — that is, if you don’t have the right tool.
+
+Enter wire strippers. A wire stripper is an electrical wiring tool made specifically to remove the protective coating from electrical wires. To strip the wire, simply insert the wire into the proper hole, squeeze the handles and the coating will be cut and removed without damaging the copper wire underneath. Even the simplest electrical projects like installing light fixtures can be much less of a headache if you have this tool on hand.
+
+3\. Electrical Tape
+-------------------
+
+When it comes to DIY electrical projects, not all tapes are created equal. In fact, using the wrong tape can quickly ruin a project and even create some potentially dangerous scenarios when performing electrical work around the house. Electrical tape is specially designed tape made from stretchy, rubber-based adhesives that insulate wires and other materials that conduct electricity. Use it to insulate, secure or repair wires and cords around the house. If you plan to be engaging in any form of electrical work around the house, It's always a good idea to have a roll of electrical tape on hand.
+
+**More Related Articles:**
+
+*   [How to Fix Electrical Cords and Charging Cables](https://www.homeserve.com/en-us/blog/how-to/fix-electrical-cords/)
+*   [4 Superfluous Tools You Can Do Without](https://www.homeserve.com/en-us/blog/buying-guide/useless-tools/)
+*   [Where Can You Rent Tools? And How Much Does It Cost?](https://www.homeserve.com/en-us/blog/cost-guide/rent-tools/)
+*   [10 Tools You Probably Don’t Have (But Definitely Should)](https://www.homeserve.com/en-us/blog/buying-guide/tools-everyone-needs/)
+*   [How to Use a Voltage Tester](https://www.homeserve.com/en-us/blog/how-to/use-voltage-tester/)
+
+4\. Voltage Tester
+------------------
+
+Let’s be real here: Electrical work can be dangerous. When doing anything that involves electrical wiring around the house, you’ll need to know whether or not a wire is live. This is where electrical testing tools like a voltage tester come into play. A voltage tester, no matter the type you get, simply tells you if there’s an electrical current in the wire. To use it, just touch the tip of the tester to the desired wire, and you’ll notice the tester light up if there’s power. You can also test outlets and the wires inside of light switches with voltage testers too. It’s a simple, but highly useful test instrument that should be included in any DIYer’s toolset.
+
+5\. Rubber-Gripped Pliers
+-------------------------
+
+If you don’t already have a good pair of pliers, now is the time to add one to your electrical tool kit. Pliers are a simple, yet versatile tool that come in handy for a variety of DIY electrical projects. These tools cut, bend and twist wires, and can also help loosen bolts or screws. The narrow, needle-nose pliers often make a good addition to an electrical toolset. You also want to make sure your pliers are rubber-gripped or insulated to help protect against shock.
+
+6\. Headlamp
+------------
+
+Electrical projects often require a lot of work in dark zones, like attics, crawlspaces and wall cavities. And let’s face it, while a good tactical flashlight comes in handy when you're in these spots, sometimes you just need both hands to work with. That’s when a headlamp becomes especially helpful. Good headlamps provide bright light, are waterproof and offer an extended battery life. That said, some headlamps are significantly better than others, and a poor quality headlamp might be too dim for the precision that’s a hallmark of electrical work. So, it’s worth it to invest in a high-quality lamp that will stand the test of time.
+
+A Bright Idea
+-------------
+
+Having an electrical toolkit on hand to help manage basic DIY electrical tasks doesn’t require a huge investment, and it won’t take up much space in the shed. But the payoff of having these electrical tools and equipment on hand is that you’ll be able to tackle projects safely and efficiently, while also saving some money by not calling in an electrician. Safe, easy _and_ cheap: It’s the holy trinity of DIY projects!

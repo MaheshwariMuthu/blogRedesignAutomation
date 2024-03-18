@@ -1,0 +1,42 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "5.4 Million Clothing Steamers Recalled by HSN Over 'Severe Burn Hazard'"
+headline: "5.4 Million Clothing Steamers Recalled by HSN Over 'Severe Burn Hazard'"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-10
+basePath: https://library.homeserve.com/m/
+heroImage: 54967404e77c1e9a/webimage-ClothingSteamerRecall_HSN.png
+heroAltDescription: "recall product"
+metaDescriptions: "HSN has recalled 5.4 million Joy/JM-branded handheld clothing steamers due to a “serious burn hazard.” The steamers can spray hot water, which may burn the user."
+articleAbstract: "HSN has recalled over 5.4 million Joy/JM-branded handheld clothing steamers due to what the Consumer Product Safety Commission has called a “serious burn hazard.” The steamers can spray or leak hot water, which may burn the user."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "HSN Recalls 5.4 Million Handheld Clothing Steamers Due to Serious Burn Hazard"
+  parent: Appliances
+---
+  HSN — formerly Home Shopping Network — has recalled over 5.4 million Joy/JM-branded handheld clothing steamers sold for nearly the past two decades due to what the Consumer Product Safety Commission has called a “serious burn hazard.” The steamers can spray or leak hot water, which may burn the user.
+
+**This May Also Interest You:** [**Fire Risk: Metal Ware Recalls Nesco Coffee Bean Roasters Over Reports of ‘Flames and Smoke’**](https://www.homeserve.com/en-us/blog/home-improvement/nesco-coffee-bean-roaster-recall/)
+
+In the May 26 recall, the [CPSC](https://cpsc.gov/Recalls/2021/HSN-Recalls-5-4-Million-Handheld-Clothing-Steamers-Due-to-Serious-Burn-Hazard) reported that HSN has received 227 reports of hot water leaking or spraying from the recalled steamers, resulting in 106 reports of burn injuries. Of those reports, eight users suffered second-degree burns and six suffered third-degree burns.
+
+The recall affects the full-size My Little Steamer and compact-size My Little Steamer Go Mini clothing steamers. They were sold individually or in combination sets. The recalled models have a flat or triangular head.
+
+The steamers were manufactured in China and imported by Ingenious Designs of Ronkonkoma, N.Y., a wholly owned subsidiary of HSN. The devices were sold between January 2002 and December 2020 at HSN.com, the HSN TV network, and several stores and online retailers nationwide, including Amazon, Target, Bed Bath & Beyond, Walmart and Lowes. An additional 14,300 units were sold in Canada.
+
+If you own one of these recalled steamers, you should stop using it immediately. File a claim through the [online form](https://www.steamerrecallsettlement.com/Home/SubmitClaim) or a paper claim form. Learn more about the process [here](https://www.steamerrecallsettlement.com). Contact HSN for more information about how to receive a refund, and be aware:
+
+*   If you purchased a steamer from January 2018 to December 2020, you’re eligible to receive a full refund.
+*   If your unit was purchased from January 2015 to December 2017, you’re eligible for a partial refund.
+*   If you purchased a steamer prior to January 2015, you’ll receive an HSN voucher.
+
+Call HSN at 855-654-0942 or visit [HSN.com](http://www.hsn.com/). You can also visit [SteamerRecallSettlement.com](http://www.steamerrecallsettlement.com/) for more information. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [226,000 TruSense Smoke, Carbon Monoxide Alarms Recalled for Possible Failure to Alert Households to Fire](https://www.homeserve.com/en-us/blog/home-improvement/trusense-smoke-alarm-recall/)
+*   [Burn Injuries Cited in Water Removal Pump Recall by Scott Fetzer Consumer Brands](https://www.homeserve.com/en-us/blog/home-improvement/scott-fetzer-water-pump-recall/)
+*   [‘Burning, Smoking, Melting’: 800 PureLine Pool Pump Motors Recalled for Fire Danger](https://www.homeserve.com/en-us/blog/home-improvement/pureline-pool-pump-motor-recall/)
+*   [Shock Hazard Sparks Recall of 25,000 National Presto Smokers](https://www.homeserve.com/en-us/blog/)
+*   [Don’t Sleep on This: 700 HOFISH Mattresses Recalled Over Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/hofish-mattress-recall/)

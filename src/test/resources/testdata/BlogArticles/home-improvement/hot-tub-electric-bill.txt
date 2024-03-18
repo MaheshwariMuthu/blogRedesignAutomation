@@ -1,0 +1,58 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Will a Hot Tub Increase My Electric Bill?"
+headline: "How Much Will a Hot Tub Increase My Electric Bill?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-11-20
+basePath: https://library.homeserve.com/m/
+heroImage: 24cab7043c97fcb3/Blog-GettyImages-545334824.jpg
+heroAltDescription: "Awesome water view with hot tub in summer evening "
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "How much power does a hot tub really use, and how much does it cost to run? (Spoiler: It’s probably not as pricey as you think!)"
+articleAbstract: "How much power does a hot tub really use, and how much does it cost to run? (Spoiler: It’s probably not as pricey as you think!)"
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Much Will a Hot Tub Increase My Electric Bill?"
+  parent: Electrical-Home-Improvement
+---
+  For those craving warmth, relaxation and cozy connection on cool nights, a hot tub may be just the ticket. But in addition to the initial expense associated with the purchase and installation of buying a hot tub, many people worry about the cost of heating a hot tub over time. The trouble is that most folks don’t know what it actually costs to heat a hot tub.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install a Hot Tub?**](https://www.homeserve.com/en-us/blog/cost-guide/hot-tub-installation/)
+
+So, how much power does a hot tub really use? And how much does it cost to run? Read on to find out what to expect with regard to hot tub heating costs. (Spoiler alert: It’s probably not as pricey as you think!)
+
+How Much Electricity Does a Hot Tub Demand?
+-------------------------------------------
+
+According to the [National Spa and Pool Institute](https://www.wapa.gov/EnergyServices/Documents/HotTubs.pdf), a hot tub uses, on average, 2514 kilowatts per hour in energy each year. The bulk of this energy goes into heating and circulating the water, and a small amount of power is used for lighting. Even when hot tubs are covered and not being used (in “steady-state” mode), they are still consuming energy — about 75% of their overall expenditures happen during this steady-state period.
+
+The amount of electricity a hot tub will consume varies from hot tub to hot tub, depending on factors like the hot tub’s size, model, age, and features. Older hot tubs tend to be less energy efficient and often have to work harder to heat the water, therefore requiring more power to raise the water temperature to optimal zones. And larger hot tubs obviously have more water to heat, so they may come with higher energy costs as well.
+
+The cost of heating a hot tub over time is an important consideration when shopping for a hot tub, so make sure you don’t just go for the hot tub with the lowest sticker price. Oftentimes, the higher-end hot tubs that are pricier up front are more energy-efficient and will save you money on your monthly power bills over time.
+
+How Much Does It Cost to Run a Hot Tub?
+---------------------------------------
+
+Hot tub energy costs range from about $20 to $60 (CAD 25 to CAD 80) a month. Older, less energy-efficient hot tubs may use a lot of electricity in comparison to newer makes and models, so they tend to fall at the upper end of that monthly range. On the flip side, many modern hot tub manufacturers are now advertising models that average a cost to run of about $1 a day, sometimes even less. Because some hot tub models can heat and circulate using half the energy as others, it’s critical to do your research before buying a new hot tub. A little leg work prior to making a big purchase like this can go a long way, saving you hundreds of dollars in as little as a year.
+
+**More Related Articles:**
+
+*   [How to Care for Your Hot Tub in the Winter: 6 Ways to Keep Your Tub Up and Running](https://www.homeserve.com/en-us/blog/how-to/hot-tub-in-winter/)
+*   [How to Install a Hot Tub](https://www.homeserve.com/en-us/blog/how-to/hot-tub-installation/)
+*   [Putting in a Pool? Here’s Everything You Need to Know](https://www.homeserve.com/en-us/blog/home-improvement/swimming-pools-everything-you-need-to-know/)
+*   [How Much Does Electricity Cost?](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/)
+*   [What Are Time-of-Use Rates and When Is Electricity Cheaper?](https://www.homeserve.com/en-us/blog/how-to/save-electricity-during-peak-hours/)
+
+How Can I Save on Hot Tub Heating Costs?
+----------------------------------------
+
+In addition to buying an energy-efficient hot tub, there are other strategies you can use to help reduce your hot tub energy costs. The key here is to work to reduce heat loss, especially during that energy-guzzling steady-state time when your hot tub is not in use.
+
+One way to keep hot tub energy waste at a minimum is to make sure you have a highly insulated and secure hot tub cover, like one with a radiant heat shield to really help hold the heat in. You might also consider thermal tub insulation to further prevent heat loss and save even more on your power bill. Finally, simply reducing the temperature when your hot tub is not in use will go a long way toward curbing your hot tub running costs. Setting your hot tub to five degrees less than your preferred water temperature is a good rule of thumb here, as doing so will curb costs without taking too much time or energy to reheat before your next dip.
+
+Enjoy the Benefits of a Hot Tub
+-------------------------------
+
+Purchasing a hot tub is rarely an inexpensive venture, and while you can minimize the energy costs over time with certain energy-saving products and strategies, a hot tub is still an investment. It’s ultimately up to you whether or not the costs of owning a hot tub are worth it. However, when it comes to relaxation, there’s not much that can beat a good, long soak in a hot tub that you can call your own.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Does 'Eco Mode' Do?"
+headline: "What Does 'Eco Mode' on Your Air Conditioner Actually Do?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-10-16
+basePath: https://library.homeserve.com/m/
+heroImage: 1ce4a03a94005c61/Blog-EcoMode_LLeazenby_6407.jpg
+heroAltDescription: "Window unit air conditioner with eco mode on"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Switching to eco mode on your air conditioner could help lower the strain on your wallet while caring for the planet."
+articleAbstract: "Do you feel the fear when your summertime energy bills arrive? Switching to eco mode on your air conditioner could help lower the strain on your wallet while caring for the planet."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Does 'Eco Mode' on Your Air Conditioner Actually Do?"
+  parent: Appliances
+---
+  Do you feel the fear when your summertime energy bills arrive? Switching to eco mode on your air conditioner could help lower the strain on your wallet while caring for the planet.
+
+**This May Also Interest You:** [**How to Insulate Wall or Window AC Units for Winter**](https://www.homeserve.com/en-us/blog/how-to/ac-unit-insulation/)
+
+Most modern air conditioners have an “eco mode,” but many homeowners are unsure what this nifty setting actually does.
+
+What Is ‘Eco Mode’ on a Window Unit or Portable Air Conditioner?
+----------------------------------------------------------------
+
+The eco mode on an AC reduces the amount of energy your unit uses. When you activate your air conditioner's eco mode, the unit runs until the surrounding air reaches your preferred temperature. The unit then turns itself off and continues to monitor the temperature inside your home.
+
+The fan also turns off when the air conditioner’s compressor stops running. You can usually select your preferred fan speed in eco mode. Unlike auto mode, the unit won't change the speed automatically based on the ambient temperature.
+
+The unit springs back into action when the surrounding temperature rises above a specific point. How soon the air conditioner turns itself back on depends on the make and model. However, most units reactivate roughly every 10 minutes to check the air temperature. If the air temperature is too high, the compressor starts running again to keep your home cool and comfortable.
+
+The most high-tech air conditioners combine an eco mode with artificial intelligence. These units respond to your preferences to balance energy savings with user comfort.
+
+Advantages and Drawbacks of Eco Mode
+------------------------------------
+
+Besides helping the environment, your AC's eco mode offers several other advantages. Activating the mode minimizes the time the unit compressor runs, reducing the demand on the compressor. Therefore, it can help reduce wear and tear and prolong the lifespan of your unit. Air conditioners typically run quieter on eco mode — ideal if you find the sound of a constantly running AC unit irritating.
+
+However, eco mode isn't always the best way to use your air conditioner. Your unit may struggle to achieve your desired temperature in eco mode if the surrounding air is particularly hot or humid. In this situation, you may be better off running the unit on auto mode until the room cools down and then switching to eco mode.
+
+Is Using the Eco Mode More Environmentally Friendly?
+----------------------------------------------------
+
+How much energy an air conditioner uses in eco mode depends on the brand, temperature and humidity. Most manufacturers restrict the [air compressor speed](https://airconmag.com/save-the-world-what-does-eco-mean-on-air-conditioner/) to around 70% of its capacity to minimize its energy usage. Therefore, operating your AC in eco mode reduces its environmental impact.
+
+However, there are potential downsides to these energy savings. Reducing the compressor speed limits your air conditioner's cooling capacity, so it may shut off slightly before the air reaches your preset temperature. Therefore, you may notice that your room feels hotter while using eco mode than when you run your AC on auto mode.
+
+**More Related Articles:**
+
+*   [What Happens If You Leave Your Window AC Unit in All Winter?](https://www.homeserve.com/en-us/blog/home-improvement/window-ac-unit-during-winter/)
+*   [Keep Your Cool With Our Top 5 Picks for Window AC Units](https://www.homeserve.com/en-us/blog/buying-guide/best-apartment-window-air-conditioners/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [Hot or Cold in Your Household? Split the Difference With a Mini Split Air Conditioner](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/)
+*   [How to Insulate Wall or Window AC Units for Winter](https://www.homeserve.com/en-us/blog/how-to/ac-unit-insulation/)
+
+Does Eco Mode Help Save Money?
+------------------------------
+
+The less energy you use, the lower your energy bills. Therefore, using your air conditioner in eco mode can help you manage your energy consumption, which could be handy if you're on a tight budget. Some units also include motion sensor technology to help cut your energy usage even further. These models detect when you leave the room and shut off the compressor, so you won't spend money cooling an empty room.
+
+Running your air conditioner on eco mode can also help you save money on air conditioner repairs by reducing pressure on the compressor. The cost of repairing a faulty compressor can be steep. According to data from [HomeGuide](https://homeguide.com/costs/ac-repair-cost), replacing an air conditioner compressor costs $600 to $1,200 (CAD 815 to CAD 1,629) on average, while installing a hard-start kit to fix a worn compressor costs between $100 and $270 (CAD 136 to CAD 367).
+
+Should I Use My Air Conditioner's Eco Mode?
+-------------------------------------------
+
+Using your air conditioner's eco mode could be an excellent option for cooling your home on a budget, especially if you live in a relatively mild climate with low humidity. It can also help you reduce your home's carbon footprint. However, eco mode may not be adequate in hot places with high humidity.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/J1jEVTAq4io?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Change Your Ceiling Fan Direction"></iframe>

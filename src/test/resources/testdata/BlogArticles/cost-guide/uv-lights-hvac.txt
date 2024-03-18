@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Do UV Lights Cost for HVAC Systems?"
+headline: "How Much Do UV Lights Cost for HVAC Systems?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-06-20
+basePath: https://library.homeserve.com/m/
+heroImage: b2df40440d3bd5/Blog-GettyImages-147334230.jpg
+heroAltDescription: "Close up shot of UV bulbs for use in HVAC systems"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "UV lights for HVAC systems create efficiency and savings that can help you recuperate the costs of installation."
+articleAbstract: "UV lights can be an effective tool to improve indoor air quality and boost the performance of your HVAC unit. In some cases, UV lights for HVAC systems create efficiency and cost savings that can help you recuperate the costs of installation."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Do UV Lights Cost for HVAC Systems?"
+  parent: HVAC-Cost-Guide
+---
+  UV light provides more than a reason to slap sunscreen on at the beach. It can be an effective tool to improve indoor air quality and boost the performance of your HVAC unit.
+
+**This May Also Interest You:** [**Does My HVAC Filter Protect Against COVID-19?**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-filter-covid-19/)
+
+In some cases, UV light systems for HVAC create efficiency and cost savings that can help you recuperate the costs of installation.
+
+Why Would Someone Want UV Lights in Their HVAC System?
+------------------------------------------------------
+
+### UV Rays Kill Pollutants and Germs
+
+UV rays emit a wavelength of light that is absorbed by harmful pollutants. This kills the DNA of [some germs, viruses, bacteria](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/uv-lights-and-lamps-ultraviolet-c-radiation-disinfection-and-coronavirus), mold spores and fungi passing through the system. This can help control mold growth and control the spread of disease.
+
+### Improved Airflow and Costs
+
+The germicidal properties of HVAC UV lights prevent a build-up of microbial matter in the system. Otherwise, over time, this build-up restricts the flow of air in the HVAC and causes the unit to be less effective, less energy-efficient and more costly to run. In the long run, installing UV lighting to your HVAC system can save you money, with UV systems allowing HVAC units to run at [up to 35% higher efficiency](https://www.heatingforlife.com/4-benefits-of-uv-lights-for-your-hvac-system/).
+
+**More Related Articles:**
+
+*   [Smart HVAC Filters: What Are They and How Do They Work?](https://www.homeserve.com/en-us/blog/home-improvement/smart-hvac-filters/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [Replacing Your HVAC Air Filters Is a Breeze! Follow These 7 Steps…](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [An Owner’s Guide to Air Purifier Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/air-purifier-maintenance/)
+*   [Ionizer Vs. Air Purifier: What’s the Difference?](https://www.homeserve.com/en-us/blog/buying-guide/ionizer-vs-air-purifier/)
+
+How Much Does It Cost to Install UV Lights in Your HVAC System?
+---------------------------------------------------------------
+
+According to [HVAC Boss](https://hvac-boss.com/faq/hvac-uv-light-everything-you-need-to-know/), the costs of HVAC UV light installation can range from $160 to $1,000 (CAD 200 to CAD 1,275), but what you pay depends on what kind of lights you install.
+
+### Coil-Sanitizing Lights
+
+Coil-sanitizing lights are installed to run constantly and placed to tackle areas most sensitive to microbial growth. If you have central air-conditioning, the HVAC coil is a prime spot for bacteria and mold growth because moisture collects here, and debris attaches to the wet surface. UV light can kill the growth before it becomes harmful.
+
+* **Light cost:** $60 to $285 (CAD 75 to CAD 360)
+* **Installation cost:** $100 to $225 (CAD 130 to CAD 290)
+* **Lamp cost:** $10 to $60 (CAD 13 to CAD 75)
+
+### Air-Sanitizing Lights
+
+Air-sanitizing lights are installed to disinfect air as it travels through the air ducts. This prevents airborne germs and mold from flowing through the duct.
+
+* **Light cost:** $80 to $400 (CAD 100 to CAD 500)
+* **Installation cost:** $150 to $295 (CAD 190 to CAD 375)
+* **Lamp cost:** $15 to $125 (CAD 19 to CAD 160)
+
+Although there are higher material and installation costs for this type of light, they result in lower running costs as they are not designed to be on all the time.
+
+Factors That Can Impact the Cost
+--------------------------------
+
+* **Installation:** DIY installation saves money and is possible, but it's recommended that you have at least mid-level experience with this kind of project. Check the warranty conditions of your unit before you install the lights yourself.
+* **Wavelength:** UV lights can be purchased at higher wavelengths, but the cost is generally more. However, they are more effective, as the light can travel further into germs.
+* **Special features:** You can purchase a range of other items to modernize your system. For example, an LED display system alerts you when maintenance is needed, or auto-sensing smart ballasts can display exactly where a problem is in the system.
+
+If you have problems with mold growth in your HVAC unit or mildew in the house, or you're worried about your air quality, installing UV units can be an effective solution.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

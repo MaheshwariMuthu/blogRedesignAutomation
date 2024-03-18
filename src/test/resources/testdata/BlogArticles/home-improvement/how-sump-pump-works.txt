@@ -1,0 +1,113 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How Does a Sump Pump Work?
+headline: 'Sump Pumps: Everything You Need to Know'
+author: Kim Causey
+tags: ['post']
+publishDate: 2021-01-04
+basePath: https://library.homeserve.com/m/
+heroImage: 2f94d603f3f6fd03/Blog-GettyImages-1059362956.jpg
+heroAltDescription: A sump pump in a well with some water around it
+metaDescriptions: Sump pumps are critical to houses that are prone to basement flooding. Learn all about what a sump pump does, how it works and the different types of sump pumps.
+articleAbstract: Sump pumps are critical to houses that are prone to basement flooding. Learn all about what a sump pump does, how it works and the different types of sump pumps.
+category: ['Home Improvement']
+eleventyNavigation:
+  key: How Does a Sump Pump Work?
+  parent: Interior-Home-Home-Improvement
+---
+
+Coming home to a flooded basement is a nightmare scenario for homeowners. A sump pump can protect your home and help you avoid costly cleanup and repairs to structural damage. But what is a sump pump, exactly?
+
+**This May Also Interest You:** [**What To Do When Your Basement Floods**](https://www.homeserve.com/blog/2019/september/basement-flooding)
+
+Read on to learn all about what a sump pump does, how it works, the different types and much more.
+
+## How Does a Sump Pump Work?
+
+A sump pump moves water from your basement out of your home. The sump is a naturally constructed pit, commonly a hole carved below the main surface of your basement floor. The pit is also known as the basin and is what holds the sump pump.
+
+The pump has valves that can sense rising water levels. When the water gets too high, the sump pump automatically knows to pump excess water out of the basement. The water is pumped away from your property using a discharge line.
+
+## Where Should a Sump Pump Drain To?
+
+You want to remember to set your drain point away from the house and somewhere where it won&#39;t return. Some good options are a dry well, a creek or pond, or even a neighborhood drain.
+
+Ideally, you want to keep the drainage point 10 to 20 feet away from the foundation of your home. Some cities have building codes that determine where your sump pump can channel water to, so make sure you check your local building codes.
+
+## Sump Pump Components
+
+A sump pump is composed of many different parts, and each part plays a critical role in keeping your basement dry. Here are the nine primary components:
+
+<img class="detail-image" src="https://library.homeserve.com/m/6752ceee29082ebb/Blog-182498744.jpg" alt="sump pump basin with pvc pipe"/>
+
+### 1. Sump Liner
+
+An open sump pit is unsightly and hazardous, and can be prone to clogging with debris. Using a durable plastic sump liner that also has an airtight-fit lid will help with this. The lid contains a one-way drain in case standing water needs to drain into the liner.
+
+### 2. Sump Pump Alarm
+
+A battery-powered alarm is built into the top of the liner&#39;s lid. It&#39;ll sound automatically if the water level in the liner rises above the top of the pump.
+
+### 3. Zoeller Sump Pump
+
+Most people consider these the best pumps you can get. They have cast-iron housings and a very powerful motor. They can handle long run times and heavy pumping volumes that tend to overwhelm other pumps.
+
+### 4. Float Switch
+
+The most common type of activation mechanism is a floating switch. It&#39;s made up of a plastic float attached by a thin shaft to the switch. When the water pushes the float upward, the switch turns the motor on and the sump pump begins to work.
+
+### 5. Pump Stand
+
+The pump rests or sits on a specially designed pedestal that prevents small objects and debris from clogging the intake.
+
+### 6. Check Valve
+
+These types of valves are installed on the drain line; a one-way check valve prevents water from flowing back into the sump pump. Sometimes it&#39;s also found in the water inlet.
+
+### 7. Battery Backup
+
+This is used as a power source on your current sump pump. The battery backup is usually mounted on a wall and connected to the sump pump.
+
+### 8. Discharge
+
+This component helps funnel the water into the discharge pipe, which leads the water out of the sump.
+
+### 9. Discharge Pipe
+
+These pathways often comprise PVC pipe and carry the water being pumped out away from the home.
+
+## Types of Sump Pumps
+
+There are several types of sump pumps you should consider before making a purchase. Choose a pump with enough horsepower to handle the amount of flooding you&#39;re likely to have. Different pump types include:
+
+### Submersible Sump Pumps
+
+Submersible sump pumps contain the pump and motor in one unit. They sit submerged and closed inside a basin in your basement. They&#39;re often quieter and less prone to clogging, and save space. The drawbacks of these units include that they may not last as long as other sump pumps. However, if you have major flooding concerns, submersibles are still your best option.
+
+### Pedestal Sump Pump
+
+Pedestal sump pumps consist of a separate motor and pump. The motor sits on a pedestal above the basin, with a hose running to the basin, where the pump is located. The pump sends water through the hose and out to the drain area. Because the motor isn&#39;t submerged, it has a longer lifespan and can be accessed easily for maintenance. The cons include that it can be loud and take up significant space in your basement.
+
+### Battery-Operated Backup
+
+A battery-operated backup is often used to provide some extra security from flood damage. They&#39;re able to operate even when the power is out — especially important during a storm.
+
+### Water-Powered Backup
+
+Water-powered backup clears the water in your basin with increased water pressure. Because it uses water, there&#39;s no need to monitor the backup or replace any batteries. It can raise your water bill, and some cities prohibit them — so, again, consult your area&#39;s building codes.
+
+## Frequently Asked Questions
+
+### What is the Cost of a Sump Pump?
+
+Generally, a basement submersible sump will cost anywhere from $100 to $400, depending on how much horsepower and what flow rate you chose for your home.
+
+### Are Sump Pumps Necessary?
+
+Sump pumps are necessary for homes that are prone to flooding.
+
+### Why Do Sump Pumps Fail?
+
+Sump pumps can fail due to installation, machine and lifespan issues. They have a typical lifespan of seven to 10 years.
+
+_If your basement has flooded or you simply want to be prepared for the what-if&#39;s, contact HomeServe today. Have peace of mind knowing you&#39;re prepared with a home repair plan._

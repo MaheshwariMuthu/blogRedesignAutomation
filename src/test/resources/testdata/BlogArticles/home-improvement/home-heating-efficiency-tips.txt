@@ -1,0 +1,102 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Heating your Home efficiently
+headline: How to heat your Home efficiently
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment']
+publishDate: 2020-01-30
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: home-heating-efficiency-02-full.jpg
+heroAltDescription: Cleaning Outside AC Unit
+metaDescriptions: Learn how to prevent heat loss, increase central heating efficiency and save money on your heating bills.
+articleAbstract: Heating your home efficiently is essential during the winter months. Check out these tips to help prevent heat loss and save money on your heating bills.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Heating your Home efficiently
+  parent: HVAC-Home-Improvement
+---
+
+::: blog-info
+In [the dead of winter](/en-us/blog/how-to/snow-storm-preparation){target="_blank"}, when the rest of the fam is out and about doing their weeknight routines, I love bundling up under a few furry blankets by myself with a good movie to watch.
+
+[1]: /en-us/home-warranty/combo/
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+:::
+
+Last night, I was sobbing along to one of my all-time favorite classics, _An Affair to Remember_, repeating every little line Cary Grant and Deborah Kerr delivered... “Winter must be cold for those with no warm memories...” (Can’t help it! Cue the waterworks!)
+
+While I have tons of warm memories in my home, it does get pretty cold when the heating system isn’t working right.
+
+Here’s what you can do to boost your home heating efficiency:
+
+## Free the vents
+
+Move your furniture so it doesn’t absorb heat or block any heating vents. In the living room, that means shifting the couch away from the wall and making sure your floor-to-ceiling curtains aren’t obscuring the registers or return vents. Removing obstacles is especially important in a forced-air system that relies on a correct pressure balance.
+
+Also, if you have radiators, it may be tempting to scoot your comfiest seating right next to them to catch the warmth. But your comfy box of upholstered foam will only absorb the warmth and prevent the hot air from circulating freely.
+
+[Learn More About Home Repair Plans Near You](/en-us/home-warranty/combo/){target="_blank"}
+
+## Stop drafts in their tracks
+
+Seal up gaps around the windows and doors with caulk, rubber seals or draft stoppers. These will prevent heat from escaping and cold air from rushing in to keep you cozy indoors.
+
+## Get smart about your thermostat
+
+Put your central heating on a timer with a programmable thermostat. Instead of waiting until you wake up or get home to a cold abode and cranking up the heat, set your thermostat to come on about 30 minutes before you need it, but at a lower temperature.
+
+Remember, while smart home tech can be expensive up-front, it can help you save money and cut down your energy bills in the long run.
+
+## Dial it back
+
+According to the Department of Energy, homeowners can save up to 10% on heating bills by turning the temperature down about 7-10°F for just eight hours a day. The DOE advises setting your thermostat to [68°F when you're at home](http://energy.gov/energysaver/articles/thermostats){target="_blank"} and awake during the winter and going down to 60°F when you go out.
+
+## Exercise curtain control
+
+Take advantage of free heat and open your curtains when the sun’s out. (Here’s looking at you, south- and west-facing windows!) Then, when it’s dark, close your curtains for an extra layer of insulation. Passive solar control is a simple strategy for saving energy and heating and cooling costs.
+
+[Learn More About Home Repair Plans Near You](/en-us/home-warranty/combo/){target="_blank"}
+
+## Strive for insulation excellence
+
+According to the National Insulation Association, uninsulated attics and roofs account for [a quarter of all heat lost](https://www.nia-uk.org/){target="_blank"}, while uninsulated walls are responsible for one-third of the heat lost in the home. By including new or improved attic or wall insulation you can trap this warmth inside.
+
+On a related note, if you have radiant heating, install simple radiator reflector panels or foil behind the fixtures. This will bounce the warm air back into your room so it doesn’t just seep out of the walls.
+
+## Ensure water heater wellness
+
+Keep your [hot water tank](/en-us/blog/buying-guide/tankless-water-heater){target="_blank"} insulated properly, too, and replace the old “jacket” for a new one. Also, turn the water heater down to around 110-120°F. Any higher and you could be wasting money just to keep your tap water scalding. (Ouch.)
+
+## Put the right spin on your ceiling fans
+
+Run your fan clockwise at the lowest speed during the winter. This way, the blades can pull cool air upwards and force the warm air to circulate back down into the room. Home Depot estimates [15% savings on your heating bill](https://www.homedepot.com/c/ah/ceiling-fan-direction-in-summer-and-winter/9ba683603be9fa5395fab9036ab25bf){target="_blank"} just by getting this right!
+
+## Location, location, location
+
+Put your thermostat in the right spot. For the most accurate readings, it should be away from windows or doorways, direct sunlight, drafts and furniture. Basically, you need a neutral spot that’s not inhibited or enhanced by any other factors.
+
+[Learn More About Home Repair Plans Near You](/en-us/home-warranty/combo/){target="_blank"}
+
+## Take an old-school approach
+
+Wood-burning [fireplaces](/en-us/blog/cost-guide/gas-fireplace-installation-cost){target="_blank"} and ovens are really good at heating the home, especially if you can find free wood scraps to char on a chilly night. Just don’t forget that flu season is also [close-the-flue season](https://www.thisoldhouse.com/ideas/keeping-warm-less){target="_blank"}.
+
+## Winterize your family
+
+Keep the kids (and yourself) dressed appropriately for the cold temps, serve up hot meals and load on the blankets at night.
+
+## Schedule a heating system check-up
+
+Annual furnace maintenance can make a difference in your heating. Clean out exhaust filters and have a professional come by for a tune-up to get ahead of any potential issues. Or, take things up a notch and upgrade to a new, energy-efficient heating system.
+
+Having a home warranty plan in place is a one way to keep your home’s heating systems running smoothly. [Look to TotalHome Warranty by HomeServe](/en-us/home-warranty/combo/){target="_blank"} to find the right plan for you and your homeowner needs.
+
+::: blog-info-top-margin
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+:::
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6RoqfIe7HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

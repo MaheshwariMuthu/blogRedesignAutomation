@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Does a Pellet Stove Work"
+headline: "How Does a Pellet Stove Work?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-01
+basePath: https://library.homeserve.com/m/
+heroImage: 534c54e132047067/Blog-PelletBurningStove_USDAgov_0001.jpg
+heroAltDescription: "Wood pellet burning stove"
+metaDescriptions: "Pellet stoves are energy-efficient, but they're not the right heat source for every home. Here's how they work."
+articleAbstract: "If you're looking for an eco-friendly heat source, a pellet stove could provide the solution. These energy-efficient stoves offer various advantages, but they're not right for every home. Here's how they work."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Does Wood/Pellet-Burning Home Heating Work?"
+  parent: HVAC-Home-Improvement
+---
+  Gas fireplaces and wood-burning stoves are popular choices for heat in American homes, but they also use fuel sources that can be expensive and aren't necessarily sustainable. If you're looking for an eco-friendly alternative, a pellet stove could provide the solution.
+
+**This May Also Interest You:** [**How Much Does a Gas Fireplace Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/gas-fireplace-installation/)
+
+These energy-efficient stoves offer various advantages, but they're not right for every home. Here's how they work.
+
+How Does a Pellet Stove Heat Your Home?
+---------------------------------------
+
+As the name suggests, pellet stoves use small cylindrical pellets as a fuel source. The pellets are made from waste wood or other sustainable resources and are stored in the stove's hopper until they're needed. The auger then delivers pellets to the firebox, where they are burned to warm the room up. You'll need to light some cheaper pellet-burners yourself, but most models light themselves using an electric auto-ignition. Dual fans then ventilate the fire to keep it burning and blow hot air over the exchangers to heat the stove and increase the room temperature.
+
+One of the key differences between a pellet-burner and a regular wood-burning stove is that a pellet-burner has a thermostat. The warmer you want the room, the more pellets the auger releases until you achieve your desired temperature. Unlike a regular fireplace, pellet stoves have side vents that carry exhaust gases outside through an exterior wall. Therefore, you don't need a chimney to install a pellet stove in your home.
+
+Are Pellet Stoves Efficient?
+----------------------------
+
+According to the [Department of Energy](https://www.energy.gov/energysaver/heat-and-cool/home-heating-systems/wood-and-pellet-heating), EPA-certified pellet stoves offer a higher heating value (HHA) efficiency of between 70% and 83%. This makes pellet stoves significantly more efficient than regular wood-burners. They're also more efficient than non-catalytic combustion stoves, which burn fuel at an HHA efficiency between 65% and 75%. Overall, the efficiency of pellet stoves is comparable to that of catalytic wood stoves.
+
+However, it's essential to choose the correct pellet stove size for your interior space if you want it to operate efficiently. Purchasing a stove that's too big means that you'll need to burn it on a low setting to avoid overheating the room. Counterintuitively, this actually uses more fuel and creates more pollutants. Conversely, a stove that's too small won't be powerful enough to reach your desired room temperature.
+
+Will a Pellet Stove Work Without Electricity?
+---------------------------------------------
+
+The vast majority of pellet stoves need an electricity source to power the auto-ignition. While their electricity consumption is relatively low, this could be an issue if you rely on your pellet heater to heat your home and experience a power outage in cold weather. Installing a battery backup system is the most straightforward way to ensure that you can continue to use your pellet stove during an outage.
+
+However, a few pellet stove models don't have auto-ignition and don't require electricity to function. Instead, you'll need to use a propane torch to ignite the fuel pellets. While this requires extra effort, it's still quicker and more straightforward than lighting a log fire.
+
+**More Related Articles:**
+
+*   [How to Light a Gas Fireplace: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/light-gas-fireplace/)
+*   [Do You Need to Hire a Chimney Sweep?](https://www.homeserve.com/en-us/blog/home-improvement/chimney-sweep-advice/)
+*   [How Much Does a Chimney Inspection Cost?](https://www.homeserve.com/en-us/blog/cost-guide/chimney-inspection/)
+*   [Why Am I Using So Much Heating Oil? Here’s How to Reduce Your Consumption](https://www.homeserve.com/en-us/blog/how-to/reduce-heating-oil/)
+*   [How Does Heating Your Home With Oil Work — and Who’s Still Using It?](https://www.homeserve.com/en-us/blog/home-improvement/home-heating-oil/)
+
+What Are the Pros and Cons of a Pellet Stove?
+---------------------------------------------
+
+It's important to understand the advantages and drawbacks of pellet stoves to help you decide if this is the right heating option for your home. Here are the main pros and cons of pellet stoves:
+
+### Pros
+
+*   Produce [less pollution](https://www.energy.gov/energysaver/heat-and-cool/home-heating-systems/wood-and-pellet-heating) than any other solid-fuel heater
+*   Cheaper to install than regular wood-burning stoves
+*   Easy to operate, maintain and clean
+*   Provide greater temperature control than wood-burners because they have a thermostat
+*   Easier to store than wood fuel and take up less space
+
+### Cons
+
+*   Most require electricity and need a battery backup
+*   Slightly noisier than a traditional wood-burning stove
+*   Don't provide the aesthetic appeal of a flickering wood fire

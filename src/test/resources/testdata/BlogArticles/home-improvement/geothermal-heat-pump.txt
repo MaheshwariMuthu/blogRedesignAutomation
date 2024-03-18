@@ -1,0 +1,60 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Geothermal Heat Pump?"
+headline: "What Is a Geothermal Heat Pump?"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2023-11-07
+basePath: https://library.homeserve.com/m/
+heroImage: 26f9be9049eed37f/Blog-GettyImages-1444132679.jpg
+heroAltDescription: "Geothermal heating and cooling system structure with ground source heat pump"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Geothermal heat pump systems take advantage of below-ground temperature consistency to keep your home comfy."
+articleAbstract: "Ground temp can vary based on where you live, but it's a lot cooler than summer air and warmer than winter air. Geothermal heat pump systems take advantage of that below-ground temperature consistency to keep your home comfy."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is a Geothermal Heat Pump?"
+  parent: HVAC-Home-Improvement
+---
+  While you're sweating and freezing your way through the seasons, the ground just a few feet below your feet stays a steady, comfortable temperature.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install a Heat Pump?**](https://www.homeserve.com/en-us/blog/cost-guide/heat-pump/)
+
+The exact ground temp can vary based on where you live, but it's a lot cooler than summer air and warmer than winter air. Geothermal heat pump systems take advantage of that below-ground temperature consistency to keep your home comfy.
+
+What Is a Geothermal Heat Pump?
+-------------------------------
+
+A ground source heat pump, also known as a geothermal heat pump, is a specific type of heat pump that uses the ideal temperatures below the ground to keep your home comfortable. Most climates have at least some temperature swings above ground. Some areas drop below freezing in the winter and reach 80 degrees Fahrenheit or higher in the summer.
+
+But below the ground, the temperatures are a lot more stable. When you're sweating through your shirt the minute you step outside, the ground a few feet below is cool and comfortable. In the winter when your nose hairs freeze with each inhale, the ground is a lot warmer.
+
+While it's called a heat pump, the system both heats and cools for year-round comfort. It takes advantage of those comfortable temperatures below the ground to adjust the temperature inside your home. The system transfers heat between the ground and your home's air based on the season. In the winter, it transfers heat from the ground into your home, and in the summer, it moves heat out of your home.
+
+How Does It Work?
+-----------------
+
+Geothermal heat pump systems include large loops of pipes that are buried underground. Liquid flows through the pipes to move the heat based on the season. The loops connect to the indoor unit so the heat can move between your home and the ground.
+
+The indoor geothermal heat pump uses a typical refrigeration cycle to heat or cool your home. When you want to heat your home, the liquid in the underground loops collects heat from under the ground. It goes into the heat pump via a heat exchanger so the heat can circulate through your home. In the summer, the indoor heat pump pulls heat from the home and moves it into the ground through the loops, which helps cool your home.
+
+**More Related Articles:**
+
+*   [What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+*   [How Much Does It Cost to Install or Replace an Air Handler?](https://www.homeserve.com/en-us/blog/cost-guide/air-handler/)
+*   [HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+
+Is Geothermal More Efficient Than a Traditional Heat Pump?
+----------------------------------------------------------
+
+Traditional heat pumps are called air-source heat pumps. They work similarly to geothermal heat pumps in that they transfer heat in and out of your home, depending on whether you want to heat or cool it. The main difference is where the heat comes from. An air-source heat pump transfers it from the outside air instead of the ground.
+
+Both types of heat pumps are typically more efficient than other heating systems since they transfer heat, rather than heating the air. However, geothermal heat pumps usually give you better efficiency than air-source systems. That's because the temperature below the ground is relatively consistent year-round, so they don't have to work a lot harder during periods of extreme temperatures. Since air-source heat pumps have to contend with temperature changes, they often have to work harder to transfer heat appropriately to keep your home comfortable.
+
+Is a Geothermal Heat Pump a Good Idea?
+--------------------------------------
+
+Geothermal heat pumps are a lot more efficient than other types of heating and cooling systems, so they can save you a lot of money on utility bills. However, the initial installation is often very costly since the contractor has to dig into the ground and install the loops. Getting estimates for various types of heating and cooling systems can help you choose one that fits your budget.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-vh1RDJC1M8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Change an HVAC Filter"></iframe>

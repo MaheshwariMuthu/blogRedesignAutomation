@@ -1,0 +1,48 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a BTU? BTUs Explained"
+headline: "What Is a BTU?"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-04-29
+basePath: https://library.homeserve.com/m/
+heroImage: 44f48947214213a2/Blog-GettyImages-178607562.jpg
+heroAltDescription: "Inside a Natural Gas Furnace"
+metaDescriptions: "Shopping for an air conditioner or furnace and come across a metric called BTUs? Here's the 411 on BTUs."
+articleAbstract: "BTU stands for British thermal unit. BTUs are a measure of the heating — or cooling — power of an appliance. Here's the 411 on BTUs."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is a BTU?"
+  parent: Electrical-Home-Improvement
+---
+  
+
+BTU stands for British thermal unit. According to the [U.S. Energy Information Administration](https://www.eia.gov/energyexplained/units-and-calculators/british-thermal-units.php), a single BTU is the amount of energy it takes to heat 1 pound of water by 1 degree Fahrenheit. One BTU, for example, is about the same amount of energy that’s released from burning a single match.
+
+**This May Also Interest You:** [**What is a SEER Rating for AC Units (and Why Should You Care)?**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-a-seer-rating/)
+
+For appliances, BTUs are a measure of heating — or cooling — power. You might compare BTU ratings if you’re shopping for:
+
+*   Heaters
+*   Furnaces
+*   Heat pumps
+*   Water heaters
+*   Gas grills
+*   Air conditioners
+*   … or any other kind of system that heats or cools
+
+When it comes to furnaces or heaters, BTUs are a measurement of heat output. According to [Trane](https://www.trane.com/residential/en/resources/glossary/what-is-btu/), the higher the BTU rating of a unit, the higher the heat capacity.
+
+<img class="detail-image" src="https://library.homeserve.com/m/54c457114831e25f/original/air-conditioner-fan_Erossi_184376818.gif" alt="exterior HVAC air conditioner unit fan"/>
+
+With air conditioners, BTUs denote how much heat a unit can _remove_ per hour. Window units have cooling capacities between 5,000 and 12,000 BTUh, or [BTUs per hour](https://www.trane.com/residential/en/resources/glossary/what-is-btuh/). Here, too, a higher number means more power. Central air conditioning units are usually rated in tons. One ton is equal to 12,000 BTUs. Central air systems have cooling capacities between 20,000 and 60,000 BTUh.
+
+Some HVAC units have two BTU ratings: input and output. The input number is what we have been referring to — the gross heating or cooling capacity of your unit if it operates at 100% efficiency, according to [eHow](https://www.ehow.com/info_12179284_input-btu-output-btu.html). But your unit almost never operates at that level. So, the output rating is a measurement of how much of that heating or cooling power you’ll _actually_ experience.
+
+**More Related Articles:**
+
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/what-size-air-conditioner-do-i-need/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [Hot or Cold in Your Household? Split the Difference With a Mini Split Air Conditioner](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/)
+*   [Electric Vs. Gas Heaters: Which Kind Is Best for Your Patio?](https://www.homeserve.com/en-us/blog/home-improvement/gas-versus-electric-patio-heater/)
+*   [Need a New Furnace? Here’s What You Should Know](https://www.homeserve.com/en-us/blog/cost-guide/new-furnace-cost/)

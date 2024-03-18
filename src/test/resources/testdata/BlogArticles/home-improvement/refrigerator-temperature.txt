@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Temperature Should A Refrigerator Be?"
+headline: "What Temperature Should Your Fridge Be?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-11-19
+basePath: https://library.homeserve.com/m/
+heroImage: 2612fed5f3619086/Blog-FridgeTemperatureSetting_MSchmitz_0001.jpg
+heroAltDescription: "A person s finger adjusts the temperature control of a refrigerator"
+metaDescriptions: "Having the correct fridge temperature keeps your food safe and of good quality, keeping you from getting sick."
+articleAbstract: "How cold is your fridge? Having the correct refrigerator temperature keeps your food safe and of good quality so you don't get sick or waste food that goes bad. Here's what you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Temperature Should Your Fridge Be?"
+  parent: Appliances
+---
+  What temperature should a refrigerator be? You want that ice-cold soda to be the perfect temperature when you take that first sip, but you don't want soggy or frozen food that results if the temperature dips down to the arctic range.
+
+**This May Also Interest You:** [**Iced Out? Why Your Fridge Is Freezing Over**](https://www.homeserve.com/en-us/blog/home-improvement/ice-buildup-fridge/)
+
+Having the correct refrigerator temperature keeps your food safe and of good quality so you don't get sick or waste food that goes bad.
+
+What Temperature Should a Fridge Be?
+------------------------------------
+
+The [Food and Drug Administration](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely) says your fridge temperature should stay at 40 degrees Fahrenheit (4 degrees Celsius) or lower at all times. Aim for 35 to 38 degrees F (2 to 3 degrees C) for optimal conditions to keep your food in good shape. This keeps the fridge warm enough to keep your food from freezing. It also gives you a comfortable buffer before it nears the point of rapid bacterial growth.
+
+What Temperature Should the Freezer Be?
+---------------------------------------
+
+Even though food can start to freeze at 32 degrees F (0 degrees C), your freezer needs to be quite a bit colder to keep the food safe and long-lasting. Freezer temperatures need to be 0 degrees F (-18 degrees C) or colder to keep food properly frozen. This temperature slows down the deterioration that naturally happens to food to keep it fresh for longer.
+
+Don't worry about freezer burn at these low temperatures. Freezer burn can happen when your frozen food is exposed to air due to poor packaging, no matter what temperature your freezer is. If freezer burn is a frequent issue, change how you package the items to keep them protected from the air.
+
+What Can Happen If a Fridge or Freezer Is Kept Too Cold?
+--------------------------------------------------------
+
+Letting your refrigerator temperature get too low can cause freezing issues, including an iced-over fridge or fresh food that becomes frozen. Once food items reach 32 degrees F (0 degrees C), things can start to freeze. Some refrigerated foods are fine if they freeze a little, but others get ruined. For example, meat that starts to freeze will be fine, but lettuce that freezes typically turns mushy. 
+
+In the freezer, temperatures that are too low can cause frost to develop on surfaces. This happens if the temperature is so low that the freezer can't get rid of moisture. But frost can also happen if you leave the door open or the gaskets aren't tight and outside air gets into the freezer. Extremely low temperatures don't usually affect the food quality, but they will increase your electric bill because it takes more energy to keep the freezer that cold.
+
+What Can Happen If a Fridge or Freezer Is Kept Too Warm?
+--------------------------------------------------------
+
+If the temperature creeps up past 40 degrees F (4 degrees C) in the refrigerator, you increase the risk of bacterial growth on your food. The bacteria start to multiply quicker the warmer the refrigerator temperatures get. That's how you end up with food poisoning. It can also cut the shelf life of your food, which can increase food waste. 
+
+A freezer that’s too warm keeps the food from staying frozen solid. You might notice your ice cream gets soft or other frozen food items aren't as solid as normal. This can cause them to deteriorate faster, lowering the quality or forcing you to throw the food away. 
+
+**More Related Articles:**
+
+*   [Fridge Filthy? Here’s Your 7-Step Deep-Cleaning To-Do List](https://www.homeserve.com/en-us/blog/how-to/refrigerator-cleaning/)
+*   [We Gotta Move These Refrigerators: A Step-by-Step Guide to Moving Your Fridge](https://www.homeserve.com/en-us/blog/how-to/move-refrigerator/)
+*   [Ever Cleaned Your Refrigerator Coils? Sure, We Believe You (But Here’s How, Just in Case)](https://www.homeserve.com/en-us/blog/how-to/clean-refrigerator-coils/)
+*   [5 Best Smart Refrigerators for Various Household Needs](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-refrigerators/)
+*   [How to Change the Direction Your Refrigerator Door Swings](https://www.homeserve.com/en-us/blog/how-to/adjust-refrigerator-door-swing/)
+
+How to Check the Temperature
+----------------------------
+
+Using a thermometer to check the temperature occasionally helps you monitor your fridge and freezer. It's a good idea to use a freestanding thermometer for accuracy instead of relying on a built-in thermometer. The temperature can vary in different parts of the fridge, especially in older appliances. Placing the thermometer in different locations helps you ensure that all parts of the fridge are at or below 40 degrees F (4 degrees C).
+
+You might also notice something is off based on the food. For example, if your refrigerated food starts to freeze, it's a sign to check the temperature to see if it's too low. If your frozen food doesn't seem solid, make sure the temperature isn’t too high.
+
+What to Do If Your Freezer or Refrigerator Temperature Is Off
+-------------------------------------------------------------
+
+Start by adjusting the refrigerator temperature setting in the fridge or freezer. Keep the thermometer inside and check back a few hours later to see if the temperature is within the recommended range. If this doesn't help, try redistributing and organizing the food, making sure nothing covers the air vents or fans. This helps improve air circulation, which is important for keeping the space cool.
+
+Leaking or damaged door seals can also be to blame if it doesn't stay cool enough. Cleaning your refrigerator might also help, especially if you clean the gasket to help it get a good seal and the coils to keep the appliance running efficiently.

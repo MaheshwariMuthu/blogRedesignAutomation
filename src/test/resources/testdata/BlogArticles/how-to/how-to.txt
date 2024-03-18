@@ -1,0 +1,8 @@
+---
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/category/how-to/', 'en-us'], ['https://www.homeserve.co.uk/living/how-to/', 'en-gb']]
+eleventyNavigation:
+  key: How To
+  parent: Blog
+  url: /en-us/blog/category/how-to/
+permalink: false
+---

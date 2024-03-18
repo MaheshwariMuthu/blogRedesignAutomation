@@ -1,0 +1,50 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "CES 2024: All-in-One Appliance Washes, Dries Clothes in Same Machine, Lightening Your Laundry Load"
+headline: "CES 2024: All-in-One Appliance Washes, Dries Clothes in Same Machine, Lightening Your Laundry Load"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2024-01-03
+basePath: https://library.homeserve.com/m/
+heroImage: 685db3ceba1fa1a4/Blog-GEProfile2-in-1.jpg
+heroAltDescription: "Product image of GE two in one washer dryer"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A new GE washer-dryer combo completely changes what you thought such a system could be. Here's all you need to know about this CES Innovation Award Honoree"
+articleAbstract: "A new GE washer-dryer combo completely changes what you thought such a system could be. Here's all you need to know about this CES Innovation Award Honoree."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "CES 2024: All-in-One Appliance Washes, Dries Clothes in Same Machine, Lightening Your Laundry Load"
+  parent: Appliances
+---
+  If you've ever done your laundry in a combination washer and dryer, you know that the too-good-to-be-true concept is often exactly that — and that actually using one kinda, well … _soaks_. The new [GE Profile UltraFast with Ventless Heat Pump Technology](https://www.geappliances.com/ge/connected-appliances/ultrafast-2-in-1-washer-dryer-combo) aims to redeem the all-in-one washer-dryer by delivering on its promise of having to load and unload your laundry only once per job — and it’s been successful enough in doing so to have been named a 2024 CES Innovation Award Honoree.
+
+**This May Also Interest You:** [**What Do You Do With an Old Appliance? How to Recycle Fridges, Washers, Ovens and More**](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+More widely found in Europe, the idea behind these mixed machines is great: You put all your laundry in at once, the machine cleans then dries, you take out your clothes to fold them and you're done. No need to move wet clothes to a second machine to get them dry. The reality of combo washer-dryers is something else entirely, though. Usually, the cycles take over four hours, the capacity is small and even when the machine is done, you often have to hang your clothes on a drying rack anyway because they're still damp.
+
+CES (formerly known as the Consumer Electronics Show) is a convention that takes place in Las Vegas each year to shine a spotlight on the most whizbang consumer tech advancements from all over the world. This year, the [Innovation Awards](https://www.ces.tech/innovation-awards/program.aspx) process received over 3,000 submissions, which were carefully evaluated by a panel of engineers, designers, members of the media and more. Awards were given out in 29 different categories. And, thanks to its smartly designed washer-dryer, GE snagged one in the Home Appliances category.
+
+"We're continuously evaluating ways to reinvent the chore of laundry, and we believe that we have forever simplified laundry day with this product,” said Ken Rudolph, senior director of product management for clothes care at GE Appliances, in a [news release](https://pressroom.geappliances.com/news/ge-profileTM-ultrafast-combo-named-cesR-innovation-awards-honoree-by-the-consumer-technology-associationR). “We are thrilled to see years of engineering and design recognized by the authority in consumer technology, and we look forward to making a big splash at CES in January."
+
+Here's a bit more about GE's Profile UltraFast Combo with Ventless Heat Pump Technology:
+
+While all-in-one washer-dryers have been around a while, GE Profile claims to be an improvement upon existing tech. Their breakthrough came with the creation of a new kind of heat pump technology. This innovation pairs high-speed airflow with a sealed heat pump system, enabling the washing and drying of even very large loads in about two hours without the need to vent hot air outside the unit.
+
+The product boasts over 30 patents and pending patent applications.
+
+The Ventless Heat Pump Technology and High-Airflow Ventless Drying System contribute to the UltraFast Combo's impressive 50% higher energy efficiency compared to the Energy Star standard for electric dryers, according to [GE](https://pressroom.geappliances.com/news/ge-profileTM-ultrafast-combo-named-cesR-innovation-awards-honoree-by-the-consumer-technology-associationR). Additional features include GE's pre-existing Adaptive Smart Dispense, technology that lets you scan your detergent bottle so that the machine knows exactly how much of the product to release during the cleaning cycles. The new machines will also include Microban Antimicrobial Technology, which is meant to fight the buildup of bacteria and other microbes.
+
+**More Related Articles:**
+
+*   [Should You Buy a Used Appliance? Weigh the Risks and Rewards](https://www.homeserve.com/en-us/blog/buying-guide/used-appliances/)
+*   [7 Ways Your Kitchen Will Evolve in the Next 10 Years](https://www.homeserve.com/en-us/blog/home-improvement/advancements-kitchen-technology/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+Beyond technical advancements, the UltraFast Combo's design opens up installation options. Because the heat pump doesn't need to be vented through a tube run out of an exterior wall, owners can install a laundry space almost anywhere with access to water and a drain. The 120V plug requirement allows for flexible placement in small apartments, bathrooms or home gyms.
+
+A common complaint about washer-dryer combos is that capacity is compromised for functionality. The GE Profile UltraFast Combo has a 4.8-cubic-foot capacity. The company says that this would allow owners to launder a king-size comforter and full bedding set in a single load, reducing overall laundry time. The machine is also designed to be taller than other combos, which makes for convenient retrieval and folding of clothes.
+
+The GE UltraFast Combo with Ventless Heat Pump Technology is retailing in the U.S. for a suggested price of $2,899.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/E7N374KASqs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Eco-friendly laundry hack!"></iframe>

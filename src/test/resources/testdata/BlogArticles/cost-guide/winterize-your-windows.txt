@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 'Winterize Your Windows: 5 Ways to Seal Your Windows for Winter'
+headline: Top 5 Ways to Winterize Your Windows
+author: Team HomeServe
+tags: ['post']
+publishDate: 2020-10-13
+basePath: /en-us/assets/images/blog/cost-guide/
+heroImage: windows HS (1).jpg
+heroAltDescription: 'Winterize Your Windows: 5 Ways to Seal Your Windows for Winter'
+metaDescriptions: Keep the heat inside your home in the winter by learning how to winterize your windows with three easy steps.
+articleAbstract: To winterize windows in your home, you'll need to know some basic insulation facts. We've got 5 ways to help prevent the heat from escaping your cozy home this winter.
+category: ['Cost Guide']
+
+eleventyNavigation:
+  key: 'Winterize Your Windows: 5 Ways to Seal Your Windows for Winter'
+  parent: Exterior-Cost-Guide
+---
+
+:::: blog-info
+::: mobile-top-margin
+For some, living in a cold climate certainly has its perks (especially if you like snow,) but a high heating bill is definitely **not** one of them. Many cold climate dwellers are scared to open their utility bills each month. And many homeowners with homes full of windows (and beautiful vistas,) know that the more heat you lose, the higher the heating bill. That’s why winterizing your windows is key.
+:::
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+::::
+
+## Winterize Your Windows
+Keeping the heat inside your home can be easy with a few simple DIY tips. The first thing to know is that a window's ability to insulate is dictated by it R-value. A lower R-value means better insulation generally. According to Energy<span>.</span>gov, it doesn't matter if you have new windows or older windows, they can account for as much as 30 percent of your home's heating loss. It isn't always inexpensive to increase your windows R-value, but you can prevent heat loss. Some basic ways are to:
+
+1\. Prevent drafts of cold air from cracks that have formed in and around your windows
+
+2\. Insulate the glass for winter. This can be permanent or temporary.
+
+But if these basic methods aren’t enough, there are some more specific ways to help winterize your windows for the winter. These can help keep your home warm and keep your heating bills in check during a chilly winter, so you can stay warm and keep enjoying those views.
+
+## 1. Seal and Caulk The Windows
+Air leaks or drafts are caused when air is moving in and out of your home through cracks and holes around your window. If you can feel cold drafts around your windows, you are losing heat there. Even if you don't feel a draft you could still be losing air. Inspecting around the frame of each window for cracks and gaps is a good place to start. Also looking for deteriorating caulking, rotting wood, and missing glass. Repair and replace rotted frames and seal or replace the missing glass. You also need to look for openings behind the interior window trim or wall. You can insert non-expanding foam in this area on all four sides to help with drafts. If your caulking needs replacing, you can dig out the old using a putty knife or screwdriver.
+
+Make sure you clean and dry the area before you replace the caulking. Caulking should be used for joints that remain stationary. Also using a polyurethane caulk is best because it can be painted, does not shrink, sticks better, and does not attract dust or dirt. A little caulking can go a long way in saving you money on your energy bill.
+
+## 2. Weather Stripping
+Weather stripping is used on windows with moveable parts. It comes in felt, open-cell foam, and different types of metal and vinyl. If you are trying to do this yourself consider the pros and cons of each type of stripping.
+
+Felt is normally the least expensive and goes on fairly easy, but it is less durable and can’t withstand moisture. It is the least effective at preventing drafts. Vinyl is reasonably priced, but a little harder to install. Metals seem to work best in older and historic homes. Magnetic strips are expensive but they are the most effective. Whatever type of weather stripping you decide to use should help with your draft some.
+
+## 3. Storm Windows
+If you have single-pane windows you may want to consider storm windows. They don't provide insulation but they can prevent air movement in single pane windows that are still in good condition. Storm windows can range from plastic sheets to plastic panels, and low-emissivity glass. They can be designed to be installed on the interior or exterior. Typically interior ones are easier to install and keep clean. You simply push them into the opening inside your existing window and create an insulating pocket of air as this keeps the cold air out in the winter. There are also storm windows meant to be permanently installed but if you can afford them you may want to just consider replacing the windows entirely.
+
+## 4. Thermal Window Fashions
+Putting plastic over your windows is not very visually appealing. One of the easiest ways to keep the heat in your home is to use heavy thermal lined window drapes. You can use floor length or sill length whichever you prefer. You need to hang them as close to the window as you can. To make them more energy-efficient you can use Velcro to tape them to the wall and overlap the panels where they meet. If you don't have thermal drapes consider putting up two layers of normal drapes for the same effect. What's better is you can open them to still enjoy the view and you can change them out in the spring and summer when it's not so cold outside. They can be reused year after year and help change the look of your room. These are one of the favorite solutions for most homeowners as they are an easy and low-cost way to save some heat. If you like the idea of window treatments but don't like the idea a thermal window drapes, try cellular shades. These can be used year-round as well. They have a more versatile look and can be custom ordered to fit your windows perfectly.
+
+## 5. Door Snakes
+Depending on the size of the gap under your door you may also be losing more heat than you realize. Door snakes are also an easy and cheap do it yourself project to help with these drafts. Door snakes are often a long tube-looking pillow that attaches to a door with a magnetic. You can buy them or if you are feeling crafty you can make your own. You simply attach them to the door, or you can place them in front of the door at the bottom where the draft is seeping in and out. They come in many designs and lengths, so you can find the right one easily. It’s an inexpensive way to keep the drafts out and they can also be used on those window drafts too.
+
+## Window Film
+Some people think window film is just for keeping the sun out and your house cool in the summer. But you might be missing out on one of the latest advances in year-round indoor temperature control. In the winter, glass panels can lose a substantial amount of your home's heat. Certain window films can trap that heat in your home. The newer versions absorb radiant heat from inside your home and can keep it indoors. Different types of films are available depending on your window. Thicker films called a security film use the same technology and can protect you from shattering glass if you live in a storm-prone area. They cost a little more than the standard window film. Many homeowners do not like window insulation kits because they don’t always look flattering. They can actually do a great job of keeping the drafts out and are super easy to install. Due to the cost of replacing windows, it is a low-cost alternative to help with your heat loss.
+
+Sometimes window replacement is the only answer if your heat loss is critical. Schedule a window replacement appointment if you think this is the last resort for your windows, but do not be afraid to try some cheaper do it yourself methods first. Spending a few dollars on some kits may save you in the long run.
+
+::: blog-info
+Window replacement is an issue that many homeowners hope to not have to deal with. Another issue homeowners like to avoid is having to pay for big ticket home repairs. Being prepared with a home repair plan from HomeServe is a great way to avoid dealing with costly repairs. When you have a plan in place and a covered issue arises, simply call the 24/7 repair hotline and a local contractor will be sent to your home. See what [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} are available in your neighborhood.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+:::

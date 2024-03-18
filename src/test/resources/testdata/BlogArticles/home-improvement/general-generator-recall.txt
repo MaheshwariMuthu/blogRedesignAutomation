@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Watch Your Fingers! Generac Recalls Over 320,000 Portable Generators After Finger Amputations"
+headline: "Watch Your Fingers! Generac Recalls Over 320,000 Portable Generators After Finger Amputations"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-07-30
+basePath: https://library.homeserve.com/m/
+heroImage: 1abf65e893f05cef/Blog-PortableGeneratorRecall_Generac_0001.jpg
+heroAltDescription: "PortableGeneratorRecall"
+metaDescriptions: "Generac has recalled 321,160 Generac- and DR-branded 6500 and 8000 Watt portable generators due to finger amputation and crushing hazards."
+articleAbstract: "Generac has recalled Generac- and DR-branded 6500 and 8000 Watt portable generators due to finger amputation and crushing hazards. If you purchased one of these portable generators between June 2013 and June 2021, yours might be one of the 321,160 units recalled by the manufacturer."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Generac Recalls Portable Generators Due to Finger Amputation and Crushing Hazards"
+  parent: Exterior-Home-Home-Improvement
+---
+  Generac has recalled Generac- and DR-branded 6500 Watt and 8000 Watt portable generators due to finger amputation and crushing hazards. If you purchased one of these portable generators between June 2013 and June 2021, yours might be one of the 321,160 units recalled by the manufacturer. Here’s what you need to know.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the Consumer Product Safety Commission’s July 29 [recall announcement](https://cpsc.gov/Recalls/2021/generac-recalls-portable-generators-due-to-finger-amputation-and-crushing-hazards), the unlocked handle on the generator can pinch the user’s fingers against the frame when the unit is moved. Generac has received eight reports of injuries — one involving a finger crushing and seven which resulted in finger amputations.
+
+The affected Generac generators have unit type numbers XT8000E, XT8000EFI, GP6500, GP6500E, GP8000E and HomeLink 6500E. DR unit types include the PRO 6500M and PRO 6500E. To check whether your portable generator is included in this recall, find the model and serial numbers on the label and check them against [this list](https://cpsc.gov/Recalls/2021/generac-recalls-portable-generators-due-to-finger-amputation-and-crushing-hazards). You can also look up this information on [Generac’s website](http://www.generac.com/service-support/product-support-lookup).
+
+The portable generators were made in the U.S. and China, and sold at major home improvement, hardware and big-box retailers — including Ace Hardware, The Home Depot, Costco, Amazon, Lowe’s and True Value — nationwide and online. Find the [full list of retailers](https://cpsc.gov/Recalls/2021/generac-recalls-portable-generators-due-to-finger-amputation-and-crushing-hazards). In addition, about 4,575 units were recalled in Canada.
+
+If your generator is affected by this recall, the CPSC recommends you immediately stop using the product, unless the locking pin has been inserted to secure the handle in place. You can contact Generac for a repair kit. Call the Waukesha, Wis.-based [manufacturer](http://www.generac.com/) at 844-242-3493, or fill out the [online request form](https://www.generac.com/handleguard).
+
+For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Burn Notice: ECHO EGi-2300 Watt Generators Recalled Due to Fire and Burn Hazards](https://www.homeserve.com/en-us/blog/home-improvement/echo-generator-recall/)
+*   [3,600 Powerhorse Portable Generators Recalled Over Risk of Electric Shock](https://www.homeserve.com/en-us/blog/home-improvement/portable-generator-recall/)
+*   [Fire Risk Prompts Recall of Goal Zero Power Cables](https://www.homeserve.com/en-us/blog/home-improvement/goal-zero-power-cable-recall/)
+*   [Beware of Burn Hazard: Harbor Freight Tools Recalls 350,000 Tank Top Propane Heaters](https://www.homeserve.com/en-us/blog/home-improvement/harbor-freight-tools-propane-heater-recall/)
+*   [Danger: High Voltage! Klein Tools Recalls 1.7 Million Voltage Testers for Shock Hazard](https://www.homeserve.com/en-us/blog/home-improvement/klein-tools-voltage-tester-recall/)

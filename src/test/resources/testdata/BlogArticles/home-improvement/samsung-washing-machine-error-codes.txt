@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Samsung Washing Machine Error Codes"
+headline: "Samsung Washing Machine Error Codes"
+author: Kaia Koglin
+tags: ["post"]
+publishDate: 2023-05-30
+basePath: https://library.homeserve.com/m/
+heroImage: 2f17c2675db4e28/Blog-photo_2019-05-17_13-42-16.jpg
+heroAltDescription: "laundry room with side-by-side washer and dryer"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Using a combination of letters and numbers, your Samsung washer can help you diagnose and resolve issues."
+articleAbstract: "Using a combination of letters and numbers, your Samsung washing machine can help you diagnose and hopefully resolve system issues in time for the Monday morning rush."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Samsung Washing Machine Error Codes"
+  parent: Appliances
+---
+  It’s always frustrating when your washing machine stops working halfway through a cycle. The kid’s soccer uniforms are wet, you’ve got nothing to wear to work and you have no idea what’s wrong.
+
+**This May Also Interest You:** [**How Do I Reset My Samsung Refrigerator?**](https://www.homeserve.com/en-us/blog/how-to/reset-samsung-refrigerator/?gm-vt=1)
+
+This is where Samsung washer error codes come in. Using a combination of letters and numbers, your Samsung washing machine can help you diagnose and hopefully resolve the issue in time for the Monday morning rush.
+
+What Is an Error Code?
+----------------------
+
+Error codes are used in computing and electronics to specify an error. If something goes wrong with a machine, the code can tell you what’s gone wrong. Service technicians use the code to help them determine what’s wrong with your washer and repair the problem.
+
+You can also use Samsung washer error codes yourself. With the error code, you can find out what’s gone wrong. With your washer's troubleshooting information, you can then determine if you can fix the problem or need to call someone in.
+
+What Are the Common Samsung Washer Error Codes, and What Do They Mean?
+----------------------------------------------------------------------
+
+Samsung washing machine codes can be letters and numbers, blinking lights or icons, depending on the model. Blinking lights are generally found on models that don’t have a digital display. Below are some of the common letter and number combinations used as Samsung washer codes.
+
+* **1E, LE, 1C, LC, LC1, 1 1C, 1 LC:** These codes denote a water level or leakage error, meaning the washer has detected water where it doesn’t belong.
+* **nF, 4C, 4E, 1 4C:** If the washer isn’t filling properly with water, you might get one of these codes. Make sure the water supply valves are open.
+* **nF1, 4C2, 4E2, CE, 14C2:** The supply hoses are attached to the wrong taps, and the cold water supply is extremely hot. Switch the hoses to fix this issue.
+* **nd, 5E, SE, 5C, SC, 1 5C:** You might get these error codes if water isn’t draining properly. You probably have a clogged drain hose. Follow [these steps](https://www.samsung.com/za/support/home-appliances/why-is-there-an-nd-on-the-display-panel-of-the-washing-machine/#:~:text=If%20your%20washer%20is%20beeping,or%20a%20clogged%20debris%20filter.) to fix it.
+* **OE, 0E, OC, 0C, 1 OC, 1 0C:** These codes are overflow errors. There’s too much water in the washer. The machine should stop on its own and pump out the excess water. However, [Samsung](https://www.samsung.com/ae/support/home-appliances/overflow-error-on-samsung-washing-machine/#:~:text=OE%20stands%20for%20overflow%20of,washing%20and%20activates%20the%20pump.) says there are other reasons for this error. You may have used too much (or the wrong kind of) detergent. Or, sewer water is entering the washer through the drain hose. Make sure the drain hose is installed correctly and is not blocked or kinked.
+* **E2, bE2, 6E2, BE2, 8E2:** If a button is jammed or you are continuously pressing a button, you might get this error. Make sure there are no suck buttons before proceeding.
+* **9C1, 9C2, PF, 3E, 2E, 9E1, 9E2, UC, 19C1, 19C2:** There’s something wrong with the electrical current being supplied to the washer. Unplug your washer and call an appliance technician.
+* **dS, d5, FL, LO, L0, dE, dE1, dE2, dC, dC1, dL, 1 dC, 1dC4, 1dC1:** The door isn’t closed and locked. Try opening and closing the door.
+* **SDC, 5DC:** The detergent door isn’t closed all the way. Make sure the drawer is closed before you run the cycle.
+* **SUd, 5UD, Sd, 5d, SUdS, 5Ud5:** As the spelling of the code might suggest, this code means you have too many suds in the washer. Usually, the washer will stop on its own and wait for the suds to go down before it restarts. [Samsung](https://www.samsung.com/levant/support/home-appliances/what-does-the-suds-mean-on-my-washing-machine-display/#:~:text=If%20your%20Samsung%20washing%20machine,stains%20and%20cleaning%20your%20clothes.) recommends using high-efficiency (HE) detergent to prevent this issue.
+* **dn:** This code simply means your washer is downloading an update. Wait for it to finish before starting a new load.
+* **dc, Ub, U6, Ur, UE, 1 Ub, 1U6:** Your washer’s load is unbalanced. Pause the cycle and shift the clothes around so they’re more evenly distributed, then run the cycle again.
+
+As each model can have different codes, it’s important to check your user manual to find the accurate meaning. For example, a Samsung washer “dc” code can be both an unbalanced load and a door error, depending on the model. Samsung has user manuals available online, so you can look up errors for your machine.
+
+**More Related Articles:**
+
+*   [Samsung Smart Washers and Dryers: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-washer-dryer/)
+*   [How Much Do Samsung Smart Refrigerators Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-refrigerator/)
+*   [Everything You Need to Know About Samsung Smart Microwaves](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-microwave/)
+*   [Samsung Smart Ranges: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-range/)
+*   [How Much Do Samsung Smart Ranges Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-range/)
+
+Do I Need to Call a Repair Tech, or Can I Fix These Errors on My Own?
+---------------------------------------------------------------------
+
+Whether you need to call a repair tech or not will depend on the error. Many error codes are simple fixes, such as closing a door properly or connecting the water supply hoses.
+
+In some cases, the error will fix itself. For example, if there’s an excessive suds error, the machine will stop for a short time. This allows the suds to dissipate. The Samsung washer error code will disappear once the suds have gone down, and the machine will finish the cycle. It’s possible you’ll never realize the error code was activated.
+
+Other errors do need the expert touch of a professional repairer. If you see a code that’s not listed among the Samsung washer error codes, it’s likely related to sensors or electronic components. Your user manual may be able to help you determine the issue. Otherwise, Samsung recommends the following steps:
+
+1.  Power off the washer for two to three minutes.
+2.  Turn the washer back on.
+3.  Restart the cycle.
+4.  If the error persists, arrange for a service.
+
+As a washing machine is a complex piece of machinery, it’s best to ring for a repair person if you have any doubts about your ability to fix it. They are qualified to resolve difficult issues with the drive motor, wire connections and other electrical components. If you’re troubleshooting yourself, remember to take safety precautions. Always begin by unplugging the washer to ensure you’re protected from electrical shocks.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/Ss3da5F_Nk4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Clean Your Dishwasher (Properly)"></iframe>

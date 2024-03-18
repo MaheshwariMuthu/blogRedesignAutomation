@@ -1,0 +1,40 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "It's Not the Heat, It's the Dehumidifier: 2 Million New Widetech Dehumidifiers Recalled for Overheating, Burn Hazard"
+headline: "It's Not the Heat, It's the Dehumidifier: 2 Million New Widetech Dehumidifiers Recalled for Overheating, Burn Hazard"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-08-05
+basePath: https://library.homeserve.com/m/
+heroImage: 41bb8ee9dcc85d5c/Blog-DehumidifierRecall_New-Widetech.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Some 2 million New Widetech dehumidifiers are under recall for a fire hazard that has already resulted in more than 100 incidents and millions in property damage."
+articleAbstract: "Some 2 million dehumidifiers sold under well-known brand names from 2009 to 2017 by several major retailers are under recall for a fire hazard that has already resulted in more than 100 incidents and millions of dollars in property damage. According to the Aug. 4 recall alert from the Consumer Product Safety Commission, the dehumidifiers — manufactured in China by New Widetech — can overheat and catch fire, posing burn hazards."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Two Million Dehumidifiers With Well-Known Brand Names Recalled Due to Fire and Burn Hazards; Manufactured by New Widetech"
+  parent: Appliances
+---
+  Some 2 million dehumidifiers sold under well-known brand names from 2009 to 2017 by several major retailers are under recall for a fire hazard that has already resulted in more than 100 incidents and millions of dollars in property damage. According to the [Aug. 4 recall alert](https://cpsc.gov/Recalls/2021/Two-Million-Dehumidifiers-With-Well-Known-Brand-Names-Recalled-Due-to-Fire-and-Burn-Hazards-Manufactured-by-New-Widetech) from the Consumer Product Safety Commission, the dehumidifiers — manufactured in China by New Widetech — can overheat and catch fire, posing burn hazards.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here's Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+The CPSC reported that the recall affects 2 million units in the United States, sold between February 2009 and March 2017 at Lowe’s, Costco, Walmart, Menards and other retailers nationwide for between $120 and $430 apiece. In addition, about 380,000 units were sold in Canada and 25,000 in Mexico.
+
+New Widetech is aware of no reported injuries, but property damage from 107 incidents of the recalled dehumidifiers overheating or catching fire have already caused an estimated $17 million in property damage.
+
+“Consumers should stop using the dehumidifiers immediately and contact New Widetech for a refund,” the recall alert states. “The amount of the refund will be pro-rated based on the age of the dehumidifier.”
+
+The recall covers 25-, 30-, 35-, 45-, 50-, 60-, 65-, 70-, and 74-pint dehumidifiers sold under major brand names including De’Longhi, Edgestar, Honeywell, Whirlpool and well over a dozen others. The brand name, model number and pint capacity are printed on the nameplate sticker on the back of the unit, and you can check yours against the [comprehensive list found here](https://cpsc.gov/Recalls/2021/Two-Million-Dehumidifiers-With-Well-Known-Brand-Names-Recalled-Due-to-Fire-and-Burn-Hazards-Manufactured-by-New-Widetech).
+
+New Widetech notes that owners registering for the recall refund will “need to upload photos to demonstrate ownership and destruction by cutting the dehumidifier’s power cord.”
+
+Owners can call New Widetech at 877-251-1512, or go to the manufacturer’s recall page at [www.recallrtr.com/nwtdehumidifier](https://www.recallrtr.com/nwtdehumidifier) for more information and to verify via the company’s serial-number lookup tool whether your unit is affected. For more consumer product safety information, go to [cpsc.gov](https://cpsc.gov).
+
+**More Related Articles:**
+
+*   [5 Reasons You Need a Dehumidifier in Your Home](https://www.homeserve.com/en-us/blog/home-improvement/dehumidifier-benefits/)
+*   [A Mist Opportunity: 5 Ways a Humidifier Helps Your Home be Healthier](https://www.homeserve.com/en-us/blog/home-improvement/humidifier-health-benefits/)
+*   [Does Your Home Need a Whole-House Humidifier?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-humidifier/)
+*   [Watch Your Fingers! Generac Recalls Over 320,000 Portable Generators After Finger Amputations](https://www.homeserve.com/en-us/blog/home-improvement/general-generator-recall/)
+*   [Burn Notice: ECHO EGi-2300 Watt Generators Recalled Due to Fire and Burn Hazards](https://www.homeserve.com/en-us/blog/home-improvement/echo-generator-recall/)

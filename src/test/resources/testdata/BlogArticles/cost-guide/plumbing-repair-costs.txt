@@ -1,0 +1,105 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Plumbing Repair Cost Guide"
+headline: "Plumbing Repair Cost Guide"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-11-10
+basePath: https://library.homeserve.com/m/
+heroImage: 3da30190a56d573c/Blog-IMG_3845_PlumbingDuctwork_LL.jpg
+heroAltDescription: "Exposed pipes and ductwork in the ceiling"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Getting a rough estimate of how much plumbing repairs will be can help you feel prepared, mentally and financially."
+articleAbstract: "There are a lot of factors that go into plumbing pricing, so there is quite a bit of variation in how much you'll pay. Getting a rough estimate can help you feel prepared, mentally and financially."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "Plumbing Repair Cost Guide"
+  parent: Plumbing-Cost-Guide
+---
+  _"Oh no, what is this repair going to cost me?!”_ When something goes wrong in your home, that’s probably your first thought. But getting a rough estimate of how much plumbing repairs will be can help you feel prepared, mentally and financially.
+
+**This May Also Interest You:** [**9 Common Plumbing Myths — Busted**](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-system-myths/)
+
+There are a lot of factors that go into plumbing pricing, so there is quite a bit of variation in how much you might have to pay.
+
+Average Plumbing Repair Costs
+-----------------------------
+
+The average plumbing repair tends to be about $280 (CAD 382), according to [HomeGuide](https://homeguide.com/costs/average-plumbing-estimates). However, there can be quite a bit of disparity. Simpler jobs may be as little as $75 (CAD 102), while more complicated repairs can be around $850 (CAD 1,161).
+
+The overall average trends toward the cheaper side because the majority of plumbing repairs are for very basic and easy-to-fix issues. However, for major plumbing repairs that involve system-wide fixes, like repiping a whole house, you could pay between $1,500 (CAD 2,048) and $15,000 (CAD 20,483), according to data from [Bob Vila](https://www.bobvila.com/articles/cost-to-repipe-a-house/).
+
+Costs for a plumbing repair may include:
+
+*   Labor for the job
+*   Parts and supplies to repair the problem
+*   Replacement parts or appliances
+*   Service and diagnostic fees
+*   Permit fees
+*   Haul-away fees for old plumbing
+
+Typical Plumbing Costs by Service Type
+--------------------------------------
+
+To get a more accurate idea of how much you might be required to pay, you need to identify the problem. The problem could be anything from a shower drain clog to a major sewer pipe malfunction. Due to the variations in how long a repair takes and how challenging it is, different repairs have widely different prices.
+
+Here are the average costs for plumbing repair broken down by type:
+
+* **Drain clog:** $100 to $275 (CAD 137 to CAD 376)
+* **Leaky pipe:** $150 to $850 (CAD 205 to CAD 1,161)
+* **Drainpipe replacement:** $100 to $350 (CAD 137 to CAD 478)
+* **Toilet issue:** $100 to $300 (CAD 137 to CAD 410)
+* **Broken water heater:** $150 to $700 (CAD 205 to CAD 956)
+* **Water main repair:** $450 to $2,500 (CAD 614 to CAD 3,414)
+* **Septic tank problem:** $500 to $2,700 (CAD 683 to CAD 3,687)
+* **Sump pump repair:** $380 to $550 (CAD 519 to CAD 751)
+* **Sewer line cleaning:** $150 to $800 (CAD 205 to CAD 1,092)
+
+Plumber Costs Per Hour
+----------------------
+
+Many plumbers' fees will depend on how long the job takes. Something simple like busting a clog in a drain could be completed in under an hour. Meanwhile, a major repair, such as replacing piping throughout the home, may take up to 10 days.
+
+Plumbers' prices tend to be about $45 to $200 (CAD 61 to CAD 273) per hour, according to [Forbes](https://www.forbes.com/home-improvement/plumbing/plumbing-repair-cost/#:~:text=The%20cost%20of%20a%20plumber,%2445%20to%20%24200%20per%20hour.). This variation in pricing is usually due to the individual plumber's expertise and can also be due to geography. A new journeyman plumber may just charge local minimum wage, but an experienced plumber who takes on challenging jobs can command a much higher price.
+
+**More Related Articles:**
+
+*   [How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+*   [Pipe Burst? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+*   [How Do You Flush a Toilet Without Running Water?](https://www.homeserve.com/en-us/blog/how-to/turn-off-water-heater/)
+*   [Does Homeowners Insurance Cover Plumbing Repairs?](https://www.homeserve.com/en-us/blog/buying-guide/homeowners-plumbing-insurance/)
+*   [5 Things You Should Know About Your Plumbing Vents](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-vents/)
+
+Do Some Plumbers Use Flat-Rate Plumbing Pricing?
+------------------------------------------------
+
+Though most plumbing repairs are priced on an hourly basis, some plumbers may use flat-rate plumbing pricing. This is typically done for small jobs, like replacing a faucet, which can be done quickly. [HomeGuide](https://homeguide.com/costs/faucet-installation-cost) says you can expect to pay around $120 to $300 (CAD 164 to CAD 410) if your plumber uses flat-fee pricing. It may also be done for more major jobs like handling the piping for a bathroom. How much you pay depends on the type of work you need.
+
+Can You Save Money With DIY Repairs?
+------------------------------------
+
+If the price of plumbing seems a little high, you might be interested in doing the repairs yourself. Whether this is a good idea will depend on the problem. There are several plumbing repairs you can do yourself for just the cost of parts or tools, so it is possible to save hundreds.
+
+For example, handling a clogged drain may just require you to [purchase a plunger](https://www.nytimes.com/wirecutter/reviews/best-toilet-plunger/) for $10 to $20 (CAD 14 to CAD 27) or less instead of paying the full plumber fee. The typical DIYer can manage:
+
+*   Clearing a clogged drain
+*   Fixing a toilet that runs constantly
+*   Repairing a leaky faucet
+*   Replacing a showerhead
+*   Installing a new faucet
+
+However, for more complex tasks like rerouting pipes, fixing a dishwasher or handling large repairs, you may need to call in a professional. Depending on where you live, your building code may specify that certain tasks, like a water heater replacement, only be done by a licensed plumber.
+
+Find Affordable Services by Understanding Plumbing Repair Costs
+---------------------------------------------------------------
+
+There are several reasons that there is such a wide range in plumbing costs. Understanding all the various cost factors in plumbing can help you hire an expert to get the job done properly.
+
+First of all, the area you live in has a huge effect on plumbing costs because of the cost of living in your area. You may want to enter your ZIP code into cost calculators for plumbing to find out how much the average price is in your location.
+
+The condition of your current plumbing also has a big influence on costs. If you have an older home with galvanized plumbing, you should expect to pay a bit extra for plumbing assistance because of the extra steps and tools that may be required to make the repair. Multiple stories or extra plumbing fixtures in your home may increase prices as well.
+
+Another factor is the company itself. Some bigger companies can charge less because they have more customers and can order their parts in bulk. Sometimes, more experienced plumbers will also charge more for their expertise. You may want to call around and get plumbing estimates to find the best deal.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/w5BqEYypYJQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="You know what they say about #FlushableWipes…"></iframe>

@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Broken Garage-Door Spring? Here's What to Do Next"
+headline: "What Do You Do If Your Garage Door's Spring Breaks?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-06-06
+basePath: https://library.homeserve.com/m/
+heroImage: 312862cb4f58e074/Blog-CloseUpGarageSpring_ERossi-1129.jpg
+heroAltDescription: "garage door spring"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A broken garage-door spring can be a major headache. Here's what to do next."
+articleAbstract: "A broken garage door spring shouldn’t cost more than a couple of hundred dollars to replace, even if you call in a pro. Here's what you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Do You Do If Your Garage Door's Spring Breaks?"
+  parent: Exterior-Home-Home-Improvement
+---
+  
+
+Ah, the grace and glory of an automatic garage door. One simple push of a button is all it takes to gain entry into the safe haven of your home’s garage. But when the main spring breaks, all that comfort and convenience quickly goes — if you'll excuse the expression — out the door.
+
+**This May Also Interest You:** [**Common Garage Door Problems and How to Repair Them**](https://www.homeserve.com/en-us/blog/how-to/common-garage-door-problems/)
+
+If this happens, it can leave you wondering: Is this a repair I can tackle myself? And perhaps, most pressing: How do I open a garage door with a broken spring in the meantime? Read on to learn all the ins and outs of replacing a garage-door spring.
+
+Why Did My Garage Door’s Spring Break?
+--------------------------------------
+
+There are several reasons why a garage-door coil spring may break, but the most likely culprit is simple wear and tear. The repetitive opening and closing each day can wear the spring out, causing it to break or malfunction. Rusting can also cause a spring to break, as can improper maintenance.
+
+One way to keep your garage-door springs functioning at their best is to make sure to lubricate them a few times a year with white lithium grease. You can also check the balance of your garage door once every few months. To do this, put the door in manual mode, lift the door up 4 or 5 feet (1 to 2 meters), and let go. If your springs are in good shape, they should hold the door completely still. If the door slips or sags, that’s usually a sign that the springs are wearing out and may be due for a replacement.
+
+**<img class="detail-image" src="https://library.homeserve.com/m/22e0dc14da23bfd1/Blog-GarageDoor_ERossi-1130.jpg" alt="garage door opener"/>**
+
+How Do I Know Which Replacement Spring I Need?
+----------------------------------------------
+
+If your garage spring is broken, you’ll need to determine whether your garage door uses torsion or extension springs. Torsion springs are more expensive but are typically stronger and more durable than their extension spring counterparts.
+
+You’ll also need to determine whether your door uses one spring or two. If you have a double garage door or a very heavy single door, you’ll likely have two springs. Lighter, single doors typically operate with just one.
+
+Once you figure out which type of spring and how many you need, you’ll need to measure the length and diameter of the spring, as this can vary quite a bit. Also, note that the left- and right-side springs differ with torsion springs, so you’ll need to note whether you need a left- or right-wound replacement for those.
+
+**More Related Articles:** 
+
+*   [A DIY Guide to Replacing Your Garage-Door Spring](https://www.homeserve.com/en-us/blog/how-to/replace-garage-door-spring/)
+*   [How Much Do Smart Garage-Door Openers Cost?](https://www.homeserve.com/en-us/blog/cost-guide/smart-garage-door-opener-services/)
+*   [Is a Smart Garage Door Opener a Wise Investment?](https://www.homeserve.com/en-us/blog/home-improvement/smart-garage-door/)
+*   [How to Open a Garage Door Manually](https://www.homeserve.com/en-us/blog/how-to/open-garage-door-manually/)
+*   [How Much Does an Insulated Garage Door Cost?](https://www.homeserve.com/en-us/blog/cost-guide/insulated-garage-door/)
+
+How Long Do Garage-Door Springs Last?
+-------------------------------------
+
+Torsion springs can last up to 15,000 to 20,000 open-close cycles, whereas extension springs last around 10,000 cycles. On average, you can expect to replace your garage springs every 7 to 12 years, depending on spring type and the frequency with which you open and close your garage.
+
+Replacement Spring Costs
+------------------------
+
+Depending on the type of spring you need, the cost of a replacement spring can vary quite a bit. Extension springs tend to be significantly cheaper, ranging from $15 to $45 (CAD 19 to CAD 56) per spring, while a torsion spring replacement is likely to cost you between $50 and $100 (CAD 62 and CAD 125). If you need to hire a technician, plan to add around $200 (CAD 250) extra to the cost of parts for the service call.
+
+Can I Replace a Garage-Door Spring Myself?
+------------------------------------------
+
+While it is certainly possible to replace a garage door spring yourself, know that it can be both tricky and dangerous. The smallest error in the replacement process or the installation of incorrect parts could cause your garage-door repair to come crashing down quite literally — potentially injuring you or a family member. It’s a big risk that may well make it worth calling in a pro. This is why most replacement springs will come with a note recommending professional installation.
+
+How Do You Open the Garage Door While It’s Broken?
+--------------------------------------------------
+
+Until you’re able to repair the garage spring, you’ll need to open and close the door in the meantime. The good news is that you can still manually open a garage door with a broken spring by putting it into manual mode. Most garage doors have a red emergency release pull cord that you can use to send the door into manual operation mode. Make sure to do this when the door is in the down position. Although it’ll take a little more arm strength than that simple button push you’re accustomed to, manual mode should let it work just fine until you’re able to coordinate a repair.
+
+Door, Restored
+--------------
+
+Broken garage doors aren’t fun. But the good news is that if it’s a broken spring, you shouldn’t have to shell out more than a couple hundred dollars, even if you do call in a pro. Your garage will be restored to its former glory soon enough. And who knows? You may even have some bigger biceps to show for all that manual door lifting you did in the interim.

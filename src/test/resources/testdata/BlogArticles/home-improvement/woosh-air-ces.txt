@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "CES 2024: This Smart Device Can Tell You When It's Time to Change Your HVAC Filter"
+headline: "CES 2024: This Smart Device Can Tell You When It's Time to Change Your HVAC Filter"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2024-01-14
+basePath: https://library.homeserve.com/m/
+heroImage: 5207f0b8ef109d21/Blog-WooshFilter_Leazenby_7100.jpg
+heroAltDescription: "photo of woosh filter"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The smart HVAC filter by Woosh Air can actually tell you when it’s time to switch out your HVAC filter."
+articleAbstract: "The smart HVAC filter by Woosh Air can actually tell you when it’s time to switch out your HVAC filter, and a smart air monitor can help you track your home's air quality."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "CES 2024: This Smart Device Can Tell You When It's Time to Change Your HVAC Filter"
+  parent: HVAC-Home-Improvement
+---
+  
+
+The oil light comes on in your car when it needs a change. Smoke detectors will annoy you with incessant beeping until you replace the batteries. Even your water-filter pitcher tells you when it’s time to re-up. But, typically, the often-forgotten chore of replacing your home’s HVAC filter (which you should do about once every three months, by the way) is yours to remember.
+
+**This May Also Interest You:** [**CES 2024: 7 Cool Smart Home Products We’re Excited to See**](https://www.homeserve.com/en-us/blog/home-improvement/homeserve-ces-2024/)
+
+The smart HVAC filter by Woosh Air can actually _tell_ you when it’s time to switch out your HVAC filter — but that’s not all it does.
+
+“It retrofits a customer’s existing HVAC system and turns it into a whole air purification system,” said Mark Dodd, head of IoT for Woosh Air, at CES 2024 (formerly the Consumer Electronics Show) in Las Vegas, where the product was on display.
+
+The [Woosh Smart Air Filter](https://wooshair.com/products/woosh-smart-filter-starter-kit?variant=43559201800430) comes in two pieces, the reusable plastic frame that has the smart sensor and a replaceable MERV 13 filter. ([MERV](https://www.epa.gov/indoor-air-quality-iaq/what-merv-rating) is a metric that defines a filter’s ability to capture large particles in the air.)
+
+The filters can be placed in your return air vents (which are on the floor, ceiling or wall), or inside your furnace or HVAC unit. The filter inserts are made by 3M, and come in a range of sizes — all 1 inch thick. The smart sensor in the frame, however, is made by Woosh Air.
+
+“\[The sensor\] measures differential air pressure,” Dodd said. “So, as the air is flowing through the filter, there’s a pressure drop across it, and as the dust loads in the filter face, that pressure drop increases, and we measure it.”
+
+<img class="detail-image" src="https://library.homeserve.com/m/344bdfd5c4453662/Blog-WooshApp_Leazenby_7096.jpg" alt="photo of woosh mobile app"/>
+
+The filter’s sensor takes periodic snapshots of the differential air pressure measurements and sends them to the cloud, where that data is analyzed.
+
+“We have a proprietary algorithm that can tell when it’s time to change your filter,” Dodd said.
+
+The user can see the status of their filter on the mobile app, and they’ll receive a notification when it’s time to swap it out. Dodd said replacement filters are shipped directly to your home.
+
+**Read More CES 2024 Coverage:**
+
+*   [CES 2024: Smart Drain-Line Cleaner Gets the Goop Out to Keep Your Air Conditioner Crankin'](https://www.homeserve.com/en-us/blog/home-improvement/iflo-ces-2024/)
+*   [CES 2024: Energy-Savvy Sevvy Smart Cooker Keeps Heat Low, Nutrition High](https://www.homeserve.com/en-us/blog/home-improvement/sevvy-smart-cooker-ces-2024/)
+*   [CES 2024: Smart Dishwasher Helps Homeowners Dole Out Detergent, Let Off Steam](https://www.homeserve.com/en-us/blog/home-improvement/hisense-dishwasher-ces-2024/)
+*   [CES 2024: Property-Monitoring Device Keeps Would-be Noisy, Smoking, Partying Rental Guests Honest](https://www.homeserve.com/en-us/blog/home-improvement/alertify-ces-2024/)
+*   [CES 2024: All-in-One Appliance Washes, Dries Clothes in Same Machine, Lightening Your Laundry Load](https://www.homeserve.com/en-us/blog/home-improvement/ge-profile-heat-pump-tech-ces-2024/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/566f244e94c36903/Blog-WooshMonitor_Leazenby_7102.jpg" alt="photo of woosh air quality monitor"/>
+-------------------------------------------
+
+Smart Air Quality Monitor
+-------------------------
+
+Woosh Air also makes a [smart air quality monitor](https://wooshair.com/products/air-quality-monitor). The small box-shaped device can sit anywhere in your home. It monitors air quality levels by measuring particles in the air. It then gives your home an air quality score. This is viewable in the app, which also shows historical data so you can track air quality trends.
+
+If you hit a spike of poor air quality, the system then works with your smart thermostat to turn on your HVAC’s air circulation system. The dirty air is pulled through the filter to get cleaned up. This function requires that your HVAC system has a fan-only or air circulation mode.
+
+“The whole solution provides whole-home air filtration and air quality monitoring,” Dodd said.
+
+Pricing and Availability
+------------------------
+
+A starter kit for the filter costs $149. Replacement filter inserts cost $22. The air quality monitor costs $99. You can get the filter kit and the air monitor in a bundle for $199. All products are available now.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/3-dHcgFP4C4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="*Ahem* It’s time to change that HVAC filter again!"></iframe>

@@ -1,0 +1,34 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Bruises, Bumps, Scratches and Sprains: Target Recalls Shower Stools Due to Fall Risk"
+headline: "Bruises, Bumps, Scratches and Sprains: Target Recalls Shower Stools Due to Fall Risk"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-15
+basePath: https://library.homeserve.com/m/
+heroImage: 3fe959232e976b46/Blog-ShowerStoolRecall_Target.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Target is recalling its Room Essentials shower stools. They can become unstable during use, posing a fall risk. "
+articleAbstract: "Target is recalling about 58,500 Room Essentials shower stools. If you purchased one of these stools between March 2019 and September 2020, it might be affected by this recall. According to the Consumer Product Safety Commission, the stools can become unstable during use, causing them to tip over and posing a fall risk."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Target Recalls Shower Stools Due to Fall Hazard"
+  parent: Interior-Home-Home-Improvement
+---
+  Target is recalling about 58,500 Room Essentials shower stools. If you purchased one of these stools between March 2019 and September 2020, it might be affected by this recall. According to a [recall alert](https://cpsc.gov/Recalls/2021/Target-Recalls-Shower-Stools-Due-to-Fall-Hazard-Sold-Exclusively-at-Target) published May 26 by the Consumer Product Safety Commission, the stools can become unstable during use, causing them to tip over and posing a fall hazard.
+
+**This May Also Interest You:** [**Signature Hardware Stainless Steel Towel Grab Bars Recalled for Fall Risk**](https://www.homeserve.com/en-us/blog/home-improvement/towel-grab-bar-safety-recall/)
+
+The CPSC reports that there have been 12 reports of the consumers falling off the stools, including four reports of bruises, bumps and scratches. One user reported a sprained arm.
+
+This recall involves Target’s Room Essentials-branded shower stools. The 18-inch-tall stools are white, have aluminum legs and are topped with a plastic, curved seat. The recalled models have item number 064-20-1091 printed on the tag. The stools were made in China and sold exclusively at Target stores nationwide and Target.com for about $35.
+
+If you have one of these stools in your shower, you’ll want to stop using it immediately. You can return the stool to any Target store or contact Target for a full refund. You can reach the Minneapolis, Minn.-based company at 800-440-0680 or online at [Target.com.](http://www.target.com/) For more details, visit Target’s [recalls page](https://help.target.com/help/productrecallpage?childcat=Product+recalls&parentcat=Product+Safety+%26+Recalls&searchQuery=search+help) and use the “Home” dropdown menu to find the “Target Room Essentials Shower Stools” entry. And for more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Chairs Could Collapse: TJX Recalls 92,000 Wooden Folden Chairs for Fall, Injury Risk](https://www.homeserve.com/en-us/blog/home-improvement/outdoor-wooden-folding-chair-recall/)
+*   [Watch Your Seat: 3,100 StyleWell Dining Chair Sets Recalled for Fall Risk](https://www.homeserve.com/en-us/blog/how-to/Wood-Windsor-Dining-Chair-Recall/)
+*   [Are You Sitting Down? Hillsdale Furniture Recalls 10,500 Stools Over Fall Risk](https://www.homeserve.com/en-us/blog/home-improvement/jennings-stool-recall/)
+*   [Fall Risk Prompts Recall of 3,100 Sauder Woodworking Bar Stools](https://www.homeserve.com/en-us/blog/home-improvement/sauder-woodworking-barstools-recall/)
+*   [It Could Collapse: Lifetime Products Recalls 43,000 6-Foot Folding Tables](https://www.homeserve.com/en-us/blog/home-improvement/lifetime-products-seminar-table-recall/)

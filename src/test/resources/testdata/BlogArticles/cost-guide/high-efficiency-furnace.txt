@@ -1,0 +1,82 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Could You Save by Upgrading to a High-Efficiency Furnace?"
+headline: "How Much Could You Save by Upgrading to a High-Efficiency Furnace?"
+author: John Warbuck
+tags: ["post"]
+publishDate: 2023-08-05
+basePath: https://library.homeserve.com/m/
+heroImage: 4d41d59349afb3b1/Blog-IMG_3834_FurnaceFilter_LL.jpg
+heroAltDescription: "exterior view of furnace filter slot"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The primary benefit of installing a high-efficiency furnace is that your heating system requires less energy."
+articleAbstract: "The primary benefit of installing a high-efficiency furnace is that your heating system requires less energy. Here's what else you need to know about installing an HE system."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Could You Save by Upgrading to a High-Efficiency Furnace?"
+  parent: HVAC-Cost-Guide
+---
+  In the world of home appliances and systems, the term “high-efficiency” usually goes hand in hand with some mention of saving money.
+
+**This May Also Interest You:** [**The Do’s and Don’ts of HVAC Maintenance**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+
+Are you considering installing a high-efficiency furnace? Here’s everything you’ll need to know.
+
+What Is a High-Efficiency Furnace?
+----------------------------------
+
+A high-efficiency furnace is any furnace with [an efficiency rating greater than 90%](https://www.energy.gov/energysaver/furnaces-and-boilers). There are multiple types of HE furnaces available, with ratings of up to 98% efficiency. What you can expect to pay for an HE furnace depends on its rating and energy output.
+
+A standard furnace has an 80% efficiency rating. What this means is that 20% of the energy used to heat your home is lost when the furnace burns fuel to heat your home. Many people are considering HE furnaces because they can use less fuel, save money on energy bills and reduce carbon emissions.
+
+What Are the Pros of a HE Furnace?
+----------------------------------
+
+The primary benefit of installing a HE furnace is that your heating system requires less energy. HE furnaces are designed to circulate air throughout your home more effectively, and there are some other important benefits to consider.
+
+### Indoor Air Quality
+
+HE furnaces reduce the accumulation of dust and allergens on your home’s surfaces due to better air circulation. They often come with advanced filtration systems that remove viruses, mold, bacteria and other contaminants from the air.
+
+### Fewer Temperature Discrepancies
+
+HE furnaces are better at maintaining an even temperature throughout your entire home. A common complaint about standard furnaces is that some rooms in the home are cooler than others.
+
+### Quieter Operation
+
+If your current furnace makes too much noise, you’ll be pleased to know that HE furnaces are much quieter than their standard counterparts.
+
+### They Meet Proposed Energy Policy Changes
+
+The Department of Energy has made multiple proposals recently to [increase the required AFUE ratings](https://www.energy.gov/articles/biden-administration-proposes-new-cost-saving-energy-efficiency-standards-home-furnaces) for all new furnaces in the United States. The AFUE rating represents how efficient your furnace is, and if the standard is increased, all furnaces produced in the United States will need to be HE furnaces.
+
+### Tax Benefits
+
+You can recoup some of your initial investment when upgrading to a high-efficiency furnace through tax credits. Before buying a high-efficiency gas furnace, check your state and local tax laws to see how much you can receive in credits and how to apply for them.
+
+**More Related Articles:**
+
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [Replacing Your HVAC Air Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Is an HVAC Tune-up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+
+How Much Do HE Furnace Costs Compare to a Regular Furnace?
+----------------------------------------------------------
+
+When comparing furnace prices, you should keep in mind that the furnace design, output and energy efficiency influence its cost. When shopping for a HE furnace, you can choose from a two-stage or modulating furnace, compared with a single-stage traditional furnace. [According to Forbes](https://www.forbes.com/home-improvement/hvac/how-much-does-a-gas-furnace-cost/), you could pay as much as $6,000 (CAD 7,900) for a HE furnace.
+
+Standard furnaces are significantly cheaper. The average cost of furnaces with an AFUE rating under 90% is about $1,000 (CAD 1,350). The primary drawback to standard furnaces is that what you save in upfront costs is lost in increased energy bills.
+
+Keep in mind that furnace prices may vary depending on your needs. If you live in a cold climate and are looking for a 120,000 BTU HE model, you could pay more than $10,000 (CAD 13,500) for your furnace, for example.
+
+How Much Could You Save by Replacing Your Furnace With an HE Model?
+-------------------------------------------------------------------
+
+To determine whether it’s more cost-effective to buy a HE furnace for your home, you should compare quotes for standard and HE models and calculate [your energy costs](https://www.energy.gov/femp/purchasing-energy-efficient-residential-furnaces) over the next 20 years. If you live in an area with longer and colder winters, the savings could pay for your furnace over time.
+
+Most people report saving around 20% on their gas bill. If you’re paying $200 (CAD 260) per month for gas, you’d save $480 (CAD 630) per year. In 20 years, that adds to $9,600 (CAD 12,650) in savings on your energy bill. This is why many people are willing to pay a greater upfront cost for a HE furnace.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

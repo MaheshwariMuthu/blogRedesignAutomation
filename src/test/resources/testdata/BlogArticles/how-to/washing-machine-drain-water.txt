@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Get Water Out of Your Washer"
+headline: "How to Get Water Out of Your Washer"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-08-29
+basePath: https://library.homeserve.com/m/
+heroImage: 4ba8804e56051128/webimage-LaundryHS.png
+heroAltDescription: "unloading washing machine"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Got standing water in your washing machine? Here are a few things to try to help it clear out."
+articleAbstract: "Got standing water in your washing machine? Here are a few things to try to help it clear out and get your washer working properly again."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Get Water Out of Your Washer"
+  parent: Appliances-How-To
+---
+  A washing machine is a true workhorse appliance, and if it quits on you unexpectedly, it can wreak havoc on your laundry routine. To make matters worse, sometimes a washer will stop working mid-cycle, leaving you with gallons of standing water to deal with. So, what’s the easiest way to get water out of your washer without making a royal mess?
+
+**This May Also Interest You:** [**Why Is My Washing Machine Leaking?**](https://www.homeserve.com/en-us/blog/how-to/washer-leak/)
+
+The truth is, there are a couple of different approaches to removing water from the washing drum when your washer won’t drain. Which one will work best for you will depend on the issue and the type of machine you have. Here’s a list of do-it-yourself strategies you can use to try and remove the water from your machine and ready it for whatever repair might be necessary.
+
+4 Ways to Get Standing Water Out of Your Washer
+-----------------------------------------------
+
+### Check the Lid
+
+As with most troubleshooting, it can pay to start with the simplest possible solution. First, double-check that the washer’s lid (or door for front-loading machines) is completely closed, since this can sometimes prevent washers from completing a cycle. Many washers have a lid switch that must be in the locked position in order to run. If your washer has one of these, make sure the lid is clicking into place properly so that it’s engaging the switch. If you aren’t sure it’s working, you can try to press the lid switch manually and listen for that tell-tale clicking noise. If you don’t hear it shift into place, this could be your problem.
+
+### Try the Spin Cycle
+
+If the lid’s not the issue, see if you can turn your machine to the spin cycle manually and try to drain the water that way. You can also go for the old “turn it off and on again” technique here by unplugging it and plugging it back in. It could be that your machine just had a weird mechanical blip that wasn’t allowing it to drain properly, and resetting it may solve the problem.
+
+### Drain the Drain Hose
+
+If the spin cycle technique didn’t work, you can try draining the drain hose instead. Important note: You’ll want to make sure to turn off both the power and water supply before attempting this to prevent electric shock or flooding. Even so, you should plan on water leakage, so go ahead and put some old towels down to protect your floor.
+
+#### For Top-Loading Machines
+
+You’ll need to pull the washing machine away from the wall to reach the drain hose in the back. The drain hose connects your washer to a drain pipe in the wall and is typically gray. Before removing it, just double-check that it’s not kinked or twisted in a way that may be preventing your washer from draining properly.
+
+If that doesn’t seem to be the problem, you can go ahead and disconnect the drain hose from the wall, holding it upright so the water doesn’t run out until you are ready to let the water from your machine drain into a bucket or other container.
+
+While you have the hose disconnected from the wall, go ahead and check to see if there’s any debris stuck in the pipe. If your washer’s drain hose is clogged, that could be to blame for your drainage problem.
+
+**More Related Articles:**
+
+*   [Here’s Why Your Washing Machine Is Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/washer-making-loud-noise/)
+*   [How to Clean a Washing Machine Drain](https://www.homeserve.com/en-us/blog/how-to/clean-washing-machine-drain/)
+*   [Why Does My Washing Machine Smell?](https://www.homeserve.com/en-us/blog/how-to/clean-washing-machine/)
+*   [Should You Repair or Replace Your Washing Machine?](https://www.homeserve.com/en-us/blog/home-improvement/washing-machine-repair-replacement/)
+*   [How to Move Your Washing Machine](https://www.homeserve.com/en-us/blog/how-to/move-washing-machine/)
+
+#### For Front-Loading Machines
+
+You’ll need to remove the access panel on the bottom front of the washer to access the drain line. Some front-load washing machines come with a single drainpipe filter, but some have both a drainpipe filter and a drain hose. For machines with only a drain pump filter, you can put a shallow container (like a plastic bin or old cake pan) under the filter to catch the water, turning the knob slowly so the water doesn’t pour out too quickly. You can dump the water as the container fills up and repeat until you’ve drained all the water.
+
+If you have both a drainpipe filter and a pipe, you’ll need to unclip the drain tube, remove the end cap, and let the water drain from the pipe that way. While you’re here, you can go ahead and inspect the drainpipe filter for debris and scrub clean if necessary.
+
+### Manual Draining
+
+If you try the above steps, but the water still doesn’t want to drain from your drain pipe, you likely still have a clog that you can’t locate. In this scenario, you may have to manually remove the water by scoping it directly out of the drum. This will require a container for scooping and a lot of towels to help with inevitable spillage and for sopping up the last bit of water in the drum. It’s not the most glamorous of tasks, but you’ll be glad to have all that standing water out of your washer until you can troubleshoot further.
+
+Down the Drain
+--------------
+
+A washer not draining is a real downer, but sometimes the issue isn’t as serious as it seems. That said, appliances don’t always cooperate, and if you run into problems with any of the above approaches, you may have to call in a service professional to help get the job done.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Water Line Repair and Replacement | What You Can Expect to Pay"></iframe>

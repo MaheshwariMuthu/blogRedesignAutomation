@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Protect Your Home From Landslides and Mudslides"
+headline: "How to Protect Your Home From Landslides and Mudslides"
+author: Kaia Koglin
+tags: ["post"]
+publishDate: 2023-09-14
+basePath: https://library.homeserve.com/m/
+heroImage: 3eb8395fb23b4622/Blog-GettyImages-1220671378.jpg
+heroAltDescription: "A house sliding into the ocean at San Pedro"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "It’s important to know how to protect your house from a landslide. The right protection can save your home and your life."
+articleAbstract: "Landslides can happen in all areas of the country. Given that, it’s important to know how to protect your house from a landslide. The right protection can save your home and your life."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Protect Your Home From Landslides and Mudslides"
+  parent: Exterior-Home-How-To
+---
+  The [United States Geological Survey](https://www.usgs.gov/faqs/can-major-landslides-and-debris-flows-happen-all-areas-us) (USGS) reports that landslides can happen in all areas of the country. Even states that are considered flat can experience a landslide or mudslide. The costs of landslides aren’t tracked, but a [1980 report](https://www.usgs.gov/publications/estimating-costs-landslide-damage-united-states) estimated that they caused more than $1 billion in damage each year, and that amount has certainly increased. Worse, landslides cause an average of [25 to 50 deaths](https://www.cdc.gov/disasters/landslides.html) annually in the United States.
+
+This May Also Interest You: [How to Create a Disaster Preparedness Plan](https://www.homeserve.com/en-us/blog/how-to/disaster-preparedness-plan/)
+
+Given that, it’s important to know how to protect your house from a landslide. The right protection can save your home, your life and the lives of your family members.
+
+How Do Landslides and Mudslides Happen?
+---------------------------------------
+
+Landslides occur when masses of rock, earth and debris move down a slope and are caused by disturbances in the stability of a slope. This can happen when the slope experiences heavy rains, earthquakes, volcanic eruptions or rains after a drought.
+
+A mudslide is a particular type of fast-moving landslide. These occur when a lot of water quickly gathers on the ground. The surge of water-saturated rocks, earth and debris generally flows through channels.
+
+Although landslides can happen in every state, areas that are more at risk include:
+
+*   Places where vegetation has been destroyed by wildfires or human intervention
+*   Steep slopes or areas at the bottom of steep slopes or canyons
+*   Places where landslides have happened before
+*   Channels along a stream or river
+*   Areas where surface runoff is directed
+*   Slopes that have been altered for construction or roads
+
+What Are Some Ways to Protect Your Home From Landslides and Mudslides?
+----------------------------------------------------------------------
+
+The best landslide protection is to build your home somewhere that isn’t susceptible to landslides. However, slopes are popular places for homes due to the beautiful views. If you are in an at-risk area, there are some steps you can take to make your home safer.
+
+### Know the Risks
+
+Get local information about your risk. The [FEMA Flood Map Service Center](https://www.fema.gov/flood-maps) can show you if you’re at risk of flood, which can increase the chances of a landslide. Find out if the area has already experienced a landslide by contacting local officials or the state geological survey. A professional ground assessment can also help you determine your risk. Finally, learn about the emergency response plans in your area and make an evacuation plan.
+
+### Minimize Home Hazards
+
+Landscaping can help you protect your home. Leave in place any plants that are protecting against erosion on the slope. If the slope is bare, talk to a landscape designer about the types of plants that will grow well and stabilize the ground.
+
+Properly designed retaining walls can also help protect your home. Just remember that if you want them to hold back soil, they need to be designed by a professional and built by someone who can follow the plans exactly. Retaining walls for landslide protection isn’t a DIY job. Channels or deflection walls can also be built to direct the flow of mudslides around buildings. Make sure the water isn’t diverted to a neighbor’s home, or you’ll be liable for any damage.
+
+Landslides often cause gas and water leaks when pipes are damaged. Flexible pipe fittings are designed not to break when exposed to ground movement from landslides, earthquakes and similar events. If your home’s at risk, it’s a good idea to get these fitted.
+
+**More Related Articles:**
+
+*   [Hurricanes Happen: How Ready Is Your Home?](https://www.homeserve.com/en-us/blog/how-to/hurricane-prep/)
+*   [**How to Survey Your Home for Storm Damage**](https://www.homeserve.com/en-us/blog/how-to/survey-storm-damage/)
+*   [**It’s Hurricane Season! Here’s Everything You Need to Know to Prepare Your House for Storms**](https://www.homeserve.com/en-us/blog/home-improvement/hurricane-preparedness/)
+*   [Gimme Shelter: Here’s What You Need to Know About Building Home Storm Shelter](https://www.homeserve.com/en-us/blog/home-improvement/storm-shelter/)
+*   [What’s a Storm Chaser and Should You Hire Them to Fix Your Roof?](https://www.homeserve.com/en-us/blog/home-improvement/roof-repair-storm-chasers/)
+
+Staying Safe During a Landslide
+-------------------------------
+
+Even if you take all those steps, it’s still important to know how to stay safe during a landslide. First, know mudslide warning signs. These include:
+
+*   Unusual sounds such as boulders knocking together or trees cracking
+*   Water breaking through the ground in new locations
+*   Collapsed pavement and evidence of debris flow on roads
+*   Fences, retaining walls or trees tilting or moving
+*   Bulging ground appearing at the bottom of a slope
+*   New cracks appearing in your plaster, tile, brick or foundations
+
+If there’s heavy rain, flooding or other risk factors, it’s important to stay awake and alert so you’re ready to act. Leave if it’s safe to do so. If you have to stay, move to the upper level of your home. The [USGS recommends](https://www.usgs.gov/programs/landslide-hazards/landslide-preparedness) curling into a tight ball and protecting your head if escape isn’t possible.
+
+Once the landslide is over, call for help. Emergency services can coordinate search and rescue operations in the area. Avoid the slide area after it’s over until you're advised it's safe. When you return to your house, check for structural damage before you reenter.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/AiOm6NUkeK4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Prep for a Storm"></iframe>

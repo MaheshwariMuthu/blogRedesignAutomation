@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Hot Coffee! Burn Injuries Cited in Recall of 25,000 SOWTECH Espresso Machines"
+headline: "Hot Coffee! Burn Injuries Cited in Recall of 25,000 SOWTECH Espresso Machines"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-07-15
+basePath: https://library.homeserve.com/m/
+heroImage: 4066eb961738f496/Blog-SOWTECHEspressoMachineRecall_LoHiTech_0001.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "LoHi Tech has recalled almost 25,000 SOWTECH espresso machines because the glass carafe can break while in use, posing a burn risk."
+articleAbstract: "Read this before you make your next cup of coffee: LoHi Tech has recalled almost 25,000 SOWTECH espresso machines due to a burn risk. The Consumer Product Safety Commission reported that the espresso machines’ glass carafe can break while in use."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "LoHi Tech Recalls SOWTECH Espresso Machines Due to Burn Hazard"
+  parent: Appliances
+---
+  Read this before you make your next cup of coffee: LoHi Tech has recalled almost 25,000 SOWTECH espresso machines due to a burn hazard.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+In the July 8 [recall announcement](https://cpsc.gov/Recalls/2021/LoHi-Tech-Recalls-SOWTECH-Espresso-Machines-Due-to-Burn-Hazard-Recall-Alert), the Consumer Product Safety Commission reported that the espresso machine’s glass carafe could break while in use, exposing the user to hot liquid. LoHi Tech has received 48 reports of broken carafes, which resulted in five burn injuries.
+
+According to the Walnut, Calif.-based distributor, this recall affects SOWTECH espresso machines with model number CM6811 printed on a silver label on the bottom of the unit. Only units with glass carafes are affected by this recall.
+
+The espresso machines roasters were manufactured in China and sold online at [Amazon.com](http://amazon.com/) and [LoHi-Direct.com](https://lohi-direct.com/) between March 2017 and October 2020 for about $60.
+
+If you purchased a recalled espresso machine, you should stop using it immediately. Contact the manufacturer to receive a free replacement metal carafe. Call the company toll-free at 888-613-3170, email [lohitech@outlook.com](mailto:lohitech@outlook.com) or register online [here](http://www.amz-lohitech.com/). LoHi Tech is contacting all purchasers directly.
+
+For more consumer product safety information, visit [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Fire Risk: Metal Ware Recalls NESCO Coffee Bean Roasters Overs Reports of ‘Flames and Smoke’](https://www.homeserve.com/en-us/blog/home-improvement/nesco-coffee-bean-roaster-recall/)
+*   [Don’t Be Shocked: Kalorik Recalls Over 3,000 Electric Grills Due to Shock Hazard](https://www.homeserve.com/en-us/blog/home-improvement/kalorik-electric-grill-recall/)
+*   ['Burning Smells, Flames and Smoking’ Cited in Recall of 42,000 Cove Appliance Dishwashers](https://www.homeserve.com/en-us/blog/home-improvement/cove-appliance-dishwasher-recall/)
+*   [IKEA Recalls 148,000 Bowls, Plates and Mugs Over Burn Risk](https://www.homeserve.com/en-us/blog/home-improvement/ikea-dishes-recall/)
+*   [5.4 Million Clothing Steamers Recalled by HSN Over ‘Severe Burn Hazard’](https://www.homeserve.com/en-us/blog/home-improvement/hsn-clothing-steamer-recall/)<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/Aytnp3vDsqM?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

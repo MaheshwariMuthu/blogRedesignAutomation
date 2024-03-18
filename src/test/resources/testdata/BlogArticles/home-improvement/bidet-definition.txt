@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Bidet?"
+headline: "What's a Bidet?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-06-07
+basePath: https://library.homeserve.com/m/
+heroImage: b703778dedfeb85/Blog-GettyImages-627314554.jpg
+heroAltDescription: "bidet toilet"
+metaDescriptions: "While quite common around the world, the United States has been slow to embrace the bidet. Here's everything you need to know about bidets."
+articleAbstract: "While quite common around the world, the United States has been slow to embrace the bidet. These devices provide streams of water to clean your nether regions. Here’s everything you need to know — and perhaps a bit more — about bidets."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is a Bidet?"
+  parent: Plumbing-Home-Improvement
+---
+  While quite common around the world, the United States has been slow to embrace the bidet (pronounced bid-ay). These devices provide streams of water to clean your nether regions. They can be used instead of or in addition to toilet paper to clean up after toileting or simply as a way to freshen up. If you're thinking of adding one to your home, you'll have two styles to choose from: those that attach to your existing toilet or standalone units.
+
+**This May Also Interest You:** [**What’ll a New Toilet Do to Your Bottom Line? Here’s What It Costs**](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-toilet-installation-cost/)
+
+Here’s everything you need to know — and perhaps a bit more — about bidets.
+
+Why Use a Bidet?
+----------------
+
+While Americans have always found the idea of using jets of water to clean up after using the toilet strange, for many living in Europe and Asia, a bathroom devoid of a bidet would be equally odd — as would flushing excessive amounts of paper down the toilet. In fact, Europeans have been using the devices for about 300 years, while the Japanese have led the way in creating luxury bidets with a range of high-tech functions.
+
+Not only do bidets provide a hygienic way of getting clean, they’re also ecologically sound. According to [Fortune](https://fortune.com/2019/02/28/us-toilet-paper-consumption-canada-forests/), Americans use more toilet paper than any other country, with the average person using almost three rolls per week, or about 141 rolls per year. A [report](https://www.nrdc.org/resources/issue-tissue-how-americans-are-flushing-forests-down-toilet) by the National Resources Defense Council found that toilet tissue production was leading to the destruction of Canada's old-growth boreal forests in what it termed a "tree-to-toilet pipeline." And while bidets do use water to function, they only [use](https://www.scientificamerican.com/article/earth-talks-bidets/#:~:text=Biolife%20Technologies%2C%20manufacturer%20of%20the,about%20four%20gallons%20per%20flush.&text=Once%20reserved%20for%20Europeans%2C%20bidets,world%E2%80%94except%20in%20North%20America.), on average, about ⅛ of a gallon per actuation while producing a single roll of toilet paper requires 37 gallons of water, 1.3 kilowatt hours of electricity and 1.5 pounds of wood to produce, according to [Treehugger](https://www.treehugger.com/stop-using-toilet-paper-get-the-blue-bidet-4857528).
+
+Bidets also combine the benefit of wet wipes without the waste and the drain-clogging potential of the pre-moistened sheets of paper. Like wet wipes, they are less abrasive than toilet paper, but do an equal — if not better — job of cleaning. For that reason, they can be a good choice for people suffering from hemorrhoids or similar issues.
+
+Types of Bidets
+---------------
+
+As we mentioned earlier, there are two basic types of bidets: those that attach to your existing toilet and freestanding units.
+
+A freestanding bidet looks like a cross between a toilet bowl and a short sink. They are meant to be used in the straddle position. In fact, the word "bidet" comes from the French for "pony" in a nod to this stance. Because freestanding bidets are low to the ground, they can be difficult for those with mobility issues to use. They can also be expensive to install. Because they will need their own incoming water line and drain line hookups, the services of a plumber are required.
+
+Far easier, cheaper and equally effective options are either a bidet attachment, a bidet toilet seat or a hand-held sprayer — all of which attach to your existing toilet.
+
+**More Related Articles:**
+
+*   [Taking Out a Toilet? Be Sure to Drain It First](https://www.homeserve.com/en-us/blog/how-to/drain-toilet/)
+*   [Never Flush These 11 Things Down Your Toilet](https://www.homeserve.com/en-us/blog/home-improvement/things-to-never-flush-down-toilet/)
+*   [Condensation on Your Toilet? Don’t Sweat It](https://www.homeserve.com/en-us/blog/home-improvement/condensation-toilet-tank/)
+*   [How to Fix Your Toilet Handle in 6 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/fix-your-toilet-handle/)
+*   [Stop Flushing Money Down the Toilet: Go Low-Flow](https://www.homeserve.com/en-us/blog/buying-guide/low-flow-toilet/)
+
+### Bidet Attachments
+
+Bidet attachments come in two forms. First is some kind of device that installs under your current toilet seat. In their most basic design, this style of bidet attachment simply ties into the clean water line that feeds your toilet and diverts a bit of it out through a nozzle at the back of the toilet.
+
+More advanced versions of these devices also let you attach to a hot water line in your bathroom for the ability to get the temperature just right. They may also feature nozzles at the front and back, or some that move with the flick of a lever or button. Some models have self-cleaning nozzles. Other truly spruced-up models will plug into an outlet (make sure it’s [GFI](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)!) to add additional features like lights, deodorizing functions, heated seats and even jets of warm air to get you nice and dry when you're done.
+
+### Toilet Seat
+
+A bidet toilet seat works very much like the models that install under your existing seat. In the case of these models, however, you simply replace your entire toilet seat with the device. They tend to be more expensive, but they can also be more comfortable and help you avoid any possible issues with an attachable unit not fitting well beneath your existing toilet seat. As with the bidet attachments, bidet toilet seats come in a range of options from basic cold-water cleaning to more advanced models with heated seats, blow dryers and other helpful features.
+
+### Spray Hoses
+
+For a super easy, low-key option, a simple spray hose might be the way to go. These devices connect to your toilet's fresh cold water line and look and function very much like the spray hose you've no doubt seen next to kitchen sink faucets. A hook typically hangs from the top of the toilet tank beneath the lid for holding the sprayer when not in use. Sprayers are also affordable, coming in around the $50 range.

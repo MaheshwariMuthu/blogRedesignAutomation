@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Does It Mean When a Product Is Energy Star-Rated?"
+headline: "What Does It Mean When a Product Is Energy Star-Rated?"
+author: Sandy Hess
+tags: ["post"]
+publishDate: 2023-10-04
+basePath: https://library.homeserve.com/m/
+heroImage: 75c46c856cab79a5/Blog-GettyImages-1329385425.jpg
+heroAltDescription: "Young couple looking for a proper drying machine"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The Energy Star program has two main goals: reducing greenhouse gas emissions and helping you identify which products are energy efficient."
+articleAbstract: "Energy Star is a governmental program managed by the EPA and the U.S. Department of Energy. Here's what it means if a product is Energy Star-rated."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Does It Mean When a Product Is Energy Star-Rated?"
+  parent: Appliances
+---
+  Are rising utility costs cutting into your household budget? If so, you’re not alone. Many households across North America are struggling with rising energy costs.
+
+**This May Also Interest You:** [**How to Keep Your Lawn Green While Also Conserving Water**](https://www.homeserve.com/en-us/blog/how-to/conserve-water-on-lawn/)
+
+While there are several steps you can take to lower these bills, one of the most effective ways to reduce utility costs is to replace your broken or outdated appliances, electronics and other relevant products with ones that are Energy Star-rated.
+
+What Is Energy Star?
+--------------------
+
+Energy Star is a governmental program managed by the U.S. Department of Environmental Protection and the U.S. Department of Energy. This program has two main goals: reducing greenhouse gas emissions and helping consumers identify which products are energy efficient.
+
+To accomplish this goal, the EPA reviews various products for energy efficiency. Companies with products that meet the government’s strict standards can prominently attach the Energy Star label to these products' packaging. This label is typically easy to identify. It has a blue background and a white star with the words Energy Star. If you see this label on a product, it symbolizes that the product uses less energy than those products without the label.
+
+Don’t confuse the Energy Star label with the Energy Guide label, which has a yellow background. While the Energy Guide label can provide valuable information about a product’s energy use, it doesn’t mean the product earned an Energy Star rating. The Energy Guide program is regulated through the Federal Trade Commission (FTC) and not the EPA.
+
+Since its inception in 1992, the [Energy Star program](https://www.energystar.gov/about) has helped consumers collectively:
+
+*   Reduce greenhouse gas emissions by 4 billion metric tons
+*   Lower energy costs by $500 billion
+*   Decrease electric usage by 5 trillion kilowatt hours
+
+**More Related Articles:**
+
+*   [15 Ways to Save on Your Electric Bill](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+*   [How to Use Insulation to Save Energy and Money](https://www.homeserve.com/en-us/blog/home-improvement/insulation-tips/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [What Is Vampire Power and How Do I Reduce It?](https://www.homeserve.com/en-us/blog/how-to/phantom-loading/)
+*   [4 Ways to Make Your Refrigerator More Efficient](https://www.homeserve.com/en-us/blog/home-improvement/refrigerator-efficiency-tips/)
+
+What Does It Mean When a Product Is Energy Star Rated?
+------------------------------------------------------
+
+For a product to earn an Energy Star rating, it must undergo stringent testing at an EPA-approved lab. The EPA certification board then reviews these test results and other relevant information. Only those products that meet the EPA’s strict standards can earn an Energy Star rating.
+
+Specific energy-efficient standards vary from product to product, but all Energy Star-rated appliances, electronics and other relevant products must "use less energy to get the job done." Each product must meet a [series of standards](https://www.energystar.gov/products/how-product-earns-energy-star-label):
+
+*   It must provide significant energy savings.
+*   Product performance and features must meet industry standards.
+*   Any price difference between standard products must be recoverable through energy savings over a reasonable period.
+*   Labels must be clearly visible to consumers.
+*   Basic consumers can achieve energy efficiency through widely available technologies.
+
+It’s important to note that the Energy Star program doesn’t include a rating scale. Instead, products either receive an Energy Star certification or they don’t. However, the EPA releases a list of the [most energy-efficient products](https://www.energystar.gov/products/most_efficient) in each category every year.
+
+What Kinds of Products May Have an Energy Star Rating?
+------------------------------------------------------
+
+The Energy Star program covers over 75 types of residential and commercial products, including:
+
+* **Residential and commercial appliances** (refrigerators, washing machines, clothes dryers)
+* **Building products** (windows, doors, skylights)
+* **Commercial food equipment** (commercial ice machines, commercial ovens, commercial freezers)
+* **Data center equipment** (servers, network equipment)
+* **Electronics** (TVs, sound systems, phones)
+* **Heating and cooling** (HVAC units, heat pumps, portable air conditioning units)
+* **Lighting** (ceiling fans, string lights, security lights)
+* **Office equipment** (computers, monitors, copiers)
+* **Water heaters**
+
+Purchasing products with an Energy Star label can help you save on energy costs by [reducing the amount of power](https://www.energystar.gov/products/what_makes_product_energy_star#:~:text=ENERGY%20STAR%20products%20are%20the,the%20US%20Department%20of%20Energy.) needed to use them. For example, an Energy Star refrigerator can be up to 15% more energy efficient than a standard one. Additionally, energy-efficient light bulbs, such as CFL light bulbs, use more than 65% less energy than standard lights. You can check out the EPA’s [Energy Star Product Finder to](https://www.energystar.gov/productfinder/) see a complete list of products.
+
+In addition to products, Energy Star also certifies new residential and commercial [buildings](https://www.energystar.gov/partner_resources/residential_new/about). For example, newly constructed homes and apartments must be at least 10% more efficient than standard constructions to earn the Energy Star certification.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

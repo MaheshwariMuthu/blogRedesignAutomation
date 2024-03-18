@@ -1,0 +1,79 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Do Roofing Shingles Cost?"
+headline: "How Much Do Roof Shingles Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-04-01
+basePath: https://library.homeserve.com/m/
+heroImage: 69674fa68fa4bf4/Blog-GettyImages-165887973.jpg
+heroAltDescription: "roofing contractor lays new shingles"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Roofing is expensive, so it’s important to understand what contributes to the cost and how to save money. "
+articleAbstract: "The national average cost of roof shingles is $5,000 to $18,000. With such high prices, it’s important to understand what contributes to the cost and how to save money. "
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Do Roof Shingles Cost?"
+  parent: Exterior-Cost-Guide
+---
+  If you’ve got water coming in from the ceiling or you’re missing a few roof shingles, it may be time to think about a new roof. A good roof protects your home from the elements, adds to curb appeal and lasts at least a decade, which is why it's such a large investment.
+
+**This May Also Interest You:** [**7 Ways to Extend the Life of Your Roof**](https://www.homeserve.com/en-us/blog/home-improvement/roof-maintenance-tips/)
+
+According to data from [Fixr](https://www.fixr.com/costs/install-roof-shingles), the national average cost of roof shingles is $5,000 to $18,000 (CAD 6,900 to CAD 24,700). With such high prices, it’s important to understand what contributes to the cost and how to save money.
+
+Roof Shingles: Costs by Type
+----------------------------
+
+There are many different types of roof shingles available, and the [costs can vary widely](https://housemethod.com/roofing/roof-shingles-price/).
+
+### Asphalt
+
+Asphalt is the most common and inexpensive material for roof shingles. Currently, the price averages 90 cents per square foot (CAD 1.25). However, there are shortages in the materials used to make these tiles, so prices are expected to climb.
+
+### Slate
+
+Slate is a very durable roofing option. With proper installation and maintenance, natural slate shingles can last up to 200 years. They also look great, adding to the value of your home. This makes them one of the pricier options, with costs of between $7 and $12.50 (CAD 9.50 and CAD 17.15) per square foot.
+
+### Wood
+
+Wood shingles are normally made of cedar, which has natural insect and rot resistance. It’s popular on cottages and older homes. The cost ranges from $3.50 to $5 (CAD 4.80 to CAD 7) per square foot.
+
+### Metal
+
+Common metals used in roof shingles include copper, tin, aluminum and steel. Depending on which type of metal is used, costs can range from $3 to $25 (CAD 4 to CAD 35) per square foot.
+
+### Solar
+
+Solar shingles look like traditional roofing but generate electricity from the sun. The costs average $22 per square foot (CAD 30).
+
+### Composite
+
+Composite shingles are made from various materials and are designed to look like other roof types, such as slate or wood. They tend to be less expensive and easier to maintain than the real material, with costs averaging $4 per square foot (CAD 5.50).
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install Metal Roofing?](https://www.homeserve.com/en-us/blog/cost-guide/metal-roof-installation/)
+*   [You Don’t Have to Be Rolling in It to Afford a New Roof: Roll Roofing Installation Costs](https://www.homeserve.com/en-us/blog/cost-guide/rolled-roofing-installation/)
+*   [What Are Solar Shingles ... and Do They Work?](https://www.homeserve.com/en-us/blog/home-improvement/solar-shingles/)
+*   [How Much Does a New Roof Cost?](https://www.homeserve.com/en-us/blog/cost-guide/roof-replacement-costs/)
+*   [What’s a Storm Chaser and Should You Hire Them to Fix Your Roof?](https://www.homeserve.com/en-us/blog/home-improvement/roof-repair-storm-chasers/)
+
+How Much Does Installation Cost?
+--------------------------------
+
+Most roofers charge between [$50 and $120](https://www.fixr.com/costs/install-roof-shingles) per roofer per hour (CAD 70 and CAD 165). Most roofing jobs require at least two roofers. The more complex projects require more workers. In addition to the cost of installing new roof shingles, you must also factor in the time and cost of removing the old roofing and putting in a new underlayer. Labor costs for an average 1,500-square-foot roof are $4,500 to $7,500 (CAD 6,175 to CAD 10,300).
+
+If your roof is bigger or smaller, you can calculate costs based on your roof size. Labor costs are generally $2.50 to $6 (CAD 3.50 to 8.25) per square foot. More time-consuming materials have higher costs. For example, slate and copper shingle installation starts at $5 and $7 per square foot, respectively (CAD 7 and CAD 9.60).
+
+Installation of solar shingles requires specialized labor and an electrician to connect the system, so it can be more expensive. However, solar roofs are eligible for federal tax rebates and can lower [electricity costs by 40% to 70%](https://www.fixr.com/costs/solar-shingles-installation).
+
+What Factors Can Influence the Total Price?
+-------------------------------------------
+
+The biggest factor influencing the total overall price is the type of shingle. Shingle costs can range from 90 cents and $25 (CAD 1.25 and CAD 35) per square foot, so your choice of shingle material can have a huge impact on total costs.
+
+In addition to shingle type, the cost and amount of labor can influence the total price. Labor costs can differ depending on where you live. A larger roof requires more shingles and more labor hours, adding to total costs. It also takes more time for roofers to work around gables, skylights, solar panels and other roof features.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/reJaChMAC_w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Roof Replacement Costs | How Much Does it Cost to Replace a Roof?"></iframe>

@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "CES Innovations Awards Honorees"
+headline: "7 Weird, Wacky and Wild CES 2023 Innovation Awards Honorees"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-01-10
+basePath: https://library.homeserve.com/m/
+heroImage: 4f121f943faed969/Blog-JAN_3938.jpg
+heroAltDescription: "CES 2022 convention"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "CES is the largest consumer electronics convention in the world. Here are seven unique Innovation Award Honorees from 2023's show."
+articleAbstract: "CES is the largest consumer electronics convention in the world. Here are seven unique Innovation Award Honorees from 2023's show."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "7 Weird, Wacky and Wild CES 2023 Innovation Awards Honorees"
+  parent: Interior-Home-Home-Improvement
+---
+  __
+
+_Consumer Technology Association photo_
+
+[CES,](https://www.ces.tech) the largest consumer electronics show in the world, is held in Las Vegas at the start of every year. While it regularly showcases updates to existing products like TVs and Bluetooth speakers, the really juicy part of the convention is found in some of the more extreme gizmos and gadgets that are honored by a panel of judges with an Innovation Award.
+
+**This May Also Interest You:** [**What’s the Internet of Things?**](https://www.homeserve.com/en-us/blog/home-improvement/internet-of-things/)
+
+These awards showcase top concepts in the design and engineering of consumer tech. And, while they may not all be produced for mass-market consumption, they are pretty impressive concepts that are super fun to dream about, if not own.
+
+Here are seven of the weirdest, wackiest and wildest CES 2023 Innovation Award Honorees.
+
+<img class="detail-image" src="https://library.homeserve.com/m/43d1b88de4f5a7cc/Blog-Resonx-Device-03.jpg" alt="Reszonx Product Image"/>
+
+Whole-Body Music Experience
+---------------------------
+
+While Bluetooth speakers are getting better and better every year, they all still share the same limitation: They play music out loud that's picked up by your ears. The engineers at [Edge Sound Research](https://www.edgesoundresearch.com) wondered why music should only be experienced by the ears and not the whole body. So they invented the [Resonx Core](https://www.edgesoundresearch.com/resonx-core), a speaker that straps onto the back of a chair and sends sound waves throughout the body of the person sitting there. The result, according to beta testers, is a sound experience unlike any to come before.
+
+The Resonx Core will be available for pre-order in 2023. The total launch price is $799.
+
+There’s More to Your Reflection
+-------------------------------
+
+"Mirror, mirror on the wall, who's the … Oh, never mind that. Do I have any emails?"
+
+With everything from pillows to clothes dryers getting smart these days, why not your mirror? That's the thinking from [Hey Mirror](https://www.ces.tech/innovation-awards/honorees/2023/honorees/h/hey-mirror.aspx) by EONEOMS, a clean-lined looking glass that not only reflects your own image back to you, but it also connects to a range of services to provide you the news, updates on the weather and really all of the things Siri, Alexa and Google can already tell you, but in a mirror format. The mirror doubles as a display screen, which means you can set it to show important notifications, so you can see them when you check your look on the way out the door in the morning.
+
+<img class="detail-image" src="https://library.homeserve.com/m/5bdbe0b9480fd44e/Blog-fluentpet-connect-basic-vocab-kit.jpg" alt="FluentPet Connect product image"/>
+
+Talk to Your Pet
+----------------
+
+Ever wish your dog could text you while you're at work? With the latest release of [FluentPet Connect](https://fluent.pet/pages/fluentpet-connect) tiles and buttons, they should be able to do just that. [FluentPet](https://fluent.pet) already makes a series of tiles and buttons that theoretically let pets communicate with their owners — with some training, of course. The pet owner programs a series of buttons with a voice queue like "outside," "water" or "love." Then, the thinking goes, by stepping on the button, dogs can communicate with their owners. The next iteration of the system includes connectivity through a smartphone app that will text owners the messages made by the button-pushing pets when they are away from home.
+
+The FluentPet Connect is currently available for pre-order.
+
+**More Related Articles:**
+
+*   [Samsung Smart Refrigerators: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-refrigerator/)
+*   [What Is a Google Nest Learning Thermostat and What’s It Do?](https://www.homeserve.com/en-us/blog/buying-guide/google-nest-thermostat/)
+*   [How to Set Up a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/setup-ring-doorbell/)
+*   [Everything You Need to Know about Samsung Smart Microwaves: Features and Functionality](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-microwave/)
+*   [How Much Does It Cost to Install a Keyless Door Lock?](https://www.homeserve.com/en-us/blog/cost-guide/keyless-door-lock/)
+
+Auto Cat Feeder
+---------------
+
+The [Yomy robot](https://www.ces.tech/innovation-awards/honorees/2023/honorees/y/yomy.aspx) is one for the cat lovers out there. This box-shaped robot promises to dispense either wet or dry cat food to your feline friend when you're not home. It comes with a mobile app that provides a "real-time link with the cat parent."
+
+Personalized Supplements
+------------------------
+
+We've all seen the sci-fi shows or films where people in the future are too busy (or too afraid of staining their white suits) to sit down and eat an actual meal. Instead, they opt for some kind of goo dispatched through a hole in the wall. That's sort of what [NutriManager](https://www.ces.tech/innovation-awards/honorees/2023/honorees/a/algocare-nutrimanager.aspx) will do. It claims that it will be able to analyze your nutrition needs based on user input and "facial/voice diagnosis." Once the system processes that data, it will generate a "precise, personalized nutrients combination using 4mm-sized supplements." Yum.
+
+<img class="detail-image" src="https://library.homeserve.com/m/11ec66a503aa3f92/Blog-KOHLER-Stillness_aad47857.jpg" alt="Kohler bath product image"/>
+
+Bathe in the Forest … In Your Home
+----------------------------------
+
+Well-known bathroom appliance manufacturer Kohler aims to change the very definition of a relaxing bath with this truly whiz-bang tub inspired by Japanese forest bathing: the [Stillness Bath](https://www.studiokohler.com/en-us/products/bathroom-us/bathtubs/stillness-bath). For starters, the water fills from the bottom up, so there's no loud splashing stream coming out of the faucet. When the water reaches the top, it overflows into a moat surrounding the tub, so say goodbye to that annoying overflow drain that stops your water from filling all the way up. From here, we're going to let Kohler take it: "Full spectrum lighting surrounds the bath, creating a chromatherapy experience. Fog envelopes the surface of the water, immersing the bather, and essential oils can be added into the bath’s experience tower, which emits aromas to stimulate the senses and promote focus." _Ahhh_.
+
+<img class="detail-image" src="https://library.homeserve.com/m/686058d6ed87d489/webimage-SonoRepro_04.png" alt="Sono Repro product image"/>
+
+High-Tech Scalp Care
+--------------------
+
+While it might _look_ like a showerhead, the [SonoRepro](https://sonorepro.com) handheld device shoots soundwaves — not water — at your head. The manufacturer, Pixie Dust Technologies, claims that said soundwaves provide “non-contact vibrotactile stimulation,” which, they say, is good for the scalp. Users power on the device, then hold it in place on the scalp. While the outer edge of the device touches the head, the 61 sound-generating components don't. Every minute, the device vibrates to remind you to move it to a different spot.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/qpoqCRPHjqE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Find Your iPhone or Android Smartphone Serial Number"></iframe>

@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Smart Garage-Door Opener?"
+headline: "Is a Smart Garage Door a Wise Investment? Here's What You Need to Know"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-08-01
+basePath: https://library.homeserve.com/m/
+heroImage: 6d466cf5ab0052d7/Blog-SmartGarageOpenerERossi-1127.jpg
+heroAltDescription: "garage door opener"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Unsure whether upgrading your garage door is a good investment? Here’s what you should know."
+articleAbstract: "Installing a smart garage-door opener can make your garage more convenient and secure.  Unsure whether upgrading your garage door is a good investment? Here’s what you should know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Is a Smart Garage Door a Wise Investment? Here's What You Need to Know"
+  parent: Exterior-Home-Home-Improvement
+---
+  A smart revolution is taking place in homes across the country, and these modern upgrades even extend to garage doors. While the concept of Wi-Fi-enabled garage doors might seem confusing, installing a smart garage-door opener can make your garage more convenient and secure. 
+
+**More Related Articles:** [**How Much Do Smart Garage-Door Openers Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/smart-garage-door-opener-services/)
+
+Unsure whether upgrading your garage door is a good investment? Here’s what you should know.
+
+What Is a Smart Garage-Door Opener?
+-----------------------------------
+
+A smart garage-door opener is a device that lets you control and monitor your garage door remotely. These devices replace a traditional wired or wireless remote control and let you open and shut your garage hands-free by installing the accompanying app on your smartphone. Therefore, you don't need to be physically present to open your garage using a smart garage-door opener.
+
+These devices are often a good solution for people who need to let others into their property while away from home. Many models allow you to add extra users and restrict or enable access for different people.
+
+There are two types of smart garage-door openers available. The first is an add-on hub that you attach to a motorized opener to connect it to your home's Wi-Fi. Alternatively, you can purchase complete units containing a new motorized opener with integrated Wi-Fi connectivity.
+
+Benefits of a Smart Garage-Door Opener
+--------------------------------------
+
+One of the main advantages of installing a smart garage-door opener is that you don't need to worry about losing your regular remote. Some products also respond to voice commands, which could be a helpful feature if you have dexterity issues that make it difficult to operate a controller. 
+
+Another key benefit is that smart garage-door openers can make your home more secure. These devices are generally challenging to hack, and many send text or app alerts to let you know when someone opens the door. You can also purchase smart openers with cameras similar to video doorbells, allowing you to monitor your garage remotely.
+
+More advanced garage-door openers can also integrate with your automation system if you own other smart devices. For example, you can set your garage-door opener as the trigger to turn on the lights or change the thermostat setting when you arrive home. 
+
+**More Related Articles:**
+
+*   [Common Garage Door Problems and How to Repair Them](https://www.homeserve.com/en-us/blog/how-to/common-garage-door-problems/)
+*   [A DIY Guide to Replacing Your Garage-Door Spring](https://www.homeserve.com/en-us/blog/how-to/replace-garage-door-spring/)
+*   [How to Open a Garage Door Manually](https://www.homeserve.com/en-us/blog/how-to/open-garage-door-manually/)
+*   [What Do You Do If Your Garage Door’s Spring Breaks?](https://www.homeserve.com/en-us/blog/home-improvement/broken-garage-door-spring/)
+*   [How Much Does an Insulated Garage Door Cost?](https://www.homeserve.com/en-us/blog/cost-guide/insulated-garage-door/)
+
+Do Smart Garage-Door Openers Work With Alexa and Other Smart Assistants?
+------------------------------------------------------------------------
+
+Smart garage-door openers can join your home's Wi-Fi network and generally integrate with smart assistants like Alexa. Therefore, you can often use your smart assistant to open and shut your garage door from inside your home. However, compatibility varies between models, so it's essential to check if your chosen smart opener works with your existing smart assistant device. 
+
+Can I Make an Existing Garage Door Smart?
+-----------------------------------------
+
+You can make most existing garage doors smart, including single and double garage doors. However, which method you should use depends on your existing opener. Generally, you can upgrade a modern, motorized opener with safety sensors by adding a smart garage hub. 
+
+If you have an old-style motorized unit without standard safety sensors or a door that opens manually, you'll need to replace the opener. You can either install an entire smart unit with a motor or switch to a more modern "dumb" opener and add a smart garage hub.
+
+You may have difficulty upgrading and using your smart garage door if you have poor Wi-Fi reception in the garage. It's worth checking your garage's Wi-Fi strength before investing in a smart device. If the reception is poor, you may be able to improve it by installing a Wi-Fi extender or node.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/reJaChMAC_w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Roof Replacement Costs | How Much Does it Cost to Replace a Roof?"></iframe>

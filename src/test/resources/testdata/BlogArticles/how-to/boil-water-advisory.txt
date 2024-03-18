@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What to Do During a Boil Water Advisory"
+headline: "What to Do During a Boil Water Advisory"
+author: Elizabeth Marcant
+tags: ["post"]
+publishDate: 2023-08-31
+basePath: https://library.homeserve.com/m/
+heroImage: 1016af74dbf806c2/Blog-GettyImages-1390101981.jpg
+heroAltDescription: "Water boils in a stainless steel pan on a gas stove."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A boil-water advisory can indicate tap water isn't safe to use or drink without boiling it first. Find out about boil-water warnings and what you should do."
+articleAbstract: "A boil-water advisory can indicate tap water isn't safe to use or drink without boiling it first. Find out about boil-water warnings and what you should do."
+category: ["How To"]
+eleventyNavigation:
+  key: "What to Do During a Boil Water Advisory"
+  parent: Plumbing-How-To
+---
+  Water systems are regularly checked by state and local authorities to ensure they deliver safe, potable water to residents. However, natural and man-made events can lead to issues with the safety of drinking water in specific areas.
+
+**This May Also Interest You:** [**How to Create a Disaster Preparedness Plan**](https://www.homeserve.com/en-us/blog/how-to/disaster-preparedness-plan/)
+
+In these cases, authorities may issue boil-water advisories until the water is deemed safe again.
+
+What Is a Boil-Water Advisory?
+------------------------------
+
+A boil-water advisory is an official status issued by local governments when the safety of water supplies in an area may be in question. Other terms for this status include boil-water notice, boil notice, boil-water warning, boil order and boil-water order. Boil-water advisories can be issued for small areas, such as specific neighborhoods or even a few homes, or for larger areas, such as entire towns.
+
+When health officials issue a boil-water notice, it means you should not ingest untreated water from the taps in your home or in any other area under the boil order. You also shouldn't do anything with water that would involve it getting into your mouth, such as brushing your teeth with unboiled or untreated tap water.
+
+Why Is Your Area Under a Boil-Water Advisory?
+---------------------------------------------
+
+Boil-water notices are issued for a number of reasons. Some common reasons an area might be under a boil-water order include:
+
+* **Contaminants in the water system.** If public health officials believe drinking water supplies have been contaminated, they may call for boil notices. This can occur when there are breaks in public water lines that allow seepage to occur. It might also be caused by old infrastructure breaking down into the water.
+* **Issues with water purification.** If the water sanitation infrastructure in an area breaks down or experiences a problem, the water being passed into the public supply may not be properly purified. This can lead to a boil notice.
+* **Poor water quality.** If the water supplied into the system is of poorer quality than normal, it may lead to problems with potability at the tap. For example, during storm surges, flooding can impact the overall quality of water supplies.
+
+What Should You Do During a Boil-Water Advisory?
+------------------------------------------------
+
+If you are under a boil-water advisory, you should not drink water directly from the tap or use it for any purpose that involves ingesting it. That includes making coffee, tea and other beverages, cooking or making ice.
+
+Before you use water for any of these purposes, you should boil it. The [Centers for Disease Control and Prevention](https://www.cdc.gov/healthywater/emergency/drinking/drinking-water-advisories/boil-water-advisory.html) notes that you must bring the water to a full boil for 60 seconds or more. If you are at an elevation higher than 6,500 feet, you should extend the boiling time to 3 minutes or more. Once the water has reached a full boil for the required time, you can allow it to cool before drinking it, cooking with it or using it for brushing your teeth.
+
+The CDC does say that it's preferable, for safety's sake, to use bottled water whenever possible during boil-water notice periods, as it may be easier and provide peace of mind.
+
+**More Related Articles:**
+
+*   [Hurricanes Happen: How Ready Is Your Home?](https://www.homeserve.com/en-us/blog/how-to/hurricane-prep/)
+*   [How to Survey Your Home for Storm Damage](https://www.homeserve.com/en-us/blog/how-to/survey-storm-damage/)
+*   [It’s Hurricane Season! Here’s Everything You Need to Know to Prepare Your House for Storms](https://www.homeserve.com/en-us/blog/home-improvement/hurricane-preparedness/)
+*   [Gimme Shelter: Here’s What You Need to Know About Building Home Storm Shelter](https://www.homeserve.com/en-us/blog/home-improvement/storm-shelter/)
+*   [What’s a Storm Chaser and Should You Hire Them to Fix Your Roof?](https://www.homeserve.com/en-us/blog/home-improvement/roof-repair-storm-chasers/)
+
+Is It Safe to Drink the Water, Even After It's Boiled?
+------------------------------------------------------
+
+Yes, it is safe to drink water after it's boiled if you are under a boil-water advisory and you boil the water completely and correctly. However, there are other levels of water advisories under which water may not be safe to drink, even when boiled.
+
+*   A “do not drink water” advisory is issued when there are potential chemicals in the water that can't be treated by boiling. In this case, you should not drink the water or use it for any purpose involving ingestion at all, like brushing your teeth. Use bottled water instead.
+*   A “do not use water” advisory is issued when water is so contaminated that it should not be used for any purpose _at all_, including showering or washing the hands.
+
+Typically, in a boil-water advisory, you can still shower and wash clothes with the water. You may want to take care when washing dishes that the water reaches a hot enough temperature first. You may also want to ensure you carefully monitor children when they are bathing or playing in water to ensure they don't get any in their mouths.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

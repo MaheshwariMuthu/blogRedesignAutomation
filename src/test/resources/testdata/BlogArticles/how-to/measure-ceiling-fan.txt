@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Measure a Ceiling Fan"
+headline: "What's the Span of Your Fan? How to Measure for a Ceiling Fan"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-08-22
+basePath: https://library.homeserve.com/m/
+heroImage: 31d4350fff06366b/Blog-CeilingFanDownrod_ERossi_3.jpg
+heroAltDescription: "man hold a tape measure alongside a ceiling fan s downrod "
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Need to know how to measure the size of an existing fan? Read on to learn all about ceiling fan sizes."
+articleAbstract: "Need to know how to measure the size of an existing fan? How about figuring out what size fan you need for a particular room? Read on to learn more."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "What's the Span of Your Fan? How to Measure for a Ceiling Fan"
+  parent: HVAC-How-To
+---
+  In the world of home decor, is there a better union of style and function than a ceiling fan? Ceiling fans tie the look of the room together, and can help you feel cool in a warm room. Either way, they're a welcome addition to any room of the house. That is, if the ceiling fan size is right for the room. The question is: How do you know if your fan is the right size or not?
+
+**This May Also Interest You:** [**Why Your Ceiling Fan Is Making Noise (And How to Make It Stop)**](https://www.homeserve.com/en-us/blog/how-to/ceiling-fan-noise/)
+
+Need to know how to measure the size of an existing fan? How about figuring out what size fan you need for a particular room? Read on to learn all about ceiling fan sizes to choose the right one for your space.
+
+How to Measure the Span of Your Ceiling Fan
+-------------------------------------------
+
+The method for measuring the span (or diameter) of an existing ceiling fan depends on the blade count of the fan. For example, if your fan has an even number of blades, you’ll simply measure the distance between the tip of one blade to the tip of the opposite blade. The distance, in inches, between the two points is the span of your fan. Simple!
+
+However, if your fan has an odd number of blades, you’ll want to measure the distance from the tip of one blade to the center of the fan. That’s the fan’s radius, so you’ll need to double that number to determine the diameter, or span, of the fan.
+
+How Big Should the Fan’s Blades Be?
+-----------------------------------
+
+Ceiling fans can be welcome, energy-saving additions to almost any room of the house — as long as they’re the right size. If a fan is too small, it won’t be able to properly circulate the air in the room. Likewise, if a fan is too big for a room, it can throw off your room’s design and can make your room actually look smaller and your ceiling appear lower.
+
+In short, size definitely matters when it comes to ceiling fans. You’ll definitely want to make sure that you are choosing the right one for your room.
+
+### Find the Square Footage of the Room
+
+The first step in determining the right size ceiling fan for your room is to find out the exact size, or square footage, of the room. To calculate the room’s square footage, you’ll need a tape measure, pen and paper (or a smartphone). Then, measure the room's length and width. When you’ve got the measurements for the distances, simply multiply them together, and that number will be your square footage.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install a Ceiling Fan?](https://www.homeserve.com/en-us/blog/cost-guide/ceiling-fan-installation/)
+*   [4 Ways to Clean Your Ceiling Fan (No. 3 Is Pretty Clever!)](https://www.homeserve.com/en-us/blog/how-to/clean-ceiling-fan/)
+*   [How to Wire a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/wire-ceiling-fan/)
+*   [Where There’s a Wobble, There’s a Way: How to Fix a Wobbly Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/fix-wobbly-ceiling-fan/)
+*   [How to Remove a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/measure-ceiling-fan/)
+
+### Choose the Right Size Fan
+
+Fortunately, once you have the square footage of your room, finding the right size fan isn’t rocket science. In fact, the [American Lighting Association](https://alalighting.com/) has a handy [sizing guide](https://alalighting.com/Lighting-Fundamentals/Ceiling-Fans/Detail#cbp=mediaid101) for just the occasion.
+
+According to the ALA, small rooms, or any room under 75 square feet, work well with a fan up to 36 inches in diameter. For any room up to 144 square feet, like a smaller bedroom, office or playroom, fans should be anywhere from 36 to 42 inches in diameter. Likewise, any large bedroom or living room 225 square feet or larger demands a fan that’s anywhere between 50 to 54 inches in diameter.
+
+How Long Should the Fan’s Downrods Be?
+--------------------------------------
+
+Another important consideration for both comfort and aesthetics is to determine how low a fan should hang from the ceiling. Most ceiling fans come with a downrod attachment that can lower the fan if needed. Either way, make sure you consider the height of your ceiling fan in addition to the size of the blades. The ALA recommends that ceiling fans should be, at a minimum, seven feet above the floor. After all, you don’t want your ceiling fan to accidentally hit anyone in the head.
+
+For optimal air circulation, you should aim for an 8- to 9-foot hanging height when installing a ceiling fan, according to [Energy Star](https://www.energystar.gov/products/lighting_fans/ceiling_fans/ceiling_fan_basics#:~:text=Choosing%20the%20Appropriate%20Mounting%20System,the%20floor%20for%20optimal%20airflow.). Other tips include placing them in the middle of the room and at least 18 inches from any walls.
+
+### Mount Size
+
+It’s important to pick the right mounting system for your ceiling fan. A standard mount typically comes with a 3- to 5-inch downrod. Extended mounts can lower a fan anywhere from 12 inches to 120 inches, ideal if you have a 20-foot ceiling. Conversely, flush mounts put the fan right up against the ceiling. A flush mount is perfect for a room that has ceilings under 8 feet tall, but keep in mind that flush mounts won’t have as much air circulation due to the fan blades being closer to the ceiling.
+
+Once you’ve figured out the right-sized fan for your room, it’s time to head online or to the home improvement store to choose the right style. Then, unless you’re comfortable doing so yourself, call your handyman or electrician to have it installed.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/8mzG-IJupUA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Ceiling Fan Direction | Summer vs. Winter"></iframe>

@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Paint a House?"
+headline: "How Much Does It Cost to Paint a House?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-10-21
+basePath: https://library.homeserve.com/m/
+heroImage: 3839c3b3986f314/Blog-HousePainting_Rossi_2587.jpg
+heroAltDescription: "man in a yellow shirt standing tall on a ladder painting a house"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "No matter what color you decide to paint your house, it's going to cost you some green. But it doesn't need to break the bank."
+articleAbstract: "No matter what color you decide to paint your house, it's going to cost you some green. But it doesn't need to break the bank. Most homeowners can find an affordable path to painting the exterior of their house."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Paint a House?"
+  parent: Exterior-Cost-Guide
+---
+  No matter what color you decide to paint your house, it's going to cost you some green. But it doesn't need to break the bank. With good planning, some research and a few professional tips, most homeowners can find an affordable path to painting the exterior of their house.
+
+**This May Also Interest You:** [**How Much Does It Cost to Paint a Room?**](https://www.homeserve.com/en-us/blog/cost-guide/paint-room/)
+
+A new coat of paint can increase the curb appeal of a home, better reflect the owner's personality and protect the structure from the elements. The cost to paint the exterior of a house depends on a variety of factors.
+
+Average House-Painting Costs
+----------------------------
+
+External painting for most 1,500-square-foot homes costs between $1,500 and $6,000 (CAD 2,049 and CAD 8,196), according to [This Old House](https://www.thisoldhouse.com/painting/reviews/cost-to-paint-house-exterior). The actual price range, [Forbes](https://www.forbes.com/home-improvement/painting/painting-house-exterior-cost/) says, can actually be much wider than that, starting from less than $1,800 (CAD 2,459) and going up to $13,000 (CAD 17,758) or more, depending on several factors. For example, houses with multiple stories typically cost more to paint than houses of a similar size with only one floor.
+
+How Much Does It Cost to Paint a House Per Square Foot?
+-------------------------------------------------------
+
+One of the key factors in determining the cost of an exterior painting job is the size of the house. The more surface area a house has, the more paint and labor it will require. That makes understanding the cost per square foot very useful.
+
+The cost per square foot to paint a house falls between $1.50 and $4 (CAD 2.05 to CAD 5.46), based on data from [Forbes](https://www.forbes.com/home-improvement/painting/painting-house-exterior-cost/). Keep in mind that multiple stories also add to an exterior painting estimate. The cost of scaffolding, extension ladders and other equipment can drive up the cost. A scaffolding permit alone can add up to $300 (CAD 410), according to [HomeGuide](https://homeguide.com/costs/cost-to-paint-exterior-of-house).
+
+Market values can influence the market price of home improvements like exterior painting. Work done on a house in Beverly Hills, for example, may cost more than similar work done in areas with a lower cost of living.
+
+Older houses may be more expensive to paint than newer ones. They could require more cleaning, preparation and repair before the painting can begin.
+
+Are All House Paints the Same?
+------------------------------
+
+Definitely not. Exterior paint costs about $30 to $80 (CAD 41 to CAD 109) per gallon for standard latex or acrylic. If the house is brick and mineral-based paint is needed, the cost shoots to $100 to $150 (CAD 137 to CAD 205) per gallon.
+
+**More Related Articles:**
+
+*   [Tale of the Tape: How to Use Painter’s Tape](https://www.homeserve.com/en-us/blog/how-to/use-painters-tape/)
+*   [How to Paint Your Garage Floor in 5 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/paint-garage-floor/)
+*   [How to Paint a Garage Door](https://www.homeserve.com/en-us/blog/how-to/paint-garage-door/)
+*   [4 Ways to Match Paint Colors for Touchups](https://www.homeserve.com/en-us/blog/how-to/match-paint-colors/)
+*   [How Much Do Professional Painters Charge?](https://www.homeserve.com/en-us/blog/cost-guide/professional-painting/)
+
+How Much Do Painters Charge Per Hour?
+-------------------------------------
+
+Labor is the biggest cost of any professional painting quote. [Forbes](https://www.forbes.com/advisor/home-improvement/cost-to-hire-a-painter/) says house painters generally charge between $20 and $50 (CAD 27 and CAD 68) per hour. That said, you aren’t likely to see that on the bill because most painting contractors charge by the square foot, not by the hour.
+
+DIY Painting Costs
+------------------
+
+After digesting the potential costs, many homeowners consider grabbing a paint roller themselves.
+
+A skilled homeowner can paint the outside of their house for a fraction of what a professional would charge. You could paint your own 1,500-square-foot house, for example, for $400 to $1,800 (CAD 546 to CAD 3,142, including the cost of paint, equipment and power sprayer rental.
+
+How Long Does a Paint Job Last?
+-------------------------------
+
+An external paint job on a wooden house typically lasts five to seven years, depending on the quality of preparation done, the surrounding environment and other factors. Paint on stucco or brick houses typically lasts up to 10 years.
+
+How Do You Know You Need to Paint Your House?
+---------------------------------------------
+
+When house paint is cracking, bubbling or peeling, it is no longer protecting the surface underneath and should be scraped and repainted. Similarly, rotted wood, mold or cracked stucco should be fixed and painted to limit further damage.
+
+If your house is headed for the market, a fresh coat of paint works wonders for curb appeal. Staging experts describe it as the least expensive way to add resale value to a home.
+
+Colors fade over time, sometimes morphing into entirely different hues. Or the homeowner’s personal tastes may be what changes. After a few years, a house color that was once OK can grow tiresome and may no longer express the owner’s personal aesthetic.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pBbYRM89xxc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Even the HomeServe TikTok guy can’t #DIY everything!"></iframe>

@@ -1,0 +1,55 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is Gift Tax?"
+headline: "What Is Gift Tax?"
+author: Team eLocal
+tags: ["post"]
+publishDate: 2022-07-04
+basePath: https://library.homeserve.com/m/
+heroImage: 6ce2f416bf566dbc/Blog-GettyImages-1335050708.jpg
+heroAltDescription: "Busines using a computer to complete Individual income tax return form online for tax payment. Government"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If you're giving substantial gifts to friends and family members, you need to be aware of gift taxes."
+articleAbstract: "Helping friends and family is a great feeling and can set your family up for success. But if you're giving substantial gifts, you need to be aware of gift taxes."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is Gift Tax?"
+  parent: Interior-Home-Home-Improvement
+---
+  Helping friends and family is a great feeling and can set your family up for success. But if you're giving substantial gifts, you need to be aware of gift taxes.
+
+What Is Gift Tax?
+-----------------
+
+Gift tax is owed on money or property transferred to a person who provides little or nothing in return. Even if you don't intend a transfer to be a gift, it may still be taxed as one. For example, if you sell real estate for much less than the fair market value, the IRS may consider it a “gift.”
+
+Who Has to Pay Gift Tax?
+------------------------
+
+Generally, the giver owes gift tax. Gift tax is only due once you've exceeded your allowed lifetime limit, but you still need to report large gifts on your tax return.
+
+Don't confuse gifts with winnings. Items or money won from lotteries, sweepstakes and other contests are usually taxable as the recipient's income.
+
+### Gift Taxes and Annual Exclusions
+
+Under United States law, you can make annual gifts up to a limit, called the annual exclusion, before you must report the gift. The [annual exclusion for 2022 is $16,000](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes), but in past years it was less. Married couples may combine their annual limit and give up to $32,000 to a donee.
+
+Gifts to different donees are permitted. For example, if you have multiple children, you may give up to $16,000 to each child without reporting a taxable gift.
+
+### Tax Returns and the Lifetime Exclusion Limit
+
+You must report gifts over the annual exclusion on IRS Form 709, but you probably won't have to pay any tax now. Instead, these amounts count against your lifetime exclusion limit — around $11.7 million for single taxpayers and $23.4 million for married couples.
+
+Once you exceed the lifetime exclusion, the gift tax rate varies between 18% and 40%, depending on the amount that exceeds the lifetime limit. The lifetime limit also applies to gifts made after your death, such as those made through a will, and your estate may be subject to gift taxes.
+
+### Exceptions to Taxation on Gifts
+
+Gift tax rules may not apply to gifts that are:
+
+*   Directly paid tuition or medical expenses
+*   Given to a spouse
+*   For an exempt charity
+*   Given to a political organization
+
+Gift taxation laws are complex, so it's always smart to speak with an attorney or tax professional if you have questions.

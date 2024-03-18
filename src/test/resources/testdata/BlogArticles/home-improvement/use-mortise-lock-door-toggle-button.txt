@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Use the Toggle Switch on a Mortise Lock Door"
+headline: "What Does This Button Do? How to Use the Toggle Switch on a Mortise Lock Door"
+author: Mark Soto
+tags: ["post"]
+publishDate: 2021-06-10
+basePath: https://library.homeserve.com/m/
+heroImage: 46151b698b6846b4/Blog-DeadboltCost_MSchmitz_0001.jpg
+heroAltDescription: "deadbolt door lock and handle"
+metaDescriptions: "The toggle button on the door lock face provides a way to keep the door locked from the exterior. Curious how to operate these switches? Learn more here."
+articleAbstract: "The toggle button or switch on the door lock face commonly seen on hotel or apartment complex doors provides a way to keep the door locked from the exterior. Curious how to operate these switches? Learn more here."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Does This Button Do? Toggle Button on Door Lock Face"
+  parent: Exterior-Home-Home-Improvement
+---
+  The toggle button or switch on the door lock face commonly seen on hotel or apartment complex doors provides a way to keep the door locked from the exterior. When one toggle is pushed in, the door can be opened from the outside. When the other button is pushed in, it’s locked from the outside.
+
+**This May Also Interest You:** [**Here’s How Much It Costs to Install or Replace a Deadbolt**](https://www.homeserve.com/en-us/blog/cost-guide/deadbolt-installation/)
+
+You might be familiar with this type of mechanism if you’ve ever been on vacation and stayed at a hotel that had this door function. The toggle switch gives you the option to leave the door on passage mode from inside for easy in and out in an emergency.
+
+### What’s a Mortise Lock?
+
+Toggle buttons are usually found in mortise locks. Mortise locks aren’t typically used for homes; they’re more commonly found in buildings that have classrooms, hotel rooms, apartments and high-rise condos.
+
+They’re well known for their durability and strength, which is why they’re mainly used in buildings like these. These locks are also commonly found in older buildings, and they’re usually opened with a skeleton key. According to Rahim Ezzadpanah, owner of [Armstrong Locksmith](https://armstronglocksmithinc.com/), the reason they’re so commonly found in apartment buildings and hotels is that they’re reliable, often come with a lifetime warranty and almost impossible to pick.
+
+Ezzadpanah said you can set the toggle as locked as soon as the door is shut, or disable it by pushing the toggle again, leaving it on the unlocked position from inside.
+
+### Can You Disable the Toggle?
+
+If, for any reason, you want to disable the toggle, it’s certainly possible. You need to remove the lock from the door, open up the lock and either altogether remove or block off the parts. Apart from disabling the toggle, you can also reverse it. You might want to do this if you’re installing it on a new door. Otherwise, you will need to completely remove it from the existing door. Installing it is difficult enough, but removing it and then reinstalling it can be a pain.
+
+### How to Reverse the Toggle
+
+To reverse the toggle buttons or switch, you just need to change the lock position to the opposite side.
+
+Based on the instructions from [Unison Hardware](https://youtu.be/Q3jfSaF1p0s?t=19), you’ll want to use a screwdriver to unscrew all the current screws that hold the latch. Then, take the latch out, flip it around and put it on the other side. This time when you put the screw back in, make sure to put it on the opposite side. You will put both the latch and the screw on the opposite sides of their original starting place.
+
+Now, you just need to switch the locking piece to the other side as well. There will be a screw in the middle of the lock holding it up. Unscrew it and take it out. Then, take out the locking piece and install it on the other side, [as shown here](https://youtu.be/Q3jfSaF1p0s). Go to the inside of the lock case and put the screw back in.
+
+After that’s done, check that the locking is working correctly with the door handle.
+
+**More Related Articles:**
+
+*   [How to Install a Deadbolt: Get Your Home Security on Lock in 6 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/install-deadbolt/)
+*   [How to Remove a Doorknob: A Quick Guide](https://www.homeserve.com/en-us/blog/how-to/remove-doorknob/)
+*   [How to Change a Doorknob](https://www.homeserve.com/en-us/blog/how-to/change-door-knob/)
+*   [How Much Does It Cost to Install Doors?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-it-cost-to-install-doors/)
+*   [How to Install or Replace a Door Frame: An Open-and-Shut Guide](https://www.homeserve.com/en-us/blog/how-to/door-frame-replacement/)
+
+### How Do Mortise Locks Compare?
+
+Ezzadpanah says mortise locks are far more reliable than regular deadbolts or keypad locks. They are very heavy-duty, and the parts can be replaced when there is something wrong or if things break.
+
+The other most common types of locks are cylindrical locks. Cylindrical locks are considered the inferior option in terms of safety, but they are commonly used in homes for a good reason: They’re much easier to install because you don’t need to cut any parts of the door in the process. The average person could install a cylindrical lock in 30 minutes to an hour — a short amount of time when compared to mortise locks, which usually require a professional or someone who is very handy.
+
+In terms of price, cylindrical locks are the more affordable option. Not only do you have to factor in the price, but also the cost for labor, since most of the time, a professional will need to install mortise locks.
+
+Despite these factors, businesses still tend to use mortise locks due to their superiority in terms of safety and longevity.

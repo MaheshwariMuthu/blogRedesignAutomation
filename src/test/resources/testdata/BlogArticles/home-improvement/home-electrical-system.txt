@@ -1,0 +1,93 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Your Home's Electrical Systems Work"
+headline: "How Your Home's Electrical System Works"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-10
+basePath: https://library.homeserve.com/m/
+heroImage: 1de57c009e34467a/Blog-ElectricalSchedule_Erossi_4618-jpg.jpg
+heroAltDescription: "electrical circuit panel with switches"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Understanding how the main components of your home's electrical system work can help you spot potential issues more easily."
+articleAbstract: "When was the last time you stopped to think about how your electrical system works? Understanding the main components of a residential electrical system and how they work together to supply your home with energy can help you spot potential issues more easily."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Your Home's Electrical Systems Work"
+  parent: Electrical-Home-Improvement
+---
+  
+
+We rely on our home electrical systems to keep our houses warm, fire up the microwave, dry our clothes, watch the big game on TV … the list could go on. But when was the last time you stopped to think about how these systems work?
+
+**This May Also Interest You:** [**How Much Do Electrical Repairs Cost? A Comprehensive Guide**](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+Understanding the main components of a residential electrical system and how they work together to supply your home with energy can help you spot potential issues more easily.
+
+How a Residential Electrical System Works
+-----------------------------------------
+
+Electricity enters your home through two service wires carrying 120 volts of energy each. The 120-volt circuits draw power from one of the wires, while 240-volt circuits draw power from both. There's also a neutral wire that carries energy back to the power source. Most homes receive their energy supply through a roof masthead, although some have an underground conduit instead.
+
+You'll find your electric meter and main panel where the electricity enters the house. The meter monitors how much energy you use to help your utility company generate your electricity bills.
+
+The main panel distributes electricity to individual circuits, which contain a hot wire that delivers power to electrical fixtures and a neutral wire that returns to the main panel. Each circuit also contains a ground wire that diverts energy to the earth if the hot wire short-circuits. This helps prevent electric shocks.
+
+Some homes have subpanels supplied by the main panel. These subpanels have another set of breakers and distribute power in areas of the home with several circuits or major appliances.
+
+Some homes also have one or more low-voltage electrical systems. These systems have a transformer that reduces a 120-volt supply to 12 volts to power low-voltage fixtures like doorbells and outdoor lights.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2b92c7b12f3476e6/original/ElectricMeter_Erossi-114143710.gif" alt="A close up of a residential electric usage meter running at full speed and showing high consumption."/>
+
+What Are the Main Parts of a Home Electrical System?
+----------------------------------------------------
+
+Electrical systems contain various components, and these can vary depending on your home's age and your energy needs. However, all home electrical systems contain the following main components:
+
+* **Service wires**: Supply your home with power from an overhead mast or underground conduit
+* **Electricity meter**: Tracks your energy usage
+* **Main panel**: Contains the main and individual circuit breakers and distributes energy to individual circuits
+* **Wires**: Carry electrical energy through circuits
+
+**More Related Articles:**
+
+*   [More Power to You: How to Ready Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/read-electricity-bill/)
+*   [How Much Does Electricity Cost?](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/)
+*   [What’s a Whole-House Surge Protector?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-surge-protector/)
+*   [How to Take Advantage of Time-of-Use Rates and Lower Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/save-electricity-during-peak-hours/)
+*   [How to Use a Voltage Tester](https://www.homeserve.com/en-us/blog/how-to/use-voltage-tester/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/503a1cef325a7094/Blog-GettyImages-157524165.jpg" alt="Electrical Cord Overload"/>
+-------------------------------------------
+
+What Types of Wires Are in My House?
+------------------------------------
+
+Several types of wires are used in home electrical systems, and the most common is nonmetallic (NM) wiring. This type of wire is suitable for indoor use and is used for wiring electrical outlets and light fittings. NM wire comprises a ground wire, a neutral wire and one or more live wires inside a plastic wrap.
+
+Your electrical system may also contain underground feeder (UF) wire, a type of nonmetallic cable suitable for damp conditions. It's generally used for supplying power to outdoor electrical fixtures and has a gray wrap surrounding the wires.
+
+THHN and THWN wires are most commonly used inside a conduit, a metal or plastic cover used to protect wiring in locations like basements and attics. It's also useful for wiring short connections for fixtures like garbage disposal units. These wire types are generally easy to identify because the ground, live and neutral wires have separate insulation and no outer plastic wrap.
+
+Low-voltage wire may feature in your home electrical system in circuits requiring 50 volts or less. This type of wire is often used for wiring small fixtures like electric doorbells.
+
+<img class="detail-image" src="https://library.homeserve.com/m/71e67735f1cd9923/Blog-ElectricalPanel_MSchmitz_0001.jpg" alt="electrical fuse box"/>
+
+How Does the Main Circuit Breaker Work?
+---------------------------------------
+
+The main circuit breaker is part of your main circuit panel. It connects to the service wires carrying power inside your home. Your circuit panel also contains breakers for each circuit in your home.
+
+The main circuit breaker's primary role is to shut off the power to your entire home if the electrical system overloads. This situation usually occurs during temporary power surges. It's relatively unusual for the main circuit breaker to trip, because an individual circuit breaker generally shuts off before the overload gets bad enough to trip the main breaker. It could be a sign of a problem with your electrical system if your main circuit breaker trips regularly.
+
+You can also use the main circuit breaker to turn off the electricity to your entire house in an emergency or if you're carrying out electrical work. Generally, you should turn off the individual breakers one by one before shutting off the main breaker. Follow this process in reverse when you turn the electricity back on to avoid overwhelming the main circuit breaker.
+
+<img class="detail-image" src="https://library.homeserve.com/m/462038cbd4c678b8/Blog-iStock_12748128_outlet_plug_CMYK_XLARGE.jpg" alt="plugging in to a wall outlet"/>
+
+How Does the Power Get to My Devices and Appliances?
+----------------------------------------------------
+
+Electrical appliances and fixtures are either wired into a circuit (like light fixtures) or plugged into an outlet supplied by a circuit (as with a blender or TV). The circuit's hot wire carries electricity to every fixture or outlet in the circuit, and the neutral wire returns to the main panel.
+
+Electricity travels through a wire because of organized electron movement. The electricity flowing through your home's electrical system is alternating current, which means that the current direction alternates around [60 times every second](https://science.howstuffworks.com/electricity8.htm). Unlike energy from a battery, where the electrons move in one direction (direct current), the electrons in an AC circuit move back and forth. This type of energy supply is advantageous in a home electrical system because it's easier to adapt the power output using transformers to supply low-voltage fixtures.

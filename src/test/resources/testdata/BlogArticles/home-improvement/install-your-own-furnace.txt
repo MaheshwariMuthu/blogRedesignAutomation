@@ -1,0 +1,88 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Can You Install Your Own Furnace?"
+headline: "Can You Install Your Own Furnace?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-12-02
+basePath: https://library.homeserve.com/m/
+heroImage: 6bc76ea7c3be2033/Blog-NovecSolutions_HVAC_SHMQ32CE5497_02.jpg
+heroAltDescription: "HVAC system repair"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Before deciding to install your own furnace, it's essential to understand the potential pitfalls of this major project."
+articleAbstract: "You may be wondering whether to skip paying a professional and have a go at DIY furnace installation. Before deciding to install your own furnace, it's essential to understand the potential pitfalls of this major project."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Can You Install Your Own Furnace?"
+  parent: HVAC-Home-Improvement
+---
+  Experiencing winter with a broken or faulty furnace can be miserable, but many homeowners avoid replacing their units because of the costs involved.
+
+**This May Also Interest You:** [**The Do’s and Don’ts of HVAC Maintenance**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+
+According to data from [Fixr](https://www.fixr.com/costs/furnace#what-a-new-furnace-installation-could-look-like), installing a furnace usually costs between $2,372 and $4,414 (CAD 3,226 and CAD 6,002), although you could spend up to $10,000 (CAD 13,599) for a whole new system. Considering these potentially eye-watering costs, you may be wondering whether to skip paying a professional and have a go at DIY furnace installation.
+
+Before deciding to install your own furnace, it's essential to understand the potential pitfalls of this major project.
+
+Can You Install Your Own Furnace?
+---------------------------------
+
+There's nothing legally stopping you from installing your own furnace. However, DIY furnace installation is usually a bad idea. Choosing the right furnace, installing it correctly and making any necessary adjustments to your ducting system is complex and beyond the abilities of most DIYers. Therefore, you're better off leaving furnace installation to an HVAC technician unless you have HVAC qualifications yourself.
+
+Why Might You Not Want to Attempt DIY Furnace Installation?
+-----------------------------------------------------------
+
+There are several compelling reasons not to install a furnace yourself. These include:
+
+### Sizing Issues
+
+Choosing the right type and size of furnace for your home is challenging without extensive HVAC system knowledge. Installing an overly large furnace can lead to excessive energy consumption. Meanwhile, an undersized unit won't heat your home sufficiently and may break down due to strain.
+
+You can estimate your required furnace size using an online manual load calculator. However, you'll get more accurate measurements by hiring a professional.
+
+### Safety Hazards
+
+Furnace installation requires electrical, gas and oil work, and you'll need to ventilate the unit correctly. Making a mistake during any of these steps increases the risk of a fire or gas explosion, and incorrect wiring can destroy critical components inside your furnace. Inadequate ventilation may cause dangerous levels of carbon monoxide to accumulate inside your home, potentially causing poisoning or even death.
+
+### Compatibility Problems
+
+You must ensure your new furnace is compatible with your other HVAC equipment and ductwork system. While it's possible to adapt your existing ductwork by installing new metal plenums, an HVAC professional can complete the work more quickly and ensure all the elements of your system work well together.
+
+### Warranty and Insurance Issues
+
+Most manufacturers' warranties don't cover DIY installations. In fact, you'll likely struggle to register your furnace's warranty unless you hire a licensed professional. Furthermore, your home insurance may not cover damage caused by DIY furnace installation.
+
+### Lack of Availability
+
+Furnace manufacturers understand the dangers and pitfalls of DIY furnace installation. Therefore, most companies don't sell furnaces directly to the public. While a few manufacturers supply their furnaces to wholesalers, installing your furnace yourself will severely limit the range of furnaces you can choose between.
+
+**More Related Articles:**
+
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [Replacing Your HVAC Air Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Is an HVAC Tune-up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+
+What Do You Need to Install a Furnace?
+--------------------------------------
+
+Furnace installation requires detailed knowledge of electrical, gas and oil safety, and you'll also need to be aware of local and federal building codes and regulations. Most DIYers don't have the knowledge required, but a professional installer will have expertise in installing furnaces correctly and obtaining the correct permits.
+
+The tools you need to install a furnace vary between models. However, you'll usually require the following equipment:
+
+*   Multimeter
+*   Screwdrivers
+*   Pliers
+*   Drill
+*   Hammer
+*   Tubing cutter
+*   Protective goggles and gloves
+
+What Permits or Licenses Do You Need to Install a Furnace?
+----------------------------------------------------------
+
+You'll often need a permit to install or replace a furnace. Usually, HVAC contractors include the cost of obtaining the correct permits in their fees. Permit requirements differ significantly by jurisdiction. If you're installing a furnace yourself, you should contact your local building office to determine which permits you need.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/3-dHcgFP4C4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="*Ahem* It’s time to change that HVAC filter again!"></iframe>

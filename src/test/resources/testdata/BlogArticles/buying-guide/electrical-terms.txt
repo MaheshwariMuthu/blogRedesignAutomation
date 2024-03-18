@@ -1,0 +1,79 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Electrical Terms Homeowners Should Know"
+headline: "All Homeowners Should Know These Electrical Terms"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-13
+basePath: https://library.homeserve.com/m/
+heroImage: 37258e581ba78d50/Blog-ThinkstockPhotos-479103255_Electric.jpg
+heroAltDescription: "hands with screwdriver fixing wall socket"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Familiarizing yourself with these electrical terms can help you troubleshoot your electrical system."
+articleAbstract: "Familiarizing yourself with common electrical terms can help you with troubleshooting and knowing how serious an issue may be. Here are eight of them."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "All Homeowners Should Know These Electrical Terms"
+  parent: Electrical-Buying-Guide
+---
+  As far as home projects go, electrical work is probably the most intimidating for beginning DIYers. And it’s no wonder: Electrical work is often an intricate, precise and dangerous business, and, if done incorrectly, it can lead to faulty wiring, electrical shock or even death. So don’t berate yourself for being a bit wary of doing the work yourself—you’re not without good reason.
+
+**This May Also Interest You:** [**6 Tools You Need for DIY Electrical Projects**](https://www.homeserve.com/en-us/blog/home-improvement/electrical-tools/)
+
+That said, it can still be helpful to familiarize yourself with some common electrical terms, even if just to help you better understand how your house works. It can also help with troubleshooting and knowing how serious an electrical issue may be.
+
+Here’s a list of some basic electrical terms that all homeowners should know.
+
+Circuit
+-------
+
+A circuit is simply the path that a current of electricity follows. Electricity in a circuit flows in a loop that begins and ends at the same place: the power source, or main circuit panel. The flow of an electrical current can occur through any metal conductor, which is usually a wire or another metal element inside a switch or outlet. A circuit comprises a hot wire and a neutral wire, typically black and white, respectively. The hot wire carries the electricity to the various lights, appliances and receptacles throughout the house, and the white wire returns that electricity to the main panel.
+
+Circuit Breaker
+---------------
+
+As the name implies, a circuit breaker quite literally breaks a circuit. A circuit breaker is a device consisting of a large electrical switch that connects to an electromagnet that interrupts the flow of electrical current to a specific section of your home if a fault occurs. When a fault is detected, the breaker switch automatically shuts off and stops the electrical current from flowing. Circuit breakers are often located in basements or garages, and while they’re typically located inside the home, they can also be found on the exterior of your home.
+
+Fault
+-----
+
+An electric fault is any abnormal current that occurs in an electrical system. Faults happen when wiring malfunctions or begins to decay. Faults can damage electrical devices, cause fires and, in the case of a ground fault, present the potential for an electric shock. Signs of faults include flickering lights, broken light switches and unreasonably high power bills. You can protect your home from faults by having your wiring inspected regularly and replacing it when necessary.
+
+Voltage
+-------
+
+Voltage is one of the most common electrical terms every DIYer should know. Measured in volts, voltage is the electromotive force that causes electricity to flow. In some ways, voltage can be best understood as the electrical equivalent to water pressure. Just like high water pressure increases the flow of water, higher voltage creates more electrical power.
+
+Wattage
+-------
+
+Wattage is the rate at which electrical energy is transferred in a circuit. It’s measured in watts, and is essentially the “miles per hour” measure of electricity. Wattage describes how quickly electrons are moving. In other words, an appliance operating with a higher wattage will generally be more powerful than a lower wattage one. For example, a 100- watt light bulb is brighter than a 60-watt bulb. Similarly, a higher wattage oven will take less time to heat food than a lower wattage oven.
+
+**More Related Articles:**
+
+*   [3 Electrical Projects You Can Do Yourself — and 4 You Should Call an Electrician For](https://www.homeserve.com/en-us/blog/home-improvement/electrical-diy-projects/)
+*   [How Your Home’s Electrical System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-electrical-system/)
+*   [What Happens If You Touch a Hot Wire?](https://www.homeserve.com/en-us/blog/home-improvement/touch-hot-wire/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [How to Fix Electrical Cords and Charging Cables](https://www.homeserve.com/en-us/blog/how-to/fix-electrical-cords/)
+
+Current
+-------
+
+An electrical current is simply the flow of electricity through a conductor, like a metal wire. You can think of electrical current like water in a river. There are two types of electric currents: AC (alternating current) and DC (direct current). AC is the standard type of current that power homes around the world, while DC is predominantly found in batteries.
+
+Conductor
+---------
+
+Put simply, electric conductors are the various materials that are able to carry an electric current. Conductivity is dependent on the movement of electricity through a specific type of material. The most effective conductors are metal, which is why wiring throughout your home is typically made of insulated copper. There are various types of conductors for different uses. For example, an electromagnetic coil of wire is a conductor in the shape of a spiral used in electric motors and generators or anywhere electric currents interact with magnetic fields. Everyday devices like garbage disposals to headphones utilize these types of conductors.
+
+Multimeter
+----------
+
+A multimeter is one of the most useful diagnostic tools any home electrician can own. Multimeters are primarily used for measuring the resistance, electric current, amp range and voltage in anything from batteries to outlets to appliances. Although they can be intimidating, if you’d like to test your home’s wiring or repair any home electrical device, a multimeter is a must-own tool. In fact, multimeters can save you time, money and energy as you’ll be able to troubleshoot and diagnose a variety of electrical issues without having to call an electrician.
+
+Charged Up
+----------
+
+It’s no secret that electricity can be scary. But knowledge is power, and understanding these key electrical terms is a first step to harnessing that power and building your electrical work know-how. And hey, who knows? One of these days, you may feel ready to tackle an electrical project of your own — like adding a dimmer switch or changing out a light fixture. Knowing these terms will not only help keep you safe; it’ll also help you pore over those product instructions without getting a migraine.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

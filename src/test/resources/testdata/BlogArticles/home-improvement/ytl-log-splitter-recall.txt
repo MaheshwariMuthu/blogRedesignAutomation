@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Safety Recall: Briggs & Stratton YTL Log Splitter"
+headline: "Broken Wrists Cited in Recall of 10,000 Log Splitters With Briggs & Stratton Engines"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-04-13
+basePath: https://library.homeserve.com/m/
+heroImage: 91315e3e75ebe27/webimage-LogSplitterRecall_BriggsAndStratton_0001.jpg
+heroAltDescription: "log splitter machine"
+metaDescriptions: "Briggs & Stratton is recalling about 10,000 YTL Log Splitters for an issue that could result in an injury to the user — and has already been cited in two reports of broken wrists."
+articleAbstract: "If you purchased a Black Diamond-, Crimson-, Lumberjack-, Performance Built- or Brute-brand YTL log splitter as far back as 2019, you’ll want to verify whether yours is subject to a recent safety action announced by the Consumer Product Safety Commission. Briggs & Stratton is recalling about 10,000 YTL Log Splitters with 250cc engines for an issue that has already been cited in two reports of broken wrists."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "YTL Log Splitter Recall"
+  parent: Appliances
+---
+  If you purchased a Black Diamond-, Crimson-, Lumberjack-, Performance Built- or Brute-brand YTL log splitter as far back as 2019, you’ll want to verify whether yours is subject to a recent safety action announced by the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/Briggs-and-Stratton-Recalls-YTL-Log-Splitters-with-Briggs-and-Stratton-Engines-Due-to-Injury-Hazard-Recall-Alert). Wauwatosa, Wis.-based engine manufacturer Briggs & Stratton is recalling 9,750 (plus 290 more in Canada) YTL Log Splitters with 250cc engines for an issue that could result in an injury to the user — and has already been cited in two reports of broken wrists.
+
+**This May Also Interest You:** [**Amputation Risk Prompts Recall of 6,700 Toro Snowthrowers**](https://www.homeserve.com/en-us/blog/home-improvement/toro-snowthrower-recall/)
+
+According to the CPSC, which announced the recall March 18, an “incorrect engine ignition coil and flywheel can lead to hard starting and engine kickback, posing an injury hazard to the operator.” The company reportedly is aware of a pair of incidents in which users suffered broken wrists as a result of the defect. The CPSC advised owners to stop using the recalled log splitters immediately and contact an authorized Briggs & Stratton dealer for a free inspection and repair; find a dealer near you, [here](https://www.briggsandstratton.com/na/en_us/support/dealer-locator-engines.html?icid=dealer_redirect_eng).
+
+Affected log splitters were manufactured in China and sold nationwide between April 2019 and February 2021, for a price of around $1,400, at Atwood Distributing LP, Big Blue, D&B Supply Co., Fleet Farm, L&M Supply Inc., Lowe’s, Menards, Murdoch’s Ranch & Home Supply, Norby Distributing Company, North 40 Outfitters, Quincy Farm Supply Co., Running Supply Inc., Rural King, Theisen Supply Inc. and Western Big Inc. stores.
+
+Recalled log splitters all have Briggs & Stratton 250cc engines bearing the engine model number 15T232-0011-F8, and serial numbers 1904085275251 through 1905085786452, 1906146333235 through 2004080670911, and 1912319442579 through 2012073736714; the engine model number can be found on the valve cover, while the serial number is printed on the blower housing cover. The devices are sold under the brands’ names, including Black Diamond, model number BDBS32T, 32 ton; Crimson, model number YTL-590-012, 32 ton; Lumberjack, model number YTL-007-414; Performance Built, model number YTL-007-308; and Brute, model numbers YTL-140-701, 30 ton, and YTL-140-743, 35 ton.
+
+Briggs & Stratton reportedly is contacting all owners directly, but if you own one of the affected log splitters, you can call the company at 800-999-9444, or go to [www.briggsandstratton.com](http://www.briggsandstratton.com) and hover on the Support tab before selecting Recalls, for more information. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov).
+
+**More Related Articles:**
+
+*   [3,600 Powerhorse Portable Generators Recalled Over Risk of Electric Shock](https://www.homeserve.com/en-us/blog/home-improvement/portable-generator-recall/)
+*   [Fire Hazard: 4,500 DeWALT Kerosene Heaters Recalled](https://www.homeserve.com/en-us/blog/home-improvement/cordless-kerosene-heater-recall/)
+*   [Watch Your Toes! 2.2 Million Edsal Shelving Units Recalled Due to Injury Risk](https://www.homeserve.com/en-us/blog/news/edsal-shelving-unit-recall/)
+*   [Shock Hazard Sparks Recall of 25,000 National Presto Smokers](https://www.homeserve.com/en-us/blog/news/national-presto-smoker-recall/)
+*   [Jimco Lamp & Manufacturing Recalls 99,000 Accent Tables Over Shock Hazard](https://www.homeserve.com/en-us/blog/how-to/jimco-lamp-accent-table-recall/)

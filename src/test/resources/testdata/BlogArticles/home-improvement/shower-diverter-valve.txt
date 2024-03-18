@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What's a Shower Diverter Valve?"
+headline: "What's a Shower Diverter Valve (and Why Should You Care)?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-04-08
+basePath: https://library.homeserve.com/m/
+heroImage: 37d6b7b17052567e/Blog-DiverterValve_Erossi_3256-jpg.jpg
+heroAltDescription: "hand lifting diverter valve"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Your tub and shower combo relies on a mechanism known as a shower diverter valve. Here's how it works and how to know when it might need to be replaced."
+articleAbstract: "Your tub and shower combo relies on a mechanism known as a shower diverter valve. Here's how it works and how to know when it might need to be replaced."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's a Shower Diverter Valve (and Why Should You Care)?"
+  parent: Plumbing-Home-Improvement
+---
+  There are few things more enjoyable than a nice, warm shower in the morning or when you come home from a stressful day at work. But a shower that’s not operating properly can quickly derail that wonderful experience. Although your shower and bathtub assembly is made up of several different parts, an essential part of it is a mechanism known as a shower diverter valve. And while these devices play a crucial role in the overall functionality of your shower, it isn’t uncommon for them to malfunction over time and require replacement.
+
+**This May Also Interest You:** [**How Much Does it Cost to Install or Replace a Shower Valve?**](https://www.homeserve.com/en-us/blog/cost-guide/shower-valve-replacement/)
+
+But what is a shower diverter valve, anyway? And, more importantly, how can you spot those trouble signs early before having that lovely, relaxing shower experience disrupted?
+
+What’s a Shower Diverter Valve?
+-------------------------------
+
+While it might sound complicated, a shower diverter valve is simply the valve that allows you to switch the flow of water between your tub faucet and your showerhead. In most cases, the diverter valve looks like a pin located on the bathtub faucet spout, but it might appear as a third handle or lever. When the valve is activated, a rubber stopper plugs the water flow and the pressure sends the water through the showerhead.
+
+While shower diverter valves are fairly simple devices, there are three main types that appear most often in homes. They include:
+
+### Single-Valve
+
+Also called a tee diverter, this diverter comes in the form of a pin located on the end of the tub spout. To engage the shower head, simply pull up on the pin. To switch the water flow back to the tub faucet, push down on the pin. You’ll find single-valve diverters in homes where the shower and bathtub are in the same space.
+
+### Two-Valve
+
+Typically found alongside a single-handle faucet, a two-valve diverter sends water from the tub to the shower with the turn of a handle. In many cases, a larger handle controls the temperature of the water, while a smaller one controls the flow of the water.
+
+### Three-Valve
+
+Similar to two-valve diverters, a three-way diverter valve is also controlled by the turn of a handle. Three-valve diverters are generally found in situations where there are two separate handles for hot and cold water. When you’ve found the correct combination of hot and cold water, turn a third handle, usually found between the other two knobs, to activate the showerhead.
+
+Signs That Something Is Wrong With Your Shower Diverter
+-------------------------------------------------------
+
+Although shower diverters are fairly simple devices, they comprise many small rubber washers and plastic stoppers that won’t last forever. Even in the best case, diverters may only provide peak performance for about four to five years. After that, you might start noticing leaks and other changes in your shower experience.
+
+Here are a few common indications that you need to replace your shower diverter:
+
+### Shower Operates With Decreased Pressure
+
+A malfunctioning shower diverter can cause a decrease in shower pressure because the diverter is unable to completely divert the water coming from the tub spout up to the showerhead.
+
+### Trouble Switching the Flow From the Tub to Showerhead
+
+Although it sounds obvious, if your bathtub is experiencing issues switching water flow from the tub to the shower, you more than likely have an issue with your diverter. In many cases, this presents itself as water coming from both the tub spout and the shower head.
+
+### Rusty Water in the Tub
+
+Shower diverters, while comprising several small rubber or plastic parts, are largely made of metal. Over time, metal plumbing components can begin to corrode and flake off into your bathtub. Rusty water is a sign that you definitely have an issue with your plumbing system, and even if it’s not diverter-related, you should make sure you investigate the issue as soon as possible.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install or Replace a Shower Pan?](https://www.homeserve.com/en-us/blog/cost-guide/shower-pan-installation/)
+*   [How Much Does It Cost to Replace a Showerhead?](https://www.homeserve.com/en-us/blog/cost-guide/shower-head-replacement/)
+*   [Making It Rain: How Much Does It Cost to Install a Shower?](https://www.homeserve.com/en-us/blog/cost-guide/shower-installation/)
+*   [How Much Does It Cost to Install Shower Doors?](https://www.homeserve.com/en-us/blog/cost-guide/shower-door-installation/)
+*   [How Much Does a Shower Remodel Cost?](https://www.homeserve.com/en-us/blog/cost-guide/shower-remodel/)
+
+When to Repair or Replace Your Shower Diverter Valve
+----------------------------------------------------
+
+In some situations, it may be possible to simply clean your diverter to get it working properly again. However, in most cases, it’s far easier to install a shower diverter valve replacement to get your diverter back in good working order.
+
+Start by cleaning the tub spout to see if that solves your faulty diverter. Remove the spout by twisting the faucet counterclockwise. Once removed, turn it over to see the inside. Do you see any signs of accumulated gunk and debris? If so, try to remove what you can by using a soft bristle brush (a toothbrush would work fine). Then, soak the faucet in distilled white vinegar. Leave the faucet to soak in the vinegar for roughly 12 to 24 hours. From there, rinse the faucet and then test the diverter.
+
+If cleaning the faucet doesn’t work, you likely have problems with the rubber stopper or any of the other rubber or plastic components. While it may be possible to replace these tiny parts with new ones, it’s typically far easier to simply replace the diverter completely.
+
+The key here is to act as soon as you suspect an issue with your diverter. That way, you won’t be stuck without a working shower. And remember: If you don’t feel confident handling any of these repairs yourself, never hesitate to call a licensed plumber.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/VLcaeWk-vh0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Your Shower Head Needs a Bath #lifehack #cleaninghack #howto"></iframe>

@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "7 Ways Your Kitchen Will Evolve in the Next 10 Years"
+headline: "7 Ways Your Kitchen Will Evolve in the Next 10 Years"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2022-01-07
+basePath: https://library.homeserve.com/m/
+heroImage: 2e5b8e23513c74c2/Blog-FuturisticKitchen_Samsung.jpg
+heroAltDescription: "A domestic robot arm moves a plate to the table of a futuristic kitchen in this illustration"
+metaDescriptions: "Thanks to AI, connected appliances and robotics, your kitchen could get pretty high-tech in the coming years."
+articleAbstract: "What's new in the kitchen technology sphere? A lot, turns out. Thanks to AI, connected appliances and robotics, your kitchen could get pretty high-tech in the coming years. Here's what cooking might be like in the year 2030."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "7 Ways Your Kitchen Will Evolve in the Next 10 Years"
+  parent: Appliances
+---
+  
+
+_Samsung image_
+
+Unlike your phone — which has gone from something that hung on the wall in your house to a piece of the internet you can slip in your back pocket — your kitchen probably doesn’t look much different than it did 20 years ago. Sure, the décor has probably changed. (Though _we_ haven't forgotten the [Tuscan trend](https://floridadesignworks.com/detuscanize-your-home/) of the ‘90s.) But your fridge, stove, oven, microwave and dishwasher — aside from some increased energy efficiency — probably aren’t too different than they were back then.
+
+**This May Also Interest You:** [**GE Smart Microwaves: Smart Features and Functionality**](https://www.homeserve.com/en-us/blog/home-improvement/GE-smart-microwave/)
+
+That said, we have seen Wi-Fi-connected [smart appliances](https://www.energystar.gov/products/smart_home_tips/smart_appliances) hit the scene in recent years. [Air fryers](https://www.tasteofhome.com/article/what-is-an-air-fryer/) are all the rage right now, as are other trendy gadgets like [Instant Pots](https://www.instanthome.com/product/instant-pot/duo-plus/6-quart-pressure-cooker-v3) and [sous vide](https://www.bonappetit.com/story/what-is-sous-vide-cooking) circulators.
+
+But all of these are just reheated versions of previously existing food technologies, said Michael Wolf, CEO of food technology news website [The Spoon](https://thespoon.tech). A smart fridge is still a fridge, after all. Air fryers are miniature convection ovens, Instant Pots are pressure cookers and the sous vide cooking method has been around for decades.
+
+So … what _is_ new in the kitchen sphere? A lot, turns out. Thanks to AI, connected appliances and robotics, your kitchen could get pretty high-tech in the coming years.
+
+Wolf moderated a Jan. 6 panel discussion at this year’s [Consumer Electronics Show](http://ces.tech) (now called CES) in which industry experts speculated about what our kitchens might look like in the year 2030.
+
+Here are some of the top kitchen technology innovations and changes these experts say we may see in the next five to 10 years:
+
+1\. _Actual_ Autonomy
+---------------------
+
+Up until recently, “smart” kitchen appliances were really just Wi-Fi-connected “dumb” models. And while that’s useful for all sorts of features, it’s not _autonomous cooking_. In the future, more devices in your kitchen may be able to “talk” to each other — but in a bigger way than just through smartphone applications.
+
+Being able to preheat your oven from your phone doesn’t really save you that much time, said Robin Liss, CEO of [Suvie](https://www.suvie.com), a company that makes countertop kitchen robots. She said consumers looking to cut down time spent cooking need devices with autonomous hardware in addition to software.
+
+The [Suvie cooker](https://www.suvie.com/kitchen-robot/), for instance, is a refrigerator until you set it to cook the food stored inside — which you can do even if you’re not at home, thanks to the Wi-Fi-enabled system.
+
+2\. Healthier Options
+---------------------
+
+Such a level of autonomy may make healthy food more accessible, even to those who lack cooking skills, said Kai Schaeffner, an executive at Vorwerk, the company behind the [Thermomix](https://thermomix.vorwerk.com/thermomix/). If the smart cooker on your counter could reliably prepare delicious fruits and veggies, it’d be a whole lot easier to eat them.
+
+Smart cookers and other appliances can already suggest to the user recipes based on ones made and enjoyed in the past. But, eventually, he said kitchen appliances may become automated to the point that they’ll be able to tell _you_ what you need to eat based on your dietary or health needs.
+
+**More Related Articles:**
+
+*   [Give Your Kitchen Je Ne Sais Quoi With Bespoke French Door Fridge From Samsung](https://www.homeserve.com/en-us/blog/home-improvement/samsung-bespoke-french-door-fridge-CES/)
+*   [LG Smart Refrigerators: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/home-improvement/lg-smart-refrigerator/)
+*   [Can You Buy a TV That’s Not Smart?](https://www.homeserve.com/en-us/blog/buying-guide/non-smart-tvs/)
+*   [What’s a Google Nest Hub and What Can You Do With It?](https://www.homeserve.com/en-us/blog/buying-guide/google-nest-hub/)
+*   [Samsung Smart Refrigerators: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-refrigerator/)
+
+3\. Refrigeration Reformation
+-----------------------------
+
+“We end up using refrigerators to throw away food,” said Dr. Dochul Choi, senior VP at Samsung Electronics. Choi says that some people think they need a bigger fridge to store all of the food they buy in bulk, but in reality, a bigger fridge is just more opportunity to waste food.
+
+Choi said that fridges aren’t the only way to preserve food. Humans preserved food in a number of ways before the advent of refrigeration, and we may see more technologies that mimic those methods in the future, with a focus on sustainability.
+
+4\. Changes in the Way We Eat
+-----------------------------
+
+If our kitchens look remarkably different in the future, it stands to reason that the culture around food and mealtimes will, too, said Khalid Aboujassoum, founder and CEO of [Else Labs](https://elselabs.io), producer of the [Oliver kitchen robot](https://elselabs.io/shop). With more automation and personalization coming to kitchens, will families continue to sit down to one big common meal? Or will everyone have what they want, thanks to technology that makes it just as simple to do so?
+
+5\. Cooking Convergence
+-----------------------
+
+To that end, Aboujassoum said we may be soon looking at new kitchen technologies that “converge,” or centralize, the cooking process. From recipe selection, to sourcing and delivery of quality ingredients, to the prep and cooking, a robot appliance will take care of it, start to finish.
+
+6\. Remote Appliance Updates
+----------------------------
+
+This is something we’ve already seen — like with GE Appliances’ recent over-the-air update that brought a specialized [turkey-cooking mode](https://www.homeserve.com/en-us/blog/home-improvement/ge-smart-range-turkey-mode/) to some of its smart ranges and ovens. Remote software updates could bring a broad range of cooking features to smart and automated appliances on a rolling basis, allowing them to get even smarter over time.
+
+7\. It’s the End of the Kitchen as We Know It!
+----------------------------------------------
+
+The biggest step forward in kitchen tech, according to Choi, may be the shrinking or altogether elimination of what we think of as a “kitchen.” If you didn’t _need_ a fridge, range, microwave and a small fleet of other appliances, what could you do with that space instead? Choi said the kitchen is a prime chunk of real estate — especially in dense urban areas — that you may soon be able to use for something else, thanks to do-it-all cooking appliances and robots.
+
+In the future, he said he thinks cooking will be more like a hobby than a chore; you’ll only need to do it if you want to.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

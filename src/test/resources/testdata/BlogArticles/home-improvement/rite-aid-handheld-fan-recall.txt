@@ -1,0 +1,34 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Rite Aid Recalls Handheld Fans After Reports of 'Overheating and Emitting Smoke'"
+headline: "Rite Aid Recalls Handheld Fans After Reports of 'Overheating and Emitting Smoke'"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-07-23
+basePath: https://library.homeserve.com/m/
+heroImage: 334586def3b7c68b/Blog-HandheldFanRecall_RiteAid.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Rite Aid has recalled 9,780 rechargeable handheld fans. The batteries can overheat, posing a fire risk. The CPSC has warned consumers to stop using them."
+articleAbstract: "Rite Aid has recalled about 9,780 rechargeable handheld fans because the lithium-ion batteries can overheat, posing a fire risk. The Consumer Product Safety Commission has warned consumers to stop using these fans immediately. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Rite Aid Recalls Rechargeable Handheld Fans Due to Fire Hazard"
+  parent: Interior-Home-Home-Improvement
+---
+  Rite Aid has recalled about 9,780 rechargeable handheld fans because the lithium-ion batteries can overheat, posing a fire risk. In a [July 21 recall notice](https://cpsc.gov/Recalls/2021/Rite-Aid-Recalls-Rechargeable-Handheld-Fans-Due-to-Fire-Hazard), the Consumer Product Safety Commission warned consumers to stop using these fans immediately.
+
+**This May Also Interest You:** [**What Do You Do When a Product is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+[Rite Aid](https://www.riteaid.com) has received two consumer reports of the fans overheating and smoking while charging. No injuries have been reported.
+
+According to the Camp Hill, Pa.-based retailer, the recalled fans were manufactured in China and sold in Rite Aid stores between April 2021 and June 2021 for about $10. The affected models came in blue, pink and purple colors. Item number 9050103 is printed on a sticker on the backside of the fan and on the original packaging.
+
+If you purchased a recalled fan, do not use it. Instead, contact Rite Aid for a full refund. Call the retailer at 800-748-3243 to request a refund, or visit the [product recalls page](https://www.riteaid.com/customer-support/product-recalls) for additional information. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Burn Notice: ECHO EGI-2300 Watt Generators Recalled Due to Fire and Burn Hazards](https://www.homeserve.com/en-us/blog/home-improvement/echo-generator-recall/)
+*   [Real Flame Recalls 700 Fire Pits; the Wood Stored Underneath Can Catch Fire](https://www.homeserve.com/en-us/blog/home-improvement/real-flame-fire-pit-recall/)
+*   [‘Burning Smells, Flames and Smoking’ Cited in Recall of 42,000 Cove Appliance Dishwashers](https://www.homeserve.com/en-us/blog/home-improvement/cove-appliance-dishwasher-recall/)
+*   [5.4 Million Clothing Steamers Recalled by HSN Over ‘Severe Burn Hazard’](https://www.homeserve.com/en-us/blog/home-improvement/hsn-clothing-steamer-recall/)
+*   [Chairs Could Collapse: TJX Recalls 92,000 Wooden Folding Chairs for Fall, Injury Risk](https://www.homeserve.com/en-us/blog/home-improvement/outdoor-wooden-folding-chair-recall/)

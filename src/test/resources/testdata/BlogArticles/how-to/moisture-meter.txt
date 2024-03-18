@@ -1,0 +1,99 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Use a Moisture Meter"
+headline: "How to Use a Moisture Meter"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-23
+basePath: https://library.homeserve.com/m/
+heroImage: 4085f7d5d08f19bf/Blog-GettyImages-1220212696.jpg
+heroAltDescription: "Plaster moisture measurement using an electronic meter. Measurements in the home workshop. Light background."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "By learning how to use a moisture meter properly, you may be able to minimize water damage and costly related repairs."
+articleAbstract: "A moisture meter can identify wet areas in your walls, ceilings and floors. By learning how to use a moisture meter properly, you may be able to minimize water damage and costly related repairs."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Use a Moisture Meter"
+  parent: Interior-Home-How-To
+---
+  Learning how to use common tools can make it easier to execute simple household repairs on your own. One device that may be particularly useful around the house is the moisture meter, which can identify wet areas in your walls, ceilings and floors.
+
+**This May Also Interest You:** [**How to Use a Voltage Tester**](https://www.homeserve.com/en-us/blog/how-to/use-voltage-tester/)
+
+By learning how to use a moisture meter properly, you may be able to minimize water damage and costly related repairs. Better yet: It's not hard to learn how to use this tool.
+
+When Should You Use a Moisture Meter?
+-------------------------------------
+
+Many industries use moisture meters to detect moisture in structures and identify potential problems. For homeowners, moisture meters may have several useful applications, such as:
+
+*   Locating the source of a suspected leak or water intrusion
+*   Checking the moisture level of a concrete slab or subfloor before installing wood floors
+*   Predicting the deterioration of drywall
+*   Finding areas that may be prone to pest infestation or mold
+*   Determining the need for a dehumidifier
+*   Ensuring the quality of materials for home improvement projects
+
+What Materials Can You Check the Moisture Level Of?
+---------------------------------------------------
+
+Depending on the moisture meter you're using, and whether it offers pin or pinless operation, you can measure the moisture content of various materials, including:
+
+*   Wood
+*   Tile
+*   Brick
+*   Soil
+*   Stone
+*   Stucco
+*   Plaster
+*   Concrete
+*   Vinyl
+*   Drywall
+*   Cardboard
+
+How to Use a Moisture Meter on Wood and Other Building Materials
+----------------------------------------------------------------
+
+Moisture meter operation may vary depending on the instrument you’re using and the materials being tested. However, you can operate most basic units by following several simple steps:
+
+**1\. Turn the unit.** Make sure it has fresh batteries because low battery power can impact the calibration.
+
+**2\. Select the right mode for the material being tested.** Many units include settings for hardwood, softwood, drywall and masonry.
+
+**3\. Select the pin or pinless sensor setting.** Pin sensors offer more accurate readings for soft materials, while pinless operation lets you scan large areas quickly.
+
+**4\. Conduct the scan.** If you’re using the pin sensor, insert the probe into the material to be tested. If you opt for the pinless setting, sweep the flat scanner across the material's surface. Take measurements at multiple locations.
+
+**5\. Avoid false signals.** For accurate readings, avoid metal strips in walls and windows. Metal often returns false moisture readings of 100%.
+
+**6\. View the results.** Many meters feature multiple outputs, such as color, percentages and audio tones. Materials with high moisture levels may return results in red or have a warning beep, while lower-moisture areas return green or yellow results.
+
+**7\. Clean your meter after use.** Always use a biodegradable cleaner and clean only the external parts. Then, store the unit in a clean, dry place.
+
+**More Related Articles:**
+
+*   [Pipe Burst? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+*   [My Basement Flooded … Now What? 7 Steps to Take in the Immediate Aftermath of a Flood](https://www.homeserve.com/en-us/blog/home-improvement/basement-flooding-tips/)
+*   [Why Does My House Flood but Not My Neighbor’s?](https://www.homeserve.com/en-us/blog/home-improvement/why-does-my-house-flood/)
+*   [Protect Your Home Against Flooding With This Sump Pump Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-maintenance/)
+*   [How Much Do Flood Damage Repairs Cost?](https://www.homeserve.com/en-us/blog/cost-guide/water-damage-restoration/)
+
+How to Use a Moisture Meter on Concrete
+---------------------------------------
+
+Getting accurate moisture measurements for concrete can be challenging because slabs often have a moisture gradient, with moisture levels increasing in deeper, unscannable sections of the structure. However, moisture meters may still be the most effective tool for detecting moisture without damaging the slab.
+
+To scan concrete, place the sensor pad against the surface, repeating measurements at intervals to map the concrete's superficial moisture levels. By taking multiple readings, you can identify potentially problematic areas.
+
+What's a Normal Reading on a Moisture Meter?
+--------------------------------------------
+
+A normal reading on a moisture meter varies depending on the material being tested and whether you’re testing an interior or exterior surface. Additionally, some materials, such as masonry, may require a specially calibrated moisture reader.
+
+Some meters include a reference scale, which provides settings for different materials and can estimate low, normal and high moisture values for a specific material. Reference scales typically range from 0 to 100, where 0 is completely dry and 100 is fully saturated. However, the best way to determine a normal reading for a material is generally to compare it to a reading for a sample you know is dry.
+
+Can You Check the Moisture Level of a Material Without Poking Holes in It?
+--------------------------------------------------------------------------
+
+Yes, most general moisture meters have two testing methods: a pin sensor and a pad sensor. The pin sensor, which features two metal probing pins, is designed for use on soft materials such as carpets or soil. The pad sensor, which is flat, can be used to quickly scan walls, floors and ceilings without poking holes in the material or otherwise causing damage.

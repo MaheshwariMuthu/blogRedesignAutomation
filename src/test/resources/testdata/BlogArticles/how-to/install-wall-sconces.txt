@@ -1,0 +1,85 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Install Wall Sconces"
+headline: "How to Install Wall Sconces"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-22
+basePath: https://library.homeserve.com/m/
+heroImage: e69c9b73fcd064e/Blog-BathroomSconceLightAWiesen_IMG_0552.jpg
+heroAltDescription: "Mounted sconce on a tile wall in the bathroom"
+metaDescriptions: "Most DIYers can replace an old wall sconce with a new one without calling a pro. Find out how to install wall sconces with this installation guide."
+articleAbstract: "Wiring a wall sconce in a new location is difficult, but most people can replace an old wall sconce with a new one without calling an electrician. Find out how to install wall sconces with this installation guide."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install Wall Sconces"
+  parent: Interior-Home-How-To
+---
+  **Installing Wall Sconces at a Glance**
+
+* **Step 1:** Turn off power
+* **Step 2:** Remove existing fixture
+* **Step 3:** Attach mounting brackets
+* **Step 4:** Connect wires
+* **Step 5:** Mount sconce and test
+
+Wall sconces are an elegant way to improve interior lighting and add a decorative feature to a plain wall. Although you can buy wall sconces relatively cheaply, installing them is another matter entirely.
+
+**This May Also Interest You:** [**Do Light Fixtures Add Value to Your Home?**](https://www.homeserve.com/en-us/blog/home-improvement/light-fixtures-increase-home-value/)
+
+Wiring a wall sconce in a new location is difficult, but most people can replace an old wall sconce with a new one without calling an electrician. Find out how to install wall sconces with this installation guide.
+
+Do Sconces Need Wiring?
+-----------------------
+
+Regular sconce lights need wiring to an electrical box, but there are a few models that run on batteries. The advantage of having wired sconce lights is that you won't need to take the sconce apart or periodically remove it from the wall to replace or recharge the batteries.
+
+However, the process to install a wired sconce is relatively involved, so many homeowners prefer to hire a professional to do the work for them. You should expect to pay an electrician somewhere in the ballpark of $250 to $350 per sconce for labor, according to [Homewyse](https://www.homewyse.com/services/cost_to_install_wall_sconce.html). This doesn’t include the cost of the fixture itself.
+
+Alternatively, you could install a wire-free version or do the work yourself if you feel confident in your wiring skills.
+
+How Do You Install Wall Sconces Without Electricity?
+----------------------------------------------------
+
+If you don't have the budget for wiring wall sconces or simply want your new lighting installed in a hurry, battery-operated sconces could be a good option. While you won't have as many options to choose from, there’s a range of stylish fixtures available online. You'll still need to attach the light to the wall yourself or hire a professional to do it for you, but you won't need to pay an electrician.
+
+Here’s a hack: If you can't find a battery-operated wall sconce to suit your taste, another option is to fake it using a regular wall sconce and some puck lights. You can either place the battery-operated puck light inside the shade or attach it with a removable strip. Don't glue it down, or you won't be able to replace the batteries. You can then simply mount your sconce to the wall without any wiring required.
+
+How Do You Install a Hardwired Wall Sconce?
+-------------------------------------------
+
+If you already have some electrical experience, you can install hardwired wall sconces yourself. However, bear in mind that an incorrectly installed sconce could pose a hazard. If you're unsure of your ability to do the work, it's best to call a licensed electrician.
+
+Installing a wired sconce in a new location is complex work beyond the capability of most DIYers, so you’d want to enlist a pro in that situation as well. Here’s how to install wall sconces with wires to replace an existing fixture:
+
+### Step 1: Shut Off the Power
+
+Before you touch your electrics, it's essential to switch off the power supplying the light fixture at the circuit breaker. If you're unsure which switch supplies your light, turn the light on and then flip the circuit breaker switch to check that it loses power. For added safety, you could also use a voltage checker to ensure there's no electricity running through the wires.
+
+### Step 2: Remove the Old Fixture
+
+Unscrew the bulb from the existing light fixture and remove the shade. You can then remove the screws holding the sconce to the mounting plate and remove it from the wall. At this point, the sconce will still be wired to the electrical box. Hold the sconce in one hand or get someone else to hold it for you to stop it from tugging or ripping out the wiring.
+
+Remove the nuts holding the connections together and unravel the wire ends to disconnect the sconce from the electricity box. You'll need to loosen the ground screw to remove the ground wire.
+
+Once you've disconnected the wires and discarded the old sconce, unscrew the mounting bracket from the wall and remove it.
+
+**More Related Articles:**
+
+*   [How to Install LED Strip Lights: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-led-strip-lights/)
+*   [How Much Does It Cost to Install Light Switch Dimmers?](https://www.homeserve.com/en-us/blog/cost-guide/dimmer-light-switch-installation/)
+*   [Let’s Shed Some Light on the Situation: How to Change a Lightbulb](https://www.homeserve.com/en-us/blog/how-to/change-lightbublb/)
+*   [How Much Does It Cost to Install Outdoor Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/outdoor-light-installation/)
+*   [How Much Does It Cost to Install Recessed Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/install-recessed-lighting/)
+
+### Step 3: Attach Mounting Bracket
+
+Following the manufacturer's instructions, attach the new mounting bracket to the wall in front of the exposed electricity box using screws. Feed the wires through the hole in the center so that you can wire the new sconce.
+
+### Step 4: Connect the Wires
+
+Next, coil the ground wire from the electricity box around the ground screw on the mounting bracket and tighten it with a screwdriver. Connect the wires from the new sconce to the junction box wires by twisting the copper ends together and covering the connections with a wire nut. You usually need to connect wires of the same color together, but it's best to double-check the instruction manual.
+
+### Step 5: Mount the New Sconce
+
+Finally, push the wires carefully inside the electricity box and screw the new sconce to the mounting bracket. Don't forget to add a bulb. Then, switch the electricity back on at the circuit breaker to check if it's working.

@@ -1,0 +1,139 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Central Air Installation and Replacement Cost
+headline: Central Air Installation and Replacement Cost
+author: Team HomeServe
+tags: ['post', 'Tops Tips and Lists', 'Know Your Equipment']
+publishDate: 2020-09-11
+basePath: /en-us/assets/images/blog/cost-guide/
+heroImage: thermostat.jpg
+heroAltDescription: Thermostat
+metaDescriptions: Find out the central air installation cost so that you, too, can live comfortably in the heat of the summer.
+articleAbstract: Thinking about installing central air conditioning? Here’s what you need to know.
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local HVAC contractor.
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/hvac/hs/expert
+  large:
+      image: /en-us/assets/images/blog/hvac_elocal_banner1.jpg
+      alt: HVAC eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/hvac_elocal_banner2.jpg
+      alt: HVAC eLocal Banner 2
+category: ['Cost Guide']
+
+eleventyNavigation:
+  key: Central Air Installation and Replacement Cost
+  parent: HVAC-Cost-Guide
+---
+
+:::: blog-info
+Having central air cooling your home is important during the hot summer months – especially if you’ve ever experienced living in a house or working in a business that just has a couple of fans running in 95-degree heat. Yep, we all know, it's brutal. And depending on where you live, central air conditioning can be a necessity throughout the year.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% else %}
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+{% endif %}
+
+Imagine every room of your house set at a comfortable, even temperature. Central air systems are generally preferred over AC units because they are more efficient at providing better cooling, and they are also great at filtering air. This is especially important if you have allergies or asthma. Unfortunately, some places aren't set up to accommodate a central air unit, but if you have the capability and can afford the cost, installation should be at the top of your checklist.
+
+## How Much Does Having Central Air Cost?
+If you are considering a central air system, then you may be wondering how much it costs. The cost to install central air ranges from $5,000 to $8,000, depending on the system and size of your home. If your home needs new ductwork installed, that is an additional cost to consider. The cost for a central air unit with ductwork would be on the higher end of the price spectrum, even upward of $15,000. There could be a lot of fluctuation in the [actual cost of installing a central air unit system](/en-us/blog/cost-guide/air-conditioner-installation-cost){target="_blank"} due to all of the underlying factors involved.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+Although there can be a significant cost involved with a central air system, it is one of the best options for consistent cooling in the home. A general contractor must first assess the house to give you an accurate cost. More on that later.
+
+## Price by Brand
+Here are some of the top brands that we recommend for a central air system and the average cost to install:
+
+::: list-indentation
+* Heil - $3,562 to $4,465
+* Goodman - $3,188 to $4,275
+* Amana - $3,854 to $6,345
+* Bryant - $3,285 to $5,432
+* Carrier - $4,892 to $7,224
+* American Standard - $3,575 to $6,178
+* Trane - $3,267 to $6,100
+* Lennox - $3,100 to $7,340
+* RUUD - $3,125 to $3,879
+* York - $3,067 to $5,200
+:::
+
+## DIY vs Professional
+Although there are many homeownership projects that you can do it yourself, there are times when you should hire a professional to do the job. Installing a central air system is a perfect example of when you should hire a professional. Here are a few reasons why you should hire a certified HVAC professional to install and maintain your new central air system.
+
+## Skip the Manual Labor
+Installing a central air system has a lot of manual labor involved. You may find yourself crawling underneath your house, lifting heavy objects, climbing onto the roof, pouring down a concrete base, and performing any number of other strenuous activities. Hiring a professional will allow the job to be performed correctly, by a professional, and allow you to sit back and wait for your new central air system to be installed.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+Sometimes, your contractor has the ability to negotiate a lower rate for the central air unit due to their relationship with the manufacturer and using a certain brand. It is important to know that you will still pay labor costs for the unit's installation, which can also be expensive. You may also need to finance the work related to preparation for installation. This type of work could include pouring a concrete slab or making modifications in order to accommodate the system on your roof. However, a professional will be able to oversee these details for you.
+
+## No Legwork Involved
+Many times, local government regulations require permits for home improvement projects, including central air unit systems. The professionals know the permits to apply for, and they do all the paperwork themselves, so you don't have to worry about going down to your local township hall to figure it all out. This can also help with timelines and getting things done quickly.
+
+## Maintenance Plans
+When you hire a professional, you often have the ability to opt in for a [maintenance plan](/en-us/repair-plans/hvac/cooling-system/){target="_blank"} to keep your unit in top shape. The professional you hire has established familiarity with the unit and your home and can easily come and check out things whenever you request it.
+
+## Average Cost for Repairs on Central Air Systems
+Homeowners pay $300 on average for central air system repairs. Average HVAC repair costs for common central air system repairs include:
+
+::: list-indentation
+* Replace condensate drain tube – $20
+* Replace condensate drain pump – $240 to $450
+* Replace drain pans – $250 to $575
+* Flush drain line – $75 to $250
+* Recharge refrigerant – $250 to $750
+* Repair refrigerant leak – $200 to $1,500
+* Replace compressor – $1,900
+* Repair outdoor fan motor – $200 to $650
+* Replace breakers, fuses, or relays – $75 to $290
+* Replace condenser coil – $1,900 to $2,900
+:::
+
+## Tips for Hiring a Professional
+No matter whom you decide to hire, you want to make sure that they are reputable, licensed, and insured. You need to make sure that the person has the ability to do the work and can stand by their work if there are any issues.
+
+Don't just settle for the first person you find. It pays to obtain at least three estimates from contractors in your area. Price isn't always the determining factor, however. It's always good to ask for referrals or look at online reviews if there are any.
+
+## FAQs
+### How Long Does It Take to Install a Central Air Unit System?
+
+In general, installation of a central air system will take anywhere from four to eight hours, which means the process of removing the old unit and being able to turn on the new one should be finished within a day. Though keep in mind that this is an estimate and some systems can take longer to install.
+
+### How Long Can You Expect a Central Air System to Last?
+
+A new central air system can last up to 15 years if taken care of.
+
+### Does a Central Air System Need Maintenance?
+
+As your central air system gets older, it is important to have annual HVAC checkups on your unit by a service technician to make sure you get the most out of it.
+
+### Central Air Cost Calculator
+
+Want to know how much a new central air unit should cost you? Try out an online [cost calculator](https://www.hvac.com/cost-calculator/){target="_blank"} to get an idea of what the price will be for your home.
+
+Like many things in your home, it is important to maintain your central air system. And being prepared for costly home repairs before they happen is a good idea. Plans from [HomeServe](/en-us/repair-plans/){target="_blank"} help you deal with covered repairs, up to the benefit amount. Check out the plans that are available in your area.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% else %}
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+{% endif %}
+::::
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6RoqfIe7HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

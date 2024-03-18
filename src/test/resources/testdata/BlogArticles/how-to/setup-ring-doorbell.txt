@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Set Up a Ring Doorbell "
+headline: "How to Set Up a Ring Doorbell"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-06-18
+basePath: https://library.homeserve.com/m/
+heroImage: 15e98f925083ba87/Blog-lifestyle_doorbell_one_satinnickel_door_blue_2a-psd-Cropped.jpg
+heroAltDescription: "Close up shot of a 1st generation Ring video doorbell on a residential home"
+metaDescriptions: "Ring smart doorbells are easy to install and highly regarded for their functionality and durability. Here's how to install one in your home."
+articleAbstract: "Ring smart video doorbells are easy to install and highly regarded for their functionality and durability. Here's how to install one in your home — whether you want to wire it into an existing doorbell or mount a battery-powered model."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Set Up a Ring Door Bell"
+  parent: Electrical-How-To
+---
+  **Setting Up a Ring Doorbell at a Glance**
+
+* **Step 1:** Download app and create account
+* **Step 2:** Turn on doorbell and charge
+* **Step 3:** Connect to Wi-Fi signal
+* **Step 4 (Wireless):** Attach doorbell to house
+* **Step 4 (Wired):** Attach wires and install bracket
+* **Step 5:** Snap doorbell on mounting plate
+
+From the humble door knocker to speakers that play the Big Ben chime when a doorbell is pushed, homeowners have always experimented with interesting ways to allow visitors to announce themselves. These days, ordinary doorbells are getting replaced with smart doorbells equipped with video cameras, which alert you to visitors even before they push the button.
+
+**This May Also Interest You:** [**How to Recharge a Ring Doorbell**](https://www.homeserve.com/en-us/blog/how-to/recharge-ring-doorbell/)
+
+One of the most popular choices in this category is the Ring line of smart video doorbells, which are easy to install and highly regarded for their functionality and durability. Here's what you need to know if you want to install one in your home.
+
+Choosing Your Ring Doorbell
+---------------------------
+
+There’s a dizzying and somewhat confusing array of Ring doorbells to choose from. A quick look at the [company's website](https://ring.com/doorbell-cameras) reveals eight different models as of 2021. To simplify things, it's helpful to break these devices into two categories: wired and wireless.
+
+### Wired Ring Doorbells
+
+If you already have a wired doorbell, then choosing a wired Ring might be a smart way to go. Just be aware that you'll need to know a bit about the power that is supplied to your current doorbell. Ring doorbells require a transformer that delivers a power supply between 16 to 24 volts with an output of 20 to 30 amps. You can check your current system by using a voltmeter to see if you have the right output. Doorbell transformers are often found inside the house right behind the doorbell or sometimes near electrical boxes in basements. If your current transformer is insufficient to power the Ring, the company sells a replacement that you can swap in.
+
+To install a transformer, you'll want to either cut the power to your current doorbell, or shut off your home's main breaker if you're unsure which one controls the doorbell. Then, remove the two wires connected to the transformer, noting their positions. Mount the new wires to the matching connectors on the new transformer, restore power and you'll be ready to attach your Ring.
+
+Alternatively, Ring sells something called a “Pro Power Kit” that attaches to the sound-making part of your internal doorbell system. It's a small module that uses two wire clips to link up to the wires inside the doorbell. It's easier to install than a new transformer, so it's a more DIY-friendly option.
+
+### Wireless Rings
+
+If you don't already have a wired doorbell at your front door, you'll likely want to call in an electrician to get your new wired Ring set up. However, a more appealing path might be to purchase one of Ring's wireless options, which use long-life rechargeable batteries. These smart doorbells simply mount to the outside of your home with no electrical connection needed. The batteries last six to 12 months, depending on how much movement your unit’s camera detects. The Ring app will let you know when it’s time to charge them back up.
+
+**More Related Articles:**
+
+*   [How to Install a Video Doorbell](https://www.homeserve.com/en-us/blog/how-to/install-video-doorbell/)
+*   [Is a Smart Garage Door Opener a Wise Investment?](https://www.homeserve.com/en-us/blog/home-improvement/smart-garage-door/)
+*   [What Are the Best Home Security Gadgets?](https://www.homeserve.com/en-us/blog/buying-guide/best-home-security-devices/)
+*   [Protect Your Home With These Security Systems](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-security-systems/)
+*   [Your Definitive Guide For the Best Smart Home Devices](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-devices/)
+
+Installation and Setup: Step-by-Step Instructions
+-------------------------------------------------
+
+Whether you've chosen a wired or wireless Ring doorbell, the installation process is much the same – and it begins with downloading the Ring app either from the [Google Play Store](https://play.google.com/store/apps/details?id=com.ringapp&hl=en_US&gl=US) or the [Apple App Store](https://apps.apple.com/us/app/ring-always-home/id926252661). Next, follow these steps:
+
+1\. Once you have the app on your phone and start it up, you will be asked to either create an account if you've not used it before or to log into your account if you're already a Ring member. In either case, you'll want to select "Set Up Device," and then select "Video Doorbell." You'll then be asked to choose a name for your new doorbell, such as "Front Door" or "Side Door," in case you decide to set up multiple Rings. Next comes choosing your street address.
+
+2\. Grab your new doorbell, turn it over and press the orange button on the back until the light around the button on the front begins spinning white, indicating that the unit is in setup mode. If this doesn't happen, it might mean that your doorbell battery needs to be charged. Either remove the battery pack or connect the entire doorbell to a micro-USB cable and plug the other end into the wall. You'll know that the device is fully charged when the ring on the front is a solid, steady blue circle or when one of the two LED lights on the battery pack turns off (depending on your model).
+
+3\. Once your Ring is in setup mode, you'll need to connect to its Wi-Fi signal. Most Android phones will do this automatically, but on some models of Androids and all Apple phones, you'll need to leave the app momentarily to connect it through your phone's Wi-Fi settings. Next, the app will prompt you to connect the doorbell to your home's Wi-Fi network. Once the setup is complete, the doorbell will blink blue four times and the app will let you know the process is finished.
+
+4\. If you have a wireless model, you'll now want to attach the doorbell to the outside of your home. If it is going directly into wood, you can just go ahead and drill it in using the included mini level to make sure it is lined up properly. If you are drilling into masonry, you'll want to use the included anchors.  
+  
+If you're replacing a wired doorbell, first turn off the breaker that supplies its power and remove it. Next, install the mounting bracket that comes with the Ring doorbell, being sure to pull the old wires through the center. Attach each of the two wires to the screws above the hole in the bracket and tighten them down; it doesn't matter which wire goes to which screw. If you have a digital doorbell chime inside your house versus a mechanical doorbell, you'll also want to attach the diode included in the kit to both of these screws.
+
+5\. Snap the doorbell over the mounting plate, turn the power back on and you should be good to go.
+
+Ding Dong
+---------
+
+If you have replaced an existing doorbell with a Ring, when visitors push the button, the chimes inside your house will still sound and you'll also get a notification on your phone. If your Ring is a new installation or wireless version, your phone will alert you when someone rings the doorbell or when it detects movement, but you won't hear a chime. If you also want to hear an audible ring inside your house when the doorbell is pushed, you'll need to purchase a Ring Chime, which simply plugs into a wall outlet and connects to — and boosts — your home's Wi-Fi signal.

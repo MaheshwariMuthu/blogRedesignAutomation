@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Best Space Heaters
+headline: Always cold? These are the Best Space Heaters
+author: Team HomeServe
+tags: ['post', 'Know Your Equipment']
+publishDate: 2018-11-02
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: OutdoorSpaceHeaterHS.jpg
+heroAltDescription: Outdoor Space Heater
+metaDescriptions: The struggle of always being cold is real, which is why we did the work and found the best space heaters for your needs.
+articleAbstract: Which space heater is best? We can help you choose.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Best Space Heaters
+  parent: HVAC-Buying-Guide
+---
+
+:::: blog-info
+If you’re like me, late fall and early winter chills me to the core. Once November hits, there's no chance you'll be seeing me hanging out around the house barefoot or in my flip flops. By the time Jack Frost hits, I’m always bundled up in cozy socks and sweaters, and will still grab a blanket for extra warmth. And of course, I’ll avoid the basement at all costs for fear of [how cold it may be down there](/en-us/blog/home-improvement/basement-cooling-heating-tips){target="_blank"}. BRRRRR. But I found the perfect solution...a space heater.
+
+First, you need to make sure your [home heating system is working efficiently](/en-us/blog/home-improvement/repair-replace-heating-system){target="_blank"} before you invest in additional warming solutions. If all looks well and you're still running for the extra layers - or you want to warm your space on a budget - it might be time to buy a space heater.
+
+Which space heater is best? The answer depends on the quirks of your home as well as your individual needs.
+
+## What to look for in a space heater
+
+### Size
+
+The first step to choosing a space heater is determining which size will meet your needs without wasting energy. Compact space heaters are ideal for quick spot heating when just one or two people need the warmth. Larger models are made to heat a full room and can accommodate more people.
+
+### Safety features
+
+You have to be sure to keep in mind that space heaters can be dangerous (as they can overheat) and you have to use them properly. _Consumer Reports_ advises looking for [labels that verify the heater's safety](https://www.consumerreports.org/cro/space-heaters/buying-guide/index.htm){target="_blank"}, such as UL for Underwriters Laboratory, ETL for Intertek or CSA for Canadian Standards Association. Additionally, try to choose a space heater with a sensor that automatically turns off the unit if it overheats. Other safety features include anti-tipping devices and heat guards.
+
+### Additional features
+
+Some heaters come with customizable thermostats, which allow you to save your own settings. Others have timers so you can fall asleep or leave the room and know that the unit will eventually turn off. Remote controls, of course, make it easy to operate the heater without needing to get up from your comfy position. Longer power cords are another great feature, as they afford you more flexibility when finding a home for the heater. _Consumer Reports_ suggests aiming for a minimum cord length of 70 inches.
+
+### Fuel type
+
+You can choose either an electric or gas space heater, though most people go for the former. There are perks to both, as electric is safer, but gas can often operate during power outages. According to Wayfair’s space heater buying guide, [gas models tend to cost more upfront but electric heaters can be more expensive to operate](https://www.wayfair.com/ideas-and-advice/space-heater-buying-guide-S4609.html){target="_blank"}.
+
+### Indoor versus outdoor
+
+Make sure the space heater you choose can handle the elements if you plan to use it outdoors, such as on the porch or during a camping trip. Wayfair recommends radiator, tower, baseboard and panel space heater designs for indoor purposes, while freestanding and tabletop units can be appropriate for outdoor use.
+
+## What the experts recommend
+
+No matter which space heater model you choose, _Consumer Reports_ suggests buying one with a fan because it helps the unit distribute heat at a faster rate. Top-notch safety features will also help reduce the risk of fire.
+
+The experts at WireCutter conducted 95 hours of research that involved testing more than 35 different heaters and chose the [Lasko 754200 Ceramic Heater](https://thewirecutter.com/reviews/best-space-heaters/){target="_blank"} as the best overall choice when it comes to heating performance, safety and reasonable pricing. However, they did note that the Vornado VH200 may be the best pick for those who want to heat an entire room more efficiently.
+
+The Lasko 754200 space heater also got the top Business Insider pick, chosen for its [affordable price, portable nature and quick heating](https://www.businessinsider.com/best-space-heater){target="_blank"}.
+
+If you're looking for a [stylish heater to match your modern aesthetic](https://www.popularmechanics.com/home/g3212/best-space-heater/){target="_blank"}, _Popular Mechanics_ recommends the Honeywell UberHeat Ceramic Heater. If you want to heat a large space, the publication granted the Lasko Digital Ceramic Tower Heater the first place spot. Small but powerful, the Opolar Ceramic Space Heater is perfect for desktop purposes. Popular Mechanics’ take on the Lasko space heater that WireCutter and Business Insider love? It's the space heater with the best value.
+::::
+
+While a space heater is an easy way to warm your space, you'll still want to make sure your HVAC and electrical systems are working properly throughout the winter.
+
+Being prepared before home repair issues arise is a good strategy. Plans from HomeServe can help with the costs of covered repairs. [See what plans]({{ migrationData.homepage }}){target="_blank"} are available in your area.

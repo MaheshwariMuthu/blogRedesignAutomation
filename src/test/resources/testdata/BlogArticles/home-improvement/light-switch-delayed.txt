@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is My Light Switch Delayed?"
+headline: "Why Is my Light Switch Delayed?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-07-16
+basePath: https://library.homeserve.com/m/
+heroImage: 6efdb1893d46f485/Blog-LightSwitchSurgeDamage_AWiesen_IMG_0543.jpg
+heroAltDescription: "Lightswitch flicker with dimmers"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Light delays can be annoying and may signify an electrical hazard. Learn why there's a delay between flipping the switch and the light turning on."
+articleAbstract: "A light delay may seem innocuous, but it can sometimes indicate a more serious electrical problem — or even a fire hazard. Telling the difference between an electrical danger and a switch that's just plain irritating requires pro knowledge."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is my Light Switch Delayed?"
+  parent: Electrical-Home-Improvement
+---
+  Many homeowners count a delay between flipping the switch and the light turning on as a minor annoyance. In fact, you may even get used to waiting for the light to come on if your switch has been faulty for a while.
+
+**This May Also Interest You:** [**How Much Do Electrical Repairs Cost? A Comprehensive Guide**](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+A light delay may seem innocuous, but it can sometimes indicate a more serious electrical problem — or even a fire hazard. Telling the difference between an electrical danger and a switch that's just plain irritating requires the right knowledge.
+
+Why Is There a Delay in My Light Switch?
+----------------------------------------
+
+If you notice a delay between flipping the switch and the light turning on, you may have a worn-out light switch. You may also notice the light flickers for a few seconds after turning it on. Gradually, the contacts inside the switch can break down, interrupting the flow of electricity to the fixture and causing flickering or delays.
+
+Alternatively, you may have a loose connection or short circuit. These issues can cause both occasional and constant light delays and will eventually stop the circuit from working altogether unless you fix them quickly. They also increase the risk of arcing, which occurs when electricity jumps between two conductors to bridge a gap in the circuit.
+
+Arcing can damage the switch contacts and other electrical components. Furthermore, it can generate significant heat, increasing the chance of a house fire. A delayed light switch isn't always a fire hazard, but it's safest to repair or replace the switch as soon as possible.
+
+How Do I Fix a Light Delay?
+---------------------------
+
+Sometimes, you can fix a delayed light switch yourself by tightening the connections inside the switch. Ensure you turn off the electricity by flipping the main breaker on your electrical service panel to prevent an electric shock.
+
+However, faulty light switches usually require professional attention — especially if you notice signs of a more serious electrical problem. Listen carefully for hissing, crackling or popping noises coming from the switch when you turn the light on. These sounds can indicate electrical arcing, which could create a fire hazard.
+
+A hot switch or switch plate is another sign of a more serious issue. Light switches can feel slightly warm during regular operation, but they should never feel hot. Like strange sounds, a light switch that's uncomfortably hot to the touch often signifies arcing.
+
+Finally, you may notice your light switch no longer snaps or clicks firmly when you flip it. Often, light switches start feeling loose when the electrical components start wearing out, and this symptom tends to coincide with a light delay.
+
+The above issues are all signs that you need a light switch replacement. Light switch replacement is usually a job best left to the professionals, but you could consider replacing it yourself if you're an experienced DIY-er. However, light switch problems can sometimes indicate a more serious electrical issue, which can be challenging (and dangerous) for a nonqualified person to diagnose and fix. Call a professional electrician if you notice unusual noises, excessive heat or a loose switch. Your electrician can determine the cause and remedy the issue to get your lights working properly and keep your home safe.
+
+**More Related Articles:**
+
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-it-cost-to-replace-or-upgrade-an-electrical-panel/)
+*   [Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load](https://www.homeserve.com/en-us/blog/how-to/are-phantom-loads-adding-to-your-electric-bill/)
+*   [How Much Does Electricity Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-electricity-cost/)
+*   [15 Ways to Save On Your Electric Bill](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+
+How Much Does It Cost to Fix a Light Delay?
+-------------------------------------------
+
+Fortunately, replacing a light switch is usually inexpensive. [HomeGuide](https://homeguide.com/costs/cost-to-install-or-replace-a-light-switch) says most homeowners pay between $50 and $150 (CAD 66 and CAD 198) to replace a standard switch, including the cost of the new unit, professional labor and materials. Replacing a standard switch with a dimmer switch is more expensive, at around $80 to $250 (CAD 106 to CAD 330). However, upgrading to a dimmer switch gives you more control over the light level in your room.
+
+Short circuits are also relatively cheap to repair, with most electricians charging between $75 and $200 (CAD 99 and CAD 264), according to data from [Fixr](https://www.fixr.com/costs/electrical-outlet-repair#electrical-outlet-repair-cost-by-problem). How much you'll pay depends on several factors, including the cost of labor where you live and the severity of the issue. [HomeGuide](https://homeguide.com/costs/electrician-cost-per-hour#:~:text=Electrician%20hourly%20rates%20are%20%2450,depends%20on%20location%20and%20experience.) says many electricians charge between $50 and $130 (CAD 66 and CAD 172) per hour.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

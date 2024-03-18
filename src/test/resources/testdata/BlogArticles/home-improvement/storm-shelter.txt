@@ -1,0 +1,80 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Build a Storm Shelter"
+headline: "Gimme Shelter: Here's What You Need to Know About Building a Home Storm Shelter"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-03-01
+basePath: https://library.homeserve.com/m/
+heroImage: c68aeaa573bf01c/Blog-GettyImages-157331107.jpg
+heroAltDescription: "damaged residential home"
+metaDescriptions: "If you live in an area prone to tornadoes, a safe room could mean the difference between life and death for you and your family. Here's what you need to know."
+articleAbstract: "If you live in an area known to be besieged by regular tornados, a safe room could mean the difference between life and death for you and your family. Safe rooms are specially designed to resist the high winds and storm of debris that accompany tornadoes and hurricanes, and are often the only things left standing after a severe weather event barrels through an area. Learn what you need to know to build your storm shelter."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How to Build a Tornado Shelter"
+  parent: Interior-Home-Home-Improvement
+---
+  
+
+If Dorothy's family had a proper tornado shelter — also known as a safe room — who knows how the story of “The Wizard of Oz” may have gone. More than likely, it would’ve been a boring tale in which the Kansas farm owners sat around playing old maid, or whatever people did to pass the time in the early 1900s, while waiting for the storm to pass. Lucky for Dorothy that she escaped with little more than a bump on the head, considering that she couldn't shelter in a tornado-safe space during the storm that whisked her and Toto away to a far-off land. Lucky for _us_, however, that such shelters are now widely available.
+
+**This May Also Interest You:** [**How to Survey Your Home for Storm Damage**](/en-us/blog/how-to/survey-storm-damage/)
+
+If you live in an area known to be besieged by regular tornadoes, a safe room could mean the difference between life and death for you and your family. Safe rooms are specially designed to resist the high winds and projectile debris that accompany tornadoes and hurricanes, and are sometimes among the few structures left standing after a catastrophic weather event barrels through an area.
+
+But should you build your own safe room or hire a contractor to get the job done? And should you start from scratch or buy a prefab unit? We'll help you answer those questions below, and also clue you in to other concerns you need to be aware of as you add this critical safety structure to your home.
+
+<img class="detail-image" src="https://library.homeserve.com/m/1d12039da69d9fb9/Blog-GettyImages-175329923.jpg" alt="a residential basement storm shelter"/>
+
+Kit, Contractor or DIY?
+-----------------------
+
+When it comes to most home improvement projects, if you have the talent to do the job yourself, you can save money. However, assembling your own safe room requires a good deal of engineering and adherence to a pretty strict set of guidelines as outlined by FEMA, so unless you're a general contractor or engineer yourself, this job is best left to a professional. If you live in tornado- or hurricane-prone areas, it won't be hard to find local contractors who can install or construct a safe room for you.
+
+While using a contractor to install your safe room allows you to build exactly what you want and need from the space, [according to FEMA](https://www.fema.gov/sites/default/files/2020-07/building-safe-room-home-small-business.pdf), the cost to install a safe room that measures 8 feet by 8 feet in a new construction would, on average, come in between $8,000 and $9,500. A 14-foot by 14-foot room would drive the price up to between $14,000 and $17,000. Installing safe rooms in new builds is the most economical way to go, so if you need to retrofit a space in your existing home to take the safe room, the costs will climb from there.
+
+On the other hand, it's possible to buy a 10-square-foot prefabricated safe room starting in the range of $3,000, plus installation — so going prefab is certainly an comparatively economical option.
+
+Construction Concerns
+---------------------
+
+Whether you go with a kit or start with a contractor from scratch, there are FEMA guidelines for all storm shelters that must be adhered to in order to guarantee that they’re safe no matter what Mother Nature throws at them.
+
+For starters, you'll want to make sure that your safe room is the right size. Tornadoes tend to be relatively short weather events, so if you’re building the structure primarily to protect your family from this particular type of storm, you might not need the room to be big on space and comfort, as you'll be able to shelter when the warnings come and exit once the danger has passed. If that's the case, FEMA recommends at least 3 square feet of space for each person who will be using the room. Of course, if you want your safe room to double as a closet, storage shed, office or other useful space, you'll want to take that into account as you plan its size.
+
+You'll also want to consider ventilation, which FEMA says necessitates 2 inches per person in a tornado-safe room.
+
+The door is also a major concern. There have been reports of fatalities in safe rooms when a piece of debris struck an inadequate door and blew it off its hinges. When choosing a door for your safe room, be sure it has been tested for impact. FEMA says that the door should be able to withstand a 15-pound two-by-four piece of lumber traveling at 100 mph. When shopping for your door, or your safe-room kit, be sure it’s been certified by either [Underwriters Laboratories](https://code-authorities.ul.com/about/blog/seeking-shelter-from-tornadoes-and-hurricanes/) or the [National Storm Shelter Association](https://nssa.cc/home/residential-safe-room/). FEMA doesn’t certify shelters, so if a product or a service provider claims that they do, keep looking.
+
+If you want meticulously detailed information regarding the construction requirements for tornado-safe rooms — including plans — you really can't do better than downloading a copy of FEMA's [“Taking Shelter from the Storm”](https://www.fema.gov/sites/default/files/2020-07/building-safe-room-home-small-business.pdf) PDF.
+
+Location, Location, Location
+----------------------------
+
+By far, the safest place to put your storm shelter is completely underground. The fact that it would be surrounded by soil means that your exposure to flying debris is extremely low. That being said, if you have extremely rocky soil or live in a place with a low water table or somewhere prone to flooding, you won't be able to place your shelter below ground.
+
+The next-safest location would be in a basement, but it's important to understand that a tornado-safe room in your basement needs to be reinforced properly, and often needs to be placed on its own foundation if your basement floor isn’t strong enough to handle the necessary loads. Also, you can use the external walls in a corner of your basement as two of the walls of the shelter, but they will need to be reinforced with steel in order to comply with safety regulations.
+
+Other possibilities for safe-room locations include interior closets or bathrooms that don't have any windows. Again, proper reinforcements will need to be installed, but starting with an existing structure can save you money.
+
+If there is no suitable place in your home for a safe room, then you'll need to add one outside, which might sound counterintuitive but is a perfectly safe option. There reportedly has never been a fatality of anyone sheltering in an approved safe room no matter where it’s located. FEMA recommends that, if an outdoor safe room can't be attached to your house, its entrance be no farther away than 150 feet from where you would exit your home in case of an emergency.
+
+**More Related Articles:**
+
+*   [Hurricanes Happen: How Ready Is Your Home?](/en-us/blog/how-to/hurricane-prep/)
+*   [How to Prepare for a Snowstorm](/en-us/blog/how-to/snow-storm-preparation/)
+*   [5 Reasons to Remove Your Window Screens for Winter](/en-us/blog/home-improvement/window-screen-removal/)
+*   [How to Prevent Water Damage With Proper Home Drainage](/en-us/blog/how-to/water-damage-prevention/)
+*   [How Much Does It Cost to Build a Shed?](/en-us/blog/cost-guide/how-much-does-it-cost-to-build-a-shed/)
+
+Be Prepared
+-----------
+
+Once your safe room is built, be sure to kit it out with everything you might need to shelter in it during a tornado. FEMA recommends 1 gallon of water per day per person, a three-day supply of nonperishable food, disposable dinnerware and trash bags. You'll also want basic first-aid supplies, a flashlight, a battery-operated radio to get weather updates and portable chargers for your smartphones. Some people also like to keep their important documents in their safe room.
+
+Beyond that, think about what kind of environment you'll be walking into after the tornado has passed, and prepare appropriately. You might want to store dust masks, cash, bleach to treat potentially contaminated water (16 drops per gallon will do the trick), medicines, pet supplies, tarps, duct tape and anything else that might help you be safe and healthy during the days after the tornado. It's also a good idea to keep a heavy tool like a spade or shovel inside, in case your door is blocked by debris after the weather event has passed.
+
+All told, a safe room can be a significant investment, but the fact that it virtually guarantees the safety of yourself and the members of your family makes it well worth it. Plus, if you design it well, the room can do double duty in your home, providing extra space and privacy that can be enjoyed for the bulk of the year. To learn even more about tornado-safe rooms, check out FEMA's highly detailed [P-361 publication](https://www.fema.gov/sites/default/files/2020-07/safe-rooms-tornadoes-hurricanes.pdf).
+
+_A tornado-proof room is a great way to keep your family safe during extreme weather events, but looking after your home in all seasons and weather conditions is also important. That's why being prepared with a plan from HomeServe simply makes sense. Once you have a plan in place and a covered issue arises, you can simply call the 24/7 repair hotline. A local, licensed and highly trained contractor will be sent out to you to get the job done to your satisfaction._

@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "My Freezer Isn't Freezing"
+headline: "Freezer Not Freezing? Chill Out! Here's How to Fix Common Problems"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-08-31
+basePath: https://library.homeserve.com/m/
+heroImage: 55e5fe494cb44f18/Blog-GettyImages-912700864.jpg
+heroAltDescription: "a well-stocked and organized freezer with produce and vegetables"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Is your freezer not cold enough? Before calling a pro, run through this checklist to get your freezer back up and running."
+articleAbstract: "Is your freezer not cold enough? Before calling in the professionals, run through this checklist and see if you get your freezer back up and running yourself."
+category: ["How To"]
+eleventyNavigation:
+  key: "Freezer Not Freezing? Chill Out! Here's How to Fix Common Problems"
+  parent: Appliances-How-To
+---
+  In terms of essential kitchen appliances, nothing comes close to the importance of a freezer. After all, freezers allow you to save money, time, and energy by keeping your favorite foods fresh for long periods of time. Oh, and let’s not forget about ice cream.
+
+**This May Also Interest You:** [**How to Deep-Clean Your Freezer**](https://www.homeserve.com/en-us/blog/how-to/deep-clean-freezer/)
+
+But what happens when that crown prince of kitchen appliances isn’t keeping cold like it should? Before calling in the appliance technician and spending an arm and a leg, you may want to see if you can solve the problem yourself ... but not before polishing off that pint of Cherry Garcia.
+
+4 Reasons Your Freezer Isn’t Frozen
+-----------------------------------
+
+### Loose Door Seals
+
+If your freezer isn’t as cold as it should be, but your refrigerator is working fine, you may want to take a look at the freezer's door seals, or gaskets. Due to normal wear and tear, these door gaskets can dry out and start to crack. When this happens, warm air and moisture can slowly leak into the freezer, keeping it from freezing properly, as well as causing frost buildup to occur.
+
+While you might be able to discern the quality of your gaskets simply by taking a close look, sometimes it’s hard to tell. In that case, take a dollar bill and close the freezer door leaving enough of the bill sticking out to pull on. If the dollar bill pulls out easily, the gasket isn’t sealed adequately. Keep in mind that a door gasket can fail in only one spot, and it’ll be enough to keep your freezer from freezing. Be sure to check in multiple spots.
+
+If the gasket is worn in any areas, you’ll need to replace it. Luckily, replacing a door seal is a fairly simple task. Order the door seals from the freezer’s manufacturer and install them according to the instructions on the package. While gasket installation can vary, installing a gasket is typically as simple as sticking the lip of the seal into the corresponding groove in the freezer’s door.
+
+### No Air Circulation
+
+Another common reason that your freezer isn't cold enough is that the unit is overloaded. When a freezer is packed too full, it limits airflow around the unit, causing the evaporator fan to work harder than it should. Left unchecked, the evaporator fan motor can eventually burn out and fail completely. Save yourself the trouble (and cost) of replacing the evaporator fan by making sure your freezer has adequate cold air circulation.
+
+That said, if your evaporator fan motor is failing, you may hear it make a high-pitched sound that comes and goes. In this case, locate the fan in the back of the freezer and make sure there isn’t anything caught in the fan blades. If you don’t notice anything, but the fan is still making the noise, you likely have a dying motor. Because replacing a fan is pretty technical work, it’s probably best to call in a professional if you suspect this might be the issue.
+
+**More Related Articles:**
+
+*   [What’s Up With The Fridge? 5 Common Refrigerator Problems and How to Fix Them](https://www.homeserve.com/en-us/blog/home-improvement/common-refrigerator-problems/)
+*   [Defrosting, Demystified: Here’s How Often You Need to Defrost Your Freezer](https://www.homeserve.com/en-us/blog/how-to/defrost-freezer/)
+*   [How to Clean Your Icemaker and Change the Filter](https://www.homeserve.com/en-us/blog/how-to/clean-icemaker-filter/)
+*   [Iced Out? Why Your Fridge Is Freezing Over](https://www.homeserve.com/en-us/blog/home-improvement/ice-buildup-fridge/)
+*   [6 Reasons Your Fridge Is Making a Squealing Noise — and How to Make It Stop](https://www.homeserve.com/en-us/blog/home-improvement/refrigerator-squealing-noise/)
+
+### Dirty Condenser Coils
+
+If your door gaskets are in good condition and the shelves of your freezer look like [Marie Kondo](https://konmari.com/)’s, you’ll want to take a good long look at the unit’s condenser coils to make sure they aren’t covered in dust and dirt. Over time, the coils can become covered in debris, causing the condenser fan motor to overwork and eventually stop working. Depending on the brand, the coils are located at the base of the unit, or often behind it. The coils should be covered by a grill that snaps off easily.
+
+To [clean the coils](https://www.homeserve.com/en-us/blog/how-to/clean-refrigerator-coils/), start by unplugging the unit. Then, pull the unit away from the wall and find the condenser coils. They should be fairly easy to spot, as they’re wound U-shaped metal tubes. For best results, use a condenser brush here. They’re designed specifically to clean in between the coil grid. With the brush, take some time to remove as much debris as possible, making sure that you clean even the tightest corners. When you’re done, use a vacuum to clean any debris that has fallen on the floor.
+
+Keep in mind that cleaning condenser coils is part of routine refrigerator and freezer maintenance and should be done once or twice a year to keep your fridge in good working order.
+
+### Faulty Start Relay
+
+When your freezer is temperamental — stopping and starting over and over — it could be an indication that your start relay is malfunctioning. Sometimes called the controller, the relay helps turn the compressor on and off when needed, acting as a liaison between the thermostat and the compressor. If the relay is defective, the compressor either won’t turn on, or will turn off prematurely.
+
+  
+To check the relay, unplug the unit and pull it away from the wall, making sure you have enough room to work behind the fridge. Then, use a screwdriver to remove the back panel of your freezer, and then set it aside.
+
+Once the back cover is off, find a large black cylinder on one side of the unit. This is the compressor. The relay is attached to the side of the compressor and may or may not have a plastic cover that will need to be removed.
+
+From there, disconnect the wires from the relay and remove it from the prongs on the compressor. Once removed, take a close look at the relay and check for any burned, charred marks. If you notice any, it probably means that it has shorted and will need to be replaced.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Clean Refrigerator Condenser Coils at Home"></iframe>

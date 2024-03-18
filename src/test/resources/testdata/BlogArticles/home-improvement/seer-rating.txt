@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a SEER Rating?"
+headline: "What Is an Air Conditioner SEER Rating?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-07
+basePath: https://library.homeserve.com/m/
+heroImage: 7a7f38ab264fc94a/Blog-ACUnit_MSchmitz_0001.jpg
+heroAltDescription: "air conditioner knob"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Read on to find out what SEER stands for, and learn how it could save you some cash."
+articleAbstract: "SEER stands for seasonal energy efficiency ratio. Read on to learn how knowing this number could save you some cash."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is an AC SEER Rating?"
+  parent: HVAC-Home-Improvement
+---
+  Owning a home sure comes with its share of acronyms and odd abbreviations. You might already know what [HVAC](https://www.homeserve.com/en-us/blog/home-improvement/home-hvac-system/), [PVC](https://www.homeserve.com/en-us/blog/how-to/cut-pvc-pipe/) and [BTU](https://www.homeserve.com/en-us/blog/home-improvement/what-is-btu/) apply to, but SEER is one you might not have come across very often.
+
+**This May Also Interest You:** [**10 Ways to Make Your Central Air Conditioner More Efficient**](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioner-energy-efficiency-tips/)
+
+So what does this mysterious arrangement of four letters signify? Read on to find out — and to learn how it could save you some cash.
+
+What Does SEER Stand For?
+-------------------------
+
+First, the translation: SEER stands for “seasonal energy efficiency ratio.” It’s a number that you'll see associated with central air conditioning units. It indicates how much energy a particular unit will use over the course of one cooling season under changing temperature conditions. It is calculated by measuring how well any one unit keeps an indoor space at a steady temperature as the outdoor temps climb between 60 to over 100 degrees Fahrenheit (15 to 38 degrees Celsius). The higher the SEER rating, the more efficient the unit.
+
+The SEER rating has been developed by the [U.S. Department of Energy](https://www.energy.gov/sites/prod/files/guide_to_home_heating_cooling.pdf) to help consumers compare different AC units across brands. The DOE also sets minimum standards for SEER ratings depending on where you live. Hotter states, including Alabama, Florida, Georgia, Louisiana and others in the South and Southwest, have minimum SEER ratings of 14 as of 2015. In the cooler parts of the country, the minimum SEER rating is set at 13.
+
+While you can find AC units these days with SEER ratings in the mid-20s, older models can have ratings as low as 6, which means they chew up tons of energy to keep you cool.
+
+Should I Replace My Unit With a Higher-SEER Model?
+--------------------------------------------------
+
+It depends. SEER ratings are just one way to evaluate your cooling system. If you have a very old system with a very low SEER rating, upgrading probably makes a lot of sense. If your unit has a SEER rating of 10 or above, you likely won't recover the cost of the upgrade through energy savings for quite some time.
+
+If you do decide to upgrade, you should realize that the SEER numbers are the maximum efficiency your unit can reach. Even if you choose a high-SEER system, you may not get all the savings you were expecting because other factors come into play, such as your home's insulation, ductwork and overall size.
+
+Plus, as systems climb in SEER values, they also climb in price. One way to begin to get a grip on the SEER rating that might be best for your home — and your wallet — is to use an online SEER calculator such as [this one](https://www.seerenergysavings.com/).
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+A Change Is Gonna Come
+----------------------
+
+Now that you know all about the current SEER standard, you should also be aware that the Department of Energy is going to [change things up in 2023](https://www.eia.gov/todayinenergy/detail.php?id=40232). That's the year when the [new SEER2 standard](https://seer2.com) will come online, which uses a new testing procedure to more accurately measure just how well systems remove heat from a space over a cooling season. Even if manufacturers already have systems made, they will need to retrofit them to meet the new standards. So if you're thinking of updating your system and can hold out for one more summer, waiting might be a smart move.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

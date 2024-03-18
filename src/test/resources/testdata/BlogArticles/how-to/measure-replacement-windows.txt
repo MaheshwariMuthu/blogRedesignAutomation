@@ -1,0 +1,84 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Measure for Replacement Windows"
+headline: "How to Measure for Replacement Windows"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2021-05-13
+basePath: https://library.homeserve.com/m/
+heroImage: 65d85d8032eacfe8/Blog-GettyImages-914545792.jpg
+heroAltDescription: "femal hands hold up a tape measure alongside a recently relaced window"
+metaDescriptions: "Learn exactly how to measure for replacement windows to ensure a perfect fit with our step-by-step guide."
+articleAbstract: "When your window needs to be replaced, taking accurate measurements is essential for ensuring the replacement window will fit. Learn exactly how to measure for replacement windows here."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Measure for Replacement Windows"
+  parent: Exterior-Home-How-To
+---
+  **Measuring for Replacement Windows at a Glance**
+
+* **Tools & Materials:** Tape measure; pad and pencil or notes app
+* **Prep:** Choose method for determining “rough opening”
+* **Step 1:** Check for square
+* **Step 2**: Measure width
+* **Step 3:** Measure height
+* **Step 4:** Measure depth (optional)
+
+[Replacing windows can be costly](https://www.homeserve.com/en-us/blog/cost-guide/window-replacement-cost/), inconvenient and difficult. Unfortunately, if one of your home’s windows is broken, or otherwise damaged beyond [repair](https://www.homeserve.com/en-us/blog/how-to/window-repair/), replacement is your only option. The first step is taking accurate measurements of your existing window so you can order a replacement window that will fit in its place.
+
+**This May Also Interest You:** [**Save Yourself Some Pane With Our DIY Window Repair Guide**](https://www.homeserve.com/en-us/blog/how-to/window-repair/)
+
+Measuring for replacement windows is relatively simple, and requires only a tape measure and a means of recording your measurements. It can easily be done by a single person, but a second person to hold one end of the tape can be helpful. Although it’s not difficult, obtaining accurate measurements is critical in ensuring your replacement window can be successfully installed. Read on to learn how it’s done.
+
+Before You Begin
+----------------
+
+The measurements you’ll need are of the vertical and horizontal window frame (the boards that surround and support the window), or the “rough opening.” The rough opening excludes the dimensions of the “trim,” which refers to the decorative boards surrounding the window.
+
+There are a few different methods you can use to obtain these measurements, including these three:
+
+1.  Removing the trim to expose the window frame.
+2.  Opening the window to measure between the vertical boards on the side of the frame, or “jambs,” that guide and support the “sash,” which is the movable part of the window.
+3.  Measuring from the outside edges of the stop beads (aka inside stops). These are the trim pieces attached to the outside edge of the window jamb, as opposed to the decorative trim that’s attached to the wall surrounding the window.
+
+For windows that open (i.e. single- and double-hung windows, casement windows, etc.), measuring between the jambs is often preferred because it eliminates the step of removing the trim. Windows that don’t open (fixed-panel windows) will either require removing the trim, or measuring from the outside edge of the stop beads to get an accurate measurement of the frame.
+
+Whichever method you use, hold the tape measure as taut and straight as possible. In other words: Hold the tape as horizontal (level) as possible when measuring the width, as vertical (or “plumb”) as possible when measuring the height, and as diagonal (at a 45-degree angle) as possible when measuring for square. Also, write down all your measurements to avoid having to measure multiple times, or misremembering any of the figures.
+
+1\. Check for Square
+--------------------
+
+First off, it’s best to verify that all four corners of the window are at 90-degree angles, or “square.” If the rough opening isn’t square, the window might not properly seal — causing drafts or water leaks — or the window may be difficult to open and close.
+
+You can check for square by measuring diagonally from the top left corner to the lower right corner, and the top right corner to the lower left corner. If these two measurements vary by more than 1/4 inch, some extensive carpentry work might be needed to fix it, and a different type of window (a “new-construction” window) might have to be installed, instead.
+
+2\. Measure Width
+-----------------
+
+When ordering a replacement window, you’ll be asked to provide the dimensions in the format of “width x height.” Using one of the methods outlined earlier, take three separate measurements: one from the bottom of the window, one from the middle, and one at the top. Use the smallest of the three measurements to ensure the replacement window you order will fit.
+
+3\. Measure Height
+------------------
+
+To determine the window’s height, measure from the top horizontal board (the “head jamb”) to the bottom horizontal board the window rests on (the “sill”). The window sill shouldn’t be confused with the window “stool,” which is the horizontal board situated in front of, and slightly above, the sill. Taking the height measurement from the stool will yield an inaccurate measurement.
+
+Many sills are sloped away from the house to deflect moisture, so it’s important to measure from the highest point of the sill. This is usually the side closest to the room, and directly behind the stool. Once again, take three measurements: one on the right side, one in the center and one on the left side. Use the smallest measurement for your order.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Replace a Window?](https://www.homeserve.com/en-us/blog/cost-guide/window-replacement-cost/)
+*   [5 Reasons to Remove Your Window Screens for Winter](https://www.homeserve.com/en-us/blog/home-improvement/window-screen-removal/)
+*   [How Much Does It Cost to Install or Replace a Basement Window Well?](https://www.homeserve.com/en-us/blog/cost-guide/window-well-replacement/)
+*   [How to Install or Replace a Window Well](https://www.homeserve.com/en-us/blog/how-to/window-well-installation/)
+*   [The Best Energy Efficient Windows for the Home](https://www.homeserve.com/en-us/blog/buying-guide/best-energy-efficient-windows/)
+
+4\. Measure Depth (optional)
+----------------------------
+
+Measuring the depth of your window isn’t required for ordering a replacement window, but it might be a useful measurement to have in some cases. For example, mobile and modular homes typically have narrower windows than conventional homes, so knowing the depth of the existing window can prevent you from ordering a replacement window that’s too large.
+
+The depth is measured from the inside to the outside of the window frame. It’s best to measure the depth in multiple locations, and on all four sides of the frame. This would include the top jamb, the sill and the two side jambs. This task is easiest to perform on windows that open, but the depth of a fixed panel window can be found by measuring the depth on both sides of the glass and adding the two figures together. It’s also wise to include the thickness of the glass into the figure, if possible.
+
+Once you’ve checked for square, have your ordering measurements (width x height), and measured the depth (if applicable), you’re ready to order your replacement window.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._

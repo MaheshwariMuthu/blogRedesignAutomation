@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Chandelier Installation: How to Install a Chandelier"
+headline: "How to Install a Chandelier: An Illuminating Installation Guide"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-10-04
+basePath: https://library.homeserve.com/m/
+heroImage: 36bb86f85183ce87/Blog-GettyImages-1226755088.jpg
+heroAltDescription: "Installation ceiling lamp"
+metaDescriptions: "Installing a chandelier adds a new centerpiece that brings a touch of class to your living space. Here’s how to do it yourself."
+articleAbstract: "Installing a chandelier doesn't take long, and it gives you a striking new centerpiece that brings a touch of class to your living space. Here’s how to do it yourself."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install a Chandelier"
+  parent: Interior-Home-How-To
+---
+  Updating your home's lighting is an effective, high-impact way of revamping a room. Sconces or pendant lights can add some flair, but nothing makes an interior design statement quite like a showstopping chandelier.
+
+**This May Also Interest You:** [**Do Light Fixtures Add Value to Your Home?**](https://www.homeserve.com/en-us/blog/home-improvement/light-fixtures-increase-home-value/)
+
+Installing a chandelier doesn't take long, and it gives you a striking new centerpiece that brings a touch of class to your living space. Here’s how to do it yourself.
+
+Do You Need an Electrician to Install a Chandelier?
+---------------------------------------------------
+
+Working with electricity is something that must be done carefully and methodically. Whether you're trying your hand at outdoor light installation or swapping a standard pendulum light for a chandelier, it's crucial that you understand all of the steps and feel confident before you start work.
+
+As long as the circuit is already in place and you're simply hanging ceiling light fixtures rather than extending wiring, chandelier installation is a job that's suitable for a competent DIYer. With that said, if you have any doubts or you're not confident in working with electricity, consult a licensed electrician for the safety of yourself and your loved ones.
+
+How Long Does Chandelier Installation Take?
+-------------------------------------------
+
+Hanging ceiling lights is a relatively simple job. If you take the time to research how to install a chandelier and gather all the parts together in advance, you should find the job itself takes no more than two hours from start to finish.
+
+This assumes you're simply replacing an existing light with a chandelier. If you're doing anything more sophisticated — such as installing dimmer light switches — you'll need to budget extra time for that work.
+
+How Do You Wire a Chandelier?
+-----------------------------
+
+If you already have a ceiling fan or another similar light fixture, it will most likely be attached to a ceiling box. This box is attached to a joist and should be able to support between 50 and 75 pounds. The connections that you'll need to hook the chandelier up to are contained inside the ceiling box.
+
+To wire up the chandelier:
+
+1.  Turn off the existing lights at the light switch.
+2.  Turn off the power to the light circuit at your circuit breaker.
+3.  Use a voltage tester to confirm that the power is off.
+4.  Remove the existing light fixture or ceiling fan and disconnect the wiring.
+5.  Connect the black wire from the ceiling box to the black wire of the chandelier.
+6.  Connect the copper ground wires following the same process.
+7.  Twist the ends of the wires together with a wire nut.
+8.  Connect the white wire (neutral wire) of the chandelier to the corresponding ceiling box wire.
+9.  Secure the wires in the electrical box and replace the decorative plate.
+
+Always check the weight and make sure your existing ceiling box will be able to support the chandelier before you start the install.
+
+**More Related Articles:** 
+
+*   [How to Install LED Strip Lights: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-led-strip-lights/)
+*   [How Much Does It Cost to Install Outdoor Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/outdoor-light-installation/)
+*   [Let’s Shed Some Light on the Situation: How to Change a Lightbulb](https://www.homeserve.com/en-us/blog/how-to/change-lightbublb/)
+*   [How Much Does It Cost to Install Recessed Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/install-recessed-lighting/)
+*   [How Much Does It Cost to Install Light Switch Dimmers?](https://www.homeserve.com/en-us/blog/cost-guide/dimmer-light-switch-installation/)
+
+How Do You Hang a Chandelier With a Chain?
+------------------------------------------
+
+Hanging a chain chandelier is a similar process to replacing a standard chandelier. The main difference is that instead of the chandelier connecting directly to the ceiling box, it has a long wire, a chain and a canopy to cover the electrical connections where they meet the ceiling.
+
+Before you hang a chandelier with a chain, it's a good idea to do a test fitting to confirm how much chain you'll need. Cut the chain to the correct length using pliers, then follow these steps:
+
+1.  Once you've got the right length of chain, thread the electrical wires through the chain and up to the canopy.
+2.  Cut away the excess wire, leaving about a foot of wire to work with for your connections.
+3.  Lift the chandelier into place, and screw the mounting bar into place.
+4.  Use wire strippers to expose enough copper wire to complete the connections as described above.
+5.  If in doubt, refer to a light fixture wiring diagram that likely came in the instructions.
+6.  Once the wires are connected properly, tuck them into place in the ceiling box and screw the canopy in place.
+7.  Screw the bulbs into the chandelier.
+8.  Replace any diffusers or covers that conceal the bulbs.
+9.  Turn the power back on and test the lights.
+
+Work With Electricity Safely
+----------------------------
+
+Whenever you're working with electricity, the job should be done thoughtfully and carefully. Electricity is dangerous, and an improper light fixture installation could present a fire risk. Working with a licensed electrician gives you peace of mind that the job has been done properly.
+
+If you want to fit a chandelier in an area where there isn't currently a ceiling box, you'll need to have some more extensive wiring work performed and then certified by an experienced electrician.

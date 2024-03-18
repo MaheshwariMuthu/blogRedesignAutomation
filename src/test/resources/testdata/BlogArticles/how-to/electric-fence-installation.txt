@@ -1,0 +1,86 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Electric Fence Installation: How to Build an Invisible Electric Pet Fence"
+headline: "Good Fences Make Good Dogs: How to Install an Invisible Electric Pet Fence"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-04-10
+basePath: https://library.homeserve.com/m/
+heroImage: 1820233e34f8c691/Blog-shutterstock_587562362.jpg
+heroAltDescription: "puppy looking up at camera"
+metaDescriptions: "An invisible electric fence is a safe, viable option for keeping your dog contained to a certain area of the yard. Here's how to install one yourself."
+articleAbstract: "An invisible electric fence is a safe, viable option for keeping your dog contained to a certain area of the yard. Here's how to install one yourself."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install an Invisible Electric Fence for Pets"
+  parent: Exterior-Home-How-To
+---
+  **Electric Pet Fence Installation at a Glance**
+
+* **Step 1:** Call before digging
+* **Step 2:** Draw boundaries
+* **Step 3:** Lay out fence wire
+* **Step 4:** Install transmitter
+* **Step 5:** Bury wire
+* **Step 6:** Install temporary fence-line flags
+* **Step 7:** Store fence plan for future reference
+
+It’s nice for both you and your canine companion if the dog is able to run free, goof off and conduct its doggy business while remaining safely within your yard. A fenced-in yard is the best and safest option for this purpose, but a traditional fence might not work for your property. Neighborhood regulations might not allow fencing, or your dog could be a skilled jumper. That’s where an invisible electric fence might be a good option.
+
+**This May Also Interest You:** [**How Much Does It Cost to Build a Fence?**](https://www.homeserve.com/en-us/blog/cost-guide/fence-installation/)
+
+Read on to learn all about electric pet fences and how to install one.
+
+What Is an Invisible Electric Fence?
+------------------------------------
+
+An invisible electric fence, sometimes called an electronic pet containment system, is an underground fencing system that uses a radio signal to keep your dog in a designated area, such as your yard. A wire is buried a few inches deep around the perimeter of the boundary area, and a low-voltage transmitter is installed in your house or garage.
+
+You also have a special, lightweight collar for your dog that carries a harmless, low-level radio signal from the transmitter, which is received and recognized by the dog collar. As your pet gets closer to the buried wire, the receiver collar will send out a warning signal, either audible or a vibration. If your dog doesn’t stop when receiving this first signal, a gentle and safe stimulation is released from the collar. This is called a correction. After proper training from you, your dog will learn to recognize the warning signals (which are the fence boundaries) and stop before crossing the invisible fence.
+
+Invisible electric fence systems are widely available. They typically contain two lengths of wire to form the actual barrier, plus the transmitter and the special pet collar. The transmitter that comes with most systems should broadcast across an area of up to 25 acres.
+
+Getting Started
+---------------
+
+Once you’ve decided that you and your dog could use a little more time apart to do your own things, it’s time to get started.
+
+### 1\. Make Sure It’s Safe to Dig
+
+First, call your local utility company to make sure there are no utility and telecommunications lines that may be buried on your property, or at least find out where these lines are located to make sure your containment area doesn’t cross these lines. Also, be sure your fence wires run parallel to utility lines and avoid chain-link fences; they should be no closer than 10 feet to avoid electrical interference.
+
+### 2\. Draw Your Boundaries
+
+Next, sketch out your boundary area including any trees, bushes, buried wires, your driveway or other potential obstacles. Take into account the wire forming the fence boundary must make a continuous loop back to the transmitter, which needs to remain in a dry, protected area. A garage is a good choice of places to house the transmitter, but a leaky shed or barn is not. To prevent interference problems, avoid placing the transmitter near any appliances or your breaker box.
+
+### 3\. Lay It on the Line
+
+Now that you have your boundary line drawn, lay it out with the wire above ground first. You’ll want to make sure your dog has plenty of space to roam before being warned that it’s too close to the fence. Your kit will tell you the distance from the wires where your dog will receive the first and second corrections.
+
+### 4\. Install the Transmitter
+
+Next, install your transmitter, taking care to follow the manufacturer’s instructions to ground it properly. Plug it into a [ground fault circuit interrupter](https://www.homeserve.com/en-us/blog/buying-guide/electrical-outlet-types/) wall outlet. The wire should be rated for underground burial, typically 14- or 16-gauge wire. Make sure your kit has enough wire to surround your perimeter. If not, purchase additional wire as recommended by the manufacturer, as well as the necessary connectors. Connect the ends of the wire to the transmitter by stripping about 3/4 inch of insulation from the ends of the wires and inserting the ends into the transmitter terminals.
+
+Now, turn it on, take the dog collar, and walk toward and away and back and forth along the wire. Test where the audible noise sounds and where the correction activates. Go in the house to make sure the collar can’t be activated inside. If the wire layout meets your needs, you can bury your wire.
+
+### 5\. Bury the Wire
+
+It's best to bury the wire 1 inch to 3 inches deep. Use a spade or other small digging tool to make a minimum 2-inch channel in the ground along the route of the fence wire. Push the wire into the small ditch, and then cover the wire with the soil and compact it down. If your fence boundary must cross your driveway, or other concrete or asphalt surface, you’ll need to use a circular saw equipped with a masonry blade to cut the channel. Don’t patch the surface until after you have properly tested the system.
+
+**More Related Articles:**
+
+*   [Basic Lawn Care and Maintenance Tips](https://www.homeserve.com/en-us/blog/home-improvement/lawn-care-maintenance-tips/)
+*   [Summer Home Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/summer-maintenance-checklist/)
+*   [Au Revoir, Standing Water! How to Install a French Drain in 8 Steps](https://www.homeserve.com/en-us/blog/how-to/how-to-install-a-french-drain/)
+*   [How Much Does an Above-Ground Pool Cost?](https://www.homeserve.com/en-us/blog/cost-guide/above-ground-pool-installation/)
+*   [Is a Smart Garage Door Opener a Wise Investment?](https://www.homeserve.com/en-us/blog/home-improvement/smart-garage-door/)
+
+### 6\. Flag the Fence Line
+
+Your electric pet fence package should also come with a set of sturdy white yard flags. These are important for the training phase, setting up an initial visual cue for your dog before the collar corrections. Place the flags along the buried boundary line, and plan to devote a least a weekend or maybe even a week teaching your dog the new system. While the correction that the dog collar sends out is mild and safe, it’s best to check with your vet before installing an invisible fence.
+
+### 7\. Save Fence Plan for Future Reference
+
+Outdoor hidden fences can also be used to keep your dog away from a certain section of your yard, such as a garden or swimming pool. Keep that initial sketch you made of your yard and the fence. It’ll come in handy if you ever need to remove the fence, or if you discover a break that needs to be fixed. It’s crucial that you regularly check and maintain your fence, as a break in the wire will interrupt the signal and the fence won’t work. Wire breaks can be caused by weather, landscaping, small burrowing animals and more.
+
+_Inside and out, home upkeep projects can keep you busy. You might consider giving it a rest by leaving the big stuff to the professionals. A HomeServe protection plan can take the headache out of finding and scheduling a reputable repair professional. A local, licensed and highly trained contractor is available 24/7 and just a phone call away._

@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Do Light Fixtures Add Value to Your Home?"
+headline: "Do Light Fixtures Add Value to Your Home?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-05-21
+basePath: https://library.homeserve.com/m/
+heroImage: 35de51d12d2bae5a/Blog-GettyImages-1272854834.jpg
+heroAltDescription: "Modern Chandelier"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Updating your home's lighting can make it a more pleasant place to live, but could doing so could boost your home’s resale value?"
+articleAbstract: "While there's no doubt that updating your home's interior or exterior lighting can make it a more pleasant place to live, the question is whether doing so could boost your home’s resale value. Here’s what you should know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Do Light Fixtures Add Value to Your Home?"
+  parent: Electrical-Home-Improvement
+---
+  There's nothing worse than a gloomy room — except maybe one with dated light fittings. Adding some stylish lighting fixtures to your home can significantly update any room's aesthetic and create a spacious and welcoming atmosphere.
+
+**This May Also Interest You:** [**How to Install LED Strip Lights: A Step-by-Step Guide**](https://www.homeserve.com/en-us/blog/how-to/install-led-strip-lights/)
+
+While there's no doubt that updating your home's interior or exterior lighting can make it a more pleasant place to live, the question is whether doing so could boost your home’s resale value. Here’s what you should know.
+
+Do Light Fixtures Add Value to a Home?
+--------------------------------------
+
+Adding or updating your light fixtures is a relatively inexpensive way to add value to your home. However, the amount your home value will increase after a lighting fixture update is hard to determine. It depends partly on the quality of both your existing and upgraded lighting. For example, if you have very dated lighting and replace it with premium fixtures, you could see a significant return on that investment.
+
+The type of lighting you add can also make a difference when the time comes to sell your home. LED or recessed lighting are generally popular options with potential buyers, as are energy-efficient lighting systems and dimmer switches. Even if upgrading your lighting doesn't make a difference to your home's value, it could make it easier to sell.
+
+Consider adding extra lighting as well. Lighting your front and back yards and adding extra illumination around the entrance can improve your home's curb appeal, making it more attractive to buyers and potentially boosting its value.
+
+Are Expensive Light Fixtures Worth It?
+--------------------------------------
+
+Is it worth investing in pricey lighting fixtures to achieve a greater resale value? The answer depends on your specific circumstances and the home values in your area.
+
+Expensive light fittings are generally of higher quality, but there are plenty of affordable mid-range options that still offer decent durability. Generally, it's worth spending a little more to get a longer-lasting product and a sleek finish. However, there's a caveat: Luxury light fittings can cost tens of thousands of dollars, and you'll probably spend more on your new lights than you gain in home value if you live in an average-priced house.
+
+At the other end of the spectrum, cheap lighting fixtures can often look just as good, and many home decor stores now manufacture very affordable options that mimic the appearance of high-end products. However, the materials probably won't be as long-lasting, potentially making them a bit of a false economy. You should be particularly wary of cheap lighting fixtures for moist environments like bathrooms because the damp air could cause them to rust.
+
+Overall, aim to spend enough to get a high-quality, durable product, but not so much that it costs more than you could ever hope to claw back in resale value.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install Light Switch Dimmers?](https://www.homeserve.com/en-us/blog/cost-guide/dimmer-light-switch-installation/)
+*   [How to Install a Dimmer Switch](https://www.homeserve.com/en-us/blog/how-to/install-dimmer-switch/)
+*   [How Much Does It Cost to Install Outdoor Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/outdoor-light-installation/)
+*   [Let’s Shed Some Light on the Situation: How to Change a Lightbulb](https://www.homeserve.com/en-us/blog/how-to/change-lightbublb/)
+*   [How Much Does It Cost to Install Recessed Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/install-recessed-lighting/)
+
+Does a Chandelier Add Value to Your Home?
+-----------------------------------------
+
+Chandeliers are usually included in property sales and will, therefore, be included in the valuation. Adding a chandelier can increase your home's value, especially if you opt for an expensive model made from fine crystals. While you can purchase cheap chandeliers made from imitation plastic crystals at many home decor stores, they won't add any more value to your home than a regular light fixture.
+
+However, it's worth considering whether a chandelier is a good fit for your home's interior. If you live in a large or period property where a chandelier is appropriate for the space, adding one could be a good investment. However, a chandelier in a small apartment or house could look out of place, making it less attractive to buyers, even if the chandelier increases the asking price.
+
+Does LED Lighting Increase Home Value?
+--------------------------------------
+
+LED lighting is attractive to many potential buyers and could increase your home's value. LED lighting is a desirable feature because each light bulb will last significantly longer than a standard bulb. LED lighting systems are also significantly more energy-efficient and eco-friendly than regular lights, saving the homeowner (or future buyer) of an average home about $225 each year (305 CAD) on utility bills and bulb replacement costs, according to the [U.S. Department of Energy](https://www.energy.gov/energysaver/lighting-choices-save-you-money). LED lights are also an important part of creating a house that's energy efficient overall, which can net home sellers around [2.7% more](https://www.ecowatch.com/energy-efficiency-stats.html) than those with homes that aren't considered energy efficient.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

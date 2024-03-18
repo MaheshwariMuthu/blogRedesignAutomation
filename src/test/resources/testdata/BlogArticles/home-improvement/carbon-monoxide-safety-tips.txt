@@ -1,0 +1,42 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Carbon Monoxide safety tips
+headline: 5 tips for Carbon Monoxide safety
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2018-01-18
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: carbon-monoxide-test.jpg
+heroAltDescription: Carbon Monoxide Detector
+metaDescriptions: 
+articleAbstract: Carbon monoxide (CO) is a colorless and odorless gas that is virtually impossible to detect through your senses alone. Here are a few tips to stay safe from carbon monoxide while beating the chill.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Carbon Monoxide safety tips
+  parent: Interior-Home-Home-Improvement
+---
+
+Carbon monoxide (CO) is a colorless and odorless gas that is virtually impossible to detect through your senses alone. A byproduct of many gas-burning heating units, this gas is hazardous to people’s health and may even be deadly without prompt medical attention following prolonged exposure. Here are 5 tips to help stay safe from carbon monoxide poisoning while beating the chill.
+
+## Get a CO detector for every floor in your home
+
+A CO detector looks and works much like a fire alarm/smoke detector and will alert you when it senses an unusual increase of carbon monoxide in the air. If you have a multi-level home, you should not rely on just a single CO detector to keep your family safe. Be sure that every floor has its own dedicated unit. It is also important to maintain the detectors. Following [these tips](https://www.cpsc.gov/content/change-smoke-and-carbon-monoxide-alarm-batteries-when-changing-clocks-this-weekend-cpsc-also){target="_blank"} from the US Consumer Product Safety Commission will help to keep your home safer.
+
+## Get your heating systems and chimneys inspected
+
+Regular maintenance and cleaning duties performed on your central heating system can help keep you safe from carbon monoxide. Having your chimney cleaned will remove any obstructions that might prevent CO and other gases from exiting your home as normal. [Performing routine checkups](/en-us/blog/home-improvement/heating-system-checkup){target="_blank"} on your home heating system, and having a professional perform a thorough inspection of your heating system will allow you to monitor the emissions levels of your units.
+
+## Keep your home well ventilated
+
+Ensure that there is proper ventilation around combustion systems like your heating devices or your fireplace. Properly maintained ventilation will ensure that combustion gases do not stay trapped within your home.
+
+## Know what symptoms to look for
+
+You may not be able to detect CO itself without the proper equipment, but knowing the symptoms of exposure can help you make the life-or-death decision to seek timely medical attention. Someone suffering from carbon monoxide poisoning will display a red face and lips and may experience sleepiness and/or headaches in the early stages. Patients in more advanced stages exhibit symptoms like mental confusion or feeling faint. A full list of symptoms can be found from the Mayo Clinic [here](https://www.mayoclinic.org/diseases-conditions/carbon-monoxide/symptoms-causes/syc-20370642){target="_blank"}.
+
+## Never run an engine indoors or in enclosed spaces
+
+It is critical to remember that you should never run machinery with an engine inside a closed-off area, since CO levels can rapidly climb to dangerous and deadly levels. Gas generators, car engines and even simpler appliances like ovens or grills should only be used outdoors or in a well-ventilated area.
+
+HomeServe provides plans to assist you in repairing your central heating system. Visit our [website]({{ migrationData.homepage }}){target="_blank"} and enter your ZIP code to see what is available in your area.

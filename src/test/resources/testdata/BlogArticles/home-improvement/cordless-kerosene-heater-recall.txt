@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "DeWALT Cordless Kerosene Heater Recall"
+headline: "Fire Hazard: 4,500 DeWALT Kerosene Heaters Recalled"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-03-02
+basePath: https://library.homeserve.com/m/
+heroImage: 1265747c9990774a/webimage-DeWALTKeroseneHeaterRecall_Manufacturer_0001.jpg
+heroAltDescription: "DeWalt Kerosene Heater on white background"
+metaDescriptions: "Enerco Group of Cleveland, Ohio, is recalling about 4,500 DeWALT kerosene heaters due to a potential fire/carbon monoxide risk."
+articleAbstract: "Did you buy a DeWALT kerosene heater between June and November 2020? Beware: These heaters may turn on unexpectedly, posing a fire risk. The manufacturer, Enerco Group of Cleveland, Ohio, is recalling about 4,500 of these heaters. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "DeWALT Cordless Kerosene Heater Recall"
+  parent: Appliances
+---
+  Did you buy a DeWALT kerosene heater between June and November 2020? Beware: These heaters may turn on unexpectedly, posing a fire risk. The manufacturer, Enerco Group of Cleveland, Ohio, is recalling about 4,500 of these heaters.
+
+**This May Also Interest You:** [**7 Best Space Heaters for Your Specific Needs**](/en-us/blog/buying-guide/seven-best-space-heaters/)
+
+According to [the manufacturer](https://www.mrheater.com/recall), the DeWALT cordless kerosene forced-air heaters can restart unexpectedly from standby mode if the room temperature drops below what is set on the thermostat. In addition to creating a fire hazard, this may also pose a risk of carbon monoxide poisoning.
+
+The recall was [announced Feb. 3](https://www.cpsc.gov/Recalls/2021/Enerco-Group-Recalls-DeWALT-Cordless-Kerosene-Heaters-Due-to-Fire-and-Carbon-Monoxide-Poisoning-Hazards). The affected heaters with model number DXH90CFAK have serial numbers 340902-20001001 through 340902-20004000. Those with model number DXH90CFAKM have serial numbers 340901-20001001 through 340901-20001500. You can find the model and serial number on the heater’s side panel.
+
+According to the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/Enerco-Group-Recalls-DeWALT-Cordless-Kerosene-Heaters-Due-to-Fire-and-Carbon-Monoxide-Poisoning-Hazards), Enerco has received one report of the issue. No injuries have been reported. The forced-air heaters, which sell for about $350, were manufactured in China and were sold at Lowe’s stores, and at farm and supply stores nationwide.
+
+If your heater is affected by this recall, the manufacturer recommends that you stop using it immediately and contact Enerco for a replacement. To contact Enerco, call the toll-free number 1-800-964-4328, or go to [www.enercogroupinc.com/recall](http://www.enercogroupinc.com/recall). For more consumer product safety information, visit [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Why Is My Heater Not Working?](/en-us/blog/home-improvement/heater-not-working/)
+*   [How to Heat Your Home Efficiently](/en-us/blog/home-improvement/home-heating-efficiency-tips/)
+*   [Smart AC Not a Dumb Idea If You're Looking to Cut Climate-Control Costs](/en-us/blog/buying-guide/smart-ac/)
+*   [How Much Does an Air Source Heat Pump Cost?](/en-us/blog/cost-guide/how-much-does-an-air-source-heat-pump-cost/)
+*   [Heating with a Fireplace: Most Common Questions](/en-us/blog/buying-guide/fireplace-heat-home/)

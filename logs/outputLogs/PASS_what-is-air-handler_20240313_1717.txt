@@ -1,0 +1,108 @@
+Article Page URL:  https://contentful-blogs-dev.netlify.app/blogs/home-improvement/what-is-air-handler
+
+Article title <What's an Air Handler?> MATCHED
+
+Article author <Team HomeServe> MATCHED
+
+Article publishDate <December 19, 2021> MATCHED
+
+Article image <https://library.homeserve.com/m/3c2d165f56f60e75/Blog-AirHandler_Erossi_072EB963735D.jpg> MATCHED
+
+Block1_Paragraph 1 MATCHED
+
+	An air handler is an essential component of many HVAC systems, but it's also a cause of confusion for many homeowners. Although air handlers work in tandem with air conditioners and heat pumps, they perform different functions.
+
+Block1_Paragraph2_link 1 MATCHED
+
+	HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service|https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/
+
+Block1_Paragraph 2 MATCHED
+
+	This May Also Interest You: HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service
+
+Block1_Paragraph 3 MATCHED
+
+	So, what exactly is an air handler? We’ve got your answer.
+
+Heading 1: < What Does an Air Handler Do? > MATCHED
+
+Block2_Paragraph 1 MATCHED
+
+	An air handler is part of your HVAC system. It works alongside your heating and air conditioning system to distribute air evenly around your home. Air handlers contain a blower to circulate air and a filter to remove debris and help your air conditioner work more efficiently. Some models also include heating elements and cooling coils to help regulate air temperature.
+
+Heading 2: < What's the Difference Between an Air Conditioner and an Air Handler? > MATCHED
+
+Block3_Paragraph 1 MATCHED
+
+	There's a common myth that air handlers and air conditioners are the same. An air conditioner actively cools the air by removing the heat, while an air handler distributes the cool air around your home. An air handler works with your air conditioner, but it doesn't perform the same function.
+
+Block3_Paragraph 2 MATCHED
+
+	Some of the confusion arises from the fact that air handlers often contain coils. However, an air handler can't cool the air sufficiently to change the air temperature inside your home on its own.
+
+Heading 3: < What's the Difference Between a Furnace and an Air Handler? > MATCHED
+
+Block4_Paragraph 1 MATCHED
+
+	A furnace uses gas, oil or electricity to create heat and has an integrated blower to distribute the warm air throughout your home. Therefore, you probably don't need an air handler if you have a furnace installed.
+
+Block4_Paragraph 2 MATCHED
+
+	Air handlers can distribute warm air around your home, but they're generally used in conjunction with heat pumps. Heat pumps are an efficient alternative to furnaces. They transfer heat from the outside air inside your house. Although some air handlers have heating elements, they regulate the air temperature instead of acting as an independent heat source.
+
+Block4_Paragraph 3 MATCHED
+
+	More Related Articles:
+
+Block4_List4_link 1 MATCHED
+
+	The Do’s and Don’ts of HVAC Maintenance|https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/
+
+Block4_List4_link 2 MATCHED
+
+	How Often Should You Change Your Furnace Filter?|https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/
+
+Block4_List4_link 3 MATCHED
+
+	How Much Does It Cost to Replace an AC Compressor?|https://www.homeserve.com/en-us/blog/cost-guide/ac-compressor-replacement/
+
+Block4_List4_link 4 MATCHED
+
+	How Much Does HVAC Repair and Maintenance Cost?|https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/
+
+Block4_List4_link 5 MATCHED
+
+	Is an HVAC Tune-up Worth the Price? (Yes, Yes It Is)|https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/
+
+Block4_List 4 MATCHED
+
+	The Do’s and Don’ts of HVAC Maintenance
+How Often Should You Change Your Furnace Filter?
+How Much Does It Cost to Replace an AC Compressor?
+How Much Does HVAC Repair and Maintenance Cost?
+Is an HVAC Tune-up Worth the Price? (Yes, Yes It Is)
+
+Heading 4: < Is an Air Handler Necessary? > MATCHED
+
+Block5_Paragraph 1 MATCHED
+
+	Whether you need an air handler depends on your HVAC system and climate. Homes in colder climates generally need a furnace to heat them in the winter, and you don't usually need to install an air handler with a furnace. Many modern air conditioners can circulate air adequately without an air handler.
+
+Block5_Paragraph 2 MATCHED
+
+	However, you may need an air handler if you live in a milder climate that doesn't experience very low temperatures. Homes in more temperate climates are often good candidates for heat pumps, which work more efficiently when paired with an air handler. Installing an air handler with heat pumps and certain air conditioners can reduce strain on the system and potentially prolong their lifespans.
+
+Block5_Paragraph 3 MATCHED
+
+	If you're unsure whether you need an air handler, it's worth asking a professional HVAC technician for advice. A technician can evaluate your heating and cooling systems and home dimensions to determine if an air handler is necessary.
+
+Heading 5: < Where Is an Air Handler Located? > MATCHED
+
+Block6_Paragraph 1 MATCHED
+
+	Air handlers are usually located inside your roof or basement, but some homes have an air handler closet. Generally, it's best to install an air handler as close to your home's center as possible. A central location shortens the duct length to different parts of your home, allowing your HVAC system to transport warm and cool air more efficiently.
+
+Block6_Video 2 MATCHED
+
+	https://youtube.com/embed/l6RoqfIe7HA
+

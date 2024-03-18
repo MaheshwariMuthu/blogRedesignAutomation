@@ -1,0 +1,98 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Best Refrigerators
+headline: Best Refrigerators of 2019 (So far)
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2019-05-31
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: fridge 531 Blog.png
+heroAltDescription: Kitchen and Refrigerator
+metaDescriptions: Looking for the best refrigerator deal? Here are some suggestions for top-rated, best refrigerator makes and models to help you narrow down the options.
+articleAbstract: With so many options, buying a new refrigerator can be overwhelming. Get help with this list of suggested best brands and models. 
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Best Refrigerators
+  parent: Appliances-Buying-Guide
+---
+
+:::: blog-info
+I'm notorious for being indecisive. And when it comes to making appliance purchase decisions, I frustrate my family with my never-ending self-doubt. So needless to say, every appliance purchase becomes more difficult than it should be. Case in point, when I had to buy a new stainless steel refrigerator for my just-renovated kitchen, I was beyond overwhelmed. There were so many different finishes, doors, sizes _(who knew “counter depth” was an option?)_ Not to mention, the configuration of shelves, drawers and fancy compartment features I had to consider. AHHHHHH!
+
+[1]: /en-us/home-warranty/combo/
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+What helped me finalize my decision was to make my way down a [list of refrigerator styles, features and considerations](/en-us/blog/buying-guide/refrigerator){target="_blank"} – it was super helpful in determining “must-haves”. (_Turns out I'm a stainless-steel, French-door, Energy Star-certified kind of refrigerator buyer_.)
+
+Once you know what kind of model you want, here are some suggestions for top-rated refrigerators to help you narrow down the options.
+
+## The best French-door refrigerators
+
+The French-door model is a current fan favorite for today's homeowners, offering a full-width refrigerator compartment at eye level and pull-out refrigerator drawer (and sometimes drawers) underneath. The industry experts at _[Wirecutter](https://thewirecutter.com/reviews/the-best-refrigerator/){target="\_blank"}_ and _[CNET](https://www.cnet.com/topics/refrigerators/best-refrigerators/){target="\_blank"}_ named the following French-door refrigerators as the best models of 2019:
+
+::: list-square
+* Whirlpool WRF535SMHZ
+* Maytag MFI2570FEZ
+* GE PFE28KMKES
+* Kenmore 72482
+
+## The best side-by-side refrigerators
+
+For homeowners who prefer an equal ratio between fresh and frozen compartments, side-by-side refrigerators are the best option. Consumer Reports notes that side-by-side models are [ideal for narrow kitchen spaces, and generally use less electricity](https://www.consumerreports.org/cro/refrigerators.htm){target="_blank"}. Top-rated models, according to _Wirecutter, CNET, [Good Housekeeping](https://www.goodhousekeeping.com/appliances/refrigerator-reviews/g179/best-refrigerators/){target="\_blank"}_ and _[ConsumersAdvocate.org](https://www.consumersadvocate.org/refrigerators){target="\_blank"}_, include:
+
+* GE GSE25HSHSS
+* LG LSXS26326S
+* Whirlpool WRS586FIEM
+* Frigidaire FFSS2625TS
+:::
+
+[Learn More About Home Warranty Plans Near You](/en-us/home-warranty/combo/){target="_blank"}
+
+## The best bottom-freezer refrigerators
+
+This refrigerator style is similar to the French-door model, except the fridge has a single upper door instead of two. The industry experts recommend the following models:
+
+::: list-square
+* Whirlpool WRB322DMBB
+* LG LDCS24223S
+* GE ABE20EGHBS
+* Kenmore Elite 79043
+
+## The best top-freezer refrigerators
+
+Generally the least expensive style, top-freezers are a good pick for homeowners looking for a reliable, no-frills appliance or the best refrigerator deal. Some of the best options include:
+
+* GE GTS18GTHWW
+* GE GTE18GMHES
+* LG LTCS24223S
+* Frigidaire FFTR1514TB
+
+## The best compact fridges
+
+The best refrigerator for a kitchenette, dorm room, office, game room or compact space is a mini-fridge: small, simple, affordable and efficient. _[The Spruce](https://www.thespruce.com/best-refrigerators-4113149){target="\_blank"}_ and _[Digital Trends](https://www.digitaltrends.com/home/best-mini-fridges/){target="\_blank"}_ recommend the following:
+
+* Magic Chef Mini HMBR265SE1
+* Danby DAR033A6BDB
+* Midea WHS-65L
+* Frigidaire FFPS4533QM
+
+## The best smart refrigerator
+
+If you're into technology and a smart home life, the Samsung Family Hub Refrigerator gets the top ratings from most industry experts for its tech-savvy features.
+
+As a proud refrigerator owner, make sure you take care of your new appliance. We have tips and tricks to help you in the maintenance department, too:
+
+* [Common refrigerator problems and how to fix them](/en-us/blog/home-improvement/common-refrigerator-problems){target="_blank"}
+* [4 ways to make your refrigerator more efficient](/en-us/blog/home-improvement/refrigerator-efficiency-tips){target="_blank"}
+* [Your stainless steel fridge will shine bright like a diamond with these cleaning tips](/en-us/blog/how-to/clean-stainless-steel){target="_blank"}
+* Maintaining your appliances
+:::
+::::
+
+Being prepared for home system and appliance repairs is a smart strategy. See how plans from [TotalHome Warranty by HomeServe](/en-us/home-warranty/combo/){target="_blank"} can help with the costs of covered appliance and home system repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}

@@ -1,0 +1,54 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "GE Smart Range Turkey Mode"
+headline: "GE Smart Appliance Update: 'Turkey Mode' Can Help You Prepare Your Holiday Feast"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-12-22
+basePath: https://library.homeserve.com/m/
+heroImage: 2d51d2a53d7d3834/Blog-Thanksgiving-Recipe-Shoot_ManufacturerImage_0002.jpg
+heroAltDescription: "Turkey in open oven"
+metaDescriptions: "GE's Turkey Mode technology might take away some of the turkey-making guesswork while you prepare your holiday meal."
+articleAbstract: "If you have one of several models of GE wall ovens or ranges, an over-the-air software update — and a brand-new cooking mode — might take away some of the turkey-making guesswork while you prepare your holiday meal."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "GE Appliance Update: Turkey Mode for Your Holiday Feast"
+  parent: Appliances
+---
+  
+
+_Manufacturer image_
+
+It’s the centerpiece of many a holiday table: the turkey. If it’s your job to make the bird for the family gathering, you might be stressing about how exactly you’re going to pull that off. But you could have some extra help this year. If you have one of several models of GE wall ovens or ranges, an over-the-air software update — and a brand-new cooking mode — might take away some of the turkey-making guesswork.
+
+**This May Also Interest You:** [**Make Home Maintenance Your New Year’s Resolution With Our How-To Videos**](https://www.homeserve.com/en-us/blog/home-improvement/home-maintenance-new-years-resolutions/)
+
+We know what you’re thinking. The major turkey holiday of the year has already passed. Not true! According to the [University of Illinois](https://web.extension.illinois.edu/turkey/turkey_facts.cfm), about 22 million turkeys are consumed for Christmas, compared to 46 million for Thanksgiving. For some families, the turkey may not even be the star of the show. If you’re also preparing a ham or prime rib for the holiday feast — or a bevy of side dishes — you won’t have much time to dedicate to the turkey alone.
+
+Enter: [Turkey Mode](https://pressroom.geappliances.com/news/ge-profileTM-launches-first-of-its-kind-turkey-mode-to-ease-cooking-stress-for-the-most-high-pressure-meal-of-the-year). According to GE Appliances, this cooking mode uses a temperature probe that tracks your turkey’s doneness and adjusts accordingly. Basically, your smart oven keeps tabs on the bird so you can focus on the side dishes … or any last-minute dusting and vacuuming you need to do.
+
+Turkey Mode comes equipped with an algorithm that figures out all the cooking times for you. And if you’re really new to this preparing poultry thing, the [SmartHQ app](https://smarthqsolutions.com/smarthq-home) can show you how to insert the probe and where in the oven to place your roasting pan.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2953d885dd16dfd5/Blog-Thanksgiving-Recipe-Shoot_ManufacturerImage_0001.jpg" alt="Person selects Turkey Mode on GE Oven LCD screen"/>
+
+_Manufacturer image_
+
+**More Related Articles:**
+
+*   [Common Holiday Household Mishaps and How to Avoid Them](https://www.homeserve.com/en-us/blog/how-to/common-holiday-accidents/)
+*   [11 Home Maintenance Tasks and Repairs to Complete Before the Holiday Guests Arrive](https://www.homeserve.com/en-us/blog/home-improvement/prepare-for-guests/)
+*   [How to Untangle and Wrap Holiday Lights and Wires](https://www.homeserve.com/en-us/blog/how-to/wrap-untangle-wires/)
+*   [Your Christmas Tree Could Be a Fire Hazard — Prevent Holiday Disaster With These Safety Tips](https://www.homeserve.com/en-us/blog/how-to/christmas-tree-safety-tips/)
+*   [Old Tannenbaum? 9 Things You Can Do](https://www.homeserve.com/en-us/blog/home-improvement/used-christmas-tree/) With Your Used Christmas Tree
+
+To use the new feature, you’ll first want to check the model number of your oven against [this list](https://www.geappliances.com/updates/turkey-mode) to see if it’s eligible for the update. Then, [download the update](https://www.geappliances.com/updates/turkey-mode#howto). Connect your eligible smart oven or range to Wi-Fi and the SmartHQ app. You should get a notification on the app or your oven’s screen that the update is available. Click “Apply” and wait a few minutes for the software update to download.
+
+While the app should walk you through the specifics, GE has offered [these tips](https://www.geappliances.com/top-turkey-mode-tips) for using the new feature:
+
+*   Put the probe in the deepest part of the turkey breast, as far down into the turkey as you can without hitting bone. Its tip should be in the thickest part of the turkey.
+*   The app or your range’s screen will tell you where in the oven you should place the pan for optimal cooking.
+*   Don’t pull the probe wire taut; instead, rotate the roasting pan to get a better angle.
+*   Make sure your turkey’s done by getting a second opinion with another thermometer.
+*   If you have other dishes that cook between 300 and 400 degrees Fahrenheit, you can pop them in the oven at the same time as the turkey.
+
+Lastly: Start defrosting that turkey in the fridge sooner rather than later. The [U.S. Department of Agriculture](https://www.usda.gov/media/blog/2016/11/18/how-safely-thaw-turkey) recommends a full 24 hours of defrosting for every 4 to 5 pounds of bird.

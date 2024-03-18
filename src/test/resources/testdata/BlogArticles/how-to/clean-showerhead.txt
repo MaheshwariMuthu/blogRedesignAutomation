@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean a Showerhead"
+headline: "How to Clean a Showerhead"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-09-17
+basePath: https://library.homeserve.com/m/
+heroImage: 533266d5c251bd63/Blog-ShowerWater_MSchmitz_0010.jpg
+heroAltDescription: "water from a showerhead"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Hard water deposits and soap scum can accumulate on the showerhead. Learn how to clean your showerhead."
+articleAbstract: "Hard water deposits and soap scum can accumulate on the showerhead. Learn how to clean a showerhead easily to keep your relaxing showers flowing perfectly. "
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clean a Showerhead"
+  parent: Plumbing-How-To
+---
+  Your showerhead keeps you clean, but it also needs a little TLC to keep it clean and clog-free.
+
+**This May Also Interest You:** [**Showerhead Sickness: You’re Going to Want to Deep-Clean Your Showerhead After This**](https://www.homeserve.com/en-us/blog/home-improvement/showerhead-sickness/)
+
+Hard water deposits and soap scum can accumulate on the showerhead. Learn how to clean a showerhead easily to keep your relaxing showers flowing perfectly.
+
+How Do You Clean a Showerhead?
+------------------------------
+
+Cleaning a showerhead isn't difficult, but it requires a little time and elbow grease. Follow these steps to properly clean your showerhead.
+
+### Step 1: Gather Your Supplies
+
+Vinegar is a simple, effective cleaner for your showerhead, and you probably already have it on hand. You can also use a general bathroom cleaner, although it might not be powerful enough to remove tough mineral deposits.
+
+You'll also need a few basic supplies, including:
+
+*   A soft cleaning cloth
+*   A gentle scrub brush or toothbrush
+*   Toothpicks
+*   A large plastic bag or bowl
+*   Twist ties
+
+### Step 2: Do an Initial Scrub
+
+Grab a spray bottle with diluted vinegar or a bottle of commercial bathroom cleaner for your first pass. Spray it all over the showerhead. Use your cleaning cloth or brush to scrub the showerhead. Rinse it well, and inspect it to see how clean it is. If it wasn't very dirty, this cleaning can be enough. However, many showerheads, especially if they haven't been cleaned in a while, need additional cleaning.
+
+### Step 3: Soak the Showerhead
+
+Soaking your showerhead in vinegar can help remove deposits and stuck-on gunk. You can either remove the showerhead from the pipe or clean it while it's still attached. If you're removing the showerhead, put it in a bowl of vinegar and ensure it's fully submerged. Letting it soak overnight gives the vinegar plenty of time to work, but you might see results after soaking it for a few hours.
+
+If you want to leave the showerhead in place, fill a plastic bag with vinegar — enough to fully submerge the showerhead. Place the vinegar-filled bag over the showerhead, securing it tightly with twist ties. This holds the vinegar on the showerhead without having to remove it.
+
+### Step 4: Scrub and Rinse
+
+After the vinegar soak, go back in with your scrub brush. The vinegar should soften and loosen the gunk on the showerhead, making it easier to remove. A toothbrush might work better for removing deposits, since it's smaller and can reach into the holes on the showerhead. You can also use toothpicks to gently dig gunk out of the holes.
+
+Once you scrub it well, rinse the showerhead to remove all vinegar and remaining debris. You might need to soak it again if it's still dirty. If it looks good, you can reattach the showerhead if you removed it.
+
+### Step 5: Handle Routine Cleaning
+
+After deep cleaning the showerhead with vinegar, make the job easier with routine cleaning. Do a quick clean with a spray bottle of vinegar or bathroom cleaner at least once per week to prevent buildup. Use your cloth or scrub brush to clean the showerhead. Do a deeper clean once a month or as often as needed, depending on how quickly your showerhead gets dirty.
+
+**More Related Articles:**
+
+*   [Here’s How to Hack Your Low-Flow Showerhead … But Should You?](https://www.homeserve.com/en-us/blog/how-to/low-flow-showerhead/)
+*   [How to Replace a Showerhead](https://www.homeserve.com/en-us/blog/how-to/change-shower-head/)
+*   [Showerhead Stuck? Here’s How to Remove It](https://www.homeserve.com/en-us/blog/how-to/showerhead-removal/)
+*   [How Much Does It Cost to Replace a Showerhead?](https://www.homeserve.com/en-us/blog/cost-guide/shower-head-replacement/)
+*   [What Is a Shower Diverter Valve (and Why Should You Care?)](https://www.homeserve.com/en-us/blog/home-improvement/shower-diverter-valve/)
+
+Tips for How to Clean a Showerhead
+----------------------------------
+
+Regular cleaning can help keep your showerhead working well. These additional tips can help you better understand how to clean a showerhead:
+
+* **Get a water softener.** If you have hard water, you'll likely notice mineral deposits on your showerhead that can clog the openings. Installing a water softener helps reduce the mineral content and the resulting buildup to make shower cleaning easier.
+* **Avoid harsh cleaners.** Many commercial cleaners contain harsh ingredients that can be damaging to your showerhead and dangerous to inhale. Bleach is something you should avoid when cleaning your showerhead. Harsh cleaning tools, such as abrasive cleaning pads or wire-bristle brushes, can damage the finish of your showerhead, so avoid them as well.
+* **Don't mix cleaners.** No matter what cleaner you choose, avoid mixing it with other types of cleaners. This can produce very dangerous, toxic gases. Bleach, in particular, is dangerous when mixed with many other cleaners, including vinegar. Once you choose your cleaner, stick with it throughout the cleaning process to avoid a dangerous chemical reaction.
+* **Ventilate while cleaning.** Even if you just use vinegar, it's a good idea to have proper ventilation in the room. Open the bathroom window or run the exhaust fan to help remove the fumes.
+* **Remove showerheads with caution.** If you remove the showerhead to soak it in a bowl, work carefully to avoid damaging the finish. Using pliers or other tools to unscrew the showerhead can make marks on the finish. If you need to use a tool, place a cloth around the showerhead to protect it.
+* **Replace the showerhead.** Sometimes you need to replace a showerhead that's too far gone. Be vigilant about regular cleaning after the replacement to minimize buildup.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

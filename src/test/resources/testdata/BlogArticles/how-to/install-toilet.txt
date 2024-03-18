@@ -1,0 +1,133 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to install a toilet
+headline: 'DIY plumbing: How to install a toilet'
+author: Team HomeServe
+tags: ['post', 'Plumbing']
+publishDate: 2019-05-04
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: toilet-homeserve.jpg
+heroAltDescription: How to Repair a Toilet
+metaDescriptions: 
+articleAbstract: Some DIY plumbing jobs can be harder than you think. Follow these easy tips to learn how to replace a toilet.
+category: ['How To']
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/how-to/install-toilet/', 'en-us'], ['https://www.homeserve.co.uk/living/plumbing-and-drainage/how-to-install-a-toilet/', 'en-gb']]
+
+eleventyNavigation:
+  key: How to install a toilet
+  parent: Plumbing-How-To
+---
+
+:::: blog-info
+If you're ready to put your DIY skills and toolbox to good use, installing a new toilet is a relatively simple job that can make a big impact on your bathroom style as well as your water bill.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+Here are some reasons you might want to learn how to install a toilet from scratch:
+::::
+
+::: list-none
+* You’re eager to replace a worn, damaged or leaky old fixture.
+* You’d like to upgrade to a water-efficient model.
+* You need to remove and reinstall a toilet during a bathroom renovation.
+:::
+
+Ready to take the plunge? Here’s a step-by-step guide on how to install a toilet from scratch:
+
+## Average cost of replacing a toilet
+
+If your toilet troubles are persistent, such as [excessive clogging](/en-us/blog/how-to/unclog-backed-up-toilet/){target="_blank"}, leaks or cracked porcelain, the best option is to replace the fixture. The cost to install or replace a toilet will vary depending on the type of fixture you choose, but HomeGuide reports that [the average toilet costs $100 to $200](https://homeguide.com/costs/toilet-installation-cost){target="_blank"}.
+
+Labor costs average $150 to $180, so taking a DIY approach can cut the project costs in half. But you may wish to enlist the help of a professional if your home doesn’t meet local plumbing codes or if you have difficulty lifting heavy objects.
+
+## Measure before buying
+
+Before taking a new fixture home, you’ll need to measure for a replacement toilet by finding what’s called the toilet rough-in measurement. According to Lowe’s, [the average toilet rough-in](https://www.lowes.com/n/buying-guide/toilet-buying-guide1){target="_blank"} is 12 inches, although some models will be 10 or 14 inches.
+
+Use a tape measure horizontally to gauge the distance from the back wall to the closet bolts that secure your old toilet to the floor. These fasteners are actually aligned with the soil pipe which is why it’s important to buy a new fixture with the same rough-in. If your bathroom wall features baseboard trim, raise the tape measure above the floor for the most accurate reading.
+
+## Choosing an energy-efficient model
+
+You can save money on your monthly water bill and [make your bathroom greener](/en-us/blog/buying-guide/composting-toilet-guide/){target="_blank"} by upgrading your system with an efficient, low-flush toilet.
+
+According to the Environmental Protection Agency (EPA), replacing a toilet that is old and inefficient can reduce your water consumption by about [13,000 gallons of water](https://www.epa.gov/watersense/residential-toilets){target="_blank"} each year which will save the average household $140 per year. If we were to upgrade every inefficient toilet in the U.S., the EPA predicts that 360 billion gallons of water per year — this is roughly the same volume that flows over Niagara Falls for nine days straight!
+
+When choosing a toilet, look for the EPA's WaterSense label for high-performing, water-efficient models.
+
+## How to remove an old toilet
+
+As you uninstall an old toilet, keep safety in mind and try not to crack the porcelain. If the fixture isn’t in poor condition, you may be able to sell or donate it. First, we’ll show you how to remove the old toilet before covering how to install a toilet from scratch.
+
+### 1\. Shut off the water supply.
+
+Find the water supply valve, which will be located on the wall or floor behind the toilet. Turn the knob so that it ceases the flow of water to the toilet.
+
+### 2\. Drain all the water from the bowl.
+
+Flush the toilet to get rid of the water that’s sitting in the tank and toilet bowl. Next, use a plunger to force away any excess water. Use a small cup or sponge to soak up any remaining puddles.
+
+### 3\. Disconnect the water supply line.
+
+Use an adjustable wrench to carefully release both ends of the water supply pipe to detach it from the supply valve and the toilet tank.
+
+### 4\. Separate the tank from the toilet bowl.
+
+Two-piece toilets can be heavy and hard to move, so you can detach the components to make de-installation easier. (If you have a one-piece toilet that can be deconstructed, ask someone to help you lift it up once all the bolts have been unscrewed.)
+
+Set the tank lid aside and use an adjustable wrench to loosen the nuts on the underside of the tank where it connects to the back of the toilet seat. Once the tank bolts are free, lift the tank straight up, gently wiggling it from side to side if you feel resistance.
+
+### 5\. Detach and remove the bowl.
+
+Take off the bolt caps at the base of the toilet, then use an adjustable wrench to remove the closet bolts. If your toilet is secured to the floor with plumber’s putty or a caulking seam, use a utility knife to score through it.
+
+There is a wax ring holding the toilet to the mounting flange, which sits at the top of the soil pipe. Gently rock the toilet bowl back and forth until you break the wax seal. Since the toilet bowl will be heavy, bend your knees to safely lift it up and move it out of the way.
+
+### 6\. Clean off the floor and flange.
+
+Use a putty knife to remove any old caulk, wax or putty from around the floor and the mounting flange. If you inspect the flange and notice any cracks, you’ll need to purchase and screw in a new one. Scrub the floor with a cleaning solution before installing your new fixture.
+
+### 7\. Seal the opening temporarily.
+
+Stuff an old rag into the top of the drain and cover the flange with an upside-down plastic bucket to prevent any sewer gas from entering your home. Keep the coverings in place until you’re ready to install the new fixture.
+
+## How to install a New Toilet
+
+As with removing the old toilet, you’ll install the new one in two pieces. Although you can follow our guide on how to install a toilet from scratch, you should always read the manufacturer's instructions for specific guidelines.
+
+### 1\. Place a new wax ring on the flange.
+
+Remove the rag and bucket that are covering the flange. With the bolts sticking upward from the holes in the flange, center a new wax ring onto the flange around the soil pipe.
+
+### 2\. Secure the toilet bowl to the flange.
+
+Carefully lower the toilet bowl onto the flange, aligning it with the bolts. Place a washer and nut on each bolt and tighten the nuts into place, alternating from side to side to make sure you tighten them evenly. Place the bolt caps on top.
+
+### 3\. Caulk the toilet to the floor.
+
+This is optional, but you can apply a seam of caulk around the base of the toilet to secure its position on the floor.
+
+### 4\. Install the tank.
+
+Follow the manufacturer's instructions for attaching the rubber tank-to-bowl gasket, if it's not already installed.
+
+Insert the mounting bolts through the inside of the tank, and then lower it down onto the back of the toilet bowl. Alternate tightening the nuts around these closet bolts, as you did on the base.
+
+### 5\. Attach the toilet seat.
+
+Follow the manufacturer's instructions for screwing your chosen toilet seat into the toilet bowl, then cover them up with the caps provided.
+
+### 6\. Reconnect the water supply line.
+
+Reattach the water supply line at the toilet and supply valve, and switch it back on. Flush the toilet to refill the bowl and tank. Check for leaks around the floor and at the toilet flapper inside the tank.
+
+:::: blog-info
+## Be Prepared with Repair Plans from HomeServe
+
+In case your home experiences unexpected plumbing issues, repair plans from HomeServe can be an important line of defense and help offset the costs of covered repairs. See what [plumbing coverage](/en-us/repair-plans/plumbing/){target="_blank"} is available in your area.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+::::

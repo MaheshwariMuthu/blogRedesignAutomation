@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Heat Your Home Safely This Winter: Carbon Monoxide Safety Tips"
+headline: "Heat Your Home Safely This Winter: Carbon Monoxide Safety Tips"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2022-01-05
+basePath: https://library.homeserve.com/m/
+heroImage: f5e5da88dc28f3a/Blog-CarbonMonoxideDetector_MSchmitz_0001-copy.jpg
+heroAltDescription: "A human hand replaces the 9-volt battery in a home smoke alarm and carbon monoxide detector"
+metaDescriptions: "Exposure to carbon monoxide can cause all manner of health effects. As winter approaches, it’s important to keep carbon monoxide safety in mind."
+articleAbstract: "Exposure to carbon monoxide can cause all manner of health effects, and at high concentrations, it can even be fatal. As colder weather approaches, it’s important to keep carbon monoxide safety in mind."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Winter Heating Carbon Monoxide Safety Tips"
+  parent: HVAC-Home-Improvement
+---
+  
+
+_HomeServe photo by Matt Schmitz_
+
+Carbon monoxide is a gas with no odor, taste or color — but it’s not something you want to let slip under your radar. CO is created by burning gasoline, wood, propane and other fuels. Exposure can cause all manner of health effects, and at high concentrations, it can even be fatal. As colder weather approaches and we turn to these sources to heat our homes, it’s important to keep carbon monoxide safety in mind.
+
+**This May Also Interest You:** [**Is It Safe to Warm Your House With a Gas Oven or Stove?**](https://www.homeserve.com/en-us/blog/home-improvement/gas-stove-for-heat/)
+
+Common sources of CO include improperly vented space heaters, back-drafting from fireplaces, leaking furnaces and car exhaust, according to the [Environmental Protection Agency](https://www.epa.gov/indoor-air-quality-iaq/what-carbon-monoxide). Exposure to carbon monoxide can cause carbon monoxide poisoning, which can lead to tissue damage or [even death](https://www.mayoclinic.org/diseases-conditions/carbon-monoxide/symptoms-causes/syc-20370642).
+
+Portable Generator Safety
+-------------------------
+
+The exhaust from portable generators is also a source of CO. According to a [Consumer Product Safety Commission study](https://www.cpsc.gov/s3fs-public/Generators-and-OEDT-CO-Poisoning-Fatalities-Report-2021.pdf), portable generators are responsible for the most CO poisoning deaths of all household products — more than 700 between 2010 and 2020, with about 50 of those occurring in 2020. Most of these deaths occur between November and February.
+
+Never use a portable generator inside your home. This includes attached basements, garages and sheds. In fact, you should keep your running generator at least 20 feet from your house.
+
+Carbon Monoxide Safety Tips
+---------------------------
+
+To prevent carbon monoxide-related deaths, keep [these tips](https://www.cpsc.gov/Newsroom/News-Releases/2022/Seasons-Change-but-Fire-and-Carbon-Monoxide-Safety-Is-Year-Round-Warm-Up-to-CPSCs-Tips-for-Staying-Safe-During-Colder-Weather) in mind:
+
+*   Check for recalled products on the [CPSC website](http://cpsc.gov) and stop using any recalled products immediately. A malfunctioning product might release CO gas, putting your family at risk.
+*   Before the cold season arrives, have your heating systems inspected. This includes fireplaces, chimneys and furnaces.
+*   If your garage is an extension of your house, don’t leave your car running — even if the door is open. The same goes for other gas-powered appliances like lawnmowers and pressure washers.
+
+Check Your Carbon Monoxide Alarms
+---------------------------------
+
+Make sure your CO alarms are in working order. Because you can’t see, smell or taste the gas, these detectors are your first line of defense. You should replace the batteries once a year and test the detectors once a month. Place alarms on every level of your house outside sleeping areas.
+
+Prevent Fires
+-------------
+
+Where there’s burning fuel to pose a risk of CO poisoning, there’s also a risk of fire. Keep warm — but not _too_ warm — this winter with these fire-prevention tips from the CPSC:
+
+*   Avoid incidents by keeping flammable materials at least three feet away from any space heater. Plug heaters into wall outlets, not power strips. And never leave a space heater running without supervision.
+*   In addition to your CO alarms, test your smoke detectors and replace their batteries.
+*   During power outages, try to use battery-powered light sources like flashlights and lanterns instead of candles.
+
+**More Related Articles:**
+
+*   [What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+*   [Babyproofing Your House: A Child-Safety Checklist](https://www.homeserve.com/en-us/blog/how-to/baby-proofing-house/)
+*   [Keep Children Safe Around Window Blinds: Go Cordless](https://www.homeserve.com/en-us/blog/home-improvement/window-covering-safety/)
+*   [Prevent Deadly Tip-Overs by Securing Your Furniture](https://www.homeserve.com/en-us/blog/home-improvement/prevent-furniture-tip-overs/)
+*   [Hot Tips! 5 Backyard Fire Safety Suggestions](https://www.homeserve.com/en-us/blog/how-to/baby-proofing-house/)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Common Air Conditioner Problems"
+headline: "5 Most Common Air Conditioner Problems"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-11-18
+basePath: https://library.homeserve.com/m/
+heroImage: 4f1650b2729714fc/Blog-GettyImages-1152752411.jpg
+heroAltDescription: "external HVAC air conditioner"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If your AC is not cooling, you’ll want to figure out the problem, stat. Here are the most common air conditioner problems and how to address them."
+articleAbstract: "If your AC is not cooling, you’ll want to figure out the problem, stat. Here are the most common air conditioner problems and how to address them."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "X Most Common Air Conditioner Problems"
+  parent: HVAC-Home-Improvement
+---
+  
+
+Air conditioning is a blissful addition to your home when it’s working properly ... but it’s a real downer when it’s not. If your AC is not cooling, you’ll want to figure out the problem — stat — so you can get back to enjoying life indoors at a more agreeable temperature.
+
+**This May Also Interest You:** [**How to Clean a Central Air Conditioner: Just 5 Chill Steps**](https://www.homeserve.com/en-us/blog/how-to/clean-air-conditioner/)
+
+So what are the most common air conditioner problems? How can you fix them? And perhaps most important: Can you help prevent some of these air conditioner problems with proper care and maintenance? We’ve got your answers.
+
+These Issues Might Be the Cause of Your AC Malfunction:
+-------------------------------------------------------
+
+### Dirty Filter
+
+Before you panic and assume the worst about your AC unit, make sure to check that the problem isn’t a dirty filter. Clogged air filters can cause all sorts of AC issues, like poor cooling, increased energy consumption and frozen coils. Luckily, a dirty filter is an affordable and easy DIY fix that you can knock out in a couple of minutes. To avoid AC problems and to keep your air healthy and flowing freely, plan to replace your AC filters every three months.
+
+<img class="detail-image" src="https://library.homeserve.com/m/7e4e414dc28fb6f0/Blog-DirtyHVACFilter_Rossi_2864.jpg" alt="very dirty furnace filter"/>
+
+### Refrigerant Leak
+
+Refrigerant leaks are a pretty common air conditioner problem. If your refrigerant starts leaking, it can cause temperature fluctuations, leaving you with a poorly functioning unit. If your unit’s evaporator coils start freezing up, or your unit has been cooling unevenly, the problem may be a refrigerant leak. A leak may also cause noticeable pooling or spots of moisture near the unit.
+
+A word of caution: Refrigerant leaks can expose you to chemicals, and they require extensive AC knowledge to repair thoroughly. Therefore, these leaks should be handled by a professional. If you suspect a refrigerant leak is to blame for your AC woes, plan to call in the HVAC experts to investigate further.
+
+<img class="detail-image" src="https://library.homeserve.com/m/692c85f9b118a7e4/Blog-GettyImages-926287910.jpg" alt="A closeup of an outdoor air conditioning unit that has frozen over"/>
+
+### Thermostat Problems
+
+Thermostats are often overlooked when dealing with air conditioning issues, but the truth is that sometimes they can be to blame. Older thermostats are most likely to act up, but newer ones can be finicky as well. Make sure to dust and wipe down your thermostat regularly to prevent dirt and dust buildup that may impact its functionality, and if your thermostat has a cover that can be removed, don’t forget to clean that too. You also want to make sure your thermostat was installed levelly in a central location in your home, away from direct sunlight, as all of these details are key to ensuring your thermostat works properly. If not, you’ll need to call a professional to reinstall it elsewhere.
+
+<img class="detail-image" src="https://library.homeserve.com/m/31e5714a468efb7/Blog-HoneywellThermostat_MSchmitz_0001.jpg" alt="Pushing button on Honeywell thermostat"/>
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+### Flipped Breaker
+
+If your unit is not turning on at all, check your circuit breaker. You may have blown the circuit. This can sometimes happen with older units, especially if the wiring is loose, or if your unit has been working overtime. Check the fuse box and see if any breakers have been tripped. If the problem continues, you’ll need to call an HVAC technician to further assess the issue.
+
+<img class="detail-image" src="https://library.homeserve.com/m/7e7079a6dde2d828/Blog-ModernCircutPanel_Erossi_4617-jpg.jpg" alt="electrical circuit panel with switches"/>
+
+### Drainage Issue
+
+Air conditioner drain lines can get clogged by particle buildup over time. Because these lines are moist, they are also prime targets for mold and mildew, which can also cause drainage issues. If your air conditioner shut down unexpectedly, or if the AC is not cooling your home, you may have a clogged drain line. A musty smell coming from your indoor air vents is another potential sign of a clogged line. If you think you have a clogged condensate drain line, go ahead and call in a qualified HVAC tech to take a look — unless you feel comfortable working on the AC unit yourself and want to try to resolve the clog on your own first.
+
+You can try cleaning the drain line by flushing it with vinegar. Just make sure to turn off the unit first. After you’ve turned the unit off, locate the condensate drain line and its access point. The drain line is the PVC pipe beside your unit that’s attached to your house. The access point will typically be a capped T-shaped pipe near the unit. Pour about 1/4 cup vinegar into the pipe, let sit for 30 minutes and then flush with water. You can repeat this every month to help prevent buildup.
+
+<img class="detail-image" src="https://library.homeserve.com/m/3e4fb4acdc18f492/Blog-CondensateDrainClean_Erossi_3339.jpg" alt="pouring white vinegar down a pvc pipe being used as a condensation drain for an air conditioner"/>
+
+Cooling the Air
+---------------
+
+Air conditioner troubleshooting can feel a little daunting, but try not to stress. Sometimes, getting to the bottom of your AC issues can be as simple as swapping out an old filter for a new one or giving your thermostat a deep clean. And though keeping your drain lines clear and filters changed can go a long way toward overall HVAC health, some issues just can’t be prevented. If your home air conditioning repair requires calling in the pros to address a more complex issue, don’t take it too hard. Central air repair is part of being a homeowner. Just be glad we live in a world with AC in it — even if it does act up sometimes.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

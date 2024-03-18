@@ -1,0 +1,49 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Powerful Flush Toilets"
+headline: "What's the Deal With Those Toilets That Can Flush Golf Balls?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-11-21
+basePath: https://library.homeserve.com/m/
+heroImage: 34df495caf41df4f/Blog-FlushingToilet_MSchmitz_0001.jpg
+heroAltDescription: "A birds eye view of a white toilet with the seat down as it flushes"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "You may have heard about the American Standard Champion 4 toilet, “the toilet that flushes golf balls.” Here's what you should know about its features."
+articleAbstract: "You may have heard about the American Standard Champion 4 toilet, “the toilet that flushes golf balls.” Here's what you should know about its features."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's the Deal With Those Toilets That Can Flush Golf Balls?"
+  parent: Plumbing-Home-Improvement
+---
+  There's nothing more inconvenient — and potentially embarrassing — than a toilet that doesn't flush powerfully enough. If this problem sounds uncomfortably familiar, a powerful flush toilet could provide the answer. These toilets do a better job of flushing large debris and are less likely to clog than many standard toilets.
+
+If you've been on the lookout for a powerful flush toilet, you may have heard about the American Standard Champion 4 toilet, often touted as “the toilet that flushes golf balls.” But is there any truth behind these claims? Do Champion 4 toilets live up to the hype as one of the strongest flushing toilets available? Here’s what you need to know.
+
+What’s the American Standard Champion 4 Toilet?
+-----------------------------------------------
+
+The American Standard Champion 4 collection is a collection of toilets designed to [flush more powerfully](https://www.americanstandard-us.com/Floor-Standing-Toilets/Champion-4-Two-Piece-16-gpf-60-Lpf-Chair-Height-Elongated-Toilet-with-Seat/WHITE-731AA001S020) than standard toilets without using excessive amounts of water. Each model features a 4-inch flush valve, which is significantly larger than the [average 2-inch flush valve](https://www.bobvila.com/articles/best-toilet-flush-valve/), which is considered standard across all manufacturers. Champion 4 toilets also have a 2 3/8-inch glazed trapway, which is the largest currently available on the market.
+
+American Standard Champion 4 powerful flush toilets also contain advanced technology to keep your toilet sanitary. A power wash rim washes away dirt and debris every time you flush, and the toilet surface features American Standard's EverClean coating that stops bacteria, mold and mildew from flourishing.
+
+Champion 4 toilets use a maximum of 1.6 gallons of water per flush, in compliance with the [U.S. Department of Energy](https://www.energy.gov/sites/prod/files/guide_to_home_water_efficiency.pdf) water-efficiency rules. However, they're not the most water-efficient toilets on the market. Some efficient toilets can achieve substantial flushing power using [1.28 gallons of water](https://www.epa.gov/watersense/residential-toilets) or less.
+
+Can It Really Flush Golf Balls, Hot Dogs and Rubber Ducks?
+----------------------------------------------------------
+
+The Champion 4's extra-large flush valve allows water to travel into the bowl more forcefully to push waste out of the bowl and down the drain. Meanwhile, the large trapway allows larger waste volumes to pass through than standard toilets, preventing clogs.
+
+It's this forceful flushing and clog-preventing design that earned the American Standard Champion 4 toilet its reputation of being the toilet that flushes golf balls. This claim is legitimate, and the American Standard website states that toilets in the American Standard Champion 4 collection can get rid of a whole bucket of golf balls in a single flush.
+
+The American Standard website doesn't say if the Champion 4 toilet collection can flush other large items. However, a quick search on [YouTube](https://www.youtube.com/watch?v=CBlE1SgyMiM) reveals demonstrations of Champion 4 toilets flushing hot dogs, rubber ducks and a wide range of other weird and wacky items.
+
+However, just because a Champion 4 toilet is _capable_ of flushing large objects doesn't mean that you should attempt it if you decide to install one in your own home. Although its flushing power is impressive, flushing anything that isn't human waste or toilet tissue down the toilet could clog your plumbing system further down the line. It's also bad for the environment to flush non-biodegradable items down the toilet because they end up polluting waterways and beaches. So, don't count on the American Standard Champion 4 toilet as a means of disposing of your unwanted golf balls.
+
+What Other Powerful Flush, Clog-Preventing Toilets Are on the Market?
+---------------------------------------------------------------------
+
+Pressure-assisted toilets are a good option if you want to ensure that you can flush large debris without any clogs. These toilets feature a mechanism that forces water more powerfully into the bowl assisted by gravity, and there are plenty of options to choose from.
+
+The [Kohler](https://www.us.kohler.com/us/browse/bathroom-toilets/_/N-2569?p_code=THANKS&id=ps_adw_kbus_ongoing-paid-search_2021_USSEMPLBToiletsEMBPressureAssistkohlerpressureassisttoilet&kwd=kohlerpressureassisttoilet&s_kwcid=AL!6104!3!355245025407!e!!g!!kohler%20pressure%20assist%20toilet&gclid=CjwKCAiAv_KMBhAzEiwAs-rX1Hg7kufp2KKGzEIamn9zhskpZWU_jtK6XTuRBRLLUqgsDMAsvMPI0hoCjBkQAvD_BwE&gclsrc=aw.ds) pressure-assisted toilet range is one of the best-known ranges of powerful flush toilets. Many models incorporate specially engineered flushing mechanisms and use gravity to provide a more powerful flush using as little as [1.28 gallons of water](https://www.us.kohler.com/us/corbelle-comfort-height-continuousclean-two-piece-elongated-1.28-gpf-chair-height-toilet-with-continuousclean-technology/productDetail/toilets/1387885.htm?skuId=1387847&brandId=1348069) per flush. Well-known manufacturer [Geberit](https://www.homedepot.com/b/Geberit/Pressure-Assisted/N-5yc1vZ2g7Z1z0ppqb) also makes a range of pressure-assisted toilets with concealed tanks, allowing you to install the tank in the wall behind the fixture to save space in your bathroom.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

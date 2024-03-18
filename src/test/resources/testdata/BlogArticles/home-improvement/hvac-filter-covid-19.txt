@@ -1,0 +1,88 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What HVAC Air Filters Protect Against COVID-19?"
+headline: "Does My HVAC Filter Protect Against COVID-19?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-12-14
+basePath: https://library.homeserve.com/m/
+heroImage: 5bc6b5698243cbe9/Blog-GettyImages-482689389.jpg
+heroAltDescription: "Home Air Filter"
+metaDescriptions: "Concerned about COVID-19 transmission inside your home? Here's what to know about filters to help defend against the virus."
+articleAbstract: "COVID-19 spreads through droplets in the air. Here’s everything you need to know about improving your air quality and using filters to help defend against COVID-19."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Does My HVAC Filter Protect Against COVID-19?"
+  parent: HVAC-Home-Improvement
+---
+  The SARS-CoV-2 virus (the virus that causes COVID-19) moves rapidly between people because it lives in our mucus and saliva. When we speak, breathe, cough or sneeze, tiny particulate matter is sent into the air containing the virus, which can infect someone else who breathes it in. One of the ways many people are trying to protect themselves from COVID-19 is by upgrading their HVAC filters and purchasing air filtration systems.
+
+**This May Also Interest You:** [**How Often Should You Change Your Furnace Filter?**](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+
+When considering air filters, you need to make sure they are actually effective in trapping the virus. You should always check a product’s MERV rating before purchase to ensure it’s effective against viruses.
+
+Here’s everything you need to know about improving your air quality and using filters to help defend against COVID-19.
+
+Does My Regular HVAC Filter Protect Me Against COVID-19?
+--------------------------------------------------------
+
+Standard HVAC filters aren’t enough to capture viruses and bacteria. According to the [Centers for Disease Control](https://www.epa.gov/coronavirus/what-kind-filter-should-i-use-my-home-hvac-system-help-protect-my-family-covid-19), an upgraded HVAC filter can improve the air quality in your home. However, it’s not enough to protect you against the COVID-19 virus and other viruses.
+
+Another thing you must consider is that your HVAC system isn’t running constantly. The only way to remove particles from the air effectively is with a system that circulates air continuously. You can purchase approved air purification systems that are specifically designed to remove dust, mold, bacteria and viruses from the air.
+
+What Are MERV Ratings for Air Filters?
+--------------------------------------
+
+“MERV” stands for “minimum efficiency reporting values.” This rating measures the minimum size of the particles a filter can capture from the air. Higher ratings mean that the filter can trap smaller particles. One of the ways you can improve the air quality in your home is to improve the filter in your HVAC unit.
+
+Most HVAC systems are equipped with MERV-8 filters. The CDC advises upgrading to at least a MERV-13 filter or higher to protect yourself from particles that spread disease. The filter won’t actually kill the virus, but it’s able to capture the type of material that a virus or bacteria needs to survive, such as mucus or saliva.
+
+What MERV Rating Can Trap Viruses?
+----------------------------------
+
+MERV-13 or higher filters can trap particles capable of carrying the COVID-19 virus. Since the filter only works when the system is moving air through the filter — and because the particles are just trapped, not eliminated — the virus may continue to live inside of the filter. The CDC advises running your air for longer periods of time. Use protection when changing the filter since it’s possible that the particles inside the filter contain live viruses.
+
+Do High-MERV Filters Protect You From COVID-19?
+-----------------------------------------------
+
+High-MERV filters offer limited protection from COVID-19. The best way to ensure you’re killing the virus is to install a UV light inside of your HVAC system that’s specifically designed to kill bacteria and viruses. Combining a UV light and highly rated filter are two steps that can greatly reduce your risk of catching COVID-19, the flu and other diseases that are transmitted through the air.
+
+What Is a HEPA Filter and How Does It Work?
+-------------------------------------------
+
+According to the [Environmental Protection Agency](https://www.epa.gov/indoor-air-quality-iaq/what-hepa-filter-1), “HEPA” stands for “high-efficiency particulate air” filtration. These filters, often used in air purifiers, trap even smaller particles. There are several ways that you can use HEPA filters to improve the air quality in your home:
+
+*   Purchase a vacuum cleaner with a HEPA filter to remove particles that carry disease and irritants from your floors.
+*   Use air purifiers with HEPA filters to remove contaminants from a specific area in your home.
+*   Upgrade your furnace and install a HEPA filter with a high MERV rating.
+
+The best strategy when using air purifiers is to place them in rooms that you spend the most time in. Make sure that the air purifier you choose is rated to cover an area the size of the room you place it in. Also, install a new filter regularly. Once the filter becomes clogged with particles, it becomes less effective.
+
+**More Related Articles:**
+
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [How Much Do UV Lights Cost for HVAC Systems?](https://www.homeserve.com/en-us/blog/cost-guide/uv-lights-hvac/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+
+Do HEPA Filters Kill COVID-19?
+------------------------------
+
+HEPA filters don’t kill the COVID-19 virus, but they do remove it from the air. For this reason, many people combine the use of a HEPA filter with a UV light system. The virus is trapped in mucus or saliva particulate, which enters the filter and is removed from the air. The UV light kills the virus and makes it much safer to work with the filter when it comes time to change it.
+
+Will a HEPA Filter Protect Me From COVID-19?
+--------------------------------------------
+
+If you’re worried about the transmission of COVID-19 from one person to another in your home, a HEPA filter can help when combined with other strategies as recommended by the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/Improving-Ventilation-Home.html):
+
+*   Consider how well ventilated your home is. Open windows and try to bring in outside air when the weather permits.
+*   Run your HVAC system for longer periods and consider having the fan running without heat or air conditioning so that air continues to circulate through the filter.
+*   Turn on the exhaust fans in your bathrooms and kitchen as this will improve ventilation and send many contaminants outside of your home through the exhaust.
+*   Make sure that any air purifier you place isn’t blowing air in the direction of other people.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

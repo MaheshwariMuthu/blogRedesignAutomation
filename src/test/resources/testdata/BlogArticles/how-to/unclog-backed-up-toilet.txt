@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "5 Ways to Unclog a Toilet"
+headline: "5 Ways to Unclog a Toilet"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-12-15
+basePath: https://library.homeserve.com/m/
+heroImage: 61afa893a8d50e3c/Blog-GettyImages-497452419.jpg
+heroAltDescription: "cleaning clog toilet"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A toilet that refuses to flush is a major inconvenience. Here's how to clear clogs and get your toilet back in working order."
+articleAbstract: "A toilet that refuses to flush is a major inconvenience, it doesn't have to be a major crisis. Here are five different ways you can get that clog cleared."
+category: ["How To"]
+eleventyNavigation:
+  key: "X Ways to Unclog a Toilet"
+  parent: Plumbing-How-To
+---
+  Toilet clogs. They are an unpleasant — and unavoidable — part of living in a home with modern plumbing. Yet, while a toilet that refuses to flush is a major inconvenience, it doesn't have to be a major crisis or cost you a lot of money to fix.
+
+**This May Also Interest You:** [**Plumbing Repair Cost Guide**](https://www.homeserve.com/en-us/blog/cost-guide/plumbing-repair-costs/)
+
+Here are five different ways you can get that clog unblocked so you can go back to not thinking about your toilet again for a good long while.
+
+1\. Tried and True: Use a Plunger
+---------------------------------
+
+It's not very high-tech, but a plunger remains your best first option when faced with a clogged toilet. The key here is to use the right kind of plunger for the job. You'll want to use a toilet plunger versus a sink plunger. These plungers have a bell shape with a cylindrical sleeve coming out of the bottom. This sleeve fits into the drain hole of the toilet bowl while the surrounding rubber cup forms a tight seal. (Sink plungers lack this sleeve and won't be as effective.)
+
+To get the job done, make sure there is at least enough water in the bowl to cover the drain hole, then angle the plunger so that the sleeve extends into the hole. Using short, sharp, strong strokes, move the plunger up and down several times. Remove it from the bowl and flush. Repeat if necessary.
+
+2\. Snake It!
+-------------
+
+Sometimes plunging is simply not effective when trying to unclog the toilet, so you may want to have a go with a snake. This device is a long semi-rigid coil of wire that has a corkscrew-style tip on the end. There’s a range of toilet snakes to choose from, but your best bet is one called a closet or toilet auger, which is a bit more heavy-duty and designed specifically for getting around the twists and turns in a toilet bowl.
+
+To use it, insert the tip of the auger into the drain hole and crank the handle in a clockwise direction. Eventually, you should feel the tip of the auger stop working its way down the toilet, which means you have found the clog. At this point, push the auger forward and back a few times until you feel the clog break up. Then, rewind the auger and flush the toilet.
+
+3\. Get the Hang of It
+----------------------
+
+If you don't have a snake or auger on hand, you can get much the same result by unwinding a simple wire hanger. You can leave the curved part of the hanger intact to act as a hook, but you may want to cover it with a bit of electrical tape or duct tape to protect your toilet's porcelain surface. Feed the unwound hanger hook end first down the drain and when you hit the clog, work it back and forth to clear. Use rubber gloves to keep your hands clean.
+
+**Brush Bonus**: In a pinch, you can try using your toilet bowl brush to work the clog free. The brush will have a harder time handling the curves of the bowl and won't extend as far as a snake or hanger, but if the clog is relatively close to the opening of the drain hole at the bowl, it might just do the trick. You'll definitely want to wear long rubber gloves for this procedure as you'll need to reach pretty far down for the best chance of success.
+
+**More Related Articles:**
+
+*   [How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+*   [Pipe Burst? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+*   [How Do You Flush a Toilet Without Running Water?](https://www.homeserve.com/en-us/blog/how-to/turn-off-water-heater/)
+*   [Does Homeowners Insurance Cover Plumbing Repairs?](https://www.homeserve.com/en-us/blog/buying-guide/homeowners-plumbing-insurance/)
+*   [5 Things You Should Know About Your Plumbing Vents](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-vents/)
+
+4\. Soap Up
+-----------
+
+If mechanical methods of removing your clog fail (or if you don't have the tools you need to execute them), you might want to try chemical methods. The easiest way to try this out is to squirt about 1/4 cup of liquid dish detergent into the bowl. Let it sit for about 15 minutes so that it has a chance to travel through the water and into the drain, where it will hopefully surround the clog and lubricate it. Follow this up with a pot of very hot water that's just below the boiling point, and the clog should rinse free.
+
+5\. Make A Clog-Clearing Recipe
+-------------------------------
+
+Your kitchen can be the source of more clog-busting help in the form of the tried-and-true duo of vinegar and baking soda. Because this creates a fizzy reaction, you may want to remove some water if your toilet bowl is filled to the rim, or at least put some old towels around the base to catch any spillover. Then put one cup of baking soda and one cup of vinegar in the bowl and let it go to work for about a half hour. Follow up with piping-hot water, and hopefully, the clog will have dissolved enough for you to get back to flushing success.
+
+Don't Panic
+-----------
+
+A clogged toilet can seem like a major crisis, but with patience and a few household items, you should be able to get the situation sorted in no time. If you've tried some of these solutions and you still can't get the toilet to flush, however, you may need to call in a plumber who can search farther along your drain line for the source of the clog. In either case, clearing the clog is a relatively straightforward procedure that won't cost you a fortune.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nk_hBpyP3Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How Much Does Sewer Line Maintenance and Repair Cost?"></iframe>

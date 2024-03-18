@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: When to install Home Solar Panels
+headline: When to install Home Solar Panels
+author: Team HomeServe
+tags: ['post', 'DIY', 'Heating & Cooling']
+publishDate: 2018-12-19
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: SolarPanelHS.jpg
+heroAltDescription: How to Install Solar Panels
+metaDescriptions: Many homeowners are considering solar panels. But is it worth it and when is the best time to install?
+articleAbstract: Considering solar energy, but worried about the cost of installing solar panels? Here’s what you need to know.
+category: ['How To']
+
+eleventyNavigation:
+  key: When to install Home Solar Panels
+  parent: HVAC-How-To
+---
+
+:::: blog-info
+If you're anything like me, saving money and helping out the environment is something that is constantly on your mind. _(So important to me is my carbon footprint that I actually compost every day, recycle everything I can and recently even bought a Prius.)_ So, it makes sense that my next consideration is to run my home on solar energy. And because it is becoming a more feasible option for many homeowners across the country, I decided it was time to think about making the upgrade. That meant considering cost, benefits, efficiency and other factors to determine if the investment in solar panels is a smart one for me and my family.
+
+If you’re considering a home solar panel installation, be sure to check this out:
+
+## Running your home on solar power
+
+Solar energy is sustainable and renewable, powering homes through panels installed on rooftops. There are also solar-powered products, such as air conditioners and heat pumps, that can boost HVAC systems with the sun's energy.
+
+According to the U.S. Department of Energy, the solar power generated in just one hour of afternoon summer sun is [equivalent to annual electricity demand.](https://www.energy.gov/energysaver/benefits-residential-solar-electricity){target="_blank"} While sunny days mean more solar energy, you'll still have power when the skies are cloudy. Solar panels continue to draw energy from indirect sunlight, with cloudy days producing about [10 to 20 percent](https://www.usgbc.org/articles/top-four-benefits-installing-solar-panels-your-home){target="_blank"} of the amount generated when the sun is out, according the U.S. Green Building Council.
+
+With plenty of sunlight to go around, you can install rooftop panels anywhere in the United States. Even the White House has water heating solar panels - installed way back during Jimmy Carter's days in the Oval Office. However, some important factors to consider before biting the solar energy bullet include considering roof size, type and slant, state and federal financial incentives and home location.
+
+## Considering reasons to install home solar panels
+
+Solar power is one of the most efficient ways to save money on your utility bills, making the cost savings one of the most convincing benefits for many homeowners. Those who use solar energy are also eligible for certain tax credits and rebates, which further adds to the financial perks.
+
+Rooftop panels are also an upgrade with similar merit given to renovated kitchens and finished basements, increasing the value of your home and boosting the return on your investment when it's time to sell. Added to that, there are significant environmental benefits of rooftop solar panels. They provide clean energy, substantially reducing greenhouse gas emissions and water consumption, as noted by the Department of Energy.
+
+## Choosing the right time
+
+You're ready to go solar, but when's the best time to install the rooftop panels? Here are some tips to consider before making the choice:
+
+### Be prepared for upfront costs:
+
+Make sure your budget allows for steep initial costs. Your long-term savings will be more significant if you can invest in high-quality equipment at the onset, so it's worth saving up to make the right purchase. A standard five-kilowatt system costs about [\$16,000](https://news.energysage.com/5kw-solar-systems-compare-prices-installers/){target="_blank"} but that price can drop about \$5,000 after applying tax credits. Some states offer solar leasing, which may be a more cost-effective way to retrofit your rooftop with panels.
+
+### Research your options:
+
+Installation rates and equipment costs differ depending on the company you choose, so doing your homework pays off in the long run. A recent report published by the National Renewable Energy Laboratory found that homeowners who get multiple quotes generally [save 10 percent more](https://www.nrel.gov/docs/fy17osti/68010.pdf){target="_blank"} than those who don't shop around.
+
+### Do the math:
+
+You can use online solar calculators, such as [this one](https://www.energysage.com/solar/calculator/){target="_blank"} from EnergySage, to estimate personal costs and benefits based on your location, type of roof, average electricity bill and offers in your region. These calculations can help you determine if solar panels are genuinely worthwhile for your home.
+
+### Consider moving dates:
+
+EnergySage advises against installing rooftop solar panels if you plan to move in the near feature, as the [average payback period is about seven to eight years](https://news.energysage.com/advantages-and-disadvantages-of-solar-energy/){target="_blank"}. While solar power can increase a home’s resale value, you may not see the full return in investment if you move too soon. However, if the resale value is enough to recoup the cost, this financial disadvantage may be avoided.
+
+### Review cost fluctuations:
+
+The right time to install solar panels may depend on rising or falling electricity rates in your area, as well as cost fluctuations in rooftop panels. Added to that, as solar power continues to increase in popularity, financial incentives won't be as plentiful, which may influence your decision to install panels sooner rather than later.
+
+Running your home on solar power is a smart, money-saving strategy in the long term. Being prepared for home repairs is also a smart strategy. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+::::

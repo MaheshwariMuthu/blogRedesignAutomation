@@ -1,0 +1,42 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "I Lost the Tools For My IKEA Furniture! What Do I Do?"
+headline: "I Lost the Tools For my IKEA Furniture! What Do I Do?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-08-30
+basePath: https://library.homeserve.com/m/
+heroImage: 62a3a893179b8f6/Blog-GettyImages-1443053219.jpg
+heroAltDescription: "Woman looking at instruction manual to assemble furniture"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "IKEA’s tools and hardware are quite specific, so what happens if they go missing? Here's what you can do."
+articleAbstract: "IKEA’s tools and hardware are quite specific, so what happens if they go missing? Here's what you can do."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "I Lost the Tools For my IKEA Furniture! What Do I Do?"
+  parent: Interior-Home-Home-Improvement
+---
+  **I Lost the Tools For my IKEA Furniture! What Do I Do?**
+
+Buying IKEA furniture has many benefits, one being the reasonable ease with which it can be assembled. Most of the flat packs come with everything you need to put together your new bed, wardrobe, or shelving unit; if not, basic tools like a screwdriver are all you’ll need. However, IKEA’s tools are quite specific. If you plan at some point to move or believe you may need to take apart your IKEA furniture for whatever reason, you want to keep those tools around. But what if they go missing? Don’t despair – we can help!
+
+**What exactly are IKEA tools?**
+
+The hex key or Allen wrench is the most common tool needed to build IKEA furniture. This tool comes with so many IKEA items that if you’ve bought enough from the company, you probably have a few to spare. IKEA’s hex keys come in a few different shapes and sizes. You’ll need to know which specific one your furniture needs. The most common ones are either S-shaped or L-shaped. They come in sizes ranging from two to six millimeters. (Note: IKEA is a European country and uses the metric system for its dimensions.)
+
+To find out which tools your piece of furniture requires, search online for the assembly instructions. They should contain a list of tools. You may also see a six-digit number associated with the tool list. If you’re struggling to find the name of the tool you need, doing an online search referencing that number may help. We talk more about this below, but knowing that six-digit number may help you order the lost tool directly from the IKEA website.
+
+**Do I need any other tools?**
+
+Other standard tools used for building IKEA furniture include a screwdriver, hammer, and wood glue. Many IKEA items come with wooden dowels or pegs, which require gluing. Let’s discuss the screwdriver. Most people are familiar with two common types: a flathead screwdriver and a Philips screwdriver. If you look at the screws that came with your flat pack, it might seem that you'll need a Philips screwdriver. But here again, IKEA has its own tools. The screws IKEA uses are called “Pozidriv” and hence require a Pozidriv screwdriver. You can tell the difference as the Pozidriv screws have additional hashes on the screw head that a Philips screw doesn’t have. You can probably get by using a Philips screwdriver, but the screws might get stripped. If you foresee a lot of IKEA furniture building in your future, it’s best to get a Pozidriv screwdriver.
+
+As for a lost hex key, an electric screwdriver or drill may make building go faster and could be a good stand-in if you've lost one. Be sure you have the correct bits that are comparable in size to the required hex key. Don’t over-tighten the screws. This could weaken the fasteners and cause them to break. For this reason, an electric screwdriver might be a better choice; they are smaller and lighter than drills.
+
+**What about missing IKEA hardware or parts?**
+
+If you open your IKEA box and get all geared up to put together your new furniture, it can be slightly annoying to find out you are missing that all-important hex key or another part. Luckily, IKEA makes ordering parts and hardware from their website very easy. Screws, handles, dowels, and more can be delivered to your home.
+
+Before beginning to assemble anything, read through the instruction manual completely, lay out all the hardware and tools you have, and make sure you have everything listed in the instructions. This may seem like a waste of time, but it's better to find out before you begin than to wind up with a half-assembled dresser you can't complete. If anything is missing, you can [order smaller parts online from Ikea's website](https://www.ikea.com/us/en/customer-service/spare-parts/). Larger pieces are also available for replacement but, unfortunately, require a trip to a physical IKEA location.
+
+Putting stuff together is probably something you either love or hate. IKEA has tried to make sure putting its furniture together is as straightforward as it can be. Don’t let lost IKEA tools stress you out. Alternatives can be found, and you’ll soon be on your way to assembling (or disassembling) joy!<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Should You Repair or Replace Your Air Conditioner?"
+headline: "Should You Repair or Replace Your Air Conditioner?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-08-20
+basePath: https://library.homeserve.com/m/
+heroImage: 2f7f31f8ed256b1f/Blog-iStock_000051456016_Large.jpg
+heroAltDescription: "technicians checking external HVAC unit"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "When your AC goes on the blink, it can be tricky knowing when to repair it and when to just start with a new one. Read on for a helpful guide."
+articleAbstract: "When your AC goes on the blink, it can be tricky knowing when to repair it and when to just start over with a new one. Read on for a helpful guide."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Should You Repair or Replace Your Air Conditioner?"
+  parent: HVAC-Home-Improvement
+---
+  Ahh, the air conditioner. An extraordinary modern convenience and true savior when those sweltering summer months roll around. When the temperatures ramp up, it’s hard for most of us to imagine life without a well-functioning and cold-blowing AC unit.
+
+**This May Also Interest You:** [**10 Ways to Make Your Central Air Conditioner More Efficient**](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioner-energy-efficiency-tips/)
+
+But what happens when your air conditioning unit is on the fritz? Moreover, what if it keeps acting up, even after several visits from the AC repair folks? It can be tricky to know whether you should repair your AC unit or go ahead and replace it, but the good news is that there are some questions you can ask yourself that’ll help you make the wisest and — hopefully — most economical decision in the long run.
+
+Read on to learn when you should repair your air conditioning unit and when you should replace it.
+
+How Long Does a Central AC Unit Last?
+-------------------------------------
+
+You can expect a typical central air conditioning unit to last about 15 years. Some of the newer, high-efficiency models boast a lifespan of closer to 20 years. Still, these are averages, not guarantees, so don't be too surprised if your unit calls it quits at year 12 or 13.
+
+When Is It Better to Repair Your Air Conditioner?
+-------------------------------------------------
+
+If your air conditioner needs a fairly simple and inexpensive repair, like fixing a clogged condenser unit or replacing a worn fan belt, it’s likely best to go ahead with the repair, even if you have an older unit. But, if the repair is going to be a costly fix and your AC system is, say, 10 years or older, it may not be worth it.
+
+### The 50% Rule
+
+If your repairs are going to cost more than half the cost of a full replacement, it’s probably best to replace your air conditioner instead of repairing it, even if your unit is super old. This rule can be used for other appliance repairs, too — you just don’t want to spend more than half the cost of the unit on repairs if you can help it.
+
+Sometimes, It’s Better to Replace Your Air Conditioner
+------------------------------------------------------
+
+### Consider the Long Run
+
+Replacing an older unit in lieu of expensive repairs can save you money in the long run, especially if your unit keeps having issues. Plus, many HVAC systems stop cooling your home as efficiently as they age. So, if this is the case with your air conditioning and you’ve noticed an unexplained increase in your energy bill, consider how much money you’ll save on energy costs with a new Energy Star-certified air conditioning unit.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+### Timing Matters
+
+A note on timing: If you know you need to replace your AC unit, doing so in the off-season can sometimes save you money. Although you can’t plan ahead in all situations, if you do know you’ll need a new unit within the year, opting to replace it in early spring or fall can be cheaper, as HVAC technicians tend to be less in demand during these shoulder months.
+
+Try to avoid waiting until the first really hot day of summer to call for air conditioner repairs or replacement, as it’ll be harder to get technicians out in a timely manner and may cost you more due to increased demand. To prevent this from happening, try running your AC lower and longer than you may necessarily need sometime _before_ it gets super hot outside, just to make sure it’ll be in good working order when you really do need it.
+
+Summing It Up
+-------------
+
+If you’re wondering whether to replace or repair your air conditioning unit, you want to consider a few things. First, how complex and expensive are the repairs that are needed? Second, how old is your unit? Third, how frequently has your system needed repairs? And finally, have you noticed an overall decrease in your AC’s efficiency and cooling? Considering these factors should help you decide whether repairing or replacing your air conditioner is the best move for you and your home.
+
+Spending money on AC repairs is never fun. Spending money on replacing an air conditioning unit entirely is an even harder pill to swallow. But knowing you made the wisest move for your particular situation can make it a little easier to stomach. Plus, just think of how blissfully ice-cold that new AC will feel.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Thaw Frozen Pipes"
+headline: "How to Thaw Frozen Pipes"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-20
+basePath: https://library.homeserve.com/m/
+heroImage: 2f83cd9b7802df15/Blog-GettyImages-537664259.jpg
+heroAltDescription: "frozen pipe with icicles"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Fortunately, thawing out frozen pipes is an easy procedure, as is keeping them from freezing in the first place. Here's what you need to know."
+articleAbstract: "Fortunately, thawing out frozen pipes is an easy procedure, as is keeping them from freezing in the first place. Here's what you need to know."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Thaw Frozen Pipes"
+  parent: Plumbing-How-To
+---
+  One of the best times to be indoors is when the temperatures plummet. Nothing quite beats the feeling of being snuggled under a blanket in the protective warmth of your house when a winter freeze hits. But that feeling of comfort can quickly evaporate if one or more of the pipes in your plumbing system freeze.
+
+**This May Also Interest You:** [**Pipe Burst? Here’s What to Do Next**](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+
+If that happens, not only will you experience an inability to access the water supplied by the pipe, but you may also be faced with a burst pipe, which can lead to thousands of dollars in damage if not handled correctly. Fortunately, thawing out frozen pipes is an easy procedure — as is keeping them from freezing in the first place. Here's what you need to know.
+
+What Causes Pipes to Burst in the Winter?
+-----------------------------------------
+
+While practically any pipe in your home can freeze if it gets cold enough, the pipes that run through exterior walls or through unheated areas like basements or crawlspaces are especially prone. When the water that flows through these pipes freezes, it expands. But that's not the direct cause of the bursting pipe. The ice forms a blockage in the pipe, which causes a buildup of pressure between the blockage and your faucet. This increased pressure is what can eventually cause a pipe to split open.
+
+What Are the Signs of Frozen Pipes?
+-----------------------------------
+
+The clearest sign that one or more of your plumbing lines is frozen is when no water (or just a little trickle) comes out of the faucet when you turn it on. Another sign that signals ice in the lines is a clanging or gurgling sound when the water is used. The pipes themselves can also give you a heads-up that something might be wrong. Pipes that look swollen or those covered in condensation could be an indication that they are succumbing to the pressure buildup caused by ice.
+
+How Can You Thaw Frozen Pipes?
+------------------------------
+
+If you notice any of these signs, your first step should be to shut off the water at the main valve. This is usually found on the inside of the house where the main water line enters from the street or your well. Then, trace the line from the faucet that's not working to find the source of the ice blockage. If you are having issues at more than one faucet, the issue might be somewhere along the main line or in multiple places.
+
+After you find the problem spot (or spots), your goal is to get the pipe warmed back up. The methods to do this aren't very fancy, but they do work. You can simply run a hairdryer back and forth along the line to defrost the pipe. Similarly, you can wrap the frozen area in an electric heating pad. A portable heater placed near the frozen pipe can also get the job done, as can special [heating cables](https://www.amazon.com/VineHeat-Self-adhesive-Freeze-Protection-Cable/dp/B09KP1HP7P/ref=sr_1_1_sspa?gclid=Cj0KCQjwvLOTBhCJARIsACVldV0ZfVuDFEUZ1aPaIeVGrXdJH9zgLoV_3nezzBJ4dct2DXe7Rbcl2x4aAg63EALw_wcB&hvadid=410038665070&hvdev=c&hvlocphy=9010328&hvnetw=g&hvqmt=e&hvrand=11072719205392074246&hvtargid=kwd-825532914200&hydadcr=8463_11337799&keywords=heat+cable+for+pipe+freeze&qid=1651346421&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMkZNTEtFWEhETUxMJmVuY3J5cHRlZElkPUEwOTcxODk1MUgzWENTTkI5NDg5TCZlbmNyeXB0ZWRBZElkPUEwODkzMjQ5UzlUTjVEM1U2QjdUJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) wrapped around it. Finally, for the most low-tech of all solutions, if you can access hot water anywhere in the home, you can soak bath towels in hot water, then wrap them around the frozen pipes.
+
+When thawing pipes, you'll want to be sure that you have some buckets and extra towels around. If the pressure buildup has already created a small tear or hole in a pipe, when you turn the water back on, it can spray everywhere and accumulate quickly.
+
+Also, never use any kind of flame or device that uses a flame to defrost your pipes. This is not only a safety hazard, but it can damage your pipes even more.
+
+**More Related Articles:**
+
+*   [Prevent Frozen-Pipe Problems by Knowing These Things Down Cold](https://www.homeserve.com/en-us/blog/how-to/frozen-pipes/)
+*   [Plumbing Repair Cost Guide](https://www.homeserve.com/en-us/blog/cost-guide/plumbing-repair-costs/)
+*   [9 Times When You Should Call a Professional Plumber](https://www.homeserve.com/en-us/blog/home-improvement/professional-plumber-repairs/)
+*   [How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+*   [9 Common Plumbing Myths — Busted](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-system-myths/)
+
+How to Prevent Frozen Pipes
+---------------------------
+
+Pipes generally need to be in 20-degree Fahrenheit (7-degree Celsius) weather for more than six hours to begin to freeze. So knowing this, you can take steps to keep things warm. One option is to place a space heater in any areas where it can get exceptionally cold in the winter months, like your basement or garage. In the home, keep cabinet doors open so that your home's heat can reach the pipes, especially if they are on exterior walls.
+
+And speaking of your home's heat, when it gets exceptionally cold outside, it's a good idea to keep your thermostat at a set temperature. While some people use timers or smart thermostats to save energy, a deep freeze is not the time to skimp on heat. The damage from a burst pipe can cost a lot more than a little extra warmth. If you are going away during the cold months, leave your thermostat on a setting not lower than 55 degrees Fahrenheit (13 degrees Celsius).
+
+In addition to providing heat to your pipes, you can also insulate cold areas in your home and wrap the pipes themselves with inexpensive [pipe insulation](https://www.amazon.com/Home-Intuition-Foiled-Fiberglass-Insulation/dp/B082DMPM9M/ref=sr_1_3_sspa?crid=3OJ9K2O8NTSXQ&keywords=pipe+insulation&qid=1651346890&sprefix=pipe+insulation%2Caps%2C163&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFBMjkzOFFIUVpUNlgmZW5jcnlwdGVkSWQ9QTAzMTMzNzgzTjA1QkMxWTUyQlk3JmVuY3J5cHRlZEFkSWQ9QTA1Mjc2ODYyTTFSQlpXU1o3QlFBJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==).
+
+Although it might sound like an old wives’ tale, leaving water trickling out of your faucets really can help ward off frozen pipes as moving water is much less likely to freeze than still water. Again, it might go against your sense of environmentalism to waste water, but a burst pipe can dump gallons in mere seconds and cause damage that would require hundreds or even thousands of dollars in new materials to repair.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Water Line Repair and Replacement | What You Can Expect to Pay"></iframe>

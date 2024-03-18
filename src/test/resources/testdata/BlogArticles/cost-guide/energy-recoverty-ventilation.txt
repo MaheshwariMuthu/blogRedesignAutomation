@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is an Energy Recovery Ventilation System and How Much Does It Cost to Install One?"
+headline: "What Is an Energy Recovery Ventilation System and How Much Does It Cost to Install One?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2023-11-19
+basePath: https://library.homeserve.com/m/
+heroImage: 70710c343a3e7ffe/Blog-GettyImages-1487523593.jpg
+heroAltDescription: "Energy Recovery Ventilator"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "An ERV system doesn’t generate warm or cool air; it transfers existing heat and moisture between incoming and outgoing airstreams."
+articleAbstract: "An ERV system doesn’t generate warm or cool air; it transfers existing heat and moisture between incoming and outgoing airstreams. This might seem a bit confusing, so let's look at it in more detail."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "What Is an Energy Recovery Ventilation System and How Much Does It Cost to Install One?"
+  parent: HVAC-Cost-Guide
+---
+  Imagine a cozy home where you enjoy a constant supply of fresh, clean air throughout the year, all while keeping your heating and cooling expenses in check.
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+It might seem too good to be true, but it's absolutely achievable with the help of an energy recovery ventilation system.
+
+What Is an Energy Recovery Ventilation System?
+----------------------------------------------
+
+ERV stands for energy recovery ventilation. It sounds bland, but it’s a revolutionary way to improve and maintain indoor air quality while optimizing energy efficiency. Basically, an ERV system doesn’t generate warm or cool air; it transfers existing heat and moisture between incoming and outgoing airstreams. This might seem a bit confusing, so let's look at it in more detail.
+
+### The Inner Workings of an ERV System
+
+These six points cover the main features of an energy recovery ventilation system. Each point plays a crucial role in how ERV achieves its magic.
+
+* **Balanced ventilation:** ERV HVAC systems operate on the principle of balanced ventilation. They use fans to draw in outdoor air and extract indoor air, maintaining stable air pressure within the home.
+* **Heat and moisture transfer:** As outdoor air enters the energy recovery ventilator unit, it passes through a heat exchanger. This unit captures both heat and moisture from the outgoing indoor air. In the winter, it warms the incoming fresh air with the heat from the exhaust air, ensuring it's prepared before reaching living spaces.
+* **Energy efficiency:** By capturing and transferring heat and moisture, energy recovery systems significantly reduce the load on the home’s heating and cooling system. This translates to energy savings, lower utility bills and a reduced environmental impact.
+* **Humidity control:** HVAC ERV systems excel at managing indoor humidity levels. They prevent excessive moisture buildup in the home during the summer and help maintain healthy humidity levels during the winter. This enhances comfort and reduces the risk of mold, mildew and other moisture-related issues.
+* **Improved air quality:** ERV units continuously exchange indoor and outdoor air, removing pollutants, allergens and stale air. The result is a constant supply of fresh, clean air, which is beneficial for people with allergies or respiratory conditions, particularly the very old and very young.
+* **Climate adaptability:** Energy recovery ventilation systems are designed to work efficiently in all seasons, regardless of the outdoor weather conditions. They provide fresh air without the discomfort of drafts in the winter or the burden of increased cooling costs in the summer.
+
+**More Related Articles:**
+
+*   [What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps ...](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [Is an HVAC Tune-Up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+How Is It Different From a Typical HVAC System?
+-----------------------------------------------
+
+The key difference between an ERV HVAC system and a traditional HVAC system lies in their approach to ventilation. A standard HVAC system heats or cools incoming air to match the desired indoor temperature. An ERV system capitalizes on the energy contained in the exhausted air. It captures and uses this hidden energy to prepare the incoming fresh air, bringing it closer to the desired indoor temperature. ERV typically results in substantial energy savings because it doesn’t have to generate warm and cool air.
+
+How Much Does It Cost to Install a Residential ERV System?
+----------------------------------------------------------
+
+The system's size, brand and complexity of installation all contribute to the final cost, as will your location. On average, [Family Handyman](https://www.familyhandyman.com/article/energy-recovery-ventilator-guide/#cost-to-install-an-erv) says you can expect to invest between $1,000 and $1,900 (CAD 1,363 and CAD 2,589) for the unit itself and another $800 to $1,900 (CAD 1,090 to CAD 2,589) for ductwork and materials, depending on the size of your home. For a professional to install your new system, expect to pay around $3 to $10 (CAD 4.08 to CAD 14) per linear foot of ductwork.
+
+While this initial investment might seem significant, you may want to consider the long-term benefits. You could see lower heating and cooling bills month after month, ultimately resulting in substantial energy savings that offset the original investment. Additionally, improved indoor air quality can lead to better health and overall well-being for you and your family.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/J1jEVTAq4io?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Change Your Ceiling Fan Direction"></iframe>

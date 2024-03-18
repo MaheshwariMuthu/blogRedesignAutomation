@@ -1,0 +1,114 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How To Prevent Your Frozen Faucets
+headline: Prevent Frozen-Pipe Problems by Knowing These Things Down Cold
+author: Team HomeServe USA
+tags: ['post', 'Plumbing']
+publishDate: 2020-11-24
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: frozen-pipes.jpg
+heroAltDescription: How To Prevent Your Frozen Faucets
+metaDescriptions: Winter got you wondering if you're at risk for frozen pipes? Learn the signs of freezing water lines and what homeowners can do to fix or prevent costly issues.
+articleAbstract: Winter weather got you wondering if you're at risk for frozen-pipe problems? Learn all about the signs of freezing faucets and waterlines and what homeowners can do to fix them — or, hopefully, prevent costly issues from happening in the first place.
+category: ['How To']
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/how-to/frozen-pipes/', 'en-us'], ['https://www.homeserve.co.uk/living/home-and-lifestyle/how-to-measure-a-radiator/', 'en-gb']]
+
+eleventyNavigation:
+  key: How To Prevent Your Frozen Faucets
+  parent: Plumbing-How-To
+---
+
+:::: blog-info
+As a homeowner, you should always be on the lookout for things that can cause damage to your home — and your bank balance. One of the things you should be on the lookout for when the mercury drops is frozen pipes. A frozen waterline can, unfortunately, be all too common among homeowners and can lead to the need for thousands of dollars in repairs.
+
+**This May Also Interest You:** [**Pipe Burst? Here's What to Do Next**](/en-us/blog/home-improvement/frozen-pipe-burst/)
+
+We&#39;ll take you through some questions you should be asking yourself, and provide helpful answers to make you aware of problems to be on the lookout for and preventive measures you can take to avoid frozen-pipe problems.
+
+::::
+
+## How Long Does It Take for Pipes to Freeze?
+
+Your waterlines — especially those located outdoors — are prone to freezing during cold temperatures. There&#39;s no definitive time it takes for pipes to freeze — but be assured that, in extremely cold weather, it won&#39;t take very long. It may seem counterintuitive, but houses in warmer climates are usually _more_ susceptible to frozen pipes than houses in colder climates because the latter group typically have construction measures to guard against such issues.
+
+Insulation and where your pipes are situated are probably the biggest factors in determining how long it might take the lines to freeze.
+
+<img class="detail-image" src="/en-us/assets/images/blog/how-to/frozen-faucet-drip.jpg" alt="frozen faucet drip"/>
+
+## How Cold Does It Have to Get for Pipes to Freeze?
+
+Many homeowners believe that, because water freezes when the air temperature reaches 32 degrees Fahrenheit that their pipes are in danger as soon as the thermometer dips to that number. Well, you may breathe a sigh of relief to learn that&#39;s not the case.
+
+You need to be concerned about your faucets when the weatherman forecasts temperatures of 20 degrees or less. At that point, how well-insulated your pipes are will dictate whether your pipes are sufficiently protected. With a reasonable amount of insulation, even pipes in an unheated area could take as long as six hours to freeze. On the other hand, if you have little or no insulation, your pipes could freeze in as little as three hours.
+
+## What Are the Risks of a Frozen Waterline?
+
+Not only are frozen pipes a huge nuisance that can cause you headaches and your water systems problems, it can also cost you lots of money. When a frozen pipe bursts, which can happen if left unchecked, water damage is all but inevitable. It could cost you _tens_ of thousands of dollars to repair the damage left behind.
+
+That&#39;s why it&#39;s vital to call a professional plumber at the first sign of a frozen pipe. If a pipe does burst, it can be tempting to try to remove anything in the water&#39;s path, but for safety&#39;s sake it&#39;s best to wait until help arrives, as standing water can hide sharp debris and tripping hazards. The water can also be extremely cold, and if there are electrical outlets or appliances touching the water, there&#39;s a risk of electrocution.
+
+## Signs of a Frozen Pipe?
+
+There are several warning signs of frozen pipes or frozen faucets. Unfortunately, to the untrained eye, some of these signs can be difficult to spot.
+
+Here are some red flags to be on the lookout for:
+
+- Temperatures. As we previously mentioned, it has to reach a 20 degrees for your pipes to freeze, so once the mercury drops below 32 degrees, that&#39;s the time to take precautions.
+- Frost on the pipe. If your pipes are visible, you may be able to see frost accumulating.
+- No water is coming out of the faucet. A lack of running water can be another telltale sign.
+- Strange smells. Odd odors could mean that your pipe is partially or completely blocked, possibly due to freezing, as the only direction for the stench to escape is back toward your property.
+
+<img class="detail-image" src="/en-us/assets/images/blog/how-to/frozen-faucet.jpg" alt="frozen faucet"/>
+
+## What To Do If Your Waterline Freezes?
+
+Once you&#39;re aware that a pipe is frozen, you must act quickly to thaw it. Depending on the location of the pipe and your level of expertise, you can attempt to thaw the pipe yourself or you can contact a licensed plumber to do the job for you. In any case, it&#39;s imperative to thaw the pipe as soon as possible because it has the potential to burst and cause extensive damage to your property.
+
+## Can You Fix a Frozen Faucet Yourself?
+
+If you consider yourself a handy person or you&#39;re interested in trying a DIY project to prevent thousands of dollars in repairs, you can try to address frozen pipes yourself. Keep in mind, it can be difficult to pinpoint the frozen pipes.
+
+Here are some of the steps necessary to thaw out your frozen pipes:
+
+- Locate the frozen pipe. If the blockage is in an area of your home that you have access to, you should look for signs of a freeze.
+- Open the faucet. In order to thaw out the pipe, you&#39;ll need to open the faucet that the waterline feeds into.
+- Begin the thawing process. You should always begin near the faucet, then work your way toward the blockage, which ensures that any melted ice can make its way through the open faucet.
+- Thaw the exposed pipes. You can use a hairdryer, heat lamp, hot towels or electrical heating tape.
+- Thaw enclosed pipes. For pipes you can&#39;t see, you can try to thaw them out by increasing the temperature of your home, using an infrared lamp or cutting out a section of your wall for direct access.
+
+If you aren&#39;t confident in your ability to thaw out the pipes yourself, contact a professional for assistance.
+
+## How Can You Keep Pipes From Freezing?
+
+The best way to avoid paying thousands of dollars to repair damage caused by frozen pipes is to avoid the problem in the first place. Here are some proactive steps you can take:
+
+- Keep your house adequately heated
+- Allow faucets to drip slightly
+- Keep interior doors open
+- Seal up holes and cracks
+- Add insulation, which as an added benefit helps keep your house warmer in general
+- Remove exterior hoses
+
+## Do External Faucets Have an Indoor Shutoff Valve?
+
+Whether your external faucet has an indoor shutoff valve will largely depend on where you live. If you live somewhere in the North, for example, where it gets very cold in the winter, it&#39;s common to have a valve somewhere in the house. In warmer climates, it&#39;s not uncommon for there to be no indoor valve.
+
+When winterizing your house for the season, you should turn the indoor valve off and leave the outside one open so the water can drip out. The danger is that trapped water could freeze and burst the pipe. The valve will likely be either very near to where the pipe feeding the exterior fixture exits the house, or where the pipe splits from the main trunk line.
+
+## What Should You Do When the Outside Faucet Is on and Water Leaks into the Basement?
+
+This type of issue is not uncommon in homes that have hoses that are connected to a water source located in the basement. If water gets backed up into your basement, the first thing you should do is reach out to an expert — and the sooner the better, as a large buildup of water can lead to extensive structural damage.
+
+There are steps that you can take to prevent this from happening in the future. For example, you should drain your faucet before every winter to ensure your pipes remain clear of potential frost. If you don&#39;t drain the water in advance, or it leaks and then the temperature drops sufficiently, it could split the outer pipe, which might then leak when you open the faucet.
+
+## Should I Install an Insulated Faucet Cover?
+
+We brace for the cold weather to take its toll on us when the winter months come around — but an unexpected temperature drop might not leave you enough time to take preventive measures. It doesn&#39;t take long for a snap of icy temperatures to cause the water in your spigot or indoor pipes to freeze.
+
+By installing an insulated faucet cover, you can protect your home from unexpected freezes. Now, that&#39;s not to say that you shouldn&#39;t make the proper arrangements ahead of the colder months, but insulating your outdoor faucets with a Styrofoam cover can buy you some time when Old Man Winter sneaks up on you.
+
+If you are dealing with frozen pipes, or you want to take steps to prevent frozen pipes, call the team here at HomeServe to learn more about the packages we offer.
+
+_Since we&#39;re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x8ltbtfp1nY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

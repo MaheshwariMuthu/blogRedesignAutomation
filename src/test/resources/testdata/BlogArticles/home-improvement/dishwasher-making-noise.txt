@@ -1,0 +1,90 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Dishwasher Making Noise: Here's Why and What to Do"
+headline: "Weird Sound Coming From the Dishwasher? How to Diagnose Dishwasher Noises"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-03-11
+basePath: https://library.homeserve.com/m/
+heroImage: 578a91ee48bf4110/Blog-BoschSilencePlusDishwasher_AWiesen_0002-JPG.jpg
+heroAltDescription: "detail shot of bosch dishwasher"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Unusual dishwasher noises could be a cause for concern. You can often fix a noisy dishwasher yourself with the right knowledge."
+articleAbstract: "Most dishwashers make some noise during operation, but unusual dishwasher noises could be a cause for concern. Fortunately, you can often fix a noisy dishwasher yourself with the right knowledge."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My Dishwasher Making Noise?"
+  parent: Appliances
+---
+  Most dishwashers make _some_ noise during operation, but unusual dishwasher noises could be a cause for concern.
+
+**This May Also Interest You:** [**How Much Does a Dishwasher Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+
+Fortunately, you can often fix a noisy dishwasher yourself with the right knowledge.
+
+Reasons Your Dishwasher Is Making Noise
+---------------------------------------
+
+Dishwashers usually make hissing or sloshing sounds as the water pumps through the inlet and jets. A gentle humming sound from the motor is also nothing to worry about.
+
+However, new or unusual sounds like thumping or grinding warrant investigation. The type of dishwasher noise you hear can help you figure out what the issue is.
+
+### Buzzing
+
+A low buzzing sound from your dishwasher can be normal as the water goes down the drain. On the other hand, a new or very loud buzzing sound could be a sign that something's wrong with the wash pump or drain pump.
+
+A broken or faulty wash pump can reduce water flow through your dishwasher, and you may notice that your dishes aren't properly clean. Drain pump problems often prevent water from draining, so you might see pooled water at the bottom of the machine.
+
+### Grinding
+
+A dishwasher making a grinding noise can be a sign that there's something stuck in the chopper blade. The chopper blade cuts up solid debris from your crockery before it reaches the drain to prevent clogged pipes. A chopper blade can usually handle soft debris, but harder items like popcorn kernels can get stuck in the mechanism.
+
+Faulty pumps sometimes make a grinding sound when the bearings start going bad. This sound usually gets worse the longer you leave it.
+
+### Squealing
+
+A squealing or droning sound is often due to worn-out bearings inside the wash pump or drain pump. The bearings support the pump's rotor and allow it to turn correctly. Rusty or damaged bearings stop the rotor from rotating properly, which can be noisy.
+
+### Thumping
+
+Thumping noises from your dishwasher can be annoying, but they're not usually anything to worry about. Water flowing through the drain hose can make it vibrate, potentially causing it to knock against nearby surfaces.
+
+**More Related Articles:**
+
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)
+*   [Don’t Get Lost in the Wash: How to Use Your Dishwasher Efficiently](https://www.homeserve.com/en-us/blog/how-to/use-dishwasher/)
+*   [Should You Repair or Replace Your Dishwasher?](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-repair-replacement/)
+*   [How Much Do Countertop Dishwashers Cost?](https://www.homeserve.com/en-us/blog/cost-guide/countertop-dishwashers/)
+*   [What’s the Deal With Countertop Dishwashers?](https://www.homeserve.com/en-us/blog/home-improvement/countertop-dishwashers/)
+
+What Does It Sound Like if Something’s Wrong With the Circulator Pump?
+----------------------------------------------------------------------
+
+Broken or faulty circulator pumps usually make a loud squealing or grinding sound. This sound is usually due to worn or rusty bearings. You can't replace the bearings individually, so you'll need to replace the entire circulator pump assembly to solve the problem.
+
+What Does It Sound Like If There's a Problem With the Drain Pump?
+-----------------------------------------------------------------
+
+Malfunctioning drain pumps often make a loud buzzing sound, usually when the bearings start to wear out. This noise often progresses to a squealing noise as the problem worsens. The only fix for this problem is to replace the drain pump.
+
+How Do I Stop My Dishwasher From Making Noise?
+----------------------------------------------
+
+There are several things you can try to stop a dishwasher from making noise before you call a professional.
+
+### Move the Dishwasher
+
+First, try moving the dishwasher away from the surrounding wall or cabinets in case the sounds are due to vibrations. In some cases, this can stop annoying buzzing or thumping sounds. You could also try fixing the dishwasher wall or cabinets to prevent it from vibrating so loudly, or pad it with acoustic pads and blankets.
+
+### Clean the Chopper Blade
+
+Try removing any debris stuck in the chopper blade if you hear a grinding sound. You can access the blade by taking the lower spray arm off. Inspect the blades and replace them if they're damaged. You can stop the problem from recurring by rinsing your plates and bowls thoroughly before putting them in the dishwasher and avoiding putting solid food items in the dishwasher.
+
+### Replace the Pump
+
+You may need to replace the pump and motor assemblies if you hear a buzzing or squealing sound. Substandard cleaning suggests that you need to replace the wash pump, while pooled water indicates a faulty drain pump. The dishwasher often won't work at all if you have a defective circulation pump.
+
+### Call a Pro
+
+Consider calling a professional technician to diagnose and fix the fault if none of the above tips work. A technician can also advise you about how to prevent the causes of dishwasher noise in the future. It may be more cost-effective to replace your dishwasher if it's very old or keeps breaking down.

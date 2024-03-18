@@ -1,0 +1,40 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Alertify Smart Home Monitor Honored with CES 2024 Innovation Award"
+headline: "CES 2024: Property-Monitoring Device Keeps Would-be Noisy, Smoking, Partying Rental Guests Honest"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2024-01-08
+basePath: https://library.homeserve.com/m/
+heroImage: 776076a8951b6db1/Blog-GettyImages-1503167694.jpg
+heroAltDescription: "photo illustration of a man getting a notification on his phone"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A new property-monitoring smart device, Alertify, hopes to help you keep things going smooth when you have guests in your home or rental unit."
+articleAbstract: "A new property-monitoring smart device called Alertify hopes to help you keep things going smooth when you have guests in your home or rental unit."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "CES 2024: Property-Monitoring Device Keeps Would-be Noisy, Smoking, Partying Rental Guests Honest"
+  parent: Appliances
+---
+  Trust, but Alertify. You hate to think people you allow to stay in your home or rental property on good faith can’t be trusted to follow the rules of the house — but have you _been_ to the movie theater lately … or on an airplane … or to the supermarket … or, um … _anywhere_? It’s rough out there, but a new property-monitoring smart device called Alertify hopes to help you keep things going smooth when you have guests in your home or rental unit, be they short-term rental guests via services like Airbnb, apartment tenants or just your unsupervised offspring staying behind while you’re out of town.
+
+**​​This Might Also Interest You:** [**How Much Does a Home Security System Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/home-security-system/)
+
+Alertify — selected as an honoree for an Innovation Award at CES 2024 in Las Vegas (formerly known as the Consumer Electronics Show) by organizing body the Consumer Technology Association for “remarkable accomplishments in consumer technology design and engineering” — is described as a plug-in home-monitoring device designed to help property owners prevent excessive decibel levels, smoking, or unauthorized gatherings or occupants.
+
+Via an Alertify app user’s digital dashboard, hosts can receive real-time violation notifications to their smartphone and email, live and historical data, and after-the-fact reports on common rental-property disturbances. Alertify says the downloadable reports can then be used as evidence to present to Airbnb or similar platforms, in resulting legal disputes and to justify withholding deposit money.
+
+“By detecting indoor smoking, noise disturbances, and occupancy breaches, Alertify empowers you to take proactive action,” a press CES press release states. “Real-time alerts enable swift intervention to prevent noise complaints or property damages.”
+
+**More Related Articles:**
+
+*   [How to Get Your Apartment Security Deposit Back](https://www.homeserve.com/en-us/blog/how-to/security-deposit-return/)
+*   [How to Install a Nest Doorbell](https://www.homeserve.com/en-us/blog/how-to/nest-doorbell-installation/)
+*   [How to Set Up a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/setup-ring-doorbell/)
+*   [How Much Does It Cost to Install a Ring Doorbell?](https://www.homeserve.com/en-us/blog/cost-guide/ring-doorbell-installation/)
+*   [Take a Ring Off It: How to Remove a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/remove-ring-doorbell/)
+
+The small, rectangular-shaped device with an outlet plug vaguely resembles, say, a baby monitor, is “100% privacy compliant,” according to the manufacturer, and boasts backup battery power, multiple available plug types and the ability to automatically update itself, and purportedly takes as little as 5 minutes for the initial setup. In addition to smoke detection, users can set thresholds for noise levels and maximum occupancy, as well as set time-of-day parameters if, for example, they wish to set “quiet hours.” Those main functions come in addition to the ability to set allowable temperature and humidity ranges, monitor air quality, and detect carbon monoxide and other gases.
+
+To learn more about Alertify — including pricing, when you can expect to see it on the U.S. market and where you can buy it — and a gang of other new products we’ll be checking out, follow along as HomeServe’s editorial team hits the exhibition floor live at CES 2024 in Las Vegas from Jan. 7-12. Check back for updated coverage of the show to see what new home innovations are coming down the pike.

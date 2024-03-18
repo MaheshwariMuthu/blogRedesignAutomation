@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Do I Find the Serial Number on My Android Phone?"
+headline: "How Do I Find the Serial Number on My Android Phone?"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-07-27
+basePath: https://library.homeserve.com/m/
+heroImage: 705008acacbdbbd9/Blog-20210712_211047.jpg
+heroAltDescription: "photo of a personal Samsung phone running an Android operating system"
+metaDescriptions: "Every Android smartphone has a unique serial number for identification purposes. Here's how to find yours."
+articleAbstract: "Every phone made by Samsung, Motorola, Nokia or any other Android smartphone manufacturer has a unique serial number assigned to it by the manufacturer for identification purposes. Here's how to find yours."
+category: ["How To"]
+eleventyNavigation:
+  key: "How Do I Find the Serial Number on My Android Phone?"
+  parent: Appliances-How-To
+---
+  __
+
+_ID, please_? If you want to send in your Android phone to be repaired, you’ll probably have to provide the manufacturer with your device’s serial number. Every phone made by Samsung, Motorola, Nokia or any other [Android smartphone](https://www.android.com/phones-tablets/) brand has a unique code assigned to it by the manufacturer for identification purposes. It’s the way to tell that, out of every other phone that looks just like yours, the one in your hand belongs to you.
+
+**This May Also Interest You:** [**How to Do a Home Inventory Before Disaster Strikes**](https://www.homeserve.com/en-us/blog/how-to/create-home-inventory/)
+
+For the most part, this number helps manufacturers keep track of their products, [Samsung explains](https://www.samsung.com/us/support/answer/ANS00048604/). If you send your device in to be serviced, you may be asked for the serial number because it can also be used to verify whether the warranty on your device is active. Moreover, the serial number helps ensure that your device isn't counterfeit and can also help you find it if it's lost or stolen.
+
+<img class="detail-image" src="https://library.homeserve.com/m/58f6d563c6ac2e63/Blog-SamsungAndroidSerial_211634.jpg" alt="photo of a personal Samsung phone running an Android operating system"/>
+-------------------------------------------
+
+3 Ways to Find Your Phone’s Serial Number
+-----------------------------------------
+
+Need to know your number? All Android phones are different, so here are three methods you can try, whether your phone is on or off:
+
+### 1\. On the Packaging
+
+If you purchased your phone new, it probably came in a box that has the serial number somewhere on it. If you kept your phone’s packaging, finding your serial number should be easy; usually, there’s a sticker on the back of the box. This is a useful method if you can’t turn your phone on.
+
+### 2\. On the Phone Itself
+
+According to [Best Buy](https://www.bestbuy.com/site/tech-tips/find-serial-number/pcmcat748301879830.c?id=pcmcat748301879830), many Android phones come with the serial number printed on the back of the device. Turn your phone over and check there. If your phone has a removable battery, the serial number may also be printed underneath it.
+
+<img class="detail-image" src="https://library.homeserve.com/m/456f113eb1a92743/Blog-20210712_211400.jpg" alt="photo of a personal Samsung phone running an Android operating system"/>
+
+### 3\. From Phone Settings
+
+* **Step 1:** Swipe down on your phone display from the home screen.
+* **Step 2:** Locate the cogwheel icon and tap it to go to “Settings.”
+* **Step 3:** Scroll down to “About phone” and click on it. On some phones, you may have to tap “System,” then find “About phone” in that menu.
+* **Step 4:** At this point, where you’ll find your serial number varies based on the kind of phone you have. On some phones, the serial number will be in this menu. In others, you may have to click “Status” and tap “Serial number” to pull it up.
+
+**More Related Articles:**
+
+*   [What’s a Free-to-Air Antenna and How Do You Set It Up?](https://www.homeserve.com/en-us/blog/home-improvement/free-to-air-antennas-explained/)
+*   [How to Mount a Flatscreen TV to a Wall](https://www.homeserve.com/en-us/blog/how-to/mount-flatscreen-tv/)
+*   [Wi-Fi Wars: Household Battling for Bandwidth? Everyone Wins With These Tips](https://www.homeserve.com/en-us/blog/home-improvement/improve-wifi-speed/)
+*   [Your Definitive Guide for the Best Smart Home Devices](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-devices/)
+*   [Amazon Echo Vs. Google Home: The Voice Command Speaker Battle Begins](https://www.homeserve.com/en-us/blog/buying-guide/amazon-echo-google-home-differences/)
+
+Should You Share Your Serial Number?
+------------------------------------
+
+Giving out your serial number when requesting a repair or replacement from the manufacturer, or to a trusted third party for a warranty-service claim, is generally safe. But you’ll want to avoid giving out this number willy-nilly, [Guiding Tech](https://www.guidingtech.com/66540/serial-number-privacy/) says. If, for example, you post your serial number on social media and someone gets ahold of it, they could commandeer your warranty and fraudulently order replacement parts or repairs under your policy. This isn’t a common occurrence, but the last thing you want is to file a warranty claim only to find out someone has already ordered a replacement phone under your name.
+
+What’s an IMEI or MEID?
+-----------------------
+
+If you buy a used Android phone, you may be asked about its IMEI number or MEID. IMEI stands for International Mobile Equipment Identity. [Verizon](https://www.verizon.com/articles/what-to-know-when-buying-a-used-phone/) explains that the 15-digit number is a bit different from your serial number in that an IMEI number is unique across all smartphones, while serial numbers are used by individual manufacturers. Before you purchase a used phone, you can check the IMEI number to find out if it has been stolen or locked. To find the IMEI number or MEID on your Android phone, you can generally follow the same steps listed above. Sometimes, the IMEI is printed on the outside of the phone. Other times, you may need to go into your settings to find it.

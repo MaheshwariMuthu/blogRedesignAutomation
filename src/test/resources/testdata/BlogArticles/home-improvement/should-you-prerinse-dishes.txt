@@ -1,0 +1,105 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Do I Need to Pre-Rinse My Dishes Before the Dishwasher?"
+headline: "The Filth Shall Get Them Clean: Why You Don't Need to Pre-Rinse Your Dishes"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-04-14
+basePath: https://library.homeserve.com/m/
+heroImage: 224c482cde4b448e/webimage-RinsingDishes_MSchmitz_0001.jpg
+heroAltDescription: "Rinsing dishes in a double sink"
+metaDescriptions: "Your dishwasher doesn't need your help! Here are three reasons why you can stop pre-rinsing your dishes."
+articleAbstract: "Pre-rinsing dishes may be standard practice in your household — but it's actually unnecessary. Modern dishwashers are designed to handle more than you'd think. Here are three reasons why you can stop pre-rinsing."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-310-1912
+stickyDisplayText: Call today for a local appliance technician.
+lightboxCopy: Local appliance pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/appliance_repair/hs/a_call_away
+  large:
+      image: /en-us/assets/images/blog/appliances_elocal_banner1.png
+      alt: Appliances eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/appliances_elocal_banner2.png
+      alt: Appliances eLocal Banner 2
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Do I Need to Pre-Rinse My Dishes Before the Dishwasher?"
+  parent: Appliances
+---
+  Rinsing your dishes before they go in the dishwasher might be a mindless task for you. You want the dishes to come out clean, so it’s best to make sure they’re most of the way there before they go in the machine, or so the logic goes. But doesn’t it seem a little counterintuitive to wash something just so you can, y’know … _wash_ it again?
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}  
+
+**This May Also Interest You:** [**Settle the Debate: How to Load a Dishwasher the Right Way**](https://www.homeserve.com/en-us/blog/how-to/load-dishwasher/)
+
+The most familiar argument for the pre-rinse is that your dishwasher isn’t powerful enough to remove stuck-on food. Another common refrain is that food particles will clog the dishwasher’s drain hose. So, what’s the verdict? Most experts agree that you don’t need to pre-rinse your plates, pots and cutlery before you stack them in the dishwasher. Pre-rinsing isn’t only unnecessary; it might actually be a detrimental practice.
+
+Why? Here are the top three reasons, plus a lot more than you ever wanted to know about dishwashers.
+
+Reason 1: Dirty Is Clean
+------------------------
+
+No, this isn’t a paradox. Thanks to some spiffy dishwasher technology, dirty dishes may actually end up cleaner after a round in a dishwasher than their pre-rinsed counterparts — if you have a modern dishwasher, that is. If your ancient dishwasher is still clinging on as those old appliances often do, you might want to continue pre-rinsing.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+According to Consumer Reports, most dishwashers made in the [past 10 years](https://www.consumerreports.org/dishwashers/dont-bother-pre-rinsing-your-dishes/) — and even older dishwashers that were higher-end models at the time — have a soil-sensing system. This consists of a soil collector and a pressure sensor. During the first rinse, the pressure sensor measures how much gunk is coming off your dishes, then adjusts the wash accordingly. According to [the patent](https://patents.google.com/patent/US6432216B1/en), this technology has been around since 2000. In addition to more intuitively cleaning your dishes, the system was also meant to increase energy efficiency.
+
+If the soil-sensing system detects dirty dishes with lots of stuck-on food particles, it ramps up its attack. Depending on the model of the dishwasher, the system may increase the water temperature, add time to the wash cycle, release more detergent or drain the soiled water more frequently.
+
+However, if you pre-wash your dishes, the soil-sensing system thinks they’re clean. It mounts no attack. In other words, your dishes will only receive a light wash — which may not be enough to get them squeaky clean.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+Reason 2: Detergent Is Clingy
+-----------------------------
+
+According to Cascade — the popular dishwashing detergent brand — its products contain enzymes designed to [break down stuck-on food](https://cascadeclean.com/en-us/how-to/lessons-on-loading/prewashing-dishes/). The enzymes grab onto food particles and dissolve them so they can be washed away. Many detergents are designed this way. Without something to latch onto, however, the enzymes are not able to clean as well.
+
+Reason 3: Pre-Rinsing Wastes Water
+----------------------------------
+
+Think about it: You spend 20 to 30 seconds trying to rinse some stuck-on ketchup off a plate, just to put that same plate in a machine with jets that will spray it with hot, high-pressure water and detergent. It’s a bit redundant. You’re also using twice as much water to achieve the same effect.
+
+According to Consumer Reports, you use about [2 to 6 gallons](https://www.consumerreports.org/dishwashers/dont-bother-pre-rinsing-your-dishes/) of water per minute rinsing dishes in the sink. It depends on how many dishes you rinse, but Cascade says pre-rinsing wastes up to [15 gallons of water](https://cascadeclean.com/en-us/how-to/lessons-on-loading/prewashing-dishes/) per load. Considering [Energy Star](https://www.energystar.gov/about?s=mega) reports that the average household does [215 loads of dishes](https://www.energystar.gov/ia/partners/product_specs/program_reqs/dishwash_prog_req.pdf) per year, you may be wasting 3,225 gallons of water every year thanks to your habit of pre-washing. That’s not friendly to the environment or your wallet.
+
+**More Related Articles:**
+
+*   [How to Clean a Dishwasher](https://www.homeserve.com/en-us/blog/how-to/clean-dishwasher/)
+*   [Common Dishwasher Problems and How to Fix Them](https://www.homeserve.com/en-us/blog/home-improvement/common-dishwasher-problems/)
+*   [Dishwasher Not Draining Properly?](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-not-draining/)
+*   [You Won’t Believe How Much Water Dishwashers Use](https://www.homeserve.com/en/blog/2019/april/dishwasher-water-use)
+*   [How to Install a Dishwasher Like a DIY Professional](https://www.homeserve.com/en-us/blog/how-to/install-dishwasher/)
+
+Learn the Art of the Scrape
+---------------------------
+
+When it comes to dishwashing, “scrape” has a drastically different definition than “rinse.” Obviously, you don’t want to put a half-eaten bowl of pasta in the dishwasher. The filter and drain typically aren’t designed to act like a garbage disposal. Consumer Reports advises that you continue to [scrape loose chunks of food](https://www.consumerreports.org/dishwashers/dont-bother-pre-rinsing-your-dishes/) off your dishes. The residue left behind? Leave it to the machine.
+
+When Should You Rinse?
+----------------------
+
+Some experts will tell you pre-rinsing is still the way to go. They may be right in some contexts. For one, rinsing your dishes before you put them in the dishwasher virtually guarantees you’ll never have a [clogged filter basket](https://www.homeserve.com/en-us/blog/how-to/unclog-dishwasher/). According to Bonney Plumbing, Heating and Air, you may eventually end up with a [backed-up drain hose](https://www.bonney.com/2018/05/preventing-dishwasher-clogs/) if you don’t rinse your dishes before loading them.
+
+If you don’t run your dishwasher often, soiled dishes may sit for a while, giving the food particles time to harden. It can be helpful to soften crusty deposits by soaking dishes in hot water before you put them in the dishwasher.
+
+The soil-sensing system isn’t a surefire line of defense, especially if your dishwasher isn’t working properly. If you pull your dishes out after the dry cycle and they’re still dirty, you may need to employ some preemptive rinsing.
+
+As we’ve discussed, older or cheaper models may require some assistance because they don’t have a soil-sensing system. If you’re unsure whether your dishwasher has one, your best bet would be to check the owner’s manual (either the paper booklet, which you _definitely_ didn’t lose or throw away, or a PDF version online) to see whether your model has a soil-sensing system.
+
+TLDR: Maintain a balance. Leave enough stuff on your dishes so that the dishwasher knows they’re dirty, but not enough to cause a clog.
+
+_Unexpected home repairs are an inconvenience, but they can be even more painful if they come with a hefty bill. With a plan from HomeServe, you can rest assured knowing that you can call our 24/7 repair hotline whenever a covered issue arises. See what plans are available where you live._<br><iframe width="412" height="281" src="https://www.youtube.com/embed/RA6_ur9QGLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Prevent Water Damage With Proper Drainage"
+headline: "Prevent Water Damage With Proper Drainage"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-11-09
+basePath: https://library.homeserve.com/m/
+heroImage: 3edb33acc95b1231/Blog-GettyImages-157672159.jpg
+heroAltDescription: "fall leaves in a gutter"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A significant portion of water damage to a home can be avoided by having proper drainage around the property."
+articleAbstract: "If water isn't properly drained away from your home, it can cause significant damage to your foundation and other areas. Here's how to keep that from happening."
+category: ["How To"]
+eleventyNavigation:
+  key: "Prevent Water Damage With Proper Drainage"
+  parent: Plumbing-How-To
+---
+  Water. It may be the stuff of life, but it can also be the stuff of strife when it finds its way into your home. According to real estate firm [RubyHome](https://www.rubyhome.com/blog/water-damage-stats/), about 98% of all basements will suffer water damage at one time or another, and the average cost to repair water damage to a home is over $11,000.
+
+**This May Also Interest You:** [**6 Plumbing Maintenance Tips for New Homeowners**](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-system-maintenance-tips/)
+
+Some of that damage comes from severe floods, and there's not much you can do to avert such disasters. But a significant portion of water damage to a home can be avoided by having proper drainage around the property.
+
+How Can Proper Water Drainage Prevent Water Damage?
+---------------------------------------------------
+
+If water doesn't drain away from your home properly, it will seep into the soil around your foundation and create what's known as hydrostatic pressure. Basically, the water presses against your foundation, which can cause cracks, which can lead to leaks, which creates a soggy basement and potentially hundreds of dollars in damage.
+
+Water can also swell minerals in the soil around your foundation, creating stress. When the minerals dry out, the pressure eases, but when they get wet again, they expand. This constant expansion and contraction can also lead to cracked foundations.
+
+Finally, if water isn't properly drained away from your home, it can erode the soil from underneath your foundation, causing it to settle and crack — sometimes significantly.
+
+Fortunately, all of these events can be thwarted by commonsense methods for keeping water flowing away from your home instead of allowing it to rest up against it.
+
+### Check Your Gutters
+
+Improperly functioning gutters can be a major source of water gathering around your foundation. Your gutters are meant to funnel water off your roof down a spout and away from the home. When they are clogged, broken or improperly situated, they fail in this function, potentially leading to serious water damage. In cold regions, clogged gutters can lead to ice dams that can funnel water through your roofline into the attic.
+
+That's why it's important to keep your gutters clean and in good working order. Debris, like leaves and sticks, should be removed at least twice a year and, if you don't fancy getting up on a ladder to do the job, you can install guards that keep the gutters free from bulky debris.
+
+The next time it rains, you'll also want to see how the water is working its way through your gutter system. If you see any areas where water is coming out of the gutters instead of flowing through them, find the source of the problem and fix it. It might mean patching a small hole, reconnecting sections that have come apart, or removing a clog.
+
+Finally, see where the water is going once it exits the gutters and hits the ground. If it's not flowing away from the home, you might need to grade the land to create a slope or channel where it can travel, or you might need to put [gutter extensions](https://www.amazon.com/WholesalePlumbing-Supply-Downspout-Extension-Connector/dp/B08J8H8FNK/ref=sxin_24?asc_contentid=amzn1.osa.a3d35454-908a-4c87-a19f-deba67dfc13f.ATVPDKIKX0DER.en_US&asc_contenttype=article&ascsubtag=amzn1.osa.a3d35454-908a-4c87-a19f-deba67dfc13f.ATVPDKIKX0DER.en_US&content-id=amzn1.sym.8511bc77-ce1a-47b1-8e5a-86ae5541acf5%3Aamzn1.sym.8511bc77-ce1a-47b1-8e5a-86ae5541acf5&creativeASIN=B08J8H8FNK&cv_ct_cx=gutter+extenders&cv_ct_id=amzn1.osa.a3d35454-908a-4c87-a19f-deba67dfc13f.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-pecos-desktop&gclid=CjwKCAjw7p6aBhBiEiwA83fGuiXmse-SVYVDbpfMyusN-OaXYRMVqevKQj6PUIxhDjai1z99GSQZnxoCBtQQAvD_BwE&hvadid=581163270423&hvdev=c&hvlocphy=9010328&hvnetw=g&hvqmt=e&hvrand=12462879549207913962&hvtargid=kwd-6326732368&hydadcr=15252_9588512&keywords=gutter+extenders&linkCode=oas&pd_rd_i=B08J8H8FNK&pd_rd_r=a138b28a-cffe-4f02-8802-3085de8cad19&pd_rd_w=lP2ht&pd_rd_wg=3VBVe&pf_rd_p=8511bc77-ce1a-47b1-8e5a-86ae5541acf5&pf_rd_r=ZJF7PDBCYSCV9ENQJG5E&qid=1665671175&qu=eyJxc2MiOiI1LjM5IiwicXNhIjoiNC44MSIsInFzcCI6IjQuNTgifQ%3D%3D&s=home-garden&sr=1-1-c136b38f-96aa-48c0-85b0-7bbac30a3993&tag=gearpublish-20) on the ends of the downspouts. These corrugated tubes basically extend the lower part of your gutter so that you can have the water exit where it needs to.
+
+**More Related Articles:**
+
+*   [9 Times When You Should Call a Plumber](https://www.homeserve.com/en-us/blog/home-improvement/professional-plumber-repairs/)
+*   [Pipe Burst? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+*   [3 Reasons Your Toilet Is Running — and how to Fix It](https://www.homeserve.com/en-us/blog/how-to/fix-running-toilet/)
+*   [Here’s How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+*   [9 Common Plumbing Myths — Busted](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-system-myths/)
+
+Grading and Draining
+--------------------
+
+Speaking of grading, if you find that water pools around the base of your home despite having properly working gutters, it might be time to grade the land. Sometimes, if a part of your property slopes toward your home, all the gutters in the world won't be enough to keep water away from your foundation. Experts recommend that all land around your home slopes away from the foundation with a drop of 6 inches in the first 10 feet, then another 2 to 3 inches for each additional 10-foot stretch. You can attempt to grade the land yourself by simply digging up the lawn, but if there is a lot of ground to cover, you might want to call in a professional landscaping company.
+
+Another way to deal with ground that doesn't naturally funnel water away from the home is to put in French drains. These are basically trenches dug close to your foundation, filled with a perforated pipe wrapped in water-permeable material and then covered up with gravel and topsoil. The idea is that the water will flow into the pipe, which is installed on a slope away from your home. The pipe will then carry water away from the foundation. Installing a French drain yourself can be accomplished with a lot of sweat equity, or you can hire a landscaping company to do the job for you.
+
+Sump Pump
+---------
+
+Finally, if you have a basement that gets wet despite your best efforts, it's wise to install a sump pump. This is a device that turns on automatically when it detects water and pumps the water safely out of the basement and away from your home.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/I_p4dkZ3TpU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Window Wells | How to Clean and Maintain a Basement Window Well"></iframe>

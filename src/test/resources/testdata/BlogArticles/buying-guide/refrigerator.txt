@@ -1,0 +1,54 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to choose your Refrigerator
+headline: What Refrigerator should I buy for my Kitchen?
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment']
+publishDate: 2019-04-12
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: Fridge.jpg
+heroAltDescription: Couple Buying Fridge
+metaDescriptions: Home to all of your groceries, your refrigerator is an important kitchen appliance.
+articleAbstract: Is it time to invest in a new refrigerator? This list will help you decide what features and which model is best for your home and your budget.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: How to choose your Refrigerator
+  parent: Appliances-Buying-Guide
+---
+
+::::: blog-info
+Home to all of your groceries, your refrigerator is an important kitchen appliance. When it stops cooling efficiently, you risk spoiled foods and wasted energy. Follow these steps when it's time to invest in a new refrigerator:
+
+## Determine size and capacity
+
+Start by measuring your current refrigerator to determine the size that fits your kitchen. You'll also want to take note of how much room your kitchen allows for doors to open and close easily. Consider the capacity, which depends on how many people live in your home and how much food you plan to store. About 19 to 22 cubic feet is the average for a family of four. If you have little ones at home, check out these [kid-friendly refrigerator options](https://www.consumerreports.org/refrigerators/kid-friendly-refrigerators-that-please-parents/){target="_blank"} _Consumer Reports_ highlighted.
+
+## Consider your style preferences
+
+There are plenty of options for fridge style, including top or bottom freezer, as well as French and side-by-side doors. Next, choose a finish, such as stainless steel or matte black. The size and design of your kitchen may make these style decisions for you. Otherwise, it's up to your personal preference.
+
+## Check out the features
+
+Consider these [five features](http://www.consumerreports.org/cro/refrigerators/buying-guide/index.htm){target="_blank"} when purchasing a new fridge:
+
+:::: list-disc
+* Ice and water dispenser
+* Door-in-door storage access
+* Freshness elements, such as dual evaporators and air purifiers
+* Temperature controls
+* Adjustable shelves and drawers
+
+You may also want to look for features like smudge-proof stainless steel, speed chilling and smart refrigerators with touchscreen controls.
+::::
+
+## Keep energy efficiency in mind
+
+Always check out the EnergyGuide label to understand the refrigerator's ranking in efficiency and energy consumption compared to other models. ENERGY STAR units are about [9 percent more efficient than traditional models](/en-us/blog/home-improvement/refrigerator-efficiency-tips){target="_blank"}{target="_blank"}, saving you money and reducing your carbon footprint. Even with an energy-saving unit, you can use these [easy DIY hacks](/en-us/blog/home-improvement/refrigerator-efficiency-tips){target="_blank"}{target="_blank"} to increase the efficiency of your refrigerator.
+
+## Weigh the pros and cons
+
+If you've narrowed your options down but are still struggling to decide, compare the benefits and drawbacks of each unit. Plus, reach out to others for advice. Ask family, coworkers, and friends about their refrigerator buying experience, especially if they cook and consume food similarly to you. Head online to check out consumer reviews for the models you're deciding between. Investing in new appliances is a smart way for homeowners to keep their spaces updated and to help avoid immediate issues from wear and tear.
+
+[With a plan from TotalHome Warranty by HomeServe](/en-us/home-warranty/combo/){target="_blank"} you can be prepared for covered costs associated with emergency appliance or home system repairs. See what plans are available in your area.
+:::::

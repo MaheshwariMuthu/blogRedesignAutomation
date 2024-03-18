@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "5 Types of Water Heaters"
+headline: "The 5 Types of Water Heaters"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-02-10
+basePath: https://library.homeserve.com/m/
+heroImage: 7c053226be45c72e/webimage-All-5-types-of-water-heaters.png
+heroAltDescription: "Infographic depicting five types of water heaters"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "There are more than just a few water heater options to choose from. Here are five of the most common styles."
+articleAbstract: "If it’s time to replace your water heater, there are more than just a few options to choose from. Here are five of the most common styles."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "X Types of Water Heaters"
+  parent: Plumbing-Buying-Guide
+---
+  
+
+When it comes to essential household appliances, a water heater is surely up at the top of the list. And yet, most homeowners take them for granted ... until they suddenly get a glimpse of what life would be like without them. Try to imagine that nice relaxing shower at the end of the day — and you're stuck with cold water. The thought alone is likely enough to immediately send you to your basement or garage to see what sort of shape your water heater is in.
+
+**This May Also Interest You:** [**How Much Does It Cost to Replace a Water Heater?**](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-replacement-cost/)
+
+If you decide it’s time to replace your hot water heater, you may not have realized that there are more than just a few options to choose from. While this can feel overwhelming, it can be a great time to reexamine your household’s needs and pick a more efficient style for your home.
+
+Here are five of the most common styles.
+
+<img class="detail-image" src="https://library.homeserve.com/m/306053b96ef5f73b/webimage-tanked-water-heater.png" alt="illustration of a tanked water heater on a blue background"/>
+
+Conventional Tank Water Heater
+------------------------------
+
+Conventional water heaters are by far the most common type of water heater on the market. These water heaters are composed of an insulated tank typically holding anywhere from 20 to 80 gallons of water, which is heated by natural gas or electricity. When you turn on the hot water in, say, the kitchen, bathroom or any other fixture, the water is delivered via a pipe that comes out of the top of the tank. Once the water has been used, the tank is then filled back up with cold water and heated up to a level set by the homeowner. While conventional tank water heaters are reliable and long-lasting, one of their main drawbacks is that once the hot water in the tank has been used, you’ll be left with only cold water until the tank can heat more.
+
+<img class="detail-image" src="https://library.homeserve.com/m/4ac9c3c3506b2ba2/webimage-tankless-water-heater.png" alt="Illustration of a tankless water heater on a green backround"/>
+
+Tankless Water Heater
+---------------------
+
+As the name implies, a tankless water heater heats water without a tank. In lieu of a tank, super-heated coils fill with water and transfer that heat to water when needed. Whereas a conventional tank water heater has the tendency to run out of hot water after prolonged use, a tankless heater will continue to supply hot water as long as you need it. Still, tankless water heaters come in various sizes, so it’s important to find the right size for your household. One that’s too small won’t be able to keep up with your water usage, resulting in lukewarm or even cold water. Furthermore, larger tankless water heaters work best when powered by natural gas, as those powered by electricity might significantly increase the electrical usage of your home, resulting in costly energy bills.
+
+**More Related Articles:**
+
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)
+*   [How to Install a Tankless Electric Water Heater: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-tankless-electric-water-heater/)
+*   [How Much Does It Cost For a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/706ba652a774de81/webimage-solar-water-heater.png" alt="illustration of a solar water heater on a white background"/>
+-------------------------------------------
+
+Solar Water Heater
+------------------
+
+Powered by roof-mounted solar panels, solar-powered water heaters are perhaps the most energy-efficient style of water heater. Once the panels are charged, the energy is directed to a closed-loop system composed of a heat-conductive material that heats the water in the tank. As you can imagine, this type of water heater works best in areas with sunny, warm climates. That said, even in this best-case scenario, the heater requires a backup source of energy in order to run effectively when the weather is cloudy.
+
+<img class="detail-image" src="https://library.homeserve.com/m/76b720aa62f6bb08/webimage-condensing-water-heater.png" alt="illustration of of yellow condensing water heater"/>
+
+Condensing Water Heater
+-----------------------
+
+While similar in appearance to conventional tank water heaters, condensing water heaters use the heat generated from the exhaust of a natural gas system to heat the water. The gas fumes transfer heat through a coil located at the bottom of the tank. If your home uses natural gas as its primary energy source, using a condensing water heater might be an ideal water heating solution; because the system uses the exhaust from your home’s natural gas, very little additional energy is used.
+
+<img class="detail-image" src="https://library.homeserve.com/m/7e0576b809fe7e76/webimage-Hybrid-water-heater.png" alt="illustration of a hybrid water heater on a white background"/>
+
+Heat Pump or Hybrid Water Heater
+--------------------------------
+
+Another type of water heater that can help save money on power bills is the heat pump water heater. Sometimes referred to as hybrid water heaters, this type of heater uses heat in the air and on the ground to warm the water; electricity is only used to transfer the heat to the water. Generally speaking, heat pump water heaters use up to 60% less electricity than conventional water heaters, but are typically larger and require more air space around the water heater. They’ll also need to be installed in a room with excess heat — like a furnace room — to maximize their efficiency. Similarly, these water heaters won’t work well in too cold a space.
+
+Save Energy … And Money
+-----------------------
+
+Replacing an old, inefficient water heater with a more efficient one can go a long way toward limiting the overall energy consumption of your home. And with that can come significant power bill savings. However, keep in mind that if you are changing to a different fuel source, you may need to add a breaker or run a gas line. Make sure to add this to your cost analysis, and contact your power company for information on fuel rates or costs.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

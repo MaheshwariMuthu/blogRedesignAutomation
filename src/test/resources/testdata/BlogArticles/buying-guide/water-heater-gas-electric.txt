@@ -1,0 +1,55 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Is My Water Heater Gas or Electric?"
+headline: "The Age-Old Question: Is My Water Heater Gas or Electric?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-08-04
+basePath: https://library.homeserve.com/m/
+heroImage: f3c1c326de99bad/Blog-HomeServeUSA-THW-PhotoShoot-2019ModernFotographicbyDaveNoonan-23of247.jpg
+heroAltDescription: "technician with water heater"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Understanding how your water heater is powered is important. Here's how to figure it all out."
+articleAbstract: "Understanding how your water heater is powered can help you monitor your home's energy usage and troubleshoot issues. Here's how to figure it all out."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "The Age-Old Question: Is My Water Heater Gas or Electric?"
+  parent: Plumbing-Buying-Guide
+---
+  In terms of the Big Questions that keep many of us awake at night, whether your water heater is powered by gas or electricity is pretty low on the list. Still, as a homeowner, it's important information to know.
+
+**This May Also Interest You:** [**Why Does My Water Heater Smell Like Rotten Eggs?**](https://www.homeserve.com/en-us/blog/home-improvement/water-heater-smell/)
+
+Understanding how your water heater is powered can help you monitor your home's energy usage and know the steps to take if you have issues with your water supply. Here's how to figure it all out.
+
+Look For Clues
+--------------
+
+In most cases, it is easy enough to determine the style of water heater you have simply by looking at the unit.
+
+If it is powered by gas, you will likely see a pipe of some sort entering the bottom of the tank. The pipe is typically black, although it may also be copper. We're not talking about the water line, which enters the top of the tank, usually through a PVC pipe. Gas pipes enter the bottom of the tank and carry fuel into the system that is used to warm the water. If the pipe is black, it usually has a 1/2-inch diameter. If it is copper, it'll be a bit smaller, with a 1/4-inch diameter. If your water heater was installed relatively recently, the pipe may also be made from corrugated yellow metal.
+
+Another exterior clue to the type of power behind your water heater is to see if there is a vent at the top of the water heater. It may be a hole topped by a metal flue, or they’re sometimes made from PVC. This vent allows exhaust from the gas-powered motor to escape the system and be directed outside.
+
+If you don't see the telltale pipe or vent on your water heater, chances are pretty good that it's electric. Another way to confirm this is to look for a power cord coming into the top of the heater. This would look like a thick cord, like you'd find on a heavy-duty appliance.
+
+**More Related Articles:**
+
+*   [What’s the Deal With Self-Cleaning Water Heaters?](https://www.homeserve.com/en-us/blog/home-improvement/self-cleaning-water-heater/)
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [Don’t Forget to Flush! A 6-Step Guide for Flushing Your Gas or Electric Water Heater](https://www.homeserve.com/en-us/blog/how-to/flush-water-heater/)
+*   [How to Turn Off Your Water Heater — and When It May Come Up](https://www.homeserve.com/en-us/blog/how-to/turn-off-water-heater/)
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+
+Further Confirmation
+--------------------
+
+If you want even more information about how your water heater is powered, look for the access panel on the side of the unit. Remove it. It should slide right off, or it might be held in place with a few small screws. Once the panel is removed, check to see if you spot a bluish flame. This is your unit's pilot light. It definitively confirms that you have a gas water heater.
+
+Demanding Units
+---------------
+
+Although far less common, there is a chance that your home might have a tankless (on-demand) hot water system. These units heat the water that passes through them, and they tend to be more efficient than large tank-based water heaters. That's because they don't waste energy keeping a large volume of water constantly warm and only kick into action when hot water is called for at a tap.
+
+All tankless water heaters need electricity to operate correctly. Some only need electricity to do their job, while others will combine electrical input — to operate such things as the ignition — along with gas to heat the hot water. If your tankless unit has a pilot light or an exhaust pipe at the top, then you'll know it is using gas to heat the water. If it doesn't, it’s fully electric.

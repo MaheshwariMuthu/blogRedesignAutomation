@@ -1,0 +1,63 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean a Thermostat"
+headline: "Did You Know You Need to Clean Your Thermostat? Here's How"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-14
+basePath: https://library.homeserve.com/m/
+heroImage: 135fa56595abf4d6/Blog-clean-thermostat.jpg
+heroAltDescription: "A gloved hand removes the white plastic cover from a household thermostat to reveal the electronic components inside"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If your HVAC system doesn't come on or turn off at the times you expect it to, a dirty thermostat might be to blame. Here's how to clean yours."
+articleAbstract: "If you've found yourself wondering why your HVAC system doesn't seem to come on or turn off at the times you expect it to, a dirty thermostat might be to blame. Here's how to clean your thermostat."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clean a Thermostat"
+  parent: HVAC-How-To
+---
+  If you've found yourself wondering why your HVAC system doesn't seem to come on or turn off at the times you expect it to, a dirty thermostat might be to blame.
+
+**This May Also Interest You:** [**How to Replace the Battery on a Honeywell Thermostat**](https://www.homeserve.com/en-us/blog/how-to/replace-battery-honeywell-thermostat/)
+
+Dust or dirt building up in a thermostat can impair its calibration, reducing the accuracy of the thermostat by several degrees Fahrenheit in some cases. Having a clean thermostat is an important part of maintaining your heating and air conditioning systems and saving you money on your energy bills.
+
+Why Do You Need a Clean Thermostat?
+-----------------------------------
+
+A clean thermostat will detect temperatures more effectively. This means your heating and cooling systems will come on only when they need to. Over the long term, this can save you a lot of money on your energy bills. In addition, cleaning your thermostat regularly will keep it working properly, saving you from needing to replace the thermostat earlier than would otherwise be necessary.
+
+How to Clean a Thermostat
+-------------------------
+
+To clean a thermostat, you first need to remove the thermostat cover. Most covers simply slide or pop off. Some thermostat models may have screws to keep the cover in place. Consult the manufacturer's manual if you're not sure whether you need to remove screws to access the inside of the thermostat.
+
+Next, use a soft brush to clean the area between the contact points. Run a piece of paper between the contacts to dislodge any debris that is caught deep in any crevices. You can also clean difficult-to-reach areas by using compressed air to blow away debris.
+
+In cases where there's a lot of dirt, grime or corrosion on the contacts, use a small amount of rubbing alcohol to clean them. Take care not to touch other parts of the system.
+
+While cleaning the thermostat, perform a visual inspection, looking for any loose or corroded wires. If you see any issues like that, do not attempt to fix them yourself. Call a qualified electrician to perform that job.
+
+The suggestions above apply to standard mechanical or electromechanical thermostats. If you have a smart thermostat such as a [Google Nest](https://www.homeserve.com/en-us/blog/buying-guide/google-nest-thermostat/), you shouldn’t need to do anything more than an occasional dusting to keep it clean.
+
+**More Related Articles:**
+
+*   [What Is a Google Nest Learning Thermostat and What’s It Do?](https://www.homeserve.com/en-us/blog/buying-guide/google-nest-thermostat/)
+*   [How to Install a Google Nest Learning Thermostat](https://www.homeserve.com/en-us/blog/how-to/nest-thermostat-installation/)
+*   [How Much Does It Cost to Install a Google Nest Learning Thermostat?](https://www.homeserve.com/en-us/blog/how-to/nest-thermostat-installation/)
+*   [Heat Check: The 5 Best Smart Thermostats for Your Home](https://www.homeserve.com/en-us/blog/cost-guide/best-smart-thermostats/)
+*   [How Much Do Thermostats Cost to Replace or Install?](https://www.homeserve.com/en-us/blog/cost-guide/thermostat-replacement/)
+
+How Often Should You Clean a Thermostat?
+----------------------------------------
+
+If you dust your thermostat as a part of your regular cleaning routine, you can reasonably expect it to last for around 10 years. Check your thermostat once or twice a year to make sure that the contact points are clean.
+
+If you are still having issues even after cleaning the thermostat, check that the battery is fully charged. Most batteries last for several years, but sometimes they can lose charge. Depending on the type of HVAC system you have, this could cause the thermostat to intermittently lose connection to the rest of the system.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

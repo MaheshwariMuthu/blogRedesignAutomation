@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Are Window Air Conditioners Noisy?"
+headline: "Are Window Air Conditioners Noisy?"
+author: Selina Kyle
+tags: ["post"]
+publishDate: 2023-06-21
+basePath: https://library.homeserve.com/m/
+heroImage: 14e57bff4f03111e/Blog-GettyImages-185001395.jpg
+heroAltDescription: "windows unit Air Conditioner in window from the outside"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Many issues can cause window unit noise. We'll help you narrow down what's wrong with yours."
+articleAbstract: "While you expect your window unit to make a steady hum, persistent rattles, clanks or screeches are annoying. Many issues can cause window unit noise."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Are Window Air Conditioners Noisy?"
+  parent: HVAC-Home-Improvement
+---
+  The cool air _whoosh_ing out of your window unit is a welcome relief during scorching summer days, but persistent noise from a malfunctioning or inefficient unit can be quite maddening.
+
+**This May Also Interest You:** [**How to Insulate Wall or Window AC Units for Winter**](https://www.homeserve.com/en-us/blog/how-to/ac-unit-insulation/)
+
+While you expect your window unit to make a steady hum, persistent rattles are annoying and unexpected screeches or sudden clanks can startle you while awake or jolt you out of a sound sleep. Many issues can cause window unit noise.
+
+Are Window Air Conditioners Noisy?
+----------------------------------
+
+All window air conditioners produce some noise, but some units may generate more noise than others. Some window AC units may get noisier over time, but others may be noisy right out of the box. If you notice your window unit has subtly increased volume over time, it may be due to age or maintenance requirements.
+
+However, if the unit started out noisy, it may have been installed incorrectly. The additional noise in a new unit may also be due to size, as the bigger the unit, the more noise it will make. Ultimately, some window air conditioners may be noisier than others, but it’s possible to find or optimize an AC unit to create the ideal balance between cooling efficiency and minimal noise pollution.
+
+How Many Decibels Is a Running AC Unit?
+---------------------------------------
+
+The decibels or noise level of a running AC unit varies based on the model of the air conditioner you install. Other impacting factors include the air conditioner’s age, size and overall condition. The average decibel range of window air conditioners is usually between 50 and 60, with the noise level increasing at higher settings.
+
+However, some units run as low as 25 on the lowest setting and others as high as 82 on the highest setting if operating normally without other factors intensifying the noise level. Modern air conditioners are engineered to operate quietly and reduce window unit noise.
+
+### What Types of Window Units Tend to Be Noisier?
+
+* **Older Units**: As window units age, components, including compressors and fan motors, wear out. Worn-out parts impact the overall condition of the unit and can produce more noise during operation. Even units just 10 years old may make more noise than a newer model.
+* **Larger Units**: The bigger the unit, the more noise it naturally makes. Larger window AC units typically have more powerful motors and fans. The increased airflow and power requirements can generate higher levels of noise.
+* **Low-Quality Units**: Some lower-quality window air conditioners may have less efficient design features. These types of units may not include adequate insulation or vibration dampening, which can result in more noise.
+* **Non-Inverter AC Units:** Inverter air conditioners are quieter because they don’t kick on and off like non-inverter units. An inverter window AC unit adjusts the compressor’s motor speed to regulate the temperature, while a non-inverter unit has a fixed-speed compressor that turns on and off. The variable speed motor in inverter air conditioners is also more emergency efficient, helping you save money on electricity bills.
+
+**More Related Articles:**
+
+*   [What Happens If You Leave Your Window AC Unit in All Winter?](https://www.homeserve.com/en-us/blog/home-improvement/window-ac-unit-during-winter/)
+*   [Keep Your Cool With Our Top 5 Picks for Window AC Units](https://www.homeserve.com/en-us/blog/buying-guide/best-apartment-window-air-conditioners/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [Hot or Cold in Your Household? Split the Difference With a Mini Split Air Conditioner](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/)
+*   [No AC? No Sweat. Here’s How to Keep Cool](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+
+What Causes Increased Window Unit Noise?
+----------------------------------------
+
+Some units may start out relatively quiet but become noisier as time passes. Two primary causes of persistent or loud noises include maintenance and installation issues.
+
+### Poorly Maintained Units
+
+Poor maintenance practices, such as infrequent cleaning, lubrication or tightening of loose parts, can contribute to heightened noise levels over time.
+
+* **Built-up dirt** on your compressor from infrequent cleaning can make the compressor work harder, increasing the noise. It can also make the compressor fail sooner, so it’s beneficial to keep it clean for longevity as well as noise issues. Debris inside the unit can also lead to noise as the fan blades hit foreign objects.
+* **Loose parts**, such as screws or fan blades, can increase vibration, leading to a rattling noise. Other internal parts that come loose may cause noise and eventually cause your unit to malfunction.
+* **Bent coil fins** reduce the unit’s efficiency and can cause it to emit an annoying humming noise.
+* **Fan motors** not kept lubricated can cause them to make humming or grinding noises, and they may eventually fail.
+* **Bent fan blades** can touch the inside of the unit, damaging the unit and producing screeching or clunking noises.
+
+### Improperly Installed Units
+
+Window units placed right up against the window frame can lead to sounds above normal operation, such as rattling due to excessive vibration. Window AC units should be installed with foam insulation strips to dampen the noise caused by vibration. The extra insulation from these strips also helps keep the cold air in and the hot air out, increasing the unit’s efficiency and potentially decreasing electricity bills.
+
+What Features Should I Look for If I Want a Quieter Model?
+----------------------------------------------------------
+
+Advances in technology have led to the creation of quieter window air conditioners. Manufacturers often prioritize noise reduction, incorporating features to minimize window unit noise during operation. When buying window air conditioning units, look for these key features if you want a quieter model:
+
+*   Decibel ratings at or below a range of 50 to 60 or a unit described as whisper quiet
+*   Insulated compressors that reduce the noise generated by the unit’s most significant source of sound
+*   Advanced fan blade designs that help minimize noise production while optimizing airflow
+*   Vibration-dampening features or materials that help reduce the noise caused by mechanical vibrations
+*   Multiple fan speeds, as lower fan speeds typically generate less noise
+*   Sleep or quiet mode designed to operate at reduced noise levels while sleeping
+*   Energy efficiency models with improved insulation and better-designed components to help reduce energy use and potentially contribute to quieter operation
+
+By looking at the factors that impact noise output, you can correct issues and potentially increase the amount of sound your window AC unit makes during operation. You can also consider the features designed to reduce noise without compromising cooling efficiency. To help in your decision, compare various models, read user feedback and seek professional opinions to find the best fit for your cooling needs and preferred noise level.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

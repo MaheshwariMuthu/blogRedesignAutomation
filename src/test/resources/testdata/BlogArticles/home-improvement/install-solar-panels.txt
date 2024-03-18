@@ -1,0 +1,57 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "When's the Best Time to Install Solar Panels?"
+headline: "When's the Best Time to Install Solar Panels?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-02
+basePath: https://library.homeserve.com/m/
+heroImage: 417d09626bc6466d/Blog-GettyImages-1341564669.jpg
+heroAltDescription: "Workers Placing Solar Panels On A Roof"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "It might seem like summer offers the perfect time to install solar panels, but here's an insider secret."
+articleAbstract: "With bright sunny days that last well past dinnertime, it might seem like summer offers the perfect time to install solar panels. But here's an insider secret."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "When's the Best Time to Install Solar Panels?"
+  parent: Exterior-Home-Home-Improvement
+---
+  With its bright sunny days that last well past dinnertime, it might seem like the summer months offer the perfect time to install solar panels on your rooftop. In fact, you might be surprised to learn that the opposite is true.
+
+**This May Also Interest You:** [**How to Prepare for Solar Panel Installation**](https://www.homeserve.com/en-us/blog/how-to/solar-panel-preparation/)
+
+Putting up solar panels in the winter has a few distinct advantages over tackling the project in the summer months. Here are a few of them.
+
+Cost
+----
+
+One of the reasons you might be considering adding solar panels to your home is to save money on your utility bills. In fact, [by some estimates](https://www.inspirecleanenergy.com/blog/sustainable-living/do-solar-panels-save-money), the average household can reduce its electric bill by approximately $1,400 (CAD 1,800) per year by going solar. Of course, against any savings, you also need to take into account the cost of the solar system itself and the installation fees. In the winter months, you can do well on both.
+
+Because most people install their panels in the warmer months, chances are good that you'll find a local installer who will cut you a break on getting the panels up on your roof when business isn't booming. You also won't be put in a long line and told that the soonest the installer can get to you is months in the future. You'll likely get serviced pretty quickly by choosing to execute the project in the off-season.
+
+Functionality
+-------------
+
+One quirk to the photovoltaic panels that are mounted on your roof as part of a solar system is that, while they do indeed harvest energy from the sun, they actually perform better when they are cold. They are also able to function just fine with shorter days and weaker winter sunshine, so there really is no need to wait until the long, bright days of summer to take advantage of the technology.
+
+Plus, U.S. residents tend to use more electricity in the summer months to keep their homes cool, so if you install your solar system in the winter, you'll also be set to start taking advantage of lower utility bills once the weather heats up.
+
+**More Related Articles:**
+
+*   [What’s It Like to Go Solar? 5 Things They Don’t Tell You in the Brochure](https://www.homeserve.com/en-us/blog/home-improvement/solar-panels/)
+*   [How Much Does It Cost to Install Solar Panels?](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+*   [What Are Solar Shingles … and Do They Work?](https://www.homeserve.com/en-us/blog/home-improvement/solar-shingles/)
+*   [How Much Do Solar Shingles Cost?](https://www.homeserve.com/en-us/blog/cost-guide/solar-shingles/)
+*   [Thinking About a Solar Water Heater? Here Are the Pros and Cons](https://www.homeserve.com/en-us/blog/home-improvement/solar-water-heater/)
+
+Things to Consider Before Installing Your System
+------------------------------------------------
+
+While winter installation of solar panels makes sense, you'll also be more subject to the weather affecting your project. If you live in an area that gets harsh winters and rooftops that get covered in snow and ice, your installer might have to delay the project for safety reasons. That being said, the entire installation can usually be completed in about one to three days, so even a small window of precipitation-free weather can work in your favor.
+
+Speaking of snow, if you get a lot of the fluffy stuff, you need to know that it can affect the energy output of your panels. When the solar cells are blocked by snow, they simply can't do their job of converting light to energy. Still, because solar panels are slick, dark and installed at an angle, they shed snow pretty easily. If they don't, there are [ways of keeping them clear](https://www.homeserve.com/en-us/blog/how-to/snow-solar-panels/).
+
+Similarly, if you live in an area that has heavy tree coverage or simply doesn't get a lot of sunshine, solar panels might not be right for you at all. There are multiple calculators on the internet that can help you figure out if your home is a good candidate for the technology, as well as how much money it could save you, such as [this one from EnergySage](https://www.energysage.com/solar/calculator/).
+
+Finally, installing solar panels can sometimes involve extensive paperwork, so it pays to be up-to-speed on your local ordinances involving the use of solar power. Chances are good that your installer would be able to tell you everything you need to know — and they may even file the paperwork for you — but it can't hurt to do your own research. It's also smart to look into any kind of rebates or tax breaks you might be eligible for by going solar.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/reJaChMAC_w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

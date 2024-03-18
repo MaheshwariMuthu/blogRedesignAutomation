@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install a Whole-House Fan?"
+headline: "How Much Does It Cost to Install a Whole-House Fan?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-06-29
+basePath: https://library.homeserve.com/m/
+heroImage: 6d01a347a4709d31/webimage-WholeHouseFanBaffels_erossi_5267.png
+heroAltDescription: "a worm s eye view of a residential whole house exhaust fan."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Installing a whole-house fan might be a way to cut down on your AC use and save on your monthly utility bill."
+articleAbstract: "Installing a whole-house fan might be a way to cut down on your AC use and save on your monthly utility bill. A closer analysis of the options can help you decide what works best for you."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install a Whole-House Fan?"
+  parent: HVAC-Cost-Guide
+---
+  It's summertime, it's hot and you’re running your air conditioner 24/7. But soon enough, the electric bill comes, and it’s a lot higher than usual. You get shocked and start thinking of ways you can lower the bill. But the heat is just too much, so you can’t turn off the AC … Or can you?
+
+**This May Also Interest You:** [**Got Gable Vents? Here’s What You Need to Know About Your Attic’s Airflow?**](https://www.homeserve.com/en-us/blog/home-improvement/gable-vent/)
+
+Installing a whole-house fan might be a way to cut down on your AC use and save on your monthly utility bill. In addition, the cost of installing a whole-house fan is appealing compared to the cost of installing air conditioning. A closer analysis of the options can help you decide what works best for you.
+
+How Much Does It Cost to Install a Whole-House Fan?
+---------------------------------------------------
+
+According to [Costimates](https://www.costimates.com/costs/attics-crawl-spaces/whole-house-fans/), it costs $600 to $1,200 (CAD 797 to CAD 1,594), on average, for professional installation of a whole-house fan, including wall switches and ductwork if needed. Prices vary depending on whether the fan you are installing is a direct or indirect mount, the size of the fan unit and whether or not permits and inspections are required in your area.
+
+The fan unit itself ranges in price from [$195 to $385](https://www.costimates.com/costs/attics-crawl-spaces/whole-house-fans/) (CAD 259 to CAD 511). If you decide to install it as a direct mount — the most common type of installation — overall costs will be lower because the fan mounts to your ceiling, does not require ductwork and is easier to install. Once installed, the fan sucks the air within the house and exhausts it through the attic vents or soffits.
+
+An indirect mount is more expensive because the fan is mounted to your roof with ductwork connected from the fan to your ceiling. Installing ductwork means more labor and parts, which is why the cost is higher. However, indirect mounts are quieter than direct mounts because the fan is installed in the roof of the house and farther away from the living area.
+
+Many people call a whole-house fan an attic fan because the fan is installed in the attic. While this is true, a whole-house fan should not be confused with an attic vent fan, which is used to suck hot air out of the attic instead of the living area. While both fans are installed in the attic, they perform different functions. A whole-house fan cools the house, but an attic fan cools the attic.
+
+Do Whole-House Fans Really Work?
+--------------------------------
+
+A whole-house fan draws fresh outdoor air into your house through the open windows by exhausting the existing air inside your house through the fan. If it's a direct mount, the fan is installed in the house ceiling and blows the air out through the attic vents or soffits. For an indirect mount, the air flows through a vent mounted in the house ceiling, through the ductwork and then out through the fan.
+
+If the air outside your house is cooler than the air inside your house, the fan will work, and your house will be cooler. However, if the air outside your house is hotter, you will be making your house hotter by turning it on.
+
+The area where you live and its climate are factors in a whole-house fan's effectiveness. If you live in a climate that has mild, dry nights and lower humidity, you should consider installing one. With this type of climate, your whole-house fan will be circulating cool, dry air throughout your house.
+
+However, if your climate includes high temperatures and high humidity, air conditioning may work better for you. In this type of climate, the whole-house fan will simply circulate warm, humid air throughout your house, resulting in an uncomfortable night's sleep. If you live in a climate like this, you could use a combination of a whole-house fan for cool, dry nights and an air conditioner for those hot, humid nights.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install a Ceiling Fan?](https://www.homeserve.com/en-us/blog/cost-guide/ceiling-fan-installation/)
+*   [How to Wire a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/wire-ceiling-fan/)
+*   [What’s the Span of Your Fan? Here’s How to Measure for a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/measure-ceiling-fan/)
+*   [How to Clean a Fan](https://www.homeserve.com/en-us/blog/how-to/clean-fan/)
+*   [How to Remove a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/remove-ceiling-fan/)
+
+Is a Whole-House Fan Cheaper Than AC?
+-------------------------------------
+
+Installing a whole-house fan is cheaper than installing air conditioning. Installing central air conditioning in your home averages between $3,882 and $7,905 (CAD 5,156 and CAD 10,500), according to [Bankrate](https://www.bankrate.com/loans/home-improvement/how-much-to-install-central-air/).
+
+Factors that affect pricing include the air conditioning unit you choose, the size of your house and the ductwork that needs to be installed. If you are purchasing a top-of-the-line air conditioning unit or if your home needs complicated ductwork installed, the price could easily rise well above the average.
+
+Whole-house fans are also cheaper in monthly electric bill costs because a whole-house fan uses far less power than an air conditioning unit. In fact, [Costimates](https://www.costimates.com/costs/attics-crawl-spaces/whole-house-fans/) says running a whole-house fan costs 90% less than running a central air conditioning unit. If you add that up over the course of a summer, it could lead to substantial savings.
+
+Still, you don't need to run out and purchase a whole-house fan only because of the savings. You need to take into account all of the factors, including the cost, your area’s climate and your personal comfort level, to make a well-informed decision.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/8mzG-IJupUA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Ceiling Fan Direction | Summer vs. Winter"></iframe>

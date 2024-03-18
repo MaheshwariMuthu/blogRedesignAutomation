@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Superfluous Tools You Can Do Without"
+headline: "4 Superfluous Tools You Can Do Without"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-11-18
+basePath: https://library.homeserve.com/m/
+heroImage: 36f87eb4923f131/Blog-GettyImages-483657749.jpg
+heroAltDescription: "red metal toolbox sits against a white background with its lid open with its overstuffed tools sticking out of the top. A large"
+metaDescriptions: "Sometimes tools are simply too complicated for their own good — or yours. These four are included in that category."
+articleAbstract: "Sometimes tools are simply too complicated for their own good – or yours. On your next DIY project, save your money on these four tools."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Don't Waste Your Money on These Tools"
+  parent: Interior-Home-Buying-Guide
+---
+  We’ve all been there — scouring the far reaches of the internet in search of that special tool for the weekend project that’s going to save you time, energy and money. And the internet is full of worthy contenders — like a magnetic [wristband for holding screws](https://www.amazon.com/HORUSDY-Magnetic-Wristband-Drilling-Christmas/dp/B076D61668/ref=sr_1_27?dchild=1&keywords=weird+tools&qid=1632219539&sr=8-27), [garden gloves with claws for digging](https://www.amazon.com/NNBB-Fingertips-Digging-Gardening-Gardeners/dp/B0727VG6SX/ref=sr_1_37?dchild=1&keywords=weird+tools&qid=1632219539&sr=8-37) or a [twelve-tool multi-hammer.](https://www.amazon.com/RAK-Hammer-Multi-Tool-Multi-Functional-Boyfriend/dp/B085BWMT89/ref=sr_1_7?dchild=1&keywords=crazy+tools&qid=1632219661&sr=8-7) The problem is that, more often than not, these odd tools end up either not working, costing too much money or making our projects more complicated than they need to be. Truth is, we could all stand to simplify our lives from time to time.
+
+**This May Also Interest You:** [**Splash Course how to Use a Power Washer**](https://www.homeserve.com/en-us/blog/how-to/use-power-washer/)
+
+The next time you’re on the hunt for that new tool that will make your DIY dreams come true, you may want to save your money on these.
+
+1\. Bionic Wrench
+-----------------
+
+Despite having one of the coolest sounding names for a tool, [LoggerHead Tools’ Bionic Wrench](https://www.amazon.com/Loggerhead-Tools-BW6-01R-01-Adjustable-6-Inch/dp/B000JPN2QK/ref=cm_cr_arp_d_product_top?ie=UTF8) is likely to be one of the least-used tools in your toolbelt. Marketed as a one-size-fits-all solution to any bolt or nut that needs tightening, the Bionic Wrench actually looks pretty nifty, too. It has spring-loaded handles that, when squeezed, send six steel jaws sliding toward the head of the nut or bolt. It’s like an adjustable wrench alternative combined with a pair of pliers.
+
+The problem is, the Bionic Wrench’s innovative design can work against it in many situations. In theory, the steel jaws will grab onto any nut or bolt; however, the gripper itself is often too bulky to fit into snug spaces, making the tool useful in only certain scenarios. Furthermore, the steel jaws don’t lock into place, which makes the wrench prone to slipping.
+
+Ultimately, a plain old socket wrench or an adjustable wrench will suffice in just about every scenario. It's a cool idea, but not necessarily a practical one.
+
+2\. Auto-Hammer
+---------------
+
+If you’re regularly swinging a hammer around, you know how it goes: the bruised fingers, the sore wrists and arms. It happens to the best of us. Hammers can be [downright dangerous](https://www.forconstructionpros.com/business/construction-safety/article/10604944/construction-hammer-safety) and difficult to wield. That’s why the powered automatic hammer seems like such a Godsend. It’s designed to be able to drive nails in tight, cramped spaces that you can’t get to with a normal hammer. You can also just use it to hammer nails in any circumstance where you need to drive a nail. Sounds great, right?
+
+Unfortunately, these weird power tools are mostly a gimmick. If you’re a pro looking for a tool to make life on the job easier, this probably isn't it. According to [Pro Tool Reviews](https://www.protoolreviews.com/), two auto-hammers made by leading brands fail to fully drive framing-sized fasteners into timbers. Even if you’re a home DIYer looking to save some time and energy, the auto-hammer is an excessively loud gadget that takes longer to drive nails — and is far more expensive — than an old-fashioned hammer.
+
+3\. Magnetic Stud Finder
+------------------------
+
+It’s a familiar predicament. You’re trying to mount the TV on your wall, and locating that blasted stud is like solving the [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis). That’s what’s so intriguing about the magnetic stud finder. They’re small, cheap and work by sensing metal nails or screws in the stud. In theory, you find the nails holding the drywall, then you find the stud. At under $8, its deceptively simple capabilities are almost impossible to resist.
+
+But only if it were _actually_ as useful as it seems_._ Magnetic stud finders can generally only sense a nail if it is directly on top of it. Considering that drywall fasteners are spaced 12 to 16 inches apart, you’ll be dragging this gizmo all over your wall before you find one.
+
+Truth is, if you find yourself having to locate studs as part of a larger remodel, you should invest in an electronic stud finder that is far easier and quicker to operate than a magnetic one. Either that or you might as well master the [knock method.](https://www.youtube.com/watch?v=XALXlx5cc1s)
+
+**More Related Articles:**
+
+*   [What Is Screwdriver ‘Cam Out’ and How Can I Avoid It?](https://www.homeserve.com/en-us/blog/home-improvement/screwdriver-cam-out-explained/)
+*   [What Are the Different Types of Screwdrivers and Their Uses?](https://www.homeserve.com/en-us/blog/home-improvement/types-of-screwdrivers/)
+*   [Where Can You Rent Tools? And How Much Does It Cost?](https://www.homeserve.com/en-us/blog/cost-guide/rent-tools/)
+*   [Trash Cash: Here’s How Much It Costs to Rent a Renovation Dumpster](https://www.homeserve.com/en-us/blog/cost-guide/dumpster-rental/)
+*   [Here’s How Much Common Home Repairs Cost — and How to Budget for Them](https://www.homeserve.com/en-us/blog/cost-guide/home-repair-costs/)
+
+4\. Smart Paint Roller
+----------------------
+
+It’s a fact: There’s not a single task in all of the home DIY renovation projects more tedious than painting walls. From applying tape and cutting in, to the monotonous rolling of paint onto the wall, it all just takes so much precious time to do it correctly. Enter the [Wagner Smart Paint Roller](https://www.amazon.com/Wagner-0530003-Roller-Handle-Capacity/dp/B00C1TAZTE). It’s out to save you time on your next paint project. By holding paint in a refillable tube that’s attached to the pad, this roller eliminates the use of a roller tray. Just pull the trigger, and voilà — paint is fed directly to the paint roller. What’s that? No more annoying trays? No more bending over? If it sounds too good to be true, then it probably is.
+
+For starters, this tool feels substantially heavier than your standard paint roller. Keep in mind that the refillable paint tube holds 22 ounces of paint. Sure, that doesn’t sound like a lot, but after using this roller for any extended period of time, the fact that you’re carrying your paint around with you becomes very apparent.
+
+Also, it doesn’t ultimately save you much time. While the paint dispenses from the roller itself, which eliminates the use of the tray, you still have to fill the tube up. Depending on the project, you might find yourself having to fill the tube up several times, which can be a pretty time-consuming process.
+
+Finally, smart paint rollers just isn’t practical for many situations. The paint tube is filled using a plunger. When the tube is fully loaded with paint, the plunger is extended, making the tool too long to use in a hallway or other tight space. This might not be a problem in larger, open rooms, but it’s too cumbersome in more confined situations.
+
+Back to Basics
+--------------
+
+When it comes to tools, oftentimes, it’s the simple, tried-and-true ones that are the best for the job. Sure, we’re all looking for little ways to save time and energy, but turns out those old, dusty tools Grandpa passed down to you are usually the best way to go for the majority of house projects. So, next time you’re tempted to splurge on that nifty mini [circular saw](https://www.amazon.com/Circular-TECCPO-Compact-Suitable-Aluminum/dp/B07PFHM83H/ref=cm_cr_arp_d_product_top?ie=UTF8), take a step back and remember Grandpa.

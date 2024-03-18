@@ -1,0 +1,47 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Furnace Vs. Heat Pump"
+headline: "What's the Difference Between a Furnace and a Heat Pump?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-20
+basePath: https://library.homeserve.com/m/
+heroImage: 4235fe93915e97b1/Blog-ThinkstockPhotos-86517326_water_heater_CMYK.jpg
+heroAltDescription: "water heater"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Both heat pumps and furnaces keep your house warm — but what’s the difference between these two systems?"
+articleAbstract: "We rely on our HVAC systems to keep us warm in the winter. Both heat pumps and furnaces are up to the job — but what’s the difference between these two systems?"
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's the Difference Between a Furnace and a Heat Pump?"
+  parent: HVAC-Home-Improvement
+---
+  
+
+We rely on our HVAC systems to keep us warm in the winter. Both heat pumps and furnaces are up to the job — but what’s the difference between these two systems?
+
+Understanding the advantages and drawbacks of both heating methods can help you choose the best option for your home and climate.
+
+What Is a Furnace?
+------------------
+
+A furnace is a component of an HVAC system that generates heat inside a sealed unit. Many modern domestic furnaces run on gas, electricity or a combination of both, but some use alternative energy sources like oil. Combustion creates hot air that passes through vents into your living space, and a separate vent allows cold air to pass into the furnace to be heated.
+
+What Is a Heat Pump?
+--------------------
+
+A heat pump transfers heat from outside to inside your home during colder weather. Heat pumps contain compressed refrigerant, a type of gas that absorbs heat and transfers it to a heat exchanger to warm your home. As the heat transfers to the heat exchanger, the refrigerant cools down, allowing it to absorb more heat.
+
+Heat pumps can also reverse this process in cooling mode, transferring heat from inside your home to the outside and cooling your living space down. Therefore, a heat pump could be an excellent alternative to a regular air conditioner in mild climates.
+
+There are several types of heat pumps. The most common is an air-source heat pump that transfers heat from the air outside your home. A ground-source heat pump absorbs heat from the earth, and a water-source heat pump draws heat from a body of water.
+
+<img class="detail-image" src="https://library.homeserve.com/m/671d4bd546f56faf/Blog-GettyImages-1315698141.jpg" alt="Energy efficient heat pump with a sun flare"/>
+
+What's the Difference Between a Furnace and a Heat Pump?
+--------------------------------------------------------
+
+The primary difference between a furnace and a heat pump is that a furnace acts as a heat source. Heat pumps don't generate heat. Instead, they transfer heat from one place to another. Another key difference is that many heat pumps can also cool your home down, performing the same jobs as a heater and air conditioner in one unit.
+
+Heat pumps run on electricity and are often more energy-efficient than furnaces, especially if you don't have a natural gas supply. However, a heat pump may not heat your home as effectively as a furnace if you live in a colder climate.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,59 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Do You Do If Your Sump Pump Alarm Goes Off?"
+headline: "What Do You Do If Your Sump Pump Alarm Goes Off?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-09-11
+basePath: https://library.homeserve.com/m/
+heroImage: 6db644924a28f806/Blog-SumpAlarm_EROSSI.jpg
+heroAltDescription: "The protector battery backup and sump pump alarm"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Sump pump alarm going off? Here's what it might mean and how to know when — and if — it's time to call in a professional."
+articleAbstract: "Sump pump alarm going off? Here's what it might mean and how to know when — and if — it's time to call in a professional."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "What Do You Do If Your Sump Pump Alarm Goes Off?"
+  parent: Plumbing-Buying-Guide
+---
+  There’s no denying it: A sump pump is an essential basement appliance. Installed at the lowest point in your basement or crawlspace, sump pumps prevent flooding and other water accumulation by detecting higher-than-normal water levels. When the water level reaches a certain point, the pump’s float switches are activated, and water pumps into a discharge pipe that moves water away from your home’s foundation.
+
+**This May Also Interest You:** [**Learn a Little Sump’n Sump’n About Sump Pumps**](https://www.homeserve.com/en-us/blog/home-improvement/sump-pumps/)
+
+As a rule, sump pumps are quiet, reliable machines; you don’t even know they’re there most of the time. That is, until the sump pump alarm goes off. When that happens, it can take you by surprise. After all, the sump pump’s beeping needs to be loud enough to hear throughout the home. But, it can be helpful to know what the alarm means and what to do in the event that it does go off.
+
+So, Why Is the Alarm Going Off?
+-------------------------------
+
+When your sump alarm failure alert goes off, it typically means that water has reached the top of the pump, therefore being too high for the pump to work effectively. This might occur if your basement is experiencing heavy flooding and your pump is in over its head (literally!). In a normal scenario, the pump alarm sounds when the water in the sump pit rises to about 5 to 6 inches (12 to 15 centimeters) below the top of the pit. Because of this, it’s important to act quickly when you hear the alarm. It could mean that you’re on your way to a basement flood, and, if you know anything about the potentially costly effects of water damage on your home, you’ll want to work to get the water out of the basement as quickly as possible.
+
+Other Causes
+------------
+
+When a sump alarm goes off, it means that water has reached a certain point in the sump pit. However, it doesn’t always mean that you’ve got a basement flood on your hands; there are other reasons why water might be too high.
+
+### The Sump Pump Is Clogged
+
+As you can imagine, things can get pretty messy in a basement sump pit. Sometimes, dirt, mud and other debris can collect in the pipe, and a clog can form. A clog can prevent your pump from working properly and will cause the failure alarm to sound. To prevent this, have your pump cleaned regularly by a professional.
+
+**More Related Articles:**
+
+*   [6 Steps to Winterize Your Sump Pump](https://www.homeserve.com/en-us/blog/how-to/winterize-sump-pump/)
+*   [Why Does My Sump Pump Run in the Winter?](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-running-winter/)
+*   [What’s the Difference Between a Sump Pump and an Ejector Pump?](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-ejector-pump/)
+*   [Protect Your Home Against Flooding With This Sump Pump Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-maintenance/)
+*   [How Much Does It Cost to Install or Replace a Sump Pump?](https://www.homeserve.com/en-us/blog/cost-guide/sump-pump-installation/)
+
+### The Sump Pump Is Overworked
+
+Sump pumps aren’t designed to run continuously. A pump that’s constantly running will eventually burn out and fail — and a failing pump won’t be able to keep the water levels low enough in the sump, triggering the sump pump water alarm. If your pump is running constantly, you’ll want it to get inspected by a professional as soon as possible. There’s a possibility that you may need an additional pump in your basement to keep the water levels under control.
+
+### The Sump Pump Isn’t Receiving Power
+
+Another reason why pump alarms might sound is when a power outage has occurred. The pump will sound the alarm to alert you that it’s not functioning. Under normal circumstances, when power is restored, the pump should start working again to remove the water in your basement, and the alarm will go off. However, during extended power outages, you may want to resort to other options to remove the water in your basement. To avoid power failures, install a backup power source, like a sump pump battery, to keep things working even when the power goes out.
+
+Don’t Be Alarmed
+----------------
+
+It can be _alarming_ to hear your sump pump beeping, but understanding what it means and learning how to address the situation can help ensure that the pump is functioning properly to prevent excess water buildup under your home. As a rule, your sump pump should only run when it needs to. If you’re hearing your pump working constantly or your alarm sounds regularly, you should call a technician to examine your pump as soon as possible.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Water Line Repair and Replacement | What You Can Expect to Pay"></iframe>

@@ -1,0 +1,73 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is the Internet of Things?"
+headline: "What's the Internet of Things?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-03-12
+basePath: https://library.homeserve.com/m/
+heroImage: 595d1d28bef3601a/Blog-GettyImages-1181155132.jpg
+heroAltDescription: "smart home operating system concept of future."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "You're likely using the IoT already, even if you don't know how it works. This primer will get you up to speed."
+articleAbstract: "You're likely using the IoT already, even if you may not be aware of its finer details. This primer will get you up to speed on all you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's the Internet of Things?"
+  parent: Appliances
+---
+  These days, it seems as if all aspects of our lives are in some way connected to the internet. In the past decade, in particular, we’ve seen an influx of innovations that promise to make our lives easier, more efficient, and safer. We use smartwatches to calculate steps, keep track of our pets via microchipping, ask Alexa to add carrots to our grocery list and request that Siri play our favorite song. We can even adjust our thermostats and fridge temperatures from our phones and see who’s at our front door through smart doorbell systems.
+
+**This May Also Interest You:** [**7 Ways Your Kitchen Will Evolve in the Next 10 Years**](https://www.homeserve.com/en-us/blog/home-improvement/advancements-kitchen-technology/)
+
+All of these modern technological conveniences belong to a family of systems called — rather unimaginatively — the Internet of Things.
+
+What does IoT mean exactly? We can define IoT as simply a collection of objects, all of which use sensors or some type of software to collect and share data via the internet. In addition to the IoT sensors, the Internet of Things also includes the applications those sensors are synced to, along with networks and the cloud. There are already more than ten billion active devices connected in this manner, but these numbers are expected to [double or even triple](https://dataprot.net/statistics/iot-statistics/) within the decade, reaching around 30 billion by 2030.
+
+How Does IoT Work?
+------------------
+
+In a nutshell, information is collected in the IoT via the sensors embedded in your smart devices and controlled by various IoT applications. This data is then shared through your network and uploaded to the cloud. Once in the cloud, software programs may use the information to take some type of action, like adjusting the device to a different setting or sending an alert. This allows for unprecedented levels of customization by the user — particularly once the smart device has had time to learn your usage trends and can then adjust its actions through automation and machine learning.
+
+What Are IoT Devices?
+---------------------
+
+Examples of IoT devices include systems that connect to the internet and transfer data in real time. All smart devices — watches, home security systems, locks, cars and more — are part of the Internet of Things.
+
+You likely rely on and interact with many of these items throughout the day, like your smartphone or fitness and sleep tracker. Other examples of “Things” within the IoT are the many devices that can be used throughout your home, like smart lights, doorbells, fridges and air pollution monitors. There are even smart coffee makers that allow you to schedule brew times so you get that morning cup of joe going before you even get out of bed.
+
+If this all sounds like a wild and futuristic new frontier to you, don’t worry. It is a lot to process. The beauty of personal smart devices is that you can use the ones that appeal to you and essentially ignore the ones that don’t. For some folks, the level of connectedness and automation offered by smart devices is downright dreamy.
+
+But not everyone feels the need to have their window blinds set to auto-open at 7 a.m. sharp. And that’s OK. So maybe you look into what options might enhance your life and leave the rest to your tech-savvier friends.
+
+That said, as the options for smart devices become more prevalent in all aspects of our lives, it is important to understand how they work on a larger scale and what we stand to gain from using them.
+
+What Are the Benefits of the Internet of Things?
+------------------------------------------------
+
+In addition to the myriad examples of how IoT systems and devices have impacted our personal lives, there are the many ways the IoT is being used to enhance healthcare, business and education.
+
+With regard to healthcare, remote patient monitoring, telehealth consultations and COVID-19 contract tracing through mobile devices are all examples of how the Internet of Things has helped shape patient care.
+
+Businesses also rely on industrial IoT solutions to help automate production, assist with e-commerce, manage supply chains and connect with customers. The IoT network also allows for work-from-home options for many businesses without sacrificing company connectivity or efficiency.
+
+And with education, IoT technology enables more collaborative types of distance learning and lets teachers track student progress in real-time.
+
+What Are the Pitfalls of IoT Technology?
+----------------------------------------
+
+We now have smartphones, smartwatches and smart homes. But this increased reliance on internet-connected devices is not without its concerns. Where does all this data go, exactly? And perhaps more importantly, is your personal information safe out there? With billions of devices currently at work, processing mind-boggling amounts of data every minute, it is only natural to wonder what risks there may be to using this technology.
+
+The primary concerns with IoT surround data collecting, and how to ensure that this shared information is stored safely without the threat of a privacy breach. IoT devices have protections in place against hackers, but these safeguards are not always foolproof. Another worry is that the data users share to make these devices “smarter” is being shared with other applications more than we realize. And there is some truth to this. A [recent study](https://arxiv.org/abs/2105.05162) from Imperial College London and Northeastern University revealed that over a dozen IoT devices collected more information than was necessary to process a user request. And in some instances, this “extra” information is sent to other companies for marketing purposes.
+
+How to Keep Your Data Safe While Using IoT Devices
+--------------------------------------------------
+
+The good news is that there are steps you can take to address these concerns. Setting up your smart home system on a guest network instead of your main home network will help your IoT devices run separately from the network that you use to access personal information like your bank account and email, which will help keep your info safe.
+
+It can also be useful to take advantage of all the safeguards available on your smartphone, like your screen lock passcode. Since your phone is often the portal to all sorts of applications containing sensitive information, keeping that password-protected is essential. You also want to make sure your router and computer have other security features in place, like firewalls, anti-virus software and password protection.
+
+Finally, if you’re worried about how devices share your info, take some time to read the informed consent fine print when you’re setting up your device. Know that, in some instances, applications give you the option to opt out of tracking and sharing. While these measures won’t guarantee that your information is 100% safe, they certainly offer an added layer of protection and can give you some peace of mind.
+
+There’s no doubt about it: The Internet of Things has become an integral part of modern life and will continue to change the game for years to come. Just ask Alexa.

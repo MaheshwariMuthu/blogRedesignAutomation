@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Your Hairdryer Trips the Breaker"
+headline: "Wrong Kind of Blowout? Why Your Hairdryer Trips the Circuit Breaker"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-20
+basePath: https://library.homeserve.com/m/
+heroImage: 7582d4d3327f91f1/Blog-HairDryer_MSchmitz_0001.jpg
+heroAltDescription: "man holding red hair dryer in bathroom"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Hairdryer making too many demands on your electrical system? Here's what causes blowouts."
+articleAbstract: "Hairdryer making too many demands on your electrical system? Read on to learn what causes it to stop working and what to do when it does. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Wrong Kind of Blowout? Why Your Hairdryer Trips the Circuit Breaker"
+  parent: Electrical-Home-Improvement
+---
+  A good hair day can certainly boost your confidence, whether you’re attending a wedding, hoping to nail an interview or simply dropping your kids off at school. And for many people, good hair depends, at least in part, on their trusty hair dryer. But what happens when your hair dryer fails you in your hour of need by tripping the circuit breaker?
+
+**This May Also Interest You:** [**Why U Trippin’? 3 Reasons Your Circuit Breaker Trips**](https://www.homeserve.com/en-us/blog/home-improvement/circuit-breaker-tripping/)
+
+There’s nothing fun about a hairdryer that keeps quitting on you and causing a power outage in your bathroom. But, luckily, addressing the issue probably won’t require you to rewire your entire home.
+
+Why Does the Hairdryer Keep Tripping the Circuit Breaker?
+---------------------------------------------------------
+
+### Overloaded Circuit
+
+An overloaded circuit is one of the most common reasons that a hairdryer will trip a circuit breaker. A circuit overload means that there are too many high-powered devices running on the same circuit and using 15 to 20 amps of electricity, like window air conditioning units, TVs or washers and dryers. Put simply, an overloaded circuit means that you’re using more electricity than your circuit is made for.
+
+Electrical circuits are designed to handle only a certain amount of electricity, and when too many devices are plugged in, it will cause the breaker to shut off to prevent overheating. To fix this, turn off other appliances that are running on the same circuit to decrease the load, then turn the breaker back on.
+
+If your hairdryer keeps blowing a fuse and the breaker continues to trip, you may need to relocate some appliances to another circuit. And, if your house was built before the 1970s, you may want to check with an electrician to see how many amp currents your home is equipped with to see if it’s in need of updating.
+
+### Short Circuit
+
+Another common cause of a tripped breaker is a short circuit. Short circuits occur when one wire touches another wire inside the outlet. This can be caused by faulty or loose wiring inside your outlets and can actually be quite dangerous. If you notice a burning smell or any discoloration on the outlet, you should immediately contact a licensed technician to fix the issue.
+
+**More Related Articles:**
+
+*   [6 Tools You Need for DIY Electrical Projects](https://www.homeserve.com/en-us/blog/home-improvement/electrical-tools/)
+*   [How Your Home’s Electrical System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-electrical-system/)
+*   [What’s a Whole-House Surge Protector?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-surge-protector/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+
+### Ground Fault
+
+Ground faults are similar to short circuits, but occur when the electrical current takes an unplanned path to the ground. In other words, ground faults happen when the hot wire touches the bare wires in the electrical outlet box. When this happens, the electrical current increases dramatically and causes the breaker to trip. Like short circuits, ground faults can be extremely dangerous.
+
+Most homes will have ground-fault circuit interrupter (GFCI) outlets in areas most likely to be exposed to water, for example, near toilets, vanities and above kitchen counters. GFCI outlets sometimes need to be reset using the button on the face of the outlet. Even if you aren’t using a GFCI outlet with your hairdryer, all hairdryers manufactured after 1991 come equipped with their own built-in GFCI box at the end of the cord that will shut off if it senses an electrical hazard.
+
+In both cases, pressing the reset button should get you back on track.
+
+### Old or Bad Device
+
+If the issue is not with the circuit or the outlet, there’s a good chance that your hairdryer needs to be replaced. While how long a hairdryer is expected to run varies from one model to the next, you can expect a hairdryer to last for about 800 hours on average, or about 3 to 5 years, depending on the frequency of use. So, if your dryer has been with you longer than a presidential election cycle, you should probably count yourself lucky that it has lasted this long and start searching for a replacement.
+
+Blowing in the Wind
+-------------------
+
+If your hair dryer keeps tripping the breaker, the good news is that you can usually suss out the issue using the suggestions above. If, after troubleshooting, your dryer still won’t turn on, it’s likely time to buy a new one. Luckily, hairdryers are a fairly affordable replacement as far as small appliances go, and you should be back to blow-drying your hair in no time.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------
+|ArticleName				|Title	|Author	|Date	|Image	|
+--------------------------------------------------------------------------
+|space-heaters-pros-cons			|Pass	|Pass	|Pass	|Pass	|
+|south-carolina-water-heater-costs	|Pass	|Pass	|Pass	|Pass	|
+|south-dakota-water-heater-costs	|Pass	|Pass	|Pass	|Pass	|
+|soundproof-room			|Pass	|Pass	|Pass	|Pass	|
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|ArticleName				|Heading		|Paragraph		|Link			|List			|Image			|Video			|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|space-heaters-pros-cons			|Pass: 5 Fail: 0	|Pass: 16 Fail: 0	|Pass: 6 Fail: 0	|Pass: 1 Fail: 0	|Pass: 2 Fail: 1	|Pass: 1 Fail: 0	|
+|south-carolina-water-heater-costs	|Pass: 3 Fail: 0	|Pass: 10 Fail: 0	|Pass: 6 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|south-dakota-water-heater-costs	|Pass: 3 Fail: 0	|Pass: 10 Fail: 0	|Pass: 6 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|soundproof-room		

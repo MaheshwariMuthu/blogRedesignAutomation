@@ -1,0 +1,116 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Drain Water Heater"
+headline: "Your Guide to Draining a Water Heater"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-06-07
+basePath: https://library.homeserve.com/m/
+heroImage: 5f39a83ee2398165/Blog-DrainWaterHeater_Erossi_22.jpg
+heroAltDescription: "A homeowner uses a screwdriver to open the drain valve on a residential water heater "
+metaDescriptions: "Over time, natural minerals can settle to the bottom of your water heater tank and reduce its efficiency. Here's how to drain your water heater."
+articleAbstract: "Over time, natural minerals can settle to the bottom of your water heater tank and reduce its efficiency, shorten its life and potentially lead to clogs. Here's how drain your water heater — a task you should perform at least once a year."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 844-887-9342
+stickyDisplayText: Call today for a local HVAC contractor.
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/hvac/hs/expert
+  large:
+      image: /en-us/assets/images/blog/hvac_elocal_banner1.jpg
+      alt: HVAC eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/hvac_elocal_banner2.jpg
+      alt: HVAC eLocal Banner 2
+category: ["How To"]
+
+eleventyNavigation:
+  key: "How to Drain Water Heater"
+  parent: HVAC-How-To
+---
+  
+
+**Draining a Water Heater at a Glance**
+
+* **Step 1:** Disconnect water and water heater
+* **Step 2:** Run hose to drain area
+* **Step 3:** Check pressure relief valve
+* **Step 4:** Open hot water faucets
+* **Step 5:** Open drain valve
+* **Step 6:** Flush tank
+* **Step 7:** Refill tank and turn water heater on
+
+The humble water heater is something of an unsung hero in your home. It works around the clock, out of sight, ensuring that you can take long, hot showers or clean your dinner plates in warm, sudsy water. All it asks in return for this loyal service? The occasional cleanout.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**How Do I Turn My Water Heater On?**](https://www.homeserve.com/en-us/blog/how-to/turn-on-water-heater/)
+
+Fortunately, it's a job you can do yourself with just a few tools. However, because your water heater is (obviously) full of hot water, it's important to be careful as you undertake this task. Here's how to drain your water heater safely and efficiently.
+
+Know When to Drain the Tank
+---------------------------
+
+Over time, natural minerals in your home's water supply can settle out in the bottom of your water heater tank. That sediment can reduce the heater's efficiency, shorten its life and potentially lead to clogs, so keeping it flushed is smart. Experts recommend that you wash out the sediment approximately once per year. Part of deciding when to do it will depend on how hard your water is and whether you’re connected to a city water supply where sand and grit might work their way in. Draining once per year makes sense, and if you find that there isn't too much sediment when you do the job, you could decrease the maintenance to every other year, or even once every three years.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+How to Drain a Water Heater
+---------------------------
+
+### Step 1: Turn Off Your Heater and Water Connection
+
+The first step in this project is to make sure your water heater is off. If you have a gas water heater, you can do this by turning the knob to "pilot." If you have an electric heater, you'll need to find the circuit breaker that controls it and flip it off. Usually, there’s a dedicated breaker for the water heater. You'll also want to turn off the cold water that leads into the tank by turning the knob at the top of the tank counterclockwise.
+
+Once the water heater is turned off, you'll want to wait a few hours for the water inside to cool down before proceeding.
+
+### Step 2: Run the Drain Line to a Good Draining Location
+
+Next, you’ll need to give the water inside the tank a path to exit. If your water heater is raised or in a location on a higher floor in your home, this can be as simple as running a hose line from the heater to a safe draining location outdoors. If the water heater is below grade, like in a basement, you have two choices. You can either get a pump and attach the hose line to pump the water up and out, or you can use a bucket. If you do use a bucket, waiting for the water to cool down before you begin is even more important as you might get splashed during the process.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+### Step 3: Check Your Pressure Relief Valve
+
+While not a "must-do" part of the process, checking your pressure relief valve when flushing your water heater is always a good idea. It will help release pressure in the tank so that a vacuum doesn't form. To do so, simply flip the latch on the valve, which is found on the cold water line that feeds the tank. If you hear a hiss and see some water spurting out — it's a good idea to do this with a bucket or rag nearby, by the way — then you know that the valve is in good working order. If not, then you'll want to call a plumber to have the valve inspected and possibly replaced.
+
+### Step 4: Open the Hot Water Faucets in Your Home
+
+To relieve even more pressure in the tank and help it empty, turn on all the hot water faucets in your home. Alternatively, you could just open the hot water tap closest to the tank.
+
+**More Related Articles:**
+
+*   [How to Relight Your Water Heater's Pilot Light](https://www.homeserve.com/en-us/blog/how-to/light-water-heater-pilot-light/)
+*   [Don’t Forget to Flush! A 6-Step Guide for Flushing Your Gas or Electric Water Heater](https://www.homeserve.com/en-us/blog/how-to/flush-water-heater/)
+*   [What Is a Smart Water Heater?](https://www.homeserve.com/en-us/blog/home-improvement/smart-water-heater/)
+*   [Here’s How Much It Will Cost to Replace a Water Heater](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-replacement-cost/)
+*   [Is a Tankless Water Heater Worth It?](https://www.homeserve.com/en-us/blog/buying-guide/tankless-water-heater/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/2b405ab58dc33853/Blog-DrainWaterHeater_Erossi_23.jpg" alt="A homeowner uses a screwdriver to open the drain valve on a residential water heater "/>
+
+### Step 5: Open Your Drain Valve
+
+Now get your bucket or pump system ready and open the drain valve near the bottom of the tank. This valve usually has a built-in knob you can use, but sometimes you'll need to insert a flat-head screwdriver into the slot and turn it counterclockwise. At this point, water will begin flowing liberally out of the tank, so be sure you are prepared to catch or divert it right away. You can shut the valve off as many times as you need in order to dump your bucket. Multiple buckets also help at this stage.
+
+### Step 6: Flush the Tank
+
+While most of the sediment will come out simply by draining the tank, it's always a good idea to make sure your water heater is really free of sediment by flushing it with cold water. To do so, simply turn the cold water knob back on at the top of the tank and run it until the water flows clear out of the hose attached to the drain valve. If at any point during the draining process the water flow stops, you'll want to remove the hose and use a small screwdriver or awl to clear away any sediment that might be blocking the output. If you are not able to see or clear the sediment, turn off the cold water tap and call a professional for help.
+
+### Step 7: Refill the Tank and Turn It Back On
+
+Once your water heater is fully flushed and the output is running clear, turn off the drain knob. Be sure to close your pressure release valve if you opened it earlier. Then, turn the cold water feed at the top of the tank back on. Go to the hot water spigots you opened earlier and wait for water to flow through them. When it does, you can turn them off.
+
+Depending on your style of water heater, either turn the power or the gas back on. Then, you should be all set to enjoy another year or two of warm water heated by a properly functioning unit.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/LfJL3ADHwTY?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+

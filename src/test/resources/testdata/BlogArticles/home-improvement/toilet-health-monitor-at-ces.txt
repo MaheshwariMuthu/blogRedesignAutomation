@@ -1,0 +1,46 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "A Different Sort of Streaming Service: Toilet-Bowl Health Tracker Analyzes Urine"
+headline: "A Different Sort of Streaming Service: Toilet-Bowl Health Tracker Analyzes Urine"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2023-01-12
+basePath: https://library.homeserve.com/m/
+heroImage: 69d0c5271974ace0/Blog-WhithingsUScan_ManufacturerImage_0001-copy.jpg
+heroAltDescription: "A white toilet bowl with a Whithings brand U Scan urinalysis device inside it is shown next to a pair of smartphone screens displaying data"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A French electronics company has developed a mini health lab that sits in your household toilet bowl and measures your health metrics by analyzing your urine when you go to the bathroom."
+articleAbstract: "A French electronics company has developed a mini health lab that sits in your household toilet bowl and measures your health metrics by analyzing your urine when you go to the bathroom."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "A Different Sort of Streaming Service: Toilet-Bowl Health Tracker Analyzes Urine"
+  parent: Plumbing-Home-Improvement
+---
+  If you like whiz-bang inventions, urine … er, _you’re in_ luck. French electronics company [Withings](https://www.withings.com/us/en/) has developed a mini health lab that sits in your household toilet bowl and measures your health metrics by analyzing your urine when you go to the bathroom. It’s called the U-Scan, and it’s being honored at [CES 2023](https://www.ces.tech), the annual consumer electronics trade show in Las Vegas, with an award for innovations in the smart home, fitness and sports, and digital health tech spaces.
+
+**This May Also Interest You:** [**Why Is There Hot Water in My Toilet?**](https://www.elocal.com/resources/home-improvement/plumbing/how-to/hot-water-in-toilet/)
+
+“With more than 3,000 metabolites, urine is an extraordinary witness to assess and monitor one’s health,” a news release from Withings stated. “It gives an immediate snapshot of the body’s balance and is integral in monitoring and detecting a large variety of health information.”
+
+According to the company, humans urinate seven times a day on average, while a health analysis of people’s pee typically happens just once a year. U-Scan aims to enable users to enjoy continual, convenient and private health monitoring from the comfort of their own latrine in lieu (or, shall we say, in _loo_) of a professional screening.
+
+The U-Scan uses a 3.5-inch rechargeable reader that affixes to the inside of the bowl and can distinguish between toilet water and urine — as well as between one user and another using radar sensors to detect variables in “stream signature” — and collects the latter liquid via an inlet with the help of a thermal sensor and pump.
+
+The sample gets injected into a test pod, where chemical measurements are taken within moments, before the urine is purged and flushed. The results are then transmitted via Wi-Fi to the associated app. The analysis looks for biomarkers associated with certain diseases, with the goal of nipping problems in the bud and reducing healthcare costs via tracking, providing insights and making recommendations for corrective action.
+
+**More Related Articles:**
+
+*   [Condensation on Your Toilet? Don’t Sweat It](https://www.homeserve.com/en-us/blog/home-improvement/condensation-toilet-tank/)
+*   [How to Fix Your Toilet Handle in 6 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/fix-toilet-handle/)
+*   [What’ll a New Toilet Do to Your Bottom Line? Here’s What It Costs](https://www.homeserve.com/en-us/blog/cost-guide/toilet-installation/)
+*   [Time to Swap Seats? Here’s How to Install or Replace a Toilet Seat](https://www.homeserve.com/en-us/blog/how-to/replace-toilet-seat/)
+*   [Never Flush These 11 Things Down Your Toilet](https://www.homeserve.com/en-us/blog/home-improvement/things-to-never-flush-down-toilet/)
+
+Two variants of the cartridges — the U-Scan Nutri Balance described as a “metabolic guide to hydration and nutrition,” and U-Scan Cycle Sync, which tracks variables in women’s monthly menstrual cycles — are set to debut on the European consumer market. Will it be available in the U.S.? _Oui_ … _if_ it can pass muster with the FDA, that is.
+
+_This is part of our CES 2023 coverage. Follow along here and on our social media channels:_
+
+*   [_Instagram_](https://www.instagram.com/homeserve_usa/)
+*   [_TikTok_](https://www.tiktok.com/@homeserveusa?is_from_webapp=1&sender_device=pc)
+*   [_YouTube_](https://www.youtube.com/@HomeServeUSA)<br><iframe title="YouTube video player" width="560" height="315" src="https://www.youtube.com/embed/nk_hBpyP3Fk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

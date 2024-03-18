@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is My Refrigerator Making Noise?"
+headline: "Why Is the Refrigerator Making Noise? Here's How to Get It to Quiet Down"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-01-18
+basePath: https://library.homeserve.com/m/
+heroImage: 76ae9cffae71add8/Blog-ReverseFridgeDoor_MSchmitz_0001.jpg
+heroAltDescription: "Open refrigerator door"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Why's the fridge so loud? Here’s how to troubleshoot and fix your refrigerator's noises."
+articleAbstract: "There are many reasons your refrigerator might be making noise. Here’s what you can fix yourself and when to call an expert for help."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My Fridge So Loud?"
+  parent: Appliances
+---
+  Most people will experience their refrigerator making noise at some point, and understanding the difference between normal fridge sounds and those indicating a problem can save you a lot of worry and inconvenience. Furthermore, identifying the type of noise your fridge makes can help you figure out the likely cause.
+
+**This May Also Interest You:** [**What Temperature Should Your Fridge Be?**](https://www.homeserve.com/en-us/blog/home-improvement/refrigerator-temperature/)
+
+There are many reasons your refrigerator might be making noise. Here’s what you can fix yourself and when to call an expert for help.
+
+Why Is My Refrigerator Making Noise All of a Sudden?
+----------------------------------------------------
+
+A soft humming sound is normal for fridges that are functioning correctly. You can generally ignore this type of noise as long as your fridge is cooling effectively. However, any sound loud enough to disturb your day-to-day life, like banging, scraping or clicking noises, warrant further investigation — especially if your fridge isn't working properly.
+
+Here's what causes common refrigerator sounds:
+
+### Jackhammer or Knocking Sound
+
+A regular knocking or jackhammer sound is usually caused by a fault with the fridge's condenser or evaporator fans. When something obstructs the fan, the blades hit against it, causing a rhythmic noise or a grinding or scraping sound. An obstructed fan can damage the blades, so it's wise to disconnect the fridge from the power supply and fix it as soon as possible. 
+
+### Clicking or Buzzing
+
+If your ice maker is switched on but isn't connected to a water supply, it could start making a clicking or buzzing noise. You should turn the ice maker off when it's disconnected from the water to prevent damage. 
+
+### Rattling
+
+Fridges often rattle when they're placed too close to a wall or on an uneven surface. A loose refrigerator drain pan can also be to blame for a rattling noise. 
+
+### Humming
+
+Although low humming is nothing to worry about, a loud humming sound is more worrisome. Generally, loud humming indicates an issue with the fridge compressor. 
+
+How Do I Stop My Fridge From Making Noise?
+------------------------------------------
+
+There are several ways to stop a refrigerator from making noise, and the one that’s the correct fix depends on the reason for the noise. When you're trying to fix a noisy fridge, start by listening carefully to the type of noise it's making to determine the most likely cause. 
+
+Stopping a refrigerator from rattling is often as straightforward as moving it a little further from the wall or adjusting the legs to make it level. If that doesn't work, find the drip pan and listen to see if it's causing the noise. You can use duct tape to fix your drip pan in place and stop it from rattling around. 
+
+If your fridge is clicking or buzzing and it has an integrated ice maker, check that it's connected to the water supply. If it isn't, either connect it or turn it off to stop the noise and protect it from damage. 
+
+Banging or knocking caused by an obstructed fan is also a relatively easy fix. Before you start, disconnect the refrigerator from the power supply so that you don't accidentally electrocute yourself. Next, remove the fan access panels, removing any visible obstructions and inspecting the fan blades for damage. Replace any damaged blades before replacing the panels securely. 
+
+**More Related Articles:**
+
+*   [How to Clean Your Icemaker and Change the Filter](https://www.homeserve.com/en-us/blog/how-to/clean-icemaker-filter/)
+*   [Ever Cleaned Your Refrigerator Coils? Sure, We Believe You (But Here’s How, Just in Case)](https://www.homeserve.com/en-us/blog/how-to/clean-refrigerator-coils/)
+*   [How to Change the Direction Your Refrigerator Door Swings](https://www.homeserve.com/en-us/blog/how-to/adjust-refrigerator-door-swing/)
+*   [Fridge Filthy? Here’s Your 7-Step Deep-Cleaning To-Do List](https://www.homeserve.com/en-us/blog/how-to/refrigerator-cleaning/)
+*   [We Gotta Move These Refrigerators: A Step-by-Step Guide to Moving Your Fridge](https://www.homeserve.com/en-us/blog/how-to/move-refrigerator/)
+
+What Does a Faulty Refrigerator Compressor Sound Like?
+------------------------------------------------------
+
+A faulty refrigerator compressor generally makes a humming sound loud enough to be annoying. However, a completely silent fridge could also indicate an issue with the compressor. Sometimes, unplugging the fridge for a couple of minutes and then plugging it back in can solve the problem. 
+
+If that doesn't work and your fridge is still noisy or silent, you probably need to repair or replace your compressor. This requires expert knowledge, so it's best to call a professional technician to get your fridge up and running again. 
+
+Why Is My Freezer Making Noise?
+-------------------------------
+
+Like fridges, freezers generally make a low humming noise when they're operating normally. You may also hear occasional cracking, gurgling or sizzling sounds as your freezer cools or defrosts. 
+
+However, excessively loud humming sounds or frequent, loud knocking could be a sign of a faulty compressor or disconnected ice maker. Check your ice maker is connected to the water supply or turn it off if you wish to leave it disconnected.
+
+Sometimes, freezers make a humming noise if the condenser coils are dirty. Dirty condenser coils obstruct the airflow, which means that your freezer has to work harder to stay cold. Although a freezer can continue to function with dirty coils, ignoring the problem can lead to excessive wear and tear and shorten your appliance's lifespan. You can clean the coils yourself by disconnecting the power supply and using a vacuum cleaner to remove any dirt or debris from the coils and fan.
+
+If All Else Fails ...
+---------------------
+
+If your fridge or freezer keeps making noise and the above solutions don't work, it’s likely there’s a serious issue going on. Call a repair technician to diagnose and fix the issue.

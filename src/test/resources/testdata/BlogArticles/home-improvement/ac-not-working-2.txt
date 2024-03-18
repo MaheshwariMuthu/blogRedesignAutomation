@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 4 easy ways to fix an AC that’s not working
+headline: 4 easy ways to fix an AC that’s not working
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2020-06-30
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: ac-not-working-01-full.jpg
+heroAltDescription: AC Not Working
+metaDescriptions: Fixing an AC that’s not working is easier than you think. You need to identify the problem and try one of these helpful solutions.
+articleAbstract: When your AC is not working, you may be tempted to solve the problem yourself. However, it is important to know when to call in a professional.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: 4 easy ways to fix an AC that’s not working
+  parent: HVAC-Home-Improvement
+---
+
+:::: blog-info
+Is your house feeling hot, humid, or stuffy? These may be signs that your air conditioner is broken. Having an air conditioner not cooling or an AC blowing hot air is definitely frustrating. The good news is that it can be quite easy to get your system working through some AC repairs. Follow this handy air conditioner troubleshooting guide to identify the problem, see if you can fix your AC yourself (or need to call in a pro), and get the cool air flowing again.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+::::
+
+## Take a look at your Thermostat
+
+![Broken Thermostat](/en-us/assets/images/blog/home-improvement/ac-not-working-SUB-04.jpg)
+
+One of the first places to start is to look at your thermostat. When an AC won't turn on, it can sometimes be caused by the thermostat that controls your whole system. Inspect your thermostat carefully. Before calling an AC technician, you should make sure you haven't accidentally bumped any settings. Next, make sure your thermostat is powered. Change batteries if the thermostat uses them, and make sure the circuit breaker for the thermostat is not flipped. Finally, remove the thermostat's body from the wall and check to see if all the wires are attached.
+
+## Check for a condensate drain line clog
+
+![Broken AC unit](/en-us/assets/images/blog/home-improvement/ac-not-working-SUB-02.jpg)
+
+Take a look at the indoor part of your unit. There should be a small safety plug that turns off the AC altogether if your condensate line is backing up. This piece is a fail-safe meant to keep your house from flooding, but it also can keep your AC from running altogether. If the system starts running as soon as you remove the fail-safe, your problem is a drain line clog. Homeowners with a wet vac can use it to go ahead and suck out the clog themselves. Otherwise, you might need help from a professional who has the right equipment.
+
+## See if the evaporator coil is frozen
+
+![Repair AC Unit](/en-us/assets/images/blog/home-improvement/ac-not-working-SUB-03.jpg)
+
+Open the inside part of your air conditioner to see if any ice is accumulating anywhere. This is a sign that you may have reduced airflow or low refrigerant levels. In many cases, it is just caused by dirty air conditioning filters. Replace your filter and run the air conditioner fan for a few hours to melt the ice, and it should be good as new. However, if the ice comes back again or if you notice a refrigerant leak, you will need professional help.
+
+## Examine your outdoor unit
+
+![Fix AC Unit](/en-us/assets/images/blog/home-improvement/ac-not-working-SUB-01.jpg)
+
+The outside portion of your AC system can easily get dirty and quit working properly. If this happens, you may notice your AC blowing warm air. Go outside to see if the vents are clogged by plants or dirt. You may be able to just spray your unit down with a hose, pull away weeds, and get cool air again. You should also check the thermal overload switch outside. This device will flip if the motor overheats. It can be a sign you need to run your AC less, replace refrigerant, or rethink your power needs.
+
+## Know when to get a professional
+
+If these basic AC troubleshooting tips do not work, it is a sign that something more serious is wrong with your system. Air conditioners have very complex systems, so it might be wise to get a professional's input first before attempting any DIY air conditioning repair. Even if you know what the problem is, it may still be best to leave the work to an actual HVAC technician. There are certain tasks, like handling refrigerants and managing electrical currents, that can be unsafe unless you are properly licensed. By getting professional assistance instead of trying to figure it all out yourself, you can cut back on stress and ensure your system is properly repaired.
+
+:::: blog-info
+That’s why being prepared with a [plan from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help you save time, money and stress when dealing with air conditioning repairs. See what plans are available in your area.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+::::
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6RoqfIe7HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

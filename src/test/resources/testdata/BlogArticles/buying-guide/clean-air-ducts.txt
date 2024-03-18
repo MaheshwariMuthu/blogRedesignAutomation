@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why You Should Have Your Air Ducts Cleaned"
+headline: "Should You Clean Your Home's Air Ducts? We Clear the Air"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-09-04
+basePath: https://library.homeserve.com/m/
+heroImage: 1c4c560f1bfa9f08/Blog-GettyImages-880921060.jpg
+heroAltDescription: "Person checks the grime of the vent grill by swiping a finger along it"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If you’re concerned about how clean the air in your home is, you may be thinking about having your air ducts cleaned."
+articleAbstract: "If you’re concerned about how clean the air in your home is, you may be thinking about having your air ducts cleaned. However, the need for air duct cleaning is limited. Here's what to know."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Should You Clean Your Home's Air Ducts? We Clear the Air"
+  parent: HVAC-Buying-Guide
+---
+  
+
+If you’re concerned about how clean the air in your home is, you may be thinking about having your air ducts cleaned. It seems logical to assume that any dust particles in your ducts would get pushed out into your home when you turn on the HVAC system and that duct cleaning would potentially solve this problem.
+
+**This May Also Interest You**[**: Can You Have Your Air Ducts Cleaned in the Winter?**](https://www.homeserve.com/en-us/blog/home-improvement/air-duct-cleaning-winter/)
+
+However, the need for air duct cleaning is limited. Save money and keep your HVAC in top shape by understanding when and how to clean your air ducts.
+
+Should You Clean Air Ducts?
+---------------------------
+
+A lot of big claims have been made about air duct cleaning, but there aren't any studies that conclusively prove it can prevent health problems. Uncertainty about the benefits is why the [Environmental Protection Agency](https://www.epa.gov/indoor-air-quality-iaq/should-you-have-air-ducts-your-home-cleaned) states that it “does not recommend that air ducts be cleaned except on an as-needed basis."
+
+This may seem counterintuitive, because dust on your windowsill is likely to get blown around the room whenever you open a window. However, in an HVAC duct, the dust adheres to the duct surfaces and doesn’t enter your living spaces. The light amount of dust that might enter doesn’t pose any health risk to the average American. In fact, there are more particles in your house from other sources, such as cooking, cleaning, smoking and coming in from outside.
+
+It's been suggested that cleaning your HVAC components can increase the efficiency and life of your system. Evidence for this is also limited, and it shows that every component of your system must be cleaned, not just the ducts.
+
+When Is Air Duct Cleaning Necessary?
+------------------------------------
+
+The EPA recommends that air duct cleaning should be done as needed, so when is it necessary? There are three occasions when you should clean your air ducts:
+
+*   Where there is substantial visible mold
+*   When your ducts are infested with vermin, such as rodents or insects
+*   When it’s clogged with excessive amounts of dirt or dust, and particles are being released into your home from supply registers
+
+In all these cases, you need to get the underlying issue diagnosed and fixed before you clean or retrofit your ducts; otherwise, the problem will reoccur.
+
+You may also need to clean your ducts if you have respiratory issues and a trigger can’t be found in another part of your environment. Talk to your doctor about possible causes and follow their recommendation.
+
+<img class="detail-image" src="https://library.homeserve.com/m/1535c0d22bb9b61c/Blog-GettyImages-182804331.jpg" alt="a man does a DIY Air Duct Cleaning with a vacuum "/>
+-------------------------------------------
+
+How Often Should You Have Ducts Cleaned?
+----------------------------------------
+
+Some people will never need to have their air ducts cleaned. As long as you keep up with HVAC maintenance and change the filter regularly, the system will continue to work efficiently. Most manufacturers recommend changing filters every 90 days, but you should check your system’s instructions for exact recommendations.
+
+An HVAC technician who comes in to do regular maintenance will also keep an eye out for mold or signs of vermin, so they can let you know if duct cleaning is necessary.
+
+**More Related Articles:**
+
+*   [HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [Is an HVAC Tune-up Worth the Price? Yes, Yes It Is](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+
+Is It Safe To Have Your Air Ducts Cleaned?
+------------------------------------------
+
+There’s nothing to suggest that having your air ducts cleaned is detrimental to the system, as long as it’s done properly. When cleaning air ducts, technicians may cut holes or remove seals to get to different areas of the system. If these aren’t repaired correctly, your system will stop operating efficiently. This is why it’s always important to get a licensed technician to do the work.
+
+What's the Difference Between Air Duct Cleaning and Sanitizing?
+---------------------------------------------------------------
+
+Duct cleaning blows dust and debris, such as pollen, out of air ducts. Sanitization blows a chemical disinfectant into the ducts to kill mold, bacteria and other germs.
+
+Should You Have Your Air Ducts Sanitized?
+-----------------------------------------
+
+There’s no need to have air ducts sanitized under normal circumstances. If you had to get your ducts cleaned due to mold or rodents, you may feel better with additional sanitization. Using these chemicals may also get rid of strange odors.
+
+If you choose to go down the sanitization path, make sure you understand the pros and cons of the chemicals being used. The EPA states that “no chemical biocides are currently registered by EPA for use in internally-insulated air duct systems,” although companies use chemicals that have been approved for other uses. If you do decide to use chemicals for cleaning, you need proper ventilation. You may also need to stay away from your home for several hours while the chemicals dissipate. Talk to a professional about your needs, and they’ll be able to help you make the appropriate choice for your situation.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

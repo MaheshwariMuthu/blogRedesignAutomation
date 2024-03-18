@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Smart Home Automation Tips"
+headline: "How to Use Automation to Get the Most Out of Your Smart Home Tech"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-03-06
+basePath: https://library.homeserve.com/m/
+heroImage: 34e45b2504eee513/Blog-GettyImages-1195017612.jpg
+heroAltDescription: "Man using home assistant bluetooth speaker"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The magic of smart-home life comes from automation. Here's how to turn your analog home into a Jetsons-worthy high-tech lair."
+articleAbstract: "The real magic of smart-home life comes from automation. Here's how to turn your ordinary analog home into a Jetsons-worthy high-tech lair."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Use Automation to Get the Most Out of Your Smart Home Tech"
+  parent: Interior-Home-How-To
+---
+  You've no doubt heard about smart appliances — those gadgets that have circuitry built in that allows them to connect to the internet and be accessed by apps to do a range of tasks meant to make life easier.
+
+**This May Also Interest You:** [**5 Smart Home Devices You Need in Your Home**](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-devices/)
+
+While it's pretty convenient to have your door unlock for you when you get home, or to be able to start your coffee maker from bed via your phone, the real magic of smart-home living comes from combining devices through automation.
+
+Here's how to turn your ordinary analog home into a Jetsons-worthy, high-tech lair.
+
+Common Smart Devices
+--------------------
+
+While pretty much any appliance or electric-powered device you can think of has a smart version, the most common devices homeowners are likely to use are smart security systems, smart thermostats, smart bulbs and smart doorbell cameras. These devices have led the smart-device market for good reason: They're easy to set up, and they provide security and convenience right from your smartphone.
+
+How Do I Set Up Smart Devices?
+------------------------------
+
+Through an app, of course.
+
+Virtually all smart home devices are controlled by an app made by the manufacturer. Setting them up is as easy as installing them (usually just plugging the device in or screwing in a lightbulb), launching the app and following the instructions. Of course, your home typically needs an internet connection which will need to be broadcast through the home via Wi-Fi in order to complete the successful installation of these devices, although some smart home devices can work over Bluetooth or other connectivity technologies like [Zigbee](https://www.techtarget.com/iotagenda/definition/ZigBee) and [Z-Wave](https://www.techtarget.com/iotagenda/definition/Z-Wave).
+
+The app will walk you through getting your smart home device connected to the internet (if applicable), and it will allow you to set options for the device, such as schedules, recording modes, color and intensity settings for bulbs, volume settings for smart speakers and so on.
+
+**More Related Articles:**
+
+*   [What’s the Internet of Things?](https://www.homeserve.com/en-us/blog/home-improvement/internet-of-things/)
+*   [What’s a Lighting Control System?](https://www.homeserve.com/en-us/blog/buying-guide/lighting-control-system-benefits/)
+*   [Samsung Smart Refrigerators: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-refrigerator/)
+*   [What Is a Google Nest Learning Thermostat and What’s It Do?](https://www.homeserve.com/en-us/blog/buying-guide/google-nest-thermostat/)
+*   [How to Set Up a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/setup-ring-doorbell/)
+
+How Do I Set Up Automations?
+----------------------------
+
+Once again, the most likely way you will set up automations for your smart devices is through the app. The most simple way to accomplish home automations is to use a single ecosystem.
+
+So, for example, if you were to set up a range of smart devices under the [Vivint](https://www.vivint.com/ppc/brand?exid=117156&utm_medium=cpc&utm_term=vivint&utm_source=google&c_ps=s.google_k.vivint_m.e_n.g_po._d.c&geo=9021758&dpsg=&utm_campaign=19729756000&gclid=EAIaIQobChMI4M_G0vi4_QIVAWpvBB3GvQbXEAAYASAAEgIP-vD_BwE) home security brand, from directly inside the app, you would be able to set up a pretty wide range of routines. You could have your doorbell camera begin to record video and send you a notification when it senses someone on your front porch. You could also instruct the system to turn up the heat at a certain time in the evening, switch on your porch light, unlock your front door when it senses your approach (by monitoring the proximity of your smartphone) and turn the lights on in the living room.
+
+While companies like Vivint primarily bill themselves as home security services, in the past few years, they've expanded the devices they offer, so they really can work as pretty sophisticated smart home hubs. Other companies to check out include SimpliSafe, ADT, Cove, Ring, Wyze and Frontpoint. Some services offer installation and monitoring services, and others are DIY, so do your research and pick the model that's best for you.
+
+Beyond using security systems as your primary smart home hub, if your automation needs are simpler, you can use products across a single ecosystem to set up routines. For example, companies including GE, Wyze, Philips, Meross and many others make a series of smart home bulbs and switches, so to create lighting routines, you simply use the proper app. You could have all your lights dim at a certain time, for example, or have certain bulbs get brighter in the morning to make you up.
+
+### Voice Control
+
+One of the most convenient ways to control a smart home is by using a voice assistant such as Amazon's Alexa, Apple's Siri or a Google Assistant device. These devices are able to connect a wide range of home devices, and by using the — you guessed it — accompanying apps, you can set up routines across ecosystems that you can access via your voice.
+
+First, you need to decide which voice assistant you want to use. Then, as you shop for smart home devices like thermostats or door locks, you'll want to check to make sure that they are compatible with that device. Online listings or product packaging will usually say "works with Alexa" or "works with Google Assistant" to help make the buying process easy. After the individual products are set up, all you need to do is follow the instructions in the voice assistant app to create automation routines.
+
+### Other Hubs
+
+If you'd rather not use a voice assistant to set up automation routines in your home, there are other systems you can use to tie devices together, known as hubs. For example, [SmartThings by Samsung](https://www.smartthings.com) offers an easy-to-install hub which they call the SmartThings station. Once that hub is set up, the accompanying app can be used to tie together a whole range of smart devices, from washing machines to lights to locks. SmartThings is one of the hubs that accommodates the highest number of devices, claiming compatibility with over a hundred different brands.
+
+Other smart home hubs include Aeotec, Homey Pro, Iris and Google Nest. If you're an Apple fan, you'll be happy to know that the company's HomePod Mini, Apple TV 4K, iPad Pro and HomePod 2023 can all act as smart home hubs.
+
+Get Creative
+------------
+
+From having the lights dim automatically when you start a Netflix show, to having your favorite podcast play and the coffee maker start when your morning alarm goes off, the number of smart home automations you can create once you're set up is nearly limitless.
+
+Automations can not only make your life easier (and more fun), but they can also save you energy by keeping temps low and lights off when no one is home, for example. If you're new to home automation, start slow with something like a programmable thermostat or a few smart light bulbs, and soon, you'll figure out how to use automations to cover nearly every part of your day _à la_ George Jeston himself!<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/qpoqCRPHjqE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Find Your iPhone or Android Smartphone Serial Number"></iframe>

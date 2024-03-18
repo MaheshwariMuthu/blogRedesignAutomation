@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Replace Your HVAC Filters?"
+headline: "How Much Does It Cost to Replace Your HVAC Filters?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-09-23
+basePath: https://library.homeserve.com/m/
+heroImage: 13e6bc10a1b1821/Blog-HVACfilterbeforeandafter_Erossi_003.jpg
+heroAltDescription: "A side by side comparison of a clean HVAC furnace filter and a dirty filter "
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "HVAC filters are relatively inexpensive, but it's still important to include them in your household maintenance budget."
+articleAbstract: "Replacing your furnace and AC filters removes dust and other contaminants from your indoor air. HVAC filters are relatively inexpensive, but it's still important to include them in your household maintenance budget."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Replace Your HVAC Filters?"
+  parent: HVAC-Cost-Guide
+---
+  Replacing your furnace and AC filters removes dust and other contaminants from your indoor air and can protect your system from wearing out.
+
+**This May Also Interest You:** [**Is an Air Filter Subscription Service Worth the Cost?**](https://www.homeserve.com/en-us/blog/home-improvement/air-filter-subscription/)
+
+Fortunately, HVAC filters are relatively inexpensive, but it's still important to include them in your household maintenance budget.
+
+How Much Do HVAC Filters Cost?
+------------------------------
+
+According to [LawnStarter](https://www.lawnstarter.com/blog/cost/hvac-maintenance-price/), changing your HVAC filters costs between $10 and $40 (CAD 13 and CAD 54) on average. Generally, you should aim to replace HVAC filters every 90 days to keep your unit running efficiently. Therefore, you should expect to spend roughly $40 to $120 (CAD 54 to CAD 160) per year on replacement filters, according to [HomeGuide](https://homeguide.com/costs/hvac-repair-cost).
+
+Some units have reusable HVAC filters. You don't need to replace these filters unless they're damaged, but you'll need to clean them regularly to remove allergens, dust and germs. You can clean your HVAC filters yourself or hire a professional to do it for you. [Fixr](https://www.fixr.com/costs/hvac-maintenance#hvac-service-cost-by-task) says most technicians charge between $25 and $50 (CAD 33 and CAD 67) for HVAC air filter cleaning services.
+
+Replacing reusable filters usually costs between $30 and $50 (CAD 40 and CAD 67), based on data from [This Old House](https://www.thisoldhouse.com/heating-cooling/22679651/best-furnace-filter).
+
+You could also ask your HVAC technician to change your HVAC filters during their scheduled maintenance visits. Purchasing an [HVAC maintenance plan](https://homeguide.com/costs/ac-maintenance-tune-up-service-cost) typically costs $120 to $360 (CAD 160 to CAD 481) per year and usually includes filter cleaning or replacement, tune-ups and repair services. Homeowners with maintenance plans often receive a discount of up to 15% on parts, which could make changing your filters cheaper. 
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Replace an HVAC System?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-system-replacement-cost/)
+*   [Do You Need a Zoned HVAC System?](https://www.homeserve.com/en-us/blog/home-improvement/zoned-hvac-system/)
+*   [As the Seasons Change, So Should the Direction of Your Ceiling Fan](https://www.homeserve.com/en-us/blog/home-improvement/ceiling-fan-direction/)
+*   [Does Your Home Need a Whole-House Humidifier?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-humidifier/)
+*   [When Should I Get My HVAC Tune-Up?](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+How Much Do HVAC Filter Subscription Services Cost?
+---------------------------------------------------
+
+Another option is to sign up for an HVAC filter subscription service. [The Spruce](https://www.thespruce.com/best-air-filter-subscriptions-5091895#toc-frequently-asked-questions) says prices vary between service providers, but most companies charge between $13 and $27 (CAD 17 to CAD 36) per filter. Some companies also offer specialized products for pet owners, people with asthma and other households with specific needs.
+
+Whether a subscription service is cheaper than buying HVAC online or in-store depends on the type of filters you need and prices in your local store — it could be worth comparing costs to find the most economical option. However, subscriptions can be a convenient choice and may remind you to change your HVAC filter regularly.
+
+How Much Do Different Types of HVAC Filters Cost?
+-------------------------------------------------
+
+HVAC filters come with different Minimum Efficiency Reporting Value (MERV) ratings. These ratings describe what size particles the filter can capture — the higher the MERV rating, the smaller the particles it can remove from the air.
+
+[MERV ratings](https://www.bobvila.com/articles/merv-ratings/) range from 4 to 20. HVAC filters with MERV ratings of 7 or higher are ideal for private homes because they can remove fine dust and debris. Meanwhile, filters rated 13 or higher can remove microscopic allergens and bacteria and are suitable for areas requiring additional hygiene measures, such as hospitals and laboratories. They could also be a good option if you or someone in your household is allergic to airborne allergens.
+
+Generally, HVAC filters with higher MERV ratings cost more. For example, single-use MERV 8 [filters](https://www.homedepot.com/b/Heating-Venting-Cooling-Air-Filters/N-5yc1vZc4kw) start at around $5.98 (CAD 8) at The Home Depot if you buy a single filter, rising to around $23.08 (CAD 31) for a MERV 10 filter. However, it's almost always cheaper per unit to purchase HVAC filters in multipacks.
+
+Other rating systems exist to describe the performance of HVAC filters. For example, The Home Depot uses its own filter performance rating (FPR) system to describe which particles each filter removes. As you might expect, highly rated filters typically cost more. These ratings generally correspond with the product's MERV rating.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

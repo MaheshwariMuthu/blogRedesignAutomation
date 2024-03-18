@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "National Presto Smoker Recall"
+headline: "Shock Hazard Sparks Recall of 25,000 National Presto Smokers"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-03-12
+basePath: https://library.homeserve.com/m/
+heroImage: 2f5ca7ed4d2e4457/webimage-NationalPrestoSmokerRecall_Manufacturer_0001.jpg
+heroAltDescription: "camo design smoker appliance"
+metaDescriptions: "Eau Claire, Wis.-based National Presto Industries Inc. is recalling some 25,000 Presto Indoor Electric Smokers sold through December 2020 for a shock hazard."
+articleAbstract: "That new meat smoker you got for Christmas may pose a greater danger than overcooking your brisket. Eau Claire, Wis.-based National Presto Industries Inc. is recalling some 25,000 Presto Indoor Electric Smokers sold through December 2020 for a shock hazard."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "National Presto Smoker Recall"
+  parent: Appliances
+---
+  That new meat smoker you got for Christmas may pose a greater danger than overcooking your brisket. Eau Claire, Wis.-based National Presto Industries Inc. is recalling some 25,000 Presto Indoor Electric Smokers sold through December 2020 for a shock hazard.
+
+**This May Also Interest You:** [**Amputation Risk Prompts Recall of 6,700 Toro Snowthrowers**](https://www.homeserve.com/en-us/blog/home-improvement/toro-snowthrower-recall/)
+
+According to the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/National-Presto-Recalls-Smokers-Due-to-Electric-Shock-Hazard), the heating element and wiring on affected smokers is defective, and could result in a user suffering an electrical shock. The manufacturer, CPSC noted, has received reports of five smokers tripping circuit breakers and [GFCI](https://www.homeserve.com/en-us/blog/buying-guide/electrical-outlet-types/) outlets, though it was unaware of any related injuries.
+
+The involved smokers, priced between $70 and $110, were sold from June 2018 through December 2020 at Shopko, Sears, Kmart, Belk, Veterans Canteen Store and other home-appliance retailers across the nation, as well as on Amazon.com, Wayfair.com, Kohls.com, Walmart.com and other online dealers. The China-manufactured smokers came in both black stainless steel and camouflage finishes with “Presto” appearing on the top of the side-mounted digital display.
+
+If you own one of the affected smokers, [National Presto advises](https://www.gopresto.com/recall/) that you stop using it immediately and contact the manufacturer to receive return instructions, or return the product to the store where it was purchased for a refund. To determine if your smoker is in the potentially defective group, check the model number displayed on a sticker found on the underside. All model-number 0601304 and 0601405 units are covered by the Feb. 17-announced recall, and the UPC codes 075741060132 and 075741060149 are printed on the packaging.
+
+To use National Presto’s lookup tool to determine if your smoker is affected, and to fill out an online form to have a prepaid shipping label sent to your address for the return of your unit via FedEx, [go here](https://www.gopresto.com/recall/). The manufacturer will mail owners a refund check for $100 within two weeks of receiving the returned smoker.
+
+To contact National Presto Industries Inc., call 833-909-1524 or email [smoker@gopresto.com](mailto:smoker@gopresto.com). For more consumer product safety information, go to [https://www.cpsc.gov](https://www.cpsc.gov).
+
+**More Related Articles:**
+
+*   [Fire Hazard: 4,500 DeWALT Kerosene Heaters Recalled](https://www.homeserve.com/en-us/blog/home-improvement/cordless-kerosene-heater-recall/)
+*   [4 Steps for Proper Electrical Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/electrical-maintenance/)
+*   [Electrical Repair Cost Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [Guard Your Grill: Keep Charcoal, Gas Grills Working by Keeping ’Em Clean](https://www.homeserve.com/en-us/blog/how-to/clean-bbq-grill/)
+*   [How Much Does a Propane Tank Cost? Everything You Need to Know](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-a-propane-tank-cost/)<br><iframe width="474" height="281" src="https://www.youtube.com/embed/8VoPsAM69RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

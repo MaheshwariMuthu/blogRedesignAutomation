@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Home-Warranty-Buying-Guide
+  parent: Buying Guide
+  title: Home Warranty
+permalink: false
+---

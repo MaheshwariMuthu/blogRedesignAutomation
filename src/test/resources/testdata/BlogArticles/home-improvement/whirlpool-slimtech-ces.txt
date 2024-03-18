@@ -1,0 +1,46 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "CES 2024: Talk About Fresh Powder! Whirlpool’s Powder-based Fridge Insulation Increases Space, Reduces Waste"
+headline: "CES 2024: Talk About Fresh Powder! Whirlpool’s Powder-based Fridge Insulation Increases Space, Reduces Waste"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2024-01-13
+basePath: https://library.homeserve.com/m/
+heroImage: 2e6e7f358ea6b540/Blog-IMG_7112_LLeazenby.jpg
+heroAltDescription: "image showing a fridge with the insulation tech"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Whirlpool has introduced a powder to its refrigerators, called SlimTech. This all-new kind of insulation does a lot more than just keep the cold in and the heat out."
+articleAbstract: "Whirlpool has introduced a fresh powder of its own to its refrigerators, called SlimTech, and this all-new kind of insulation does a lot more than just keep the cold in and the heat out."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "CES 2024: Talk About Fresh Powder! Whirlpool’s Powder-based Fridge Insulation Increases Space, Reduces Waste"
+  parent: Appliances
+---
+  
+
+Fresh powder makes things a lot cooler when you hit the slopes — and, evidently, when refrigerating food, too. Whirlpool has introduced a fresh powder of its own to its refrigerators, called SlimTech, and this all-new kind of insulation does a lot more than just keep the cold in and the heat out. The appliance manufacturer says it also increases compartment space, improves energy efficiency, keeps food fresher for longer, runs quieter and enables more adaptable design opportunities — and even offers future recycling potential.
+
+**This May Also Interest You: CES 2024:** [**7 Cool Smart Home Products We’re Excited to See**](https://www.homeserve.com/en-us/blog/home-improvement/homeserve-ces-2024/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/13e5b40b895ef9d3/Blog-IMG_7109_LLeazenby.jpg" alt="image showing the insulation"/>
+
+HomeServe’s Editorial team caught up with the folks at Whirlpool on the exhibit floor at CES 2024 (formerly the Consumer Electronics Show) in Las Vegas to learn more about SlimTech. The insulation is a porous powder that the manufacturer vacuum-seals inside the door and walls of the fridge, replacing bulkier polyurethane foam insulation, thereby allowing walls to be as much as 66% thinner and increasing compartment capacity by as much as 25%, according to Whirlpool.
+
+“So, think about what that means for your refrigerator,” Whirlpool spokesman Mario Gonzalez told HomeServe at CES. “You don’t change the physical footprint, but you gain up to 25% more capacity — so that is a big, big deal.”
+
+<img class="detail-image" src="https://library.homeserve.com/m/10c1b7cf48ac58e7/Blog-IMG_7111_LLeazenby.jpg" alt="image showing the difference in thickness between insulation types"/>
+
+Beyond being able to load up your fridge with a few extra six packs, SlimTech purportedly also reduces thermal conductivity — the ability of the surface of the refrigerator door and walls to transfer heat — resulting in a reported boost in energy efficiency of up to 50%. This helps reduce heat loss, for example, when your children open and close the refrigerator door constantly or try to, proverbially, “refrigerate the whole neighborhood.” Reducing temperature swings from door openings keeps fridge contents preserved.
+
+**Read More CES 2024 Coverage:**
+
+*   [CES 2024: Smart Drain-Line Cleaner Gets the Goop Out to Keep Your Air Conditioner Crankin'](https://www.homeserve.com/en-us/blog/home-improvement/iflo-ces-2024/)
+*   [CES 2024: Energy-Savvy Sevvy Smart Cooker Keeps Heat Low, Nutrition High](https://www.homeserve.com/en-us/blog/home-improvement/sevvy-smart-cooker-ces-2024/)
+*   [CES 2024: Smart Dishwasher Helps Homeowners Dole Out Detergent, Let Off Steam](https://www.homeserve.com/en-us/blog/home-improvement/hisense-dishwasher-ces-2024/)
+*   [CES 2024: Property-Monitoring Device Keeps Would-be Noisy, Smoking, Partying Rental Guests Honest](https://www.homeserve.com/en-us/blog/home-improvement/alertify-ces-2024/)
+*   [CES 2024: All-in-One Appliance Washes, Dries Clothes in Same Machine, Lightening Your Laundry Load](https://www.homeserve.com/en-us/blog/home-improvement/ge-profile-heat-pump-tech-ces-2024/)
+
+On the lifestyle side of things, the thinner walls of fridges with SlimTech insulation offer more flexibility in kitchen design — for example, being better able to accommodate the growing trend of appliances that are flush to adjacent cabinetry and countertops, i.e. the built-in look. Meanwhile, because fewer compressor cycles are needed to maintain temperatures inside, that’s less time spent listening to your fridge run. Moreover, SlimTech has the potential for a greener appliance lifecycle, as the material is recyclable — versus than conventional polyurethane foam, which can’t be recycled — opening the door to a possible reclamation-and-reuse program in the future.
+
+Starting this year, Whirlpool will debut SlimTech insulation in the doors only of specified models of its JennAir luxury-brand fridges, later trickling down to the KitchenAid brand and, presumably, beyond. Eventually, SlimTech will insulate all of the walls of the fridges in which it’s used, fully realizing the functional and spatial potential of the product.

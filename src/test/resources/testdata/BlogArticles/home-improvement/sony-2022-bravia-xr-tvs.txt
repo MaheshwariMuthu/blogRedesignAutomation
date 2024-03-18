@@ -1,0 +1,121 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Sony Unveils New Bravia XR TVs at CES 2022: Mini-LEDs, QD-OLEDs and More"
+headline: "Sony Unveils New Bravia XR TVs at CES 2022: Mini-LEDs, QD-OLEDs and More"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2022-01-06
+basePath: https://library.homeserve.com/m/
+heroImage: 1f18f3683c9a4122/Blog-Sony_Electronics_BRAVIA_XR_TV_Lineup-1.jpg
+heroAltDescription: "Six different models of Sony Bravia XR TVs are displayed against a white background"
+metaDescriptions: "Sony dropped a lineup of brand-new, next-gen Bravia XR TVs the tech company says are designed to be “tuned to you.” Here’s everything you need to know."
+articleAbstract: "Sony dropped a lineup of brand-new, next-gen Bravia XR TVs the tech company says are designed to be “tuned to you.” All of them are powered by the Cognitive Processor XR, which uses AI technology to adapt your viewing experience. Here’s everything you need to know about Sony’s just-announced line of Bravia XR TVs for 2022."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Sony Unveils New Bravia XR TVs at CES 2022: Mini-LEDs, QD-OLEDs and More"
+  parent: Appliances
+---
+  When [Sony](http://sony.com) brings Spider-Man on the [Consumer Electronics Show](https://www.ces.tech) stage (or, at least, Spider-Man actor [Tom Holland](https://www.hollywoodreporter.com/movies/movie-news/ces-tom-holland-sony-uncharted-1235069950/)), you expect some kind of big reveal. During a Jan. 4 [press conference](https://www.youtube.com/watch?v=LttdPzox59A) at CES 2022, the company unmasked a number of new entertainment technologies. But for true movie lovers, perhaps the biggest announcement occurred _off_ stage: brand-new Bravia XR TVs — Mini-LEDs and OLEDs — for 2022.
+
+**This May Also Interest You:** [**Can You Buy a TV That’s Not Smart?**](https://www.homeserve.com/en-us/blog/buying-guide/non-smart-tvs/)
+
+Sony dropped a lineup of brand-new, next-gen [Bravia XR TVs](https://square.sony.com/ces2022/braviaxr/) the tech company says are designed to be “tuned to you.” All of them are powered by the Cognitive Processor XR, which uses AI technology to adapt your viewing experience. There are Mini-LED options for fans of the high contrast picture the extra LEDs provide, as well as OLED models for those who are partial to quantum-dot technology.
+
+Here’s everything you need to know about Sony’s just-announced line of Bravia XR TVs for 2022.
+
+Bravia XR Technology and Features
+---------------------------------
+
+Sony says the power’s in the processor. The Cognitive Processor XR is the force behind a number of features of the new Bravia XR television series.
+
+### For the In-Home Theater
+
+Though few and far between, the pandemic has afforded some perks — like the ability to stream some newly released movies directly to your TV _while_ they’re playing in theaters. But any avid moviegoer will tell you that the theater experience is hard to match at home.
+
+For one thing, the sound is hard to get right — even if you have a suite of speakers for surround sound. Immersive sound is a big part of the updated Bravia XR TVs. Thanks to Acoustic Multi-Audio technology, the whole TV frame is a speaker, instead of just the bottom of the frame like many other sets on the market. If you do use speakers or soundbars (particularly Sony models), your TV acts as the center speaker in a soundscape-like experience.
+
+The picture quality is meant to mimic the theater, too. A common complaint among owners of LCD TVs is that they just can’t portray the true depth of blacks and the brightness of lights. The XR Backlight Master Drive (powered by the Cognitive Processor XR) seeks to solve this problem by providing the extra contrast you need to see every color as intended.
+
+### For the Gamers
+
+As you’d expect, Bravia XR TVs are optimized for gaming with the Sony PlayStation 5. You get the quality picture and immersive sound, plus Auto Genre Picture Mode, which changes the settings depending on what you’re doing with your TV. If you’re gaming on a PS5, for instance, your TV will respond by switching to a low-latency mode for higher responsiveness from your controller.
+
+### For Your Netflix Binge
+
+Netflix Adaptive Calibrated Mode is brand-new for 2022. It provides “studio quality” viewing in all types of lighting conditions. A sensor detects the light in the room, analyzes it and adjusts the picture accordingly. So even if your binging session goes from day to night to … _day_ again, your TV will take care of the settings.
+
+### Smart Features
+
+Another new feature is the Bravia Cam, which was named “Best of Innovation” in the [2022 CES Innovation Awards](https://www.ces.tech/Innovation-Awards/Honorees/2022/Best-Of/S/Sony-BRAVIA-CAM-for-TV.aspx). Basically, this camera is a way for your TV to watch _you_. It analyzes everything from your proximity to the television to the lighting level in the room. This powers features like Gesture Control, which lets you raise your hand to change the channel or up the volume. It also provides a basis for the Eco Control System, which senses ambient light and adjusts the brightness of the TV to save energy. It’ll also switch your set to a power-saving mode if it detects that no one’s in the room watching, or alert you if you (or your children) are sitting too close to the screen.
+
+Like the last iterations of the Bravia XR TV, new models also have [Google TV](https://tv.google), which gives you command of your TV with voice controls.
+
+**More Related Articles:**
+
+*   [Mounting Expenses: How Much Does It Cost to Mount a TV?](https://www.homeserve.com/en-us/blog/cost-guide/tv-mount/)
+*   [Watch What You’re Doing! How to Move Your Flatscreen TV Damage-Free](https://www.homeserve.com/en-us/blog/how-to/move-tv/)
+*   [How Much Does TV Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/tv-repair/)
+*   [What’s the Samsung TV Upgrade Program and Is It Worth It?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-tv-upgrade-program/)
+*   [How to Mount a Flatscreen TV to a Wall](https://www.homeserve.com/en-us/blog/how-to/mount-flatscreen-tv/)
+
+Bravia XR Television Series Models
+----------------------------------
+
+According to a [statement from Sony](https://www.sony.com/content/sony/en/en_us/SCA/company-news/press-releases/sony-electronics/2022/sony-electronics-introduces-2022-bravia-xr-tv-lineup-featuring-innovative-xr-backlight-master-drive-technology-for-new-mini-led-models.html), pricing and availability for these new Bravia XR TVs will be announced this spring. ’Til then, here’s the quick-hit specs for each new model:
+
+### Mini-LED Models
+
+#### [Bravia XR Z9K](https://electronics.sony.com/tv-video/televisions/all-tvs/p/xr75z9k)
+
+*   Flagship model for 2022
+*   Master Series model
+*   Mini-LED-equipped
+*   8K HDR
+*   Comes with Bravia Cam
+*   Smart Google TV
+*   75- and 85-inch sizes
+
+#### [Bravia XR X95K](https://electronics.sony.com/tv-video/televisions/all-tvs/p/xr65x95k)
+
+*   Mini-LED-equipped
+*   4K HDR
+*   Bravia Cam sold separately
+*   Smart Google TV
+*   65-, 75- and 85-inch sizes
+
+### OLED and LED Models
+
+#### [Bravia XR A95K](https://electronics.sony.com/tv-video/televisions/all-tvs/p/xr65a95k)
+
+*   Master Series model
+*   QD-OLED (quantum-dot OLED — the [world’s first](https://www.digitaltrends.com/home-theater/sony-a95k-first-qd-oled-tv-ces-2022/))
+*   “Highest level of color realism in the Bravia series”
+*   4K HDR
+*   Comes with Bravia Cam
+*   Smart Google TV
+*   55- and 65-inch sizes
+
+#### [Bravia XR A90K](https://electronics.sony.com/tv-video/televisions/oled/p/xr48a90k)
+
+*   Master Series model
+*   OLED
+*   4K HDR
+*   Bravia Cam sold separately
+*   Smart Google TV
+*   42- and 48-inch sizes
+
+#### [Bravia XR A80K](https://electronics.sony.com/tv-video/televisions/all-tvs/p/xr65a80k)
+
+*   OLED
+*   4K HDR
+*   Bravia Cam sold separately
+*   Smart Google TV
+*   55-, 65- and 77-inch sizes
+
+#### [Bravia XR X90K](https://electronics.sony.com/tv-video/televisions/all-tvs/p/xr65x90k)
+
+*   Full Array LED
+*   4K HDR
+*   Bravia Cam sold separately
+*   Smart Google TV
+*   55-, 65-, 75- and 85-inch sizes<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/MGsZY8ZafJY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

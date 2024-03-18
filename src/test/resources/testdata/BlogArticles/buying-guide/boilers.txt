@@ -1,0 +1,82 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Everything You Need to Know About Boilers"
+headline: "Everything You Need to Know About Boilers"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-09
+basePath: https://library.homeserve.com/m/
+heroImage: 6be90b44c5852f74/Blog-iStock-635781104.jpg
+heroAltDescription: "electrician looking at electrical box"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Boilers are a possible alternative to traditional furnaces and are beginning to gain steam across America."
+articleAbstract: "Are you debating what heating system is best for your home? Boilers are a possible alternative to traditional furnaces and are beginning to gain steam across America."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Everything You Need to Know About Boilers"
+  parent: HVAC-Buying-Guide
+---
+  Are you debating what heating system is best for your home? Boilers are a possible alternative to traditional furnaces and are beginning to gain steam across America.
+
+**This May Also Interest You:** [**How Much Does It Cost to Replace a Boiler?**](https://www.homeserve.com/en-us/blog/cost-guide/boiler-replacement/)
+
+They don’t produce the same dry quality of air that a furnace would, so many people suffering from allergies are considering boiler heating systems. This guide covers what you need to know about this home heating option.
+
+What’s a Boiler?
+----------------
+
+A boiler is a device that produces steam or hot water to heat your home. There are radiators located in each room that receive the hot water or steam and transfer heat into the air.  Once the steam or hot water reaches the radiator, it cools due to the transfer of heat. It returns to the boiler, where it’s reheated to continue the cycle. Once your thermostat shows the temperature you’ve set, the boiler automatically shuts off.
+
+There are many types of boilers, and the one you have in your home could vary based on when your house was built and what technology was available at the time.
+
+What’s the Difference Between a Furnace and a Boiler?
+-----------------------------------------------------
+
+There’s a huge difference between boilers and furnaces. While boilers use heat transference from hot water or steam to produce heat, a furnace heats air and sends it through vents into your home. It’s a common misconception that all furnaces run on natural gas. There are three types of furnaces — propane, natural gas and electric — and the popularity of each system depends on your region and heating needs.
+
+The primary disadvantage of furnaces is the quality of air they produce. Many people experience nose bleeds, congestion and dry throats due to the dry air a furnace produces. The solution is to either get a humidifier or use a boiler, which produces moist air instead.
+
+Another reason furnaces tend to be more popular in some regions is boilers are more expensive to install. They’re impervious to leaks and freezing during power outages because they don’t use water. However, allergy sufferers notice that furnaces spread dust, pollen, pet dander and other irritants throughout their homes through the air ducts.
+
+In recent years, more homeowners have been turning to boilers to address these concerns. If you’re in a more moderate climate where you don’t need to worry about water lines freezing during a power outage, a boiler is an affordable alternative to a furnace with central air due to reduced maintenance costs.
+
+**More Related Articles:**
+
+*   [4 Signs Your Boiler Needs to Be Repaired or Replaced](https://www.homeserve.com/en-us/blog/home-improvement/boiler-repair-replacement/)
+*   [How Much Does Boiler Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-repair/)
+*   [What Do I Do If My Heat Goes Out?](https://www.homeserve.com/en-us/blog/home-improvement/broken-furnace-stopgaps/)
+*   [Here’s Why You Need to Get a Furnace Tune-Up](https://www.homeserve.com/en-us/blog/home-improvement/furnace-tune-up/)
+*   [How Much Does It Cost to Replace an Oil Furnace?](https://www.homeserve.com/en-us/blog/cost-guide/oil-furnace-replacement/)
+
+Is a Boiler the Same Thing as a Water Heater?
+---------------------------------------------
+
+Boilers heat water, so many people associate them with water heaters. The primary difference is the function of the device. If you have a furnace, you need a separate water heater to produce warm water for showers, washing dishes, laundry and other needs. A traditional water heater has a large tank to store the heated water so you can access it on demand. When you run out of hot water, it can take some time for the tank to refill with heated water.
+
+You can purchase a boiler to heat your home and a separate water heater, but a lot of people these days are buying combination systems. A standard unit includes a water heater with its own storage tank for your water, while some systems draw water from the boiler as you need. The boiler activates when you turn the hot water on, so you don’t get hot water immediately.
+
+Modern systems are much more efficient, however, so it can take under a minute to draw hot water from a combination system. The advantage is you don’t need space for a large water tank because the boiler heats the water as it goes.
+
+What Are the Different Types of Boilers?
+----------------------------------------
+
+There are multiple types of boilers, and they vary by efficiency, capacity and fuel type. The cost to replace a boiler also depends on what type you have. There are three types of fuel boilers could use.
+
+### Gas
+
+The cheapest option is a gas boiler that almost functions like a furnace. It uses a pilot light that ignites natural gas and heats the pipes the water travels through on its way to the radiators.
+
+### Electricity
+
+Electric boilers are the most eco-friendly option, but they might cost more per month to run than gas or oil boilers. They use electric heating elements to heat the water and don’t produce greenhouse gases in the process. You could still see a much higher electricity bill that’s not offset by your savings on natural gas.
+
+### Oil
+
+Oil boilers require an oil tank, which means they take up more space. They burn the oil instead of natural gas but work almost identically to gas boilers. Gas and oil prices change, making it difficult to say whether these boilers are more cost-effective than their gas counterparts.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

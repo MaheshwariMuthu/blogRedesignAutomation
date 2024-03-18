@@ -1,0 +1,84 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Should You Hire a Contractor or a Handyman?"
+headline: "Should You Hire a Contractor or a Handyman?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-06-07
+basePath: https://library.homeserve.com/m/
+heroImage: 501c232ab28ebde1/Blog-GettyImages-879656630.jpg
+heroAltDescription: "Middle aged man repairing burst pipe"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Do you need a handyman or a contractor? Here’s how to decide which type of professional to hire for your project. "
+articleAbstract: "You need a job done — but who do you hire to do it, a handyman or a contractor? Here’s how to decide which type of professional to hire for your project."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Should You Hire a Home Repair Pro or a Handyman?"
+  parent: Interior-Home-Home-Improvement
+---
+  You need a job done — but who do you hire to do it, a handyman or a contractor? There's no clear answer for every situation because each home improvement project or repair is a little different. A handyman generally costs less than a contractor, but sometimes, you need the extra experience or licenses for critical projects.
+
+**This May Also Interest You:** [**Need an Extra Hand? Here’s How to Hire Handyman**](https://www.homeserve.com/en-us/blog/how-to/hire-a-handyman/)
+
+Here’s how to decide which type of professional to hire for your project.
+
+What Jobs Should You Hire a Contractor or Repair Professional For?
+------------------------------------------------------------------
+
+A contractor or repair professional typically specializes in one area or trade, such as a licensed electrician, plumber, roofer or carpenter. Contractor training is usually different than handyman training, with contractors often needing a license and going through long apprenticeships to gain the necessary skills. Because they focus on specific areas, they're often more skilled and understand the codes covering that area.  Examples of jobs you typically hire a contractor for include:
+
+*   Extensive electric work, such as rewiring a house or installing new outlets
+*   Major plumbing work, such as repairing pipes
+*   HVAC work, including new furnace installation and major repairs
+*   Building an addition
+*   Structural repairs
+*   Building a deck
+
+What Jobs Can a Handyman Handle?
+--------------------------------
+
+A handyman dabbles in many areas. You can think of a handyman as a jack of all trades. Hiring a handyman is a good idea if you have lots of small jobs that don't require special training. However, they're often not allowed to handle specialized tasks, such as plumbing and electrical work, because they may not carry the proper licenses.
+
+A handyman can generally do smaller tasks with little risk or danger. States often regulate what a handyman can do, but some tasks that they can generally perform include:
+
+*   Painting your house or touching up paint
+*   Home maintenance
+*   Cleaning and repairing gutters
+*   Repairing drywall
+*   Installing shelving
+*   Hanging pictures
+*   Assembling furniture
+*   Installing or setting up appliances
+*   Minor plumbing jobs, such as cleaning out drain clogs
+*   Pressure washing
+*   Installing window treatments
+
+**More Related Articles:**
+
+*   [Here’s How Much Common Home Repairs Cost — and How to Budget for Them](https://www.homeserve.com/en-us/blog/cost-guide/home-repair-costs/)
+*   [What’s a Storm Chaser and Should You Hire Them to Fix Your Roof?](https://www.homeserve.com/en-us/blog/home-improvement/roof-repair-storm-chasers/)
+*   [How Much Does It Cost to Paint a Room?](https://www.homeserve.com/en-us/blog/cost-guide/paint-room/)
+*   [Locked Out? How Much Does a Locksmith Cost?](https://www.homeserve.com/en-us/blog/cost-guide/locksmith-services/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+
+Do I Hire a Handyman or Contractor?
+-----------------------------------
+
+The handyman vs. contractor debate typically comes down to the difficulty and extent of the job. Specialized tasks with a high risk often require a contractor. General maintenance and minor repairs are typically things a handyman can handle. Some other factors include:
+
+* **Permit requirements.** A job that requires a permit often needs a contractor licensed in a specific area, such as a plumber or electrician.
+* **Danger.** Anything that could be potentially dangerous, such as electrical work, plumbing that could cause water damage and work on gas lines, generally requires a contractor. Work that a handyman does usually has a relatively low risk.
+* **Scope of the project.** Contractors often handle longer, multi-stage projects that take days or weeks to complete. A handyman is more likely to come in for a few hours or a day to knock out several projects.
+* **Budget.** There's some overlap in what a handyman and contractor can do. If your project could go either way, your budget can help you decide. A handyman generally costs a little less than a contractor, so hiring a handyman can be better for a tight budget, as long as they're qualified for the job.
+
+Hiring the Right Professional
+-----------------------------
+
+Whether you choose a handyman or a contractor, hiring the best person for the job is important. Even though contractors are generally more skilled in specific areas, there can still be some who cut corners or are less experienced. Keep these tips in mind while you’re on the search for a handyman or contractor:
+
+* **Evaluate experience.** Ask the candidates how much experience they have and how they gained their experience. Contractors often have long apprenticeships, while handymen sometimes gain experience by trying things as they go.
+* **Verify insurance.** Contractors often work for established companies, and they should have liability and workers’ compensation insurance in place. Ask for proof of insurance coverage to ensure they're properly covered. Handymen often work for themselves, but they still need liability insurance in case something goes wrong.
+* **Ask for a contract.** Get quotes in writing and ask for a written contract to verify the terms of the arrangement.
+* **Understand the payment terms.** Find out how and when you'll pay the contractor or handyman. You typically shouldn't pay before the work is done, but you might have to make a down payment.
+* **Check past work.** Ask the contractor or handyman if you can see examples of their past work. This can be especially helpful for finished work, such as tile installation or building a patio.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/reJaChMAC_w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

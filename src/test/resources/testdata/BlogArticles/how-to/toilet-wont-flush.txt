@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 6 Common Reasons Why Your Toilet Won’t Flush
+headline: 6 Common Reasons Why Your Toilet Won’t Flush
+author: Team HomeServe
+tags: ['post', 'Plumbing Problems', 'Plumbing Repairs']
+publishDate: 2020-08-25
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: toilet-wont-flush-blog.jpg
+heroAltDescription: 6 Common Reasons Why Your Toilet Won’t Flush
+metaDescriptions: When your toilet won't flush, discovering the cause is the first step to fixing it.
+articleAbstract: When your toilet won't flush, discovering the cause is the first step to fixing it.
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0919
+stickyDisplayText: Call today for a local plumber.
+lightboxCopy: Local plumbing pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/plumbers/hs/same_day
+  large:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner1.png
+      alt: Plumbing eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner2.jpg
+      alt: Plumbing eLocal Banner 2
+category: ['How To']
+
+eleventyNavigation:
+  key: 6 Common Reasons Why Your Toilet Won’t Flush
+  parent: Plumbing-How-To
+---
+
+The worst feeling is going to flush your toilet bowl and realizing the toilet water won’t go down. Is it going to overflow? Is the toilet clogged? When you see this happening, your first instinct might be to start panicking. However, there's no reason to get stressed. A toilet that won't flush is actually a really common issue that's usually easy to repair. Our guide will explain some of the main reasons for toilet clogs, so you can fix the problem as quickly as possible. Remember that with all home DIY projects, safety is important. If you don't feel comfortable doing a task, it's best to leave it to a professional plumber.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+## The Toilet Won't Flush Right Due to a Problem With Your Toilet Handle
+
+When you try to flush your toilet, does the handle go down but nothing happens? This is usually good news because it's often one of the easiest issues to fix. Typically, if you aren't hearing or seeing any water move when you press the handle, it just means your toilet handle is disconnected.
+
+Inside of the toilet tank, the flushing handle is connected to a little arm and chain that lift the flapper. When you press the handle, the toilet flapper raises, and water is dumped into the bowl. Little things like a broken link in a chain or a loose nut can disconnect the handle from the flapper. Fixing it is as basic as reconnecting a couple of basic parts.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+## The Toilet Won't Flush Because Your Tank's Water Level Is Too Low
+
+When there isn't enough water in the tank, the toilet can't flush because it can't dump enough water in the bowl. To check if this is the problem, look in the back of the toilet tank. The water should be about one inch below the top of your overflow tube. In many cases, this is pretty easy to deal with.
+
+Sometimes, it's as basic as just twisting the flush valve. If your toilet's water intake valve was bumped, it might not be getting the water it needs to flush. In other cases, the float ball might've been adjusted improperly, causing it to sink too low and signal the tank is full before it really is. In some cases though, the root cause of this might be water pressure problems, pipe leaks, or other problems that require [help from a plumber]({{ migrationData.whyplanspage }}){target="_blank"}.
+
+## Toilet Water Won't Stop Running Because of a Flapper or Fill Valve Problem
+
+Does your toilet start to flush just fine but then won't stop constantly running? This turns into a problem because it makes it hard to flush the toilet again in the future. A running toilet is also an issue because it can waste quite a bit of water.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+Often, the underlying reason for this is that your flapper seal is bent or cracked. You may need to replace it, which is a fairly fast and easy repair. Another potential problem is hard water buildup inside of your fill valve, which can keep it from shutting off properly. After watching a couple of tutorials, it can be easy to flush the fill valve yourself, but you may want to get help from a plumber if you're new to DIY, just to be on the safe side.
+
+## Your Toilet Is Clogged
+
+In many cases, the problem isn't the toilet itself. Instead, the issue is a [clog inside the toilet](/en-us/blog/how-to/unclog-backed-up-toilet){target="_blank"}. Toilets are only designed to handle certain types and amounts of waste. It can be pretty easy for them to get clogged with items like sanitary products, a toy your kid dropped in the bowl, or just a large amount of toilet paper.
+
+If you have a toilet clog, you obviously know. If there's a something in the bowl that just won't go down, you probably have a clog. Small clogs fairly close to the surface can be dealt with yourself. You might just be able to plunge it or poke it with a toilet brush to get things moving again. For more stubborn clogs, you or your plumber may need to use a toilet auger to get in there and unclog the toilet.
+
+## You Have a Drain Line Problem
+
+It's possible for everything in your toilet to be functioning perfectly, but your toilet still won't flush at all. This means the problem lies deeper inside your plumbing. The drain lines that move waste to your sewer or septic can experience all sorts of issues. If a drain line malfunction is the cause of your toilet that won't flush, you may notice drains not working all over the house. Your sinks, showers, and tubs may get water backing up into them, or they might all drain slowly.
+
+Just like a toilet, your drain line itself can be clogged. You may need a plumber with an extra-long auger to come out and clean it. If the drain line is broken or leaking, it can also keep your toilet from flushing. Trees and other roots from your yard can grow into the drain line, too, which may require replacing the entire drain line section.
+
+Ultimately, there are all sorts of reasons for a toilet that won't flush. Some of these problems are fast and easy to fix yourself, while others will require help from a licensed plumber. Help protect yourself from the hassle and costs associated with plumbing repairs by having a plan from HomeServe. With a plan, we will pay for covered repairs up to the benefit amount, so you don't have to deal with unexpected expenses. Once the problem arises, you can call our 24-hour repair line and we’ll send an expert technician to come help you. Learn more about which [plumbing plans from HomeServe](/en-us/repair-plans/plumbing/){target="_blank"} are available in your neighborhood.

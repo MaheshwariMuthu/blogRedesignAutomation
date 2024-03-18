@@ -1,0 +1,80 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Flush Your Water Heater"
+headline: "Don't Forget to Flush! A 6-Step Guide for Flushing Your Gas or Electric Water Heater"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-04-20
+basePath: https://library.homeserve.com/m/
+heroImage: 1e03eea812c4dc2a/Blog-DGSO031121_HowtoFlushWaterHeater_Thumbnail.jpg
+heroAltDescription: "How to flush a water heater"
+metaDescriptions: "Has it been a hot minute since you flushed your water heater? Here's a step-by-step guide to flushing the sediment."
+articleAbstract: "Have you flushed your water heater lately? A lot of homeowners miss this item on their annual maintenance checklist. Thankfully, it’s a fairly simple task. Here’s a step-by-step guide."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Flush a Water Heater"
+  parent: Plumbing-How-To
+---
+  Have you flushed your water heater lately? Don’t be ashamed if you haven’t; a lot of homeowners miss this item on their annual maintenance checklist. Thankfully, it’s a fairly simple task — and one that may save you some cash in the long run. Flushing your water heater gets rid of the sediments and minerals that settle to the bottom of the tank. If left to build up, these sediments can cause your water heater to run less efficiently or even malfunction before its time.
+
+**This May Also Interest You:** [**How to Maintain a Hot Water Heater**](https://www.homeserve.com/en-us/blog/home-improvement/hot-water-heater-maintanence/)
+
+Suddenly aware of a maintenance task you’ve been neglecting? Perhaps you just need a refresher course. Either way, read on for a step-by-step guide to flushing your water heater.
+
+Things You’ll Need
+------------------
+
+*   Hose (a standard, garden-variety will do)
+*   Bucket (or you can use your sump pit)
+*   Adjustable pliers
+*   Flathead screwdriver
+
+Step-by-Step Instructions
+-------------------------
+
+### 1\. Cut the Power
+
+The first thing you’ll want to do is turn off the electricity or gas supply to your water heater. For a gas water heater, extinguish the pilot light. (Now’s a good time to make sure you'll know how to relight the pilot light when the job is done.) Consult the manufacturer’s instructions for details. If your water heater is electric, you can just cut the power at the circuit breaker.
+
+### 2\. Connect the Hose
+
+There should be a drain tap at the bottom of your water heater, whether it’s gas or electric. The tap looks a lot like the outdoor spigot for your garden hose. Connect one end of your hose here and put the other end in the bucket or pit.
+
+### 3\. Open the Floodgates
+
+Some models may have a knob you can twist open by hand. Others will require a flathead screwdriver to open the valve, turning it counterclockwise (or left loosey, if you prefer).
+
+### 4\. Hold Your Hoses!
+
+Water will drain out at high pressure, so make sure you have a tight grip on it before you open the valve. The water will also be very hot, so try not to let it splash everywhere.
+
+### 5\. Drain Until Clear
+
+Don’t be alarmed if the first few gallons of water that come out of your water heater are a little (or a lot) brown. Flushing the water heater regularly ensures these sediments don’t build up over time. Allow the water to drain until it goes clear. Depending on how often you flush your water heater, this could take just a few gallons, a few bucketfuls — or almost the whole tank.
+
+### 6\. Restore Power
+
+Now, you can return your water heater to working order. Close the valve on the drain tap (righty tighty), disconnect the hose and turn the power back on.
+
+*   [7 Tell-Tale Signs of a Water Heater Not Working](https://www.homeserve.com/en-us/blog/home-improvement/water-heater-warnings-signs/)
+*   [Here’s How Much It Will Cost to Replace a Water Heater](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-replacement-cost/)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)
+*   [How Much Does It Cost for a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+*   [What Is a Smart Water Heater?](https://www.homeserve.com/en-us/blog/home-improvement/smart-water-heater/)
+
+Should I Flush My Water Heater Myself?
+--------------------------------------
+
+This is typically a do-it-yourself maintenance task for most homeowners. However, if your water heater is old or overworked, you may be alerted to issues within your system while you're in the process of draining. Don’t be afraid to call a professional if anything seems out of the ordinary.
+
+Should I Drain All the Water?
+-----------------------------
+
+You shouldn’t need to. The water will probably run clear after just a few gallons. But if it’s been a while since you drained the tank, it might take longer to flush out all the sediment. If you fully empty the tank, it’ll need to be refilled before you turn the water heater back on.
+
+How Often Should I Flush My Water Heater?
+-----------------------------------------
+
+Best practice is to flush your water heater every one to three years. However, some experts recommend you flush your water heater more often. Direct Energy, for example, encourages flushing [every six months](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiw5K-UqcnvAhWEWc0KHX8DD14QFjADegQIAhAD&url=https%3A%2F%2Fblog.directenergy.com%2Fhow-to-flush-a-water-heater%2F&usg=AOvVaw1iRARbvaWOxVTuEwCQD20U) and increasing the frequency if you have particularly hard water in your area.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="520" height="281" src="https://www.youtube.com/embed/LfJL3ADHwTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

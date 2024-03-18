@@ -1,0 +1,96 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Fatberg?"
+headline: "What's a Fatberg? (Spoiler: It's as Gross as It Sounds)"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-05-02
+basePath: https://library.homeserve.com/m/
+heroImage: 7a5d27a714961d95/webimage-Fatberg_LordBelburyWikimediaCommons_0001.jpg
+heroAltDescription: " Fatberg  is an off-putting portmanteau of the words  fat  and  iceberg   They re rock-hard masses of solidified fat  When you pour cooking grease down the drain, it cools and congeals in the sewer pipes "
+metaDescriptions: "Fatbergs are rock-hard masses of solidified fat and personal-hygiene products that can clog sewers. Here's what homeowners should know about them."
+articleAbstract: "Fatbergs are massive amalgam of cooking fat and personal hygiene products that can clog sewers and cause sewage backups in your home. Preventing them is as simple as properly disposing of cooking grease in the trash rather than the drain."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is a Fatberg?"
+  parent: Plumbing-Home-Improvement
+---
+  
+
+In 2017, a [140-ton blockage](https://www.theguardian.com/environment/2017/sep/12/total-monster-concrete-fatberg-blocks-london-sewage-system) was discovered in London’s sewer system. The mass was made up of a nauseating combination of congealed cooking grease and wet wipes. Working seven days a week, it took crews over a month to remove it.
+
+**This May Also Interest You:** [**Got a Clogged Sewer Line? Here’s What to Do**](https://www.homeserve.com/en-us/blog/how-to/fix-clogged-sewer-line/)
+
+Monster blockages like this — often called fatbergs — aren’t just a problem for cities. If they get too large, sewage can back up into your home. Here’s what homeowners should know about fatbergs, including how to prevent them.
+
+So ... It’s a Giant Glob of Fat?
+--------------------------------
+
+Yep. “Fatberg” is an off-putting portmanteau of the words “fat” and “iceberg.” They’re rock-hard masses of solidified fat. When you pour cooking grease down the drain, it cools and congeals in the sewer pipes. If everyone dumps their cooking fats down the drain, the problem multiplies. Personal hygiene products and anything else that gets flushed down the toilet can become enmeshed in these globs of fat, making them even larger.
+
+The one found in London wasn’t an anomaly; these things can get _huge._ A fatberg discovered in sewers [below Metro Detroit](https://www.mlive.com/news/2018/09/fatberg_metro_detroit.html) was 100 feet long. Large accumulations of grease have been found in several areas of the U.K., including a [40-ton mass in East London](https://abcnews.go.com/International/40-ton-fatberg-size-double-decker-bus-removed/story?id=66663243).
+
+<img class="detail-image" src="https://library.homeserve.com/m/5f10bbd06421e6e6/webimage-iStock_000007759161_sewer_main_cover_K.png" alt="sewer line cover"/>
+-------------------------------------------
+
+Gross. How Do They Get So Big?
+------------------------------
+
+Fatbergs are like snowballs: The larger they get, the larger they can become. They sit in sewer systems and collect all the inorganic matter that floats past. As fatbergs grow, they can cause some serious issues. In Baltimore, a massive fatberg caused a [1.2 million-gallon sewage overflow](https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-fatberg-20170925-story.html). Leaks like these are bad for the environment and may contaminate drinking water.
+
+<img class="detail-image" src="https://library.homeserve.com/m/4810a77151462950/Blog-GettyImages-1210392966.jpg" alt="Frying pan with non-stick surface and hot oil under water tap flow in sink"/>
+-------------------------------------------
+
+All That Is Caused by Grease and Cooking Oil?
+---------------------------------------------
+
+For the most part, yes. But bacon grease and the vegetable oil from your fryer aren’t the only culprits. According to [Hunker](https://www.hunker.com/13421059/can-you-pour-oil-down-the-drain), greasy or oily liquids of any kind contribute to these fat deposits. Salad dressing, ice cream, butter and petroleum jelly can also build up into fatbergs.
+
+The other characteristic of fatbergs is that they get a lot of their structure from the items that get stuck in them — wet wipes, Q-tips, floss and all kinds of stuff that shouldn’t be flushed down the toilet. Even “flushable” wipes don’t break down enough to avoid being caught up in fatbergs.
+
+How Do They Get Rid of Them?
+----------------------------
+
+The largest fatbergs can take weeks — even months — to fully remove. Crews break up the mass into smaller chunks using pressure washers. Unfortunately, a lot of the gunk has to be [removed by hand](https://abcnews.go.com/International/40-ton-fatberg-size-double-decker-bus-removed/story?id=66663243) before it’s vacuumed out into trucks for disposal.
+
+Fatbergs are also expensive to remove. New York City’s Department of Environmental Protection spends almost [$19 million a year](https://www1.nyc.gov/site/dep/whats-new/trash-it-dont-flush-it.page) removing fatbergs from city sewers and repairing the damage they cause. According to the department, these costs are passed on to consumers in the form of higher water and sewer rates.
+
+**More Related Articles:**
+
+*   [How to Clear a Clogged Drain](https://www.homeserve.com/en-us/blog/how-to/unclog-any-drain/)
+*   [Snake’s in a Drain! How to Unclog Your Sink With a Drain Snake](https://www.homeserve.com/en-us/blog/how-to/how-to-unclog-sink-with-snake-drain/)
+*   [Backed Up in the Garage? Here’s How to Unclog Your Floor Drain](https://www.homeserve.com/en-us/blog/how-to/unclog-garage-floor-drain/)
+*   [How to Fix a Clogged Toilet](https://www.homeserve.com/en-us/blog/how-to/unclog-toilet/)
+*   [How to Unclog your Garbage Disposal](https://www.homeserve.com/en-us/blog/how-to/unclog-garbage-disposal/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/29eaa696acb3f2d6/Blog-GettyImages-1162111755.jpg" alt="man throwing a wet wipe to the toilet"/>
+-------------------------------------------
+
+Is There Anything I Can Do to Prevent Fatbergs?
+-----------------------------------------------
+
+Here are five things you can do to fend off fatbergs:
+
+### 1\. Watch What You Flush
+  
+Stop flushing weird stuff down the toilet. It’s for human waste and toilet paper only.
+
+### 2\. Same Goes for the Sink
+  
+Remember that your kitchen sink is not the place to dump oils, animal fats, grease, dairy and other similar substances. After cooking, let them cool off. For fats that will solidify, let them harden in a disposable container, then throw it in the trash. Pour liquid oil back into the container it came in and screw the lid on tight before you toss it.
+
+### 3\. Consider Installing a Residential Grease Trap
+
+According to [Anderson Plumbing, Heating & Air of California](https://www.andersonplumbingheatingandair.com/blog/2019/january/is-it-time-to-install-a-residential-grease-trap-/), installing a grease trap in your kitchen can help reduce the amount of fat and oil that accidentally ends up down the drain, especially if you cook a lot. Installed below your sink, grease traps separate oily substances from your wastewater so it doesn’t end up in the sewer.
+
+### 4\. Get a Bidet
+
+“Flushable” wet wipes are only called that because they’ll make it down your toilet and out of your pipes without causing a clog. They’re not actually made to break down the same way toilet paper is, so they get stuck in fatbergs. If you still want that fresh-and-clean feeling, installing a bidet is a great way to do so without adding to the amount of waste in the sewers.
+
+### 5\. Recycle Your Cooking Oil
+
+Some cities or counties have oil recycling programs. Usually, this service is used by restaurants. But if you use large volumes of cooking oil, you can drop it off at your local recycler, where it is converted into biofuel or soap. [Earth911](https://search.earth911.com/?what=%235+Plastic+Cups&where=48849&list_filter=all&max_distance=25&family_id=&latitude=&longitude=&country=&province=&city=&sponsor=) has a tool to find these resources in your ZIP code.
+
+_\[Photo credit: Lord Belbury/Wikimedia Commons/_[_Creative Commons Attribution-Share Alike 4.0 International license_](https://creativecommons.org/licenses/by-sa/4.0/deed.en)_\]_
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="367" height="281" src="https://www.youtube.com/embed/dU_gpHOvPbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

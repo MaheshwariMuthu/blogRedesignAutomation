@@ -1,0 +1,88 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "DIY Rain Barrel: How to Make a Rain Barrel"
+headline: "How to Make a Rain Barrel: A 4-Step DIY Guide"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-06-28
+basePath: https://library.homeserve.com/m/
+heroImage: 6bebc5031f5a27fb/Blog-GettyImages-172248850.jpg
+heroAltDescription: "Green Rain Barrels In Use collecting water out of a gutter"
+metaDescriptions: "You can build your own gutter rain barrel in just a few hours. All you need is our step-by-step guide and a few cheap materials."
+articleAbstract: "If you've ever received an eye-wateringly expensive water bill, you may be wondering if there's a way to top up your supply with rainwater. You can build your own gutter rain barrel in just a few hours. All you need is our step-by-step guide and a few cheap materials."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install a Rain Barrel"
+  parent: Exterior-Home-How-To
+---
+  
+
+**Making a Rain Barrel at a Glance**
+
+* **Tools & Materials:** 55-gallon barrel (or garbage can), spigots, flexible drainpipe, window screen mesh, hosepipe, barrel stand
+* **Step 1:** Decide on location and install barrel stand
+* **Step 2:** Connect drainpipe
+* **Step 3:** Install spigots
+* **Step 4:** Add window screen
+
+If you've ever received an eye-wateringly expensive water bill, you may be wondering if there's a way to top up your supply with rainwater. If this sounds familiar, a DIY rain barrel could be the ideal solution. This cost-effective project allows you to collect the rainwater from your home's gutter system, so you can use it to water your garden or lawn. A rain barrel could even reduce the chances of your basement flooding during wet weather by siphoning water away.
+
+**This May Also Interest You:** [**Got Your Mind in the Gutter? Ponder Our 8-Step Gutter-Installation Guide**](https://www.homeserve.com/en-us/blog/how-to/install-gutters/)
+
+You can build your own gutter rain barrel in just a few hours. All you need is our step-by-step guide and a few cheap materials.
+
+How Do You Make a Homemade Rain Barrel?
+---------------------------------------
+
+Before you start building your rain barrel system, you'll need to purchase a few materials:
+
+*   55-gallon plastic barrel or garbage can
+*   Two spigots
+*   Flexible drainpipe
+*   Window screen mesh
+*   Barrel stand (optional)
+*   Hosepipe
+
+### Step 1: Decide Where to Put Your DIY Rain Barrel
+
+A DIY rain barrel collects rainwater running off your home's gutters, so you'll need to set it up next to a drainpipe leading down from your gutters.
+
+Before you start building your rain barrel, you may wish to construct a stand for it to sit on or use a pre-made one. While it's fine to leave the barrel on the ground, raising it a couple of feet makes it easier to put a watering can or another receptacle under the spigot. Anything you use as a barrel stand needs to be level and sturdy enough to hold about 300 pounds.
+
+<img class="detail-image" src="https://library.homeserve.com/m/63f8aa08c775a2d6/Blog-GettyImages-180735712.jpg" alt="a blue Rain Barrel rests under a white gutter on a home to collect rainwater"/>
+
+### Step 2: Connect the Drainpipe
+
+There are several ways to connect the gutter drain to the water barrel, but the simplest is using a piece of flexible drainpipe of the same diameter so that you can bend it around into the correct position. Take the barrel or garbage can lid, put the end of the flexible drainpipe against it and draw around it carefully to ensure a secure fit. Then, cut the hole out using a small saw.
+
+### Step 3: Install the Spigots
+
+You'll need to install two spigots: one at the bottom to collect water and another at the top to prevent the barrel from overflowing. Place the first spigot near the bottom of the barrel, drawing around it and cutting out an installation hole. Insert the spigot and seal the joint with silicone.
+
+Place the second spigot close to the top of the barrel using the same method. You'll need to leave the valve open to let water escape if your rain barrel gets too full. Attach a hosepipe to the overflow spigot and route it into the nearest drain to stop water from pooling around your home's foundation.
+
+### Step 4: Add the Window Screen
+
+Finally, cut a section of window screen mesh a little larger than the barrel's diameter. Stretch it over the top of the barrel and push the lid on firmly, inserting the flexible drainpipe into the hole you cut earlier. Installing window mesh stops debris and insects from getting into your water supply.
+
+**More Related Articles:**
+
+*   [Cleaning Gutters Doesn’t Have to Be Gut-Wrenching. Here’s a Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/gutter-cleaning/)
+*   [How Much Does It Cost to Clean Gutters?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-gutter-cleaning-cost/)
+*   [Gutter Installation Cost Guide](https://www.homeserve.com/en-us/blog/cost-guide/gutter-installation-cost/)
+*   [Everything You Need to Know About Gutters](https://www.homeserve.com/en-us/blog/buying-guide/gutter-system/)
+*   [How to Prevent Water Damage With Proper Home Drainage](https://www.homeserve.com/en-us/blog/how-to/water-damage-prevention/)
+
+Can I Use a Rain Barrel Without a Gutter?
+-----------------------------------------
+
+If your home doesn't have a gutter system, you can still use a 55-gallon rain barrel to collect water falling from your roof. Or, simply place large containers at several points around your home.
+
+Location is key if you want to make a rain barrel without a gutter. During rainy weather, walk around your home and locate the areas where the most water flows from the roof. Placing one or more barrels in these places will let you collect as much water as possible.
+
+The process for creating a gutter-free rain barrel is almost identical to the steps above, but you won't need a lid or flexible drain pipe. You'll still need to place a window screen over the top to keep the water free from debris. Cut the mesh with several inches to spare around the diameter, stretch it over the barrel and wrap bungee cords around the edge to keep it in place.
+
+Is Catching Rainwater Illegal?
+------------------------------
+
+Collecting rainwater is generally legal across the U.S., and many states actively encourage their residents to collect rainwater to ease demands on local water supplies and protect the environment. For example, [Rhode Island](http://webserver.rilin.state.ri.us/BillText12/HouseText12/H7070.htm) offers its residents a tax credit for catching and using rainwater. However, some states regulate rainwater collection — with restrictions on the amount you can collect or how you can use the water — so it's important to [check the restrictions in your state](https://worldpopulationreview.com/state-rankings/states-where-it-is-illegal-to-collect-rainwater) before building a rain barrel system.

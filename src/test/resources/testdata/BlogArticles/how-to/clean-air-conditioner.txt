@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean a Central Air Conditioner"
+headline: "How to Clean a Central Air Conditioner: Just 5 Chill Steps"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-11-11
+basePath: https://library.homeserve.com/m/
+heroImage: 101a1434ae78a86/Blog-GettyImages-1037763868.jpg
+heroAltDescription: "Air conditioner maintenance"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Cleaning your AC system keeps it running as efficiently as possible, keeping indoor temperatures cool and your energy costs at bay. Here's how."
+articleAbstract: "Cleaning your AC system keeps it running as efficiently as possible, keeping indoor temperatures cool and your energy costs at bay. Here's how."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clean a Central Air Conditioner"
+  parent: HVAC-How-To
+---
+  During those sweltering summer months, your central air conditioning system suddenly becomes the most valuable appliance in your home. That’s why you’ll want to do everything you can to make sure that it’s in tip-top shape when the warmer weather arrives.
+
+**This May Also Interest You:** [**Should You Repair or Replace Your Air Conditioner?**](https://www.homeserve.com/en-us/blog/home-improvement/repair-replace-air-conditioner/)
+
+It’s no secret that making sure your central AC unit is in good working order requires routine maintenance and cleaning. Not keeping up on these important air conditioning maintenance tasks will ultimately prevent your system from running as efficiently as it should and could even land you into some pretty costly repairs.
+
+One easy way to keep up with your air conditioner maintenance is to make sure your system stays as clean as possible. This includes replacing and cleaning your air filters, washing your AC coils and fins and wiping down the fan blades.
+
+Want to know how to clean your AC unit? Run through this maintenance checklist twice a year, and you can rest easy knowing that your central AC will be ready to perform when the time comes.
+
+Replacing Your Air Filters
+--------------------------
+
+An important first step in keeping your central AC system clean is to change or replace your air filters twice a year, although it can be a good idea to replace them every three months. In order to clean your air, the filters collect dust and debris and, eventually, will become too dirty and clogged to function properly. Dirty filters obstruct the airflow in your HVAC system, leading to lower efficiency, higher power bills and maybe even unnecessary repairs.
+
+To change the filter, first find where your air filters are located. There’s a good chance you have more than one in your home. For example, your air return register, air handler and a window AC unit (if you have one) all have air filters that need regular replacing or cleaning. Replacing the filter is usually as simple as removing the old, dirty filter and replacing it with a new one. But keep in mind that you’ll want to replace the old filter with one of the exact same size. Even a slightly smaller filter won’t provide adequate filtration for your AC system. If you have a washable filter, cleaning it is usually as simple as using a garden hose to spray the metal layers to remove the collected dust and debris. Once the filter has been washed, let it completely dry before putting it back into the filter rack.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+Cleaning the Condenser
+----------------------
+
+In addition to replacing your air filters, you’ll want to make sure that you are cleaning your outside condenser unit as well. It’s best practice to clean it at least twice a year, as a dirty condenser unit can lead to problems fairly quickly. To give your condenser a thorough cleaning, run through the following steps:
+
+### Step 1: Turn Off Power
+
+Start by making sure that you shut off power to the condenser. In many cases, there should be an outdoor “ON/OFF” switch housed in a square box near the unit. When you find it, move the switch to the “OFF” position. If you don’t see an external switch, you can either disconnect the plug connected to the power box, or shut off the breaker switch for the HVAC in your circuit breaker box.
+
+### Step 2: Brush the Coil Fins
+
+Start by brushing the AC coils and coil fins with a fin comb (or any other type of soft brush) to remove any debris you see accumulated on the fins. Because the condenser pulls in air through the coil fins, leaves, sticks, grass and other debris will collect in the fins over time, decreasing its overall efficiency. Once the fins and coils have been brushed clean, take a garden hose and, using a spray nozzle, spray the coils to remove any stubborn bits of dirt and debris left on the condenser fins.
+
+As you're cleaning your AC coils, take a moment to straighten out any bent or crooked fins you see. Use a butter knife or another similar kitchen utensil to straighten the fins. Be careful not to exert too much pressure as you could damage them further or break them altogether.
+
+### Step 3: Clean the Condenser
+
+Once your fins are clear of debris, do the same to the fan inside the condenser. Start by unscrewing the grate covering from the condenser to access and remove and clean the fan. In some cases, the fan motor will have wires that connect to the compressor. If this happens, don’t attempt to disconnect the wires. Instead, lift the fan from inside the condenser as far out as you can; you should still be able to access the fan blades in order to clean them.
+
+### Step 4: Wipe Off the Fan Blades
+
+Use a clean cloth to wipe dirt and debris off the fan blades. To ensure that you’re removing all the dirt, wet each blade using a spray bottle and wipe them with a towel. After the blades are wiped clean, spray water from the hose through the condenser fins from the inside to make sure any and all blockages are removed.
+
+### Step 5: Put It All Back Together
+
+When you’ve finished washing the inside of the compressor and cleaning the fan blades, put the fan back in place and screw the grate back on the top of the unit. Then turn the AC unit’s power back on. Your AC unit has been cleaned and is ready for use.
+
+Keep Your Central AC Running Smoothly
+-------------------------------------
+
+All said and done, cleaning the external and internal parts of your outside condenser only takes about a half hour to complete. And the truth is, when the summer months set in, you’ll be thankful that you’ve taken the time for this routine air conditioner cleaning. Doing so will keep your system running as efficiently as possible, keeping indoor temperatures cool and high energy costs at bay.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

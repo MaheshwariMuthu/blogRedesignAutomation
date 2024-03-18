@@ -1,0 +1,113 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to Create an Accent Wall with Shiplap
+headline: Ensure Your Shiplap Walls Are Shipshape With This Step-by-Step Installation Guide
+author: Kim Causey
+tags: ['post']
+publishDate: 2020-12-05
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: shiplap-installation-before.jpg
+heroAltDescription: entryway wall with shiplap being applied by a professional
+metaDescriptions: Shiplap planks are an easy way to dress your room up and make an attractive and inviting accent wall. They are also pretty simple to install.
+articleAbstract: Shiplap planks are an easy way to dress your room up and make an attractive and inviting accent wall. They are also pretty simple to install.
+category: ['How To']
+
+eleventyNavigation:
+  key: How to Create an Accent Wall with Shiplap
+  parent: Electrical-How-To
+---
+
+What if you could the look of reclaimed wood at a fraction of the cost? Perhaps you&#39;re looking to do an accent wall in your living room, or to cover the walls in your home office. No matter which walls you&#39;re looking to dress up, shiplap is a stylish option to consider.
+
+**This May Also Interest You:** [**How to Fix a Hole in the Wall like a Pro**](/en-us/blog/how-to/fix-hole-wall/)
+
+Shiplap gives your home a rustic, timeless touch. But, you may be asking yourself, what exactly _is_ shiplap? Read on.
+
+## What Is Shiplap
+
+Shiplap is simply the term for the a wall treatment composed of boards that have grooves cut into their edges for a tight, overlapping fit. In interior-design terms, it&#39;s a style of wooden siding characterized by long planks that are normally painted white and mounted horizontally with slight gaps between them. The manner in which they&#39;re hung is intended to resemble _exterior_ shiplap walls.
+
+Shiplap walls can be used to create a focal point in any room and can play up the rustic look with a few simple accessories. They&#39;re also an easy do-it-yourself job.
+
+## How to Measure a Wall for Shiplap
+
+Measuring your wall for shiplap is the first step for a successful installation. Proper wall measurements will allow you to calculate the amount of shiplap needed to ensure a proper fit.
+
+Here are four steps for determining how much shiplap you need:
+
+### Step 1
+
+Using a tape measure, measure along the bottom of your wall for the width, and from the floor to the ceiling for the height. Make sure you measure in multiple areas, as ceilings and floors can be uneven.
+
+### Step 2
+
+After finding the height and width, multiply them together to find the square footage of the area you wish to cover.
+
+### Step 3
+
+You&#39;ll then need to decide on what type of shiplap board you want to use. After that, you&#39;ll need to calculate the square footage of one board. The most common is 5 inches x 12 feet, covering 5 square feet.
+
+### Step 4
+
+Next, take the total square footage you calculated for your needs and divide it by the square footage of an individual plank to get the total amount of planks needed to complete your project.
+
+Example: If the room is 96 square foot and you&#39;re using the 5x12 boards, divide 96 by 5, which comes out to 19.2 boards. So you would round up and buy 20 boards. Consider purchasing one or two extra boards in case one is damaged or in case you make a bad cut.
+
+## Where to Buy Shiplap
+
+You can purchase shiplap from most home-improvement stores, and the big-box stores typically offer a wide variety. You could also go online and order from a direct supplier. Wherever you decide to buy, make sure you compare prices and quality indicators.
+
+## Average Cost of Shiplap
+
+Shiplap prices range from $2.50 to $7 per square foot for real boards. Those prices can vary depending on the length and width of the board you&#39;re using for your project.
+
+OK! Now that you&#39;ve measured your room, and picked out and purchased your shiplap after determining how much you need, you&#39;re ready to start hanging it, and creating a whole new look for your room.
+
+The tools you&#39;ll need include:
+
+* A saw
+* A level
+* A stud finder
+* A hammer and nails
+
+## Installation Steps
+
+### Step 1: Prepare Walls
+
+The first step is to get your walls ready. Remove everything from your walls, including all trim, molding and baseboards.
+
+### Step 2: Paint
+
+Shiplap has gaps in between the joints that let the wall color show through, so you&#39;ll need to paint the walls the same color as your shiplap planks, or if you are going for a bolder look, you could paint them a contrasting color.
+
+### Step 3: Mark Studs
+
+Use a stud finder to determine where your wall studs are, and mark them with a chalk line to make installation easier.
+
+### Step 4: Make a Guideline
+
+Using a level, draw a straight horizontal line from one end of the wall to the other.
+
+### Step 5: Follow Your Guideline
+
+Line up the top edge of the bottom row of boards with the horizontal guideline you created. Make sure your boards are level.
+
+### Step 6: Attach Planks
+
+Place a nail through the top and bottom of each plank where it crosses a stud. If you prefer, you can also use an adhesive secure the planks.
+
+### Step 7: Insert Spacers
+
+You can use nickels as spacers between each row of shiplap to give it a more authentic look, or you can simply butt the boards together.
+
+### Step 8: Stagger and Finish
+
+Make sure you cut and arrange the planks such that they&#39;re staggered from row to row. Repeat nailing and gluing until the entire wall is covered.
+
+**More Related Articles:**
+
+*   [What Is Wainscoting?](/en-us/blog/home-improvement/wainscoting/)
+
+_Since we&#39;re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._
+
+<img class="detail-image" src="/en-us/assets/images/blog/how-to/shiplap-installation-after.jpg" alt="Farmhouse wall with shiplap"/>

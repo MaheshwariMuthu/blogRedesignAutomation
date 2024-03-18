@@ -1,0 +1,89 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "HVAC Troubleshooting Tips"
+headline: "HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-10-13
+basePath: https://library.homeserve.com/m/
+heroImage: 5535c1ff1d5da573/Blog-ZIP_0472.jpg
+heroAltDescription: "HVAC"
+metaDescriptions: "There's almost nothing worse than having an HVAC system call it quits. Here are some simple DIY fixes you can try."
+articleAbstract: "There aren't too many situations worse than having the HVAC system go on the fritz at the wrong time. Fortunately, many common issues have simple solutions. Here are a few things you can try before you call a professional."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "HVAC Stop Working? Troubleshooting Tips Before You Call for Service"
+  parent: HVAC-Home-Improvement
+---
+  
+
+Why is it always that sweltering day in the dead of summer when your AC stops working, right when you need it most? Or it’s the furnace that quits on that frigid winter day just before the snow rolls in. There aren't too many situations worse than having the HVAC (heating, ventilation and air conditioning) system go on the fritz in those desperate times.
+
+**This May Also Interest You:** [**The Do’s and Don’ts of HVAC Maintenance**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+
+Fortunately, many common HVAC issues have pretty simple solutions and don’t require the help of a technician. Read on to learn about some of the most common HVAC problems and their solutions.
+
+Poor or Reduced Airflow
+-----------------------
+
+This can be one of the most frustrating problems you might experience as an HVAC owner: You turn your air conditioning on and everything appears to be running normally, except there’s no air coming through the vents. If you're experiencing an issue like this, it could be caused by a few problems.
+
+### Replace or Clean the Filter
+
+With any restriction in airflow, it’s important to first take a look at your air filter. Over time, these filters can get loaded up with dirt, dust and other debris, which will eventually begin to block airflow. Additionally, if your air filter is clogged, it can cause your evaporator coils to freeze, blocking your airflow even more.
+
+If you don’t know where your filter is, start by locating the return air vent. You may have to do a bit of reconnaissance here, as return vents can be located almost anywhere in your home — on floors, walls or even ceilings. Most often though, they’re found in central areas of the home. Air filters are typically found behind the big metal grates covering these return ducts. Depending on the size of your home and your HVAC system, you might have multiple return vents and filters throughout your house.
+
+To replace a filter, start by determining what type of filter you have. If your home uses disposable filters, you can simply throw away the old, clogged filters and replace them. But, if your home has washable filters, you can clean them using a soft brush and a white vinegar-water solution. Make sure you let your filter completely dry before putting it back into the duct. If your filters are the disposable type, you’ll need to measure them to see what size replacement you’ll need, as filters come in an array of different sizes.
+
+**Pro Tip:** There’s really no hard-and-fast rule about how strong the airflow should be out of your vents. It all depends on the size of your HVAC system and the size of your home. Generally speaking, the airflow from the vents should be roughly the same throughout your entire home. If that’s not the case, it might signal that you have an airflow problem that needs addressing.
+
+Air Conditioner Not Cooling Enough
+----------------------------------
+
+### Open Your Vents
+
+Another common problem is an air conditioning unit that’s suddenly unable to keep a house cool. The good news here is that the root cause is oftentimes pretty simple. First, start by making sure all your air vents are open and unobstructed. It may sound obvious, but even if just one of them is closed or blocked, it can cause your home to feel warmer since the warm air from one room will mix with the cold air from the other rooms.
+
+### Clean the Condenser
+
+If your vents are open and unobstructed, you’ll then want to take a look at your AC unit’s condenser to check and see if it’s dirty or blocked. You should be able to easily locate the condenser as it’s the boxy (and sometimes loud) portion of the system located outside your home somewhere. Sometimes, tall grass and weeds can grow in and around the condenser and block it, causing ice to form on the coils. You can also clean the condenser unit using a garden hose by directing a stream of water downwards along the outside of the grill that surrounds the unit.
+
+### Check Refrigerant Levels
+
+If you’ve checked all of the above and everything seems in good shape, your problem is most likely low refrigerant. Refrigerant is the substance used in air conditioners that absorbs warmth from the air and, as a result, sends nice, cold air into your air ducts. Refrigerant doesn’t typically run out unless you have a leak of some kind. To repair the leak and get your refrigerant refilled, you’ll need to call a service professional.
+
+**More Related Articles:**
+
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [Replacing Your HVAC Air Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Is an HVAC Tune-up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/39ad95ba88827ba/Blog-ZIP_0423.jpg" alt="HVAC"/>
+-------------------------------------------
+
+Furnace Is On, But Not Heating
+------------------------------
+
+### Replace the Filter
+
+It’s one thing to have air conditioning issues in the hot summer months, but you’ll never want to be without heat during the winter. A furnace malfunction can be alarming, but it might not necessarily be a big issue. Just like your air conditioner, the warm air produced by your furnace won’t be able to travel through your vents if the filter is clogged. Cleaning or replacing the dirty air filter might do the trick.
+
+<img class="detail-image" src="https://library.homeserve.com/m/10ad48093f077c88/Blog-GettyImages-183796537.jpg" alt="HVAC unit"/>
+
+### Make Sure the Pilot Light Is On
+
+Another reason your furnace may not be blowing warm air is that the pilot light has gone out. If you have an older gas furnace — from 2010 or earlier — there’s a good chance it has a continuously lit pilot light, which ignites the fuel that warms your house. Sometimes the pilot light can go out and needs to be relit before operating properly. While relighting the flame is not often a very big deal, it’s best you call an HVAC technician to examine your furnace to ensure that there aren’t any larger issues that have caused the light to go out.
+
+Maintenance Is Key
+------------------
+
+There’s no way around it: HVAC systems need regular maintenance to run properly. If you don’t already do it, make sure that you are cleaning or replacing your air filters every 90 days. Once each season, you should also make sure that you are removing dirt and debris from your condensing unit. Finally, you should call an HVAC technician out to service and examine your system at least once a year. Performing these regular maintenance tasks can keep your system running in tip-top shape, lowering the chances that you’ll be left with heating or cooling systems that don't work when you most need them to.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

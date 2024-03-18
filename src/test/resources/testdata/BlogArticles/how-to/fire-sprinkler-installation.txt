@@ -1,0 +1,139 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Fire Sprinkler Installation: How to Install Residential Fire Sprinkler"
+headline: "How to Install a Fire Sprinkler System in Your House"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-04-08
+basePath: https://library.homeserve.com/m/
+heroImage: 4f8eb8136358dec/Blog-SprinklerSystem_MSchmitz_0001.jpg
+heroAltDescription: "Home sprinkler system"
+metaDescriptions: "A fire sprinkler system can protect your home in a fire. Here's a step-by-step guide to installing a sprinkler system in your house."
+articleAbstract: "Fire sprinkler systems can reduce property damage in the event of a fire. More importantly, they can help save lives. But to be effective, they must be installed properly. Here's a step-by-step guide."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install a Residential Fire Sprinkler System"
+  parent: Plumbing-How-To
+---
+  **Fire Sprinkler System Installation at a Glance**
+
+* **Tools and materials:** Drill, hole saw attachment, CPVC piping, pipe straps, screws, stud finder, sealant
+* **Step 1:** Check water pressure
+* **Step 2:** Install system in basement
+* **Step 3:** Conceal piping in wall
+* **Step 4:** Run pipe upstairs
+* **Step 5:** Install sprinkler heads
+* **Step 6:** Insulate, patch drywall and test for leaks
+
+If installing a residential fire sprinkler system sounds like a big task, you'd be right. With the proper tools and a step-by-step guide, it is possible to perform a fire sprinkler installation yourself — but that doesn't always mean you should.
+
+**This May Also Interest You:** [**Learn How to Install a Smoke Detector Safely**](https://www.homeserve.com/en-us/blog/how-to/install-smoke-detector/)
+
+Fire sprinkler systems can reduce property damage in the event of a fire. More importantly, they can save lives. But to be effective, they must be installed properly. Find out more below.
+
+Can You Install a Fire Sprinkler System Yourself?
+-------------------------------------------------
+
+You _can_ install a fire sprinkler system without the help of a professional. However, you'll need to check with your municipal office to see if a building permit is required to do so. In some cases, it's a good idea to recruit the help of a certified plumber or tradesperson to do the work properly.
+
+The American Fire Sprinkler Association [strongly discourages anyone](https://www.firesprinkler.org/WWW/News/Facts_and_Figures/WWW/Facts_and_Figures.aspx?hkey=f6e1e8af-0e24-4a9b-a8a3-3ee3a7ff1fdf) from attempting a fire sprinkler installation without proper training. Sprinkler systems should always be installed according to guidelines laid out by the National Fire Protection Association.
+
+If you want to do the job yourself, you'll need to gather the correct safety gear and follow directions precisely to ensure you're doing the installation properly. Always refer to the manufacturer’s instructions for your specific product, as methods for installation may vary. If you feel like you're in over your head, call a professional.
+
+Why Is a Fire Sprinkler System Important?
+-----------------------------------------
+
+According to the U.S. Fire Administration, [3,810 Americans lost their lives](https://www.usfa.fema.gov/data/statistics/fire_death_rates.html) in household fires in 2018. Some hazards that cause fires may be present in your home. Fatal conditions and toxic fumes can be generated within two minutes of a fire starting in a residential dwelling. Investing in a residential fire sprinkler system can save lives in a worst-case scenario, reducing the number of injuries and mitigating the impact the fire damage has on your property.
+
+Types of Fire Sprinkler Systems
+-------------------------------
+
+The National Fire Protection Association (NFPA) outlines codes and standards for home sprinkler systems. Specifically, NFPA 13D is the code that sets the standard for installing sprinkler systems in one- or two-family dwellings.
+
+There are four [types of fire suppression systems](https://resources.impactfireservices.com/what-are-the-main-types-of-sprinkler-systems) that an individual might want to learn how to install in their home. These include:
+
+### Wet System
+
+These are traditional home fire sprinklers that dispel water at the site of the fire to dampen or minimize the flames. In a wet system, each sprinkler head is triggered independently, releasing pressurized water wherever the system senses heat.
+
+### Dry System
+
+Dry pipe sprinkler systems do not store water in the pipes. Instead, they use nitrogen or pressurized air. If the system senses a fire, the sprinkler system is activated, nitrogen is released and water flows into the pipes and rains onto the flames. For dwellings in extremely cold regions where there is a risk of pipes bursting, this is often the most practical choice.
+
+### Pre-Action System
+
+A pre-action system is another form of a dry pipe sprinkler system, but it allows the system to be shut down in case of a false alarm before the water supply starts spraying. There’s a two-step process: Water fills the pipes, then each sprinkler head is individually activated. A pre-action system is not ideal for residential dwellings.
+
+### Deluge System
+
+Again, deluge systems are better suited to industrial facilities rather than residential homes. This dry pipe system is always open but does not feature a heat sensor in the sprinkler head itself. It must be activated by an external heat sensor. When activated, water falls from all sprinkler heads at once.
+
+Equipment Checklist
+-------------------
+
+*   Thread sealant
+*   Drill and hole saw attachment bit
+*   CPVC piping
+*   Pipe straps
+*   Screws
+*   Pipe cement
+*   Stud finder
+*   Utility knife
+*   Hacksaw
+*   Sprinkler cap
+*   Insulation
+
+Installing a Fire Sprinkler System
+----------------------------------
+
+While it is possible to perform this installation on your own, it’s best to consult a professional if you have any qualms about your capability to handle the plumbing and electrical aspects. Always follow the instructions from the manufacturer of your specific sprinkler system.
+
+Here’s a basic outline for installing a wet system in your home:
+
+### 1\. Check the Pressure on Your Water Supply
+
+If you have enough pressure from your city water supply, the home fire sprinkler system installation will be easier because the system can tie right in. A pressure of 100 PSI is desirable. If you do not have sufficient pressure, you may need to invest in a water storage tank and pump for the sprinkler system.
+
+### 2\. Install Piping in the Basement
+
+Piping will run the water from the supply in the basement across the ceiling to the first-floor sprinkler heads. These pipes are made of CPVC, which is similar to PVC, but it's more heat resistant and less likely to melt in a fire. Join the pipes using pipe cement. You can attach pipes to the studs along the ceiling using galvanized pipe straps.
+
+### 3\. Install Cages Around the Basement Sprinkler Heads
+
+Install fire sprinkler heads in the basement. To prevent the sprinkler heads from accidentally being bumped and set off, attach protective cages. This is especially important in areas where the ceiling is low.
+
+**More Related Articles:**
+
+*   [What You Need to Know About Gas Safety](https://www.homeserve.com/en/blog/2019/june/about-gas-safey)
+*   [5 Tips for Carbon Monoxide Safety](https://www.homeserve.com/en-us/blog/home-improvement/carbon-monoxide-safety-tips/)
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [Protect Your Home with These Security Systems](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-security-systems/)
+*   [Wood-Burning Stove and Fireplace Safety](https://www.homeserve.com/en-us/blog/home-improvement/fireplace-wood-burning-stove-safety/)
+
+### 4\. Make First-Floor Wall Cutouts
+
+To prep the first floor for the sprinkler system, you'll need to conceal the piping in the wall. To do this, you must cut out sections of the drywall between the studs.
+
+### 5\. Drill a Hole to the Basement
+
+Inside the wall, drill through the bottom of the wall and the floor into the basement below. Insert more CPVC piping through the hole into the basement so that it can be connected to the sprinkler line. Fasten the piping inside the wall on the first floor using pipe straps.
+
+### 6\. Run More Piping
+
+You'll continue to drill and run piping as necessary to install the piping system where the sprinklers should sit on the first floor of the home. Use your stud finder to ensure you're cutting the wall open between studs, avoiding any electrical wiring. If you don't want to cut into the ceiling of the first floor of the home, you can choose to mount sprinklers high up on the walls instead.
+
+### 7\. Install Bedroom Sprinklers
+
+You may have second or third levels in your home that you want to run additional piping to. The process is the same as with the first floor, unless you run the piping through a closet. Using this method, you can avoid opening up the walls on the second floor. However, you must use metal piping instead of CPVC if it's going to be exposed outside the wall.
+
+Cut a hole in the floor of the closet so that it connects to the piping you've run on the floor below. Then you'll run the piping from the second floor to the attic, where you'll route it through the ceilings of the bedrooms, so sprinklers can be fixed in every room where someone sleeps. Install a cap on the recessed sprinkler to conceal it from view.
+
+### 8\. Insulate the Piping and Cover the Wall Cutouts
+
+If your attic is uninsulated, the piping running through it will need to be covered in insulation to prevent the water in the pipes from freezing. Wherever you've cut out drywall, you'll [need to patch it](https://www.homeserve.com/en-us/blog/how-to/how-to-tape-mud-and-sand-drywall/). Piping running at the top of the wall may be covered using c[rown molding](https://www.homeserve.com/en-us/blog/cost-guide/crown-molding-installation/).
+
+### 9\. Pressurize and Perform a Leak Test
+
+Now that everything is sealed and connected, the system needs to be pressurized and leak tested. At this point, your home should be ready to fight back in the event of an unexpected fire.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._

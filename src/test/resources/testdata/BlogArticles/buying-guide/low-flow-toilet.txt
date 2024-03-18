@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Stop Flushing Money Down the Toilet: Go Low-Flow"
+headline: "Stop Flushing Money Down the Toilet: Go Low-Flow"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-07-30
+basePath: https://library.homeserve.com/m/
+heroImage: 47bece350fb091be/Blog-GettyImages-185220168-jpg.jpg
+heroAltDescription: "finger pressing toilet flush"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If you've been shopping for a new toilet recently, you may have noticed a low-flow label. Here’s what you need to know."
+articleAbstract: "If you've been shopping for a new toilet recently, you may have noticed a low-flow label. Here’s what you need to know."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Stop Flushing Money Down the Toilet: Go Low-Flow"
+  parent: Plumbing-Buying-Guide
+---
+  If your water bills leave you wincing, you might _literally_ be flushing money down the toilet. According to [SFGate](https://homeguides.sfgate.com/many-gallons-water-flush-toilet-88812.html), flushing the toilets accounts for a whopping 30% of the average household's water usage. Therefore, reducing the amount of water flushed away every time you visit the bathroom is an effective way to lighten the load on your wallet. 
+
+**This May Also Interest You:** [**3 Reasons Your Toilet Is Running — and How to Fix It**](https://www.homeserve.com/en-us/blog/how-to/fix-running-toilet/)
+
+Enter the low-flow toilet. If you've been shopping for a new toilet recently, you may have noticed a low-flow or [WaterSense](https://www.epa.gov/watersense/watersense-label) label on some models and wondered what the savings could be. Here’s what you need to know.
+
+What Is a Low-Flow Toilet?
+--------------------------
+
+A low-flow toilet is a type of fixture that uses water efficiently. Low-flow models use significantly less water per flush than standard fixtures without compromising flushing power, saving you money on your water bills and reducing water wastage. 
+
+The [Environmental Protection Agency](https://www.epa.gov/watersense/residential-toilets) considers a toilet low-flow if it uses a maximum of 1.28 gallons of water per flush — roughly 20% less than the federal standard. Manufacturers adhering to EPA standards can have their toilets independently tested to prove that they are low-flow. You can identify a certified low-flow toilet by looking for the WaterSense label on advertising or packaging. 
+
+Do Low-Flow Toilets Save Water?
+-------------------------------
+
+The EPA estimates that an average family using a WaterSense-certified low-flow toilet could reduce the amount of water they flush down the toilet between 20% and 60%. Overall, this could add up to a water bill reduction of around $140 (CAD 190) per year, or around $2,900 (CAD 3,800) over the toilet's lifespan. 
+
+Low-flow toilets come at a range of price points and don't usually cost more to purchase than standard models. Furthermore, some utility companies offer rebates to encourage their customers to switch to low-flow toilets or vouchers for money off a new fixture. Therefore, it often makes financial sense to install a low-flow toilet if your old fixture needs replacing soon.
+
+**More Related Articles:**
+
+*   [My Toilet Tank Is Spraying Water! How to Fix a Toilet Fill Valve](https://www.homeserve.com/en-us/blog/how-to/fix-toilet-fill-valve/)
+*   [How Do You Flush a Toilet Without Running Water?](https://www.homeserve.com/en-us/blog/how-to/flush-toilet-without-running-water/)
+*   [Time to Swap Seats? Here’s How to Install or Replace a Toilet Seat](https://www.homeserve.com/en-us/blog/how-to/replace-toilet-seat/)
+*   [Never Flush These 11 Things Down Your Toilet](https://www.homeserve.com/en-us/blog/home-improvement/things-to-never-flush-down-toilet/)
+*   [Condensation on Your Toilet? Don’t Sweat It](https://www.homeserve.com/en-us/blog/home-improvement/condensation-toilet-tank/)
+
+What Are the Pros and Cons of a Low-Flow Toilet?
+------------------------------------------------
+
+Low-flow toilets are a suitable option for most households and offer a range of benefits. However, there are a few downsides to be aware of before you replace a standard fixture with a low-flow model. 
+
+### Pros
+
+The main advantage of installing a low-flow toilet is that it will save you money on your water bill. However, low-flow toilets are also an excellent option for eco-friendly homeowners who want to conserve water. These fixtures can be particularly helpful if you live in an area with frequent droughts requiring water conservation measures. 
+
+Low-flow toilets often have smaller tanks than standard models because they don't need as much water per flush. Therefore, a low-flow fixture could be a good space-saving option for homeowners with smaller bathrooms. 
+
+### Cons
+
+Toilets with the WaterSense label must pass rigorous tests to prove that they flush efficiently. However, using less water increases the likelihood of a clogged toilet, especially if you have low water pressure. It's essential to address low water pressure promptly if you have a low-flow toilet to prevent blockages. You can also reduce the likelihood of clogs by avoiding using too much toilet paper and keeping your toilet well-maintained. As with standard fixtures, you should never flush items like menstrual products and diapers down a low-flow toilet. 
+
+Another potential downside of low-flow toilets is that they may require plumbing modifications, especially if you have an older property. Low-flow toilets require a combination of pressure and gravity to generate a powerful flush, which means that they need angled supply pipes to work correctly. Therefore, you may have to pay extra for a plumber to adapt your system to accommodate a low-flow toilet. 
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nk_hBpyP3Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How Much Does Sewer Line Maintenance and Repair Cost?"></iframe>

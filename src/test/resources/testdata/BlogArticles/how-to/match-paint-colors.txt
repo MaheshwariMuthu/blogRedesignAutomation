@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Match Paint Colors"
+headline: "4 Ways to Match Paint Colors for Touchups"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-08-28
+basePath: https://library.homeserve.com/m/
+heroImage: 1e944cb5a1ee05d4/Blog-GettyImages-1290537045.jpg
+heroAltDescription: "Close up paint brush and color charts. Concept of color of the year."
+metaDescriptions: "There are several ways to get touch-up paint that matches the color on your walls, and some are more effective than others. Here's what you need to know."
+articleAbstract: "How can you match an existing paint color? Well, there are several ways to tackle this scenario, though some are more effective than others, depending on your needs. Here's what you need to know."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Match Paint Colors for Touchup"
+  parent: Interior-Home-How-To
+---
+  **Matching Paint Colors at a Glance**
+
+*   Take a picture
+*   Use an app
+*   Buy a color-sensing device
+*   Cut out a portion of the wall
+
+The scene on your wall is all too familiar — nail holes, scuff marks, dings and whatever that stain is. It doesn’t matter what has led you to this situation because, sooner or later, all walls deserve a touchup. But here’s the kicker: You no longer have the old cans of paint you used when you originally painted the room. At this point, you may be asking yourself: “How can I match an existing paint color?” Well, there are several ways to tackle this scenario, though some are more effective than others.
+
+**This May Also Interest You:** [**How Much Do Professional Painters Charge?**](https://www.homeserve.com/en-us/blog/cost-guide/professional-painting/)
+
+The route you choose will largely depend on your specific needs. For example, some methods are best suited for quick touchups where perfection isn’t necessary. Other methods yield a more accurate, albeit more labor-intensive, color match.
+
+1\. Snap a Photo
+----------------
+
+One of the easiest (but also least accurate) options for color matching is to simply take a photo of the color in question using your smartphone. Then, take the picture to your local hardware store, where they can match the color using a color measurement device called a spectrophotometer. Keep in mind that some hardware stores might not have one of these devices, so it’s best to call before you head out the door. And before you go all Picasso on your wall, you’ll definitely want to make sure that the room is lit with as much natural light as possible to help your phone convey the paint color’s hue as best as it can.
+
+While this is one of the easier methods for color matching, it’s also likely to produce a not-quite-perfect match, as phone screen lighting can vary, so make sure you're OK with this before you start snapping photos. For low-visibility areas like garages or utility rooms, or other spaces where you need a quick touchup in less-obvious spots, this method can work great, but for highly visible walls in kitchens, living rooms or bedrooms, this will likely not produce satisfactory results.
+
+2\. Use an App
+--------------
+
+Another common method for matching paint colors is to use one of the many free color matching apps out there. Many of the major paint brands have their own version of what is essentially the same function: Take a picture of the color, and the app will generate the closest match. Bear in mind that each app will only generate the closest color match of colors offered by that particular paint company. So, [Benjamin Moore’s Color Portfolio Mobile App](https://www.benjaminmoore.com/en-us/color-portfolio-paint-matching-app) will only list Benjamin Moore colors. The same goes for [Sherwin-Williams’ ColorSnap](https://www.sherwin-williams.com/visualizer#/active/default) or [Behr’s ColorSmart](https://apps.apple.com/us/app/colorsmart-by-behr-mobile/id407632559). Likewise, [Project Color by The Home Depot](https://www.homedepot.com/c/projectcolor) pulls from colors carried by The Home Depot. Using a color-matching smartphone app can be a highly effective option, especially if you happen to know what brand of paint was used originally. If not, it might be tricky to find a perfect match.
+
+Also available are third-party apps, like [ColorGrab](https://play.google.com/store/apps/details?id=com.loomatix.colorgrab&hl=en_US&gl=US), that won’t match you to a specific brand, but will instead generate the RGB color value (the most commonly used color-identification method in the paint industry). You can then use that to find a brand and color that suits your needs.
+
+While color-matching smartphone apps are generally a breeze to use, it’s not a guarantee you’ll find a perfect match. Your best bet is to try out several apps and then spend some time examining the colors carefully before you start your touchup project.
+
+3\. Use a Color-Match Sensor
+----------------------------
+
+Another option for the tech-savvy DIYer is to use a mini color-sensing device. These devices use the science behind the spectrophotometer, the machine used by paint stores to match colors anywhere and everywhere. For example, the [Nix Color Sensor Mini](https://www.nixsensor.com/nix-mini/) will read an object’s true surface color by blocking out ambient light and sending that reading to your phone via Bluetooth. While it’s not exactly the most affordable option for a quick touchup — mini color sensors run anywhere between $60 to $100 — a color-sensing device is a handy and accurate option that could be your best friend if you find yourself regularly needing to match paint.
+
+**More Related Articles:**
+
+*   [Walls Looking Worse for Wear? Follow This 5-Step Wall-Washing Guide](https://www.homeserve.com/en-us/blog/how-to/clean-walls/)
+*   [How Much Does It Cost to Paint a Room?](https://www.homeserve.com/en-us/blog/cost-guide/paint-room/)
+*   [How Much Does It Cost to Paint Kitchen Cabinets?](https://www.homeserve.com/en-us/blog/cost-guide/paint-kitchen-cabinets/)
+*   [How Much Does It Cost to Paint a House?](https://www.homeserve.com/en-us/blog/cost-guide/paint-house-cost/)
+*   [Need an Extra Hand? Here’s How to Hire a Handyman](https://www.homeserve.com/en-us/blog/how-to/hire-a-handyman/)
+
+4\. Cut a Sample from the Wall
+------------------------------
+
+Let’s say you moved some pictures around in a highly visible, well-lit space, or maybe you just removed a long-standing piece of furniture from against a wall in your living room. Whatever the case may be, you’re going to need your touchup paint to be a near-perfect match. In that case, your most effective method will be to cut a paint sample from your wall.
+
+To do this right, you’ll need a sharp utility blade to cut a small piece of painted drywall that is a minimum of 1-inch square. Don’t underestimate here, as paint chips smaller than a square inch may be too small for the paint technician to color match. Make sure that you pick an inconspicuous spot to cut your sample, say near an electrical outlet or somewhere near a baseboard. Peel the painted drywall paper from the wall while trying not to damage the drywall itself.
+
+Once you get your sample, take it to your local paint store or a big-box retailer like The Home Depot or Lowe’s, and they will match the color using a spectrophotometer. With a 90% accuracy rate, spectrophotometers are definitely your most effective option. And while the in-store color match method may require a bit more work on your end to provide a sample, the good news is that it’s free. Although it still might not make for an absolutely perfect match every time, your results should still be more than adequate for a touchup.
+
+One final note: Regardless of what color match route you opt for, you’ll also need to take the paint’s sheen or finish into consideration if you’re hoping for a truly seamless touchup. Even if the color match is spot-on, if the sheen is way off, your touchup may still stick out like a sore thumb. Finishes range from flat to full gloss, so make sure to take this into account as you begin your touchup project.

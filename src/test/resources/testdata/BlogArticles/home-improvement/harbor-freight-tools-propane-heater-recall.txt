@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Beware of Burn Hazard: Harbor Freight Tools Recalls 350,000 Tank Top Propane Heaters"
+headline: "Beware of Burn Hazard: Harbor Freight Tools Recalls 350,000 Tank Top Propane Heaters"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-07-23
+basePath: https://library.homeserve.com/m/
+heroImage: 2de9975ad122bbfa/Blog-PropaneHeaterRecall_HarborFreight.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "The Consumer Product Safety Commission is recalling 350,000 One Stop Gardens 15,000- and 30,000-BTU Tank Top Propane Heaters sold by Harbor Freight Tools."
+articleAbstract: "If you bought a propane-tank-mounted heater from Harbor Freight Tools in the past five years, you may be affected by a just-announced federal safety recall due to a burn hazard. The Consumer Product Safety Commission on July 21 reported that it is recalling some 350,000 of the devices sold by the Calabasas, Calif.-based equipment retailer, including One Stop Gardens 15,000 BTU and 30,000 BTU Tank Top Propane Heaters."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Harbor Freight Tools Recalls One Stop Gardens 15,000 and 30,000 BTU Tank Top Propane Heaters Due to Burn Hazard"
+  parent: Exterior-Home-Home-Improvement
+---
+  If you bought a propane-tank-mounted heater from Harbor Freight Tools in the past five years, you may be affected by a just-announced federal safety recall due to a burn hazard. The Consumer Product Safety Commission on July 21 [reported](https://cpsc.gov/Recalls/2021/Harbor-Freight-Tools-Recalls-One-Stop-Gardens-15-000-and-30-000-BTU-Tank-Top-Propane-Heaters-Due-to-Burn-Hazard) that it is recalling some 350,000 of the devices sold by the Calabasas, Calif.-based equipment retailer, including One Stop Gardens 15,000 [BTU](https://www.homeserve.com/en-us/blog/home-improvement/what-is-btu/) and 30,000 BTU Tank Top Propane Heaters.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here's Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the CPSC, in windy weather, the flame from the heaters could be forced to the rear of the unit, melting the “tip switch” safety shutoff feature and preventing the device from turning off if it tips over, which poses a burn hazard for users. [Harbor Freight Tools](https://www.harborfreight.com/) has received reports of nine incidents of flame redirection to the rear of the China-manufactured heater or of the tip switch safety feature melting — including three cases in which users suffered minor burn injuries while attempting to turn the unit off.
+
+[Harbor Freight Tools urges](https://images.harborfreight.com/hftweb/recalls/OSG-Tank-Top-Heaters-Recall-63072_63073.pdf) owners to stop using the recalled heaters immediately and to return the devices to one of the company’s stores for a full refund, plus applicable tax, in the form of a gift card. The retailer is contacting all known purchasers directly.
+
+The affected units — which mount on top of a standard 20-pound propane tank and have an “easy start” function with variable heat control valve, high-efficiency heat reflector and safety shutoff — were sold between December 2015 and April 2021 at Harbor Freight Tools stores nationwide and online via the company’s website for roughly $45 to $75 apiece. The 15,000-BTU units are identified by Item No. 63073, and the 30,000-BTU units by Item No. 63072.
+
+Owners can call Harbor Freight Tools at 800-444-3353, email [recall@harborfreight.com](mailto:recall@harborfreight.com) or visit the retailer’s [recall page](https://www.harborfreight.com/customer-service-product-support.html#5) for more information.
+
+For more consumer product safety information, go to [cpsc.gov](https://cpsc.gov).
+
+**More HomeServe Articles:**
+
+*   [How Much Does a Propane Tank Cost? Everything You Need to Know](https://www.homeserve.com/en-us/blog/cost-guide/propane-tank-prices/)
+*   [Real Flame Recalls 700 Fire Pits; the Wood Stored Underneath Can Catch Fire](https://www.homeserve.com/en-us/blog/home-improvement/real-flame-fire-pit-recall/)
+*   [5.4 Million Clothing Steamers Recalled by HSN Over ‘Severe Burn Hazard’](https://www.homeserve.com/en-us/blog/home-improvement/hsn-clothing-steamer-recall/)
+*   [IKEA Recalls 148,000 Bowls, Plates and Mugs Over Burn Risk](https://www.homeserve.com/en-us/blog/home-improvement/ikea-dishes-recall/)
+*   [226,000 TruSense Smoke, Carbon Monoxide Alarms Recalled for Possible Failure to Alert Households to Fire](https://www.homeserve.com/en-us/blog/home-improvement/trusense-smoke-alarm-recall/)

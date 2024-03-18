@@ -1,0 +1,136 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Install a Dishwasher"
+headline: "Install Your Dishwasher Yourself: A 10-Step Guide"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2022-01-31
+basePath: https://library.homeserve.com/m/
+heroImage: 1779412988e12e87/Blog-DishWasherRepair_3831.jpg
+heroAltDescription: "technician works to repair a residential diswasher"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Make your dishwasher installation as painless as possible. Here's how to do it in 10 simple steps."
+articleAbstract: "Installing a dishwasher is a surprisingly simple task, especially if the old unit is already removed or you’re installing a dishwasher for the first time. Here's what to do."
+category: ["How To"]
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/how-to/install-dishwasher/', 'en-us'], ['https://www.homeserve.co.uk/living/blog/how-to-install-a-dishwasher/', 'en-gb']]
+eleventyNavigation:
+  key: "How to Install a Dishwasher"
+  parent: Appliances-How-To
+---
+  **Installing a Dishwasher at a Glance**
+
+* **Tools & Materials:** Surface protection, screwdriver, power drill, electrical cord, wire nuts, non-contact voltage tester, water supply line, elbow adapter, adjustable wrench, level, hole saw, three-angle stop
+* **Step 1:** Prep work area
+* **Step 2:** Connect power
+* **Step 3:** Connect water
+* **Step 4:** Attach drain hose
+* **Step 5:** Route hoses and lines
+* **Step 6:** Slide in dishwasher
+* **Step 7:** Secure to cabinet
+* **Step 8:** Connect water line to water supply
+* **Step 9:** Attach drain hose
+* **Step 10:** Test
+
+Dishwashers can save you countless hours otherwise spent scrubbing your dishes by hand. Not only that, but modern dishwashers [may even use less water than hand washing](https://www.cnet.com/home/kitchen-and-household/how-much-water-do-dishwashers-use/), saving you money on your monthly utility bill. Unfortunately, dishwashers are expensive, and paying to have your dishwasher professionally installed can make it even more costly.
+
+**This May Also Interest You:** [**How Much Does a Dishwasher Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+
+The good news? Installing a dishwasher is a surprisingly simple task, especially if the old unit is already removed or you’re installing a dishwasher for the first time. If that’s the case for you, and you’re eager to save some money, read on to learn how to install a dishwasher.
+
+Things You’ll Need:
+-------------------
+
+*   Surface protection: cardboard, drop cloth, etc.
+*   Screwdriver
+*   Power drill
+*   Electrical cord (optional)
+*   Wire nuts (optional)
+*   Non-contact voltage tester (optional)
+*   Water supply line
+*   90-degree elbow adapter (optional)
+*   Adjustable wrench
+*   Small level
+*   1 1/2- to 2-inch spade bit or hole saw (optional)
+*   Three-way angle stop (optional)
+
+Dishwasher Installation
+-----------------------
+
+### 1\. Prepare Your Work Area
+
+Protect your floors by laying down surface protection (like a drop cloth or some pieces of cardboard) in front of your dishwasher’s installation location. Place the box containing your new dishwasher on top of the surface protection, and carefully unpackage the dishwasher. While not essential, leaving the layer of protective plastic on the front of the dishwasher will help to prevent any scratches during installation.
+
+If you’ll be hardwiring your dishwasher — connecting directly to an electrical cable coming out of the wall — switch off the circuit breaker that controls the dishwasher on your home’s main electrical panel. Dishwashers should have their own dedicated circuit and breaker, so the appropriate breaker should be clearly marked inside the panel. Once the breaker is switched off, verify that there’s no power going to the electrical cable by touching a non-contact voltage tester to it.
+
+**Note:** You may have to hire an electrician to install a dedicated circuit or run an electrical cable to the installation location if you’re installing a dishwasher for the first time.
+
+### 2\. Connect the Power Cord
+
+There are two ways to supply power to your dishwasher: a hardwired connection or a plug-in connection that plugs into an electrical outlet.
+
+New dishwashers rarely come with power cords already installed, so they need to be connected separately. If using a plug-in connection, you can either purchase a brand new power cord, or reuse the cord from your old dishwasher if it’s still in good shape. When using a hardwired connection, you will be connecting to the existing electrical cable coming out of your wall, so a separate cord isn’t required. Regardless of which method you use, the steps involved in connecting the cord to your dishwasher are virtually the same.
+
+Carefully tip the unit on its back to make the electrical wiring and plumbing connections more accessible. Take off the kickplate — the thin rectangular access panel at the base of the dishwasher — by removing the screws securing it in place and pulling it off.
+
+Identify the junction box, which is a square metal box with electrical wires going to it. Remove the screws holding the cover in place and pull it off.
+
+Feed the three exposed wires on the end of the power cord into the round opening in the junction box. Depending on the box, there may either be three colored wires inside, or three colored terminal connectors that look like rectangular slots with screws on top.
+
+When connecting to wires, twist the corresponding wire colors together with wire nuts: black to black, white to white, and bare wire to bare wire. For terminal connectors, use a screwdriver to loosen the screw on top of each terminal until the jaws are open enough to insert the corresponding wire color. Insert the wire into the terminal and tighten down the screw until the wire is held firmly in place.
+
+Once all the wires are connected, reinstall the junction box’s cover plate.
+
+### 3\. Connect the Water Supply
+
+Locate the water supply inlet on your dishwasher, which will be a round, threaded opening. Some inlets will have female threads with threads along the inside diameter of the inlet, or male threads with threads along the outside diameter of the inlet. Whether the inlet has male or female threads will dictate what type of water line or adapters you need to use, which often need to be purchased separately.
+
+To prevent kinks in the water line, there needs to be a 90-degree bend coming out of the inlet. This can either be achieved by purchasing a water supply line with a pre-installed 90-degree elbow, or installing a separate 90-degree elbow onto the inlet before connecting the water line to it.
+
+In either case, wrap the male threads with Teflon tape to ensure a leak-free seal. Use an adjustable wrench to screw the line onto the inlet until it’s tight and the line is facing towards the very back of the unit.
+
+### 4\. Attach the Drain Hose
+
+Some dishwashers will come with the drain hose already attached, but others will require it to be installed separately.
+
+To install the drain hose, press it onto the dishwasher’s drain outlet and secure it in place with the provided clamp. The type of clamp that’s included can vary between manufacturers, so refer to the manufacturer’s instructions for the specific installation steps. Once in place, give the hose a light tug to verify it’s secure.
+
+**More Related Articles:**
+
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)
+*   [What’s the Deal With Countertop Dishwashers?](https://www.homeserve.com/en-us/blog/home-improvement/countertop-dishwashers/)
+*   [Don’t Get Lost in the Wash: How to Use Your Dishwasher Efficiently](https://www.homeserve.com/en-us/blog/how-to/use-dishwasher/)
+*   [Should You Repair or Replace Your Dishwasher?](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-repair-replacement/)
+
+### 5\. Route Cords and Hoses Under the Sink
+
+Route the water supply line, power cord and drain hose through the hole between the dishwasher’s installation location and the sink cabinet. If you’re replacing an old dishwasher, use the same hole your old dishwasher used. If you’re installing a dishwasher for the first time, you will need to drill a 1 1/2- to 2-inch (4- to 5-centimeter) hole with a spade bit or hole saw for your lines and cords.
+
+### 6\. Slide the Dishwasher Into the Opening
+
+Tip the dishwasher upright, and carefully slide it into its final resting location inside the opening. Adjust the feet on the bottom of the dishwasher until the top of the unit meets the bottom of the cabinet. The exact steps for adjusting the height can vary, but it usually involves tightening or loosening a nut on the dishwasher’s feet with an adjustable wrench.
+
+Place a small level on top of the dishwasher to make sure it’s level. If not, adjust the feet until it is.
+
+### 7\. Secure to the Cabinet
+
+Open the dishwasher door and locate the mounting tabs on the top of the unit, which should be contacting the bottom lip of the cabinet. Use a power drill to drive the included screws through the tabs and into the cabinet to secure it in place.
+
+### 8\. Connect the Water Line to the Water Supply
+
+Attach the water supply line to the three-way angle stop (a.k.a. water supply valve) under your sink. A three-way angle stop has two outlets: one for your sink and another for your dishwasher. If you’re replacing an old dishwasher, a three-way angle stop should already be installed. If performing a new installation, you will likely need to install a three-way angle stop in order to connect your dishwasher’s water line to your home’s water supply.
+
+Screw the water supply line onto the angle stop, and tighten it down with an adjustable wrench. To promote a leak-free connection, wrap the angle stop’s threads with Teflon tape before attaching the water line.
+
+Turn on the water by rotating the angle stop’s valve handle counterclockwise, and inspect for leaks around the connections on both ends of the line.
+
+### 9\. Attach Drain Hose
+
+The dishwasher’s drain hose will either be connected to an air gap installed on the bottom of the sink cabinet, or directly to the garbage disposal under the sink. An air gap prevents the backflow of wastewater by having two hoses going into it: one going to the dishwasher and the other to the garbage disposal. If replacing an old dishwasher, use whatever method your old unit used. For new installations, refer to your local plumbing codes to see what’s required in your area.
+
+In either case, press the drain hose onto the drain outlet you’ll be using, and secure it in place with the provided clamps.
+
+### 10\. Test
+
+Plug the power cord into the wall if you installed a plug-in connector on the unit. If you haven’t already done so, remove any protective plastic on the front of the dishwasher. Turn the unit on. Inspect for leaks around the water supply line while it’s running, and the drain line while it’s draining at the end of a wash cycle. If everything works and no leaks are detected, your dishwasher is ready for everyday use.

@@ -1,0 +1,82 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Wash Walls"
+headline: "Walls Looking Worse for Wear? Follow This Step-by-Step Wall Washing Guide"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-03-10
+basePath: https://library.homeserve.com/m/
+heroImage: 39e60c1d5cb18720/Blog-GettyImages-1015452452.jpg
+heroAltDescription: "Cleaning Equipment   Supplies"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Walls can get dirty and scuffed up more than you may realize, especially in high traffic areas, like a mudroom or kitchen. Here's how to get them clean. "
+articleAbstract: "Walls can get dirty and scuffed up more than you may realize, especially in high traffic areas, like a mudroom or kitchen. Here's how to get them clean. "
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Wash Your Walls"
+  parent: Interior-Home-How-To
+---
+  Keeping your home clean can feel like an ever-growing list of to-dos. In addition to all the basic tasks like sweeping, mopping and wiping down counters, there are some often overlooked areas of your home that need occasional cleaning too.
+
+**This May Also Interest You:** [**How to Fix Drywall Cracks on the Wall or Ceiling**](https://www.homeserve.com/en-us/blog/how-to/fix-drywall-cracks/)
+
+One of the areas homeowners tend to forget about cleaning is interior walls. Walls can get dirty and scuffed up more than you may realize, especially in high-traffic areas, like a mudroom or kitchen.
+
+Although it’s not something that needs to be done frequently, cleaning your home’s walls several times a year can help keep your rooms feeling fresh, sparkling and grime-free. It’ll also help preserve the life of your paint and prevent unnecessary wear and tear on your walls.
+
+Luckily, no specialty cleaners or harsh chemicals are needed to clean your walls — even if you’re dealing with stubborn stains. Here’s a step-by-step guide on how to clean your walls using materials you probably already have on hand.
+
+How Do You Wash Interior Walls?
+-------------------------------
+
+### Tools and Materials
+
+*   Baking soda
+*   Distilled white vinegar
+*   Dish Soap
+*   Gentle all-purpose cleaner
+*   Microfiber Cloth
+*   Soft sponge
+*   Duster
+
+The best way to clean walls will depend on the type of paint they're covered with. Therefore, the first step before you get to scrubbing should be to determine (as best as you're able) what type of paint your wall has.
+
+Is it water-based, latex or acrylic? Some walls may even have an oil-based paint, although that’s less likely. You also want to note the paint’s sheen — flat, eggshell or gloss? Just because you have one type of paint finish in one room, don’t assume your other walls have the same finish; most folks have a combination of paint finishes throughout their home, since some finishes work better in certain areas than others.
+
+Once you know what sort of paint you’re working with, you can begin cleaning. Regardless of what type of finish your walls have, make sure to dust them with a duster or clean, dry cloth before you move on to scrubbing them with a cleaning solution.
+
+Choosing the Best Cleaning Solution
+-----------------------------------
+
+### Flat or Eggshell Paint
+
+Walls with low- or no-sheen paint can be tricky because paint with less sheen is often less “scrubbable” than higher-sheen paints. Therefore, make sure not to scrub too aggressively on flat or low-sheen walls and use a soft sponge or damp cloth with a gentle, all-purpose cleaner or a simple dish soap solution. You’ll also want to avoid heavy-duty cleaners with harsh chemicals or commercial degreasers on flat paint finishes, since they can damage the paint. Clean in circular motions, and make sure to refresh your solution with clean water as needed.
+
+### Semi- or High-Gloss Finish
+
+Trim, doors and cabinets are often painted with semi- or high-gloss finishes that are much more equipped to handle scrubbing, which is great news since these areas tend to see a lot of dust, dirt and grime buildup. You can clean these areas with the same dish soap solution or an all-purpose cleaner, but you can also break out a stronger degreaser for stubborn stains on glossy finishes if needed (but still use a soft sponge).
+
+### Latex Vs. Oil-Based and Acrylic Paint
+
+If the paint on your walls is latex, you can try adding distilled white vinegar to your dish soap and water cleaning solution. This can help you clean your walls more effectively without damaging the latex paint.
+
+If, however, you happen to have oil-based or acrylic paint in your home, skip the vinegar component and stick with dish soap and water only, as the vinegar could damage these paints. If tough spots on any of these painted surfaces need a little extra cleaning power kick, you can try putting some baking soda into the mix to add a bit of abrasion to the cleaning process.
+
+**More Related Articles:**
+
+*   [How Much Does Drywall Cost?](https://www.homeserve.com/en-us/blog/cost-guide/drywall-installation/)
+*   [How to Fix Nail Holes in Walls: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/fix-nail-holes/)
+*   [7 Cheap Home Improvement Projects You Can Do This Weekend](https://www.homeserve.com/en-us/blog/home-improvement/budget-home-improvement-ideas/)
+*   [How to Finish Drywall: Taping, Mudding and Sanding](https://www.homeserve.com/en-us/blog/how-to/tape-mud-sand-drywall/)
+*   [How to Hang Drywall: A 7-Step Overview](https://www.homeserve.com/en-us/blog/how-to/hang-drywall/)
+
+How to Wash Walls to Prepare to Paint
+-------------------------------------
+
+If you’re washing walls in preparation for a fresh coat of paint, you can use the same guidelines above — just make sure to dust and degrease thoroughly and let the walls fully dry prior to painting to avoid sealing in any moisture. Wait 24 hours after washing to ensure the walls have plenty of time to dry.
+
+Wall Cleaning 101
+-----------------
+
+Now that you know how to clean walls, you’ll want to do so quarterly, or at least twice a year. It’s an inexpensive and relatively easy way to help your home feel clean from top to bottom. Clean walls will make your home look better and help keep you healthy, with less dust and grime buildup to worry about. It’s a win-win, and you only have to tackle it a few times a year.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

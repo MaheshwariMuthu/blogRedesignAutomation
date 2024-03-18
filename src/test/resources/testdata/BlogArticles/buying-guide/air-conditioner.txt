@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Air-Conditioner-Buying-Guide
+  parent: Buying Guide
+  title: Air Conditioner
+permalink: false
+---

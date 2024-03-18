@@ -1,0 +1,92 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 'How to Unclog a Drain: Learn to Clear Any Drain'
+headline: How to Clear A Clogged Drain
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Plumbing']
+publishDate: 2020-09-30
+videoSrc: https://www.youtube.com/embed/dU_gpHOvPbg?enablejsapi=1&origin=https%3A%2F%2Fwww.homeserve.com
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: /en-us/assets/images/blog/how-to/drain.jpg
+heroAltDescription: How to Unclog Kitchen Sink Drain
+metaDescriptions: No matter whether it’s a clogged shower drain or any other drain in the house, here are the best ways to take care of household drain clogs.
+articleAbstract: Follow these steps and learn how to DIY fix a clogged drain.
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0919
+stickyDisplayText: Call today for a local plumber.
+lightboxCopy: Local plumbing pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/plumbers/hs/same_day
+  large:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner1.png
+      alt: Plumbing eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner2.jpg
+      alt: Plumbing eLocal Banner 2
+category: ['How To']
+
+eleventyNavigation:
+  key: 'How to Unclog a Drain: Learn to Clear Any Drain'
+  parent: Plumbing-How-To
+---
+
+::: blog-info
+Have you ever glanced down at a drain and realized it's moving slowly or even stopped draining altogether? Clogged drains can definitely look gross, but you don't have to let them be a major hassle. With a few easy steps, you can handle most drain clogs at home.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% else %}
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+{% endif %}
+
+Safety first: Always follow the directions on any chemicals carefully, and be sure to wear protective gear when handling chemicals or hot liquids. Also, turn off the water before snaking the drain, just in case a leak develops.
+:::
+
+## Step 1: Try Removing the Clog Manually
+If you have long hair that's causing a clog right at the top of the drain, you're in luck! As unpleasant as it might seem to [remove a clog manually](/en-us/blog/how-to/unclog-shower-drain){target="_blank"}, it's actually easier to deal with than a clogged drain that occurs farther down in your pipes. All you have to do is carefully detach the drain stopper, pull out the drain, and clean the hair, grime, and other gunk from it. This lets you unclog your drain without chemicals. For the typical bathroom drain clogged with hair, this is the simplest method of removing the drain clog.
+
+## Step 2: Create a DIY Clogged Drain Remover
+Have a clog that's a bit too deep in the pipe to pull out by hand? You may want to try to unclog it by using a drain clog remover, like Drano®. There are some ready-made chemical solutions that can be effective, but before you take a trip to the store, try using one of these homemade solutions instead.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+::: list-indentation
+* Pour boiling hot water down the drain. This can dissolve mildew, slime, soap scum, and other similar clogs.
+* Put half a cup of baking soda in the drain, then pour half a cup of vinegar down after it. Let this mixture sit for an hour, and then check the drain. The bubbles that form can break up some clogs.
+* Mix together half a cup of table salt and half a cup of baking soda. Pour this mixture down the drain and let it sit for half an hour. Then, pour a few cups of boiling water down the drain.
+* Put one-fourth cup of salt in the drain, then pour in one-fourth cup of borax. Follow it up with half a cup of vinegar. Let this mixture sit for an hour before running water down the drain.
+:::
+
+## Step 3: Use a Plunger on the Drain
+You might be surprised to learn that a plunger can work just as well for a clogged sink as it can for [a clogged toilet](https://www.homeserve.com/en-us/blog/how-to/unclog-sink-drain-snake/){target="_blank"}. Get a drain plunger that has a larger bell and a sturdier handle. Seal any other connected drain openings and clamp off the line that goes to the dishwasher. Then, fill the sink with a few inches of water and place the plunger over the drain. Firmly pump the handle up and down for about 20 seconds, forcing water through the drain. This can bust up the obstruction and get things moving again.
+
+## Step 4: Try a Commercial Clogged Drain Remover
+Commercial drain clog removers are made of powerful chemicals, so they can be a helpful solution for stubborn clogs. Just keep in mind that these are meant to literally dissolve hair and grease, so if they splash on you, they can be dangerous. Repeated use of chemical clogged drain products can be problematic. The cleaners tend to generate heat as they work, which can soften PVC pipes or put pressure on pipe fittings. Be aware that repeatedly using them can cause a leak to develop.
+
+## Step 5: Snake the Drain
+When all else fails, turn to the reliable old drain auger. Also called a snake, this is a tool that travels through the pipe until it runs into the clog and busts it up. Most experts agree it's one of the best ways to unclog a drain pipe. If you don't already own this tool, they're widely available at home improvement stores and fairly affordable. To use it, all you need to do is put it against the drain opening and turn the handle to feed the snake into the pipe. Once it hits the clog, you'll feel resistance. Keep turning it to spin the head of the snake into the clog and break it into smaller pieces. You can also try pulling the auger backward, which can sometimes yank out an attached clog.
+
+## Step 6: Get Professional Assistance
+If you have tried to unclog a drain with DIY methods and aren't getting anywhere, don't force it. It's possible to damage your plumbing by banging around in there without any clue of what you're doing. In some cases, it might be wiser to get professional assistance. Some drain clogs are deep in the main drain line of your home where DIY methods can't reach them. Sometimes, the clog is just too stubborn to remove with basic tools. In these cases, you may need an expert plumber who can scope out the drain, identify the problem, and address it properly.
+
+::: blog-info
+Don't let a clogged drain stop you from using your sink, shower, or tub. Having a plan from HomeServe in place can help make it easy to clear drain clogs. When you have an issue, call our 24/7 helpline, we'll assist you with setting up an appointment with a licensed plumber. Our plans cover the cost of repairs up to the benefit amount, so you have peace of mind. Find out more about [plumbing plans from HomeServe](/en-us/repair-plans/) today.
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5j759jOLiwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% else %}
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+{% endif %}
+:::

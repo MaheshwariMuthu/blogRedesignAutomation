@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Appliances-Cost-Guide
+  parent: Cost Guide
+  title: Appliances
+permalink: false
+---

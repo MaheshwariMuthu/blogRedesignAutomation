@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Many Water Heaters Do You Need?"
+headline: "How Many Water Heaters Do You Need?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2023-12-13
+basePath: https://library.homeserve.com/m/
+heroImage: 240eb522522c83a5/Blog-CityofBaltimore_WHR_SHMR13340A7A_01.jpg
+heroAltDescription: "Rusty and damaged water heaters in customer basement"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Every home’s water usage is unique, so determining how many water heaters you need is challenging. We remove the guesswork."
+articleAbstract: "Every home’s water usage is unique, so determining how many water heaters you need is challenging. We remove the guesswork."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Many Water Heaters Do You Need?"
+  parent: Plumbing-Home-Improvement
+---
+  Every home’s hot water usage is unique, so determining how many water heaters you need is challenging.
+
+**This May Also Interest You:** [**How Much Does It Cost to Replace a Water Heater?**](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-replacement-cost/)
+
+Let’s explore the world of water heaters so you can remove the guesswork and find the right option for your needs.
+
+How Many Water Heaters Does Your Home Need?
+-------------------------------------------
+
+The answer depends on several factors, including:
+
+*   The size of your home
+*   The number of people living in it
+*   The type of water heater you have
+*   Your hot water usage habits
+
+Generally speaking, a 50- to 60-gallon tank is [sufficient for 2 to 3 people](https://www.energy.gov/energysaver/sizing-new-water-heater). However, this is a general rule of thumb and doesn't take into account unique factors in different households. Let’s look at some factors that might influence your decision.
+
+### Water Heater Efficiency
+
+Efficient water heaters use less energy and water consumption to produce hot water, reducing the need for multiple units. They can also lower your utility bills and reduce greenhouse gas emissions. Compare the energy factor ratings of different models and choose the best one for your needs. Higher EF ratings equal more efficient water heaters.
+
+### Water Heater’s Location
+
+Heat is lost when water travels through pipes. Therefore, water heaters closer to the point of use deliver hot water faster and minimize heat loss. For example, a tankless water heater near a showerhead and faucet is more energy-efficient than a tank in your basement.
+
+### Type of Fuel Source
+
+Fuel sources, such as natural gas and electricity, have different costs and availability. Consequently, your decision might come down to where you live and the fuel cost. For example, natural gas is often cheaper than electricity, but it may also require a gas line and a venting system. Electricity may be more expensive, but it can also be more flexible and safer.
+
+### Climate and Season
+
+The incoming water’s temperature and the ambient air can affect your water heater’s performance and capacity. The colder both are, the more energy your water heater needs to heat water up to the desired temperature. This might reduce the flow rate and the amount of hot water available at any given time. To compensate, you may need to install a larger or more powerful water heater, or you may need to adjust your thermostat settings or use less hot water during peak times.
+
+### Peak Demand
+
+Peak demand is the maximum amount of hot water you need at any given time. You may need more than one water heater to meet your peak demand, or you might consider installing a booster or a recirculation pump to increase the hot water flow rate.
+
+**More Related Articles:**
+
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)
+*   [How to Install a Tankless Electric Water Heater: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-tankless-electric-water-heater/)
+*   [How Much Does It Cost For a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+
+Is There Ever a Reason to Have More Than One Water Heater?
+----------------------------------------------------------
+
+There are some situations where more than one water heater is beneficial. If your home is large with multiple bathrooms, you may want to install two to ensure there’s enough hot water for everyone. You might consider one of each, with the tank holding water for showers and baths and the tankless one used for washing dishes and hands. However, multiple water heaters mean higher installation and maintenance costs, so you should weigh the pros and cons carefully.
+
+Is It Better to Have Multiple Smaller Water Heaters or One Larger Model?
+------------------------------------------------------------------------
+
+Multiple smaller water heaters can provide more flexibility and efficiency, as you can install them closer to the point of use, reducing heat loss in the pipes. You’re also less likely to run out of hot water if one of the units fails. However, installation and maintenance costs are higher, and you’ll need additional space for more appliances.
+
+One larger water heater can be more cost-effective and convenient, as you only need to buy, install and maintain one unit. However, storing and heating a large amount of water at once might be more costly if it exceeds your hot water demand. If you’re unsure, consult a professional plumber before making a decision.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/HHBV3N6sGrY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Flush Your Hot Water Heater #howto #homemaintenance"></iframe>

@@ -1,0 +1,54 @@
+--- 
+layout: layouts/post-layout.njk
+titleTag: Water savings tips
+headline: Water savings tips
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2019-03-11
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: Sprinkler.jpg
+heroAltDescription: How to Install Sprinklers
+metaDescriptions: We can all do our part when it comes to conserving water.
+articleAbstract: We can all do our part when it comes to conserving water.
+category: ['How To']
+
+eleventyNavigation:
+  key: Water savings tips
+  parent: Plumbing-How-To
+---
+
+::: blog-info
+Dry weather is motivating many people in the U.S. to look for ways to conserve water, not just those who live in drought-prone areas of the country. Whether you are looking to save water to help the environment, to cut down on your utility costs, or both, the tips below are a good place to start. 
+
+## Inside your home
+
+### _Install low-flow fixtures:_
+
+Replacing standard water fixtures (such as sink faucets, showerheads, and toilets) with low-flow ones can save you more than 35 gallons of water a day. Conventional showerheads use 40 gallons a day, but low-flow showerheads can save you 15 gallons for every 10-minutes you’re in the shower. If you’re looking for a new dishwasher, consider an Energy Star-rated appliance. Energy Star dishwashers use about 4 gallons of water, compared to 6 gallons used by standard machines. And, you save about 16 gallons of water using an Energy Saver dishwasher than by washing dishes by hand!.1
+
+### _Install Aerators on Faucets:_
+
+Standard faucets in your home use 3 gallons of water per minute. By installing a low-flow faucet aerator and you can cut that number in half and reduce usage to 1.5 gallons per minute.2  
+
+### _Displace the water in your toilet tanks:_
+
+On average, flushing uses 25 gallons of water per person per day. If you are not in a position to replace your standard toilet with a low-flow model, using displacement can save you gallons every day. Carefully add a small brick, a plastic bottle filled with water or something else heavy-weight such as a rock, to displace the water in the toilet tank. This reduces the amount of water used by a standard toilet, which is normally 5-7 gallons per flush.2
+
+### _Fix those leaks:_
+
+Leaky faucets, toilets, or water lines can waste 200 gallons of water a day3 A single leaky faucet alone can waste 20 gallons a day.2 Sometimes the handle or stem on your faucet just needs a little tightening, or the fixture needs a replacement washer. Regularly checking interior water pipes, faucets and toilets for leaks and fixing them can save water and money on your water bill.
+
+## Outside your home
+
+### _Check outdoor pipes, spigots, and hoses for leaks:_
+
+The best place to check for an outdoor leak is at your garden hose’s connection to the spigot. If you see water leaking at the spigot when you run your hose, you can replace the hose washer and use pipe tape and a wrench to tighten the connection to the spigot.5 When you’re done using your garden hose, be sure to close the spigot to prevent water pressure build-up that can potentially cause bursts or leaks.
+
+### _Use rain barrels to collect water for gardening or washing cars:_
+
+Gardening can account for up to almost 40% to 60% of your total household water usage over the summer.1,6 By using rain barrels to collect and store water that would otherwise be lost, you can ensure that you will have chlorine-, lime-, and calcium-free water for watering your garden and washing cars.6
+
+### _Cover your swimming pool:_
+
+Pools take about 22,000 gallons of water to fill, but you could lose water each month because of evaporation. By covering your pool, you could save hundreds of gallons of water each month.
+:::

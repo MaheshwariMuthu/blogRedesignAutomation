@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 6 Home repairs you should never do yourself
+headline: 6 Home repairs you should never do yourself
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2020-01-02
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: professional-home-repairs-01-full.jpg
+heroAltDescription: How to Install a Roof
+metaDescriptions: DIY home improvement and home renovation can seem to save money, but you should mostly likely hire a pro for things like electrical repairs, removing a wall, and other home repair programs.
+articleAbstract: DIY home improvement and home renovation can seem like a good idea when you want to save money. But you should mostly likely hire a pro.
+category: ['How To']
+
+eleventyNavigation:
+  key: 6 Home repairs you should never do yourself
+  parent: How To
+---
+
+:::: blog-info
+My husband prides himself on his DIY skills (mostly picked up from HGTV and YouTube). While I’ll be eternally grateful for his quick thinking in [fixing our garbage disposal](/en-us/blog/how-to/fix-garbage-disposal){target="_blank"}, he’s really starting to think he’s Chip Gaines.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+::::
+
+To be fair, there are plenty of [DIY home fixes](/en-us/blog/home-improvement/common-home-repair-accidents){target="_blank"} that can be accomplished with a quick trip to the hardware store. But there’s a fine line between what a novice homeowner can accomplish and when expertise is needed (and TBH, if I wasn’t around to stop my husband, he would be crossing that line).
+
+You might think you’re saving money going the DIY route, but you should always hire a pro for these six home repairs where one small mistake could be dangerous and end up costing you more in the long run.
+
+## 1. Electrical repairs
+
+I have no problem changing a lightbulb, but I know to bring in a licensed electrician when extensive electrical work is needed. Yes, hiring an electrician can be expensive, but that’s for good reason. According to Discover<span>.</span>com, it’s because they have trained to [work with electrical currents](https://www.discover.com/online-banking/banking-topics/5-home-repairs-you-should-never-do-yourself/){target="_blank"} that can be deadly when handled poorly.
+
+## 2. Anything gas related
+
+My advice: one should never try their hand with repairing a gas appliance. Only licensed professionals can ensure [proper installation](/en-us/blog/home-improvement/gas-safety-tips){target="_blank"}. They know everything about proper airflow, clearance rules and other hazards to minimize the risk of a gas leak.
+
+[Learn More About Home Repair Plans Near You]({{ migrationData.homepage }}){target="_blank"}
+
+## 3. Plumbing precautions
+
+I’ll admit it. I’ve definitely ignored my fair share of leaky pipes and hoped my husband’s quick fix worked. But if there’s anything I’ve learned as a homeowner, it’s to get proper plumbing fixes done by a pro. While damaged pipes might not be as dangerous as faulty wiring, they can be costly when ignored.
+
+Especially if your [sewage system or hot water pipes](https://www.discover.com/online-banking/banking-topics/5-home-repairs-you-should-never-do-yourself/){target="_blank"} are involved, Discover<span>.</span>com recommends leaving the repairs to a professional.
+
+## 4. Roof restoration
+
+Heights make me nervous in general. But seeing my husband perched on a ladder and scaling our roof is somehow even more stressful. Not only are roof repairs dangerous without the proper tools and knowledge experts have, but DIY fixes are usually unsuccessful.
+
+Changing a shingle or two may seem easy, but if you don’t know what you’re doing you can actually [cause a leaky roof](https://home.howstuffworks.com/home-improvement/household-safety/5-home-repairs-you-should-never-do-yourself4.htm){target="_blank"}, explains How Stuff Works.
+
+## 5. Structural rebuild
+
+I’ll never forget when I came home to my husband, sledge hammer in hand, ready to DIY a home renovation to expand our kitchen. Open floor plans are all the rage, but that was not what I meant when I said I wanted more space (luckily, I got home in time to stop him and call in a pro).
+
+[Learn More About Home Repair Plans Near You]({{ migrationData.homepage }}){target="_blank"}
+
+It might look easy, but removing walls needs to be done carefully to avoid damaging the structural integrity of your home. You need to know where electrical lines and pipes may be as well as which walls are [load bearing](https://www.thespruce.com/determining-load-bearing-wall-1822005){target="_blank"}.
+
+## 6. Basement upgrades
+
+We’ve all seen amazing basement transformations on our favorite home repair TV programs, but don’t try to undertake this home improvement yourself. As _The Spruce_ outlines, there are many different [requirements for remodeling a basement](https://www.thespruce.com/basement-remodeling-basics-1821285){target="_blank"} unlike what a bedroom renovation might need.
+
+From problems with moisture and insulation, to keeping up to code with fire-blocking and vapor barrier standards, only an expert contractor will know and be able to execute these repairs. Also, consider how much expert electrical and plumbing work will be needed to make your basement truly functional.
+
+:::: blog-info
+Don’t be caught scrambling when surprise home repairs are needed. See how [plans from HomeServe](https://www.homeserve.com/sc/lp/ppc/branded/home?){target="_blank"} can help you be prepared for the costs associated with covered repairs and provide you with peace of mind with help from the pros.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+::::

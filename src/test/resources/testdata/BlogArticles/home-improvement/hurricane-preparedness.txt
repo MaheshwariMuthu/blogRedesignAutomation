@@ -1,0 +1,60 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Prepare Your Home For a Hurricane"
+headline: "It's Hurricane Season! Here's Everything You Need to Know to Prepare Your House for Storms"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-08-24
+basePath: https://library.homeserve.com/m/
+heroImage: 2a79e649b039cee3/Blog-GettyImages-1264548456.jpg
+heroAltDescription: "Plywood covers the windows of a beach cottage in Florida in preparation for an oncoming hurricane"
+metaDescriptions: "August and September are two of the most active months when it comes to hurricanes. Here's how to prepare your home for a storm."
+articleAbstract: "If you live in a coastal area, you’ve probably seen several hurricane seasons come and go. But not everyone is so prepared. We’ve put together a handful of articles to help you prepare your home for hurricanes."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Hurricane Preparedness Roundup: What to Do Before, During and After a Storm"
+  parent: Exterior-Home-Home-Improvement
+---
+  
+
+The warm weather of the summer and early fall makes this a perfect time of the year to take a trip out to the coast and relax on the beach. But those who live along the Atlantic seaboard or the Gulf of Mexico know that, during this time, conditions are especially ripe for hurricanes.
+
+**This May Also Interest You:** [**Gimme Shelter: Here’s What You Need to Know About Building a Storm Shelter**](https://www.homeserve.com/en-us/blog/home-improvement/storm-shelter/)
+
+If you’ve lived in this storm territory for a while, you’ve probably seen several hurricane seasons come and go. By now, you have your storm preparation down pat. But not everyone is so prepared. Check out our comprehensive [hurricane preparedness guide](https://www.homeserve.com/en-us/blog/how-to/hurricane-prep/) to make sure you and your family are ready to weather the storm — or evacuate if need be.
+
+Below, we’ve put together a handful of articles to help you prepare your home for hurricanes, too.
+
+Get Your House Ready for Storm Season
+-------------------------------------
+
+Prepare for wind speeds of at least 75 miles per hour by [building a safe room](https://www.homeserve.com/en-us/blog/cost-guide/tornado-shelter/) or storm shelter. In the case of a particularly strong storm, this space could protect you from falling trees or flying debris. Keeping your [trees well-trimmed](https://www.homeserve.com/en-us/blog/cost-guide/tree-trimming-cost/) can prevent broken branches.
+
+Heavy rain and storm surges often accompany hurricanes, and many people in coastal areas experience flooding. You can protect your basement from flooding by [waterproofing](https://www.homeserve.com/en-us/blog/cost-guide/basement-waterproofing/) it or [adding a French drain](https://www.homeserve.com/en-us/blog/cost-guide/french-drain/) to your yard. Read more: [No Water in the Basement! Here’s How to Protect Your Home From Severe Flooding](https://www.homeserve.com/en-us/blog/how-to/basement-flooding-tips/)
+
+These storms can knock out power for days or weeks, so having a generator on hand is a must. You may also want to consider installing a whole-house generator to keep things up and running in the meantime. On average, these generators cost about $4,475 to install. Read the full cost breakdown [here](https://www.homeserve.com/en-us/blog/cost-guide/whole-house-generator/).
+
+<img class="detail-image" src="https://library.homeserve.com/m/572cf9a5384a99d4/Blog-GettyImages-487506494.jpg" alt="Cleaning Gutters During The Summer"/>
+-------------------------------------------
+
+What to Do Before a Hurricane
+-----------------------------
+
+All of the above tips are going to take some time (and, potentially, quite a bit of money) to implement. If there’s a storm headed your way _right now_, prevent damage to your house with these tips:
+
+*   Clear your drains and [gutters](https://www.homeserve.com/en-us/blog/how-to/gutter-cleaning/)
+*   Tie down loose gutters and downspouts
+*   Secure outdoor furniture and other items like tools, bikes and trash cans
+*   Cover windows and glass doors by nailing plywood into the frames
+*   Park your cars inside and reinforce your garage door
+
+Now’s also the time to check on your sump pump. In the event of a flood, a well-functioning sump pump with a battery backup could be the difference between a dry basement and one with several inches of standing water. Here’s [everything you need to know about sump pumps](https://www.homeserve.com/en-us/blog/home-improvement/how-sump-pump-works/). If your sump pump alarm is going off, [here’s what to do next](https://www.homeserve.com/en-us/blog/buying-guide/sump-pump-alarm/).
+
+After the Storm
+---------------
+
+A sump pump isn’t always enough to stop incoming water, especially when storm surges are at play. Mitigate the damage to your home and belongings with the proper flood response. The first thing you want to do (after ensuring your safety, of course)? Secure important and irreplaceable documents. Then, follow our [post-flooding checklist](https://www.homeserve.com/en-us/blog/home-improvement/basement-flooding-tips/).
+
+Just 1 inch of water is enough to cause more than $10,000 in damage. This [flood repair cost guide](https://www.homeserve.com/en-us/blog/cost-guide/water-damage-restoration/) should give you an idea of how much you might need to pay for flood cleanup.
+
+When the dust has settled — or, in this case, the waters have receded — you may find that your home has sustained some damage. Wind can do a number on your roof — and you’re not the only person who’s noticed this. While you’re making repairs to your home following a storm, look out for so-called “storm chasers.” These unscrupulous individuals may show up at your door and claim they’re going to provide cheap roof repairs, but know that these repairs could end up costing you more down the line. [Read more here.](https://www.homeserve.com/en-us/blog/home-improvement/roof-repair-storm-chasers/)

@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Find a Serial Number on a Hisense TV"
+headline: "Here Are 4 Ways to Find the Serial Number on a Hisense TV"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-02-26
+basePath: https://library.homeserve.com/m/
+heroImage: 6bc8288789a346af/Blog-GettyImages-1144975137.jpg
+heroAltDescription: "A flatscreen TV is displayed against a white background"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Here's how to find your Hisense TV's serial number — including what to do if you can't find the original packaging."
+articleAbstract: "You might need to know your TV's serial number if it breaks or is stolen. Here's how to find your Hisense TV's serial number — including what to do if you can't find the original packaging."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Find a Serial Number on a Hisense TV"
+  parent: Appliances-How-To
+---
+  Your Hisense TV's model number identifies what type of television you have, but the serial number is unique to your individual device. Many people don't know their TV's model or serial number, but this information could be invaluable if your TV gets stolen or broken.
+
+**This May Also Interest You: How to Find the Serial Number on Your Appliances and Gadgets**
+
+Here's how to find your Hisense TV's model and serial numbers.
+
+Why You Should Know Your TV’s Serial Number
+-------------------------------------------
+
+If your Hisense TV is under warranty and it breaks down, you'll need to supply your TV's serial number to the repair technician. The technician may also ask for the serial number to check which components to use for the repair and how the TV was manufactured.
+
+If you report your TV as stolen, the police will ask for its serial number. The serial number allows police officers to check that you own the TV. It may also help them to find the device via the IP address if it connects to a home Wi-Fi network. Your insurer will require a police report containing the serial number when you file a claim on your policy.
+
+If you purchase third-party insurance or a warranty plan on your device, you may need to supply the serial number.
+
+4 Places to Find the Serial Number on a Hisense TV
+--------------------------------------------------
+
+### 1\. On the Back
+
+All Hisense TVs have a white sticker attached to the back of the TV, usually below the TV's barcode. This sticker has the device's serial number printed on it.
+
+### 2\. On the Box
+
+If you kept the original box, you could also find a sticker with the serial number stuck to the packaging.
+
+### 3\. In the Device Settings
+
+If you don't have the original box or it's impractical to move the TV because it's mounted to the wall, you can check the serial number on the TV's settings. To do this, press the menu button on your television remote control and select “Settings” on the on-screen menu. Click on “Support” and then select “System Info.” You can then view the device's serial number by selecting “Version.”
+
+### 4\. On the Paperwork
+
+The above methods will only work if you have the TV or its packaging on hand. If you don't, you may be able to find the serial number printed on your warranty or device registration paperwork.
+
+**More Related Articles:**
+
+*   [When’s the Best Time to Buy a TV?](https://www.homeserve.com/en-us/blog/buying-guide/best-time-to-buy-tv/)
+*   [Can You Buy a TV That’s Not Smart?](https://www.homeserve.com/en-us/blog/buying-guide/non-smart-tvs/)
+*   [How Much Does TV Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/tv-repair/)
+*   [What’s the Samsung TV Upgrade Program and Is It Worth It?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-tv-upgrade-program/)
+*   [Watch What You’re Doing! How to Move Your Flatscreen TV Damage-Free](https://www.homeserve.com/en-us/blog/how-to/move-tv/)
+
+How Can You Find a Hisense TV's Model Number?
+---------------------------------------------
+
+The model number is in many of the same places the serial number is printed. For example, you can find your TV's model number on the product sticker on the back of the unit or the box it arrived in.
+
+Alternatively, you can locate your TV model number in its settings. Click the menu button on your remote and select the “Settings” tab. Select “Support” and navigate to the “System Info” tab. You can find your TV model number and other information about your device by clicking “About” and looking at the top of the next screen.

@@ -1,0 +1,30 @@
+--------------------------------------------------------------------------
+|ArticleName				|Title	|Author	|Date	|Image	|
+--------------------------------------------------------------------------
+|samsung-smart-microwave			|Pass	|Pass	|Pass	|Pass	|
+|samsung-smart-washer-dryer	|Pass	|Pass	|Pass	|Pass	|
+|rid-cat-pee-smell			|Pass	|Pass	|Pass	|Pass	|
+|roof-replacement-costs			|Pass	|Pass	|Pass	|Pass	|
+|samsung-smart-washer-dryer	|Pass	|Pass	|Pass	|Pass	|
+|roof-leak-repair			|Pass	|Pass	|Pass	|Pass	|
+|samsung-smart-refrigerator	|Pass	|Pass	|Pass	|Pass	|
+|retaining-wall-cost			|Pass	|Pass	|Pass	|Pass	|
+|roof-maintenance-tips			|Pass	|Pass	|Pass	|Pass	|
+|samsung-smart-refrigerator	|Pass	|Pass	|Pass	|Pass	|
+--------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|ArticleName				|Heading		|Paragraph		|Link			|List			|Image			|Video			|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|samsung-smart-microwave			|Pass: 3 Fail: 0	|Pass: 13 Fail: 0	|Pass: 12 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|samsung-smart-washer-dryer	|Pass: 4 Fail: 0	|Pass: 11 Fail: 0	|Pass: 9 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|rid-cat-pee-smell			|Pass: 6 Fail: 0	|Pass: 18 Fail: 0	|Pass: 6 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|roof-replacement-costs			|Pass: 5 Fail: 0	|Pass: 16 Fail: 0	|Pass: 7 Fail: 0	|Pass: 4 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|samsung-smart-washer-dryer	|Pass: 4 Fail: 0	|Pass: 17 Fail: 0	|Pass: 9 Fail: 0	|Pass: 1 Fail: 0	|Pass: 1 Fail: 0	|Pass: 1 Fail: 0	|
+|roof-leak-repair			|Pass: 6 Fail: 0	|Pass: 18 Fail: 1	|Pass: 10 Fail: 0	|Pass: 2 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|
+|samsung-smart-refrigerator	|Pass: 3 Fail: 0	|Pass: 15 Fail: 0	|Pass: 9 Fail: 0	|Pass: 2 Fail: 0	|Pass: 1 Fail: 0	|Pass: 0 Fail: 0	|
+|retaining-wall-cost			|Pass: 6 Fail: 0	|Pass: 13 Fail: 0	|Pass: 7 Fail: 0	|Pass: 2 Fail: 0	|Pass: 0 Fail: 0	|Pass: 1 Fail: 0	|
+|roof-maintenance-tips			|Pass: 12 Fail: 0	|Pass: 21 Fail: 0	|Pass: 6 Fail: 0	|Pass: 1 Fail: 0	|Pass: 5 Fail: 0	|Pass: 1 Fail: 0	|
+|samsung-smart-refrigerator	|Pass: 4 Fail: 0	|Pass: 13 Fail: 1	|Pass: 8 Fail: 0	|Pass: 2 Fail: 0	|Pass: 1 Fail: 1	|Pass: 1 Fail: 0	|
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

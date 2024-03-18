@@ -1,0 +1,73 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Can You Switch from Electric to Gas Appliances?"
+headline: "Can You Switch from Electric to Gas Appliances?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-07-25
+basePath: https://library.homeserve.com/m/
+heroImage: 518ed88b4042ee9c/Blog-Dominion_APPLIANCES_SHMQ42D90CBC_1-6.jpg
+heroAltDescription: "Appliance repair"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Switching from electric to gas appliances can make sense in some situations, but there are hidden costs."
+articleAbstract: "Switching from electric to gas appliances is usually feasible (and could even save you money on your energy bills in some cases), but there are several significant costs to be aware of."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Can You Switch from Electric to Gas Appliances?"
+  parent: Appliances
+---
+  If you crave the control of a gas stove when cooking up a storm, you may wonder if switching from electric to gas appliances is possible.
+
+**This May Also Interest You:** [**What Do You Do With an Old Appliance? How to Recycle Fridges, Washers, Ovens and More**](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+Switching is usually feasible (and could even save you money on your energy bills in some cases), but there are several significant costs to be aware of.
+
+Converting Appliances From Electric to Gas
+------------------------------------------
+
+### Dryer
+
+You can switch from an electric to a gas dryer, but it'll be significantly more expensive and disruptive than replacing it with another electric appliance. First, you'll need a gas-certified plumber to install a gas line to power your new dryer. You'll also need to replace your 240-volt outlet with a 110-volt unit.
+
+### Water Heater
+
+You can't convert an existing electric water heater to a gas model because gas and electric models have different venting and plumbing requirements. However, you could consider replacing your electric water heater with a gas-powered model. The process usually involves installing a new gas line and vents, which can be costly.
+
+You'll likely need a permit to replace your electric water heater with a gas unit. Requirements vary by jurisdiction, but most areas require homeowners to obtain a permit to ensure installation safety.
+
+### Stove
+
+Switching from an electric to a gas stove is possible, although you can't change the fuel source of an existing unit. Like dryers, you'll need to install a gas line and replace your 240-volt outlet with a 110-volt outlet.
+
+How Does Converting From an Electric Appliance to a Gas Appliance Work?
+-----------------------------------------------------------------------
+
+Installing or altering a gas line to supply a new appliance can be dangerous, so you should hire a professional plumber. The plumber will install a new line if you don't have an existing gas supply. You'll also need an electrician to adapt your system to accommodate your new gas appliance. Generally, this involves changing your existing two-pole circuit breaker to a single-pole circuit breaker and installing a 110-volt outlet.
+
+The process could be significantly easier if you have a capped gas line. In this situation, your plumber can hook up the appliance to your existing line.
+
+Switching to a gas water heater or boiler is more complex and often requires more extensive changes to your venting, plumbing or electrical system. Therefore, hiring a plumber with extensive experience installing gas appliances is essential. You should also ensure your contractor complies with local building safety codes.
+
+**More Related Articles:**
+
+*   [Should You Buy a Used Appliance? Weigh the Risks and Rewards](https://www.homeserve.com/en-us/blog/buying-guide/used-appliances/)
+*   [7 Ways Your Kitchen Will Evolve in the Next 10 Years](https://www.homeserve.com/en-us/blog/home-improvement/advancements-kitchen-technology/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+How Much Does Switching From Electric to Gas Appliances Cost?
+-------------------------------------------------------------
+
+How much it costs to switch from electric to gas appliances depends on whether you have a preexisting gas supply line. According to pricing data from [HomeGuide](https://homeguide.com/costs/gas-line-installation-cost), if your home already has a gas supply, extending an existing connection to your new appliance typically costs $12 to $25 (CAD 16 to CAD 33) per linear foot, or around $250 to $500 (CAD 332 to CAD 664) in total. Meanwhile, installing a new line from an existing gas meter costs between $500 and $2,000 (CAD 664 and CAD 2,657).
+
+Connecting your home to the street gas supply for the first time is significantly more expensive at $2,000 (CAD 2,657) or more. You may also need to install a new connection from the street if your existing system cannot support an additional gas appliance.
+
+You may need to repair your existing system to accommodate your new appliance. Gas line repairs typically cost between $6 and $7 (CAD 7.97 and CAD 9.30) per linear foot.
+
+[Replacing a 240-volt outlet](https://homeguide.com/costs/cost-to-replace-an-outlet) with a 110-volt outlet costs between $80 and $150 (CAD 106 and CAD 199). Expect to pay an electrician between $100 and $260 (CAD 133 and CAD 345) to [replace the circuit breaker](https://homeguide.com/costs/cost-to-replace-a-circuit-breaker-switch).
+
+The cost of a new gas appliance depends on the type and quality of the unit. [Forbes](https://www.forbes.com/home-improvement/kitchen/gas-stove-installation-cost/) says gas stoves cost between $2,000 and $3,600 (CAD 2,657 and CAD 4,782), including professional installation. Installing a [gas water heater](https://www.forbes.com/home-improvement/plumbing/water-heater-installation-replacement-cost/) costs $400 to $800 (CAD 531 to CAD 1,063) for a traditional tanked unit or $900 to $1,500 (CAD 1,195 to CAD 1,992) for a tankless model. On average, gas [dryers cost](https://www.forbes.com/home-improvement/plumbing/gas-dryer-hook-up-cost) around $900 (CAD 1,195), plus an extra $125 to $250 (CAD 166 to CAD 332) for installation.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Clean Your Oven | Cleaning Oven Tips and Tricks"></iframe>

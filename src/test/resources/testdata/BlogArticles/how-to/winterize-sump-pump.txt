@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Winterize Your Sump Pump"
+headline: "6 Steps to Winterize Your Sump Pump"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-05-31
+basePath: https://library.homeserve.com/m/
+heroImage: 6752ceee29082ebb/Blog-182498744.jpg
+heroAltDescription: "Sump pump basin with pvc pipe"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Winterizing your sump pump is crucial to keep it performing its best during the cold season."
+articleAbstract: "Maintaining your sump pump is crucial to keep it performing its best, even when winter hits. Follow these steps to do just that."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Winterize Your Sump Pump"
+  parent: Plumbing-How-To
+---
+  Sump pumps are known for effectively moving unwanted water out of basements and into your yard — safely away from your home. And while they usually work their hardest during the heavy rains of spring and summer, they run year-round to help ensure that those low-lying areas most susceptible to flooding stay dry.
+
+**This May Also Interest You:** [**Protect Your Home Against Flooding With This Sump Pump Maintenance Checklist**](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-maintenance/)
+
+But many people wonder what to do with a sump pump once winter rolls around. Do you unplug it? No. Does it need to be winterized? Yes. Below are six easy steps you can take to help keep your sump pump performing its best, even when the icy winds of Old Man Winter come rolling in.
+
+How to Winterize a Sump Pump
+----------------------------
+
+### Step 1: Remove the Sump Pump Hose
+
+If you live in an area that regularly experiences below-freezing temperatures, you’ll want to make sure to disconnect the discharge hose until the weather warms up. This is because any water that could still be in the hose will freeze and ultimately damage the hose. And while remembering to disconnect the sump pump hose in winter is important, you may also want to have an extra hose on hand, especially if you live in a more temperate climate where temps fluctuate in the winter. If it ever freezes, you can simply replace it with your backup hose.
+
+### Step 2: Clear Out Any Debris
+
+Any standing or slow-moving water is more likely to freeze than flowing water. That’s why it’s imperative that you clear out any debris, mud or other gunk present in the sump pump’s pipes or the sump pit itself. Excess debris can lead to clogged or slow-draining pipes, which can lead directly to frozen pipes or flooding.
+
+### Step 3: Install a Sump Pump Ice Guard
+
+Another option for those worried about potential clogs caused by frozen sump pump pipes is to install a so-called sump pump ice guard, also called a sump pump freeze plug. These overflow devices are specifically designed to allow water to escape the sump pump basin, even when the hose is frozen or clogged. These devices protect against flooding and can even help keep the motor in your sump pump from overworking and ultimately burning out.
+
+**More Related Articles:**
+
+*   [How to Install a Sump Pump: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/sump-pump-installation/)
+*   [Sump Pump Alarm Going Off? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/buying-guide/sump-pump-alarm/)
+*   [How Much Does It Cost to Replace or Install a Sump Pump?](https://www.homeserve.com/en-us/blog/cost-guide/sump-pump-installation/)
+*   [Sump Pumps: Everything You Need to Know](https://www.homeserve.com/en-us/blog/home-improvement/how-sump-pump-works/)
+*   [I Live in a Flood Zone ... Should I Finish My Basement?](https://www.homeserve.com/en-us/blog/home-improvement/finished-basement-flood-zone/)
+
+### Step 4: Check the Discharge Pipe’s Exit Location
+
+Your sump pump’s discharge pipe carries water from your sump pump away from your house. If its exit is too close to the house, you risk having water lead back to your pump. Add freezing water into the mix, and your sump pump will run continuously and eventually burn out. Make sure your sump pump discharge exit is at least 10 feet (3 meters) from the foundation of your home, and you can rest easy knowing water is being diverted properly.
+
+### Step 5: Keep the Sump Pump Plugged In
+
+When the cold weather hits, you might be wondering whether you should turn your sump pump off in the winter. After all, those rainy days in the spring and summer are long gone and with that goes the risk of flooding, right? Wrong.
+
+Be sure to keep your sump pump plugged in for the duration of the winter. The weather can be unpredictable, and you never really know when you might get heavy rains or an unexpected snow thaw that could quickly lead to a flooded basement.
+
+### Step 6: Check Crawl Space Vents
+
+When those freezing temps arrive, it’s a good idea to seal any open crawl space vents. If left open, the cold, dry winter air can easily blow into the crawl space and freeze your sump pump pipes and basin. To prevent this, close all your crawl space vents and keep the heat in your house on. While your basement will always be significantly colder than your home, there will be enough ambient heat from upstairs to keep your pipes from getting too cold.
+
+Winterized for the Win
+----------------------
+
+The good news is that winterizing your sump pump doesn’t require a ton of leg work or know-how. But you should prioritize these few small tasks each year to help prevent unnecessary damage and to see your sump pump safely through the winter. Remove the discharge hose, check exit locations, remove debris, close crawl space vents and install an ice guard for added protection. And keep that bad boy plugged in — even after the summer rains have come and gone. Your sump pump will thank you, as will your basement floors.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,132 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Whirlpool Dryer Error Codes"
+headline: "Whirlpool Dryer Error Codes"
+author: Kaia Koglin
+tags: ["post"]
+publishDate: 2023-07-24
+basePath: https://library.homeserve.com/m/
+heroImage: 49c3bf7767d5f5af/Blog-P130803_42z.jpg
+heroAltDescription: "whirlpool washer and dryer in a laundry room"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Troubleshoot the problems with your Whirlpool dryer using built-in error codes."
+articleAbstract: "Error codes can help you diagnose the issue with your Whirpool dryer. With the help of this code, you can get your Whirlpool dryer working again so you still look polished on Monday morning."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Whirlpool Dryer Error Codes"
+  parent: Appliances
+---
+  If your dryer stops working mid-cycle, you could end up wearing damp pants to work. Even worse, your clothes can get that horrible, musty smell as you try to figure out what’s gone wrong.
+
+**This May Also Interest You:** [**What Do You Do With an Old Appliance? How to Recycle Fridges, Washers, Ovens and More**](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+Thankfully, error codes can help you diagnose the issue. With the help of this code, you can get your Whirlpool dryer working again so you still look polished on Monday morning.
+
+What Is an Error Code?
+----------------------
+
+In software and electronics, error codes let someone know what’s gone wrong with a machine. This stops service technicians from having to take apart the whole dryer to find the cause of every issue and makes repairs easier and less expensive. Error codes also allow you to fix problems by yourself so you don’t have to take a day off to wait for a repairman. Your Whirlpool dryer user manual should include a troubleshooting guide that lists error codes and tells you how to fix the problem and when you need to call for help.
+
+What Are the Common Whirlpool Dryer Error Codes, and What Do They Mean?
+-----------------------------------------------------------------------
+
+Whirlpool has a variety of dryers and each uses different error codes, so it’s important to check your user manual to ensure you have the correct information. Most are made up of a combination of letters and numbers, but some are indicator lights. There are also symbols used as error codes.
+
+Whirlpool has troubleshooting guides on [its website](https://producthelp.whirlpool.com/) for different dryer models. You can search these guides to find options for fixing these and other errors.
+
+Below are some of the common error codes in front-loading, compact heat pump and top-loading dryers.
+
+### F1E1
+
+This denotes an error with the main control board. There’s either no voltage detected at the heater relay, or there’s a malfunction in the control board.
+
+### F2E1
+
+A button on the dryer is stuck.
+
+### F2E2
+
+This is the “User Interface Disconnected” error. Basically, it means there’s a fault in the user interface.
+
+### F3E1
+
+The exhaust is either open or has shorted.
+
+### F3E2/F3E5
+
+The moisture sensor strip is either shorted or open.
+
+### F3E3
+
+The inlet thermistor is either shorted or open.
+
+### F6E1
+
+There's a communication error between the user interface and the main board.
+
+### FE
+
+This code indicates an error with the power source. The dryer is not connected to power or cannot access power.
+
+### hE
+
+With this heating error, the temperature is either too hot or cold.
+
+### tS
+
+The temperature isn’t reading correctly because there’s an error with the thermistor.
+
+### do
+
+The door isn’t latched correctly.
+
+### dC
+
+There’s a failure in the door circuit.
+
+### Check Vent Indicator
+
+Airflow isn’t moving through the vent correctly, so you need to check the vent indicator.
+
+### PF
+
+A power failure has interrupted the drying cycle.
+
+### Loc
+
+The control lock has been enabled.
+
+### L2/F4E4
+
+This error means there’s an issue with your home’s power supply, preventing the dryer from operating correctly.
+
+### AF/F4E3
+
+There is low airflow in the vent.
+
+**More Related Articles:**
+
+*   [Should You Buy a Used Appliance? Weigh the Risks and Rewards](https://www.homeserve.com/en-us/blog/buying-guide/used-appliances/)
+*   [7 Ways Your Kitchen Will Evolve in the Next 10 Years](https://www.homeserve.com/en-us/blog/home-improvement/advancements-kitchen-technology/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+Do I Need to Call a Repair Tech, or Can I Fix These Errors on My Own?
+---------------------------------------------------------------------
+
+Often there’s no need to call a repair tech. It’s possible that you only need to clean out the lint screen or close the door properly to get your dryer working properly. However, there are other errors that do need expert assistance.
+
+The Whirlpool website has detailed steps on how you can attempt to fix a variety of errors. It also says when you need to call a repair tech. As dryers are complicated machines, it’s important to ring for a repair person if you’re not sure how to fix it. They’re trained and qualified to diagnose the problem and resolve complex issues relating to temperature controls, wiring and other electrical problems. A repair technician will also ensure that repairs are completed safely so that your dryer will continue to run well into the future.
+
+Keeping Your Dryer Working Well
+-------------------------------
+
+Errors are less likely to occur if you properly maintain your dryer. Specific information for your Whirlpool dryer can be found in the user manual, but below are some steps to follow to keep your dryer in optimal condition:
+
+*   Clean the lint screen before or after every load.
+*   Inspect and clean the vent system.
+*   Make sure the vent cap isn't blocked.
+*   Don't overload the dryer.
+*   Clean the drum regularly to remove dryer sheet residue.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/qpoqCRPHjqE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Find Your iPhone or Android Smartphone Serial Number"></iframe>

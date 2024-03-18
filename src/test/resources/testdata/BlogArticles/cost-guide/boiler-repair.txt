@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does Boiler Repair Cost?"
+headline: "How Much Does Boiler Repair Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-07-28
+basePath: https://library.homeserve.com/m/
+heroImage: 3bffb7e93ff28c1c/Blog-OilHeater_MDavis_IMG_0771.jpg
+heroAltDescription: "A modern residential boiler system in a historic East coast home"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "How much could boiler repairs cost? Should you replace instead? Here’s what you need to know."
+articleAbstract: "If you heat your home with a boiler, the questions on your mind likely have to do with repairs. How much could boiler repairs cost? Should you replace instead? Here’s what you need to know."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does Boiler Repair Cost?"
+  parent: HVAC-Cost-Guide
+---
+  Heating a home isn’t something many people give much thought to. They may simply turn on the heat when needed and turn it off when it gets warm out — that is, of course, unless there's a problem with the heating system. In those situations, it can go from an afterthought to the _only_ thought.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install or Replace a Boiler?**](https://www.homeserve.com/en-us/blog/cost-guide/boiler-replacement/)
+
+If you heat your home with a boiler, the next questions on your mind likely have to do with repairs. How much could boiler repairs cost? Should you replace instead? Here’s what you need to know.
+
+Is It Worth Repairing a Boiler?
+-------------------------------
+
+You'll need to consider a number of factors before making a decision. Those factors can include price, age of the system, the nature of the repair and even whether you should switch to a different kind of heating system.
+
+These factors and your personal preferences can help you decide whether to repair or replace a boiler. It can also be a good idea to consult a professional who can provide you with information about costs and the nature of any boiler damage to help you make a decision.
+
+What Are Some Common Boiler Repairs?
+------------------------------------
+
+Regular maintenance of your boiler can go a long way toward preventing issues, but accidents do happen, and parts can wear out over time, so even the best-maintained systems can still experience problems. Depending on what’s gone wrong, you might find that you need to replace your boiler. Thankfully, in many cases, you can hire a trained professional to fix your boiler instead of paying for a full replacement.
+
+Some of the most common issues with boilers that might be cause for repair include:
+
+*   Leaks
+*   Kettling, which is loud rumbling or banging within the unit
+*   Pilot light issues, including the pilot light being off or trouble relighting it
+*   Burnt out element or circulator pump that causes the boiler not to heat
+*   Sediment buildup
+
+If you find that you’re experiencing any of these problems with your boiler, a local boiler repair service can diagnose the problem. Once it’s been established that there are no major problems requiring replacement, repairs can begin.
+
+**More Related Articles:**
+
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [How to Relight Your Furnace Pilot Light in 5 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/pilot-light-furnace/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [Need a New Furnace? Here’s What You Should Know](https://www.homeserve.com/en-us/blog/cost-guide/new-furnace-cost/)
+*   [Getting Warmer … Narrow Down Why Your Heater Isn’t Working With These Troubleshooting Tips](https://www.homeserve.com/en-us/blog/home-improvement/heater-not-working/)
+
+How Much Does Boiler Repair Cost?
+---------------------------------
+
+The cost of boiler repair varies based on factors, including the parts required, the labor time required, the type of boiler currently in your home and your location.
+
+However, according to [HomeGuide](https://homeguide.com/costs/boiler-service-cost), the average cost of boiler repairs can run from $150 to $700 (CAD 199 to CAD 929), depending on what work is necessary. For example, replacing a zone valve costs between $100 and $500 (CAD 131 and CAD 658). Another common repair, replacing the thermostat, costs $140 to $350 (CAD 184 to CAD 460) on average. Replacing the circulating pump can be an expensive repair, costing up to $1,100 (CAD 1,448).
+
+Repairs are cheaper than a full replacement in most cases, with a full replacement costing $3,200 to $9,000 (CAD 4,200 to CAD 11,850). Gas boilers tend to be cheaper to repair and service than electric and oil models.
+
+_All CAD conversions are based on the exchange rate on the date of publication._

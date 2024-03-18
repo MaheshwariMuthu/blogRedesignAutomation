@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Does Evaporative Cooling Work"
+headline: "What Is an Evaporative Cooler...and How Do They Work?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-20
+basePath: https://library.homeserve.com/m/
+heroImage: 5635fd778a82820a/Blog-GettyImages-172643836.jpg
+heroAltDescription: "Swamp Cooler Maintenance on Reddish Shingled Roof"
+metaDescriptions: "Evaporative coolers are energy-efficient, but they aren't right for every home. Could one help you cut energy costs? Find out here."
+articleAbstract: "Evaporative coolers are an energy-efficient alternative to traditional air conditioners. So, how does an evaporative cooler work? Could it help you cut energy costs? Find out below."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Do Evaporative Air Coolers Work ... and Do They Really Work?"
+  parent: HVAC-Home-Improvement
+---
+  If the hot weather has you reaching for the air-con controls, you're not alone. According to the [Department of Energy](https://www.energy.gov/energysaver/home-cooling-systems/air-conditioning), around 75% of Americans have air conditioning systems in their homes, and those devices collectively account for a whopping 6% of the country’s electricity usage.
+
+**This May Also Interest You:** [**Hot This Summer? Here’s Everything You Need to Know to Keep Cool**](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+Evaporative coolers are an energy-efficient alternative to traditional air conditioners. They can help you save on cooling costs, but they aren’t right for every home. So, how does an evaporative cooler work? Could it help you cut energy costs? Find out below.
+
+How Does Evaporative Cooling Work?
+----------------------------------
+
+There’s some science behind this, so bear with us.
+
+Liquids hold a certain amount of heat. When they evaporate, the heat is used as an energy source to transform the molecule from a liquid to a gas. When a molecule leaves a surface or area as a gas, it takes heat with it. This process is known as evaporative cooling, so says [Sciencing.com](https://sciencing.com/evaporation-cause-cooling-5315235.html).
+
+You've probably experienced this phenomenon during hot weather. When we sweat, the liquid perspiration evaporates from our skin, taking heat with it and leaving us feeling cooler. In the case of an evaporative cooler, evaporating water molecules helps cool the air down.
+
+What’s an Air Cooler?
+---------------------
+
+Evaporating water into the air is an effective cooling method, and evaporative coolers harness this principle to reduce air temperature by [15 to 40 degrees](https://www.energy.gov/energysaver/evaporative-coolers). Evaporative air coolers draw fresh air in from outside and pass it over wet pads, which encourages water to evaporate into the air.
+
+The main difference between an evaporative cooler and a regular air conditioner is that an evaporative cooler continuously draws fresh outdoor air into your home instead of circulating and cooling the inside air. No refrigerant or coolant needed — just evaporating water. Unlike air conditioners, evaporative air coolers require an open window to allow air to enter the system and let warm indoor air exit your home.
+
+Evaporative air coolers are also significantly cheaper to install than traditional ACs, costing around 50% less. They are also cheaper to run because they require just 25% of the energy of an air conditioning system.
+
+However, there are downsides to evaporative air coolers. Firstly, they're unsuitable for humid areas as the air will already be moist. This reduces the unit's cooling capacity. They're also more time-consuming to maintain than regular air conditioners, and you'll need to drain and clean them at least once per season and up to several times a month during hot weather.
+
+**More Related Articles:**
+
+*   [How to Clean a Window AC Unit: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/clean-window-ac-unit/)
+*   [Hot or Cold in Your Household? Split the Difference With a Mini Split Air Conditioner](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [No AC? No Sweat. Here’s How to Keep Cool](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+
+What’s a Swamp Cooler?
+----------------------
+
+The term "swamp cooler" is an alternative name for an evaporative air cooler. Despite the odd name, swamp coolers are unsuited to swampy, humid conditions. In fact, they're only a suitable option for areas with low relative humidity.
+
+Does an Evaporative Air Cooler Actually Cool a Room?
+----------------------------------------------------
+
+Evaporative air coolers sometimes get a bad rap when it comes to their ability to cool air efficiently, but they can be an effective solution for some homeowners. If you live in an area with relatively low humidity, an evaporative air cooler can work just as well as a regular air conditioning system.
+
+However, you won't get the full benefits of an evaporative cooler unless you buy a unit that's large enough for the space you want to cool down. Check the manufacturer's guidelines carefully to ensure that the unit you're considering is recommended for your indoor environment and room size. If the room you want to cool is a high-traffic space with several occupants, gets a lot of sunlight or contains appliances that generate heat during operation, you should consider purchasing a more powerful unit.
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8mzG-IJupUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

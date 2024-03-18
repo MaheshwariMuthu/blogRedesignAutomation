@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Stop Condensation in the Attic"
+headline: "How to Stop Condensation in the Attic"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-06-01
+basePath: https://library.homeserve.com/m/
+heroImage: 64fd794388a72d9f/Blog-GettyImages-1241516298.jpg
+heroAltDescription: "Replacing Old Attic Mineral Wool Insulation."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Whether from roof leaks or condensation, moisture in your attic is never a good thing. If condensation seems to be the cause, here's what to do."
+articleAbstract: "Whether from roof leaks or condensation, moisture in your attic is never a good thing. If condensation seems to be the cause, here's what to do."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Stop Condensation in the Attic"
+  parent: HVAC-How-To
+---
+  Condensation: It’s a complex scientific process where warm air meets cold air and is converted into water. It’s what causes water droplets to form on a cold drink on a hot summer day and dew to form on the grass during the summer and spring.
+
+**This May Also Interest You:** [**Got Gable Vents? Here’s What You Need to Know About Your Attic’s Airflow**](https://www.homeserve.com/en-us/blog/home-improvement/gable-vent/)
+
+But, while condensation is a mostly harmless and natural process, it can lead to a host of issues when it happens in your home — especially in your attic. The presence of moisture in an attic for extended periods of time can leave your rafters, wood framing and roof sheathing at risk of mold and wood rot. All of these issues require extensive repairs and the help of specialized home restoration crews. The trick is to catch condensation early and take preventative measures as soon as possible.
+
+How Do You Know if You Have Condensation in Your Attic?
+-------------------------------------------------------
+
+Generally speaking, you’ll be able to tell if you have a moisture problem in your attic by noticing the presence of water. That said, it’s not always so easy to detect. For example, when you think of water in an attic, you might immediately assume that your roof is leaking. When investigating a potential roof leak, you’ll likely notice water in a smaller, localized place in your attic. Condensation, on the other hand, typically affects a more widespread area of the attic.
+
+Additional signs that you have an issue with attic condensation are:
+
+*   Water dripping down walls
+*   Damp or wet wood
+*   Moisture on any glass surfaces
+*   Wet insulation
+*   Presence of mold or mildew
+*   Signs of rust
+
+Still, attic condensation can be rather tricky to diagnose. In some cases, you may not even notice that there’s an issue until your roof is sagging and the beams in your attic are beginning to rot.
+
+Why Is There Condensation in Your Attic?
+----------------------------------------
+
+Generally speaking, attic condensation develops in winter and spring, or the time of the year when warm, moist air from the living areas of your home rises into your attic. Condensation occurs when that warm air encounters the cool air in the attic.
+
+During the winter, that condensation turns into frost, which, by itself, isn't harmful to your roof. However, when the weather warms up, the frost will melt, putting you at risk for the same dangers present with condensation.
+
+Because there are several different causes of excess attic condensation, it can sometimes be difficult to diagnose. In many cases, condensation in the attic is caused by poor insulation and ventilation, causing your attic to trap warm, moist air. Other times, condensation can develop due to an improperly vented bathroom or dryer exhaust fan. In any event, if you’re having trouble identifying the cause of your condensation issues, reach out to a roofing professional.
+
+**More Related Articles:**
+
+*   [5 Insulation Tips to Save Energy and Money](https://www.homeserve.com/en-us/blog/home-improvement/insulation-tips/)
+*   [How to Insulate Your Attic in 7 Steps](https://www.homeserve.com/en-us/blog/how-to/insulate-attic/)
+*   [How Much Does Attic Insulation Cost?](https://www.homeserve.com/en-us/blog/cost-guide/attic-insulation/)
+*   [Attic Fans Vs. Whole-House Fans: What They Do and How They Differ](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-versus-attic-fan/)
+*   [What to Expect When They're Inspecting: Your Home-Inspection Checklist](https://www.homeserve.com/en-us/blog/home-improvement/what-to-expect-home-inspection/)
+
+How to Prevent Condensation From Developing in Your Attic
+---------------------------------------------------------
+
+Because attic condensation can develop due to a number of different causes, correcting the situation isn’t always as simple as it sounds. If you aren’t sure what the root cause of your condensation is, you may have to try some different repair methods in order to completely solve the problem.
+
+One way to combat attic condensation is to eliminate any air leakage from occurring in the attic. Starting by checking and sealing all vents that might be filtering warm air into your attic. Damaged caulking or cracks of any kind can allow warm, moist air to leak into your attic space. When the warm air mixes with the cold air, condensation is likely to develop.
+
+While examining your vents, make sure that any and all bathroom and dryer exhaust vents are routed outside. If an exhaust vent is venting in your attic space, the warm air has a direct line into your attic, creating the perfect environment for condensation.
+
+Another way to keep attic condensation at bay is to make sure your attic is properly insulated. When an attic space has proper insulation, it limits the amount of warm air entering your attic in the first place. Good insulation is especially important in attic bypasses like kitchen exhaust fans, heating ducts, and even light fixtures.
+
+A simple, short-term solution for dealing with attic condensation is to place a loft dehumidifier in your attic to mitigate some of the excess moisture. Keep in mind that this is only a temporary solution. In order to truly solve the problem of attic condensation, you’ll need the help of a professional roof specialist.
+
+Condensation No More
+--------------------
+
+Whether from roof leaks or condensation, moisture in your attic is never a good thing. If condensation seems to be the cause of your attic’s water issue, make sure you take the necessary steps to diagnose and correct the issue immediately.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

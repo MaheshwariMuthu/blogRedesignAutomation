@@ -1,0 +1,52 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "CES 2024: Smart Drain-Line Cleaner Gets the Goop Out to Keep Your Air Conditioner Crankin'"
+headline: "CES 2024: Smart Drain-Line Cleaner Gets the Goop Out to Keep Your Air Conditioner Crankin'"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2024-01-08
+basePath: https://library.homeserve.com/m/
+heroImage: 7638ed38d9e0cdd8/Blog-iFLO-bottle-in-device.jpg
+heroAltDescription: "Product image iFLO"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "iFLO, purportedly the world’s first automated HVAC drain line cleaner, will be on display at CES 2024 in Las Vegas."
+articleAbstract: "iFLO, purportedly the world’s first automated HVAC drain line cleaner, will be on display at CES 2024 in Las Vegas. The smart device purports to prevent clogs that put your AC unit at risk of shutoffs, leaks, mold growth and flooding."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "CES 2024: Smart Drain-Line Cleaner Gets the Goop Out to Keep Your Air Conditioner Crankin'"
+  parent: HVAC-Home-Improvement
+---
+  
+
+When’s the last time you cleaned your air conditioner’s drain line? “Never” isn’t a _great_ answer, but it’s certainly a common one. (Did you even _know_ your AC had a drain line — let alone that you needed to clean it regularly?) Enter: iFLO, your smart HVAC drain-line-cleaning solution.
+
+**This May Also Interest You:** [**How to Clean an AC Drain Line**](https://www.homeserve.com/en-us/blog/how-to/how-to-clean-an-ac-drain-line/)
+
+iFLO, purportedly is the world’s first — and only — automated HVAC drain line cleaner. Your [HVAC drain lines](https://www.homeserve.com/en-us/blog/home-improvement/condensate-drain-line/) are an outlet for moisture created by your air conditioner’s coils. Over time, they can become clogged with debris and buildup. This puts your AC unit at risk of shutoffs and leaks, but it also puts your home at risk for mold growth and flooding. TL:DR: You need to clean this thing on a regular basis.
+
+iFLO claims its device does the hard work for you. It’s a smart device you install on your HVAC system’s drain line. As needed, the device dispenses a bio-enzymatic solution that will loosen buildup. “[Bio-enzymatic](https://www.mdgbio.com/what-is-a-bio-enzymatic-cleaner/) solution” is a fancy way of saying it gets microbes to do our dirty work for us in a natural biological process without the use of conventional cleaning chemicals.
+
+<img class="detail-image" src="https://library.homeserve.com/m/5a5c454dbeab8523/Blog-iFLO-installed-1.jpg" alt="iFLO produc installed on hvac system"/>
+
+The inventor and founder, Joe McDonnell, said he created the iFLO to solve a problem he experienced himself: constantly clogged HVAC drain lines. Such clogs would turn off the air conditioning in the middle of the night in the dead, humid heat of Florida summer. Instead of waiting for a repair tech, McDonnell took matters into his own hands and unclogged his drain line with a wet vac. After a few too many of these late-night unclogging sessions, he needed a once-and-for-all solution.
+
+“In a battle to keep my own AC unit running smoothly, I invented iFLO,” McDonnell said.
+
+**More Related Articles:**
+
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [What’s a Condensate Drain Line … and Why Should I Care?](https://www.homeserve.com/en-us/blog/home-improvement/condensate-drain-line/)
+*   [How to Clean your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [How Much Does It Cost to Replace an AC Compressor?](https://www.homeserve.com/en-us/blog/cost-guide/ac-compressor-replacement/)
+
+McDonnell said he discovered that there’s a common cause of modern AC drain line clogs: something called Zooglea. For lack of a less-gross explanation, Zooglea is a thick, mucus-like buildup of microorganisms. Biological particles like dust, pet dander, germs and other contaminants join up with water droplets on your AC’s condensate coils, and the result is an icky, sticky mess of Zooglea. This accumulates over time and clogs the condensate drain line, which will (hopefully) just cause your HVAC system to shut down. If it _doesn’t_ shut down, it can cause your AC to overflow and flood.
+
+<img class="detail-image" src="https://library.homeserve.com/m/17251c13711845b2/Blog-IMG_4664.jpg" alt="image of zooglea building up around condensate drain line"/>
+
+According to iFLO, Zooglea buildup is more common in HVAC systems made in the past nine years. Those manufactured prior to 2015 had copper in the condensate coils. Copper has antimicrobial properties, which would slow the development of goopy Zooglea.
+
+The company says iFLO’s bio-enzymatic surfactant cleaning solution can rid your drain lines of Zooglea, which is especially prominent in the southern U.S. The iFLO, which requires a Wi-Fi network connection, connects to your smartphone via an app that uses AI to detect your home’s geographical location. From there, it takes into account temperature and humidity levels to dispense the appropriate amount of cleaner. The app also includes a step-by-step guide to installation — which iFLO says takes 5 minutes — live status updates and a chat support feature.
+
+The iFLO is [available now](https://iflo.com/collections/all). The starter kit, which includes the device and a bottle of cleaning solution, sells for $149.99. Refill bottles, which last three to six months, cost $29.99. iFLO also has a subscription service; sign up for automatic cleaner refill deliveries for 10% off. The iFLO will be on display at this CES 2024 (formerly known as the Consumer Electronics Show).<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/kelkErNj5Dw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="What even is a condensate drain line???"></iframe>

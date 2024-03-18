@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Clean a French Drain"
+headline: "How to Clean a French Drain"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-06-17
+basePath: https://library.homeserve.com/m/
+heroImage: 3fff1aac479a612f/Blog-GettyImages-1282259433.jpg
+heroAltDescription: "too compact and impermeable soil does not absorb water during rains and floods. a lake was created in the park in the lawn"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Depending on the severity of your clog, cleaning out a French drain can be a simple process or a rather arduous one. Here's what you need to know."
+articleAbstract: "Depending on the severity of your clog, cleaning out a French drain can be a simple process or a rather arduous one. Here's what you need to know."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Clean a French Drain"
+  parent: Plumbing-How-To
+---
+  Picture this: You wake up one morning, ready to mow your lawn, only to discover your backyard transformed into a waterlogged swamp. It’s like Mother Nature threw a pool party while you were peacefully snoozing away.
+
+**This May Also Interest You:** [**How Much Does a French Drain Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/french-drain/)
+
+What makes this scenario extra unsettling is that you previously installed French drains in your yard to prevent this very thing from happening in the first place. But now, here you are with standing water, soggy soil and inadequate drainage — all signs that your French drain system is clogged. In order to get your yard drainage system back in operation, you’ll need to unclog your French drain.
+
+Depending on the severity of your clog, cleaning out a French drain can be a simple process or a rather arduous one. And if at any point you suspect your clog is too severe to tackle yourself, never hesitate to call in a professional drainage specialist.
+
+How to Clean Out a French Drain
+-------------------------------
+
+### Step 1: Remove Debris
+
+Before you can start to clear a clogged French drain, you’ll need to remove any visible debris from the access point. Use a shovel to clear away the leaves, twigs, rocks and mud that you can see and place it in a bucket or somewhere else away from the drain. If possible, make sure the drain access point is visible.
+
+### Step 2: Flush the Drain
+
+Once the drain has been cleared away of visible debris, use a pressure washer to flush out the clogged drain. If you don’t own a pressure washer, you can affordably rent them from any larger home improvement store, or most local equipment rental companies. Before you start flushing the drain, make sure the pressure washer you’re using has a high-pressure nozzle to provide a concentrated, powerful stream of water into the drain. You should also take care to wear safety gear like eye goggles and gloves when operating a pressure washer, as there’s a good chance that the water flow from the pressure washer will shoot down the pipe, hit the obstruction and shoot back up and out of the drain.
+
+Insert the wand of the pressure washer into the access point of the French drain. To ensure that the water flow goes as far as possible, insert the wand as far as possible into the access point. Then, start the water flow on the lowest pressure setting to avoid damaging the drain system. Gradually increase the pressure to dislodge the obstruction. Continue this process until the obstruction is removed. If the French drain has accumulated a significant amount of debris, this process might take a while. Keep flushing until the water coming from the other access point runs clear. If the obstruction doesn’t dislodge using the pressure washer, continue to the next step.
+
+### Step 3: Rent an Electric Sewer Snake
+
+In many cases, using a pressure washer is an effective way to unclog a French drain. That said, sometimes tree and plant roots, rocks, and even compacted mud create an obstruction that is too much for a pressure washer to handle. If this is the case, you’ll need to use a heavy-duty electric sewer snake (auger) to bust through the obstruction. These powerful motorized machines spin a steel cable with a claw on the end that can break through just about anything. Like pressure washers, you can rent an auger from most large home improvement stores, as well as any local tool rental companies. When you rent the sewer snake, explain to the rental company that you are using the machine on a French drain, and they’ll equip the auger with the most appropriate claw.
+
+Keep in mind that sewer snakes are heavy-duty machines. Be sure to wear safety gear like goggles and work gloves. Additionally, take a moment to familiarize yourself with the machine and make sure you know how to control the rotation, speed and direction of the claw before you continue.
+
+**More Related Articles:**
+
+*   [Au Revoir, Standing Water! How to Install a French Drain in 8 Steps](https://www.homeserve.com/en-us/blog/how-to/how-to-install-a-french-drain/)
+*   [How Much Does Sod Cost to Install?](https://www.homeserve.com/en-us/blog/cost-guide/sod-installation/)
+*   [Basic Lawn Care and Maintenance Tips](https://www.homeserve.com/en-us/blog/home-improvement/lawn-care-maintenance-tips/)
+*   [How Much Does an Above-Ground Pool Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-an-above-ground-pool-cost/)
+*   [How Much Does a Sprinkler System Cost?](https://www.homeserve.com/en-us/blog/cost-guide/sprinkler-system-installation/)
+
+### Step 4: Break Through the Obstruction
+
+Plug the sewer snake into a power source and insert the snake into the drain. Feed the claw into the French drain through the access point and apply pressure as it advances into the pipe, rotating the snake to help it reach as far as possible in the drain. Once the snake has reached the blockage, turn on the motor to activate the machine. Start slow, but gradually increase speed as needed to break through the blockage.
+
+### Step 5: Test the Drain
+
+When the blockage has been cleared, retract the snake while it’s still rotating. Then, flush the French drain with water to see if the blockage has been completely cleared. Use this as an opportunity to examine your yard drainage system as a whole. Do you notice any signs of pooling or backup? If needed, repeat the process or call in a professional drainage contractor who specializes in addressing and resolving yard drainage issues.
+
+### Regular Maintenance Is Key
+
+Regular maintenance is essential for the optimal performance of your French drain and to prevent blockages. Regularly inspect the drainage area and clear away any leaves or twigs that you see. Keep an eye on vegetation growth also, especially when it comes to tree seedlings or other plants with extensive root systems. These roots might grow into the pipe, eventually creating a clog. Finally, it’s a beneficial practice to periodically flush your French drain with a garden hose. Doing this will not only keep things running smoothly, but will also give you a sense of how well the system is working. If the water moves slower than normal, it’s a good clue that you may have debris impeding the drainage.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/I_p4dkZ3TpU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Window Wells | How to Clean and Maintain a Basement Window Well"></iframe>

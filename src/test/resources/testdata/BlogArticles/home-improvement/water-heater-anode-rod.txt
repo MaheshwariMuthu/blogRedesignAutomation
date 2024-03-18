@@ -1,0 +1,57 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Does a Water Heater Anode Rod Do?"
+headline: "What Does a Water Heater Anode Rod Do?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-08-25
+basePath: https://library.homeserve.com/m/
+heroImage: ff185816b41f89/Blog-GettyImages-1175771797.jpg
+heroAltDescription: "close-up"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Understanding how an anode rod works can help you take care of your water heater and avoid issues caused by sediment buildup."
+articleAbstract: "The anode rod is the unsung hero of your water heater and works hard to prevent tank damage. Understanding how an anode rod works can help you take care of your water heater and avoid issues caused by sediment buildup."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Does a Water Heater Anode Rod Do?"
+  parent: Plumbing-Home-Improvement
+---
+  Unless you're a professional plumber, you've probably never stopped to think about the inner workings of your water heater. Your water heater's anode rod is the unsung hero of your hot water system and works hard to prevent tank damage.
+
+**This May Also Interest You:** [**How to Replace the Anode Rods on Your Water Heater**](https://www.homeserve.com/en-us/blog/how-to/replace-water-heater-anode-rods/)
+
+Understanding how an anode rod works can help you take care of your water heater and avoid issues caused by sediment buildup.
+
+What Does a Water Heater Anode Rod Do?
+--------------------------------------
+
+A [water heater anode rod](https://www.forbes.com/home-improvement/plumbing/water-heater-anode-rod/) uses a process known as electrolysis to remove minerals and sediment from your hot water tank. It does this by attracting potentially harmful particles to stop them from building up inside your water heater. Removing these particles can prevent various water heater issues, such as corrosion, rust and pH balance problems.
+
+Anode rods are also referred to as "sacrificial rods" because the minerals in your water supply cause them to corrode over time. The rod itself is usually several feet long and spans the length of your hot water tank to protect the entire interior surface.
+
+Powered anode rods work differently from other types of water heater anode rods. Instead of attracting particles, they use electricity waves to destroy harmful particles and prevent them from accumulating.
+
+What Is a Water Heater Anode Rod Made From?
+-------------------------------------------
+
+Water heater anode rods are usually made from aluminum, magnesium or a zinc-aluminum alloy. Which option you should choose depends on whether you live in an area with hard or soft water and which substances you need the anode rod to remove.
+
+Magnesium anode rods are suitable for soft water, but they tend to degrade quickly in hard water with hard concentrations of calcium and magnesium. Aluminum anode rods are ideal for hard water areas because they can remove calcium and magnesium from the tank to prevent buildup. Meanwhile, zinc-aluminum alloy rods can reduce a rotten egg smell in your water by minimizing levels of hydrogen sulfide.
+
+**More Related Articles:**
+
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)
+*   [How to Install a Tankless Electric Water Heater: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-tankless-electric-water-heater/)
+*   [How Much Does It Cost For a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+
+How Long Do Anode Rods Last?
+----------------------------
+
+Anode rods degrade over time, so you'll need to replace them when they wear out. Powered anode rods are the exception to this rule — a powered anode rod typically lasts as long as your water heater, although they're significantly more expensive.
+
+You'll usually need to replace your [water heater anode rod](https://www.bobvila.com/articles/anode-rod-replacement/) every three to five years to keep your water heater in good condition. Anode rod life spans vary by type and manufacturer, so it's essential to check your manual and follow the guidelines for your make and model. Replacement anode rods typically cost anywhere from $20 to $50 (CAD 27 to CAD 67), and you can change the rod yourself with minimal plumbing knowledge. Alternatively, you can pay a professional plumber between $200 and $300 (CAD 268 and CAD 402) to change the anode rod for you.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

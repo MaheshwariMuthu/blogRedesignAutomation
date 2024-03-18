@@ -1,0 +1,34 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Burn Injuries Cited in Water Removal Pump Recall by Scott Fetzer Consumer Brands"
+headline: "Burn Injuries Cited in Water Removal Pump Recall by Scott Fetzer Consumer Brands"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-05-11
+basePath: https://library.homeserve.com/m/
+heroImage: a01aa8c29bba2ab/webimage-WaterPumpRecall_ScottFetzerConsumerBrands.png
+heroAltDescription: "recall product"
+metaDescriptions: "Scott Fetzer Consumer Brands has recalled 42,000 submersible water removal pumps over fire, electrical shock and burn hazards. "
+articleAbstract: "If you purchased a water pump between July 2019 and March 2021, you might want to read this. Scott Fetzer Consumer Brands has recalled 42,000 submersible water removal pumps over fire, electrical shock and burn hazards. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Scott Fetzer Consumer Brands Recalls Multi-Use Water Pumps Due to Fire and Shock Hazards  "
+  parent: Appliances
+---
+  If you purchased a water pump between July 2019 and March 2021, you might want to read this. Scott Fetzer Consumer Brands has recalled 42,000 submersible water removal pumps over fire, electrical shock and burn hazards.
+
+**This May Also Interest You: Smoke on the Water? Pentair Water Pool and Spa Recalls Pool Heaters Due to Fire Risk**
+
+According to the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/Scott-Fetzer-Consumer-Brands-Recalls-Multi-Use-Water-Pumps-Due-to-Fire-and-Shock-Hazards), the water pump’s circuit board can malfunction. If water gets into the electrical circuit board, it may short circuit, creating a potential fire or shock risk. [Scott Fetzer Consumer Brands](http://www.waynepumps.com/waterbugglowrecall/) has received 28 reports of the circuit board malfunctioning, including two incidents that resulted in minor burn injuries.
+
+The recall, announced May 5, affects specifically the WAYNE WaterBUG GLOW Multi-Use Water Removal Pump with SKU number 57732-WYN1. They were sold for $130 in The Home Depot stores, and online at HomeDepot.com and Wilmar.com. The pumps were manufactured in the U.S.
+
+Scott Fetzer Consumer Brands is asking consumers to stop using the recalled pumps immediately. Contact the Harrison, Ohio-based company for a free replacement. Call 844-369-2149, email [recall@sfconsumerbrands.com](mailto:recall@sfconsumerbrands.com) or fill out the [recall contact form](http://www.waynepumps.com/waterbugglowrecall/) on the website. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Fire Risk Prompts Recall of Goal Zero Power Cables](https://www.homeserve.com/en-us/blog/home-improvement/goal-zero-power-cable-recall/)
+*   [Over 700 Previously Recalled AC and Heat Pump Units Resold After Recalls Announced](https://www.homeserve.com/en-us/blog/home-improvement/ac-unit-heat-pump-recall/)
+*   [Concussion, Broken Bones, Eye and Mouth Injury Risk: 1 Million Greenworks, Powerworks Pressure Washer Spray Guns Recalled](https://www.homeserve.com/en-us/blog/home-improvement/pressure-washer-spray-gun-recall/)
+*   [‘Burning, Smoking, Melting’: 800 PureLine Pool Pump Motors Recalled for Fire Danger](https://www.homeserve.com/en-us/blog/home-improvement/pureline-pool-pump-motor-recall/)
+*   [In Case You Mist It: HD Hudson Recalls Garden Sprayers Due to Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/garden-sprayer-recall/)

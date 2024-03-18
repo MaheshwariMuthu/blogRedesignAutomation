@@ -1,0 +1,56 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "CES 2024: From Exfoliating Shower Heads to Smart HVAC Filters, Peep These 14 Awesome Home Innovations!"
+headline: "CES 2024: From Exfoliating Shower Heads to Smart HVAC Filters, Peep These 14 Awesome Home Innovations!"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2024-01-18
+basePath: https://library.homeserve.com/m/
+heroImage: 257fa26ac5b09c4c/Blog-CES2024014.jpg
+heroAltDescription: "CES convention center photo with CES logo in background"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "CES 2024 in Las Vegas was stacked with products on the market or on their way that homeowners need to know about. Here's a recap."
+articleAbstract: "When it comes to the latest home technologies that make our lives better, easier or otherwise evolved, CES 2024 in Las Vegas was stacked with products on the market or on their way that homeowners need to know about. Here's a recap."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "CES 2024: From Exfoliating Shower Heads to Smart HVAC Filters, Peep These 14 Awesome Home Innovations!"
+  parent: Interior-Home-Home-Improvement
+---
+  When it comes to the latest home technologies that make our lives better, easier or otherwise evolved, [CES 2024](https://www.ces.tech/) in Las Vegas was stacked with products on the market or on their way that homeowners need to know about. They range from things you didn’t know you needed — like a shower head with facial-treatment capabilities rivaling those you can find at your favorite day spa — to ones you can’t believe didn’t _already_ exist, like a home furnace filter that notifies you when it’s time to change it.
+
+**This May Also Interest You:** [**CES 2024: The Top 10 Products We Saw at CES 2024 — Ranked!**](https://www.homeserve.com/en-us/blog/home-improvement/ces-2024-wrap-up/)
+
+A host of new products focusing on areas of homeownership of particular interest to us at HomeServe — heating, ventilation and air conditioning, plumbing, electrical and appliances — kept our Editorial team busy on the show floor as we covered CES live Jan. 7 through 12. Some were practical products from major manufacturers like GE, Whirlpool and Kohler, while others were revolutionary concepts from startups you may never have heard of hoping to make a splash on the big stage. In addition to our written news coverage, which you can find on the [HomeServe blog](https://www.homeserve.com/en-us/blog/), we documented everything we saw on video via our [TikTok](https://www.tiktok.com/@homeserveusa) and [Instagram](https://www.instagram.com/homeserve_usa/) channels.
+
+CES 2024 may be over, but the home products we saw at one of the world’s largest consumer electronics exhibitions will be showing up on the market for months to come. Here are 14 awesome innovations to keep an eye out for in ’24 (and more!):
+
+[**1\. Dumb Questions at CES 2024**](https://www.tiktok.com/@homeserveusa/video/7321930338282917166?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)
+
+[**2\. Elevator Pitch: Outdoor Smart Plug From Caseta by Lutron**](https://www.tiktok.com/@homeserveusa/video/7322530757933567274?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)
+
+[**3\. MRCOOL DIY Ductless Mini-Split Air Conditioner**](https://www.tiktok.com/@homeserveusa/video/7322569167926775082?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)
+
+[**4\. The SpaViva Handshower by Kohler**](https://www.tiktok.com/@homeserveusa/video/7322589772298439979?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)
+
+[**5\. Aqara Smart Thermostat for Your Radiator**](https://www.tiktok.com/@homeserveusa/video/7322620776799096110?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)
+
+[**6\. GE Profile One & Done Combo Washer-Dryer**](https://www.tiktok.com/@homeserveusa/video/7322620776799096110?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)
+
+[**7\. Hail to the Throne! Auto-Raising Toilet Seats in Action**](https://www.tiktok.com/@homeserveusa/video/7322640798233726250?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)
+
+[**8\. Whoosh Air Smart HVAC Filters**](https://www.tiktok.com/@homeserveusa/video/7322671708522188078?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)
+
+[**9\. Bemis Smart Bidet Seat — With Smartphone App! — for Your Toilet**](https://www.tiktok.com/@homeserveusa/video/7322853698776911147?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)
+
+[**10\. Basement Defender Smart Sump Pump Monitor**](https://www.tiktok.com/@homeserveusa/video/7322897412954033450?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)
+
+[**11\. Current Backyard Smart Electric Grill**](https://www.tiktok.com/@homeserveusa/video/7323038115063549230?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)
+
+[**12\. Dignity Lifts Toilet-Assist Device**](https://www.tiktok.com/@homeserveusa/video/7323229848858627371?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)
+
+[**13\. Goal Zero Solar-Powered Backup Generator**](https://www.tiktok.com/@homeserveusa/video/7323295414818442539?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)
+
+[**14\. Water Cube Filters Drinkable Water From the Air**](https://www.tiktok.com/@homeserveusa/video/7324830641940417834?is_from_webapp=1&sender_device=pc&web_id=7324842025378154027)
+
+[**15\. Whirlpool SlimTech Refrigerator Insulation**](https://www.tiktok.com/@homeserveusa/video/7325091991631531306?is_from_webapp=1&sender_device=pc&web_id=7281032266897655338)

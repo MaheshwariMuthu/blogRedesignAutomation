@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Repair or Replace an AC Compressor?"
+headline: "How Much Does It Cost to Repair or Replace an AC Compressor?"
+author: Tean HomeServe
+tags: ["post"]
+publishDate: 2023-12-23
+basePath: https://library.homeserve.com/m/
+heroImage: 58a852596ae887a4/Blog-ZIP_0404.jpg
+heroAltDescription: "retouched"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A worn-out air conditioner compressor is a common cause of air conditioner woes. Here's what to know about pricing."
+articleAbstract: "A worn-out air conditioner compressor is a common cause of air conditioner woes. Here's what to know about pricing."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Repair or Replace an AC Compressor?"
+  parent: HVAC-Cost-Guide
+---
+  When your AC stops working correctly, it's natural to fret about the cost to fix or replace it. Weird noises, inefficient cooling or constant running could be signs your AC is headed for air conditioner heaven, but you may simply need to replace a part.
+
+**This May Also Interest You:** [**10 Ways to Make Your Central Air Conditioner More Efficient**](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioner-energy-efficiency-tips/)
+
+A worn-out air conditioner compressor is a common cause of air conditioner woes.
+
+What Is an AC Compressor and What Does It Do?
+---------------------------------------------
+
+Your AC compressor is a crucial part of your HVAC system. It works by increasing the pressure and temperature of the refrigerant inside your AC. The refrigerant then cools, turning from a gas into a liquid. The liquid passes through the evaporator, where its low temperature causes evaporation and cools the air. Without a fully functioning AC compressor, your unit can't change the temperature and pressure of the refrigerant and can't cool your home.
+
+What Can Go Wrong With an Air Conditioner Compressor?
+-----------------------------------------------------
+
+Generally, AC compressors last for between 10 and 15 years if you maintain them correctly. You should have your air conditioner professionally serviced at least once per year and regularly remove any leaves or other debris. If you don't keep your air conditioner clean, debris can get inside the unit and damage the compressor and other components.
+
+Air conditioner compressors can be prone to ice buildup. Sometimes, the ice is a sign of a refrigerant leak, but it can also accumulate when the evaporator becomes clogged. Mechanical issues, electrical faults and problems with other parts of your AC system can also stop your compressor from working properly.
+
+How Do You Know When to Repair or Replace an AC Compressor?
+-----------------------------------------------------------
+
+Unless you're an HVAC expert, it can be hard to know whether a problem with your air conditioner is due to a faulty AC compressor or another part of your HVAC system. Therefore, the best way to diagnose and fix the problem is to call an HVAC technician. Signs you may need to replace or repair your compressor include:
+
+*   Your compressor is constantly running
+*   Inadequate cooling
+*   Strange ticking or whirring sounds coming from your AC unit
+
+You should never try to repair or replace an AC compressor yourself because inhaling the refrigerant gas inside your unit can cause serious health problems and even death. A qualified HVAC technician has the training required to handle AC refrigerant safely.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+How Much Does an AC Compressor Cost?
+------------------------------------
+
+The average cost to replace an AC compressor is between $800 and $3,000 (CAD 1,100 and CAD 4,127), according to [This Old House](https://www.thisoldhouse.com/heating-cooling/reviews/ac-compressor-cost). These figures apply to central ACs, mini-split air conditioners and heat pumps. Replacing the compressor in a window AC unit is significantly cheaper at $200 to $700 (CAD 275 to CAD 963).
+
+These AC compressor costs include the price of the unit itself and installation labor. HVAC technicians typically charge around $75 to $150 (CAD 103 to CAD 206) per hour, or a total of $400 to $1,200 (CAD 550 to CAD 1,651). How much you'll pay for labor depends on the job complexity and the cost of living in your city.
+
+The size of your AC unit can also impact the cost. As a rule of thumb, the larger the unit, the more expensive it is to replace the compressor. For example, replacing the compressor in a small 1.5-ton unit usually costs between $800 and $1,400 (CAD 1,100 and CAD 1,926). Meanwhile, compressor replacement for an extra-large 5-ton unit could cost as much as $3,000 (CAD 4,127).
+
+You may need to replace the refrigerant when replacing your air conditioner compressor. This job can be dangerous, so you should always hire a professional unless you have the relevant certification and training. Most HVAC professionals charge between $100 and $300 (CAD 138 and CAD 413) for refrigerant refills.
+
+Finally, don't forget to check your warranty before paying for a replacement compressor out of pocket. If your warranty is still valid, your unit's manufacturer will likely cover the cost of replacement parts. While you'll still pay for labor, getting a replacement via your warranty could reduce your costs by 50% to 70%.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

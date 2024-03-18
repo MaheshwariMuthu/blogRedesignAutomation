@@ -1,0 +1,48 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "LG Unveils Indoor Gardening Appliance for Earth Day"
+headline: "Bring the Garden Indoors: LG Unveils New Gardening Appliance"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2022-04-22
+basePath: https://library.homeserve.com/m/
+heroImage: 4f1362aa36c4601a/Blog-LG_tiiun_02.jpg
+heroAltDescription: "Person pulls plants out of LG tiiun gardening appliance"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "In an effort to make gardening more accessible, LG has debuted the tiiun, an indoor gardening appliance."
+articleAbstract: "What if you could bring your garden inside? In an effort to make the hobby more accessible, electronics manufacturer LG has debuted the tiiun, an indoor gardening appliance."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Bring the Garden Indoors: LG Unveils Gardening Appliance for Earth Day"
+  parent: Appliances
+---
+  
+
+What if you could bring your garden inside? We don’t mean the mosquitoes and the mud you track in on the bottom of your gardening boots; we’re talking about the _good_ things — namely, the fruits (and vegetables) of your labor. In an effort to make the hobby more accessible, electronics manufacturer LG has debuted the [tiiun](https://www.lgnewsroom.com/2022/04/earth-day-with-lg-how-green-living-can-sprout-in-your-home/?utm_source=newsletter&utm_medium=email&utm_campaign=20220414_EarthDaywithLG&utm_content=H%26A_LGtiiun), an indoor gardening appliance.
+
+**This May Also Interest You:** [**Houseplant Pests: Common Critters and How to Get Rid of Them**](https://www.homeserve.com/en-us/blog/how-to/get-rid-of-houseplant-bugs/)
+
+Announced at [CES 2022](https://www.lgnewsroom.com/2021/12/lgs-indoor-gardening-appliance-presents-modern-concept-for-greener-healthier-homelife/) (formerly known as the Consumer Electronics Show), the LG tiiun is a climate-controlled system that automates and simplifies the process of gardening, all inside an appliance about the size and shape mini fridge. The tiiun — which means “to sprout” in Korean — is designed to allow even novice gardeners to bring some green indoors, the company claims.
+
+“LG tiiun delivers both practical functionality and emotional support to those looking to grow their own plants in this new era of living,” said Lee Hyun-jee, head of tiiun marketing development.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6e2cd16aa374c595/webimage-LG_tiiun_08.png" alt="LG tiiun gardening appliance in a living room"/>
+
+The tiiun is a self-contained unit with two shelves for your seedlings and a clear door so you can watch them grow. The smart gardening system works with proprietary, pre-planted seed packages that are designed to be low-mess. These all-in-one kits come in 20 different varieties, and you can grow six of these kits at a time.
+
+LG said the tiiun uses the company’s existing technology from other appliances, including water purification, refrigeration and ventilation systems, to create an environment for fresh vegetables and herbs to grow year-round. The Flexible Weather Control system adjusts the internal temperature to create optimal growth conditions. A natural lighting system mimics the cycle of daylight. You don’t even have to worry about arguably the most tedious task involved in keeping up a garden — watering. The tiiun automatically waters your plants multiple times a day. Plus, the system links up with LG’s [ThinQ](https://www.lg.com/us/lg-thinq) smart home technology, so you can check on your plants from an app on your phone.
+
+**More Related Articles:**
+
+*   [Here’s How to Hang a Planter](https://www.homeserve.com/en-us/blog/how-to/hang-planter/)
+*   [How Much Does Xeriscaping Cost?](https://www.homeserve.com/en-us/blog/cost-guide/xeriscape/)
+*   [What Is Xeriscape Landscaping?](https://www.homeserve.com/en-us/blog/home-improvement/xeriscape-landscaping-definition/)
+*   [How Much Does It Cost to Build a Greenhouse?](https://www.homeserve.com/en-us/blog/cost-guide/build-greenhouse/)
+*   [How to Build a Greenhouse at Home](https://www.homeserve.com/en-us/blog/how-to/build-home-greenhouse/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/1ab7481b65b11353/webimage-LG_tiiun_06.png" alt="Plants in tray from tiiun gardening appliance"/>
+
+After about four weeks, you can harvest leafy greens like arugula and kale. Thyme, peppermint and other herbs will take six weeks to mature, and flowers, like marigolds, take eight.
+
+In March, the tiiun made its retail debut in [South Korea](http://www.koreaherald.com/view.php?ud=20211015000646), where it sells for about $1,260 (CAD 1,585). There’s also a miniature, tabletop version of the appliance — the open-air tiiun Mini — that looks a little like a gardening basket. There’s no word yet from LG about when this appliance or its mini-me will be available in the U.S.

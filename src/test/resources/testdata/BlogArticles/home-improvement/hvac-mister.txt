@@ -1,0 +1,80 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is an HVAC Mister and How Does It Work?"
+headline: "What Is an HVAC Mister and How Does It Work?"
+author: Andrea Burton
+tags: ["post"]
+publishDate: 2023-10-24
+basePath: https://library.homeserve.com/m/
+heroImage: ae760a871da6903/webimage-What-Is-an-HVAC-Mister-and-How-Does-It-Work.png
+heroAltDescription: "illustration of an HVAC misting system in use"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "HVAC misting systems aim to reduce energy waste by cooling the air around your condenser unit, so it can work more efficiently."
+articleAbstract: "An HVAC misting system is a device that claims to reduce energy waste by cooling the air around your condenser unit, so it can work more efficiently."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is an HVAC Mister and How Does It Work?"
+  parent: Plumbing-Home-Improvement
+---
+  It's summer, it's scorching hot, and you're paying way too much to stay cool. If only there were some way to trim your electric bill while still keeping you comfortable at night.
+
+**This May Also Interest You:** [**Should You Repair or Replace Your Air Conditioner?**](https://www.homeserve.com/en-us/blog/home-improvement/repair-replace-air-conditioner/)
+
+Enter the HVAC misting system, a device that claims to reduce energy waste by cooling the air around your condenser unit, so it can work more efficiently. Learn the basics of this appliance accessory, and see if an AC water sprayer may be the answer for your home.
+
+What Is an HVAC Misting System?
+-------------------------------
+
+An AC misting system directs a fine spray of water into the air surrounding the condenser coils in the outdoor AC box. These coils contain refrigerant, which, as it cools, condenses into a liquid. Your box unit has a fan that helps encourage this cooling process. An air conditioner mister speeds up the cooling by lowering the air temperature around the coils through the evaporation of water molecules.
+
+Mist-n-Save and other evaporative cooling misters are used on residential AC systems with an outdoor box unit. If you have a heat pump system, you shouldn't use misting devices during heat cycles.
+
+How Do AC Misters Work?
+-----------------------
+
+AC misting systems distribute water into the air around your condenser coils when the AC fan is operating. As the water evaporates, it lowers the nearby air temperature, helping the refrigerant cool quicker and reducing the workload of your system.
+
+[Tulane University](https://coolnsave.com/wp-content/uploads/2018/06/CNS_Tulane_Study-2018.pdf) conducted a study to determine if spraying water on an air conditioner helps lower the surrounding air temperature. The results for the mister device, Cool-n-Save, showed notable temperature decreases in ambient air, even in atmospheres with high humidity.
+
+The Cool-n-Save air conditioner mister turns on automatically when the unit's fan creates enough airflow to raise the attached paddle device. Some AC mister systems also have a control unit that senses air temperature before initiating the sprayer.
+
+Once the mister has been engaged, water flows through a filter, into the tubes and out specialized nozzle heads to bathe your air conditioner unit in a fine spray. Since the water evaporates so quickly, there's little chance of excess water accumulating around the unit. The water flow is stopped via the same triggering device when the AC fan switches off.
+
+Is Mist-n-Save Easy to Install?
+-------------------------------
+
+Most AC misting systems are simple for the average homeowner to install, requiring no special tools or knowledge of electricity. Systems with temperature controls or solar energy sources may take a little more effort but are still within the scope of a DIY project.
+
+*   You'll need a secure water hookup with a continuous water supply. If you don't want to block access to an outdoor spigot, add a splitter for dual water connections.
+*   Since the mister is fixed to the outdoor central air unit, ensure the area is clean and free from plants and other obstructions. Place the AC mister on top of the air conditioner unit and attach it as directed.
+*   Next, simply connect the included tubing and the filter.
+*   Finish by checking for unobstructed water flow, then add the spray nozzles.
+
+**More Related Articles:**
+
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [New to BTUs? Here’s What to Know About BTUs When Shopping for an Air Conditioner](https://www.homeserve.com/en-us/blog/home-improvement/btu-air-conditioning/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+*   [Keep Your Cool With Our Top 5 Picks for Window AC Units](https://www.homeserve.com/en-us/blog/buying-guide/best-apartment-window-air-conditioners/)
+*   [Got Central Air? Use This Top-to-Bottom Air Conditioner Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist/)
+
+Is AC Misting Effective for Reducing Utility Costs?
+---------------------------------------------------
+
+Using air conditioners can significantly increase your electric bill during periods of extreme heat. By reducing the workload on your AC unit, you can save money and help your unit last longer. Your AC system will run for shorter times and with less effort.
+
+As shown in the Tulane study, results vary depending on the humidity of the air. You'll see more savings in a drier climate. Due to the small amount of water needed for the fine mist, you might incur a few cents increase in your water bill.
+
+Potential Problems With Misting Your AC Unit
+--------------------------------------------
+
+While HVAC misting systems offer several advantages to homeowners, you should be aware of possible limitations or maintenance issues.
+
+*   They're contraindicated in regions of the country with a high mineral content in their water supply (hard water).
+*   Misters need a continuous water supply hookup.
+*   Filters are necessary to avoid excess water deposits and should be replaced as recommended.
+*   Mineral deposits may still build up on the condenser coils. To avoid this costly problem, rinse your unit at least once per month with a solution that removes deposits.
+*   Nozzles may also clog due to water deposits and should be cleaned as needed.
+*   Inspect the triggering device periodically to make sure it doesn't become jammed.
+*   Check with your HVAC contractor to ensure using a misting device doesn't void your warranty or maintenance contract.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/8mzG-IJupUA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Ceiling Fan Direction | Summer vs. Winter"></iframe>

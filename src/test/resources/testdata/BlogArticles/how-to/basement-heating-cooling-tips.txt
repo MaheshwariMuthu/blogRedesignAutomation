@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Tips for Heating and Cooling Your Basement"
+headline: "5 Tips for Heating and Cooling Your Basement"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-22
+basePath: https://library.homeserve.com/m/
+heroImage: 2cd3ac6d9bc55c81/Blog-GettyImages-1255209530.jpg
+heroAltDescription: "empty basement in the middle of renovation"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "An unfinished basement is unused space waiting to be occupied. Here's how to climate control your basement."
+articleAbstract: "Converting an unfinished basement is a good way to extend your home's square footage. Exploring heating and cooling options for basements should be the first step of any basement upgrade. Here are some tips."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "Tips for Heating and Cooling Your Basement"
+  parent: HVAC-How-To
+---
+  
+
+A basement can be a great office, den or hang-out room. If your basement wasn't designed to be lived in, however, you may have noticed the lack of ventilation makes it uncomfortable to spend time in.
+
+**This May Also Interest You:** [**What’s an Air Handler?**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+
+Converting an unfinished basement is a good way to extend your home's square footage. But its climate needs to be comfortable if you intend to actually use the space. Exploring heating and cooling options for basements should be the first step of any basement upgrade.
+
+Heating and Cooling Options for Basements
+-----------------------------------------
+
+Basement heating and cooling systems come in many forms, from standalone electric heaters to vent-free gas systems, or you can extend your existing HVAC system. The best heating and cooling options for basements will depend on the size of the property, as well as utility prices in your area.
+
+Basement Climate Control Tips
+-----------------------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/7c920e60cff0137/Blog-GettyImages-185211977.jpg" alt="close up shot of spray foam being applied on to a wall"/>
+
+### 1\. Add Insulation
+
+Unfinished basements can often be quite cold spaces during the winter. A lack of insulation means heat escapes through the walls and floor. The average temperature underground is just 55 degrees Fahrenheit (13 degrees Celsius), and any heat in your basement will either rise and escape through the basement ceiling or be wasted attempting to heat the surrounding walls.
+
+It's important to insulate your basement's floor, walls and ceiling before trying to heat it to prevent wasted energy. Elevating the floor could offer some extra insulation, too.
+
+<img class="detail-image" src="https://library.homeserve.com/m/f626d6c18f02ab6/Blog-GettyImages-1177265930.jpg" alt="A pair of household space heaters warming a pair of feet "/>
+
+### 2\. Be Careful With Space Heaters
+
+Do not use standard gas heaters because the lack of ventilation could lead to carbon monoxide poisoning. Electric space heaters, panel heaters and radiators are good options for a basement. Infrared heaters can also be effective because they convert energy into radiant heat and direct it to nearby surfaces.
+
+<img class="detail-image" src="https://library.homeserve.com/m/62b63ff08fe9a85a/Blog-GettyImages-616884454.jpg" alt="electric fireplace in mantle"/>
+
+### 3\. Try a Fireplace
+
+If you're lucky enough to have a chimney on your property, a fireplace or a wood burner could be a fun way to heat your basement. The fireplace can be a nice focal point of the room, too.
+
+**More Related Articles:**
+
+*   [It’s Too Hot in Here! How to Turn Down Your Radiator](https://www.homeserve.com/en-us/blog/how-to/turn-down-radiator/)
+*   [4 Signs Your Boiler Needs to Be Repaired or Replaced](https://www.homeserve.com/en-us/blog/home-improvement/boiler-repair-replacement/)
+*   [No AC? No Sweat. Here’s How to Keep Cool](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+*   [How Much Does It Cost to Install a Heat Pump?](https://www.homeserve.com/en-us/blog/cost-guide/heat-pump/)
+*   [Hot or Cold in Your Household? Split the Difference With a Mini Split Air Conditioner](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/3a70813cea166a6c/Blog-GettyImages-1191230473.jpg" alt="Air Purifier and dehumidifier  Concept for dehumidifying room  Humidity selection button  Humidity percentage display "/>
+
+### 4\. Dehumidify
+
+Because most basements lack ventilation, they can sometimes feel uncomfortably warm in the summer, especially if they become humid. Running dehumidifiers can help alleviate the sticky feeling.
+
+<img class="detail-image" src="https://library.homeserve.com/m/1381b1f4be45327f/Blog-Mitsubishi_SplitACUnit_AWiesen_IMG_0500.jpg" alt="Mitsubishi Electric split HVAC unit with remote"/>
+
+### 5\. Install a Mini Split
+
+The best basement heating and cooling systems for most people are ductless mini split HVAC units. These units stand independent of the system used by the rest of the house. This means there's no need to run extra pipes, saving you from potentially expensive renovation work. Split HVAC units are usually better at cooling than heating, so you may need separate baseboard heaters or some other heating option if you live in an area that sees cold winters.
+
+One benefit of using an HVAC system to cool your basement is that it can improve the air quality in that space. Many basements have poor airflow, and an air conditioner that vents to the outside can help with this. Make sure the air conditioner's thermostat and filter are cleaned regularly and that the refrigerant is kept topped up so that the HVAC system runs as well as possible.
+
+Keep Your Basement Comfortable
+------------------------------
+
+Keeping your basement at a steady temperature and improving the air quality will make it a more comfortable place to spend time. A finished basement is a good investment that can give a growing family more living space — whether that's for relaxation or to accommodate a new need to work from home.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

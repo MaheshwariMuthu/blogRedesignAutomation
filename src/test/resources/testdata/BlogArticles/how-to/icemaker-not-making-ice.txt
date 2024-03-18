@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Ice Maker Not Making Ice: What to Do"
+headline: "No Ice? 5 Reasons Your Ice Maker Isn't Working — and How to Fix It"
+author: Mark Soto
+tags: ["post"]
+publishDate: 2021-07-28
+basePath: https://library.homeserve.com/m/
+heroImage: 4494e6002716e62a/Blog-GettyImages-532174580.jpg
+heroAltDescription: "Choosing ice-maker programme at refrigerator displayer"
+metaDescriptions: "Ice maker not making ice? Try these five fixes."
+articleAbstract: "If your ice maker has stopped working, these troubleshooting tips can help you get it working again. Try these before calling the technician or buying a new one."
+category: ["How To"]
+eleventyNavigation:
+  key: "What to Do When Your Ice Maker Stops Making Ice"
+  parent: Appliances-How-To
+---
+  
+
+You don’t often realize the convenience and importance of ice makers until you can no longer make any ice. If you’re ice maker suddenly stops working, it can be due to a variety of problems. Luckily, the setup isn’t too complicated, so fixing these issues isn’t the most complex job.
+
+**This May Also Interest You:** [**Iced Out? Why Your Fridge Is Freezing Over**](https://www.homeserve.com/en-us/blog/home-improvement/ice-buildup-fridge/)
+
+Before you call it quits with your ice maker (or call an appliance expert to get it repaired), try these troubleshooting tips to fix it on your own.
+
+### How Does an Ice Maker Work?
+
+To understand what’s going wrong with your ice maker, you’ll need to know how an ice maker works. To make ice, an ice maker needs a water supply line and power. The ice maker gets its power from the refrigerator’s electric circuit. The water it uses comes from the plumbing line that is often connected to the back of your refrigerator.
+
+Once the cycle begins, the water valve opens and fills the ice mold with water. Then the cooling unit freezes the water, and the ice maker thermostat detects when a specific temperature is reached and stops the freezing process. After this, it activates the heating coil, which loosens the ice cubes from the molds. Once the ice cubes are placed in the bin, the control arm prevents the process from restarting.
+
+<img class="detail-image" src="https://library.homeserve.com/m/17dd7bea11b95219/Blog-GettyImages-1021574390.jpg" alt="Male hand is pouring cold water and ice cubes from dispenser of home fridge "/>
+-------------------------------------------
+
+Common Reasons Why an Ice Maker Stopped Working
+-----------------------------------------------
+
+### 1\. The Control Arm Is Turned off or Broken
+
+The control arm in an ice maker checks when the ice bin is full and turns the ice maker off when it reaches that point. If it’s broken or has been accidentally shifted off, your ice maker won’t make any ice since the process is blocked. Assuming it was just accidentally shifted, read the refrigerator’s owner manual to learn how to move it to the on position. It can be as simple as moving the arm up or down. If it’s broken, you’ll need to have it replaced.
+
+### 2\. The Water Line Is Frozen
+
+If you’ve noticed a low flow of water or no water at all, the ice maker water line that goes into the fridge may be clogged or completely frozen. Before doing anything to deal with the problem, unplug the power and turn off the water supply in your home. To unfreeze the water line, use a hairdryer and hover over it until it’s no longer frozen. You can buy a water line heater that prevents it from freezing in the first place.
+
+**More Related Articles:**
+
+*   [Freezer Not Freezing? Chill Out! Here are 3 Ways to Fix Common Problems](https://www.homeserve.com/en-us/blog/how-to/fix-your-freezer/)
+*   [Every Cost You Need to Know About With Refrigerator Repair](https://www.homeserve.com/en-us/blog/cost-guide/refrigerator-repair-costs/)
+*   [Defrosting, Demystified: Here’s How Often You Need to Defrost Your Freezer](https://www.homeserve.com/en-us/blog/how-to/defrost-freezer/)
+*   [How Do I Reset My Samsung Refrigerator?](https://www.homeserve.com/en-us/blog/how-to/reset-samsung-refrigerator/)
+*   [Ever Cleaned Your Refrigerator Coils? Sure, We Believe You (But Here’s How, Just in Case)](https://www.homeserve.com/en-us/blog/how-to/reset-samsung-refrigerator/)
+
+### 3\. The Water Inlet Valve Is Broken
+
+Sometimes, the water inlet valve doesn’t open or gets stuck, preventing water from coming in. Even if the water line is delivering the water, the valve might not push any water up to the ice maker.
+
+You’ll want to inspect it to make sure it’s working as expected. If you have a multimeter available, you can check the ice maker’s terminal connection for current. If you get a reading, then it still works. Otherwise, you’ll need to replace it. Just be sure to unplug the fridge from power and shut off the water before installing a new one or removing the old one.
+
+### 4\. You Have a Clogged Filter
+
+If you’re not routinely changing the water filter in your refrigerator, this can also cause issues. When your filter has picked up too much debris, it will stop filtering, which may lead to clogs. To fix this, simply switch out the old filter for a new one.
+
+You should change the water filter every six months. At a minimum, it should be changed at least once a year. Apart from keeping your ice maker working, it also keeps the water clean and prevents the build-up of bacteria.
+
+If you change the filter and notice that the water flow is slow or it’s still not delivering any water, the pins for the water filter head might be stuck. Try pressing them in and see if that fixes it. If it doesn’t, you might have a bad water filter head that needs to be replaced.
+
+### 5\. The Motor Is Broken
+
+Assuming your filters are clean, the water line is working properly and everything else is in the right place, the issue might simply be that the motor for the ice maker no longer works. A motor can sometimes stop working after years of hard use. You can quickly test this by placing paper next to the path, [as seen here](https://youtu.be/5JOv9yK5gv8?t=33). If the paper is still in the same position after 3 to 4 hours, that means your motor is broken.
+
+If you know your motor is broken, you’ll need a replacement, since it’s more than likely burned out at this point. Depending on the type of motor your fridge uses and its model, you can just replace the motor on the existing module. Sometimes, it’s much easier to replace the entire motor module control with a new one if the engine is hard to find.

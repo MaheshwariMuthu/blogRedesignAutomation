@@ -1,0 +1,50 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Should I Open My Sealed Sump Pump?"
+headline: "Should I Open My Sealed Sump Pump?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-05-19
+basePath: https://library.homeserve.com/m/
+heroImage: 399dbf674d2472fa/Blog-1209045181.jpg
+heroAltDescription: "Sump pump basin with pvc pipe"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If your sump pump is sealed, it's probably sealed for a reason. Here's what that cover is keeping out — and keeping in."
+articleAbstract: "If your sump pump is sealed, it's probably sealed for a reason. Here's what that cover is keeping out — and keeping in."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Should I Open My Sealed Sump Pump?"
+  parent: Plumbing-Home-Improvement
+---
+  It’s not an exaggeration to say that a sump pump is one of the most essential pieces of equipment in your home. Whether it’s due to heavy rains or poor drainage, many homes have basements or crawl spaces that flood from time to time. The presence of water inside your home is never a good thing.
+
+**This May Also Interest You:** [**6 Steps to Winterize Your Sump Pump**](https://www.homeserve.com/en-us/blog/how-to/winterize-sump-pump/)
+
+Water can wreak havoc on your appliances, wood floors, carpeting, drywall and furniture, often resulting in expensive repairs. Excess moisture creates a perfect environment for mold and mildew growth, potentially leading to health issues for anyone in your home. Needless to say, even if you don’t live in an area prone to flooding, you’ll definitely want a sump pump for the much-needed peace of mind it provides.
+
+Generally speaking, sump pumps are installed at the lowest spot in a crawlspace or basement. The sump itself is a pit, or basin, that holds the pump. It’s essentially a hole dug into the ground of the crawlspace. When it fills with water, it works to pump the water out of the basement and away from your home.
+
+Why Your Sump Pump Is Covered
+-----------------------------
+
+Even if you’re not familiar with them, sump pumps are fairly easy to spot. Most often, they’re small mechanical devices that sit in a pit in your basement. However, more and more often, sump pump pits are being covered or sealed. In fact, in many places, it’s now required by building code to install a gas-tight, removable cover.
+
+There are two main reasons why sump pumps should be covered. For one, sump pumps are prone to emit unwanted odors. When sump pumps operate, they work well to divert larger amounts of water away from the basement, but residual moisture still remains inside the pump. Because basements are dark, cool places, residual moisture can remain in the pit for extended periods of time and can eventually smell quite unpleasant. And even if you don’t frequent your basement or crawlspace all that often, you may start to notice the smell filtering into your upstairs living area. Keeping your pump basin tightly sealed will prevent these smells from entering your home.
+
+Aside from preventing unwanted odors, sealing your sump pump also helps keep radon gas from leaking into your home. Because radon is odorless, tasteless and invisible, it can be difficult to detect. However, radon poses a major health risk to literally anyone spending time inside your house. In fact, radon is the second leading cause of lung cancer. Keeping your pump sealed shut helps to prevent any and all risks associated with radon gas being emitted from your sump pit. That said, keep in mind that you should still plan to have your basement tested by a radon specialist. Having a seal over your sump pump will keep radon from escaping from the pit, but it won’t completely solve radon issues if you have the gas coming in from other areas.
+
+**More Related Articles:**
+
+*   [Why Does My Sump Pump Run in the Winter?](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-running-winter/)
+*   [What’s the Difference Between a Sump Pump and an Ejector Pump?](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-ejector-pump/)
+*   [Protect Your Home Against Flooding With This Sump Pump Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-maintenance/)
+*   [How to Install a Sump Pump: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/sump-pump-installation/)
+*   [Sump Pump Alarm Going Off? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/buying-guide/sump-pump-alarm/)
+
+Keeping Your Sump Pump Covered
+------------------------------
+
+As you can tell, sump pump covers play a crucial role in making sure unwanted odors and gasses stay away from your living areas. For this reason, it’s important that sump pumps stay covered most of the time. It’s equally important to make sure your cover is tight-fitting and seals the entire surface of the basin.
+
+In addition to keeping those nasty odors and toxic gasses away from your living areas, a sump pump cover also helps prolong the life and functionality of your pump. A cover helps keep objects and debris from accumulating inside the pump basin. Without a cover, this debris can easily clog and damage your pump, causing it to fail when you may need it most. There’s no denying that sump pumps are essential household appliances, and keeping them covered is a simple way to keep them protected throughout their natural lifespan.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/I_p4dkZ3TpU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Window Wells | How to Clean and Maintain a Basement Window Well"></iframe>

@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Light a Gas Fireplace"
+headline: "How to Light a Gas Fireplace"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-03-03
+basePath: https://library.homeserve.com/m/
+heroImage: 25a22f6ae541619e/original/GasStarter_Erossi_3320.gif
+heroAltDescription: "gas fireplace starter flame"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Do you know how to light a gas fireplace? Read this how-to guide, and consider yourself enlightened."
+articleAbstract: "Do you know how to light a gas fireplace? Read this how-to guide, and consider yourself enlightened."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Light a Gas Fireplace"
+  parent: Interior-Home-How-To
+---
+  
+
+When the weather outside is frightful, there’s truly nothing more enjoyable than cozying up to a nice, warm fire. But before you can do that, you’ll need to know how to start one. If you’re lucky enough to have a gas fireplace, the process is quick and simple without the need for any firewood. That said, lighting a gas fireplace can sometimes be tricky to figure out.
+
+**This May Also Interest You:** [**Are Your DIY Skills Fire? Here’s How to Install a Fireplace**](https://www.homeserve.com/en-us/blog/how-to/fireplace-installation/)
+
+Ready to curl up by the fire? Follow this guide to light any type of gas fireplace.
+
+How Does a Gas Fireplace Work?
+------------------------------
+
+A gas fireplace operates just like any other gas appliance. A gas line sends gas to the main burner, where it comes into contact with an electric spark ignitor or a continuously lit flame called a pilot light. Once the gas meets the flame, the fire is created almost instantly.
+
+Depending on the type of ignition your gas fireplace uses, the instructions for turning it on may vary. For example, some fireplaces use a control panel, while others use a wall switch or the turning of a metal key to control the flow of gas.
+
+How to Light a Gas Fireplace: By Ignition Type
+----------------------------------------------
+
+Because each type of gas fireplace has a different means of starting and controlling the fire, you’ll need to first determine what type you have. If you’re not sure, consult the owner’s manual.
+
+In any case, make sure you follow fireplace safety protocols before you attempt to light your fireplace. No matter what type of fireplace you have, open the chimney vent before you begin and make sure that your carbon monoxide detectors are functioning properly.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6866952104b86c7/Blog-WoodBurningFireplace_ERossi-1120.jpg" alt="wood burning fireplace"/>
+
+### Lighting a Gas Fireplace With a Control Panel
+
+Although gas fireplaces with control panels can look complicated, they’re usually pretty simple. Use the following steps as a guide, but if you run into difficulty, make sure you read your owner’s manual.
+
+**1\.** Start by opening the access panel that covers the control panel. These are typically screens or decorative plates that are found somewhere on the frame of your fireplace. You’ll need to remove the access panel to use the controls. While opening the panel can differ based on the manufacturer, typically, they easily slide or pop off.
+
+**2\.** Once the access panel is off, find the control knob. Depending on the brand, it may be labeled “pilot control” or “valve control.” Turn the knob from the “off” position to the “pilot position.” Then, push in the knob to send gas into the system. From there, push the ignitor button once per second until it lights. Sometimes this can take a few minutes, especially if it’s been a while since the fireplace was last used.
+
+**3\.** Once the pilot light is on, hold the control knob for 15 to 20 seconds to make sure it stays lit. When you release the knob, make sure the flame stays lit.
+
+**4\.** Then, turn the control knob until it reaches the “on” position and adjust the size of the flame.
+
+**5\.** Once the fire has been lit and you’re satisfied with the height of the flames, put the access panel back over the control panel.
+
+**More Related Articles:**
+
+*   [How Much Does Chimney Repair and Removal Cost?](https://www.homeserve.com/en-us/blog/cost-guide/chimney-repair/)
+*   [How to Light a Gas Fireplace: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/light-gas-fireplace/)
+*   [Ventless Gas Fireplaces: Pros and Cons You Should Take to ‘Hearth’ Before Installing One](https://www.homeserve.com/en-us/blog/buying-guide/ventless-gas-fireplaces/)
+*   [How Much Does a Chimney Inspection Cost?](https://www.homeserve.com/en-us/blog/cost-guide/chimney-inspection/)
+*   [Soot Yourself: Channel Your Inner-Dick Van Dyke and Be Your Own Chimney Sweep](https://www.homeserve.com/en-us/blog/how-to/chimney-sweep-cleaning/)
+
+### **<img class="detail-image" src="https://library.homeserve.com/m/52359d3b392f117d/Blog-GasStarter_Erossi_3320.jpg" alt="gas fireplace starter in wall"/>**
+
+### Lighting a Gas Fireplace With a Key Valve
+
+Gas fireplaces with a key valve will have a round slot near the outside of the fireplace that requires a key (sometimes called a hex key) to control the gas.
+
+**1\.** Place a long lighter next to the burner fireplace and pull the trigger on the lighter over the fireplace.
+
+**2\.** At the same time, turn the key in the slot to control the gas valve. You’ll probably hear the hissing sound of gas entering the burner. Note here that you may need assistance if the key is too far from the fireplace to reach it while holding the lighter. When the gas reaches the flame from the lighter, the pilot should light immediately.
+
+**3\.** When the pilot’s lit, use the key to control the height of the flames.
+
+### Lighting a Gas Fireplace With a Remote or Wall Switch
+
+Some fireplaces might come with a remote control or wall switch. If yours operates this way, you’ve got the simplest type of fireplace. If you see a wall switch near your fireplace, it’s probably got an electronic ignition. In this case, simply press the “on” switch on the wall or press the “on” button on the remote, and your fireplace should ignite.
+
+Turning Off a Gas Fireplace
+---------------------------
+
+Equally important to being able to light a gas fireplace is being able to turn it off. If you leave your pilot light running, you’ll be using small amounts of gas. Keep your fireplace turned off to keep your gas bill low.
+
+If your fireplace uses a control panel, make sure the control knob is turned to the “off” position. If the fireplace has a key control, use the key to turn the valve counterclockwise until the gas supply has been cut off. If it has a wall switch, simply turn it off.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

@@ -1,0 +1,42 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "LG Energy Solution Michigan Recalls Energy Storage Batteries Due to Reports of Smoke and Fire"
+headline: "LG Energy Solution Michigan Recalls Energy Storage Batteries Due to Reports of Smoke and Fire"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-08-06
+basePath: https://library.homeserve.com/m/
+heroImage: 33e9e14b10a23d85/Blog-EnergyStorageBatteriesRecall_LGEnergySolutionMichigan.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "LG Energy Solution Michigan has recalled about 10,000 solar energy storage batteries due to a fire risk. Here’s what you need to know."
+articleAbstract: "LG Energy Solution Michigan has recalled about 10,000 home energy storage batteries due to a fire risk. The batteries can overheat, causing them to emit harmful smoke or catch on fire. If you use these recalled batteries as part of your residential solar energy system, here’s what you need to know."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "LG Energy Solution Michigan Recalls Home Energy Storage Batteries Due to Fire Hazard"
+  parent: Electrical-Home-Improvement
+---
+  LG Energy Solution Michigan has recalled about 10,000 home energy storage batteries due to a fire risk. The batteries can overheat, causing them to emit harmful smoke or catch on fire. If you use these recalled batteries as part of your residential solar energy system, here’s what you need to know.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the Consumer Product Safety Commission, there have been five reported incidents of the batteries smoking and catching on fire, resulting in property damage and, in one case, an unspecified injury.
+
+The Aug. 4 [recall announcement](https://cpsc.gov/Recalls/2021/LG-Energy-Solution-Michigan-Recalls-Home-Energy-Storage-Batteries-Due-to-Fire-Hazard-0) says these batteries were manufactured in Korea and sold between January 2017 and April 2019 by various solar energy storage distributors nationwide, like Sunrun, AEE Solar, CED and others, listed [here](https://cpsc.gov/Recalls/2021/LG-Energy-Solution-Michigan-Recalls-Home-Energy-Storage-Batteries-Due-to-Fire-Hazard-0).
+
+This recall affects the LG Chem Model RESU 10H lithium-ion batteries. They were likely installed as part of your home energy solar panel system, allowing you to store energy from your solar panels. The wall-mounted units have a serial number starting with R15563P3, which can be found behind the access door.
+
+In addition, about 1,800 LG Chem Model RESU 10H (Type-R) home batteries were also recalled for a fire hazard in December 2020. Read that recall announcement [here](https://cpsc.gov/Recalls/2021/LG-Energy-Solution-Michigan-Recalls-Home-Energy-Storage-Batteries-Due-to-Fire-Hazard).
+
+If these recalled batteries are installed in your home, LG Energy Solution Michigan says you are eligible for a free replacement. Contact the Holland, Mich.-based company to schedule service. If your batteries are connected online, LG Energy Solution Michigan will arrange for modifications to reduce the risk of overheating until they can be replaced.
+
+The company is attempting to contact known owners directly. You can reach out to LG Energy Solution Michigan by calling 888-737-8104 or emailing [RESUservice@lgensol.com](mailto:RESUservice@lgensol.com). You can also visit the [company’s website](http://www.lgessbattery.com/us); just click on the “Battery Recall: Free Replacement Campaign” pop-up to find out more.
+
+For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Watch Your Fingers! Generac Recalls Over 320,000 Portable Generators After Finger Amputations](https://www.homeserve.com/en-us/blog/home-improvement/general-generator-recall/)
+*   [Beware of Burn Hazard: Harbor Freight Tools Recalls 350,000 Tank Top Propane Heaters](https://www.homeserve.com/en-us/blog/home-improvement/harbor-freight-tools-propane-heater-recall/)
+*   [Burn Notice: ECHO EGI-2300 Watt Generators Recalled Due to Fire and Burn Hazards](https://www.homeserve.com/en-us/blog/home-improvement/echo-generator-recall/)
+*   [Danger: High Voltage! Klein Tools Recalls 1.7 Million Voltage Testers for Shock Hazard](https://www.homeserve.com/en-us/blog/home-improvement/klein-tools-voltage-tester-recall/)
+*   [Don’t Be Shocked: Kalorik Recalls Over 3,000 Electric Grills Dut to Shock Hazard](https://www.homeserve.com/en-us/blog/home-improvement/kalorik-electric-grill-recall/)

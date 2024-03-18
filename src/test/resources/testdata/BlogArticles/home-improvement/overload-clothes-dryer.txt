@@ -1,0 +1,79 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why You Shouldn't Overload Your Clothes Dryer"
+headline: "Why You Shouldn't Overload Your Clothes Dryer"
+author: Bridget Coila
+tags: ["post"]
+publishDate: 2023-11-21
+basePath: https://library.homeserve.com/m/
+heroImage: 5c721408ad284bf1/Blog-GettyImages-1140070240.jpg
+heroAltDescription: "Person loading or unloading a dryer"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Prevent problems caused by an overloaded dryer by properly loading the machine before use. Efficient clothes drying helps keep clothing in good condition."
+articleAbstract: "Getting all your laundry done in a single load might seem efficient, but an overloaded dryer could end up costing you more time, money and energy than separate loads."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why You Shouldn't Overload Your Clothes Dryer"
+  parent: Appliances
+---
+  Getting all your laundry done in a single load might seem efficient, but an overloaded dryer could end up costing you more time, money and energy than separate loads.
+
+**This May Also Interest You:** [The Pros and Cons of Stackable Washers and Dryers](https://www.homeserve.com/en-us/blog/buying-guide/stackable-washer-dryer-combos/)
+
+No one wants a dryer that takes three hours to dry a single load, but if you regularly overload your machine, it could lead to worn-down internal components that make even your quick dry cycle seem like an eternity.
+
+Why Is My Dryer Not Drying?
+---------------------------
+
+If your dryer is not drying clothes in a reasonable timeframe, there could be several causes. One of the simplest causes of a dryer that stopped working is too many items in the tumbler.
+
+A few other issues that might affect your dryer's operation include a clogged vent system, a broken dryer motor or power supply issues. Paying attention to proper loading is easier than trying to fix a dryer that's already broken. Fortunately, a little dryer troubleshooting can help you determine if the cause of your dryer problem is related to overloading.
+
+What Are Some Signs That You've Overloaded Your Clothes Dryer?
+--------------------------------------------------------------
+
+There are a few ways to tell if your dryer is overloaded. Signs that you have too many items in the dryer include:
+
+*   The dryer shuts off after a few minutes of operation.
+*   The dryer cycle takes longer than usual.
+*   The dryer takes multiple cycles to dry a single load.
+*   The usual timed dryer cycle completes, but the clothes are still damp.
+*   There is excess lint in the lint screen.
+*   Clothing seems more wrinkled than normal.
+*   Clothing is dry in some spots but damp in others after a drying cycle.
+
+How Much Is Too Much — and How Can You Tell?
+--------------------------------------------
+
+Your laundry should tumble freely while drying, so make sure to leave some room for clothing, linens and towels to roll around. When the dryer is overcrowded, drying takes longer and your clothing is likely to come out more wrinkled. A typical drying cycle should take around 45 minutes, so if yours lasts significantly longer than this, it might mean you need to split up your loads.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install a Dryer Vent?](https://www.homeserve.com/en-us/blog/cost-guide/dryer-vent-installation/)
+*   [How to Clean Your Dryer Vent](https://www.homeserve.com/en-us/blog/how-to/clean-dryer-vent/)
+*   [Your Guide to Dryer Repair Costs](https://www.homeserve.com/en-us/blog/cost-guide/dryer-repair-cost/)
+*   [How Much Does a Clothes Dryer Cost?](https://www.homeserve.com/en-us/blog/cost-guide/clothes-dryer/)
+*   [What to Do If Your Dryer Won’t Spin](https://www.homeserve.com/en-us/blog/home-improvement/dryer-wont-spin/)
+
+Serious Consequences of Overloading Your Dryer
+----------------------------------------------
+
+If you frequently overload your dryer, it could cause long-term damage to the appliance. The dryer motor has to work harder when the tumbler is overloaded, which can cause it to burn out.
+
+Other parts of the dryer, such as the mechanical bearings, may also wear out more quickly with regular overloading. Mechanical components inside the dryer can be complicated to replace, so following loading instructions can help prevent an expensive repair bill. In general, the short-term convenience of drying lots of clothing at once isn't worth the long-term inconvenience of having to repair or replace your entire dryer due to a burnt-out motor or other internal components.
+
+Tips for Keeping Your Dryer Working Properly
+--------------------------------------------
+
+Aside from limiting laundry loads to what your dryer can handle, there are other things you can do to keep this essential appliance operating smoothly.
+
+### Clean Your Lint Screen Frequently
+
+When lint builds up on the screen, there's less airflow through the dryer. This can extend drying time, and the lint could cause a fire hazard if too much builds up on the screen. Cleaning the lint trap is fairly easy in most dryers. Simply pull out the screen, remove the built-up lint by hand and replace the screen in its slot.
+
+### Ensure Your Dryer Is on an Even Surface
+
+A level floor helps prevent items in your dryer from shifting to one side or the other during the drying cycle, which prolongs the operational lifetime of the appliance.
+
+Proper dryer loading is one of the easiest ways you can ensure a quick drying time and maintain efficient dryer operation. Avoid overloading by following the manufacturer's guidance on how much laundry your dryer can hold.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/E7N374KASqs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Eco-friendly laundry hack!"></iframe>

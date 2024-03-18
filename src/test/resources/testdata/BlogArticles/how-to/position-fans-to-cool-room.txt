@@ -1,0 +1,73 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Position Fans to Cool a Room"
+headline: "Fan of Attack: Position Fans Strategically for the Maximum Cooling Effect"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-08-13
+basePath: https://library.homeserve.com/m/
+heroImage: 240338aaafa9e4c4/Blog-GettyImages-1213582701.jpg
+heroAltDescription: "Latin Man Relaxing In Front Of Fan At Home"
+metaDescriptions: "In the right location, fans can keep your house a comfortable temperature. Here are some tips for using fans effectively."
+articleAbstract: "Understanding how to position fans to cool a room can help you stay comfortable, even when the outdoor temperatures soar to unpleasant levels. Here are some tips every homeowner should know to use fans effectively."
+category: ["How To"]
+eleventyNavigation:
+  key: "Fan of Attack: How to Position Fans for Most Effective Airflow"
+  parent: Appliances-How-To
+---
+  Finding the right methods to stay cool can help you to survive the steamy days of summer. Understanding how to position fans to cool a room can help you stay comfortable, even when the outdoor temperatures soar to unpleasant levels.
+
+**This May Also Interest You:** [**As the Seasons Change, So Should the Direction of your Ceiling Fan**](https://www.homeserve.com/en-us/blog/home-improvement/ceiling-fan-direction/)
+
+Here are some tips every homeowner should know to use fans effectively.
+
+Do Fans Actually Cool a Room?
+-----------------------------
+
+Fans cool people — not the rooms in which they live. The [U.S. Department of Energy](https://www.energy.gov/energysaver/home-cooling-systems/fans-cooling) notes that fans don't actually reduce the temperature inside the room. Instead, fans help moisture evaporate from skin. Evaporation transfers heat from your body to the ambient air, making you feel much cooler and reducing the need for air conditioning in some cases.
+
+According to the [New York Department of Health](https://www.health.ny.gov/publications/6594/), fans are ineffective in providing a cooling effect when temperatures rise above 95 degrees. High humidity can also have a negative effect on the ability of fans to cool you down. When temperatures are less extreme, however, fans can provide an added measure of cooling for you and other members of your family.
+
+If more cooling power is required, you may be able to place ice cubes or chipped ice in a shallow pan that is positioned directly in front of the fan's airflow. This can produce cold air that will actually lower the temperature of your room and provide added protection for you and your loved ones during severe heat waves.
+
+Where Should a Fan Be Placed to Cool a Room?
+--------------------------------------------
+
+While whole-home and ceiling fans are permanently placed in a single position, box and portable fans can be moved to ensure optimal comfort for those inside your home. The [National Renewable Energy Laboratory](https://www.nrel.gov/docs/fy01osti/29513.pdf) recommends positioning fans to direct the breeze directly toward the people in the room. This ensures the greatest degree of evaporative cooling power.
+
+In most cases, using multiple fans and strategies for cooling your indoor spaces can produce the most comfortable temperatures indoors. The most important point to remember is that fans typically cool only the people at whom they are aimed. Keeping this guideline in mind can help you create a cooler environment in every room in your home.
+
+Should Fans Face In or Out?
+---------------------------
+
+Box fans and specialty fans can be placed in windows to improve air circulation inside your home. The NREL recommends positioning window fans to take advantage of prevailing winds in your area. By allowing the window fan to amplify the strength of the breeze by drawing it directly inward, you can often achieve improved ventilation for your home and cooler apparent temperatures for you and your family members.
+
+In some cases, it may be useful to position one fan to draw in cool air from a shady side of the house and another fan at a higher level of your home to direct warm air outside. This can create a cross-breeze that can cool things down more quickly than one fan alone.
+
+Whole-house fans are always pointed outward and are usually located in the attic or in one of the higher elevations inside your home. This lets your whole-house fan pull air from outside and vent hotter air through the attic or roof, which can result in overall cooling for certain rooms or for your entire home.
+
+Where Do You Put a Box Fan?
+---------------------------
+
+Box fans are also referred to as table or floor fans. These portable air circulating systems, along with tower fans and oscillating fans, should be used in rooms that are occupied and should generally be pointed at the people in that room. This creates the evaporative effect that is responsible for wind chills in the winter. Unless the temperatures outside are extremely high, it's usually best to position your fan to point directly at you or others in the area.
+
+Cleaning your fans regularly can help them maintain adequate airflow to help you stay cooler indoors.  This is usually a fairly simple process that can be done once a month to promote the best performance for your fans and the coolest environment for you and your family members.
+
+**More Related Articles:**
+
+*   [How to Install a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/install-ceiling-fan/)
+*   [How to Wire a Ceiling Fan](https://www.homeserve.com/en-us/blog/how-to/wire-ceiling-fan/)
+*   [4 Ways to Clean Your Ceiling Fan (No. 3 Is Pretty Clever)](https://www.homeserve.com/en-us/blog/how-to/clean-ceiling-fan/)
+*   [How to Clean a Fan](https://www.homeserve.com/en-us/blog/how-to/clean-fan/)
+*   [No AC? No Sweat. Here’s How to Keep Cool](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+
+Is It Better to Point a Fan Up or Down?
+---------------------------------------
+
+Ceiling fans are bidirectional. This means that they can pull air up or direct it down at the occupants of the room. During the summer months, it's important to set the fan to spin in a counterclockwise direction.  This lets the fan push cooler air toward you. In winter, setting your ceiling fan in a clockwise motion will draw cooler air upward, which will push warm air down to the floor of the room and to its occupants.
+
+One factor that can affect your indoor comfort is the proper installation of your ceiling fan. Unless you are extremely skilled in electrical wiring and do-it-yourself projects, you may want to hire a professional to ensure that every aspect of your ceiling fan installation is performed properly and safely.
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8mzG-IJupUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

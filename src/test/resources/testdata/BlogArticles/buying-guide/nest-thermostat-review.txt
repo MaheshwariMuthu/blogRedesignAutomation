@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: 'Nest Thermostat: Everything you need to know'
+headline: 'It’s upgrade time: Nest Thermostat?'
+author: Team HomeServe
+tags: ['post', 'Know Your Equipment']
+publishDate: 2018-12-06
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: nest-thermostat.jpg
+heroAltDescription: Nest Thermostat
+metaDescriptions: Considering the install of a Nest Thermostat? See how upgrading your thermostat can be a worthwhile investment for your home.
+articleAbstract: Have you been considering installing a Nest Thermostat? Searching for Nest Thermostat reviews? Our guide can help you decide if it’s the right purchase for your home.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: 'Nest Thermostat: Everything you need to know'
+  parent: HVAC-Buying-Guide
+---
+
+:::: blog-info
+Imagine coming home on a chilly night and your room immediately begins to warm up without even having to touch the thermostat. Or leaving for the day and knowing the temperature is already programmed to the most energy efficient setting. Smart thermostats are designed to do that and more, making them one of the top home automation solutions for a convenient, energy efficient and well-connected living space.
+
+Regardless of whether your home is filled with [smart devices](/en-us/blog/buying-guide/best-smart-home-devices/){target="_blank"} or you're still a little wary about committing to the gadgets, upgrading your thermostat can be a worthwhile investment for your home. When you're ready to trade in your conventional thermostat, Nest is one of the leading brands to consider.
+::::
+
+Here's a quick guide to Nest smart thermostats:
+
+## The basics
+
+Nest thermostats begin [learning your heating and cooling patterns](https://nest.com/support/article/An-introduction-to-learning){target="_blank"} as soon as you install them. After observing your temperature settings for a few days, these smart thermostats can prepare automatic schedules that suit your preferences and suggest the most energy efficient options.
+
+## The features
+
+There are two Nest thermostats available: [Nest Learning Thermostat](https://store.nest.com/product/thermostat/T3007ES){target="_blank"} and [Nest Thermostat E.](https://store.nest.com/product/thermostat-e/T4000ES){target="_blank"} The former typically retails for about $80 more than the E. You can control either model with the Nest app, and both are compatible with other Google and Amazon smart devices.
+The thermostats allow you to schedule temperature controls and program safety settings and can alert you when your air filters need changing or when they detect a problem with your HVAC system. With Sunblock technology, Nest thermostats also automatically adjust to direct sunlight hitting the device, so they read and set temperatures as accurately as possible.
+
+The features unique to the Nest Learning Thermostat include:
+
+::: list-disc
+* Compatibility with 95 percent of 24V heating and cooling systems
+* High-resolution color screen display
+* Farsight displays time, temperature or weather
+:::
+
+By contrast, the Nest Thermostat E features include:
+
+::: list-disc
+* Compatibility with 85 percent of HVAC systems
+* Frosted screen display
+:::
+
+:::: blog-info
+## The installation
+
+When you purchase a Nest thermostat, you can get help from a Nest Pro or follow these [easy self-install instructions](https://nest.com/support/article/How-to-install-your-Nest-Learning-Thermostat){target="_blank"}. Once installed, you'll need to set up the device. Your thermostat will guide you through several questions, allowing you to select language preferences, network connection and location. The thermostat will then run a test to ensure the system works properly. If all goes well, the final step is to connect your thermostat with the Nest app.
+
+## The savings
+
+According to Nest, these smart thermostats can [pay for themselves in less than two years](https://nest.com/thermostats/real-savings/){target="_blank"}. This conclusion comes from the results of independent studies, which found that the Nest thermostat saved an average of 10 to 12 percent on heating and 15 percent on cooling costs. That equates to an estimated savings of $131 to $145 each year. These cost savings come from the devices' energy efficiency, earning them a place on the list of [ENERGY STAR-certified smart thermostats](https://www.energystar.gov/productfinder/product/certified-connected-thermostats/results?page_number=1){target="_blank"}.
+
+## The reviews
+
+After three months of testing nine smart thermostats, Wirecutter named the Nest Thermostat E the [best model available](https://thewirecutter.com/reviews/the-best-thermostat/){target="_blank"} because it was the easiest to use, with the best price for all the features you need. The runner-up pick went to other in the family – the Nest Learning Thermostat. This model earned the second-place spot because it does everything the Nest Thermostat E does but comes at a higher price tag (because it's compatible with more HVAC systems and has some extra features.)
+
+_TechRadar_ reinforces Wirecutter's Nest thermostat reviews, referring to the Nest Learning Thermostat as "[the smartest kid in the class](https://www.techradar.com/news/best-smart-thermostat){target="_blank"}" and noting that the Nest Thermostat E is the cheaper but still suitable alternative to the more expensive model.
+
+A smart thermostat can do a lot for your home, but it can't fix your systems if they break down. Being prepared for home repairs is always a good strategy. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+::::

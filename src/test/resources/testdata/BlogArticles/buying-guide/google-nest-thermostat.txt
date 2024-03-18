@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a Google Nest Thermostat?"
+headline: "What Is a Google Nest Learning Thermostat and What's It Do?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-10-12
+basePath: https://library.homeserve.com/m/
+heroImage: 24f6afcda96bdd/Blog-Nest-home-security-and-temperature-control.jpg
+heroAltDescription: "Nest home security and temperature control"
+metaDescriptions: "What's a Google Nest Learning Thermostat? It could be your ticket to lower energy bills. Here, we break down its features."
+articleAbstract: "Smart thermostats can help you save money on your energy bills because they learn from your behavior and adjust to your preferences. Here's what you need to know about one popular model, the Google Nest Learning Thermostat."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "What Is a Google Nest Learning Thermostat and What's It Do?"
+  parent: HVAC-Buying-Guide
+---
+  If it’s time to replace your thermostat, you should consider purchasing a smart thermostat such as the Google Nest Learning Thermostat. Smart thermostats can help you save on your energy bills, and they offer the convenience of changing your thermostat settings on the go. This makes it possible to manage your home’s temperature from anywhere so that you can turn the AC on or off if you’ve forgotten to adjust it before leaving the house.  
+
+**This May Also Interest You:** [**How to Install a Nest Thermostat**](https://www.homeserve.com/en-us/blog/how-to/nest-thermostat-installation/)
+
+The Nest Learning Thermostat only takes about 30 minutes to install. It connects with other smart devices in your home so that you can manage everything in a single, convenient app. The ability to purchase and install additional temperature sensors also makes the system expandable and customizable. It learns from your behaviors and knows which areas of your home to keep cool or warm based on your preferences. 
+
+So, What Does a Nest Learning Thermostat Do? 
+---------------------------------------------
+
+The [Google Nest Learning Thermostat](https://store.google.com/us/product/nest_learning_thermostat_3rd_gen?hl=en-US) is a smart thermostat that lets you control the temperature in your home, even if you’re not present. It’s designed to help people save money on their energy bills by changing the temperature when they’re asleep or away from the house. When you’re returning home, you can adjust the temperature from your phone so that the house is comfortable when you arrive. 
+
+The Nest Learning Thermostat offers home protection features as well. It sends alerts if the temperature in the house is too low or senses that the air conditioning is out of order. This is useful if you’re on vacation and drastic temperature changes inside your home could cause damage to your pipes or interior.  
+
+One of the key benefits advertised is the ability of the thermostat to learn so that you interact with it less frequently. Over time, the thermostat makes automatic adjustments to the temperature in your home to keep you comfortable. These temperature adjustments can save you a significant amount of money on your energy bills throughout the year. 
+
+Does It Really ‘Learn?’
+-----------------------
+
+Whenever you adjust your smart thermostat, it keeps a record of the time and date for each change. Patterns begin to develop, and the Nest uses this information to provide the most efficient heating and cooling while keeping the house at your desired temperature. The more information you provide through ongoing interactions, the greater the effect. 
+
+For example, if you lower the heat at night to save energy and then turn it up just after you wake up, the Google Nest senses this pattern and automatically turns the heat on before you wake up so that the house warms up in time for you to perform your morning routine. If you want to save money, you can lower the temperature in your home whenever you leave for work or run errands.  
+
+Each time you do this, the Nest examines your behavior. It soon adjusts the temperature on its own so that the heat isn’t running while you’re at work and then turns it back on in time for your arrival in the evening. During the summer months, the Nest reduces your electricity consumption by only turning the air conditioning on when it expects you to be present. 
+
+When paired with [Google Nest Temperature Sensors](https://store.google.com/us/product/nest_temperature_sensor?hl=en-US) in multiple rooms, it can sense where you spend the most time and whether those rooms are efficiently heated or cooled. One room might have a different temperature than another, so placing these sensors throughout your home helps the system keep specific rooms at your desired temperatures. 
+
+**More Related Articles:**
+
+*   [Heat Check: The 5 Best Smart Thermostats for Your Home](https://www.homeserve.com/en-us/blog/cost-guide/best-smart-thermostats/)
+*   [How Much Do Thermostats Cost to Replace or Install?](https://www.homeserve.com/en-us/blog/cost-guide/thermostat-replacement/)
+*   [Smart AC Not a Dumb Idea If You’re Looking to Cut Climate-Control Costs](https://www.homeserve.com/en-us/blog/buying-guide/smart-ac/)
+*   [15 Ways to Save on Your Electric Bill](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+
+Can I Integrate It With Other Smart Products?
+---------------------------------------------
+
+The Google Nest Learning Thermostat works with other products in your home to help you manage energy consumption, home security and advance preparation. The [Google](https://store.google.com/product/nest_hub_2nd_gen) Nest Hub works with your smartphone to display the current temperature in areas around the house, the status of your water heater, security cameras within the home and more. It can do the following: 
+
+*   Sense when you or another person walks into a room. If you’re not home, it can alert you when it senses motion so that you’re aware of a threat. It also has a deterrent feature to scare intruders. 
+*   Allow you to use the cameras and speakers to have conversations with family or friends present inside the home. 
+*   Schedule heating and cooling of your home in accordance with your habits. 
+*   Activate your water heater from your phone. 
+*   Turn off your air conditioning or heat when you control it from your phone. 
+*   Detect elevated carbon monoxide levels or the presence of smoke.

@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Find a Serial Number on a Macbook"
+headline: "How to Find a Serial Number on a Macbook"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-03-05
+basePath: https://library.homeserve.com/m/
+heroImage: 4f97e0ec35fe40/Blog-Macbook_MSchmitz_0001.jpg
+heroAltDescription: "An An Apple brand MacBook laptop computer sits  on the back of a couch in a room"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Learn several simple methods for finding a MacBook's serial number, even if your device is lost or stolen."
+articleAbstract: "You might need to know a serial number if your laptop is stolen or broken. Learn several simple methods for finding a MacBook's serial number, even if you don't have your device."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Find a Serial Number on a Macbook"
+  parent: Appliances-How-To
+---
+  
+
+_HomeServe photo by Matt Schmitz_
+
+When your computer breaks down or gets stolen, it can put you in a stressful situation. Knowing your serial number can help you access support.
+
+**This May Also Interest You: How to Find the Serial Number on Your Appliances and Gadgets**
+
+Luckily, there are plenty of easy ways to find your MacBook's serial number, even if you don't have the device on hand.
+
+Why You Should Know Your Laptop’s Serial Number
+-----------------------------------------------
+
+Your MacBook's serial number proves your ownership of the device and allows repair technicians to access warranty information. Therefore, you'll need to know the serial number if your MacBook breaks down and you want to claim repairs through the warranty. The number can also show what parts your MacBook contains and how it was manufactured.
+
+The police will also require your MacBook's serial number to process a report if it's stolen. You'll need to send the police report to your insurance company if you want to claim on your policy.
+
+What Are Some Different Ways to Find Your MacBook's Serial Number?
+------------------------------------------------------------------
+
+Your Macbook's serial number appears on the underside of the device and the barcode sticker attached to the original box.
+
+You can also find the serial number by clicking on the Apple icon (it’s probably in the top lefthand corner of your screen) and selecting “About This Mac.”
+
+Alternatively, open the “System Information” app and click on Hardware. You'll see the serial number listed on the right-hand side of the pop-up screen.
+
+<img class="detail-image" src="https://library.homeserve.com/m/ca6cdd01461ae2f/Blog-Macbook_MSchmitz_0002.jpg" alt="An An Apple brand MacBook laptop computer sits  on the back of a couch in a room"/>
+
+_HomeServe photo by Matt Schmitz_
+
+**More Related Articles:**
+
+*   [How to Find a Serial Number on a Chromebook](https://www.homeserve.com/en-us/blog/how-to/chromebook-serial-number/)
+*   [3 Ways to Find the Serial Number on Your iMac](https://www.homeserve.com/en-us/blog/how-to/mac-serial-number/)
+*   [How to Find a Serial Number on a Samsung TV](https://www.homeserve.com/en-us/blog/how-to/samsung-tv-serial-number/)
+*   [Here Are 4 Ways to Find the Serial Number on a Hisense TV](https://www.homeserve.com/en-us/blog/how-to/hisense-tv-serial-number/)
+*   [How to Find a Serial Number on a Kindle Fire](https://www.homeserve.com/en-us/blog/how-to/kindle-fire-serial-number/)
+
+What If You Don't Have Your MacBook?
+------------------------------------
+
+If you don't have your MacBook on hand or it won't turn on, you can find the serial number on your original receipt, invoice or warranty document. Alternatively, you can access your MacBook serial number through the [Apple ID website](https://appleid.apple.com/) if you signed in to your device with your [Apple ID](https://www.homeserve.com/en-us/blog/how-to/find-iphone-serial-number/). Sign in to your account, find your MacBook on the device list and click on it to view the serial number.
+
+Should You Share Your MacBook's Serial Number?
+----------------------------------------------
+
+You should only share your MacBook's serial number in limited circumstances, such as with a police officer or repair technician. Occasionally, you might be asked by another party to share your serial number online. There's a small risk that someone could use the serial number to claim repair services fraudulently, so it's a good idea to keep it private.

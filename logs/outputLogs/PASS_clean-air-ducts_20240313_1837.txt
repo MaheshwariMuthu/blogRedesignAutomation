@@ -1,0 +1,143 @@
+Browser Used: firefox
+
+Article Page URL:  https://contentful-blogs-dev.netlify.app/blogs/how-to/clean-air-ducts
+
+Article title <Should You Clean Your Home’s Air Ducts? We Clear the Air…> MATCHED
+
+Article author <Team HomeServe> MATCHED
+
+Article publishDate <January 19, 2021> MATCHED
+
+Article image <https://library.homeserve.com/m/1c4c560f1bfa9f08/Blog-GettyImages-880921060.jpg> MATCHED
+
+Block1_Paragraph 1 MATCHED
+
+	Like the lungs and trachea in your body, the air ducts in your home are what allows it to “breathe,” enabling air to pass in and out of your house. The air conditioning and the heating systems also run through these air ducts. And not unlike how you cough to clear out your congested respiratory system, your home’s air ducts sometimes need to be cleared of dirt, impurities and other things that don’t belong there.
+
+Block1_Paragraph2_link 1 MATCHED
+
+	How to Clean an Air Conditioner|https://contentful-blogs-dev.netlify.app/en-us/blog/how-to/clean-air-conditioner/
+
+Block1_Paragraph 2 MATCHED
+
+	This May Also Interest You: How to Clean an Air Conditioner
+
+Block1_Paragraph 3 MATCHED
+
+	For example, if condensation builds up in the ducts, it could result in a mold problem. It’s also possible for a rip or tear to occur in the ductwork, pulling dirt and debris from under the house into the vents — and possibly even allowing rodents to infiltrate ... eeek!
+
+Block1_Paragraph 4 MATCHED
+
+	Keep reading to learn what you need to know to determine whether your ducts need cleaning — and how to get the job done if they do.
+
+Heading 1: < Should I Have Air Duct Sanitizing Done? > MATCHED
+
+Block2_Paragraph 1 MATCHED
+
+	It’s not uncommon to have condensation buildup in your air duct system due to humidity, which can cause mold and mildew growth. If you notice a moldy or musty smell inside your home but you can’t seem to identify a source, you should have a professional come and inspect your air ducts. If mold and mildew are found inside the ducts, sanitizing is recommended to kill the bacteria growth that is happening.
+
+Heading 2: < What’s the Difference Between HVAC Cleaning and Sanitizing? > MATCHED
+
+Block3_Paragraph 1 MATCHED
+
+	It’s a worthwhile preventive measure to have your air ducts cleaned from time to time. That can mitigate the need for major repairs due to tears and rips from debris getting in. Dirt and other detritus can build up in your ductwork, and a cleaning service will remove all of that. Cleaners may also apply deodorizer when they sanitize to eliminate that musty smell.
+
+Heading 3: < How Do Professionals Clean Air Ducts? > MATCHED
+
+Block4_Paragraph 1 MATCHED
+
+	A heating, ventilation and air conditioning (HVAC) company will send a crew over to clean the air ducts of your home if you decide the need cleaning. It’s a job best left to the professionals to ensure the it’s done thoroughly and correctly. For your part as the homeowner, keep your registers clean and air filters changed.
+
+Block4_Paragraph 2 MATCHED
+
+	Here’s a rundown of what they’ll do when they arrive:
+
+Block4_List 3 MATCHED
+
+	All registers leading into the home will be covered to ensure nothing enters your house.
+They’ll let the fan run a few minutes to loosen particles.
+While the fan is running, the registers can be cleaned.
+After turning off the fan, all power will be turned off to the unit.
+The air-duct covers will be removed and thoroughly cleaned.
+A brush and vacuum will be used to meticulously clean the ducts.
+Dust and particles will be cleaned off of the blower compartment as.
+Then they’ll install new furnace filters.
+
+Block4_Paragraph 4 MATCHED
+
+	You can do some cleaning yourself by removing the vent covers and wiping where you can reach, but it’s advisable to have a professional do this for you if there’s a buildup of dirt in the ducts.
+
+Block4_Image 5 MATCHED
+
+	https://library.homeserve.com/m/1535c0d22bb9b61c/Blog-GettyImages-182804331.jpg
+
+Heading 4: < How To Clean Air Ducts Yourself > MATCHED
+
+Block5_Paragraph 1 MATCHED
+
+	If you think you’re capable of performing the job yourself and want to give it a try, you can take the same steps listed above. The equipment that you’ll need is available for purchase at most hardware stores, or you could always try to borrow implements from a friend to cut costs.
+
+Heading 5: < Tools and Equipment Needed > MATCHED
+
+Block6_Paragraph 1 MATCHED
+
+	If you’re looking to clean your own air ducts, you’re going to need the following tools and materials:
+
+Block6_List 2 MATCHED
+
+	A vacuum cleaner
+A stiff-bristle dust brush
+A screwdriver
+Cloths or paper towels
+Furnace Filters
+
+Block6_Paragraph 3 MATCHED
+
+	More Related Articles:
+
+Block6_List4_link 1 MATCHED
+
+	The Do's and Don'ts of HVAC Maintenance|https://contentful-blogs-dev.netlify.app/en-us/blog/home-improvement/hvac-system-maintenance-tips/
+
+Block6_List 4 MATCHED
+
+	The Do's and Don'ts of HVAC Maintenance
+
+Heading 6: < Frequently Asked Questions > MATCHED
+
+Block7_Paragraph 1 MATCHED
+
+	Below are a few commonly asked questions about air ducts.
+
+Block7_Sub Heading 2 MATCHED
+
+	Is It Safe to Have the Air Ducts Cleaned?
+
+Block7_Paragraph 3 MATCHED
+
+	Assuming cleaning the air ducts is done correctly, it’s perfectly safe to do. You don’t need to have it done every year or even routinely; having it done on an as-needed basis is sufficient.
+
+Block7_Sub Heading 4 MATCHED
+
+	Is Air-Duct Cleaning a Waste of Money?
+
+Block7_Paragraph 5 MATCHED
+
+	Cleaning dust out of your home is always beneficial. If your air ducts are dirty, moldy or full of dust, it’s important to have them cleaned — in other words, it’s money well-spent.
+
+Block7_Sub Heading 6 MATCHED
+
+	Do I Need to Leave My House When the Ducts Are Being Cleaned?
+
+Block7_Paragraph 7 MATCHED
+
+	You do not need to leave your home when your air ducts are being cleaned. The cleaning company will seal all the vents leading into your home before workers start the job.
+
+Block7_Paragraph 8 MATCHED
+
+	Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood.
+
+Block7_Video 9 MATCHED
+
+	https://youtube.com/embed/U4IFZzwZwdA
+

@@ -1,0 +1,79 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What's It Like to Go Solar? 5 Things They Don't Tell You in the Brochure"
+headline: "What's It Like to Go Solar? 5 Things They Don't Tell You in the Brochure"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-07-05
+basePath: https://library.homeserve.com/m/
+heroImage: 2e15a8985ab71580/Blog-GettyImages-985363900.jpg
+heroAltDescription: "Solar Panels on Roof of Home"
+metaDescriptions: "Solar panels can be a safe and secure investment, as long as you know what you’re going into. Here's what to know before making the switch."
+articleAbstract: "With all the buzz surrounding solar panels, it can be hard to parse out clear answers to the questions on most homeowner’s minds: “How much will this cost me?” and “Is solar worth it?” To help you make an informed decision, here are a few things you should know about making the switch to solar. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Living With Solar Panels (What They Don't Tell You in the Brochure)"
+  parent: Electrical-Home-Improvement
+---
+  
+
+Are you considering adding solar panels to your home? If so, you’re not alone. Interest in alternative energies is on the rise. And it’s no wonder; with climate change concerns, increasing energy costs and new technologies making green energy more accessible and efficient, it’s easier and more affordable than ever to make the swap to solar power.
+
+**This May Also Interest You:** [**How to Install Solar Panels: 6 Steps to Daylight Savings**](https://www.homeserve.com/en-us/blog/how-to/how-to-install-solar-panels/)
+
+But with all the buzz surrounding solar, it can be hard to parse out clear answers to the questions on most homeowner’s minds: “How much will this cost me?” and “Is solar worth it?” To help you make an informed decision, here are a few things you should know about making the switch to solar.
+
+1\. Many Solar Systems Perform Better Than Advertised
+-----------------------------------------------------
+
+The truth is that solar panels are durable, remarkably efficient workhorses. In fact, there’s a good chance your home solar panel system will create more power than your solar company guarantees. They generally come with two warranties: an equipment warranty and a performance production warranty. Generally speaking, a solar panel's performance production warranty lasts 25 years, which is already longer than most any other consumer product available. A 2012 study published by the [National Renewable Energy Laboratory](https://www.nrel.gov/docs/fy12osti/51664.pdf) found that 4 out of 5 panels outlast their equipment warranties, meaning that most panels will hold up for several decades.
+
+Additionally, the performance warranty is nearly always based on moderate estimates for available sunshine in your area, so there’s a good chance that your system will regularly produce more power than what was promised. This combination of great warranties and enduring equipment makes for a safe, secure investment.
+
+As a bonus, homes with solar panels attached to their roof are often noticeably cooler in the summer, adding to their performance and efficiency. This is because the solar panels themselves often work to provide shade for your roof and attic. Considering that around 28 to 34 solar panels are needed to run a house, you'll get a lot of built-in shade action. That means that even on those hot summer days, your home will be noticeably cooler just by having panels on the roof of your home.
+
+2\. But You Need to Read the Fine Print
+---------------------------------------
+
+While great warranties in the world of solar power abound, it still remains important to read through your warranty carefully. It’s crucial to understand what exactly your warranty covers and for how long. Despite the solar panel equipment’s durability — and just because you _have_ an equipment warranty — it doesn’t mean any or all repairs are covered. In most cases, the warranty will cover the cost of a panel repair or replacement for common issues like premature wear and tear, faulty wiring or corrosion, but you’ll want to double-check these details. Also, make sure that labor is covered when looking at warranties, as many only cover the cost of materials to repair a panel, leaving you with a high labor bill. After all, most all solar panel replacements involve a repairman climbing on top of your roof hauling heavy equipment, and as you probably well know, paying for labor can get expensive.
+
+Due to the competitive, fast-paced solar market, it’s not entirely uncommon for solar companies to come and go. And while you can’t see the future, it might prove advantageous to purchase a third-party warranty in case your solar company manufacturer goes out of business.
+
+<img class="detail-image" src="https://library.homeserve.com/m/d58dd873de3aab6/Blog-913546536.jpg" alt="solar panels on roof"/>
+-------------------------------------------
+
+3\. Going Solar Doesn’t Always Save as Much as You’d Expect
+-----------------------------------------------------------
+
+A transition to clean energy won’t always save you money on your electric bills. While it can feel great to start reducing your carbon footprint, in truth, installing solar panels doesn’t always lower your monthly energy costs. Solar panel systems only generate so much power, depending on the size and location of the system. In other words, they can only generate so much electricity at any given time. The savings projection given to you by your salesperson is determined by your historical energy usage data — i.e., the average of how much energy you’ve consumed throughout each year. If there’s an uptick in your energy consumption, you might not see as much savings on your energy bill as you were promised by your solar manufacturer.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install Solar Panels?](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+*   [When to Install Home Solar Panels](https://www.homeserve.com/en-us/blog/how-to/install-home-solar-panels/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load](https://www.homeserve.com/en-us/blog/how-to/phantom-loading/)
+*   [15 Ways to Save on Your Electric Bill](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/3d8cd319f61112ea/Blog-114337944.jpg" alt="man installing solar panels on roof"/>
+-------------------------------------------
+
+4\. And Then There’s Net Metering
+---------------------------------
+
+One of the most innovative and talked-about concepts in solar energy is net metering. If you don’t already know, net metering means that your system and other solar power systems are all connected into the public-utility power grid, so surplus power generated from those systems is “sold” back to the grid.
+
+So, as your system starts converting sunlight into electricity, you’ll be selling any surplus energy to your power utility company. In theory, it works well: In the sunny summer months, your system will create a surplus of energy, allowing you to offset the cost of the power you’ll draw from the utility company during dark hours or during those cloudy winter months. Net metering is quite popular in the U.S., with 41 states currently utilizing the system.
+
+While the concept might sound appealing, depending on how much net energy you use per month, your electric bill might not always be as low as you’d imagine. A high electric bill may come as a surprise to those new to solar panels, but it’s important to remember that the energy that can be stored in your solar cell is finite. Even though you’re generating renewable energy, it can only produce a certain amount at any given time. Solar users who remain conscious about their energy consumption are able to maximize solar efficiency while maintaining a reliably low utility bill every month. Less conscientious users, however, may quickly realize that solar panels are not just a “free pass” for electric power.
+
+5\. Going Solar Will Pay Off ... Eventually
+-------------------------------------------
+
+As you can see, a solar panel installation might not be the free electricity dream some homeowners are hoping for. Saving money by going solar will still require users to be aware of energy consumption patterns. That said, solar has plenty of other financial benefits that still make it a worthwhile investment.
+
+For one, there’s the tax credit. The [investment tax credit (ITC)](https://news.energysage.com/solar-tax-credit-explained/) — also called the federal solar tax credit — allows solar consumers to deduct up to 26% of the cost of installing a solar power system from their federal tax liability.
+
+In addition to the ITC, there’s the proven increase in home equity that a solar power installation provides. According to CNBC, depending on where you live, an investment in solar could really [pay off](https://www.cnbc.com/2019/10/05/solar-power-can-boost-a-homes-value-in-these-10-states-the-most.html#:~:text=In%20New%20Jersey%2C%20homes%20with,homes%20without%20solar%2Denergy%20systems.&text=North%20Carolina%3A%204.8%25%20or%20%248%2C996,for%20the%20median%2Dvalued%20home.). For example, in New Jersey, solar-powered homes can sell for upwards of 9.9% more than homes without solar. In North Carolina, homes sell for around 5% higher.
+
+In conclusion, solar panels can be a safe and secure investment — as long as you know what you’re going into.

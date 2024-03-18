@@ -1,0 +1,98 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much It Costs to Drill a Well"
+headline: "Well, Well, Well ... So, That's How Much It Costs to Drill a Well"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-09-16
+basePath: https://library.homeserve.com/m/
+heroImage: 22caf7d3d161d90e/Blog-GettyImages-1415221428.jpg
+heroAltDescription: "A blue drilling truck sits in front of a house on a dirt lot as it prepares to dig a residential water well"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Would you like to drill a well on your property but don't know how much it will cost? Well-drilling costs vary based on several factors."
+articleAbstract: "Would you like to drill a well on your property but don't know how much it will cost? Well, well-drilling costs could vary based on several factors."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "Well, Well, Well ... So, That's How Much It Costs to Drill a Well"
+  parent: Plumbing-Cost-Guide
+---
+  If you live in a rural area — or you no longer want to be dependent on municipal water sources — drilling a well might be a great option for your water supply.
+
+**This May Also Interest You:** [**How Much Does It Cost to Replace or Install a Well Pump?**](https://www.homeserve.com/en-us/blog/cost-guide/well-pump/)
+
+Would you like to drill a well on your property but don't know how much it will cost? Well-drilling costs could vary based on several factors.
+
+How Much Does It Cost to Drill a Residential Well?
+--------------------------------------------------
+
+You shouldn't attempt to drill a well yourself, as you could easily strike utility lines if you don't drill properly. Well-drilling costs vary based on depth and the type of material being drilled through, so you could speak with your neighbors to see what they paid and how deep their wells are.
+
+According to [Forbes](https://www.forbes.com/home-improvement/plumbing/cost-to-drill-well/#:~:text=The%20average%20cost%20to%20drill,going%20100%20to%20200%20feet).), drilling a residential well typically costs between $10 to $65 (CAD 13 to CAD 87) per foot of depth, which would be $1,000 to $6,500 (CAD 1,334 to CAD 8,668) for a 100-foot deep well, and $4,000 to $26,000 (CAD 5,334 to CAD 34,672) for an even deeper 400-foot well. This wide cost range is due to factors that impact well-drilling costs and installation.
+
+How Much Does It Cost to Install a Well?
+----------------------------------------
+
+Depending on your intended use for a well, the length of the piping needed, the size of the well pump, as well as any pressurized tanks that might be needed, installation could cost between $750 and $30,000 (CAD 1,000 and CAD 40,007) or more, including the cost of drilling the well and casing material.
+
+The total price really depends on where you live, how deep the well needs to be and the type of material being drilled into. There are numerous applications for wells, and the amount of equipment needed to run your well and the cost of connecting water lines play a role in determining the cost. You'll want to consider how you'll keep the well intact, collect water from it and protect the water from contamination and pests.
+
+### What Factors Impact Cost?
+
+Several factors impact your well-drilling costs, including:
+
+*   A pump system to move water from the ground into your water lines
+*   Water treatment if you intend to use the water for consumption or irrigation
+*   An electric line to run your equipment
+*   The control box and panel used to operate the well
+*   Local drilling permits to get started on your project
+*   The diameter and depth of your well
+*   Your choice of materials for the well
+*   Installation of a pressure tank
+*   The depth of your well
+*   Your intended use
+
+Irrigation wells and residential wells with a wide diameter are the most expensive to drill and install. You can save a lot of money by considering whether you can get away with a shallower well or one that isn't as wide. In some cases, you can recoup money from your investment. For example, a geothermal well can produce electricity for your home.
+
+### Materials for Residential Wells
+
+Most residential wells use PVC or steel pipe. The material you choose can impact the cost of your well and the quality of the water you draw. Steel pipe is a little more expensive, but it doesn't need to be replaced as frequently.
+
+How Long Does It Take to Drill and Install a Well?
+--------------------------------------------------
+
+If you hire professionals to dig a well and install it for you, you can expect the project to be completed within a week of beginning. It takes about three days to dig to your desired depth, and the rest of the time is spent installing the machinery you need to run the well. The complexity of the project may affect the amount of time the project takes, with more complex wells taking up to two weeks to install.
+
+**More Related Articles:**
+
+*   [8 Signs Your Well Pump Is Not Well](https://www.homeserve.com/en-us/blog/home-improvement/replace-well-pump/)
+*   [How Do You Clean a Water Softener](https://www.homeserve.com/en-us/blog/how-to/clean-water-softener/)
+*   [9 Times You Should Call a Professional Plumber](https://www.homeserve.com/en-us/blog/home-improvement/professional-plumber-repairs/)
+*   [Plumbing Repair Cost Guide](https://www.homeserve.com/en-us/blog/cost-guide/plumbing-repair-costs/)
+*   [How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+
+How Long Does a Well Last?
+--------------------------
+
+A well can last anywhere from 30 to 50 years if you take care of it, but you also need to consider the cost of maintaining equipment to run the well. Well pumps must be replaced every 10 years, and you need to have your water lines and pressure tank inspected regularly. You don't want to contaminate your well or taint the groundwater, or your neighbors won't be able to use it either.
+
+When you install a well, you also need to install a septic system to protect the surrounding groundwater. You may also need a water filtration system if you intend to drink and cook with water from your well.
+
+Before digging a well, make sure it's going to produce enough water. The average household uses 100 to 120 gallons of water per person, so you'd need to draw 500 gallons per day for a family of four. Another thing to consider is the well's flow rate, which should be 3 to 5 gallons per minute.
+
+What Types of Wells Can You Install on a Residential Property?
+--------------------------------------------------------------
+
+### Geothermal Wells
+
+A geothermal well uses a ground exchange heater to create hot water and energy for your home. Geothermal wells have been around since the 1940s, and their efficiency varies depending on your region, the season and weather patterns. They're more expensive to install, but they could save you money on electricity by giving you hot water and transferring heat into energy to power your home. According to the [U.S. Department of Energy](https://www.energy.gov/energysaver/geothermal-heat-pumps), homeowners may recoup the cost of a geothermal well in five to 10 years.
+
+### Irrigation Wells
+
+Irrigation wells are typically used to operate sprinkler systems without the need to pay for water since your water source is in the ground. Even if you don't use an irrigation well for agriculture, it can save you money and protect your water source during the summer, when it's more difficult to draw water from the ground.
+
+### Residential Wells
+
+Standard residential wells are the cheapest to install, but they don't produce as much water or offer the energy savings that a geothermal or irrigation well might. They're a good option if your only concern is providing your family with enough water to drink, cook and bathe.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/I_p4dkZ3TpU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Window Wells | How to Clean and Maintain a Basement Window Well"></iframe>

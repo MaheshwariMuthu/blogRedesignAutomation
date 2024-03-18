@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Does It Mean to Live Off the Grid?"
+headline: "What Does It Mean to Live Off the Grid?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-12-15
+basePath: https://library.homeserve.com/m/
+heroImage: 21dc4147ce10b95d/Blog-GettyImages-144877602.jpg
+heroAltDescription: "Gray Water System"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Living off the grid has a certain romanticism, but there's a lot to consider when taking such a step. Here are some things to keep in mind."
+articleAbstract: "Living off the grid has a certain romanticism, but there's a lot to consider when taking such a step. Here are some things to keep in mind."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Does It Mean to Live Off the Grid?"
+  parent: Electrical-Home-Improvement
+---
+  _Living off the grid._ The idea has a certain romanticism, conjuring rugged individualists getting back to the land and forging their own way.
+
+**This May Also Interest You:** [**When’s the Best Time to Install Solar Panels?**](https://www.homeserve.com/en-us/blog/home-improvement/install-solar-panels/)
+
+But what exactly does it mean to live off the grid? Can anyone do it? And would it be the kind of lifestyle that suits you?
+
+Living ‘Off the Grid’
+---------------------
+
+At the most basic level, living off the grid refers to disconnecting from one or more public utility systems — most typically, providers of electrical power. People who choose to live off the grid generally outfit their homes with a solar power generating system with rooftop solar panels forming the core of the system and battery backups that can store sun-generated energy for use when the weather doesn't cooperate.
+
+While living off the grid generally brings to mind rustic cabins in the middle of nowhere, switching a home to solar energy can be accomplished by most homeowners even while living in a typical suburban setting. You'll want to check your state and local ordinances, however, to ensure it is OK for you to disconnect from your electrical grid and to be sure that you adhere to any building codes or restrictions regarding the placement of solar panels on your roof or elsewhere on your property.
+
+One Step Further
+----------------
+
+The next level of going off the grid is to disconnect from all public utilities. This means that you will be responsible for your own water, sewer and fuel needs. Because of the nature of wastewater processing and water storage, taking an off-grid lifestyle to this degree generally means that you will need to move out of residential communities and set up your homestead on your own piece of land. You will need to come up with a way to have a supply of fresh water; wells, water-delivery services and [rainwater catchment systems](https://www.homeserve.com/en-us/blog/cost-guide/rainwater-collection-system/) work well to this end. You will also need to install a septic system to handle your wastewater. If you would like to have fuel for heating or cooking beyond something like a pellet or wood-burning stove, a propane storage tank tends to be the preferred method.
+
+While living completely off the grid is a very individualistic approach to life, it's still important to ensure that any structures you build or systems you install (like septic) are still properly permitted and adhere to local guidelines.
+
+**More Related Articles:**
+
+*   [What’s It Like to Go Solar? 5 Things They Don’t Tell You in the Brochure](https://www.homeserve.com/en-us/blog/home-improvement/solar-panels/)
+*   [How Much Does It Cost to Install Solar Panels?](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+*   [What Are Solar Shingles … and Do They Work?](https://www.homeserve.com/en-us/blog/home-improvement/solar-shingles/)
+*   [How Much Do Solar Shingles Cost?](https://www.homeserve.com/en-us/blog/cost-guide/solar-shingles/)
+*   [Thinking About a Solar Water Heater? Here Are the Pros and Cons](https://www.homeserve.com/en-us/blog/home-improvement/solar-water-heater/)
+
+Pros and Cons of Going Off the Grid
+-----------------------------------
+
+### PRO: Energy Independence
+
+A sense of energy independence is perhaps the biggest reward of disconnecting from the grid. Once you've set up your own solar or other power-generating solution, you are no longer tied to a utility company and its accompanying fees. That means you are no longer subject to rate hikes or high bills during times of peak energy usage.
+
+### CON: Energy Independence
+
+Oddly enough, the very thing that makes going off the grid appealing can also be a drawback. Once you have cut ties with your utility provider, you no longer have the resources of a major company backing you up if something goes wrong. This means that if you have an issue with your power system, it'll be up to you to solve it. If you live within easy reach of a solar company that can help, then this might not be a major issue, but if you live in a remote area, you'll want to be familiar with basic repairs and the ins and outs of your system.
+
+### CON: Weather Whims
+
+Solar power generation relies on bright sunny days. While most systems can withstand a few days of cloudy weather or storms, extended dim light and cloudy days will impact the system, and you might find yourself needing to ration power.
+
+### PRO/CON: Cost
+
+While being off-grid can virtually eliminate monthly utility bills from your life, getting to that point can be quite costly. If you're going truly off-grid, you'll need to have your own land on which to make it happen. Once you have the land, you'll need to install your solar system, fresh water system, heating source and wastewater system, which can easily top $100,000 in expenses depending on where you live and the complexity of the systems you put in place.
+
+Sure, you'll make that money back over time, but if you're thinking of going off-grid as a purely economic move, you might want to do some serious calculations to decide if the eventual savings are worth the initial costs.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

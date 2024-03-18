@@ -1,0 +1,96 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Showerhead Removal: How to Remove a Shower Head"
+headline: "Showerhead Stuck? Here's How to Remove It"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-05-17
+basePath: https://library.homeserve.com/m/
+heroImage: 7bc8476a748add81/Blog-GettyImages-183778256.jpg
+heroAltDescription: "Plumber Installing an oil rubbed shower head with Adjustable Cresent Wrench"
+metaDescriptions: "Trying to remove a stuck showerhead? Here’s a quick how-to guide — plus how to clean and replace it so it won’t get stuck again. "
+articleAbstract: "Even though most showerheads are designed to be easily removed, oftentimes, they’re fixed tight. Here’s a quick guide to removing your showerhead — plus how to clean and replace it so it won’t get stuck again. "
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0919
+stickyDisplayText: Call today for a local plumber.
+lightboxCopy: Local plumbing pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/plumbers/hs/same_day
+  large:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner1.png
+      alt: Plumbing eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner2.jpg
+      alt: Plumbing eLocal Banner 2
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Remove a Shower Head"
+  parent: Plumbing-How-To
+---
+  
+
+Removing your showerhead is usually as simple as unscrewing it from the shower arm. However, nothing’s really that easy, right? Even though most showerheads are _designed_ to be easily removed, oftentimes, they’re fixed tight.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**How Much Does It Cost to Replace a Showerhead?**](https://www.homeserve.com/en-us/blog/cost-guide/shower-head-replacement/)
+
+Here’s a quick guide to removing your showerhead — plus how to clean and replace it so it won’t get stuck again.
+
+Getting Started
+---------------
+
+Place some sort of protection underneath the showerhead in the bathtub or shower. This can be a garbage bag, plastic tarp or old towel. This will protect the porcelain and will make clean-up easy after you’ve changed the showerhead. Be sure to cover up the drain so no small parts escape down it. You might also want to consider turning off the water supply to your shower.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+Next, check whether you can remove the showerhead by hand. The golden rule applies here: Lefty loosey, righty tighty. Showerheads are designed to easily screw on and off the shower pipe. If yours won’t budge, let’s determine why and solve the problem.
+
+Why’s My Showerhead Stuck?
+--------------------------
+
+Rust or buildup of calcium or minerals is the most likely answer to this question. You may see a ring of orange where the showerhead connects to the shower pipe. This is rust. If there’s a white-colored ring, it’s probably calcification.
+
+In either case, try removing the showerhead with a wrench or pliers. This may be all it takes to loosen the rust or calcium buildup and release your showerhead. Place a small rag on the connector to prevent scratching. Turn the wrench or pliers clockwise to attempt to crack the built-up rust or calcium, then counterclockwise to loosen and remove the showerhead.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+If the tools aren’t working, you should treat the showerhead with a rust, calcium and lime remover. This should loosen the buildup and allow for the removal of the showerhead. Be sure to follow the instructions on the bottle of the product. Typically, you’ll need to let it sit for a while to let it break down the gunk. When the allotted time is up, brush the showerhead with a wire brush to remove the rust or calcium. Hopefully, you should be able to take off the showerhead with the wrench, pliers or your hands.
+
+If you can’t see any rust or calcium or the above step didn’t work, try a penetrating lubricant. Products like Liquid Wrench or WD-40 might be the extra power you need. Again, follow the product’s instructions for applying and cleaning. Give the product time to do its thing, then try again to remove the showerhead with your hands or the tools.
+
+**More Related Articles:**
+
+*   [How to Replace a Showerhead](https://www.homeserve.com/en-us/blog/how-to/change-shower-head/)
+*   [How to Clean a Showerhead](https://www.homeserve.com/en-us/blog/how-to/clean-showerhead/)
+*   [Let It Flow: Improve Low Water Pressure in the Shower](https://www.homeserve.com/en-us/blog/home-improvement/diy-shower-pressure-fixes/)
+*   [Pay Attention to that Mold Behind the Curtain! A Shower-Curtain Cleaning How-To](https://www.homeserve.com/en-us/blog/how-to/how-to-clean-a-shower-curtain-and-liner/)
+*   [How to Install Shower Doors: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-shower-door/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/7747ac9f86c1226/Blog-ShowerHeadInstall_ERossi_3796.jpg" alt="close up image of a new shower head being installed in place of an existing fixture "/>
+-------------------------------------------
+
+Get Clean
+---------
+
+If you aren’t replacing your showerhead with a new one, you can clean this one up before you put it back in place. Soaking it in plain white vinegar overnight will thoroughly remove any rust or calcium. If there’s still some left, apply the rust, calcium, and lime remover directly to the showerhead. Do the same with your shower pipe; soak it in vinegar or the rust remover to get rid of any buildup.
+
+There may have been some old plumber’s tape wrapped around the shower pipe’s threads or around the connector between the showerhead and the shower pipe. Remove this and clean the area. Steel wool works well. You want to make sure both the head and pipe are clean before reattaching anything. Take new plumber’s tape and wrap it around the shower pipe’s threads clockwise. Be sure to press it into the threads, as this helps prevent leaks.
+
+Now it is time to reattach either your old showerhead or the new one. You should be able to do this all by hand, even tightening the connectors. Get rid of the towel or tarp you were using to protect your bathtub, turn your water supply back on and turn the shower on to test your handiwork. Check for leaks from either the showerhead or the threads. Tighten the connectors until the showerhead leaks no more.
+
+That’s it! You have successfully removed, cleaned and reattached your showerhead.
+
+_Not much plumbing knowledge is needed to remove your stuck showerhead, but not all projects are this easy. Home repairs of the unexpected variety are even more frustrating. Be prepared with a plan from HomeServe. When a covered issue pops up, you’ll rest easy knowing a licensed professional is just a phone call away. See what plans are available in your area._<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/ZDGHAJwZBhg?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

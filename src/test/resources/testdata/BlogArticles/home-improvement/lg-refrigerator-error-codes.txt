@@ -1,0 +1,116 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "LG Fridge Error Codes"
+headline: "LG Fridge Error Codes"
+author: John Warbuck
+tags: ["post"]
+publishDate: 2023-12-15
+basePath: https://library.homeserve.com/m/
+heroImage: 75e6cd1ff5e7fdb0/Blog-LG-InstaView-with-UVNano_05.jpg
+heroAltDescription: "LG refrigerator"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Need an easy way to tell what's wrong with your fridge? Thankfully, LG refrigerator error codes can help you diagnose and fix the problem."
+articleAbstract: "LG error codes make it a little easier to diagnose common problems with your appliance so that you can decide if it’s worth it to have someone come to work on your refrigerator."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "LG Fridge Error Codes"
+  parent: Appliances
+---
+  If you’re experiencing an LG refrigerator problem, the good news is that LG designed your fridge to help you out.
+
+**This May Also Interest You:** [**What Do You Do With an Old Appliance? How to Recycle Fridges, Washers, Ovens and More**](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+LG error codes make it a little easier to diagnose common problems with your appliance so that you can decide if it’s worth it to have someone come to work on your refrigerator.
+
+What Is an LG Refrigerator Error Code?
+--------------------------------------
+
+LG refrigerators are designed to help you understand when something is wrong and what the problem could be. LG error codes appear on your refrigerator automatically so that you or a technician can get to the root of any problem right away and fix or replace the correct part.
+
+How LG Error Codes Help Save Time and Money
+-------------------------------------------
+
+If your fridge is on the fritz and you’re able to repair it in minutes simply by knowing what’s wrong, you could save a lot of money on labor. You don’t need a technician to come to your home and diagnose the issue, and you can save the contents of your refrigerator in the meantime. LG offers an [online manufacturer’s guide](https://www.lg.com/us/support/help-library/lg-refrigerator-error-code-list-CT10000021-1441392048805) to help customers look up what the codes showing on their refrigerators mean so they can decide within minutes whether it’s worth it to fix the issue on their own or call someone who knows more about refrigerator repair.
+
+**More Related Articles:**
+
+*   [Should You Buy a Used Appliance? Weigh the Risks and Rewards](https://www.homeserve.com/en-us/blog/buying-guide/used-appliances/)
+*   [7 Ways Your Kitchen Will Evolve in the Next 10 Years](https://www.homeserve.com/en-us/blog/home-improvement/advancements-kitchen-technology/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+Some of the Most Common LG Refrigerator Error Codes
+---------------------------------------------------
+
+French door, side-by-side and bottom freezer models have nearly identical diagnostic codes. If you have a top freezer, you’ll need to check your owner’s manual for directions on how to diagnose problems with your model.
+
+### FS
+
+This error code means there’s a problem with your freezer sensor. The sensor likely needs to be replaced.
+
+### rS
+
+This error code means the refrigerator sensor is malfunctioning. You probably need to replace the sensor.
+
+### dS
+
+This error code means your defrosting sensor isn’t working properly. Depending on your model, there could be variants of this error code that include extra letters before the “dS.”
+
+### EID
+
+This error code means a sensor in your ice maker isn’t working. You may need to replace it.
+
+### dH
+
+You may see this error code if you attempted to defrost your refrigerator and it took too long to return to the correct temperature. Unplugging your fridge for a few minutes often resolves it.
+
+### FF
+
+This error code means something’s wrong with your freezer fan. To make sure that the issue isn’t simply due to frost buildup, leave your freezer open for at least 8 hours, wipe it down and let it run for a day or two. If you still see the error code, the fan may be broken.
+
+### F1
+
+This error code indicates something is wrong with your ice maker fan. The solution is the same as troubleshooting a freezer fan issue.
+
+### C1
+
+This error code only appears when your fridge is experiencing an internal communication error. You need a technician to diagnose this problem.
+
+### CO
+
+This error code indicates a problem with your refrigerator’s control panel. You need a technician to repair this issue.
+
+### IS
+
+This error code appears when your ice maker’s fan motor isn’t working. It could also indicate a problem with the sensor.
+
+### iT
+
+LG doesn’t say much about this error code except that it means your ice maker is defective.
+
+### rF
+
+This error code may mean your refrigerator needs a new fan motor. LG recommends leaving your fridge open for 8 hours, wiping it down and then letting it run for at least a day to see if the code goes away. If not, you need a new fan motor.
+
+### gF
+
+This error code means something’s wrong with your water line. Your water pressure may be low, or your ice maker is overflowing with water.
+
+### Sb
+
+This error code simply means your refrigerator is in Sabbath mode. If you don’t want it to enter this mode, hold the Wi-Fi and freezer buttons for three seconds.
+
+### CL
+
+This error code means you may have a refrigerant leak. You need to locate the source of the leak and refill your refrigerant.
+
+### 22
+
+This error code means something is wrong with your refrigerator’s compressor relay. It’s best to call a professional for help.
+
+When to Call a Professional
+---------------------------
+
+Some error codes indicate that the only solution is to call a technician. In other instances, you may wish to call a professional if you attempted the suggested solution and are still experiencing the same issues.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Clean Refrigerator Condenser Coils at Home"></iframe>

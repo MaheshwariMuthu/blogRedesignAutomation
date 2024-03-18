@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does Heating Oil Cost?"
+headline: "How Much Does Heating Oil Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-06-17
+basePath: https://library.homeserve.com/m/
+heroImage: 2de97b9f21351fad/Blog-OilHeaterTank_MDavis_IMG_7595.jpg
+heroAltDescription: "Oil heater tank in basement"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The cost of heating oil fluctuates depending on the time of year and other conditions, most of which are out of your control."
+articleAbstract: "The cost of heating oil isn't static. Instead, it fluctuates depending on the time of year and other conditions, most of which are out of your control."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does Heating Oil Cost?"
+  parent: HVAC-Cost-Guide
+---
+  If you heat your home with oil, you know there’s almost nothing worse here's nothing worse than running low — except, perhaps, running out. Even if you've still got some oil left, filling up during the winter months can get expensive.
+
+**This May Also Interest You:** [**Why Am I Using So Much Heating Oil? Here’s How to Reduce Your Consumption**](https://www.homeserve.com/en-us/blog/how-to/reduce-heating-oil/)
+
+The cost of heating oil isn't static. Instead, it fluctuates depending on the time of year and other conditions, most of which are out of your control. Find out more about the cost of heating oil below.
+
+**Is It Expensive to Heat With Oil?**
+-------------------------------------
+
+All heating fuels can be expensive, especially when your home's not well insulated or your furnace is no longer energy efficient. However, by controlling these factors, you can reduce your overall heating expenses. For example, consider basic insulating steps to help keep your home warm, such as checking for air leaks around doors and windows. These are areas where you can lose heat, which increases the cost of keeping your home warm.
+
+**How Much Does 100 Gallons of Heating Oil Cost?**
+--------------------------------------------------
+
+According to the [U.S. Energy Information Administration](https://www.eia.gov/energyexplained/heating-oil/factors-affecting-heating-oil-prices.php), heating oil prices vary. The factors that can affect the cost include:
+
+*   Region
+*   Season
+*   Competition in local markets
+*   Regional operating costs
+*   Supply and demand
+
+It's more expensive to heat your home in cold-weather areas, such as the Northeast and Midwest. Additionally, from October to March, the average cost of oil for home heating reaches its peak. The best way to save money on fuel prices per gallon is to schedule your delivery during the summer when the demand is lowest. According to the [U.S. Energy Information Administration](https://www.eia.gov/dnav/pet/pet_pri_wfr_a_EPD2F_PRS_dpgal_m.htm), last winter (October 2022 through March 2023), the average cost per gallon of heating oil in the U.S. was $4.80. This doesn't include extra charges for fast delivery and taxes, which differ between states.
+
+**How Long Will 50 Gallons of Heating Oil Last?**
+-------------------------------------------------
+
+Determining how long your delivery will last depends on several factors:
+
+*   The age of the furnace
+*   Size of the home
+*   Insulation
+*   Average temperatures
+
+For a small house less than 1,000 square feet or in an area with mild temperatures, 50 gallons may last the entire winter. However, more square footage, poor insulation and bitterly cold weather could cause you to go through 50 gallons in less than a month — or even a week.
+
+**More Related Articles:**
+
+*   [How Does Heating Your Home With Oil Work — and Who’s Still Using It?](https://www.homeserve.com/en-us/blog/home-improvement/home-heating-oil/)
+*   [Need a New Furnace? Here’s What You Should Know](https://www.homeserve.com/en-us/blog/cost-guide/new-furnace-cost/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [How to Relight Your Furnace Pilot Light in 5 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/pilot-light-furnace/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+
+**How Much Does It Cost to Fill a 275-Gallon Oil Tank?**
+--------------------------------------------------------
+
+The cost to fill up a 275-gallon oil tank can vary, but expect to pay around $1,000 (CAD 1,350). To keep fuel expenses low, shop around for prices and purchase in bulk during the off-season. Also, consider switching from oil to propane or vice versa, depending on the average cost in your area. For many people, the [cost of propane](https://www.thisoldhouse.com/heating-cooling/21528990/propane-vs-oil-heat) is lower than oil.
+
+**Lowering Your Cost of Heating Oil**
+-------------------------------------
+
+Along with purchasing fuel during the off-season, replacing your older furnace with a new, energy-efficient unit is an excellent way to save money. Although a new HVAC system is expensive, the average savings on heating oil may pay for itself over a few years. Additionally, the extra warmth and comfort during the window is an excellent bonus.
+
+Heating a home with oil can get expensive depending on the time of year and other factors. Additionally, if your home isn't well-insulated or your furnace isn't working efficiently, the cost of heating oil can easily outpace your budget.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

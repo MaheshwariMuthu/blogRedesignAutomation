@@ -1,0 +1,73 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Fan Vs. AC: Which Is Better for Your Home?"
+headline: "Is It Actually Cheaper to Run Fans Than Air Conditioning?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-08-10
+basePath: https://library.homeserve.com/m/
+heroImage: 1ab95c9dca8d226/Blog-FanVsAc_Erossi.jpg
+heroAltDescription: "Which is cheaper to run ceiling fans or the air conditioner "
+metaDescriptions: "Opting for a fan over AC can help you manage your budget — but your house might end up warmer than you like. Here’s what you need to know."
+articleAbstract: "If you're feeling the sting of high utility bills, you may be considering whether opting for a fan over air conditioning can help you manage your budget more effectively. Here’s what you need to know."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Is It Cheaper to Run Fans Than AC?"
+  parent: HVAC-Home-Improvement
+---
+  Figuring out how to beat the heat can be a challenging proposition, especially when the mercury rises during the summer months. It seems like every method has its drawbacks. Portable and ceiling fans move air around, but they don’t really _cool_ your house. Air conditioning drops the indoor temperature, but it uses a lot of electricity.
+
+**This May Also Interest You:** [**No AC? No Sweat. Here’s How to Keep Cool**](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+
+If you're feeling the sting of high utility bills, you may be considering whether opting for a fan over air conditioning can help you manage your budget more effectively. Here’s what you need to know.
+
+How Much Electricity Does a Fan Use Compared to Air Conditioning?
+-----------------------------------------------------------------
+
+One of the most important reasons to consider using fans is the reduced cost of operation. When compared with the typical window AC unit or whole-home central air conditioning system, fans simply use less electricity. This reduces the cost of operation by a considerable degree. Whole-house fans and ceiling fans are among the most energy-efficient methods for cooling your home. They use between one-fourth to one-hundredth of the electrical power required for AC units.
+
+Is It Cheaper to Run a Whole-House Fan or AC?
+---------------------------------------------
+
+How much electricity does a fan use? The [National Renewable Energy Laboratory](https://www.nrel.gov/docs/fy99osti/26291.pdf) offers the following figures as a basis for comparing costs and energy expenditures:
+
+*   A two-ton air conditioner costs about 20 cents per hour to operate. Over the entire cooling season, homeowners can expect to pay more than $250 to keep things cool in warmer climates.
+*   An 18,000-[BTU](https://www.homeserve.com/en-us/blog/home-improvement/what-is-btu/) window AC unit with an energy efficiency ratio of 8.8 generally costs more than 17 cents per hour to operate.
+*   The cost of operating a whole-house fan is significantly less. In most areas, homeowners can expect to pay 1 to 5 cents for every hour their whole-house fan is in use.
+*   Ceiling fans are recommended by the [U.S. Department of Energy](https://www.energy.gov/energysaver/home-cooling-systems/fans-cooling) as an energy-efficient way to reduce indoor temperatures. Depending on the size and power of the ceiling fan, the cost of operation could be less than 1 cent per hour. A ceiling fan is a low-cost way to increase indoor comfort during the hotter summer months.
+
+How Do Fans Cool Your Home?
+---------------------------
+
+Ceiling fans, whole-house fans and portable fans all work on the principle of evaporative cooling. In simple terms, this means that they increase the amount of evaporation of moisture from your skin. Evaporation is a cooling process that removes heat from your skin's surface and dissipates it into the surrounding air. In this way, your fan can help you to feel cooler — but it doesn’t actually lower the temperature of your indoor air.
+
+Ceiling fans are especially useful in providing targeted cooling for the occupants of the room in which these devices are installed. To get the most from your ceiling fan, however, you must change the direction it spins based on the season. Ceiling fans should turn in a counterclockwise direction during the summer. This will allow the fan to direct air downward at you to cool you off more effectively. During the winter months, however, it is essential to change your ceiling fans to a clockwise spin. This draws cooler air upward to help you feel warmer during winter's chill.
+
+**More Related Articles**
+
+*   [How to Clean a Window AC Unit: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/clean-window-ac-unit/)
+*   [Hot or Cold in Your Household? Split the Difference With a Mini Split Air Conditioner](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [Smart AC Not a Dumb Idea If You’re Looking to Cut Climate-Control Costs](https://www.homeserve.com/en-us/blog/buying-guide/smart-ac/)
+*   [What is a SEER Rating for AC Units (And Why Should You Care?)](https://www.homeserve.com/en-us/blog/home-improvement/seer-rating/)
+
+Is It Better to Use a Fan or Air Conditioner?
+---------------------------------------------
+
+Both fans and AC units offer some significant advantages and drawbacks for cooling your home. Some of the most important advantages of fans include the following:
+
+*   Lower energy expenditures
+*   Reduced impact on the environment
+*   Easier installation processes
+*   Lower initial equipment costs
+*   Reduced need for maintenance
+
+However, air conditioners cool much more effectively than fans and may be the only way to keep cool on during the hottest days of summer.
+
+When deciding between a fan or an AC for your home, it is important to think about the average high temperatures in your area during the hottest part of summer. When the outdoor temperature gets too high — over 95 degrees — even a whole-house fan can do little to lower your body's base temperature. High humidity levels can also reduce the effectiveness of fans in cooling you down. A good compromise could be to use fans on all but the hottest days. By running your window AC unit or central air only when it is absolutely necessary, you can cut your utility costs while reducing your impact on the environment.

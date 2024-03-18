@@ -1,0 +1,95 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Wi-Fi Wars: Household Battling for Bandwidth? Everyone Wins With These Tips"
+headline: "Wi-Fi Wars: Household Battling for Bandwidth? Everyone Wins With These Tips"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-06-14
+basePath: https://library.homeserve.com/m/
+heroImage: 4b00ad25f19c8e86/Blog-GettyImages-1270583054.jpg
+heroAltDescription: "Selective focus at router  Internet router on working table with blurred man connect the cable at the background  Fast and high speed internet connection from fiber line with LAN cable connection "
+metaDescriptions: "Bandwidth matters! If you aren't getting the speed and connectivity you want from your Wi-Fi, try these eight tips."
+articleAbstract: "Let's face it: Bandwidth matters. If you're not getting the kind of speed and connectivity you want from your Wi-Fi, these eight tips might lead to speedier surfing."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "WiFi Wars: Household Battling for Bandwidth? Everyone Wins With These Tips"
+  parent: Appliances
+---
+  **Increasing Your Wi-Fi Signal at a Glance**
+
+* **Step 1:** Check your speed
+* **Step 2:** Check with your service provider
+* **Step 3:** Check your modem
+* **Step 4:** Evaluate your router
+* **Step 5:** Move your router
+* **Step 6:** Protect your signal
+* **Step 7:** Use mesh or signal boost
+* **Step 8:** Use wired connections
+
+As the COVID-19 pandemic made perfectly clear: Bandwidth is important. As more and more people stayed home and conducted school and business over the internet, slowdowns were common. After all, when you have kids taking video lessons, parents teleconferencing and the whole family watching their own Netflix shows, the information superhighway can get a little bit crowded.
+
+**This May Also Interest You:** [**Amazon Echo Vs. Google Home: The Voice Command Speaker Battle Begins**](https://www.homeserve.com/en-us/blog/buying-guide/amazon-echo-google-home-differences/)
+
+While the work- and school-from-home days may be in our rear-view mirrors, the shift to more digital activities is certainly here to stay, so having a good online pipeline is important. If you aren't getting the kind of speed and connectivity you want from your service, here are eight tips that might lead to speedier surfing.
+
+1\. Check Your Speed
+--------------------
+
+The first thing you'll want to do is to see what kind of connection speed you're currently getting in your home. You can do this with a speed test from a variety of online free services like [fast.com](https://fast.com/) and [speedtest.net](https://www.speedtest.net/). Or, you can simply use Google to search for "internet speed test" and click the "Run Speed Test" button.
+
+It can also help to know how much bandwidth different activities take. So, for example, streaming a 4K (high-definition) Netflix video needs at least 25 megabits per second (Mbps), while gaming can gobble up 12 Mbps in download speed and 6 Mbps in upload speed.
+
+2\. Check With Your Service Provider
+------------------------------------
+
+This is always a good step if you're experiencing surfing slowdowns. You may have signed up for your service plan several years ago and, since that time, your provider may have begun offering plans that increase the size of your broadband pipeline. You'll no doubt pay more, but if you have a lot of people relying on the signal — or if you do heavy-duty video streaming or gaming — the expense could be worth it.
+
+Also, have a look at your current plan and check to see if there are any data caps. You should be able to find this information, along with the amount of data you use each month, by logging in to your online account. If your plan has a limit on how much data you can use each month, chances are good that when you go over that figure, your speed will be throttled, meaning you will experience significant slowdowns until the next billing cycle. Again, increasing your data allotment will cost more, but it can keep you up and running at full speed all month long.
+
+3\. Check Your Modem
+--------------------
+
+If you got your modem (or a modem-router combination) from your service provider, checking in with them will also help you discover if there is a more up-to-date model available that could boost your speed. Your modem is the device that communicates with your internet service provider to translate outgoing and incoming data. If you own your own modem but it’s a few years old, you may want to consider upgrading. Just be sure to visit your ISP's website to find a list of the modems that are compatible with the service. Of course, one of the tried-and-true (and free) methods of improving your modem's performance is to simply restart it, which is usually accomplished by unplugging it, waiting 10 to 30 seconds and plugging it back in.
+
+4\. Evaluate Your Router
+------------------------
+
+Even more than your modem, your Wi-Fi router — the device that broadcasts your internet signal from your modem to locations around your house — can have a major impact on your connection speed. If it's been a while since you've replaced yours, an upgrade could definitely boost your speed.
+
+When evaluating a new router in terms of the speed it delivers, there are a few hallmarks to look out for. First of all, you'll want to be sure that the router offers both 2.4GHz and 5GHz bands. These are two different frequencies over which your Wi-Fi signal can be sent. The 2.4GHz band is great at penetrating walls and other obstructions, while the 5GHz band offers quicker surfing speeds. Most modern routers come with both of these bands available, and most also let you designate certain bands to certain activities or devices. For example, you might want to let the PC gamer and streamer in your family use the 5GHz band, while you assign other devices like phones and tablets to the 2.4GHz band.
+
+If you really have a great demand for bandwidth in your home, you could consider a tri-band router, which gives you two 5GHz channels and one 2.4GHz channel for even greater control in how you apportion your signal.
+
+Better still, you might want to consider one of the new Wi-Fi 6 routers, which are simply the fastest broadcasters around. They not only promise to increase surfing speed, but they also can help to save power in the devices that connect to them. They offer up to an eight-stream uplink and downlink Multi-User Multiple Input Multiple Output (MU-MIMO), which means eight users get their own streams to conduct their online activities. The number of devices such as laptops and tablets that can operate over Wi-Fi 6 is constantly growing, so be sure your gear — or gear you plan to buy — can take advantage of the faster signal.
+
+**More Related Articles:**
+
+*   [Heat Check: The 5 Best Smart Thermostats for Your Home](https://www.homeserve.com/en-us/blog/cost-guide/best-smart-thermostats/)
+*   [Is a Smart Garage Door Opener a Wise Investment?](https://www.homeserve.com/en-us/blog/home-improvement/smart-garage-door/)
+*   [Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load](https://www.homeserve.com/en-us/blog/how-to/are-phantom-loads-adding-to-your-electric-bill/)
+*   [5 Best Smart Refrigerators for Various Household Needs](https://www.homeserve.com/en-us/blog/buying-guide/the-best-smart-refrigerators/)
+*   [Your Definitive Guide for the Best Smart Home Devices](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-devices/)
+
+5\. Move Your Router
+--------------------
+
+This may sound obvious, but the position of your router is critical to the speed your devices will receive. You'll want to make sure that your router is at the center of your home both in terms of horizontal and vertical space. You'll also want to make sure that it's not in a room that has extra thick walls. Finally, don't place your router near appliances like your refrigerator, which can bounce your Wi-Fi signal away, or your microwave, which operates on the 2.4GHz channel.
+
+6\. Protect Your Signal
+-----------------------
+
+You've no doubt heard that password-protecting your Wi-Fi network is a must in terms of identity and other data theft, but it can be an important part of keeping your network working at top speed. That's because an unprotected network is open for anyone nearby to use. The more people who hop on to your signal, the slower your connection will become. While this might be more of a concern in apartment complexes, today's routers have exceptional broadcast ranges, so even if you live in a house, it wouldn't be _impossible_ for a neighbor to piggyback on your non-password-protected signal.
+
+7\. Mesh and Boost
+------------------
+
+If your router and modem are fairly new, or if you've moved them but you're still having speed issues — especially in areas of your home that are far from your router — you may want to consider a signal booster. These are additional antennas that you can plug into outlets around your home. They take the signal from your router and amplify it so that it can be grabbed by devices in its range. Even though they are known as "boosters," these devices always deliver slower connection speeds than your main router, but some signal is better than none.
+
+An even better option is to consider replacing your router with a mesh system. These router packages generally consist of three or more units that you can place around your home to spread out your Wi-Fi signal over a larger area than with one router alone. The benefit over a signal booster is that a mesh system creates one single network with the same username and password, and your devices will automatically connect to the router closest to them without any interruption in service. A signal booster, on the other hand, creates a distinct network that you'll need to connect to every time you are in its range and out of range of your main router.
+
+8\. Consider Wired Connections
+------------------------------
+
+While routers enable your connected devices to operate wirelessly, it's easy to forget that it’s still possible to connect some devices directly to your modem or router with an ethernet cable — which would deliver the fastest speed of all. Direct ethernet connections may not be possible on some laptops lacking an ethernet port, but there are adaptors that convert a USB or USB-C port to an ethernet port, so that could be a good solution.
+
+Running ethernet cables around your house can be an involved job, so you may just want to connect the computer closest to your router directly with an ethernet cable and let other devices use the Wi-Fi signal. Or, you might want to deliberately place your router and modem next to a streaming device like a Roku or Apple TV and connect to it with an ethernet cable so that your TV viewing will have access to the best pipeline. If connecting devices in your home to your router via ethernet cables is an option for you, then you'll want to be sure to pick a router that comes with multiple ethernet ports.

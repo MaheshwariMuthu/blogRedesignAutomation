@@ -1,0 +1,80 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to De-Ice Your Driveway"
+headline: "Non-Salt Awesome Sauce Alternatives for De-icing Your Driveway"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-02-20
+basePath: https://library.homeserve.com/m/
+heroImage: 3a927851d6303ca/Blog-DeicingIngredients_AWiesen_005.jpg
+heroAltDescription: "bucket of hot water with dish soap and rubbing alcohol"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "For clearing winter ice, calcium chloride and rock salt have long been the standards, but they're not without issues. Here are some alternatives to consider."
+articleAbstract: "For clearing winter ice, calcium chloride and rock salt have long been the standards, but they're not without issues. Here are some alternatives to consider."
+category: ["How To"]
+eleventyNavigation:
+  key: "Non-Salt Awesome Sauce Alternatives for De-icing Your Driveway"
+  parent: Exterior-Home-How-To
+---
+  There’s a lot to love about winter: The crisp air in the morning, the cozy nights by the fire and the comfort food, of course. And, if you live in the northern states, there can be a _lot_ of snow.
+
+**This May Also Interest You:** [**How to Prepare for a Snowstorm**](https://www.homeserve.com/en-us/blog/how-to/snow-storm-preparation/)
+
+And while there’s plenty to love about the cold time of year, it’s not without its downsides. For example, with snow comes ice, and ice can make driveways and sidewalks downright dangerous for you and your family. That’s why, when cold weather hits, you’ll want to have some ice melt handy to make your walkway or drive easier to clear.
+
+Melting Ice: Classic Compounds
+------------------------------
+
+When it comes to clearing ice from your driveway, calcium chloride products and rock salt (sodium chloride) have long been the standard bearer. For good reason, too: They’re cheap and get the job done with relative ease by lowering the freezing point of the water. These de-icers work by absorbing moisture, creating a brine that generates heat and melts ice. Once the ice is loosened, shoveling it becomes a much easier task.
+
+Disadvantages of Using Traditional Ice Melts
+--------------------------------------------
+
+Although traditional ice melts like salt and calcium chloride are incredibly effective at melting ice, they have some major drawbacks that make them less than ideal. For example, the brine created by rock salt can kill grass and other landscaping plants. It can even be toxic to animals when ingested. Additionally, because salt and calcium chloride are highly corrosive, they can lead to costly damage to both your driveway and your vehicle.
+
+Furthermore, the overuse of salt as a de-icer is a [leading cause of the over-salinization](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/fee.2433) and contamination of well water, rivers, and lakes. When it comes to using these traditional de-icing methods, there are plenty of reasons to be apprehensive.
+
+Non-Salt Alternatives
+---------------------
+
+If you’re concerned about using rock salt and calcium chloride products to melt ice around your home, there are several natural alternatives that are quite effective. In fact, you probably have many of them on hand anyway.
+
+Here are a few non-salt alternatives that will help you get through the headaches of winter weather.
+
+### Sand
+
+One of the best salt-free alternatives for de-icing your driveway is sand. Although it doesn’t technically melt ice, sand creates traction, making it less likely that you’ll slip. In fact, snowplows often use a mixture of salt and sand when de-icing roads, which means it can also work for increasing the traction on a slick driveway. Plus, it’s non-corrosive, so it won’t damage any plants or concrete over time.
+
+**More Related Articles:**
+
+*   [Bundle Up: How to Prepare Your HVAC System for Winter](https://www.homeserve.com/en-us/blog/home-improvement/prepare-hvac-system-winter/)
+*   [How to Remove Snow From Solar Panels](https://www.homeserve.com/en-us/blog/how-to/snow-solar-panels/)
+*   [6 Steps to Winterize Your Sump Pump](https://www.homeserve.com/en-us/blog/how-to/winterize-sump-pump/)
+*   [Winter Gutter Maintenance Checklist](https://www.homeserve.com/en-us/blog/how-to/winter-gutter-maintenance/)
+*   [Space Heater Safety Guide: 8 Tips to Avoid Fires and Burns](https://www.homeserve.com/en-us/blog/home-improvement/space-heater-safety/)
+
+### Kitty Litter
+
+Another non-salt alternative is kitty litter. Like sand, kitty litter won’t actually melt any ice. That said, it’s a great way to increase traction on slick surfaces, plus it’ll also absorb any water or wet snow; just make sure you’re applying it on top of the snow and ice. And while kitty litter can be a great way to reduce your salt usage overall, it’s not without its drawbacks. For example, kitty litter can stick to the soles of your shoes and create a huge mess if you track it into your home.
+
+### Vinegar
+
+Vinegar also works as a great de-icing alternative to salt. Acetic acid, a chemical compound present in vinegar, lowers ice’s melting point. Although it doesn’t work quite as well as salt, mixing a solution of vinegar and hot water can rapidly melt sheets of ice, making it easier to shovel.
+
+### Sugar Beet Juice
+
+A less conventional option for de-icing is to use, believe it or not, sugar beet juice. Like rock salt, the chemical composition of beet juice lowers the melting point of ice. Because it’s safe for concrete, pets, plants and cars, beet juice is one of the best non-salt alternatives out there. Just be careful to clean up the juice as soon as the ice melts, as beet juice’s purple color has the potential to stain concrete and other surfaces.
+
+### Coffee Grounds
+
+Another common non-salt alternative for de-icing is used coffee grounds. Typically, this organic refuse is thrown away, but the nitrogen present in the grounds helps to lower the melting point of ice. Furthermore, the dark brown color of coffee grounds also absorbs sunlight better than white snow and ice, which should also help to increase the melting speed of the ice.
+
+### Rubbing Alcohol
+
+Isopropyl alcohol can also be used as a de-icer. That said, using rubbing alcohol to clear ice on a whole driveway could get expensive. Your best bet is to use it to melt the ice on your car windshield. Just mix one part water and two parts rubbing alcohol together into a spray bottle, then spray it directly onto the windshield to quickly melt the ice.
+
+Just Like the Doctor Ordered: Use Less Salt
+-------------------------------------------
+
+Unfortunately, when it comes to removing ice around your home, there’s no perfect solution. While natural alternatives might be better for your property and environment in the long run, they aren’t without their own drawbacks. Still, by using an alternative method, you’ll help mitigate damages caused by salt and calcium chloride products. And even if you do decide to use some traditional ice melts alongside the alternative methods, you’ll still be doing your surrounding environment a favor.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

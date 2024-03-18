@@ -1,0 +1,86 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Install Pendant Lights"
+headline: "Getting the Hang of It: How to Install Pendant Lighting"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-15
+basePath: https://library.homeserve.com/m/
+heroImage: 2899719d790ba729/Blog-LightPendants_ERossi-1135.jpg
+heroAltDescription: "pendant lights hanging in kitchen"
+metaDescriptions: "You can install pendant lights yourself with the right know-how. Here's what to do."
+articleAbstract: "While many homeowners may prefer to hire an electrician to install pendant lights, you can do it yourself with the right know-how. Here's how to install pendant lights."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install Pendant Lighting"
+  parent: Interior-Home-How-To
+---
+  **Installing Pendant Lights at a Glance**
+
+* **Step 1:** Remove existing light
+* **Step 2:** Inspect support system
+* **Step 3:** Wire light
+* **Step 4:** Attach fixture
+
+Pendant lights are an attractive alternative to flush-mount ceiling lights and other decorative lighting fixtures. They provide an elegant focal point in any room.
+
+**This May Also Interest You:** [**Do Light Fixtures Add Value to Your Home?**](https://www.homeserve.com/en-us/blog/home-improvement/light-fixtures-increase-home-value/)
+
+While many homeowners may prefer to hire an electrician to install pendant lights, you can do it yourself with the right know-how. Below, you can find out how to install pendant lights.
+
+Do You Need an Electrician to Install Pendant Lights?
+-----------------------------------------------------
+
+If you have experience working with electric wiring and intend to replace an existing light fixture, you could consider installing the light yourself to save money on electrician fees. However, if you're not confident in your ability to install the pendant light, it's probably cheaper and safer to hire an electrician and avoid making a mistake that could cause injury or cost more to rectify later.
+
+How Do You Wire Pendant Lights?
+-------------------------------
+
+Before wiring your pendant light, switch off the electricity supply to the room at the circuit breaker box. Otherwise, you risk sustaining an electric shock while installing the light. Once the power is off, follow these steps:
+
+### Step 1: Remove the Existing Light
+
+Remove the existing fixture, then use a voltage checker to ensure there isn't a current running through the wires. Twist the plastic connectors counter-clockwise until they come off. Disconnect the wires. Take off the trim and any remaining parts of the old fixture.
+
+### Step 2: Inspect the Support System
+
+Ensure that the electrical box and fixture location have a sound supporting structure such as a ceiling beam. If they don't, you could end up breaching building regulations — and the entire fixture may fall. If there's no support, abandon the installation and call a licensed electrician to determine a more suitable installation point.
+
+### Step 3: Wire the Light
+
+Get someone else to hold the fixture up so that your hands are free to connect the wires correctly. Generally, you should attach the fixture wires to wires of matching colors, but it's important to check the manufacturer's instructions as this can vary. Twist the metal ends together securely, stripping a little insulation away with wire strippers if the ends aren't long enough.
+
+Next, attach the fixture's ground wire to the existing ground wire or screw and ensure that the connection is tight. Secure all the new wire connections using wire nuts or connectors.
+
+### Step 4: Attach the Fixture
+
+Carefully push the wires up into the box and double-check to ensure none of the connectors have come loose. You can then install the mounting bracket and pendant light according to the manufacturer's instructions. Screw a bulb into the fixture and switch the electricity back on to test the light.
+
+If the light doesn't work, you'll need to remove it again and check that you've wired it correctly. Ensure that the electricity is switched off again and check the wires with a voltage checker first.
+
+**More Related Articles:**
+
+*   [How to Install LED Strip Lights: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-led-strip-lights/)
+*   [How Much Does It Cost to Install Light Switch Dimmers?](https://www.homeserve.com/en-us/blog/cost-guide/dimmer-light-switch-installation/)
+*   [How to Install a Dimmer Switch](https://www.homeserve.com/en-us/blog/how-to/install-dimmer-switch/)
+*   [How Much Does It Cost to Install Outdoor Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/outdoor-light-installation/)
+*   [How Much Does It Cost to Install Recessed Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/install-recessed-lighting/)
+
+How Do You Hang Pendant Lights Over a Kitchen Island?
+-----------------------------------------------------
+
+Pendant lights can create a beautiful feature out of your kitchen island. Generally, you should try to install your lights so that each pendant hangs between 30 and 36 inches clear of the countertop. Hanging pendant lights in groups can create a stunning visual impact, but ensure you have enough space to allow a couple of feet between each pendant. As a rule, the smaller the kitchen island, the smaller each pendant should be if you intend to hang multiple lights.
+
+How Do You Make Pendant Lights Hang Straight?
+---------------------------------------------
+
+There's nothing more annoying than a pendant light that hangs at a slight angle or doesn’t seem level. To correct it, first check that the pendant is positioned correctly on the hanger, as sitting even slightly off-center can cause it to look wonky. If the cord is bent, try straightening it out by grasping it firmly between your thumb and fingers and pulling downwards. Ask someone to hold the cord for you at the top to avoid damaging the fixture connections.
+
+Installing pendant light downrods will eliminate wonky fixtures if all else fails because they hold the fixture rigidly in position. You can purchase downrods relatively cheaply online and at DIY stores.
+
+How Do You Hang Pendant Lights Without Wires?
+---------------------------------------------
+
+If you want to install a pendant light in a ceiling without electrical boxes and don't want to hire an electrician to install wiring, you have several options. The first is to purchase plug-in pendant lights and attach the cord across your ceiling to the nearest outlet.
+
+However, if you don't like the look of cords running from the outlet to your light or lack a convenient nearby outlet, your other option is to use battery-operated lights. Attaching the light to the ceiling using a decorative chain and a strong adhesive hook is a cheap, effective way to get the look of pendant lights without wires.

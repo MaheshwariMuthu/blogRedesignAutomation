@@ -1,0 +1,57 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Samsung Oven Error Codes"
+headline: "Samsung Oven Error Codes"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2023-05-31
+basePath: https://library.homeserve.com/m/
+heroImage: 37ea1c1d1fc44d90/Blog-Slide-In-Range-Air-Fry.jpg
+heroAltDescription: "open Samsung oven with cookies baking inside"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Explore various Samsung oven error codes to help you troubleshoot your oven when it's not working correctly."
+articleAbstract: "You might see a wide range of codes on the oven display, but not all of them are errors. Some provide information about what's going on with the oven or about how you're using the appliance incorrectly."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Samsung Oven Error Codes"
+  parent: Appliances
+---
+  Are you staring at a seemingly random combination of letters or numbers on your Samsung oven or range and wondering what it means? Chances are, it’s an error code.
+
+**This May Also Interest You:** [**How Do I Reset My Samsung Refrigerator?**](https://www.homeserve.com/en-us/blog/how-to/reset-samsung-refrigerator/?gm-vt=1)
+
+You might see a wide range of codes on the oven display, but not all of them are errors. Some provide information about what's going on with the oven or about how you're using the appliance incorrectly.
+
+What Is an Error Code?
+----------------------
+
+Samsung oven error codes are short combinations of letters and numbers that give you more information about what's happening with the unit. You might see them on Samsung ranges and wall ovens that have digital displays. They can tell you if something's wrong with the oven or if you're doing something incorrectly, such as using the wrong cookware on an induction cooktop. They help you with troubleshooting to make sure you're using your oven safely and that it's working properly.
+
+What Are Common Samsung Oven Error Codes and What Do They Mean?
+---------------------------------------------------------------
+
+Some Samsung oven and range error codes are universal, while others only apply to certain models. Check your owner's manual for codes that are specific to your model, along with troubleshooting tips for those errors. You can also use these common [Samsung stove error codes](https://www.samsung.com/us/support/troubleshooting/TSG01001948/) as a guide for troubleshooting the unit.
+
+* **door:** If you see this Samsung oven error code, it means the door isn't closed. This might appear if you don't get the door closed completely, or if there's an issue with the door plunger switch, which is a pin that sticks out about 3/4".
+* **tESt or tE5t:** This code indicates that your unit is in demo mode and won't heat. The steps to turn off demo mode can vary by model, so refer to your manual for help.
+* **bAd:** When you see this code, it means your Samsung oven isn't plugged in correctly. Check the power connection or call for help if you don't notice any issues.
+* **CtoP:** This cooktop in-use error displays if you try to use the self-clean feature while you're using the cooktop. To fix this issue, simply shut off all burners and try the self-clean mode again.
+* **\-dE- or -dC-:** Some Samsung ovens have partitions. If you see this error code, it means your oven partition isn't installed correctly. This can also happen if the partition isn't in the oven but something's pressing against the partition switch.
+* **C-10:** If you have an oven that's compatible with the SmartThings app, you could see the C-10 code on the screen if you're using the app for self-diagnosis. The code doesn't usually indicate an error if self-diagnosis is in process. However, it could come up while you're cooking or when you're not running diagnostics, in which case there could be an issue. Running diagnostics or troubleshooting the oven can help you figure out the problem.
+* **C-24:** A C-24 error means the temperature inside the oven is rising faster than it should. You might see this happen if the vent at the back of the cooktop gets blocked, which you can remedy by moving whatever is blocking it. Opening and closing the door a few times can help cool down the oven. You can also shut the oven off and prop open the door slightly to cool it down.
+* **Underlined U:** You'll only see a U with a line under it if you have an induction cooktop range. It means there's a pan-detection error. Induction tops require specific cookware, so this error shows that what you're using isn't compatible. That could be due to the size, material or pan placement. If you correct the pan issue, this Samsung oven error code will disappear.
+* **Err:** This is a generic error code that could mean lots of things are wrong. Turning the range off and on or shutting the power off at the breaker for 30 seconds might help clear the error. If not, you might need a repair technician to help.
+
+**More Related Articles:**
+
+*   [Samsung Smart Washers and Dryers: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-washer-dryer/)
+*   [How Much Do Samsung Smart Refrigerators Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-refrigerator/)
+*   [Everything You Need to Know About Samsung Smart Microwaves](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-microwave/)
+*   [Samsung Smart Ranges: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-range/)
+*   [How Much Do Samsung Smart Ranges Cost?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-smart-range/)
+
+Do I Need to Call a Repair Tech or Can I Fix These Errors on My Own?
+--------------------------------------------------------------------
+
+The nature of the Samsung oven error code determines what you need to do. Some codes relate to how you're using the range, such as using the wrong top of cookware on your induction oven or not getting the oven door closed. Others could mean there's something wrong with the oven. If you can't get the code to clear with your home remedies, call a repair tech to help diagnose and fix the issues for you. The [Samsung Repair Services Center](https://www.samsung.com/us/support/service/) makes it easier to find a repair tech that's experienced with Samsung appliances.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Clean Your Oven | Cleaning Oven Tips and Tricks"></iframe>

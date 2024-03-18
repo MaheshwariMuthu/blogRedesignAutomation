@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "6 Things You Should Know About Electrical Permits"
+headline: "6 Things You Should Know About Electrical Permits"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2023-08-13
+basePath: https://library.homeserve.com/m/
+heroImage: 7f36c0bc2565b7fd/Blog-GettyImages-1025303196.jpg
+heroAltDescription: "technology in home interior electric"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Electrical work can be dangerous, especially if you're not a pro, so permits are sometimes required to make sure you do the work correctly."
+articleAbstract: "Electrical work can be quite dangerous, especially if you're not a pro, so permits are sometimes required to make sure you do the work correctly."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "6 Things You Should Know About Electrical Permits"
+  parent: Electrical-Home-Improvement
+---
+  Getting ready to do electrical work around your home? Before you start your work, make sure you understand the requirements for electrical permits in your area.
+
+**This May Also Interest You:** [**How Much Do Electrical Repairs Cost? A Comprehensive Guide**](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+Electrical work can be quite dangerous, especially if you're not a pro, so permits are sometimes required to make sure you do the work correctly.
+
+What Is an Electrical Permit?
+-----------------------------
+
+An electrical permit is an approval from a local department to allow you to complete a specific electrical project. The purpose is to make sure you complete the electrical work correctly according to local regulations. Ultimately, it's meant to keep your home safe by avoiding wiring and electrical issues that could shock you or cause a fire.
+
+To get electrical permits, you'll need to apply with the local office that processes them. Applicants often have to submit additional paperwork, such as their plans for the electrical project. You'll also have to pay a fee when you apply. An electrical inspector has to look at the work when you're done to verify it was done correctly.
+
+Who Issues Them?
+----------------
+
+Local governments typically regulate the electrical permit process. You might find a local building department, or your city or county might handle electrical permits under another department. Start with your city's government website to find information about permits and to find the specific department in your area.
+
+How Much Do They Cost?
+----------------------
+
+The cost of electrical permits can vary significantly based on your location and the project. You can expect [electrical permit fees](https://www.fixr.com/costs/building-permits) to range from $50 to $500 (CAD 66 to CAD 658). Call your local building authority to get an idea of what your permit might cost locally.
+
+Who Needs an Electrical Permit?
+-------------------------------
+
+Homeowners or business owners who complete certain electrical projects need to get a permit before doing the work. If you hire a professional electrician, they'll typically handle any necessary permits for you. Some states or municipalities might restrict when homeowners can pull permits themselves. They might limit it to minor electrical repairs based on their definition of what qualifies as minor. If you want to do more complex projects, you might need a licensed electrician to apply for it.
+
+**More Related Articles:**
+
+*   [How to Fix Electrical Cords and Charging Cables](https://www.homeserve.com/en-us/blog/how-to/fix-electrical-cords/)
+*   [Socket to Me: How Much Does It Cost to Install or Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Ground Outlets With GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+*   [Why U Trippin’? 3 Reasons Your Circuit Breaker Trips](https://www.homeserve.com/en-us/blog/home-improvement/circuit-breaker-tripping/)
+*   [How to Replace an Electrical Outlet: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/replace-electrical-outlets/)
+
+What Electrical Projects Require a Permit, and What Work Can Be Done Without a Permit?
+--------------------------------------------------------------------------------------
+
+The projects that require electrical permits can vary based on where you live. Your state or municipality could have different guidelines for pulling permits than other areas. But most types of electrical work require a permit unless they're very minor. You'll typically need a permit if you're changing, upgrading or adding to the current electrical system in your home. Common electrical jobs that require a permit include:
+
+*   Changing the wiring
+*   Adding new electrical connections
+*   Rewiring your home
+*   Switching from fuses to breakers
+*   Installing security alarms and other low-voltage systems
+
+Minor electrical work might not require a permit for the project. This most often covers minor repairs or replacements of your existing electrical system. For example, you likely won't need a license to replace an outlet cover, light switch or light fixture. If you aren't sure whether you need an electrical permit, call the local building department to find out.
+
+What Happens if You Don't Get Electrical Permits?
+-------------------------------------------------
+
+If your project requires electrical permits, but you don't get them, you could be fined if you get caught. You could still face consequences later, even if you don't get caught immediately. If your DIY electrical work is done without a permit and results in a fire or similar loss, your homeowners insurance might not cover the repairs. They can deny the claim due to a lack of proper permits. You could also be held liable for injuries and property damage caused by electrical work that wasn't done under a permit.
+
+Plus, it's potentially dangerous to do work without a permit, especially if you aren't experienced in electrical work. The purpose of permits is to ensure the work is done safely and properly. An inspector checks out the work before signing off on it, which gives you an added layer of protection. Without those things, your work might not be correct and could have dangerous results.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

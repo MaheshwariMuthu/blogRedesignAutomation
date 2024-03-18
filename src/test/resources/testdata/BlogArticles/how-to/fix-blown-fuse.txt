@@ -1,0 +1,108 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to fix a Blown Fuse
+headline: How to fix a Blown Fuse
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment']
+publishDate: 2020-01-21
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: fix-blown-fuse-01-full.jpg
+heroAltDescription: How to fix Blown Fuse
+metaDescriptions: Learn how to tackle electrical problems, including where to locate your fuse box and how to replace a broken fuse.
+articleAbstract: Some electrical problems can be a DIY home repair. For instance, replacing a broken fuse.
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0943
+stickyDisplayText: Call today for a local electrician.
+lightboxCopy: Local electrician pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/electricians/hs/expert
+  large:
+      image: /en-us/assets/images/blog/electric_elocal_banner1.jpg
+      alt: Electric eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/electric_elocal_banner2.jpg
+      alt: Electric eLocal Banner 2
+category: ['How To']
+
+eleventyNavigation:
+  key: How to fix a Blown Fuse
+  parent: Electrical-How-To
+---
+
+::: blog-info
+I was so excited to finally try my new vacuum cleaner _(my right hand man in my fight against dust bunnies!)_ I plugged him in to the wall outlet, when all of a sudden, poof, we lost power. This wasn’t a complete outage. Only the living room, where I had plugged in my vacuum, was without electricity.
+
+[1]: /en-us/home-warranty/combo/
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% else %}
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+{% endif %}
+:::
+
+My partner knew right away that I had probably blown a fuse by trying to use my new, high-energy appliance in a room that already had a lot of electronics plugged in.
+
+Luckily, fixing a blown fuse is a relatively easy DIY home repair. All you need is some basic knowledge about your fuse box and a quick trip to the hardware store and you’ll be back in business.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+**As always, abide by the proper safety measures when working with electricity.**
+
+## Follow these easy steps to fix a blown fuse:
+
+### 1\. Unplug electrical appliances
+
+First and foremost, it’s important to identify where the outage occurred. This will help you better identify which fuse is the culprit. A good way to test is to flip the light switches in each room to see which lost power. Then, keep the lights turned off in the affected areas and unplug some of the appliances in those rooms. If you leave everything on and then restore power with a new fuse, you run the risk of [blowing it out or tripping the electrical panel](https://www.angieslist.com/articles/how-to-fix-blown-fuse-or-reset-circuit-breaker.htm){target="_blank"} all over again, explains Angie's List.
+
+### 2\. Turn the power off
+
+Next, you will need to turn off the main power to the fuse box. This is usually done through your electrical panel and is important for staying safe.
+
+[Learn More About Home Repair Plans Near You](/en-us/home-warranty/combo/){target="_blank"}
+
+### 3\. Find the fuse box
+
+Finding a fuse box sounds simple, but many people (myself included) may not realize where it is until a situation like this arises. House Method notes that [older homes will typically have a fuse box](https://housemethod.com/maintenance/blown-fuse/){target="_blank"}, while those built after 1965 or are remodeled with updated electrical wiring will have a circuit breaker box. Both serve the same purpose and can usually be found in the garage, basement or utility room.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+### 4\. Identify the broken fuse
+
+Then, you will need to determine which fuse has blown. These devices are made up of [wire that can melt and break an electrical circuit](/en-us/blog/buying-guide/electrical-terms){target="_blank"} when the current exceeds a safe level. They act as a safety device to prevent an electrical fire. As such, look for a fuse where the metal has melted or the glass covering appears foggy or discolored - that’s usually the broken unit.
+
+### 5\. Replace the fuse
+
+When it’s time to replace the fuse, it’s important to find one that has the same amperage rating. The easiest way to do this is to take the old fuse to your local hardware store and ask for an exact replacement. Then, it’s as easy as unscrewing the broken fuse and screwing the new one into the socket.
+
+### 6\. Test your new setup
+
+Once everything is squared away in the fuse box, turn the main power back on and make sure the circuit is working. Turn on lights and begin plugging in essential appliances, with care not to overload the circuit that was the problem. If the fuse blows again, it might be time to look into calling a professional electrician.
+
+## When it’s time to call a pro
+
+If your circuit breaker or fuse is constantly tripping, there might be a larger electrical problem to deal with. According to The Spruce, it’s possible your fuse is short circuiting due to [loose wire connections](https://www.thespruce.com/why-do-fuses-blow-1152722){target="_blank"}, damaged wires or an internal wiring problem. You can continue to fix broken fuses, but when the root of the problem is deeper in your electrical wiring, it’s best to call in a professional electrician.
+
+[Learn More About Home Repair Plans Near You](/en-us/home-warranty/combo/){target="_blank"}
+
+While overloaded circuits are usually the cause of a blown fuse, you might want to consider asking a pro to upgrade your wiring if you’re continuously experiencing these problems. You can also move around plug high-energy appliances (like vacuum cleaners) to other rooms so one circuit is not overworked. An experienced electrician can help you determine what upgrades you need to meet to electrical demand of your home.
+
+Continue to brush up on proper electricity use to avoid future fuse breaks. Appliances that need a lot of energy to work, like vacuums and space heaters, are usually culprits for localized power outages in the home.
+
+::: blog-info
+Being prepared before appliance and home system issues arise is always a good strategy. See how [plans from TotalHome Warranty by HomeServe](/en-us/home-warranty/combo/){target="_blank"} can help with the costs of covered repairs.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% else %}
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+{% endif %}
+:::

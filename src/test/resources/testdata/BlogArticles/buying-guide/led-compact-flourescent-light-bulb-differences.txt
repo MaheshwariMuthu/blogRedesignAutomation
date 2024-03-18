@@ -1,0 +1,50 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Differences between Led Light Bulbs vs Compact Fluorescent Light
+headline: 'LED Light Bulbs vs Compact Fluorescent Light Bulbs: Which should you buy?'
+author: Team HomeServe
+tags: ['post', 'Electrical', 'Know Your Equipment']
+publishDate: 2018-10-18
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: lightbulbs.png
+heroAltDescription: Different Types of Lightbulbs
+metaDescriptions: 'LED Light Bulbs vs. Compact Fluorescent Light Bulbs: Which Should You Buy?'
+articleAbstract: Not sure the difference between light bulbs? Unsure of which ones are the best to buy? Learn which light bulbs improve energy efficiency and may help you save you the most money.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Differences between Led Light Bulbs vs Compact Fluorescent Light
+  parent: Electrical-Buying-Guide
+---
+
+It's time for a fresh light bulb - but what kind should you buy to replace the old one?
+
+The days of traditional incandescent light bulbs are gone. Most people now opt for more energy efficient lightbulbs, such as light-emitting diodes and compact fluorescent lamps (CFLs). The Department of Energy estimated that these advanced bulbs [use about 25 to 80 percent less energy than traditional ones](https://www.energy.gov/energysaver/save-electricity-and-fuel/lighting-choices-save-you-money/how-energy-efficient-light){target="_blank"} and last three to 25 times longer.
+
+With those numbers, lighting your home with LEDs and CFLs seems like a no-brainer - but how do you choose between these two types of lightbulbs? Here's what you need to know about these energy efficient lightbulbs to make the right decision:
+
+## What are LED lightbulbs?
+
+These energy-saving bulbs produce light when an electrical current flows through a microchip and illuminates tiny diodes that then emit a visible light. ENERGY STAR estimated that this method of producing light is [approximately 90 percent more efficient](https://www.energystar.gov/products/lighting_fans/light_bulbs/learn_about_led_bulbs){target="_blank"} than traditional incandescent bulbs.
+
+## What are CFL lightbulbs?
+
+These are the curly, spiral lightbulbs that are lit by an electric current flowing between two ends of a gas-filled tube. This current creates an ultraviolet light that hits a fluorescent coating inside the bulb and becomes the light you expect to see from the device. The process requires slightly more energy than other bulbs, which is why it takes about 30 seconds to three minutes for CFLs to reach full brightness. However, once they're fully on, they use about [70 percent less energy than incandescent bulbs](https://www.energystar.gov/products/lighting_fans/light_bulbs/learn_about_cfls){target="_blank"}, according to ENERGY STAR. CFLs are ideal for lights that are used frequently, as they're more cost effective and energy efficient when on for long periods of time.
+
+## How do they compare?
+
+LEDs are directional light sources, while CFLs can emit light and heat in all directions. That difference means LEDs are often more efficient, mostly because they don't require reflectors or diffusers to control the light. This feature is also the reason why LEDs are the superior choice for recessed downlights and task lighting, such as under the cabinets in kitchens.
+
+LEDs further employ thermal management through heat sinks so the bulbs don't emit high temperatures. CFLs, on the other hand, [release about 80 percent of their energy as heat](https://www.energy.gov/energysaver/save-electricity-and-fuel/lighting-choices-save-you-money/led-lighting){target="_blank"}, according to the Department of Energy.
+
+While both are long-lasting bulbs, LEDs often see more lighting years than CFLs. According to estimates from the Department of Energy, a 15-watt CFL bulb has an average life of 10,000 hours, while a 12W LED bulb can brighten spaces for roughly 25,000 hours. Take LED holiday string lights as another poignant example: The Department of Energy estimated that you could buy a string of these lights this year and they would still be working 40 holiday seasons from now.
+
+You can find LEDs and CFLs with ENERGY STAR labels, meaning you can trust the bulbs to be high-performing in color quality, light output and safety.
+
+## Which type should you buy?
+
+While CFLs are certainly more efficient than traditional incandescent bulbs, LEDs earn the crown when it comes to the energy saving battle. Plus, they last longer, reach their full brightness almost immediately and don't contain mercury, which can be a concern for CFLs. With that said, don't worry if you currently have CFLs in your home, but when it's time to replace them, go for LED bulbs.
+
+Along with upgrading your light bulbs, [installing a home lighting control system](/en-us/blog/buying-guide/lighting-control-system-benefits){target="_blank"} could further boost your energy saving efforts. Even the most energy efficient homes can be vulnerable and require electrical repairs.
+
+That’s why being prepared for electrical home repairs is always a good strategy. See how [plans from HomeServe can help]({{ migrationData.homepage }}){target="_blank"} with the costs of covered repairs.

@@ -1,0 +1,84 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Snake’s in a Drain! How to Unclog Your Sink With a Drain Snake"
+headline: "Snake’s in a Drain! How to Unclog Your Sink With a Drain Snake"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-01-17
+basePath: https://library.homeserve.com/m/
+heroImage: 30b0fcacff57251c/Blog-GettyImages-1163260376.jpg
+heroAltDescription: man rotating a drain snake into a kitchen sink to unclog the pipe
+metaDescriptions: Snaking a sink drain, be it in the kitchen, bathroom or any other household sink, is a simple DIY project for any homeowner. All you need is the right tools and steps.
+articleAbstract: Snaking a sink drain, be it in the kitchen, bathroom or, really, any other household sink, is something you don’t need to be a professional plumber to do. You just need the right tools and the right instructions.
+category: ["How To"]
+eleventyNavigation:
+  key: "Snake’s in a Drain! How to Unclog Your Sink With a Drain Snake"
+  parent: HVAC-How-To
+---
+
+Is your sink draining slowly or backed up entirely and you’ve already exhausted not just all the [simpler measures](https://www.homeserve.com/en-us/blog/how-to/unclog-any-drain/) for unclogging it but also your last bit of patience? OK, first, shout out in your best Samuel L. Jackson voice: “Enough is *enough*! I’m using a *[expletive]* snake on this *[expletive]* drain!” Feel better? Good … now it’s time to get to work.
+
+__This May Also Interest You:__ [__How to Use a Drain Snake and Unclog Your Toilet__](https://www.homeserve.com/en-us/blog/how-to/unclog-toilet-drain-snake/)
+
+Snaking a sink drain, be it in the kitchen, bathroom or, really, any other household sink, is something you don’t need to be a professional plumber — or Samuel L. Jackson, for that matter — to do. You just need the right *[expletive]* tools and the right *[expletive]* instructions.
+
+You may be tempted to just grab a bottle of Drano, or some other chemical drain cleaner or solvent, and be done with it. But such products should only be used as a last resort as they may provide just short-term relief without addressing the larger issue. Plus, they’re corrosive and could cause damage to your plumbing  — and then you’ll *really* be cursing up a storm.
+
+Follow these seven steps for an expletive-free experience snaking your sink drain:
+
+## 1. Gear Up
+
+To get started, make sure you have the following equipment you’ll need for the job:
+
+- A 25-foot hand snake (priced anywhere from $16 to $60 at any local hardware store)
+- Adjustable pliers
+- A bowl that fits beneath the piping under your sink
+- Rags
+- Work gloves
+- Protective glasses
+- Teflon tape
+
+## 2. Prep Your Work Area
+
+Clear the area of anything you don’t want to get filthy, as drain cleaning can get wet and dirty. You might also want to lay down utility towels under the sink and on the surrounding floor.
+
+## 3. Find the Drain Trap
+
+Below your sink should be a U-shaped pipe coming down from the drain opening. This is called the drain trap; it seals the drain and keeps sewer gases from escaping. Traps collect hair, sand and food remnants, making them prone to blockage. (It’s worth noting that sink traps also have the added benefit of trapping small objects — such as wedding rings that slip off a soapy finger while washing dishes and get dropped into the drain — making these lost items easy to retrieve.)
+
+Common types of drain traps you might encounter include:
+
+- P-traps
+- Drum traps
+- Union traps
+- Traps with cleanouts
+
+A P-trap with a cleanout and an external cleanout is one of the most common types of trap you’ll find under a kitchen sink. Cleanouts are entry points into the drainage system accessed via a screw-on cap; they can be opened and closed for drain cleaning, clearing blockages or camera inspections.
+
+## 4. Drain Excess Water From the Trap
+
+Place a bowl under the drain to collect water drainage and very carefully remove the cleanout, desanco fitting and trap or cover.
+
+## 5. Start Snakin’
+
+Once the water has stopped dripping, insert the head of your drain snake into the opening and begin feeding the snake 8 to 12 inches at a time while turning the crank on the drum (like the reel on a fishing rod). 
+
+You’ll hit obstructions while feeding the snake into the drain — which could be blockage or it could be a turn in the direction of the drain line. Most blockages are within 10 feet of the fixture, so make sure you keep track of how much of the snake you’ve fed into the line to avoid going too far. (If the blockage is further than 20 feet, you should call in an experienced professional, who’ll come equipped with more advanced tools.)
+
+## 6. Bring ’Er Back
+
+If you feel you’ve reached the blockage with the snake, begin pulling the snake back in and feeding it slowly and carefully back into the drum. Once the snake’s head has emerged from the drain and is exposed, the blockage may or may not be wrapped around it, as some clogs are caused by grease and won’t show up on the head. Experienced professionals are familiar with the feel of a blockage, but it may take you a few attempts before you get to it.
+
+## 7. Check Your Work
+
+Now, it’s time to reconnect the drainage to test if the blockage is clear. You may need to apply teflon tape on the threads for the cleanout-trap cap in order to get a good seal. Make sure to tighten the junctures to avoid water leakage. Once the pipes are properly reconnected, run the water to verify that the drain flows freely.
+
+There, now you can use your sink again. Snaking a sink drain can be tricky beginners, but you’ve done it. Nice *[expletive]* work!
+
+To see the above tips in action, watch the video below.
+
+*Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you the peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood.*
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5j759jOLiwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

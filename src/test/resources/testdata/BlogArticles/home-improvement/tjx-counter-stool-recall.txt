@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Fall Risk: TJX Is Recalling 4,300 Counter Stools Due to Fall and Injury Hazards"
+headline: "Fall Risk: TJX Is Recalling 4,300 Counter Stools Due to Fall and Injury Hazards"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-08-19
+basePath: https://library.homeserve.com/m/
+heroImage: 5824d093a60c65c2/Blog-CounterStoolRecall_TJX.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "TJX is recalling about 4,300 swivel counters stools because they can break or collapse, posing a fall risk and injury hazards."
+articleAbstract: "TJX is recalling about 4,300 swivel counters stools because they can break or collapse, posing a fall risk and injury hazards. The Consumer Product Safety Commission is warning consumers to stop using the recalled stools immediately."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "TJX Recalls Counter Stools Due to Fall and Injury Hazards; Sold at HomeGoods and Homesense Stores"
+  parent: Interior-Home-Home-Improvement
+---
+  TJX is recalling about 4,300 swivel counters stools because they can break or collapse, posing a fall risk and injury hazards. The Consumer Product Safety Commission is warning consumers to stop using the recalled stools immediately.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the Aug. 18 [recall alert](https://cpsc.gov/Recalls/2021/TJX-Recalls-Counter-Stools-Due-to-Fall-and-Injury-Hazards-Sold-at-HomeGoods-and-Homesense-Stores), TJX Companies Inc. of Framingham, Mass., has received 20 reports of the stools breaking and users falling. Seventeen minor injuries have been reported.
+
+This recall involves swivel counter stools with wooden legs, fabric backrests and rivet trim. To check if your stool falls under this recall, look for one of these style numbers printed on the chair’s hang tag: 61057, 61063, 61064, 62332, 65129, 65130, 66413 or 66414.
+
+The stools were manufactured in China and sold at HomeGoods, Homesense and HomeGoods/T.J. Maxx or Marshalls combination stores between January 2021 and May 2021 for about $130.
+
+If you own a recalled stool, you can return it to any HomeGoods or Homesense store for either a full refund or store gift card. Call HomeGoods at 800-888-0776 or visit the store’s [customer service page](https://www.homegoods.com/faq). You can reach Homesense by calling 855-660-4663 or using this [contact form](https://us.homesense.com/contact-us). For more consumer product safety information, visit [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Fall Risk Prompts Recall of 3,100 Sauder Woodworking Bar Stools](https://www.homeserve.com/en-us/blog/home-improvement/sauder-woodworking-barstools-recall/)
+*   [Watch Your Seat: 3,100 StyleWell Dining Chair Sets Recalled for Fall Risk](https://www.homeserve.com/en-us/blog/how-to/Wood-Windsor-Dining-Chair-Recall/)
+*   [Are You Sitting Down? Hillsdale Furniture Recalls 10,500 Stools Over Fall Risk](https://www.homeserve.com/en-us/blog/home-improvement/jennings-stool-recall/)
+*   [Sleep Tight! Casa Kids Recalls Bunk Beds Due to Loose Screws](https://www.homeserve.com/en-us/blog/home-improvement/cabina-bunk-beds-recall/)
+*   [It Could Collapse: Lifetime Products Recalls 43,000 6-Foot Folding Tables](https://www.homeserve.com/en-us/blog/home-improvement/lifetime-products-seminar-table-recall/)

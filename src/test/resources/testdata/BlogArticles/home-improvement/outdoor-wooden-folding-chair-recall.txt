@@ -1,0 +1,34 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Chairs Could Collapse: TJX Recalls 92,000 Wooden Folding Chairs for Fall, Injury Risk"
+headline: "Chairs Could Collapse: TJX Recalls 92,000 Wooden Folding Chairs for Fall, Injury Risk"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-05-28
+basePath: https://library.homeserve.com/m/
+heroImage: 1d7061dafd731ed0/webimage-WoodenFoldingChairRecall_TJX_0001.png
+heroAltDescription: "recall product"
+metaDescriptions: "The TJX Companies Inc., of Framingham, Mass., is recalling about 92,000 folding chairs due to an injury hazard."
+articleAbstract: "The TJX Companies Inc., of Framingham, Mass., is recalling about 92,000 folding chairs due to an injury hazard. According to a May 5 recall alert from the Consumer Product Safety Commission, the Vietnam-made TJX outdoor wooden folding chairs could break, causing the user to fall. TJX has received 18 reports of the chairs breaking or collapsing — 15 of which resulted in falls that caused minor injuries, including neck injuries and cuts."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "TJX Recalls Outdoor Wooden Folding Chairs Due to Fall and Injury Hazards; Sold at T.J. Maxx, Marshalls, HomeGoods and Sierra"
+  parent: Exterior-Home-Home-Improvement
+---
+  The TJX Companies Inc., of Framingham, Mass., is recalling about 92,000 folding chairs due to an injury hazard. According to a May 5 recall alert from the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/TJX-Recalls-Outdoor-Wooden-Folding-Chairs-Due-to-Fall-and-Injury-Hazards-Sold-at-T-J-Maxx-Marshalls-HomeGoods-and-Sierra), the Vietnam-made TJX outdoor wooden folding chairs could break, causing the user to fall. TJX has received 18 reports of the chairs breaking or collapsing — 15 of which resulted in falls that caused minor injuries, including back injuries, neck injuries and cuts.
+
+**This May Also Interest You:** [**Fall Risk Prompts Recall of 3,100 Sauder Woodworking Bar Stools**](https://www.homeserve.com/en-us/blog/home-improvement/sauder-woodworking-barstools-recall/)
+
+Affected chairs have armrests; an oil stain finish; eight slats on the chair back and seven slats on the seat; measure about 22.5 inches long, 21 inches wide and 35 inches tall; and some were labeled with “Nautica” on the tag, while some may be stamped “MADE IN VIETNAM.” Chairs covered by the recall were sold between June 2018 and January 2021 for about $30 apiece at T.J.Maxx, HomeGoods and Marshalls stores nationwide, and online at tjmaxx.com and sierra.com.
+
+The CPSC urges owners to stop using the chairs immediately and contact TJX to participate in the recall and receive a full refund. Owners can also return the recalled chairs to any T.J.Maxx, Marshalls or HomeGoods store for a full refund.
+
+Owners can call TJX at 888-520-0322 or visit the company’s [recall page](https://www.recallrtr.com/foldingchair) for the chairs for instructions on how to proceed with the recall. Owners can also visit tjmaxx.com, marshalls.com or sierra.com and click on “Product Recalls” at the bottom of the page, or go to homegoods.com and click on “Product Info/Recalls” at the bottom of the page.
+
+**More Related Articles:**
+
+*   [Are You Sitting Down? Hillsdale Furniture Recalls 10,500 Stools Over Fall Risk](https://www.homeserve.com/en-us/blog/home-improvement/jennings-stool-recall/)
+*   [Watch Your Seat: 3,100 StyleWell Dining Chair Sets Recalled for Fall Risk](https://www.homeserve.com/en-us/blog/how-to/Wood-Windsor-Dining-Chair-Recall/)
+*   [Don't Sleep on This: 700 HOFISH Mattresses Recalled Over Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/hofish-mattress-recall/)
+*   [Crushing Hazard Leads to Recall of 82,000 Bed Tech Platform Bed Frames](https://www.homeserve.com/en-us/blog/home-improvement/bed-frame-recall/)
+*   [It Could Collapse: Lifetime Products Recalls 43,000 6-Foot Folding Tables](https://www.homeserve.com/en-us/blog/home-improvement/lifetime-products-seminar-table-recall/)

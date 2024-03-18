@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Keep Cool Without an Air Conditioner"
+headline: "No AC? No Sweat. Here's How to Cool Off Without an Air Conditioner"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-09-21
+basePath: https://library.homeserve.com/m/
+heroImage: 71c93ea5926e9b26/Blog-ACVent_MSchmitz_0001.jpg
+heroAltDescription: "hand in front of air vent"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "No air conditioning? You'll be pleased to know that there are other ways to cool off when the mercury climbs."
+articleAbstract: "Whatever your reason for not having AC, you'll be pleased to know that there are other ways to cool off when the mercury climbs. Here are seven of them."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "No AC? No Sweat. Here's How to Cool Off Without an Air Conditioner"
+  parent: HVAC-How-To
+---
+  
+
+Maybe you live in a climate that never gets terribly hot. Maybe you have an apartment that lacks central air conditioning and has windows that prohibit removable units. Maybe you simply don't like the artificial environment AC units create.
+
+**This May Also Interest You:** [**Hot This Summer? Here’s Everything You Need to Know to Keep Cool**](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+Whatever your reason for not having air conditioning in your life, you'll be pleased to know that there are many other ways you can cool off when the mercury starts to climb.
+
+Ceiling Fans
+------------
+
+This isn't a quick fix if you don't already have them, but ceiling fans can go a long way toward making you feel cooler in a room lacking air conditioning. In fact, the [U.S. Department of Energy](https://www.energy.gov/energysaver/fans-cooling) says that in a room with a ceiling fan running, you'll feel about 4 degrees Fahrenheit (2 degrees Celsius) cooler than in one without. Just be sure that you have your ceiling fan directional switch set correctly. In the warm months, the fan should spin in a counterclockwise direction, while in the winter, it should spin clockwise to help push down warm air that gathers at the ceiling.
+
+<img class="detail-image" src="https://library.homeserve.com/m/43e0da0989936d1b/Blog-CeilingFanSwitch_ERossi_3118.jpg" alt="Close up photo of a directional switch on a ceiling fan"/>
+
+Window Fans
+-----------
+
+If you don't already have ceiling fans and don't feel like going through the expense and construction headaches of putting them in, you might want to consider window fans. These rectangular fans sit inside your window frame and either suck hot air out or pull cool air in, depending on how you set them.
+
+When you put these fans in windows, seal around them tightly by lowering the window sash until it meets the top of the fan. Usually, there will be fins that you can pull out to block openings on the side of the fan. Then, use temporary foam insulation to seal up any other openings that you can see. Once your fan is in place, you can set it to exhaust during the day so that it blows hot air outdoors. At night, you can reverse the direction of its operation so that it brings in the cooler evening air.
+
+For two-level homes, the DOE recommends putting your fans in upper-level windows and leaving the lower-level windows open. Heat will rise and get pushed out by the fans.
+
+Fan Hack
+--------
+
+For another fan-based solution, you can use an old tried-and-true method: placing a bowl of ice cubes in front of a floor or tabletop fan. As the ice melts, it will create a cool mist that can be circulated by the fan. If you'd rather not use ice cubes, you can freeze a water bottle and wrap it in a towel. Refreezable ice packs will also work just fine. You'll feel the effects of this method more the closer you sit to the fan, so it's perfect as a desktop or bedside solution.
+
+<img class="detail-image" src="https://library.homeserve.com/m/1aec78e67c4b1483/Blog-IceFan_MSchmitz_0001.jpg" alt="A small electric fan sits atop a mirrored accent table blowing across a white ceramic bowl full of ice."/>
+
+**More Related Articles:**
+
+*   [Got Central Air? Use This Top-to-Bottom Air Conditioner Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioning-maintenance-checklist/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Replacing Your HVAC Filter is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How to Clean a Window AC Unit: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/clean-window-ac-unit/)
+*   [How to Clean an Air Conditioner](https://www.homeserve.com/en-us/blog/how-to/clean-air-conditioner/)
+
+Sheet Hack
+----------
+
+If you don't mind sleeping a little damp, you can soak your bedsheets in cool water and run them through your washing machine's spin cycle. Once the sheets are damp and not dripping wet, try sleeping under them on particularly sweltering nights. If you'd rather not stay moist through the night, you can hang the sheet up in front of a window. The moisture will evaporate in the breeze (if there is one) and, much like the ice hack above, help cool the room a little more.
+
+Close Up
+--------
+
+It might seem counterintuitive to seal your home up during the pleasant days of summer, but when temperatures climb too high, that's exactly what you should do. By keeping windows closed, blinds down and curtains drawn, you will help insulate your house from the beating rays of the sun and keep it cooler. Just rely on those fans to keep air moving and open the windows at night when the air temperature drops.
+
+Be Smart About Appliance Use
+----------------------------
+
+If you can avoid running heat-generating appliances like clothes dryers and ovens on particularly hot days, you at least won't be adding their heat to already high temps. If you must use them, try to only use them at night when things cool down. And, while they are becoming increasingly rare, if you still have incandescent light bulbs in your home, you might want to switch them out for LEDs, fluorescents or halogen bulbs. As much as 90% of the energy in incandescent bulbs is wasted as heat.
+
+Make Use of Your Windows
+------------------------
+
+If you have double-hung windows in which the top sections open independently of the lower sections, you can create a cooling current in your home by using them correctly. What you need to do is open the top of the windows on the downwind side of your home and the bottom section on the upwind side. Upwind is the side of your house that's first hit by the prevailing breezes in your area, while downwind is the side these breezes would exit.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

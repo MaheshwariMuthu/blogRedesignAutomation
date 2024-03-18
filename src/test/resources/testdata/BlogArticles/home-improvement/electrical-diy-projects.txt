@@ -1,0 +1,84 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Electrical Projects You Can and Can't DIY"
+headline: "3 Electrical Projects You Can Do Yourself — and 4 Should You Call an Electrician For"
+author: Mark Soto
+tags: ["post"]
+publishDate: 2022-05-19
+basePath: https://library.homeserve.com/m/
+heroImage: 4e6caad95a67805c/Blog-bigstock-The-Use-Of-The-Stripper-Cutter-338127427.jpg
+heroAltDescription: "electrician using stripper cutter tool to strip the end of the electrical wire when repairing and updating wiring in the home grid"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Electrical projects aren't always the most DIY-friendly. Find out what projects you can safely do yourself."
+articleAbstract: "Electrical projects can be a tricky thing to deal with as a homeowner. Learn what projects you can and can't safely do."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Electrical Projects You Can and Cannot Do Yourself"
+  parent: Electrical-Home-Improvement
+---
+  
+
+Electrical projects are always a tricky thing to deal with. While some may seem easy to do at first, there might be some hidden complications or requirements you need to do them. Some electrical projects require a permit, and others require certification if you want to do them yourself. That’s why sometimes it’s best to leave jobs up to a certified professional that has the knowledge to do things safely.
+
+**This May Also Interest You:** [**How to Fix Electrical Cords and Cables**](https://www.homeserve.com/en-us/blog/how-to/fix-electrical-cords/)
+
+Here’s a list of projects you can do on your own — and the ones you should leave up to the licensed contractors.
+
+DIY Electrical Projects
+-----------------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/b2e0bd45a05216/Blog-BrokenLightbulb_MSchmitz_0001.jpg" alt="broken lightbulb in bathroom vanity"/>
+
+### Changing a Lightbulb
+
+Changing a lightbulb is pretty straightforward and doesn’t require any complicated procedures. Switching to lightbulbs that are more energy-efficient or brighter can do wonders for your home. Just remember to turn off the power first and stand on a stable platform to reduce the risk of falling.
+
+### Adding a Ceiling Fan
+
+A ceiling fan can add additional lighting to an area to brighten it up as well as improve air ventilation. Fortunately, this is a simple project that the average homeowner can tackle. As always, ensure that that power is turned off beforehand and that you’re familiar with the switch colors. Most ceiling fans come with specific and easy instructions you can follow to get the fan set up.
+
+<img class="detail-image" src="https://library.homeserve.com/m/39371f1ef23c8820/Blog-GettyImages-170618095.jpg" alt="an electrician works to install a ceiling fan with a downrod "/>
+
+### Installing Switches
+
+Installing a light switch can be slightly more complicated than other DIY electric projects but still doable for the typical person. However, if it requires a lot of rewiring or shifting things around, it’s better to call in a professional. Simply turn off the breaker for the area and consider testing the wires for live current with a voltage tester as an additional safety precaution. If you haven’t previously labeled your circuit board to determine the switches each breaker pertains to, now is a great time to do it. It can make the job process much faster in the future for any one of your projects.
+
+<img class="detail-image" src="https://library.homeserve.com/m/311df018548a3209/Blog-HomeServeUSA-THW-PhotoShoot-2019ModernFotographicbyDaveNoonan-151of247.jpg" alt="interior electric"/>
+
+**More Related Articles:**
+
+*   [How to Install a Ceiling Light: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-ceiling-light/)
+*   [Socket to Me: How Much Does It Cost to Replace Electrical Outlets?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-installation/)
+*   [How to Install or Replace a Doorbell](https://www.homeserve.com/en-us/blog/how-to/doorbell-installation/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [How Much Does It Cost to Replace an Electrical Panel and Outlets with GCFI?](https://www.homeserve.com/en-us/blog/cost-guide/electrical-outlet-gfci-replacement/)
+
+Call an Electrician for These Projects
+--------------------------------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/412f696642763bb2/Blog-GettyImages-1145855506.jpg" alt="Electrician using a voltage multimeter to test a circuit panel for current"/>
+
+### Replacing a Circuit Breaker
+
+A circuit breaker is responsible for preventing electric overloads that can cause overheating and lead to fires in the worst cases. You don’t want to take a chance when it comes to replacing a circuit breaker due to its important function in keeping your electrical system running properly.
+
+If your circuit breaker trips constantly, you may be using more electricity than it can consistently handle. In these cases, you might be due for an upgrade with a more capable circuit breaker. Another sign yours needs replaced is a burning smell, visible burns or black stains around it. Replacing a circuit breaker involves a lot of active circuits and wires, so instead of trying to do this by yourself, call a professional to get it replaced.
+
+### Installing Dedicated Circuits
+
+If you recently bought a new appliance like an electrical water heater or refrigerator that has a high electrical demand, you may need to install a dedicated circuit for it. This is essential in preventing electrical overloads for existing circuits that might not be able to handle the additional output.
+
+Considering the costs of your new appliance, it can be tempting to save money by installing the dedicated circuit yourself. However, these are just additional costs you’ll have to deal with. Installing a dedicated circuit requires professional knowledge to reduce mistakes and ensure that the breaker doesn’t trip all the time.
+
+<img class="detail-image" src="https://library.homeserve.com/m/424d3d3218754c97/Blog-GettyImages-183819169.jpg" alt="Worker Stripping Wire for Ceiling Speaker Control"/>
+
+### Replacing or Installing Wiring
+
+Replacing old wiring is a must if you live in an older home. Older homes don’t always have the capability of handling the electrical demand of newer devices and appliances. However, this is a job you need to hire an experienced electrician for. Faulty wiring is a common cause of home fires, and an improper job can lead to expensive repairs down the road. If you plan on selling your home anytime soon, improper wiring can also lead to a failed home inspection. The costs you save on installing the wiring yourself will come back to bite you sooner or later.
+
+<img class="detail-image" src="https://library.homeserve.com/m/34fa89a8f8480a17/Blog-GettyImages-1363472862.jpg" alt="Preparing to remove an electrical outlet of the screws for electrical wires"/>
+
+### Replacing Faulty Outlets
+
+It’s certainly possible to install an outlet by yourself. However, there are some warnings signs that signal you probably should have a professional look at it first. Outlets that look burned or feel quite hot can point towards an issue in the wiring behind them. In other cases, if you see sparks once you connect a device, you probably should avoid doing the work yourself for safety purposes. The cause for a faulty outlet is often behind the walls within an overloaded circuit or overheated wire. Replacing the outlet itself probably won’t fix the root cause and may simply delay a much-needed repair. A licensed electrician can determine what’s going wrong behind the scenes and fix things correctly.

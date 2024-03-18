@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Program a Garage-Door Opener"
+headline: "How to Program a Garage-Door Opener: 4 Simple Steps"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-02-11
+basePath: https://library.homeserve.com/m/
+heroImage: 6604bca046d272a1/Blog-GettyImages-153269989.jpg
+heroAltDescription: "Person using garage door opener"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Reprogramming a garage-door opener is a simple process. Here's what to do."
+articleAbstract: "Reprogramming a garage-door opener is a deceptively simple process that can be completed in little to no time at all. No prior technical experience is needed."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Program a Garage-Door Opener"
+  parent: Exterior-Home-How-To
+---
+  Having a fully functional garage-door opener is essential to keeping your personal property safe and secure. And coming home to a garage door that’s open and well-lit is truly convenient. Still, a garage-door opener that’s not functioning properly can quickly lose all of that wonderful convenience and safety. That’s why making sure your garage door is programmed properly is one of the best ways to make sure your home is well protected.
+
+**This May Also Interest You:** [**Common Garage Door Problems and How to Repair Them**](https://www.homeserve.com/en-us/blog/how-to/common-garage-door-problems/)
+
+Nearly all garage-door openers come pre-programmed to work with any remote control that comes with it. Still, there are several reasons why you may need to reprogram your opener and the remote. Perhaps your remote has been misplaced, stolen or damaged in some way. Or, maybe you purchased a new remote for a new vehicle, and your need it to work with your opener.
+
+Regardless of the scenario, reprogramming a garage-door opener is a deceptively simple process that can be completed in little to no time at all. What’s more, you don’t need any prior technical experience. That said, if you run into difficulties, never hesitate to call in a repair technician to come reprogram your opener.
+
+How Do You Tell If You Need to Program Your Opener?
+---------------------------------------------------
+
+Generally speaking, if your remote is no longer responding, it’s a good indication that it needs to be reprogrammed. Still, before you start the reprogramming processes, check the unit to make sure nothing else is wrong. Check to see if the unit is in the locked position, that it is plugged in and that the batteries in your remote don’t need replacing. It might sound obvious, but replacing the batteries on garage-door remotes may slip your mind because you don’t need to do it very often.
+
+  
+Additionally, there are some other warning signs that can indicate larger problems with your garage door that programming won’t fix. For instance, if your garage door won’t open or close, even when you press the wall control, it’s likely that the opener is damaged in some way. Similarly, if your unit has a slow response time from when you press the open button, it may indicate a larger issue with your opener.
+
+If you’re experiencing any of these issues, it’s important that you contact a professional as soon as possible to properly diagnose and repair the issue. That way, you can prevent future damage from occurring.
+
+Programming Your Garage-Door Opener
+-----------------------------------
+
+Although programming a garage-door opener is a fairly easy process that nearly any homeowner can complete, each brand’s instructions may differ slightly. The following are general guidelines designed to help you program three of the most popular brands: LiftMaster, Chamberlain and Genie.
+
+### Step 1: Check the Brand
+
+Start by making sure your new remote is the same brand as the opener that you’re using. If the brands aren’t the same, the remote won’t work. That’s because the remotes and openers operate on specific frequencies that use different information.
+
+### Step 2: Locate the LEARN Button
+
+Then, find and locate the LEARN button on the opener. Sometimes, the LEARN button can be rather hard to find. If you have a wall control in your garage, try looking there, as the buttons are usually on both the remote and the wall unit. If you still can’t locate it, try removing the light cover on the wall unit, as it could be located inside the cover as well.
+
+**More Related Articles:**
+
+*   [A DIY Guide to Replacing Your Garage-Door Spring](https://www.homeserve.com/en-us/blog/how-to/replace-garage-door-spring/)
+*   [How Much Do Smart Garage-Door Openers Cost?](https://www.homeserve.com/en-us/blog/cost-guide/smart-garage-door-opener-services/)
+*   [Is a Smart Garage Door Opener a Wise Investment?](https://www.homeserve.com/en-us/blog/home-improvement/smart-garage-door/)
+*   [How to Open a Garage Door Manually](https://www.homeserve.com/en-us/blog/how-to/open-garage-door-manually/)
+*   [How Much Does an Insulated Garage Door Cost?](https://www.homeserve.com/en-us/blog/cost-guide/insulated-garage-door/)
+
+### Step 3: Press OPEN on the Remote
+
+Once you find the LEARN button, press it until it starts to flash. Note: If you have a LiftMaster equipped with a “myQ” smart home control panel, you’ll need to press the button twice.
+
+Then, press the OPEN button on your garage door remote. Typically, you’ve got a roughly 30-second time limit after pressing the LEARN button and pressing the OPEN button on the remote.
+
+### Step 4: Finish and Test
+
+After you’ve pressed the OPEN button, let the remote finish the process for about a minute. Then, press the open button on your remote again. If it works, that means you’ve successfully paired and programmed your garage door remote. Open and close the door a few times to make sure the programming was completely successful.
+
+Keep Your Home Safe and Secure
+------------------------------
+
+Aside from the added convenience, making sure your garage-door opener is in good working order is an important aspect of home security. Luckily, programming a garage-door opener is a remarkably simple task. That said, if you have any specific questions during the programming process, consult the manufacturer's instructions. And if you happen to suspect any larger issues with your opener, don’t wait to call a repair technician, as additional damage might very well occur.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2K4e4feg7_8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="EV Charger Installation | 4 Things to Consider"></iframe>

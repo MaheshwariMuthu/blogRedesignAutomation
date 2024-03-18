@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Biannual State Home Survey
+headline: Biannual State Home Survey - Costs of unexpected Home repairs
+author: Team HomeServe
+tags: ['post']
+publishDate: 2017-11-08
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: homeWarrantyHS.jpg
+heroAltDescription: Repairing Dishwasher
+metaDescriptions: Most homeowners aren't prepared for the cost of unexpected home repairs.
+articleAbstract: Most homeowners aren't prepared for the cost of unexpected home repairs.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Biannual State Home Survey
+  parent: Interior-Home-Home-Improvement
+---
+
+:::: materials
+## HomeServe 4th Biannual State of the Home Survey
+::::
+
+:::: list-none
+* Nearly 1 in 3 (31 percent) Americans don’t have at least $500 set aside to cover an unexpected emergency expense
+* Americans believe car repairs (52 percent), medical emergencies (49 percent) or home repair emergencies (42 percent) could cause an unexpected expense for them in the next 12 months
+* If they had an extra $1,000, the top 3 things Americans would put the funds toward are paying down credit card debt or loans (24 percent), building personal savings (19 percent) or taking a vacation or trip (16 percent)
+::::
+
+**Norwalk, CT** – A sizable portion of Americans are not prepared to cover the costs of an unexpected emergency expense. Almost 1 in 5 Americans (19 percent) reported having no money set aside for dealing with the costs of an unexpected emergency expense – contributing to the nearly one third of Americans (31 percent) who don’t have at least $500 set aside to cover  an unexpected expense. On the other end of the spectrum, over a quarter of Americans (26 percent) said they had $8,000 or more set aside for unexpected emergency expenses. The survey suggests Americans aged 65 and over are likely to have the most money set aside for unplanned expenses, with nearly half (48 percent) of Americans within the age group reporting having $8,000+ in emergency funds (vs. 20 percent of those ages 18-64). In comparison, Americans aged 18-34 were most likely (45 percent) to have $1,000 or less in emergency funds (vs. 24 percent of those ages 35+), suggesting a notable gap in the state of finances between older and younger generations. 
+
+HomeServe is a leading provider of home repair solutions, announced these findings as part of its Winter 2017 edition of the **HomeServe Biannual State of the Home Survey**. The twice annual survey, now in its fourth edition, reports on the financial impact of home repairs and energy use facing Americans. The survey was conducted online by Harris Poll on behalf of HomeServe from March 6-8, 2017, among over 2,000 U.S. adults ages 18 and older.
+
+## The emergencies Americans anticipate
+
+Beyond the ability to cover their costs, HomeServe also surveyed Americans on the types of unexpected expenses they believe could be a challenge for them in the next year. Over half of Americans (52 percent) cited car or vehicle repairs could cause them an unplanned expense in the next 12 months. This finding could be a potential result of today’s consumers holding onto their vehicles longer than ever. According to IHS Markit, the average length of vehicle ownership in the U.S. measured [a record 79.3 months](http://www.businesswire.com/news/home/20161122005119/en/Vehicles-Older-Average-Age-Light-Cars-Trucks){target="_blank"} at the end of 2015 – nearly doubling the [same measure from Q1 2005](http://mms.businesswire.com/media/20150729005398/en/478914/5/IHS_Automotive_-_Length_of_vehicle_ownership_q1_2005-2015.jpg?download=1){target="_blank"}.
+
+Nearly half of Americans (49 percent) cited medical emergencies as a potential unexpected expense for them in the next 12 months– a finding with added significance given the level of national attention and political debate around the topic of healthcare in recent months. 
+
+Among the different types of anticipated emergencies, over 2 in 5 Americans (42 percent) noted home repair emergencies as a likely potential cause of an unexpected expense in the next 12 months. However, when asked specifically about the likelihood of actually experiencing a major home repair emergency in the next year, 71 percent of Americans believed it was not likely. This was in contrast to the 54 percent of Americans reporting that they had dealt with a home emergency repair in the past year. These findings remain roughly consistent with data from HomeServe’s Summer 2016 and Winter 2016 editions of the survey, suggesting that most Americans continue to believe they will not experience a home repair emergency in the year ahead, yet over half consistently recall experiencing one in the past 12 months.
+
+## Preparing for emergency Home repair costs
+
+While Americans’ expectations and reality in regard to home repair emergencies are not aligned, the HomeServe survey found that homeowners are saving more, which may aid in being better prepared for unexpected home repair costs. Just under half of homeowners with money set aside for home repair emergencies (48 percent) reported having $5,000 or more in funds – a nearly 20 percent increase from the Summer 2015 edition of the survey (29 percent in Summer 2015).
+
+The increase in homeowners with a sizable home repair emergency fund likely explains why – among homeowners  who had some money set aside – the percentage with $1,000 or less fell from 52 percent over the approximately 20 months since the Summer 2015 survey to 35 percent in the Winter 2017 edition. Furthermore, 16 percent of homeowners cited having no money set aside to cover the costs of a home repair emergency, down from the 25 percent found in the Summer 2015 survey. Overall, these survey findings suggest that since the summer of 2015, the state of household finances among American homeowners has steadily improved.
+
+“While the new survey suggests that American homeowners are steadily enhancing their financial position for dealing with unexpected home emergency repairs, spending savings in this way may not be their preferred use of available funds,” said Tom Rusin, CEO of HomeServe USA. “The bill that comes with repairs or replacements of a damaged water service line, malfunctioning HVAC system or blocked sewer pipe can rise well into the thousands of dollars. As anyone might expect, the new edition of the survey shows people would prefer to use available savings toward something more enjoyable, such as a vacation.”
+
+## How Americans would use extra funds
+
+Service plans from HomeServe can provide a low-cost line of defense for homeowners, protecting them in the event of a repair emergency such as a leaking water service line, which can cost $2,500 on average to replace nationally. Given the choice, homeowners would want to use their money in different ways – especially if the savings from avoided costs could be put to use as extra funds for other, more productive needs.
+
+When asked how they might utilize an extra $1,000, 24 percent said they would use the money to pay down debt from credit cards or loans, while 19 percent of Americans said they would put the funds towards building their personal savings. Sixteen percent of Americans would use the extra funds to take a vacation or trip. Notably, parents of children under 18 were less likely than those who do not have children under 18 to opt for building out personal savings (10 percent vs. 22 percent, respectively), but more likely than those who do not have children under 18 to use the extra $1,000 towards a vacation or trip (21 percent vs. 14 percent, respectively).
+
+However, the HomeServe survey found that older Americans aged 65 and over were more likely than younger age groups to use the money towards home repairs or renovations (13 percent vs. 5 percent of those ages 18-44 and 7% of those ages 55-64). This finding reinforces findings from a 2015 HomeServe survey, which saw older homeowners expressing plans to live in their current homes till well into their retirement and beyond.  
+
+“Whether it’s their ability to take on the financial burden of home repairs, or other types of unplanned expenses that may come their way, Americans have many considerations to make as they assess their household finances,” added Rusin. “With a good portion of Americans insufficiently prepared to take on unexpected financial hardships, it’s more important than ever for businesses like ours to serve as an advocate to support the needs of everyday homeowners. We hope to help Americans put more of their hard earned money towards the things they want to prioritize – and less to things they wish they didn’t have to.”
+
+## Survey Methodology
+
+The HomeServe Biannual State of the Home Winter 2017 survey was conducted online within the United States by Harris Poll on behalf of HomeServe from March 6-8, 2017 among 2,178 adults ages 18 and older. The Summer 2016 survey was conducted online within the United States by Harris Poll on behalf of HomeServe from August 3-5, 2016 among 2,027 adults ages 18 and older. The Winter 2016 survey was conducted online within the United States by Harris Poll on behalf of HomeServe from February 3-5, 2016 among 2,178 adults ages 18 and older. The Summer 2015 survey was conducted online within the United States by Harris Poll on behalf of HomeServe from July 17-21, 2015 among 2,024 adults ages 18 and older. The March 2015 survey was conducted online within the United States by Harris Poll on behalf of HomeServe from March 20-24, 2015 among 2,021 adults ages 18 and older. This online survey is not based on a probability sample and therefore no estimate of theoretical sampling error can be calculated.
+
+## About Harris Poll
+
+Over the last 5 decades, Harris Polls have become media staples. With comprehensive experience and precise technique in public opinion polling, along with a proven track record of uncovering consumers’ motivations and behaviors, The Harris Poll has gained strong brand recognition around the world. [Contact](mailto:ConsumerInsightsNAInfo@nielsen.com) us for more information.
+
+## About HomeServe
+
+HomeServe USA Corp. (HomeServe) is a leading provider of home repair solutions serving 3.1 million customers across the US and Canada under the HomeServe, Home Emergency Insurance Solutions, Service Line Warranties of America (SLWA) and Service Line Warranties of Canada (SLWC) names. Since 2003, HomeServe has been protecting homeowners against the expense and inconvenience of water, sewer, electrical, HVAC and other home repair emergencies by providing affordable repair coverage, installations and quality local service. As an A+ rated Better Business Bureau Accredited Business, HomeServe is dedicated to being a customer-focused company supplying best-in-class repair plans and other services to consumers directly and through over 475 leading municipal, utility and association partners.

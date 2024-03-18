@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Locksmith Cost?"
+headline: "Locked Out? How Much Does a Locksmith Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-12-02
+basePath: https://library.homeserve.com/m/
+heroImage: 3e090c7315a4a2a1/Blog-GettyImages-1346116399.jpg
+heroAltDescription: "Closeup portrait professional female locksmith fixing door lock"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "This guide unlocks the answers to some common locksmith questions, including how much it’ll cost to hire one. "
+articleAbstract: "This guide unlocks the answers to some common locksmith questions, including how much it’ll cost to hire one. "
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "Locked Out? How Much Does a Locksmith Cost?"
+  parent: Exterior-Cost-Guide
+---
+  There are many reasons you might want to call a locksmith — from using their emergency services if you've locked yourself out, to securing a new house after you move in. As with any skilled service, it’s best practice to shop around for locksmith estimates to make sure you’re getting the best deal.
+
+Here we unlock the answers to some common locksmith questions, including how much it’ll cost to hire one.
+
+**How Much Does a Locksmith Charge?**
+-------------------------------------
+
+The average cost for a home-related job will vary depending on what you're asking the locksmith to do and whether it's an urgent job. According to HomeGuide, the average price to hire a locksmith is between $85 and $175, regardless of the job. [Locksmith rates](https://homeguide.com/costs/locksmith-cost) start at $65 to $185 to unlock a house and go up to $75 to $220 for bigger jobs such as changing the locks on a car.
+
+Locksmith prices also vary depending on the time of day and whether it's an appointment or an emergency booking. A 24-hour emergency locksmith will likely charge more than a locksmith who is booked to come out during working hours to change your locks.
+
+Before you call an emergency locksmith, make sure you really need to do so. If you're locked out of your home, call the trusted friend or relative who has _definitely_ held onto that spare key you gave them. If you can’t get into your garage, use the emergency release mechanism to override the electronic system. You'll save yourself a lot of money if you work around the problem now and book a locksmith to come out during working hours to actually fix it.
+
+Locksmiths may charge more to do work on commercial property than they do for household work. Once you've found an affordable locksmith, keep their contact details so you can use them for future work.
+
+**Is It Cheaper to Rekey or Replace Locks?**
+--------------------------------------------
+
+In general, it costs slightly less to rekey locks. [Locksmiths usually charge](https://homeguide.com/costs/locksmith-cost#add) between $75 and $130 to rekey clocks. Fees for changing household locks range from $75 to $220.
+
+How much a locksmith charges will depend on how many locks you want them to change, the type of lock you have and the type of replacement lock you're asking for. [Common home locks include](https://www.locksmiths.co.uk/faq/door-lock-types-guide/):
+
+*   5-lever mortise lock
+*   5-lever mortise deadlock
+*   Multipoint locking system
+*   Rim automatic deadlatch
+*   Euro cylinder lock
+
+There are benefits and downsides to each of these lock types, and certain lock designs are better suited to certain types of doors. For example, you're unlikely to find a 5-lever mortise lock on a standard, UPVC entry door; multipoint locking systems are often used with this style.
+
+If you're not sure what kind of lock to purchase for a door in your home, ask your locksmith for advice. A reputable locksmith will recommend a lock that is easy to use and will keep your home secure.
+
+It's a good idea to replace or rekey your locks if you're moving into a new house or if you have a roommate or tenant who is moving out of your property. Don't simply take it on faith the previous occupant has handed over the only copies of their keys. Change the locks to protect yourself, your family and your valuables.
+
+**Can You Change Locks Yourself?**
+----------------------------------
+
+If you don't want to pay for professional work, you may be able to install or replace a lock yourself. Even installing a deadbolt is a reasonably simple DIY project. If you enjoy fixing things around the home, it's likely you already have most of the tools and equipment required for deadbolt installation, and the locks themselves are inexpensive.
+
+**Do You Tip a Locksmith?**
+---------------------------
+
+Tipping a locksmith is not expected, and it's not common for people to give a tip to a locksmith who comes out to change or rekey their locks. Emergency locksmiths don't expect tips either, and the fees they charge ensure they're well compensated for attending your property during off-hours or on the weekend.
+
+You may wish to tip your locksmith a nominal amount such as $5 or $10 if they come to your aid during bad weather or if they're able to resolve your issue very quickly. While tips are always appreciated, many locksmiths are self-employed and rely on word of mouth and social media reviews for future business. A positive review could help an independent locksmith far more than a one-off tip would.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

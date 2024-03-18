@@ -1,0 +1,84 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Everything You Need to Know About Your Dryer's Cycles and Settings"
+headline: "Everything You Need to Know About Your Dryer's Cycles and Settings"
+author: Jenn MacDonald
+tags: ["post"]
+publishDate: 2023-10-26
+basePath: https://library.homeserve.com/m/
+heroImage: 6b5a0ecfa1bae433/Blog-IMG_3758_Dryer_LL.jpg
+heroAltDescription: "outside of a white dryer"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Each dryer setting provides a different temperature and drying time, which impacts how fabrics come out at the end of a cycle."
+articleAbstract: "To help protect your clothing from damage, it's important to choose the right dryer cycle before starting your next load.  Each dryer setting provides a different temperature and drying time, which impacts how fabrics come out at the end of a cycle. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Everything You Need to Know About Your Dryer's Cycles and Settings"
+  parent: Appliances
+---
+  There's something satisfying about pulling a load of clean, warm laundry from the clothes dryer — unless you discover your favorite shirt has shrunk or your sweater is misshapen. To help protect your clothing from damage, it's important to choose the right dryer cycle before starting your next load.
+
+**This May Also Interest You:** [**Everything You Need to Know About Dryer Repair Costs**](https://www.homeserve.com/en-us/blog/cost-guide/dryer-repair-cost/)
+
+Each dryer setting provides a different temperature and drying time, which impacts how fabrics come out at the end of a cycle.
+
+Tips for Using Your Clothes Dryer
+---------------------------------
+
+Before you get started, check the labels on your textiles to understand the best way to care for them. If the instructions say dry-clean only, it's best to take the item to your neighborhood dry cleaner. When you're not sure which dryer setting to use, choose a low temperature or run the dryer for less time.
+
+Keep in mind that each model of clothes dryer is different, so it's best to read your owner's manual to understand the specific nuances of your machine.
+
+9 Common Dryer Cycles to Know About
+-----------------------------------
+
+### Regular/Normal
+
+Most people default to the regular cycle when throwing wet clothes into a dryer. But what do manufacturers consider a normal load of laundry?
+
+The regular setting uses high heat to dry items quickly. It's best used for sturdy fabrics that can withstand hot temperatures. Sweatshirts, jeans, towels and bedding are usually dried on a regular cycle.
+
+### Automatic Dry
+
+While a regular dryer cycle runs until the timer's up — even if the clothes are still wet — an automatic dry setting is an eco-efficient option. Models with the auto-dry feature are equipped with sensors in the dryer tub that detect the level of moisture in your laundry. The appliance turns off when it senses your clothing is dry, so the machine doesn't run longer than necessary.
+
+### Permanent-Press Cycle
+
+The permanent-press setting uses medium heat during the dry cycle to reduce the chances of wrinkling. You’ll often see the permanent-press dryer symbol on items constructed from synthetic fibers, such as polyester, rayon, nylon or spandex. Permanent press is gentler on clothing and can often be used if the care instructions specify to tumble dry on low.
+
+Some models of clothes dryers switch to a cooler temperature at the end of the permanent-press cycle to help release wrinkles before they set into the clothing.
+
+### Delicate
+
+The delicate cycle uses low heat to help safeguard fabrics such as thin cotton, knit, silk, satin and lace. Items with embroidery, iron-on decals, sequins or embellishments may also have care labels recommending a gentle dryer cycle. These lightweight or fragile fabrics can be damaged or pulled out of shape in a hot dryer.
+
+In addition to running at a lower temperature, the delicate setting typically has fewer turns of the dryer drum for more gentle treatment of clothing.
+
+**More Related Articles:**
+
+*   [Here’s Why Your Clothes Dyer Is Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/dryer-making-noise/)
+*   [How Much Does a Clothes Dryer Cost?](https://www.homeserve.com/en-us/blog/cost-guide/clothes-dryer/)
+*   [Need to Vent? Here’s How to Install a Dryer Vent](https://www.homeserve.com/en-us/blog/how-to/install-dryer-vent/)
+*   [How Much Does It Cost to Install a Dryer Vent?](https://www.homeserve.com/en-us/blog/cost-guide/dryer-vent-installation/)
+*   [Here’s How to Change the Direction the Door Swings on Your Washer and Dryer](https://www.homeserve.com/en-us/blog/how-to/reverse-washer-dryer-door/)
+
+### Timed Dry
+
+With the timed-dry setting, you can customize how long a cycle runs, which can save energy. This is convenient if your laundry needs a quick 5- or 10-minute touch-up after a regular cycle or you want to partially dry clothes and hang-dry them while damp to prevent wrinkling. On many dryers, timed dry is the highest temperature setting.
+
+### Steam
+
+A steam setting combines heat with moist air, adding humidity during a dryer cycle. This helps smooth out creases, soften fabrics and reduce static cling without the use of dryer sheets. You can also use a steam cycle for clothes that don't need washing but could use a refresh. You can give the items a quick steam in the dryer to perk them up and eliminate odors.
+
+### Steam Sanitize
+
+The sanitize setting uses hot air and steam to remove dust, pollen, dirt and germs from materials that can withstand heat. It's a handy setting if you want to ensure pillows and bedding are free of allergens, for example, or clean items you might not want to put in the washing machine, such as treasured stuffed toys.
+
+### Air Dry/No-Heat
+
+The air dry or no-heat setting tumbles clothing without heat, using room temperature air. Also known as air fluff, this setting is commonly used for items that aren't wet but could use plumping up to remove pet hair or dust from fabric. It's also useful for freshening up items taken out of storage, such as clothing, blankets, pillows or linens.
+
+### Heavy Duty
+
+Thick, sturdy materials do well on the heavy-duty cycle. This setting delivers high heat and a longer cycle time to ensure bulky items, such as work gear, quilts and small rugs, are thoroughly dried. If you're tossing in items such as blankets that can get twisted, add some dryer balls to the load to keep the fabric spread out and ensure the hot air keeps circulating throughout.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

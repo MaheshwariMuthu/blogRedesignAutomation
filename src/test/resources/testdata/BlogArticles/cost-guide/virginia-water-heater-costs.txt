@@ -1,0 +1,51 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Virginia Water Heater Costs: How Much Does It Cost to Repair or Replace a Water Heater in Virginia?"
+headline: "How Much Does It Cost to Repair or Replace a Water Heater in Virginia?"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-07-10
+basePath: https://library.homeserve.com/m/
+heroImage: 3ec374f279568035/Blog-GettyImages-1040786464.jpg
+heroAltDescription: "Virginia Welcome Sign"
+metaDescriptions: "Virginians: These numbers should give you a ballpark idea of how much you’ll have to shell out to service your water heater where you live."
+articleAbstract: "Virginians: It’s best to have some idea of what you’re going to have to pay to repair or replace your water heater before you start calling around for estimates. These numbers should give you a ballpark idea of how much you’ll have to shell out in your state."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Repair or Replace a Water Heater in Virginia?"
+  parent: HVAC-Cost-Guide
+---
+  Virginia may be for lovers, but it’s hard to love a broken water heater. That said, Virginians won’t hate this: The cost to service a water heater in the Old Dominion is lower than the national average.
+
+**This May Also Interest You:** [**How Much Does It Cost to Repair or Replace a Water Heater?**](https://www.homeserve.com/en-us/blog/cost-guide/repair-or-replace-water-heater/)
+
+When your water heater goes kaput, it's not so much a matter of _whether_ you should have it serviced, but how much that service will cost. And if your hot water is already out, the last thing you want right now is to be hit with out-of-this-world service fees. It’s best to have some idea of what you’re going to have to pay before you start calling around for estimates. These numbers should give you a ballpark idea of how much you’ll have to shell out.
+
+Repair and replacement costs vary depending on where you live. For comparison, the national average for diagnosis is $99, for repair is $493 and for replacement is $1,741.
+
+The following average prices are based on aggregated HomeServe data reported by our network of contractors across the state of Virginia.
+
+Water Heater Diagnosis: $84
+---------------------------
+
+The diagnostic fee is what the technician will charge you to tell you what’s wrong with your system and whether it needs to be repaired or replaced. In Virginia, this fee is about 15% lower than the national average.
+
+Water Heater Repair: $295
+-------------------------
+
+Your technician will be able to tell you what’s wrong with your water heater — whether it’s a broken heating element or a faulty thermostat. This average repair price includes replacement parts and the labor to install them. Repairs cost Virginians an average of 40% less than the U.S. overall.
+
+Water Heater Replace: $1,592
+----------------------------
+
+Water heaters only last about 10 years. If it’s _been a brick_ since you bought yours, a breakdown might be a sign it’s nearing the end of its useful life. In that case, you'll need to spring for a new one. Virginia’s average replacement price is nearly 9% less than the nation’s.
+
+(Note that HomeServe water heater data should generally be assumed to refer to conventional “tanked” models — the most common type — as opposed to tankless or “on-demand” models, which can cost roughly twice as much.)
+
+**More Related Articles:**
+
+*   [7 Tell-Tale Signs of a Water Heater Not Working](https://www.homeserve.com/en-us/blog/home-improvement/water-heater-warnings-signs/)
+*   [How to Maintain a Hot Water Heater](https://www.homeserve.com/en-us/blog/home-improvement/hot-water-heater-maintanence/)
+*   [Types of Hot Water Heating Systems](https://www.homeserve.com/en-us/blog/buying-guide/hot-water-heater-systems)
+*   [Water Heater Installation Costs: Tank Vs. Tankless](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-installation-cost)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)

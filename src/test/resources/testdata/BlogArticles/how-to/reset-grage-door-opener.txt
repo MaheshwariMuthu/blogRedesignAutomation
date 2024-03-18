@@ -1,0 +1,60 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Reset Your Garage-Door Opener"
+headline: "Here's How to Reset Your Garage-Door Opener"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-25
+basePath: https://library.homeserve.com/m/
+heroImage: 6604bca046d272a1/Blog-GettyImages-153269989.jpg
+heroAltDescription: "Person using garage door opener"
+metaDescriptions: "The steps for how to reset a garage-door opener manually vary between models. Here's a general how-to guide."
+articleAbstract: "If you're moving or have lost the key for your garage-door opener, you'll want to reset it so you can feel confident the garage is secure. The steps for how to reset a garage-door opener manually vary between models. Here's a general how-to guide."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Reset Your Garage-Door Opener"
+  parent: Exterior-Home-How-To
+---
+  If you're moving or have lost the key for your garage-door opener, you'll want to reset it so you can feel confident your garage is secure.
+
+**This May Also Interest You:** [**How Much Do Smart Garage-Door Openers Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/smart-garage-door-opener-services/)
+
+The steps for how to reset a garage-door opener manually vary between models. In most cases, the process involves pressing and holding a specific key to clear the existing codes and then reconfiguring the remote or unlock code. Here’s an overview.
+
+Do Garage-Door Openers Have a Reset Button?
+-------------------------------------------
+
+Most modern garage-door openers have a button on them that can be used to reprogram the unit. This will usually be labeled as either “LEARN” or “HOME,” depending on the make of the device. There should be an LED next to that button that indicates the current status of the unit.
+
+You will need to open the garage door to find the reset button. It will most likely be concealed in a box next to the motor unit.
+
+How Do You Reset a Garage-Door Opener Manually?
+-----------------------------------------------
+
+To reset a garage-door opener manually using the opener unit, locate the LEARN or HOME button. Press and hold that button for several seconds until the LED next to the unit goes out. This will reset the unit and unlink any remote-control devices that were associated with it.
+
+You will then need to manually re-pair each remote with the garage-door opener unit, just as you did when you first installed the garage-door opener.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Repair a Garage Door?](https://www.homeserve.com/en-us/blog/cost-guide/garage-door-repair-cost/)
+*   [How to Open a Garage Door Manually](https://www.homeserve.com/en-us/blog/how-to/open-garage-door-manually/)
+*   [Is a Smart Garage-Door Opener a Wise Investment?](https://www.homeserve.com/en-us/blog/home-improvement/smart-garage-door/)
+*   [How to Program a Garage-Door Opener: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/program-garage-door-opener/)
+*   [How Much Value Does a New Garage Door Add to Your Home?](https://www.homeserve.com/en-us/blog/home-improvement/garage-door-home-value/)
+
+How Do You Reset a Garage-Door Remote?
+--------------------------------------
+
+Once the remotes are unlinked from the unit, press the LEARN button on the opener control panel again. The LED will light up, indicating you are ready to program the garage-door opener.
+
+Next, press the button on the remote control that you want to program. You should see the light bulb blinking, indicating that the remote is ready to be programmed. Use the keypad to enter the PIN you want to use with the remote, and press the LEARN button again to finish programming the remote.
+
+Most openers give you 30 seconds between pressing the LEARN button and completing the programming step. If you take too long to enter the desired PIN, you may have to repeat the process to program your garage-door remote.
+
+What If You Don’t Know the Code?
+--------------------------------
+
+If you've lost your opener remote or forgotten the code so you can't even use the control panel, you may need to open your garage door manually. Electronic garage-door opener units come with a key that you can use in the event of an emergency or power failure. Opening and closing garage doors is just a matter of using this key and pulling the emergency release handle or cable.
+
+If you're inside the garage and the control panel or mechanism fails, you can open the garage door from the inside using the emergency release mechanism.

@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does an Air Source Heat Pump Cost?"
+headline: "How Much Does an Air Source Heat Pump Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-10-23
+basePath: https://library.homeserve.com/m/
+heroImage: 110154c6ef74bc06/Blog-GettyImages-1332792090.jpg
+heroAltDescription: "Air Conditioner And Heat Pump"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Air-source heat pumps are the most common types for residential use. Here's how much they cost to install."
+articleAbstract: "Air-source heat pumps are the most common types for residential use, and they work by transferring heat from the outside air to your house. Here's how much they cost to install."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does an Air Source Heat Pump Cost?"
+  parent: HVAC-Cost-Guide
+---
+  Air-source heat pumps are the most common types for residential use — versus ground-source, water-source, electrical and hybrid variants — and they work by transferring heat from the outside air to your house. The heat pump is attached to the side of the house and transfers heat via compression in two coils of conductive copper tubing.
+
+**This May Also Interest You:** [**How Much Does a Heat Pump Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/heat-pump/)
+
+When heating is needed, the liquid refrigerant in the outside coil draws heat from the air and evaporates, moving into the inside coil. The gas condenses into liquid and channels the warmth this generates to your home heating system.
+
+Air-Source Heat Pump Prices
+---------------------------
+
+Although the final cost of installing an air-source heat pump﻿ depends on its capacity and brand, [HomeGuide](https://homeguide.com/costs/heat-pump-cost) says you can expect to pay anywhere from $4,000 to $8,000 (CAD 5,489 to CAD 10,977), or up to $12,000 (CAD 16,466) for high-end heat pumps, according to HomeGuide. These figures include the cost of the air-source heat pump itself and approximately $1,200 to $3,500 (CAD 1,647 to CAD 4,803) for installation labor.
+
+Further affecting the cost of an air-source heat pump is its SEER, or seasonal energy efficiency rating. The U.S. Department of Energy states that 14 is the lowest allowable SEER rating for a heat pump, whereas models rated at 18 SEER or above are generally considered the most efficient on the market. Combine the cost of a 17 to 18 SEER heat pump with installation expenses, and you can expect to pay anywhere from $6,000 to $9,000 (CAD 8,233 to CAD 12,349) or more.
+
+Air-Source Cost Savings
+-----------------------
+
+Once mainly the province of warmer parts of the country, air-source heat pumps have expanded their usefulness — and, thus, grown their popularity. Energy officials cited a study by Northeast Energy Efficiency Partnerships, showing that when electric-resistance and oil-based systems were replaced with air-source heat pumps in the Northeast and Mid-Atlantic regions, the annual savings were between 3,000 kilowatt-hours and 6,200 kWh— around $690 to $1,426 (CAD 947 to CAD 1,957) based on an average [cost per kilowatt-hour](https://www.energysage.com/local-data/electricity-cost/#:~:text=As%20of%20February%202023%2C%20the,based%20on%20where%20you%20live.) of $0.23 (CAD 0.32).
+
+“Air-source heat pumps have been used for many years in nearly all parts of the United States, but until recently, they have not been used in areas that experienced extended periods of subfreezing temperatures,” the [Energy Department](https://www.energy.gov/energysaver/heat-pump-systems) said in a statement. “However, in recent years, air-source heat pump technology has advanced so that it now offers a legitimate space heating alternative in colder regions.”
+
+**More Related Articles:**
+
+*   [HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [Is an HVAC Tune-up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+*   [How Much Does It Cost to Replace a Water Pump?](https://www.homeserve.com/en-us/blog/cost-guide/water-pump-replacement-cost/)
+
+Types of Air-Source Heat Pumps
+------------------------------
+
+The U.S. Department of Energy recognizes [seven different types](https://www.energy.gov/energysaver/heat-and-cool/heat-pump-systems/air-source-heat-pumps) of air-source heat pumps. They include:
+
+* **Ductless**, which require only a 3-inch hole through the wall to connect the outdoor condenser and the indoor heads.
+* **Ducted**, which require either installing ductwork or using that of your home’s existing ventilation system.
+* **Short-run ducted**, which use traditional large ductwork that only runs through a small section of the house, often complemented by other ductless units for the remainder of the house.
+* **Split**, which have one coil inside and one outside, and supply and return ducts connect to an indoor central fan.
+* **Packaged**, which typically have both coils and the fan outdoors, and heated or cooled air is delivered inside from ductwork that passes through a wall or roof.
+* **Multi-zone**, which have two or more indoor heads connecting to a single outdoor condenser, with each head creating its own zone of comfort, allowing households to heat or cool individual rooms, hallways and other areas.
+* **Single-zone**, which are intended for a single room with one outdoor condenser matched to one indoor head.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-vh1RDJC1M8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Change an HVAC Filter"></iframe>

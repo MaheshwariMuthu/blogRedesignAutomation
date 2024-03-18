@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does Homeowners Insurance Cost?"
+headline: "How Much Does Homeowners Insurance Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-12-18
+basePath: https://library.homeserve.com/m/
+heroImage: 1cdeaf72f5dad7b6/Blog-AdobeStock_132677960.jpg
+heroAltDescription: "woman looking at scale model of house"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Love it or hate it, you’ve gotta have it. This guide should help you figure out how much homeowners insurance will cost you."
+articleAbstract: "Love it or hate it, you’ve gotta have it. This guide should help you figure out how much homeowners insurance will cost you."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does Homeowners Insurance Cost?"
+  parent: Interior-Cost-Guide
+---
+  Love it or hate it, you’ve gotta have it. In most cases, homeowners insurance is a necessary aspect of homeownership. Your [mortgage lender](https://www.iii.org/article/can-i-own-home-without-homeowners-insurance) will typically require that you have a policy — which is actually to your benefit. In case of a disaster, homeowners insurance will help you replace your belongings and can offer liability protection. The price you pay for a homeowners insurance policy depends on several factors — such as the value of your home, where you live and the amount and type of coverage desired.
+
+**This May Also Interest You:** [**What Does Homeowners Insurance Cover … and What Doesn’t It?**](https://www.homeserve.com/en-us/blog/home-improvement/what-does-homeowners-insurance-cover/)
+
+So how much does homeowners insurance cost, exactly? Read on to find out.
+
+What Is the Average Cost for Homeowners Insurance?
+--------------------------------------------------
+
+Policies vary widely by cost, running from just a few hundred dollars to several thousand dollars per year.
+
+According to [Bankrate](https://www.bankrate.com/insurance/homeowners-insurance/homeowners-insurance-cost/), on average, homeowners insurance premiums run about $115 (CAD 155) per month — or about $1,400 (CAD 1,900) per year —for a $250,000 (CAD 340,000) coverage limit.
+
+Similarly, the [National Association of Insurance Commissioners](https://content.naic.org) says the average homeowners insurance policy costs around $105 (CAD 140) per month or about $1,250 (CAD 1,700) per year, according to a [2021 report](https://content.naic.org/article/news-release-naic-releases-homeowners-insurance-report).
+
+How Is a Homeowners Insurance Premium Calculated?
+-------------------------------------------------
+
+The two biggest determinants of homeowners insurance rates are the value and location of the home. Still, other factors come into play when insurance companies determine rates for a particular homeowner. These include:
+
+### Level of Coverage
+
+Some homeowners opt for cash value coverage, which is usually the least expensive. Cash value coverage pays only what the property is worth after depreciation is considered. Replacement cost coverage, by contrast, is pricier. It pays you what it costs to rebuild or repair your home after a covered loss, adjusted for inflation.
+
+### Deductible
+
+Deductibles represent your out-of-pocket costs for each claim. This is what you must pay before the policy pays out. With a $1,000 (CAD 1,350) deductible, you're responsible for the first $1,000 in costs to repair your home or replace damaged or stolen items. Then, your insurer will cover the rest. Generally, the higher the deductible, the lower the premium, and vice versa.
+
+### Your Home’s Age
+
+The age of a home can have a dramatic impact on how much insurers charge for homeowners coverage. It can cost more to insure an older home than a more recent construction because it usually costs more to rebuild a house to up-to-the-minute safety standards. Insurance companies hedge against those added costs with inflated premiums for older homes.
+
+### Condition and Age of Your Roof
+
+Homes with newer roofs and roofs in great condition are seen as less of a risk by insurance companies, so the premiums homeowners pay are lower. Homes with old roofs, roofs in disrepair or roofs constructed with low-quality materials have the opposite effect on insurance premiums.
+
+### Your Previous Claims
+
+Your claims history can also influence the cost of home insurance. If you’re a homeowner who has had a claim or two at some point in the past, or if you live in a geographic location where there is a high rate of claims, you may be charged more.
+
+How Much Homeowners Insurance Do I Need?
+----------------------------------------
+
+If your home is lost or damaged due to a covered incident, you want to make sure your policy provides enough to rebuild your home and replace any belongings lost. It should be enough to help you pay for other costs for the time period you’re unable to live in the home. Your policy should also provide protection for your financial assets if you are found liable for someone else’s injuries or losses.
+
+Because of all these factors, the amount of homeowners insurance you need to fully protect yourself should be based on an [assessment of your needs](https://www.iii.org/article/how-much-homeowners-insurance-do-you-need), says the Insurance Information Institute. This includes:
+
+*   The cost of rebuilding or repairing your home
+*   Whether you need to purchase additional earthquake or flood insurance
+*   Any hard-to-replace home features
+*   The cost of bringing a new construction or repair up to code in an older home, including the cost of lumber and other building materials — which may have [increased](https://www.homeserve.com/en-us/blog/home-improvement/lumber-shortage-impacts-home-improvement-projects/) since the home was built
+*   The value of your possessions and home contents. Experts recommend taking out as much as 70% of the amount of insurance as insurance on the home’s contents.
+*   Additional living expenses you may incur if you can’t live in your home after a natural disaster, severe storm or fire.
+*   The amount of protection you need against lawsuits for property damage or bodily injury that you, your family or pets may cause. A general recommendation is up to $500,000 (CAD 680,000) in liability protection.
+*   Whether you need an excess liability or umbrella policy. If you have more risks, such as a swimming pool on your property, you may need this extra coverage.
+
+**More Related Articles:**
+
+*   [Homeowners Vs. Renters Insurance: What’s the Difference?](https://www.homeserve.com/en-us/blog/home-improvement/homeowners-vs-renters-insurance/)
+*   [Does Homeowners Insurance Cover Plumbing Repairs?](https://www.homeserve.com/en-us/blog/buying-guide/homeowners-plumbing-insurance/)
+*   [Here’s How Much Common Home Repairs Cost — and How to Budget for Them](https://www.homeserve.com/en-us/blog/cost-guide/home-repair-costs/)
+*   [What Is a Home Improvement Loan and How Do You Get One?](https://www.homeserve.com/en-us/blog/home-improvement/home-improvement-loan/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+
+How Much Is Homeowners Insurance on a $200,000 House?
+-----------------------------------------------------
+
+A house valued between $200,000 and $299,999 (CAD 272,000 and CAD 409,000) is typically insured for around $1,114 (CAD 1,518) per year, according to [MarketWatch](https://www.marketwatch.com/picks/guides/insurance/average-home-insurance-cost/).<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

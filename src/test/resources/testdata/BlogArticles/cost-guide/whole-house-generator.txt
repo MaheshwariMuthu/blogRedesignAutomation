@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install a Whole-House Generator?"
+headline: "How Much Does It Cost to Install a Whole-House Generator?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-06-20
+basePath: https://library.homeserve.com/m/
+heroImage: 297a0823bc08d038/Blog-GettyImages-170132835.jpg
+heroAltDescription: "a group of male contractors and a forklift position a large home generator on to a concrete slab "
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Learn about the costs involved in installing a whole-house generator — and what you get for the money."
+articleAbstract: "One way to protect yourself against the electrical grid going down is by installing a whole-house generator to get you through the dark times, which can cost you $10,000 to $20,000 or even more."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install a Whole-House Generator?"
+  parent: Electrical-Cost-Guide
+---
+  Power outages can happen anywhere at almost any time. [According to S&P Global](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/us-power-outages-jumped-73-in-2020-amid-extreme-weather-events-62181994), the U.S. experienced 1.33 billion outage hours in 2020 — a 78% increase over 2019 — due in part to the growing number of massive storms and extreme weather conditions happening throughout the country.
+
+**This May Also Interest You:** [**Feeling in the Dark? Here’s What to Do During a Power Outage**](https://www.homeserve.com/en-us/blog/how-to/what-to-do-power-outage/)
+
+One way to protect yourself against the electrical grid going down is by installing a whole-house generator to get you through the dark times.
+
+Whole-House Generator: Overall Costs
+------------------------------------
+
+The average cost for a whole-house generator depends on where you live. According to [Bob Vila](https://www.bobvila.com/articles/whole-house-generator-cost/), prices range from $10,000 to $20,000 (CAD 12,700 to CAD 25,500), depending on the size of your house and how much power you're going to need.
+
+The first thing that needs to be done is to determine how many kilowatts you're going to need to power your home. With this information, you can figure out the best generator size for your home.
+
+A small whole-house generator producing 2,200 watts can power a typical apartment-sized refrigerator, microwave, television, sump pump, small portable space heater and a 2,100-watt stove or hot plate.
+
+On the other hand, a 10,000-watt (10-kilowatt) whole house generator will power just about all the major appliances in your house, including standalone freezers, refrigerators, window air conditioners and the dishwasher. If you're looking for a whole-house generator that powers your HVAC systems as well, you'll have to go at least 14,000 watts (14 kW) or higher.
+
+Price by Size
+-------------
+
+The large range in price for generator installation is due to the number of watts the generator produces.
+
+If you don’t want to splash out for a whole-house generator, portable ones are also an option. Portable generators producing around 2 kW to 8 kW are bare-minimum models and will only power one major appliance and some lights. The price range for these is $500 to $2,000 (CAD 640 to CAD 2,550).
+
+Fixed generators meant to power your whole house produce 7 kW to 38 kW, depending on your electrical needs. These generators typically cost between $800 and $20,000 (CAD 1,000 and CAD 25,500), and they will typically power major appliances, sump and well pumps, laptops, coffee makers and the fan on a furnace.
+
+**More Related Articles:**
+
+*   [How to Perform a Generator Load Bank Test](https://www.homeserve.com/en-us/blog/how-to/generator-load-bank-test/)
+*   [Home Backup Generator Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/generator-maintenance/)
+*   [How Much Generator Do I Need for My House?](https://www.homeserve.com/en-us/blog/buying-guide/whole-house-generator-sizing/)
+*   [What’s a Whole-House Surge Protector?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-surge-protector/)
+*   [How Much Does a Whole-House Surge Protector Cost?](https://www.homeserve.com/en-us/blog/cost-guide/whole-house-surge-protector/)
+
+Whole-House Generator Installation Costs
+----------------------------------------
+
+The cost of installation is typically included within the cost of the job, but sometimes, it's itemized. There are some things that have to be done prior to installation, such as building a support base for the generator. Normally, a concrete pad is used, and installing one can run from $50 to $75 (CAD 60 to CAD 95) per square foot.
+
+The actual installation of the generator will cost about $500 to $3,000 (CAD 640 to CAD 3,800), depending on your location and the size of the generator.
+
+Installing a transfer switch to allow the electricity produced by the generator to be connected to the household electrical system costs about $200 to $400 (CAD 250 to CAD 500).
+
+Permits to do the work are often required. This would cost about $50 to $200 (CAD 60 to CAD 250).
+
+Cost Factors
+------------
+
+### Maintenance
+
+The generator should be serviced and have a load test done annually to make sure everything is in proper working order, and you don't experience any surprises at the worst possible moment. Annual inspections and regular maintenance typically run between $75 and $300 (CAD 95 and CAD 380).
+
+### Fuel Type
+
+Whole-house generators typically use liquid propane, natural gas, gasoline or diesel to supply fuel to the generator. Solar generators are now also available. The costs for these fuels vary widely depending on your location. Another factor that impacts fuel costs is how often the generator is used.
+
+### Upgrades
+
+You can add monitoring devices that will turn on the generator when the electricity goes down. These can cost from $150 to $400 (CAD 190 to CAD 500).

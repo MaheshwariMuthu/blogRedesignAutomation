@@ -1,0 +1,86 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Draft-Proof Your Home"
+headline: "How to Draft-Proof Your Home"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-03-24
+basePath: https://library.homeserve.com/m/
+heroImage: 7df1f808602c3ad9/Blog-AdobeStock_73871305.jpg
+heroAltDescription: "insulating an attic"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A lack of insulation and improperly sealed windows and doors can make your home drafty. Here's how to deal with draftiness."
+articleAbstract: "A lack of quality insulation and improperly sealed or poorly insulated windows and doors can make your home drafty. Here's how to deal with both issues."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Draft-Proof Your Home"
+  parent: Interior-Home-How-To
+---
+  
+
+There’s a reason people are drawn to older homes. Whether it’s the ornate moldings, built-in bookcases or original heart pine floors, there’s no doubt about it: Older homes have a certain charm that newer homes often lack. But there are also _less_ desirable features that can come with an older home, like that pesky draftiness that keeps you from ever feeling truly warm — no matter how hard you work your heater.
+
+**This May Also Interest You:** [**Here’s How to Apply Plastic Film to Insulate Your Windows**](https://www.homeserve.com/en-us/blog/how-to/window-insulation-film-installation/)
+
+And draftiness can cause problems beyond a little breezy discomfort. It can also send your energy bill soaring to unprecedented heights. So even if the draftiness itself doesn’t send a chill down your spine, one look at your heating bill will.
+
+That’s why it’s essential to investigate the root cause of your home’s draftiness and take steps to remedy it, instead of just putting on warmer socks to traipse out to the kitchen and make your morning coffee or burying yourself under additional blankets at bedtime.
+
+Why Is My House Drafty?
+-----------------------
+
+Draftiness has several culprits, and it’s not just older homes that are its victims. Although not as prevalent, drafts can happen in newer homes, too. Wondering how to draft-proof your home? The good news is that there are plenty of steps you can take to help keep your home cozy without breaking the bank.
+
+There are two primary causes of draftiness: A lack of quality insulation and
+
+improperly sealed or poorly insulated windows and doors. Sometimes, especially in older, unrenovated homes, draftiness is caused by a combination of these factors. And while whole-house insulation and door or window replacement can be costly, don’t fret. Oftentimes, the likeliest draft culprit is the easiest one to fix — windows and doors that need to be more tightly sealed.
+
+How Do You Figure Out Where the Cold Air Is Coming In?
+------------------------------------------------------
+
+Before you start the task of draft-proofing your home, you first need to identify where the cold air is coming from. Finding drafts in your house isn’t as tricky as you may think. In a lot of cases, the problem areas will be so obvious you can literally feel them by walking past the door or window in question.
+
+Ask yourself: Does the cold air feel as though it’s snaking its way in through the cracks, or does it feel as though the entire door or window is significantly colder than its surroundings? This can help you identify whether the issue is a sealing or weatherproofing one, or if the door or window itself is to blame.
+
+Sealing is a relatively easy and inexpensive fix that can include re-caulking windows and adding weatherstripping around door frames. That said, it could be that it is the entire door or window that’s poorly insulated. While they’re typically well-built and made to last, older doors and windows are notorious for not holding heat in like newer models do. But don’t despair! If total replacement of problem doors and windows isn’t in your budget or if you simply refuse to part with them (the charm!), there are other strategies you can use to increase their energy efficiency and protect against drafts.
+
+**More Related Articles:**
+
+*   [How to Insulate Windows](https://www.homeserve.com/en-us/blog/how-to/insulate-windows/)
+*   [How to Insulate Your Attic in 7 Steps](https://www.homeserve.com/en-us/blog/how-to/insulate-attic/)
+*   [How to Install a Prehung Door](https://www.homeserve.com/en-us/blog/how-to/install-prehung-door/)
+*   [How Much Does an Insulated Garage Door Cost?](https://www.homeserve.com/en-us/blog/cost-guide/insulated-garage-door/)
+*   [How to Insulate Your Garage Door](https://www.homeserve.com/en-us/blog/how-to/insulate-garage-door/)
+
+### Wasted Window Heat
+
+If you determine your windows are to blame for heat loss, but you don’t want to replace them, re-caulking your window frames might be your first step. You may not be able to prevent cold air from coming in completely, but it’ll certainly help stop some of the unwanted air transfer.
+
+[Energy-efficient window film](https://www.homedepot.com/b/Window-Treatments-Window-Film/Energy-Efficient-Eco-Option/N-5yc1vZarc3Z1z1c6qq) is another fairly low-cost, DIY window insulation option that can up the coziness factor in your home in no time at all. This film works to both keep the warm air in the winter and stave off unwanted heat and solar glare in the summer, making it a win-win year-round. Application rarely requires any special tools, and it’s often applied with only soapy water after you’ve cut the film to fit your space.
+
+You can also add [thermal shades](https://www.wayfair.com/decor-pillows/sb1/thermal-blinds-shades-c481847-a48572~162155.html?refid=GX481328812508.Thermal+window+shades%7Eb&position=&network=g&pcrid=481328812508&device=c&targetid=kwd-778233109&channel=GoogleIntent&gclid=Cj0KCQiAosmPBhCPARIsAHOen-NSUpNEGFvWZDc5tyM6OWrSyNOeiJODDIbIfC_aIKmfuTKcHAXD0e4aAp2ZEALw_wcB) or [energy-saving curtains](https://www.target.com/p/kenneth-energy-saving-blackout-grommet-curtain-panel-sun-zero/-/A-21398528?preselect=18834612#lnk=sametab) to your windows. When used correctly, these window treatments can help prevent thermal transfer [by almost 20%](https://www.deconovo.com/blogs/news/seriously-do-thermal-curtains-really-work). For best results, get thermal blinds that fit snugly and ensure curtains reach the floor, with a liberal overlap in the middle.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2033c7b2eb08c67a/Blog-GettyImages-184878294.jpg" alt="Heat Shrinking Plastic Window Film Insulation"/>
+
+Another option is to use a [shrink wrap kit](https://www.amazon.com/Duck-5-Window-Insulator-210-Inch-286217/dp/B000NHY1P0?th=1) to seal your windows from the inside. These kits contain plastic sheeting akin to strong cling film that attaches to all sides of your window with double-sided tape and then gets taught when heat is applied using a hairdryer.
+
+Taking that same concept a step further, it's also possible to install [interior storm windows](https://www.windowsaver.com/) that attach using a magnetic system. This is a cheaper option than installing regular storm windows, and if you don't already have those, putting in a set over your draftiest windows can help a great deal.
+
+### Drafty Doors
+
+For doors with bottom drafts, [a door snake](https://www.bedbathandbeyond.com/store/product/morgan-home-solid-fleece-draft-guard/3335941?skuId=61804425&store=&enginename=google&mcid=PS_googlepla_nonbrand_rugs_online&product_id=61804425&adtype=pla&product_channel=online&adpos=&creative=356046103417&device=c&matchtype=&network=g&gclid=Cj0KCQiAosmPBhCPARIsAHOen-OMdUe_x5zxM8dWBq9zfjHh8QTKT-aTHNqtj090RdCj6yjONcumovYaAgSxEALw_wcB&gclsrc=aw.ds) is a low-tech and affordable option to help keep the cold out. You can even [make one yourself](https://www.ecomatters.org.nz/blog/diy-door-snake/), allowing you to coordinate with the surrounding decor and customize based on door size. For a more airtight option, or for stopping air leaks on the tops or sides of your door, basic [weatherstripping](https://www.homedepot.com/b/Hardware-Weather-Stripping/N-5yc1vZc291) from your local hardware store is your best bet. Weatherstripping is typically made of foam or rubber and can usually be cut to fit your space. Plus, many have their own built-in adhesive for easy application.
+
+Whole-House Heat Loss
+---------------------
+
+If you’re dealing with an entire room that feels drafty, it may be that your insulation is to blame. Sometimes houses with new additions have older rooms that feel significantly colder due to insulation inconsistencies. You could also have poor insulation throughout your whole home, causing an overall feeling of draftiness that’s trickier to pinpoint.
+
+To help determine if insulation is indeed to blame, you can check for some tell-tale signs. Are your pipes freezing in winter? Do the walls themselves feel chilly? Does the temperature of your home feel inconsistent throughout? You can also look to your roof for hints that your insulation isn’t up to par. If you notice your roof thawing quickly after a frost or spot ice forming on your gutters, these can be signs of a poorly insulated roof.
+
+Spray foam and fiberglass batts are popular insulation choices for attic spaces. Blown-in insulation can add tons of warmth to walls without a lot of work, as the insulation is blown in from a few small holes cut out of the home’s exterior. While adding insulation on your own is not impossible, it’s a messy business, and you’ll probably need an expert for the job.
+
+Dodging the Draft
+-----------------
+
+There’s no question about it: A drafty home is never fun. But by sealing gaps around doors and windows and draft proofing with other DIY measures, you can help make your house cozier and save significantly on your power bill. And, in the event that you do resort to calling in the pros to draft-proof your home, you’ll likely recoup that money with what you save on heating. Plus, you and your family will feel much more comfortable, even without all those extra blankets and socks.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

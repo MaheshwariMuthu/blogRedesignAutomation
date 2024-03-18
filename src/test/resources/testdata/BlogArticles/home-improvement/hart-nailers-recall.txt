@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Hart Consumer Products Recalls Nail Guns Due to 'Involuntary Discharge' Injury Risk"
+headline: "Don't Get Nailed! Hart Consumer Products Recalls Nail Guns Due to 'Involuntary Discharge' Injury Risk"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-11-17
+basePath: https://library.homeserve.com/m/
+heroImage: 3970a458f025be75/Blog-NailerRecall_HartConsumerProducts.jpg
+heroAltDescription: "Silver"
+metaDescriptions: "Hart Consumer Products is recalling 15,700 brad nailers due to a malfunction that poses an injury risk."
+articleAbstract: "Hart Consumer Products is recalling 15,700 brad nailers due to a malfunction that poses an injury risk. If you own one of these nailers, you’ll want to stop using it immediately. Here’s everything you need to know. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Hart Consumer Products Recalls Nailers Due to Injury Hazard"
+  parent: Appliances
+---
+  Hart Consumer Products is recalling about 15,700 nail guns due to a sensor malfunction risk that could cause a nail to be unintentionally discharged, resulting in serious injury to the user or bystanders. The Consumer Product Safety Commission is urging owners of the devices to stop using them immediately.
+
+**This May Also Interest You:** [**What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+
+According to the Nov. 12 [recall alert](https://www.cpsc.gov/Recalls/2022/Hart-Consumer-Products-Recalls-Nailers-Due-to-Injury-Hazard-Sold-Exclusively-at-Walmart), the Anderson, S.C.-based company has is aware of no reported incidents or injuries related to the defect.
+
+The recall specifically involves Hart 18-Gauge 2” Brad Nailers bearing model numbers HPNR01, HPNR01B, HPNR01B-SK and HPNR01BNCA; the model number is printed on the side of the nail tray or magazine into which the nails are loaded. The handheld nail guns are identifiable by their white, blue and black coloring, the brand name printed on the side in white against a black background, and the model name — “18ga BRAD NAILER” — printed in white type against a blue background on the side of the nail tray/magazine.
+
+The nail guns were manufactured in Vietnam by Techtronic Industries Vietnam Manufacturing Co. and imported to the U.S. by Hart Consumer Products. The devices were sold between April and September 2021 at Walmart stores nationwide as well as online via [walmart.com](https://www.walmart.com), for between $130 and $160.
+
+If you own one of the recalled nail guns, you should stop using it and return it for a full refund to any Walmart store in the U.S., or schedule a free mail pickup from your home by calling 800-776-5191.
+
+To reach out to the company directly, call 1-800-776-5191, go to the company’s [recall page](https://www.harttools.com/support/safety) or visit the [website](https://www.harttools.com/). For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Carbon Monoxide Warning: Usines Giant Factories Recalls Water Heaters With Control Valves That Pose Risk of CO Release](https://www.homeserve.com/en-us/blog/home-improvement/usines-giant-factories-water-heater-recall/)
+*   [Tipping and Entrapment Hazard: Magnussen Home Recalls 13,200 Chests of Drawers](https://www.homeserve.com/en-us/blog/home-improvement/magnussen-chests-recall/)
+*   [Lacerations Reported in Recall of Liberty Hardware Glass Cabinet Knobs](https://www.homeserve.com/en-us/blog/home-improvement/glass-cabinet-knobs-recall/)
+*   [Hobby Lobby Issues Recall After Stools Break During Use, Posing Injury Risk](https://www.homeserve.com/en-us/blog/home-improvement/hobby-lobby-stool-recall/)
+*   [Fall Hazard: Kohl’s Recalls Antigravity Chairs After Reports of Injuries](https://www.homeserve.com/en-us/blog/home-improvement/kohls-antigravity-chair-recall/)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?start=10&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

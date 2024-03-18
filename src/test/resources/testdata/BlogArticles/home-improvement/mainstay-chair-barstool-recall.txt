@@ -1,0 +1,36 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Fall Risk: Cheyenne Products Recalls 795,000 Chairs and Barstools"
+headline: "Fall Risk: Cheyenne Products Recalls 795,000 Chairs and Barstools"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-04
+basePath: https://library.homeserve.com/m/
+heroImage: 1a5ced0142ae6235/webimage-BarstoolChairRecall_CheyenneProducts.png
+heroAltDescription: "recall product"
+metaDescriptions: "Cheyenne Products is recalling about 795,000 Mainstay folding chairs and barstools. The weld that connects the seat to the legs can break, posing a fall risk."
+articleAbstract: "Cheyenne Products is recalling about 795,000 Mainstay folding chairs and barstools. If you purchased one of these chairs or stools between January 2014 and April 2021, it might fall under this recall. According to a recall alert published by the Consumer Product Safety Commission, the weld that connects the seat bottom to the chair legs can break, posing a fall risk."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Cheyenne Products Recalls Folding Chairs and Barstools Due to Fall Hazard"
+  parent: Interior-Home-Home-Improvement
+---
+  Cheyenne Products is recalling about 795,000 Mainstay folding chairs and barstools. If you purchased one of these chairs or stools between January 2014 and April 2021, it might fall under this recall. According to a [recall alert](https://cpsc.gov/Recalls/2021/Cheyenne-Products-Recalls-Folding-Chairs-and-Barstools-Due-to-Fall-Hazard) published by the Consumer Product Safety Commission, the weld that connects the seat bottom to the chair legs can break, posing a fall risk.
+
+**This May Also Interest You:** [**Fall Risk Prompts Recall of 3,100 Sauder Woodworking Bar Stools**](https://www.homeserve.com/en-us/blog/home-improvement/sauder-woodworking-barstools-recall/)
+
+According to the May 19 recall, there have been 41 reports of the weld breaking, causing the legs to disconnect from the bottom of the chair. Nineteen injuries have been reported, including four fractures and one torn ligament.
+
+This recall involves several styles and models of padded, folding barstools and chairs, all of which carry the Mainstay brand name. Check the bottom of the seat for the label with the production month and year. The model number is printed above the barcode on a second label, also on the underside of the seat. Compare your chair’s model number and production date against [this list](https://www.cheyenneproducts.com/recall/) of affected products.
+
+The folding chairs and stools were manufactured in China and imported by Cheyenne Industries of Rogers, Ark., Cheyenne Products of Austin, Texas, and Walmart of Bentonville, Ark. They were sold exclusively at Walmart stores and [Walmart.com](http://Walmart.com) for $30 to $42.
+
+If you own a recalled chair or stool, the CPSC recommends you stop using it immediately and contact Cheyenne for a full refund. Call 833-351-1707, email [cheyennerecall@nbg-home.com](mailto:cheyennerecall@nbg-hom.com) or fill out the [recall form](https://www.cheyenneproducts.com/recall/) on the company’s website. For more consumer product safety information, visit [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Watch Your Seat: 3,100 StyleWell Dining Chair Sets Recalled for Fall Risk](https://www.homeserve.com/en-us/blog/how-to/Wood-Windsor-Dining-Chair-Recall/)
+*   [Are You Sitting Down? Hillsdale Furniture Recalls 10,500 Stools Over Fall Risk](https://www.homeserve.com/en-us/blog/home-improvement/jennings-stool-recall/)
+*   [Sleep Tight! Casa Kids Recalls Bunk Beds Due to Loose Screws](https://www.homeserve.com/en-us/blog/home-improvement/cabina-bunk-beds-recall/)
+*   [It Could Collapse: Lifetime Products Recalls 43,000 6-Foot Folding Tables](https://www.homeserve.com/en-us/blog/home-improvement/lifetime-products-seminar-table-recall/)
+*   [Don’t Sleep on This: 700 HOFISH Mattresses Recalled Over Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/hofish-mattress-recall/)

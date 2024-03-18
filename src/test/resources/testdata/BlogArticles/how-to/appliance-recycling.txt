@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Recycle Appliances"
+headline: "What Do You Do With an Old Appliance? How to Recycle Fridges, Washers, Ovens and More"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-12-31
+basePath: https://library.homeserve.com/m/
+heroImage: 41c7f4fecf2bfd42/Blog-GettyImages-172788698.jpg
+heroAltDescription: "Old Refrigerators Waiting to Be  Scrapped At a Recycling Center"
+metaDescriptions: "Here’s how to find appliance recycling programs and old-appliance pickup services in your area."
+articleAbstract: "Appliance recycling transforms old washers, fridges and stoves into usable materials. Here’s how to find appliance recycling programs and old-appliance pickup services in your area."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Recycle Appliances"
+  parent: Appliances-How-To
+---
+  Upgrading old or broken appliances can help you save on your electricity bills. However, many of us are left scratching our heads, trying to figure out how to get rid of them. Disposing of a bulky appliance like a fridge or washing machine can seem like a daunting task, but it's important to minimize damage to the environment by recycling appliances whenever possible.
+
+**This May Also Interest You:** [**Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load**](https://www.homeserve.com/en-us/blog/how-to/phantom-loading/)
+
+Appliance recycling transforms old washers, fridges and stoves into usable materials. Here’s how to find appliance recycling programs and old-appliance pickup services in your area.
+
+What Types of Appliances Can Be Recycled?
+-----------------------------------------
+
+You can recycle most modern household appliances, including fridges, freezers and washers. Many ovens, stoves and microwaves are also suitable for appliance recycling.
+
+Appliances contain materials such as metal, glass and plastic that can be reused to make new products. Sometimes, the refrigerants used in fridges and freezers can also be removed and reused. Foam insulation can also be treated and turned into fuel pellets.
+
+How Do You Recycle Appliances?
+------------------------------
+
+According to the [Environmental Protection Agency](https://www.epa.gov/rad/consumers), one of the simplest ways to recycle appliances is through the Responsible Appliance Disposal program. You can find your [local RAD program](https://www.epa.gov/rad/consumers) through the EPA's website.
+
+Many RAD programs will collect your old appliance from your home and take it to a local facility for appliance recycling. The program supports facilities to follow best practice guidelines for recycling appliances and disposing of non-recyclable components to minimize negative impacts on the environment.
+
+If you can't access a RAD program where you live, you could contact your state energy office, utility company or local waste management division to find out if they offer appliance recycling services. Some organizations pay a small fee — usually between $10 and $50 — to encourage people to upgrade to an energy-efficient model while recycling their old appliances instead of sending them to landfills.
+
+Finally, you could consider contacting a nearby scrap metal recycling facility to dispose of your old appliance. However, it's important to check that the company follows best practices when recycling appliances.
+
+How Do I Dispose of Appliances That Cannot Be Recycled?
+-------------------------------------------------------
+
+If you [can't recycle your appliance](https://www.epa.gov/section608/frequently-asked-questions-about-safe-disposal-refrigerated-household-appliances), you could consider selling it privately through a website like eBay, or to a company that refurbishes and resells old appliances. This option is generally only suitable if your appliance is relatively new and still works. Faulty or very old models are inefficient and expensive to run, so it's often more environmentally friendly to remove them from circulation by recycling them. If your appliance is in good condition, you could also contact local charities to find out if they accept appliance donations.
+
+Appliances that are non-recyclable and too old or damaged to be of use to someone else will need to be disposed of at a landfill. Sending your appliance to a landfill should be a last resort because appliances aren't biodegradable, so they will remain there indefinitely, causing environmental damage.
+
+After you take your appliance to a disposal facility, a technician will remove any dangerous components and materials such as refrigerants and mercury before sending it to a landfill. Occasionally, appliances are sealed and sent to a landfill whole.
+
+Never be tempted to dispose of your old appliance by leaving it on the side of the road. Many appliances contain potentially harmful materials that could damage the environment or pose a risk to local wildlife.
+
+**More Related Articles:**
+
+*   [8 Home Efficiency Measures You Can Take This Earth Day](https://www.homeserve.com/en-us/blog/how-to/earth-day-energy-efficiency/)
+*   [What’s It Like to Go Solar? 5 Things They Don’t Tell You in the Brochure](https://www.homeserve.com/en-us/blog/home-improvement/solar-panels/)
+*   [How Do Compost Pickup Services Work — and How Much Do They Cost?](https://www.homeserve.com/en-us/blog/cost-guide/compost-service/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [How Much Does a Home Wind Turbine Cost?](https://www.homeserve.com/en-us/blog/cost-guide/home-wind-turbine/)
+
+Do Retailers Take Old Appliances?
+---------------------------------
+
+Many retailers will haul away old appliances for recycling at the same time as delivering a new one. You may need to pay an extra fee for appliance removal. For example, [The Home Depot](https://www.homedepot.com/c/Appliance_Delivery_Installation) will remove most freestanding domestic appliances for recycling. However, technicians from The Home Depot won't remove most commercial appliances or built-in fridges, freezers or cooktops. Prices depend on the appliance type and your location.
+
+Best Buy offers an appliance recycling service for most domestic appliances, including:
+
+*   Cookers
+*   Washers and dryers
+*   Fridges and freezers
+*   Wall ovens
+*   Microwaves
+
+[Best Buy](https://www.bestbuy.com/site/recycling/tv-appliances-haul-away/pcmcat174900050009.c?id=pcmcat174900050009&intl=nosplash) charges a flat fee of $29.99 for haul-away if you purchase a replacement appliance and have it delivered through Geek Squad or Best Buy Home Delivery. If you're disposing of a washer, you'll need to disconnect it before Best Buy will collect it. Unlike many retailers, Best Buy will also remove appliances even if you don't purchase a replacement for a flat fee of $99.99.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

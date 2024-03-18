@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: HVAC-Buying-Guide
+  parent: Buying Guide
+  title: HVAC
+permalink: false
+---

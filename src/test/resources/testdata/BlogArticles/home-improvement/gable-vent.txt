@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Attic Ventilation Guide"
+headline: "Got Gable Vents? Here’s What You Need to Know About Your Attic’s Airflow"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-02-08
+basePath: https://library.homeserve.com/m/
+heroImage: ef1de3b7e1122ad/Blog-GettyImages-177050785.jpg
+heroAltDescription: "a white gable vent sits under a roof overhand on a brick home"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Proper attic ventilation can extend the lifespan of your roof, lower energy costs and eliminate costly moisture damage."
+articleAbstract: "Proper attic ventilation can extend the lifespan of your roof, lower energy costs and eliminate costly moisture-related damage. Here's what you need to know. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Got Gable Vents? Here’s What You Need to Know About Your Attic’s Airflow"
+  parent: Exterior-Home-Home-Improvement
+---
+  Although you might think attic ventilation is, well, _over your head_, that doesn’t mean you should ignore it. In fact, having proper attic ventilation can go a long way toward extending the lifespan of your roof, maintaining low energy costs and keeping costly moisture-related damages at bay.
+
+**This May Also Interest You:** [**How to Insulate Your Attic in 7 Steps**](https://www.homeserve.com/en-us/blog/how-to/insulate-attic/)
+
+Why Is Attic Ventilation Important?
+-----------------------------------
+
+If you’ve ever been in an unfinished attic space during the summer, you already know: It can get hot up there. Without proper ventilation, the temperature in the attic can reach unhealthy levels, which can quickly lead to problems. Without proper ventilation to keep things cool, the excessive heat and humidity can prematurely age shingles, warp and distort roof sheathing and cause mold and mildew growth. What’s more, the heat can even travel down into the living areas of your home, making it more difficult to keep your home comfortable. All of these issues can be solved with a proper attic ventilation system in place.
+
+What’s a Gable Vent?
+--------------------
+
+Generally speaking, if you have a gable-style roof (also called a peaked or pitched roof), you probably have gable vents. Gable vents are exhaust vents located at both ends of the peak of a gabled roof, directly beneath the roof eaves on the sides of the house. Typically, homes have at least two gable vents, but if you have more than one gable or peak in your roof, you probably have more vents.
+
+### How Gable Vents Work
+
+Imagine that you open two windows on opposite sides of a room. The cross-ventilation allows a breeze to flow through the space. Gable vents work in much the same way, allowing hot air to flow out, while drawing cool air in. By facilitating this airflow into and out of the attic space, the vents help to keep the attic cool while preventing excess moisture buildup.
+
+What’s a Soffit Vent?
+---------------------
+
+A soffit vent is another type of roof ventilation system that’s installed under the eaves of your roof that extend past the wall line. These vents have perforations that let air travel in and out of an attic space, keeping your attic space cool and preventing potentially costly damages caused by excess moisture buildup.
+
+**More Related Articles:**
+
+*   [5 Insulation Tips to Save Energy and Money](https://www.homeserve.com/en-us/blog/home-improvement/insulation-tips/)
+*   [How to Winterize a House: Your No-Chill Checklist](https://www.homeserve.com/en-us/blog/how-to/winterize-house/)
+*   [How Much Does Attic Insulation Cost?](https://www.homeserve.com/en-us/blog/cost-guide/attic-insulation/)
+*   [Attic Fans Vs. Whole-House Fans: What They Do and How They Differ](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-versus-attic-fan/)
+*   [What to Expect When They're Inspecting: Your Home-Inspection Checklist](https://www.homeserve.com/en-us/blog/home-improvement/what-to-expect-home-inspection/)
+
+Do Gable Vents and Soffit Vents Work Together?
+----------------------------------------------
+
+Typically, soffit vents work alongside exhaust vents to maximize ventilation. By utilizing the natural flow of air, soffit vents and gable vents are able to regulate the temperature and ventilation of your attic. Because soffit vents are located much lower than gable vents, the cool air enters from the soffit vents and exits through the gable vents.
+
+Should You Cover Your Gable Vents in the Winter?
+------------------------------------------------
+
+Gable vents work to keep your attic cool and dry during those hot summer months, but what about during the icy winter months? They function well then, too, and should be left uncovered.
+
+Unventilated attic spaces can be problematic in winter because they hold in the warm air that radiates from the living area of your home. When snow lands on the warm rooftop, the bottom layer can melt and trickle down the roof. And when the runoff gets to the outer edge, the water refreezes into ice. This process can quickly lead to the formation of an [ice dam](https://www.homeserve.com/en-us/blog/how-to/thaw-frozen-gutters/), which blocks future runoff and backs up under your shingles. Aside from ice dams, keeping your gable vents uncovered will prevent condensation from forming in your attic space as well.
+
+Keep Your Cool
+--------------
+
+In most cases, the temperature in your attic should mirror the temperature outside. Taking time to make sure your attic space is properly ventilated will ensure that your roof stays in good shape year-round while keeping your energy bills low.
+
+Always make sure your gable vents are open to airflow. You can do this by checking the screens and making sure they aren’t clogged or blocked with debris. Clean them routinely and make any and all necessary repairs. While you're at it, do the same with your soffit vents. If you don’t have any installed, consider adding some.
+
+While all code-compliant homes already have some type of ventilation, you can also add more to keep your house in good shape. And if you notice any signs of improper ventilation — like moisture buildup in the attic or an unexplained increase in your heating and cooling bills — you might consider hiring a full-service ventilation and insulation company to assess your situation.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/reJaChMAC_w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Roof Replacement Costs | How Much Does it Cost to Replace a Roof?"></iframe>

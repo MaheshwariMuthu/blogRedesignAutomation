@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to draft proof your Home for energy efficiency
+headline: How to draft proof your Home for energy efficiency
+author: Team HomeServe
+tags: ['post', 'DIY']
+publishDate: 2017-01-26
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: energy-efficiency-green-home (2).jpg
+heroAltDescription: Roof Insulation
+metaDescriptions: How to draft proof of your home for energy efficiency.
+articleAbstract: When the weather is frigid and bone-chilling, it’s time to keep the heat in and the cold out.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: How to draft proof your Home for energy efficiency
+  parent: HVAC-Home-Improvement
+---
+
+When the weather is frigid and bone-chilling, it’s time to keep the heat in and the cold out. Draft-proofing your home can save money and precious heat.  One way to help is by scheduling an energy audit, where your home’s energy efficiency will be evaluated, and you will be given solutions to address problem areas. But if you don’t have time to schedule one, here are some DIY tips to help seal in the heat.
+
+## Target the most common areas of your home first.
+
+The [_US Department of Energy_](http://energy.gov/energysaver/detecting-air-leaks){target="_blank"} recommends a “Building Pressurization Test,” which makes it easier to detect air leaks:
+
+First, turn off any heating systems and your water heater. Be sure that all doors and windows are shut tight, including your fireplace. Next, switch on all of your ventilation fans and anything that pushes air outside. This includes: kitchen and bathroom ventilation, clothes dryer, and/or window fans. This will increase the amount of air flowing through leaky spots, making it easier to identify problem areas.
+
+Move a lit incense stick, candle, or smoke stick near the places where air commonly leaks. You’ll know that you’ve found a draft when the smoke is disturbed or blows away from the area.
+
+So where are the most common drafty places? Here’s a list of the frequent offenders, and how to fix them:
+
+### Doors and windows:
+
+Aging or damaged weather-stripping around your windows and doors can easily be replaced. Read more on how to do this in a [This Old House](https://www.thisoldhouse.com/ideas/essential-guide-to-weatherstripping){target="_blank"} article. 
+
+Adding or replacing a door sweep can make a world of difference and really improve energy efficiency. Best of all, it’s easy to do.  To get a perfect fit simply close the door, measure the length of the door, and cut the size you need.  There are a few kind of sweeps to choose from (drip-cap, brush, etc.) so ask your local hardware store if you’re not sure which is best for you.
+
+Lastly, if your windows are in poor condition, rattling, or damaged, it might be time to replace them with more energy-efficient ones. This [Consumer Reports](https://www.consumerreports.org/cro/doublehungwindows/the-best-time-to-shop-for-windows){target="_blank"} article explains the 5 things you need to know before replacing your windows.
+
+### Attics:
+
+Depending on your home, the amount and type of insulation in your attic will vary.  You can quickly combat air leaks around entrances to your attic or crawl space. Sealing up gaps around pull-down ladders, access panels, and vents from bathrooms or kitchens will help. Building an insulating cover for your attic access ladder is a great DIY project, too.
+
+### Chimneys:
+
+Check your damper to see if it is fully sealed. Also, keeping fireplace doors closed tight when not is use will help a drafty family room<span>.</span>In the attic, check for gaps where the chimney enters the attic and breaches the roof.
+
+### Outlets and switch plates:
+
+Foam inserts easily tuck in behind the faceplates for switches and outlets, and are an inexpensive, quick fix. If you have recessed lights, be sure to check those, too, and add insulating caps where there is a possible air leak.
+
+### Utility and appliance connections:
+
+Every place that cables, pipes, and wires run through your house is an opportunity for heat loss. Be sure to check for gaps around dryer vents, phone and cable access points, and water or drainage pipes.
+
+### Ventilation:
+
+Check your kitchen and bathroom fans for air gaps. Fill spaces with caulk or add weather-stripping where the vents connect to the walls or ceiling.
+
+Spending an afternoon searching out and sealing up drafty spots can help you minimize many issues, immediately help increase your comfort level, and increase your home’s energy efficiency. You’ll be happy when your next energy bill comes, too. If you live in a cold climate you might want to also check out our article on how to winterize your home.
+
+If you are unsure about a repair, or need helpgetting into the tight corners of your house, don’t hesitate to call in theprofessionals.
+
+HomeServe is here to help homeowners! [Learn more]({{ migrationData.homepage }}){target="_blank"} about affordable home repair plans in your area.

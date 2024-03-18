@@ -1,0 +1,53 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Does My Shower Turn Hot When I Flush the Toilet?"
+headline: "Why Does My Shower Turn Hot When I Flush the Toilet?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-12-07
+basePath: https://library.homeserve.com/m/
+heroImage: 17a1b93d9772fb0f/Blog-GettyImages-467725186.jpg
+heroAltDescription: "Bathroom Interior Design"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Getting unwanted temperature swings in the shower? We dig deeper into why flushing a toilet can make a shower hot (or cold)."
+articleAbstract: "Getting unwanted temperature swings in the shower? We dig deeper into why flushing a toilet can make a shower hot (or cold)."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Does My Shower Turn Hot When I Flush the Toilet?"
+  parent: Plumbing-Home-Improvement
+---
+  Nothing disrupts a nice warm shower like an unexpected temperature shift when someone flushes the toilet. If your shower gets hot after a toilet is flushed, it can be more than annoying; it may actually hurt you if the temperature fluctuation results in scalding hot water coming out of your showerhead. And it’s not just hot water you could get hit with in the shower. Cold water can sometimes surprise you, too, when a toilet flushes or if certain appliances are running.
+
+**This May Also Interest You:** [**Hot Water Ran Out While You’re in the Shower? 5 Reasons You’re Freezin’**](https://www.homeserve.com/en-us/blog/home-improvement/shower-lost-hot-water/)
+
+But how does flushing the toilet affect the shower? If this issue is occurring in your home, it probably involves your water pressure and the configuration of your pipes. Luckily, this annoyance is something that can be remedied without spending too much time or money.
+
+Someone Flushed the Toilet — Why Does the Shower Get Hot?
+---------------------------------------------------------
+
+So, why does flushing the toilet affect the shower? Without getting super technical, most homes use a plumbing system with pipes arranged in what's called a trunk and branch system, which is just like it sounds: Bigger, main pipes are the “trunk” that then send water out to the smaller branches. The branches are what connect to the sinks, toilets, showers, dishwashers and other fixtures in your home. Temperature fluctuations like hot water in the shower when the toilet flushes occur when the water pressure is unstable and pulls water from one branch or appliance that’s being used to another.
+
+While there are bigger plumbing projects you can tackle to address this issue, like widening the trunk or installing a more complex, well-balanced system, there are simpler ways to fix the problem. If you’re in the market for an easy and affordable fix, you can either install a thermostatic mixing valve to your shower or adjust the supply valve on your toilet.
+
+A thermostatic mixing valve will keep a check on the water pressure of both the hot and cold water supply lines entering the shower before the cold water mixes with the hot. If the pressure of one drops, it will adjust the other accordingly to help keep the shower temperature consistent, in spite of any toilet flushing action occurring elsewhere in the house.
+
+Another way to tackle this issue is to limit the water flow to your toilets. You can do this by closing the toilet supply valve a bit. Doing so will cause your toilet to fill more slowly, but it will help minimize the temperature fluctuations in other plumbing branches, like your shower.
+
+**More Related Articles:**
+
+*   [How to Replace a Showerhead](https://www.homeserve.com/en-us/blog/how-to/change-shower-head/)
+*   [How to Clean a Showerhead](https://www.homeserve.com/en-us/blog/how-to/clean-showerhead/)
+*   [Let It Flow: Improve Low Water Pressure in the Shower](https://www.homeserve.com/en-us/blog/home-improvement/diy-shower-pressure-fixes/)
+*   [Pay Attention to that Mold Behind the Curtain! A Shower-Curtain Cleaning How-To](https://www.homeserve.com/en-us/blog/how-to/how-to-clean-a-shower-curtain-and-liner/)
+*   [How to Install Shower Doors: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-shower-door/)
+
+Why Might the Shower Get ﻿Cold﻿ When Someone Flushes the Toilet?
+----------------------------------------------------------------
+
+A blast of hot water is not the only sudden temperature shift you may experience in the shower. Flushing the toilet can make the shower cold too. This can also happen when you start running another tap or appliance, like a washing machine or dishwasher, that requires water and thus disrupts the water distribution and pressure of your shower. Luckily, you can deal with the issue in the same way that you'd address the hot water problem, so that your water temperature woes can be solved in one fell swoop.
+
+Flush Freely
+------------
+
+Water in the shower is meant to stay at a comfortable temperature of your choosing. Sure, cold showers are trending, but any cold or hot blasts to shock the system should be up to _you,_ and not an unfortunate side effect of your home’s imbalanced plumbing. If you feel like updating your plumbing to a more sophisticated system that solves the problem, by all means, do so. But you can also try fixing the issue with much simpler, more affordable strategies that will help keep your water pressure balanced. By installing a thermostatic mixing valve to your shower and/or adjusting your toilet supply valve, you can easily take control of your shower temperature and steer clear of both hot and cold surprises while you bathe.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

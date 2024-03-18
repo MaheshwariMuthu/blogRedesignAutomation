@@ -1,0 +1,82 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Heat Your Home Efficiently"
+headline: "How to Heat Your Home Efficiently"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-09-27
+basePath: https://library.homeserve.com/m/
+heroImage: 7e5988f37024d1fa/webimage-Cleveland-Furnace.png
+heroAltDescription: "HVAC"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Here are some home heating solutions — both big and small —that’ll keep your energy bills low and your comfort level high."
+articleAbstract: "What’s the secret to energy efficient heat? Here are some home heating solutions — both big and small —that’ll keep your energy bills low and your comfort level high."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Heat Your Home Efficiently"
+  parent: HVAC-How-To
+---
+  When it comes to home heating, the goal is to keep your house nice and toasty without breaking the bank. The key to this coveted combo is to ensure you’re heating your house as efficiently as possible.
+
+**This May Also Interest You:** [**Should You Repair or Replace Your Heating System?**](https://www.homeserve.com/en-us/blog/home-improvement/repair-replace-heating-system/)
+
+So what’s the secret to energy-efficient heat? Read on for home heating solutions — both big and small — that’ll keep your energy bills low and your comfort level high.
+
+What Are Some Ways to Improve Efficiency While Heating Your Home?
+-----------------------------------------------------------------
+
+If you’re wanting to up your efficiency game as quickly and easily as possible, then you can start with a few simple, do-it-yourself tasks. Though they may seem like subtle adjustments, these small changes can go a long way toward your home's overall heating efficiency.
+
+### Adjust Your Thermostat
+
+Lowering your thermostat by a couple of degrees during winter is a small shift that can save you big. The [U.S. Department of Energy](https://www.energy.gov/energysaver/programmable-thermostats) recommends setting your thermostat to 68 degrees Fahrenheit (20 degrees Celsius) during the winter. You might not even notice the difference when your home is set to 68 degrees instead of 70 (21 degrees Celsius), but doing so can save you around 6% on your utility bill.
+
+### Use a Smart Thermostat
+
+Upgrading to a smart thermostat can save you an average of about $180 (CAD 240) a year. Most smart thermostats cost between $100 and $200 (CAD 130 and CAD 260), so you’ll recoup the cost within the first year and then begin saving shortly thereafter. Smart thermostats can be set to automatically adjust to lower temperatures at set times each day — like at bedtime or when you’re at work, which can save you money without the hassle of having to adjust the thermostat yourself. Plus, smart thermostats can learn your habits over time and auto-adjust as needed to save you even more money.
+
+### Stop Drafts
+
+Cold air can creep in through drafty doors and suck the energy savings right out of your home. Attaching self-adhesive weather stripping around the sides of the door is an easy solution. For larger gaps at the base of your door, a door snake/draft guard can work to keep drafts from coming in.
+
+### Reverse Your Fans
+
+If you have tall ceilings, you can adjust your fans to spin clockwise during the winter. When ceiling fans spin in this direction, they can work to pull the heated air downward, so that you can stay warm without wasting as much rising hot air. Once the seasons change, remember to redirect the fans counterclockwise to help combat that summer heat.
+
+### Check Your Filter
+
+If you have forced air, you can save up to five percent in heating costs just by changing your filter at appropriate intervals. How frequently disposable air filters should be changed depends on their pleat depth–with one-inch pleats needing to be changed every 30-60 days and deeper pleated filters lasting longer. There are also more eco-friendly, reusable filters that last for years. Maintaining clean filters will also keep the dust at bay and improve your air conditioner’s efficiency in warmer months.
+
+### Get Window Wise
+
+Making sure your windows are properly sealed can go a long way toward energy-efficient heating. Newer, energy-efficient windows can make a big difference, but if you’re not ready to spring for a full house window replacement, you can make sure your older windows are well caulked both inside and out. You can also add window-insulating film onto the glass itself and use thermal curtains to help block out the cold.
+
+**More Related Articles:**
+
+*   [Here’s How Long All the Systems in Your Home Will Last](https://www.homeserve.com/en-us/blog/home-improvement/home-systems-lifespan/)
+*   [What Do I Do If My Heat Goes Out?](https://www.homeserve.com/en-us/blog/home-improvement/broken-furnace-stopgaps/)
+*   [How Much Does It Cost to Replace a Boiler?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-replacement/)
+*   [4 Signs Your Boiler Needs to Be Repaired or Replaced](https://www.homeserve.com/en-us/blog/home-improvement/boiler-repair-replacement/)
+*   [How Much Does It Cost to Install a Heat Pump?](https://www.homeserve.com/en-us/blog/cost-guide/heat-pump/)
+
+Increase Your Cost Savings
+--------------------------
+
+If you tackle some (or all!) of these smaller projects and are still craving more savings and greater efficiency, you might consider a bigger project, like adding insulation, installing solar panels or switching to radiant heat. These projects aren’t inexpensive, but they can save you money down the line and help heat your home as efficiently as possible.
+
+### Install Solar Panels
+
+Adding solar panels is no small upgrade, but if your home receives enough sunlight, solar heat might well be worth it. Although they aren’t cheap — about $15,000 to $25,000 (CAD 20,000 to 33,000) depending on the size of your home and complexity of installation, according to [NerdWallet](https://www.nerdwallet.com/article/finance/solar-panel-cost) — they increase the value of your home and can lower your power bills dramatically. In fact, many homes’ panels are able to harness more energy than they can use, and this energy can be redirected elsewhere, giving you even greater savings _and_ helping the planet.
+
+### Add Insulation
+
+According to the [Environmental Protection Agency](https://www.energystar.gov/campaign/seal_insulate/methodology), homeowners can save an average of about 15% a year by adding the proper amount of insulation to attics, crawl spaces, and basements. How much you’ll need will depend on where you live, but either way, this is likely a worthwhile project if your home is under-insulated in one or more spots.
+
+### Consider Radiant Heat
+
+Depending on what type of heating system you currently have, switching to radiant floor heat could save you between 10% and 30% on your heating costs. Radiant heating is a more energy-efficient heating system than both forced air and baseboard heat. It’s different because it relies on water to transport the heat throughout your home, and water is a far more efficient carrier than air.
+
+Heating your home more efficiently may be easier than you think. Remember, a few small adjustments can go a long way toward helping your home heating system function at its best (and cheapest). And, if you’re feeling motivated to save even more, you can move on to bigger projects and really watch your savings soar.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

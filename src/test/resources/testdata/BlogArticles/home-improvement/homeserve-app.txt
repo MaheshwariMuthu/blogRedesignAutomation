@@ -1,0 +1,34 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Declutter your Home with HomeServe App
+headline: This new App can help simplify Homeownership
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment']
+publishDate: 2019-04-24
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: usingAppHS.jpg
+heroAltDescription: Declutter your Home with HomeServe App
+metaDescriptions: Make life a bit more simple with the HomeServe app. Go paperless and toss those appliance user manuals and manufacturer warranties.
+articleAbstract: Learn how to troubleshoot your leaky garbage disposal.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Declutter your Home with HomeServe App
+  parent: Home Improvement & Maintenance
+---
+
+Most of us know: life is rarely simple. Especially when you live in a home. Whether it’s an appliance breaking or a system needing repair, a home always needs attention. Living in a constant state of trying to keep things working so that the household runs smoothly just comes with the territory.
+
+As a homeowner for over 10 years now, I feel like I live in a constant state of chaos - always treading to keep my head above water. Aside from the daily thoughts associated with my job and family, I find myself asking questions like: _Did I remember to change the AC filter? Does the latest washer/dryer recall pertain to my appliance models? The dishwasher is leaking but where did I put the owner’s manual?_
+
+No matter whether you are a new or seasoned homeowner, we know that when you move into a new living space, the number of questions needing answers can seem endless.
+
+_How do I change the dishwasher filter? When is the best time to replace furnace filters? When’s the last time I even changed the filters? How do I light the pilot light on the water heater? What is a circuit breaker and which switch works what? How do I troubleshoot the broken refrigerator? How do I program the date and time on the thermostat? What chemicals are needed to maintain a swimming pool?_
+
+So many questions, it can be truly mind-boggling.
+
+**But this [new app](https://homeserve.app.link/HSBlog){target="_blank"} can help simplify the ownership of things and help put home-related things at your fingertips.**
+
+Install the [HomeServe app](https://homeserve.app.link/HSBlog){target="_blank"} on your mobile device or sign in from your desktop and you’ll find how it can help you organize and then discard all those user manuals, manufacturer warranties and receipts. Add your appliance info to the HomeServe app and access appliance/system owner’s manuals and how-to videos. (It even provides a stock photo of the item for your easy reference – or you can also upload your own image.) Plus, you get notifications of real-time product recall alerts from the U.S. Consumer Product Safety Commission. And it will even remind you to order accessory and replacement parts _(something I always need reminders for.)_
+
+So why not make life a bit more simplified for yourself? [Download the app](https://homeserve.app.link/HSBlog){target="_blank"} and get all your home maintenance stuff in one place.

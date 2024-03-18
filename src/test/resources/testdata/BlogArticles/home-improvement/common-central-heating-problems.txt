@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "7 Common Central Heating Issues"
+headline: "7 Common Central Heating Issues You Need to Know About"
+author: Kaia Koglin
+tags: ["post"]
+publishDate: 2023-10-01
+basePath: https://library.homeserve.com/m/
+heroImage: 1c0e9b66ab622b6a/Blog-HomeServe_HVAC_SHMQB326438A_23.jpg
+heroAltDescription: "HVAC system in customer attic"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Problems with your central heating can leave you feeling cold. These are the top issues you may face with your HVAC system."
+articleAbstract: "No one wants the heating to stop working during the coldest week of the year, so it’s important to get issues checked out as soon as you notice them.  There are some of the most common problems you may face."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "7 Common Central Heating Issues You Need to Know About "
+  parent: HVAC-Home-Improvement
+---
+  Your central heating system gets a lot of use over winter, which can lead to wear and tear. In turn, this can lead to problems with the system, such as cold air blowing out, cold spots in your home and bad smells.
+
+**This May Also Interest You:** [**How Much Does HVAC Maintenance and Repair Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+
+No one wants the heating to stop working during the coldest week of the year, so it’s important to get issues checked out as soon as you notice them.
+
+What Are Some of the Most Common Issues Faced by Central Heating Systems?
+-------------------------------------------------------------------------
+
+It can be difficult to identify the cause of a heating issue, but the symptoms are usually clear. Signs of a problem can include:
+
+*   Cold air
+*   Uneven heat distribution
+*   Bad smells
+*   Strange noises
+
+Below are some of the most common problems that could be affecting your HVAC system.
+
+### Blowing Cold Air
+
+If your heater is blowing out cold air, the first step is to check your thermostat. Set it to the correct temperature and verify that it’s on the right setting. If the settings are correct, you may have a problem with dirty air filters, pilot light issues or a lack of fuel.
+
+### Controls Not Working
+
+A faulty thermostat means you can’t select the correct temperature or control other settings. Check your user manual first, as there may be instructions for troubleshooting thermostat problems. If this doesn’t work, it’s possible you need a brand-new thermostat.
+
+### Leaky Ducts
+
+A crack or hole in the ducts can lead to hot air leaking out, which can lead to poor air circulation, uneven heating and lower air quality. You can often find a leak yourself by feeling for air blowing out of the ducts. If the leak is minor, it can be sealed with duct mastic sealant or metal tape. For larger leaks or those in hard-to-reach places, call an HVAC technician to assess and repair the ductwork.
+
+### Pilot Light or Ignition Issues
+
+HVAC systems have either a pilot light or electronic ignition. This lights the fuel when you turn your system on, providing you with heat. Pilot lights can be blown out by the wind, but if it won't stay on, you should call your gas company for an inspection. They can check if the gas supply is making it to the pilot light. Systems with electronic ignitions may need to be serviced if they're not igniting fuel.
+
+### Lack of Fuel
+
+Whether your system runs on gas, electricity or oil, it won’t work properly if it doesn’t have access to fuel. A lack of fuel often causes fumes, odors, cold air and no heat.
+
+### Mold in Furnace
+
+Moisture can build up in an HVAC system, normally due to poor insulation or ductwork. This creates the perfect environment for mold to grow, causing poor air quality and often poor health. If you smell something bad, ask an HVAC technician to check and clean the system.
+
+### Short Cycling
+
+This is when your furnace turns on and off rapidly. There are a number of things that can cause this fault, including dirty filters and poor thermostat placement. Short cycling often leads to uneven distribution of warm air and cold spots around your house. A maintenance technician is usually the best choice to assess this problem.
+
+**More Related Articles:**
+
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [How Much Do UV Lights Cost for HVAC Systems?](https://www.homeserve.com/en-us/blog/cost-guide/uv-lights-hvac/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+
+Why Do Central Heating Problems Occur?
+--------------------------------------
+
+Whether you have a boiler, furnace or other system, central heating involves complex parts, and there are many points where problems can occur. Some of the most common issues include:
+
+* **Irregular maintenance.** Heating systems should be serviced at least once a year to ensure they remain in good working order.
+* **Dirty filters.** Clogged or dirty filters restrict airflow, meaning warm air doesn’t circulate properly.
+* **Problem parts.** Often problems are caused by parts in the system that are loose, worn down or need replacing.
+
+Regular maintenance is the best way to stay on top of heating issues. If you notice a problem, get it checked straight away. This can save you money in the long run and help you stay warm and comfortable during the winter months.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-vh1RDJC1M8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Change an HVAC Filter"></iframe>

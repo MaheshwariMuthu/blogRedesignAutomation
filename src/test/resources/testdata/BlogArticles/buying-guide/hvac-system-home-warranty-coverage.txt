@@ -1,0 +1,57 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Does Home Warranty cover HVAC?
+headline: Is an HVAC System covered in a Home Warranty Plan?
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists']
+publishDate: 2019-09-19
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: HVACDefinition.jpg
+heroAltDescription: HVAC Buying Guide
+metaDescriptions: Get peace of mind with a heating and cooling HVAC home warranty coverage plan.
+articleAbstract: Find out if your HVAC system is covered by a home warranty plan. 
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Does Home Warranty cover HVAC?
+  parent: HVAC-Buying-Guide
+---
+
+:::: blog-info
+What happens when things go wrong with your HVAC? None of the possibilities are pretty, although it's probably better to face HVAC problems now when the system doesn't need to do as much work. _(Though winter will be here before we know it.)_ When my heater went down two years ago in the dead of winter, I was not a happy camper. Imagine Chicago temps that only reach 10 degrees with a windchill of -20. Brrrrrrrrrrrrrr!
+
+[1]: https://www.homeserveusa.com/totalhomewarranty
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+To make sure that scenario doesn't happen to you, it’s best to be prepared and to schedule an HVAC tune-up ahead of time rather than during the height of the season.
+
+Here we'll take a look at certain common HVAC system issues and how the safety net of a reliable home warranty plan can help you manage them:
+
+## Basic HVAC troubleshooting
+
+Possible problems with your HVAC unit can begin with making sure the system doesn't simply lack power. [Follow these quick steps](https://homeguides.sfgate.com/troubleshoot-hvac-problems-malfunctions-38873.html){target="_blank"} recommended by _SFGate Home Guides_:
+
+::: list-square
+* Check the HVAC circuit breakers to see if they've tripped. (There's one for the furnace and one for the air conditioner.) If they have, flip them back to their proper position; your problem might've been a simple temporary power surge.
+* If breakers are in the right position but one of the units still isn't working, turn off the breaker for the malfunctioning unit, wait 10 seconds and then turn it back on.
+* Homeowners with fuse boxes instead of breakers should turn the box's main power off, then check for (and replace) any blown fuses.
+* Finally, check the thermostat power - if it runs on batteries, you might just need to switch in new ones.
+:::
+
+[Learn More About Home Warranty Plans Near You](https://www.homeserveusa.com/totalhomewarranty){target="_blank"}
+
+After all of that, check the unit's heating and cooling ability by adjusting temperature to three degrees above and below room temperature. Heaters that have power but aren't running may have had a reset switch inside the panel door be accidentally tripped, meaning you just have to flip that control back to normal. ACs, meanwhile, may have dirty, frozen coils that just need to be cleaned.
+
+## Facing bigger problems
+
+Problems more complex than anything described above may well need the attention of a professional. [Some of the biggest ones](https://www.energy.gov/energysaver/common-air-conditioner-problems){target="_blank"} include refrigerant leaks, fan blade or motor failures, faulty electrical connections and erratic sensors, according to the Energy Department.
+
+It's understandable if you're worried about the final price tag for any repairs. _(We are all worried about high repair costs eating into our wallets.)_ Fortunately, HVAC systems are included in most home warranties, including several plans from HomeServe.
+::::
+
+Protecting your HVAC system by being prepared with a [plan from TotalHome Warranty by HomeServe](https://www.homeserveusa.com/totalhomewarranty/plans-pricing){target="_blank"} can help with the costs of covered repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}

@@ -1,0 +1,112 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Your Home's HVAC Systems Work"
+headline: "How Your Home's HVAC Systems Work"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-25
+basePath: https://library.homeserve.com/m/
+heroImage: 4cec079093da51f0/Blog-HOMESERVEUSA-PSEG-2019ModernFotographicbyDaveNoonan-207.jpg
+heroAltDescription: "hvac beauty shot"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Ever wondered how your heating, cooling and ventilation systems work? Read this breakdown."
+articleAbstract: "Your heating, cooling and ventilation systems go unnoticed when they're working well. If you've ever wondered how your home HVAC system works, read this breakdown."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Your Home's HVAC Systems Work"
+  parent: HVAC-Home-Improvement
+---
+  
+
+For those who live in areas with hot and humid summers or freezing winters, HVAC systems are essential. They go unnoticed when they're working well, but a broken pump or fan can make for an unpleasant few days waiting for a repairperson.
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+If you've ever wondered how your home HVAC system works, read on to learn about the types of systems and what makes the heating and cooling happen.
+
+What Does ‘HVAC’ Stand For?
+---------------------------
+
+HVAC stands for “heating, ventilation and air conditioning.” There are a few types of home HVAC systems, and the way these systems work has evolved over the years as people have found newer, more efficient and environmentally friendly refrigerants.
+
+What Are the Different Parts of a Home HVAC System?
+---------------------------------------------------
+
+<img class="detail-image" src="https://library.homeserve.com/m/2a9188b7a9a033cf/Blog-shutterstock_353478125_dial_thermostat_CMYK.jpg" alt="dial thermostat"/>
+
+Home units are made up of several parts, including:
+
+*   Thermostat (a central thermostat, plus valves on radiators)
+*   Heat exchanger
+*   Furnace and blower motor
+*   Evaporator coil
+*   Condensing unit
+*   Refrigerant lines
+*   Ductwork (for hybrid/split systems)
+
+The central heating system may be in the form of a radiator or convection heating unit, depending on the type of HVAC system you have. Radiators are more commonplace, especially in homes in cooler climates.
+
+Knowing what these parts do and whether they need regular servicing helps you stay on top of regular HVAC system maintenance.
+
+<img class="detail-image" src="https://library.homeserve.com/m/10ad48093f077c88/Blog-GettyImages-183796537.jpg" alt="HVAC unit"/>
+
+What Are the Different Types of HVAC Systems?
+---------------------------------------------
+
+There are several types of AC systems. The main types are split systems, hybrid systems, ductless systems and packaged heat and air units.
+
+### Split Systems
+
+A split system has a cooling system, usually located outside the property, and a separate heating system located in the basement or a storage area. Split systems are the most common type of system.
+
+### Hybrid Systems
+
+Hybrid systems are similar to split systems in that they use a separate heating and cooling unit. They're called hybrids because they can use both gas and electricity, making them energy efficient and potentially reducing running costs.
+
+### Ductless Systems
+
+Ductless systems are compact HVAC units that serve individual rooms. They offer good home comfort since each unit is individually controlled. From an HVAC repair point of view, they're hand, too, since if one unit fails, it won't affect the other units in the property.
+
+### Packaged Systems
+
+Packaged heating and air systems are compact and energy-efficient units that are popular in warmer climates. These units have good cooling systems but tend to have less powerful heating. However, if you're looking for an unobtrusive unit primarily for cooling, they can be a practical choice.
+
+<img class="detail-image" src="https://library.homeserve.com/m/dd14909f95e31e6/Blog-GettyImages-185253422.jpg" alt="Residential HVAC Duct Cleaning with a Power Brush"/>
+
+**More Related Articles:**
+
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [Does My HVAC Filter Protect Against COVID-19?](https://www.homeserve.com/en-us/blog/home-improvement/hvac-filter-covid-19/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Is an HVAC Tune-Up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+How Does a Home HVAC System Work?
+---------------------------------
+
+Your HVAC system uses three systems — one for heating, one for cooling and one for ventilation — to improve the air quality and control the climate in your home. In split systems, the heating and cooling work independently, and the heating is often in the form of a radiator, while cooling uses fans that send cool air into the room.
+
+The ventilation system usually has air filters that trap pollen, dust and other particles, helping keep the air in your home as clean and fresh as possible. It's important to change these filters regularly to keep them working efficiently.
+
+How Does an HVAC System Heat Your Home?
+---------------------------------------
+
+The most common form of heating system is a boiler or heat pump that generates heat. Usually, it uses energy to create warm water, which is pumped to radiators in each room. Thermostatic valves on each radiator can control the temperature in individual rooms. Compared to the cooling system, heating is quite simple. Bleeding radiators regularly to release air that is trapped in the system can help keep your heating system working well.
+
+<img class="detail-image" src="https://library.homeserve.com/m/71c93ea5926e9b26/Blog-ACVent_MSchmitz_0001.jpg" alt="hand in front of air vent"/>
+
+How Does It Cool Your Home?
+---------------------------
+
+Cooling systems absorb heat from inside your home and pump it outside. To do this, they use a refrigerant. The type of refrigerant used depends on how old the system is, but newer air conditioning units use environmentally friendly refrigerants such as R1234YF because older options, such as Freon, are now banned.
+
+Refrigerants are substances that can be liquid or gas, depending on the pressure they're under. As the HVAC system alters the pressure of the refrigerant, this in turn impacts how much heat the refrigerant absorbs. The refrigerant passes through pipes in the house and is directed outside the property, where it will release the heat before beginning its journey through the system again.
+
+Issues with the cooling system are some of the most common HVAC problems. A refrigerant leak, or a system where the refrigerant is not kept at the right pressure, could cause your HVAC system to blow warm air.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

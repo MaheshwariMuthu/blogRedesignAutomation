@@ -1,0 +1,63 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What's the Difference Between a Propane and Oil Furnace?"
+headline: "What's the Difference Between a Propane and Oil Furnace?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-10-06
+basePath: https://library.homeserve.com/m/
+heroImage: f6f01ae3a0862d3/Blog-OilHeater_MDavis_IMG_0778.jpg
+heroAltDescription: "A modern residential boiler system in a historic East coast home"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Discover the main differences between propane and oil furnaces, including cost factors, efficiency and environmental impact."
+articleAbstract: "What's the difference between propane and an oil furnace? Below, we'll compare both furnace types in terms of upfront costs, efficiency and environmental impact."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "What's the Difference Between a Propane and Oil Furnace?"
+  parent: HVAC-Buying-Guide
+---
+  Oil and propane furnaces are two of the most common domestic heating systems, and deciding which is best for your home can be confusing.
+
+**This May Also Interest You:** [**What’s the Difference Between a Furnace and a Heat Pump?**](https://www.homeserve.com/en-us/blog/home-improvement/furnace-heat-pump-differences/)
+
+So, what's the difference between propane and an oil furnace? Below, we'll compare both furnace types in terms of upfront costs, efficiency and environmental impact.
+
+What Are the Main Differences Between a Propane and Oil Furnace?
+----------------------------------------------------------------
+
+Often, your existing furnace type will dictate whether installing a propane or oil furnace is more practical. However, it's worth considering the differences between these common furnace types to help you decide if you should switch.
+
+### Installation and Maintenance Costs
+
+Installing a standard-efficiency propane or oil furnace costs roughly the same amount. According to [HomeGuide](https://homeguide.com/costs/propane-furnace-cost), you should expect to pay between $2,200 and $5,700 (CAD 2,900 and CAD 7,600) to install a propane furnace. An oil furnace is slightly more expensive at [$2,500 to $6,000](https://homeguide.com/costs/oil-furnace-cost) (CAD 3,300 to CAD 8,000).
+
+However, installing a propane furnace is significantly cheaper if you want an efficient unit. High-efficiency propane furnaces usually cost between $3,500 and $7,400 (CAD 4,650) and CAD 9,800) installed, compared to between $3,000 and $10,000 (CAD 4,000 and CAD 13,300) for an oil furnace.
+
+Propane furnaces are also more affordable to maintain than oil furnaces. Unlike oil, propane doesn't produce soot when it burns, making propane furnace maintenance a relatively straightforward and affordable task.
+
+### Fuel Costs
+
+It's also worth considering how much your furnace will cost to run before choosing between a propane or oil model. Prices for both fuel types usually fluctuate throughout the year, and which is more affordable overall depends on where you live. Some fuel providers offer fixed-price programs that guarantee a consistent cost throughout the year, so it's worth getting a few quotes for both fuels to see what works out cheaper.
+
+Oil is a more efficient fuel than propane. Despite this, propane furnaces tend to be significantly more efficient than oil furnaces, which generally makes propane the more energy-efficient option.
+
+**More Related Articles:**
+
+*   [Central Air Installation and Replacement Cost](https://www.homeserve.com/en-us/blog/cost-guide/central-air-installation-cost/)
+*   [What You Need to Know About AC Repair Costs](https://www.homeserve.com/en-us/blog/cost-guide/ac-repair-costs/)
+*   [How Much Do UV Lights Cost for HVAC Systems?](https://www.homeserve.com/en-us/blog/cost-guide/uv-lights-hvac/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Do You Need a Zoned HVAC System?](https://www.homeserve.com/en-us/blog/home-improvement/zoned-hvac-system/)
+
+### Environmental Impact
+
+According to the [U.S. Energy Information Administration](https://www.eia.gov/environment/emissions/co2_vol_mass.php), burning propane produces significantly less carbon dioxide than domestic heating oil. For that reason, a propane furnace is generally more environmentally friendly than an oil furnace. Furthermore, oil spills from furnaces can contaminate the soil around your home and poison water supplies.
+
+### Other Considerations
+
+One area where propane outstrips oil is its versatility. You can only use heating oil in your furnace, while propane has a variety of domestic uses. For example, you can use propane for cooking and powering household appliances. Therefore, a propane furnace could be a better option if you want to use the same fuel for all your household needs.
+
+Another potential point to consider is your home's existing structure. Oil furnaces need their own chimneys, which may not be an issue if you already have this furnace type. If you don't, you may need to construct a dedicated chimney to accommodate an oil furnace. As oil produces soot, you'll also need to clean the chimney regularly to reduce the risk of a house fire.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

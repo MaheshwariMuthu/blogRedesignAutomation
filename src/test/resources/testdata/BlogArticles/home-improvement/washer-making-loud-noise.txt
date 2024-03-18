@@ -1,0 +1,98 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Washer Making Loud Noise: Here's Why and What to Do"
+headline: "Here's Why Your Washing Machine Is Making Noise"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-03-05
+basePath: https://library.homeserve.com/m/
+heroImage: 2237f8ccf568ab92/Blog-ResidentalWasherDryer_ERossi-1125.jpg
+heroAltDescription: "residential washer and dryer in laundry room"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Hearing loud banging or grinding coming from the washer is concerning. Here’s what’s making the loud noise, and how to stop it."
+articleAbstract: "It can be a real worry if you start hearing scary sounds coming from your washing machine. The good news is that many of the common causes of a washer making noise are easily fixable with the right advice."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My Washing Machine Making Noise?"
+  parent: Appliances
+---
+  Most of us need our washing machines to get through piles of laundry every week. Therefore, it can be a real worry if you start hearing scary sounds coming from your appliance.
+
+**This May Also Interest You:** [**How to Clean a Washing Machine Drain**](https://www.homeserve.com/en-us/blog/how-to/clean-washing-machine-drain/)
+
+The good news is that many of the common causes of a washer making noise are easily fixable with the right advice. Here’s what’s making the loud noise, and how to stop it.
+
+Common Washing Machine Noises
+-----------------------------
+
+There are several reasons for a washer making noise, and not all of them signify a serious fault with your appliance. However, it's essential to get to the bottom of any disturbing noises to stop the problem from getting worse. Often, the nature of the sound can provide clues about the most likely cause.
+
+### Banging
+
+Banging or clanking sounds are often due to items spinning around inside the drum. Detached buttons or zippers are frequently to blame. These items can also get stuck in the lint trap or door seal, which can sound scratchy or like a rattle.
+
+Sometimes, items can get past the seal separating the drum from the casing and rattle around between the tub and drum. These items then spin very fast, causing a thunderous, rapid banging noise.
+
+Don't use your washing machine before resolving the issue. The item could pierce the machine and cause severe damage or even a flood, especially if it's something sharp like a bra underwire.
+
+### Clicking
+
+A faulty or broken water inlet valve often causes a clicking sound that's a little like the noise made by an old movie projector. These valves can sometimes get rusty or blocked with lint and other debris. You can usually tell if the inlet valve is faulty because the washing machine won't fill with water.
+
+### Grinding
+
+Overloading the drum is a common cause of a washer making noise, and it usually sounds like grinding. You may also hear grinding if your washer isn't level. If you have a washer that reverses the spin direction, you may hear a brief grinding sound when it changes direction. Therefore, grinding sounds aren't always a cause for alarm.
+
+However, grinding sounds can sometimes be due to a worn or rusty drum bearing. This bearing supports the drum and holds it in position while it turns, so a damaged bearing can stop the drum from rotating correctly. A faulty drive pulley can also cause a grinding noise. You can often tell if the drum bearing is to blame by turning the machine off, manually rotating the drum and listening to see if it starts making noise.
+
+### Squealing
+
+You might notice your washer making noise as it fills with water. Although a gentle rushing sound is normal, squealing or whistling could signify that the water pressure supplying the washer is too high.
+
+### Noise During Agitation
+
+The most common cause of a washer making a loud noise during the agitation cycle is a worn-out drum bearing or broken drive pulley. These defects usually cause a grinding or rumbling sound when the drum spins.
+
+### Noise During Spin Cycle
+
+The most likely reason for a washer making noise during the spin cycle is an item caught in the lint trap, seal or between the drum and washer casing. This causes a rattling or banging sound, which can be extremely loud.
+
+**More Related Articles:**
+
+*   [How to Move Your Washing Machine](https://www.homeserve.com/en-us/blog/how-to/move-washing-machine/)
+*   [Should You Repair or Replace your Washing Machine?](https://www.homeserve.com/en-us/blog/home-improvement/washing-machine-repair-replacement/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [Here’s How to Change the Direction the Door Swings on Your Washer and Dryer](https://www.homeserve.com/en-us/blog/how-to/reverse-washer-dryer-door/)
+*   [What Do You Do With an Old Appliance? How to Recycle Fridges, Washers, Ovens and More](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+How Do I Stop My Washer From Making Noise?
+------------------------------------------
+
+Fortunately, you can often fix a noisy washer yourself. Try the tips below to stop your washer from making noise before booking a professional repair.
+
+### Empty the Drum
+
+If your washer's making a rattling sound, it could be down to something as simple as buttons or zips from your clothing banging against the inside of the drum. Try removing everything from the drum and running a cycle on empty. If the sound stops, you've found the culprit.
+
+### Clean the Lint Trap
+
+If the rattling continues, try removing the lint trap (if your washer has one) and pulling out any debris caught inside. You can also wash the lint trap and its housing with a mild detergent to remove stubborn dirt and prevent future clogs.
+
+### Check Under the Seal
+
+Items caught under the seal could also be to blame for a rattling sound. Try pulling the seal up and removing any stuck items or lint from underneath.
+
+### Adjust the Water Pressure
+
+You can often stop your washer from making a whistling or squealing noise by reducing the water pressure supplying the machine. Move the machine away from the wall, find the hot and cold water valves and turn the regulator screw to the left to reduce the water flow slightly.
+
+### Replace the Water Inlet Valve
+
+It's possible to clean a clogged water inlet valve, but it's a fiddly job. It's usually more practical to replace it entirely. You can purchase replacement inlet valves from hardware stores. Check that the valve matches your washer type and consider hiring a professional if you're unsure how to install it correctly.
+
+### Call a Professional
+
+Some causes of washing machine noise require professional attention. It's generally best to call a technician if you think there's an object stuck between the drum and casing. Removing the item requires disassembling the washer, which can easily go wrong if you don't know what you're doing.
+
+It's also best to leave replacing the drum bearing to a professional unless you're confident in your ability to do it properly. Performing these repairs on your washing machine incorrectly could cause serious damage and potentially void your warranty.

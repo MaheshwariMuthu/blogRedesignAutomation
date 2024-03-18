@@ -1,0 +1,63 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What's the Difference Between ERV and HRV?"
+headline: "What's the Difference Between ERV and HRV?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2023-11-10
+basePath: https://library.homeserve.com/m/
+heroImage: 3b77e0a05acc332a/Blog-GettyImages-1487523773.jpg
+heroAltDescription: "Ducts connect to ERV in foam insulated attic"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "By understanding the differences between ERV and HRV HVAC systems, you can make an informed decision for your home."
+articleAbstract: "By understanding the differences between ERV and HRV HVAC systems, you can make an informed decision and create an indoor environment representing both a financially and ecologically sound investment."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's the Difference Between ERV and HRV?"
+  parent: HVAC-Home-Improvement
+---
+  What's the Difference Between ERV and HRV?
+
+Discover who wins in the ERV vs. HRV contest. Learn more about how both systems work and how they can reduce energy costs while being better for the planet.
+
+This article compares ERV vs. HRV HVAC systems. It details how they work, how energy-efficient they are and their suitability, depending the local climate and the home environment.
+
+Author: Rowan Guthrie
+
+Imagine this scenario: You're in your cozy home, sipping a cup of something warm, and winter’s cold winds are howling outside. As you take in the clean indoor air, have you ever wondered how your ventilation system works to keep the air fresh while maintaining a comfortable temperature? In the world of HVAC systems, ERV and HRV are two players tasked with this challenge. But even though they ultimately perform the same function, they’re not the same. By understanding their differences, you can make an informed decision and create an indoor environment representing both a financially and an ecologically sound investment. Let’s explore ERV vs. HRV and see if there's a winner.
+
+What Is an ERV System?
+----------------------
+
+ERV is short for energy recovery ventilation — a technology designed to ensure your home's indoor air quality is as comfortable and safe as possible. Although generally speaking an ERV HVAC system can be used anywhere, it's particularly useful in regions with extreme climates, where outdoor conditions can swing from freezing winters to scorching summers. If that’s where you live, keep reading to find out more.
+
+What Is an HRV System?
+----------------------
+
+On the other side of the HVAC spectrum, we have HRV, or heat recovery ventilation. It also plays a crucial role in maintaining indoor air quality, especially in homes located in regions with climates that are regularly cold. If this is you, an HRV HVAC system will keep your home's indoor climate comfortable and healthy year-round.
+
+ERV vs. HRV Systems
+-------------------
+
+If your home is 5 years old or less, the choice of ERV vs. HRV may be unnecessary, as one of them is likely already installed. However, it pays to know how both systems make homes more comfortable. Additionally, if your home is older, it's handy to know how they can improve its indoor environment. The systems aren’t the same, so let’s compare HRV vs. ERV and see what sets them apart.
+
+### How They Work
+
+Energy recovery ventilators transfer both heat and moisture between the incoming and outgoing air streams. This means they can recover some heat from the warm indoor air in the winter and transfer it to the cold incoming air while also helping maintain a balanced humidity level. Heat recovery ventilators primarily transfer heat between the incoming and outgoing air streams, making them highly efficient in cold climates. However, they don't transfer moisture, so they're better suited for regions with excessive humidity.
+
+### Climate Considerations
+
+ERV is ideal for regions with hot summers and cold winters, as it helps keep the indoor air cooler and drier during the summer and warmer and more humid during the winter. HRV is best suited for areas with cold winters and hot summers, as it prevents excessive heat loss during winter and reduces indoor humidity during summer.
+
+### Humidity Control
+
+ERV effectively balances humidity levels in the home, making it suitable for areas prone to humidity fluctuations. In contrast, HRV focuses on heat transfer and doesn't impact humidity levels significantly.
+
+### Energy Efficiency
+
+ERV offers a higher level of energy efficiency in terms of moisture and heat recovery. It can be as high as [70%](https://www.ecohome.net/guides/2276/choosing-between-an-hrv-and-an-erv/), depending on the current humidity level. HRV excels in recovering heat but may not be as efficient in managing humidity. However, efficiencies commonly range from 55% to 75% and can be as much as 93% in high-end brands.
+
+### Installation and Maintenance
+
+ERV requires separate channels for incoming and outgoing air, ensuring fresh air never mixes with the heat recovery process. HRV, however, utilizes a heat exchanger to transfer heat, making installation easier and more straightforward.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-vh1RDJC1M8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Change an HVAC Filter"></iframe>

@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Install a Bug Zapper"
+headline: "How to Install a Bug Zapper (It's Shockingly Easy)"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-10-13
+basePath: https://library.homeserve.com/m/
+heroImage: 73491be5e92c7d5f/Blog-GettyImages-842677462.jpg
+heroAltDescription: "A bug zapper light hangs in the foreground against a backdrop of outdoor greenery"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A bug zapper can help keep your backyard free of insects. The trick is finding the right place to install it."
+articleAbstract: "A bug zapper can help keep your backyard free of insects. The trick is finding the right place and installing the bug zapper securely, so it can do its job."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install a Bug Zapper"
+  parent: Electrical-How-To
+---
+  Nothing ruins a backyard barbecue faster than buzzing, biting bugs. Installing a bug zapper can help keep your backyard free of insects.
+
+**This May Also Interest You:** [**How to Get Rid of Ants**](https://www.homeserve.com/en-us/blog/how-to/get-rid-of-ants/)
+
+The trick is finding the right place and installing the outdoor bug zapper securely, so it can do its job.
+
+How Does a Bug Zapper Work?
+---------------------------
+
+Bug zappers have two essential components: a UV light to attract bugs and a high-voltage wire mesh grid to zap them. Bugs fly toward the UV light, which is typically created with a fluorescent bulb. The light is surrounded by the electrified wire mesh. When a bug flies into the wire mesh, it completes the circuit and gets electrocuted. Bug zappers kill bugs instantly once they hit the mesh.
+
+What Bugs Does It Eliminate?
+----------------------------
+
+Bug zappers will kill any bugs that fly into them, which means they'll also kill beneficial insects that find themselves entranced by the light. Unfortunately, mosquitoes and biting flies aren't as attracted to UV light as other bugs, so a bug zapper might not eliminate the most annoying pests in your backyard. Mosquitoes are more attracted to carbon dioxide than they are to light, which means they'll avoid death by electrocution and still likely find their way to you for a nightly nibble. Bugs that often die in bug zappers include aphids, moths thrips, fireflies, leafhoppers, beetles and parasitic wasps, which can help eliminate other unwanted pests.
+
+Where Should You Hang a Bug Zapper?
+-----------------------------------
+
+You'll typically want to hang your bug zapper near the perimeter of your yard, away from seating areas, about 5 to 7 feet off the ground. Aim for at least 15 to 20 feet away from where you usually spend time outdoors. Bugs often get vaporized when they hit the wire grid, which means little bug body parts can go flying — you don't want that to happen near outdoor dining areas, outdoor kitchens or seating areas.
+
+Having it too close to seating areas can also attract more bugs near you. They might stop to bug you before they reach the zapper. Not to mention, hanging a bug zapper near a seating area or walkway could result in someone hitting their head on it. Placing it away from your home also cuts down on competing light sources that might draw bugs away from the bug zapper, including windows and exterior light fixtures.
+
+Another consideration is access to a power source. You'll need to plug in your bug zapper, so hanging it near an exterior electrical outlet is ideal. If you don't have a good spot near an existing outlet, a heavy-duty extension cord can connect the zapper to the power source. Consider where the extension cord will run, as it can create a tripping hazard or get cut by your lawn mower.
+
+Other people choose a location based on appearance. While the UV light won't hurt humans, some people don't like looking at it while they're sitting outdoors. You might place it behind a shed or in a tree to disguise it or block it from view.
+
+**More Related Articles:**
+
+*   [Got Yard Pests? Here’s How to Deal With the Damage](https://www.homeserve.com/en-us/blog/home-improvement/get-rid-of-yard-pests/)
+*   [How Much Does Pest Control Cost?](https://www.homeserve.com/en-us/blog/cost-guide/pest-control-services/)
+*   [Got Roaches? Try These 4 Solutions](https://www.homeserve.com/en-us/blog/home-improvement/get-rid-of-roaches/)
+*   [Houseplant Pests: Common Critters and How to Get Rid of ’Em](https://www.homeserve.com/en-us/blog/how-to/get-rid-of-houseplant-bugs/)
+*   [We’ve Got Bedbugs! Now What?](https://www.homeserve.com/en-us/blog/home-improvement/get-rid-of-bedbugs/)
+
+How Do You Hang a Bug Zapper?
+-----------------------------
+
+You can hang bug zappers in a variety of ways, depending on where you want to put them and what's in the area. Screw a secure bracket into a fence, garage or other sturdy structure to suspend the bug zapper. You can also attach it to an overhang on your home or another building on your property.
+
+If you want to place it in an open area, a sturdy metal shepherd's hook can work. Make sure the hook can hold the weight of the bug zapper securely without bending or falling over. If you have a tree with a sturdy branch, you can also secure the bug zapper to that. Keep in mind that bug zappers shouldn't be left in the rain, so you'll need to take them down if they're not in a protected area.
+
+What Are Some Alternatives to a Bug Zapper?
+-------------------------------------------
+
+If your main reason for getting a bug zapper is to control mosquitoes, you might want to consider other options. You likely won't see the results you want in killing mosquitoes, and you'll likely eliminate helpful bugs in your backyard.
+
+A pest control service can apply barrier treatments around your yard regularly. This can reduce the number of mosquitoes that enter your backyard. Citronella candles lit near you while you're outdoors can help repel pesky bugs.
+
+You can also make your yard less appealing to mosquitoes with some landscaping tricks. Eliminate standing water since that's where mosquitoes tend to lay their eggs. This includes bird baths, kiddie pools and containers that collect water, such as flower pots. Cleaning up natural debris can also eliminate breeding areas for mosquitoes. Some plants, including citronella, lemongrass, sage, basil, peppermint and rosemary, are said to repel annoying bugs like mosquitoes. Planting them near your seating areas could help you enjoy outdoor areas more comfortably.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

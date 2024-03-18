@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Map Your Oven’s Hot Spots"
+headline: "Is Your Oven Heating Inconsistently? Here's How to Map Your Oven’s Hot Spots"
+author: Katelynne Shepard
+tags: ["post"]
+publishDate: 2023-07-22
+basePath: https://library.homeserve.com/m/
+heroImage: 3ace0b83c3297cc9/Blog-WolfDoubleOven_AWiesen_IMG_0507.jpg
+heroAltDescription: "Wolf double oven"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Oven hot spots can cause uneven cooking and may even damage your oven long term. Find out how to map your oven's hot spots and fix any issues."
+articleAbstract: "Does your oven get hotter on one side than the other? You might have hot spots. Here's how to find and fix them."
+category: ["How To"]
+eleventyNavigation:
+  key: "Is Your Oven Heating Inconsistently? Here's How to Map Your Oven’s Hot Spots"
+  parent: Appliances-How-To
+---
+  You're baking a cake for your child's birthday, and it smells delicious. But when you go to take it out of the oven, half the cake is on its way to burning while the other still has raw batter.
+
+**This May Also Interest You:** [**How to Choose the Right Oven or Cooktop for Your Kitchen**](https://www.homeserve.com/en-us/blog/home-improvement/oven-cooktop/)
+
+This frustrating scenario could mean that your oven isn't heating consistently. Find out what this means and how to fix hot spots in your oven.
+
+What Is a Hot Spot in the Oven?
+-------------------------------
+
+An oven hot spot occurs when there are places in your oven that get hotter than the rest. If this is happening, you may notice that large dishes like lasagna aren't cooking evenly. For example, one side might almost burn while the other isn't even done yet. When baking, you may notice that just the cookies on the left side of the pan are getting too hot. If you have an issue with an oven element, hot spots may appear close to that element. Hot spots are also common around the back and sides of the oven. While minor hot spots may not be an issue, significant temperature disparities across the oven could lead to damage to the heating element and other issues, so it's a good idea to fix them.
+
+What Are Some Ways to Map the Hot Spots in Your Oven?
+-----------------------------------------------------
+
+Before you can address the underlying issue, you have to figure out where the hot spots are. You may already have some idea based on where food is getting burnt, but there are a few methods you can use to pinpoint oven hotspots.
+
+### White Bread
+
+Place several pieces of white bread on a baking sheet and preheat the oven to 350 degrees Fahrenheit (176 degrees Celsius). Place the sheet of bread in the oven. Check to see which slices turned darker or cooked faster to identify the hot spots.
+
+### Parchment Paper
+
+Line a baking sheet with a piece of parchment paper cut to fit. Preheat the oven to 400 degrees Fahrenheit (204 degrees Celsius). Place the baking sheet in the oven for 10-20 minutes, watching it the entire time. The parchment paper will turn dark where there is a hot spot.
+
+### Sugar
+
+Use about 1 cup of sugar in a shallow baking pan like a jelly roll pan, distributed evenly. Preheat the oven to 400 degrees Fahrenheit (204 degrees Celsius), and place the sheet in the oven for about 10 minutes. The sugar will be melted where there is a hot spot.
+
+### Oven-Safe Thermometers
+
+You can also just put several oven-safe thermometers in different places in your oven. Bring the oven up to temperature and see whether the thermometers match. The advantage to this method is that you can see exactly how big a discrepancy you are dealing with.
+
+Remember to check all the racks in your oven, as there may be cold or hot spots higher or lower in the oven as well.
+
+**More Related Articles:**
+
+*   [Should You Buy a Used Appliance? Weigh the Risks and Rewards](https://www.homeserve.com/en-us/blog/buying-guide/used-appliances/)
+*   [7 Ways Your Kitchen Will Evolve in the Next 10 Years](https://www.homeserve.com/en-us/blog/home-improvement/advancements-kitchen-technology/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+How Do You Get Rid of Hot Spots in the Oven?
+--------------------------------------------
+
+Once you have identified where the problem is, the next step is to fix the oven hot spots. If there are significant temperature differences throughout your oven, you may want to have an appliance repair tech come out to check it. This could be an issue with the heating element or a fan.
+
+If the hot spots are relatively minor but you want to have more consistent heat for better cooking and baking results, you can get a baking stone. The baking stone goes on the bottom rack — or even the floor of the oven, if you don't have a heating element there. It works by absorbing the heat from the oven and diffusing it throughout the space for a more even temperature.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Clean Your Oven | Cleaning Oven Tips and Tricks"></iframe>

@@ -1,0 +1,88 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Build a Sandbox?"
+headline: "How Much Does It Cost to Build a Sandbox?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-07-15
+basePath: https://library.homeserve.com/m/
+heroImage: 1585c5699163fa64/Blog-GettyImages-1004040804.jpg
+heroAltDescription: "three multiethnic little children playing with plastic scoops and buckets in sandbox at playground"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Sandboxes are great places for kids to play. Find out how much it might cost to build a sandbox in your yard."
+articleAbstract: "Thinking about adding a sandbox to your yard? Luckily, it's a pretty simple DIY project. Here’s how much it might cost you. "
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Build a Sandbox?"
+  parent: Exterior-Cost-Guide
+---
+  &viewType=grid
+
+Sandboxes are a great feature for any backyard playground. You can purchase a premade plastic sandbox and fill it with sand, though as your little ones grow, you may want to create a bigger space for them to play in. It’s fortunate for you that a wooden sandbox is a pretty simple — and _relatively_ inexpensive — DIY project.
+
+**This May Also Interest You:** [**How to Build a Swing Set: 10 Steps and You’re Swingin’**](https://www.homeserve.com/en-us/blog/how-to/build-swing-set/)
+
+Thinking about adding a sandbox to your yard? Here’s how much you can expect it to cost you.
+
+Building a Sandbox: Cost Factors
+--------------------------------
+
+According to This Old House, [you can make a very basic sandbox for about $200](https://www.thisoldhouse.com/yards/21016649/how-to-build-a-simple-sandbox) (CAD 269) The final cost depends on the materials you choose, the size of the sandbox and how much sand you’ll need to fill it.
+
+In order to figure out how much it might cost you to build a sandbox, start by making a materials list. To build an 8-foot by 8-foot sandbox, you’ll need:
+
+*   Wood
+*   Wood screws
+*   Landscape fabric
+*   Construction glue
+*   Play sand
+
+Keep in mind that you might have to purchase more than what's on this list, especially if you don't have the proper tools to complete the job. In terms of tools, you’ll need a circular saw, drill and driver bits, a dust mask and hearing protection.
+
+In this cost guide, we'll break down what you might expect to pay for each major material listed above. To help you determine the cost, let’s assume we’re building an 8-foot by 8-foot sandbox.
+
+<img class="detail-image" src="https://library.homeserve.com/m/381c4817fca562ea/Blog-GettyImages-1206068236.jpg" alt="Sandbox in the playground for small children"/>
+
+### Wood and Wood Screws
+
+The type of wood you choose for the sandbox is important. It's typically best to choose a type rated for outdoor use. Otherwise, the wood won't last long when exposed to moisture and dirt. Insect resistance is also something you should consider.
+
+Cedar is a great choice because of its pest-resistant properties, but it's on the pricier side. It also tends to be a softer wood, so corner bracing would be optimal for a cedar sandbox. Other good choices include white oak or black locust, although black locust is quite hard and would need to have predrilled holes. Whatever type of wood you choose, it may be a good idea to seal it yourself to shield it further from the elements. Construction adhesive and wood screws are also necessary for binding pieces of wood together.
+
+To build our hypothetical 8-foot by 8-foot sandbox, we’re using:
+
+*   Eight 8-foot sections of 1-inch by 6-inch [cedar boards](https://www.homedepot.com/p/1-in-x-6-in-x-8-ft-S1S2E-Cedar-Board-5-Pack-WRC168T5PK/311004727) at $29 (CAD 39) each = $232 (CAD 310)
+*   Four 8-foot sections of 1-inch by 3-inch cedar boards at $14.50 (CAD 19) each = $58 (CAD 77)
+*   1 package of 3-inch [exterior (deck) screws](https://www.homedepot.com/p/Grabber-9-x-3-in-Lox-Flat-Head-Wood-Deck-Screws-25-Pack-21845/302442274) = $6.89 (CAD 9.20)
+
+Based on these estimates, the wood and screws together come to just under $300 (CAD 401). You may pay more or less if you use a different type of wood.
+
+**More Related Articles:**
+
+*   [Mow Money: Here’s How Much Lawn Care Services Cost](https://www.homeserve.com/en-us/blog/cost-guide/lawn-service-cost/)
+*   [How to Build and Above-Ground Pool](https://www.homeserve.com/en-us/blog/how-to/build-above-ground-pool/)
+*   [How Much Does an Above-Ground Pool Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-an-above-ground-pool-cost/)
+*   [How to Build a Fire Pit](https://www.homeserve.com/en-us/blog/how-to/build-fire-pit/)
+*   [How Much Does It Cost to Build a Shed?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-it-cost-to-build-a-shed/)
+
+### Landscape Fabric
+
+Installing landscape fabric at the bottom of your sandbox can help with drainage. It’ll also prevent weeds from growing up through the sand. Taking this extra step during construction is important for the longevity of your sandbox. It also makes the playing experience safer and more enjoyable for your children.
+
+[Premium landscape fabric costs](https://www.thisoldhouse.com/landscaping/22815516/best-landscape-fabric) between $1 and $3 (CAD 1.34 and CAD 4) per square foot, though you can purchase budget options for under $1 (CAD 1.34) (CAD 86) per square foot. Expect to pay around $64 or more for enough landscape fabric to cover the bottom of an 8-foot by 8-foot sandbox.
+
+### Play Sand
+
+Play sand may be the most expensive part of this DIY project. This type of sand comes prepackaged. It's typically washed river sand, so it has a smooth texture. At most home improvement stores — such as Lowe's — one 50-pound bag of [play sand start](https://www.lowes.com/search?searchTerm=play+sand) around $5.98 (CAD 8). Prices vary depending on the store you go to and where you live.
+
+To figure out how much sand you need, you’ll have to calculate the volume of your sandbox. Multiply the length by the width by the height in feet. In this case, an 8-foot by 8-foot sandbox with a 1-foot depth equals 64 cubic feet.
+
+According to [Hunker](https://www.hunker.com/13425627/how-to-calculate-how-much-sand-to-fill-a-sandbox), one 50-pound bag of play sand fills about half a cubic foot of space. You don’t necessarily need to fill the sandbox all the way to the top. To fill it halfway, you’ll need about 64 bags of sand. If you want to fill it completely, you’ll need 128 bags of sand.
+
+So, if a 50-pound bag of sand costs about $5.95 (CAD 8), the cost calculation would be as follows:
+
+*   64 bags x $5.95 = $380.80 (CAD 509)
+*   128 bags x $5.95 = $761.60 (CAD 1,017)
+
+You can also purchase play sand in bulk, which might save you money — and a backache — depending on how many 50-pound bags of sand you would need.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

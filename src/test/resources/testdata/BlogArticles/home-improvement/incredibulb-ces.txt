@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Incredibulb Offers Shatterproof Lightbulb Solution"
+headline: "New Bulb Just Dropped, But It Didn't Shatter: The Incredibulb"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2023-01-11
+basePath: https://library.homeserve.com/m/
+heroImage: 5a500ae71d70686e/Blog-IMG_3649.jpg
+heroAltDescription: "silicone lightbulb"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Announced during CES 2023, the Incredibulb offers a simple solution to a common problem. The silicone lightbulbs bounce (not break) when dropped."
+articleAbstract: "Announced during CES 2023 (the largest consumer technology exhibition in the world), the Incredibulb offers a simple solution to a generations-old problem. The silicone lightbulbs bounce when dropped, making broken bulbs a problem of the past."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "New Bulb Just Dropped — But It Didn't Shatter"
+  parent: Electrical-Home-Improvement
+---
+  Remember the early days of compact fluorescent (CFL) lightbulbs and the panic surrounding the mercury vapor they could release if dropped and broken? Well, we’ve come a long way since then, lightbulb-wise. For one thing, [many experts agree](https://www.poison.org/articles/safe-cleanup-tips-for-broken-cfls) that the amount of mercury in a single broken CFL doesn’t pose a huge risk to most groups — though you still have to be careful with [cleanup](https://www.epa.gov/mercury/compact-fluorescent-light-bulbs-cfls). Also, many people have migrated to LED bulbs as an energy-saving alternative. _But_, they can still break. That’s the quintessential aspect of lightbulbs the squishy, shatterproof, silicone [Incredibulb](https://www.theincredibulb.com) has changed.
+
+**This May Also Interest You:** [**What Watt Lightbulb Do I Need?**](https://www.homeserve.com/en-us/blog/home-improvement/what-watt-light-bulb/)
+
+Announced during [CES 2023](http://ces.tech) (the largest consumer technology exhibition in the world), the Incredibulb offers a simple solution to a generations-old problem. The silicone lightbulbs bounce when dropped, making broken bulbs a problem of the past.
+
+“Why are lightbulbs still so easily broken?” Product creator Joelle Mertzel said in a press release that it was this question, following a broken lightbulb, that led to the invention. “With advancements in LED technology, we no longer need to protect a delicate filament.”
+
+The LED filaments sit inside the silicone enclosure — just like they would be in a casing of glass with a traditional LED bulb. Mertzel, who offered a demo of the product on the CES show floor, pointed out that LED filaments can go almost anywhere. There’s no real reason an LED bulb can’t look any way you want it to; consumers are just used to that iconic shape.
+
+The Incredibulbs work in most standard home light fixtures, but they’re best for those tight spaces where you really don’t want to put something that’s prone to shattering — like an attic with a low ceiling — or to replace bulbs that hang exposed without a protective fixture. They’re also heat-resistant. Thanks to the silicone, they stay relatively cool to the touch while in use.
+
+According to manufacturer Kitchen Concepts Unlimited LLC, the Incredibulb is a 60-watt equivalent, but only draws 7 watts of power. There’s also a 40-watt version that uses 5 watts of power. Available in two colors — bright, bluish Daylight and warm-toned Soft White — the [Incredibulb](https://www.theincredibulb.com) is available now in a two-pack for $9.99.
+
+_This is part of our CES 2023 coverage. Follow along here and on our social media channels:_
+
+*   [_Instagram_](https://www.instagram.com/homeserve_usa/)
+*   [_TikTok_](https://www.tiktok.com/@homeserveusa?is_from_webapp=1&sender_device=pc)
+*   [_YouTube_](https://www.youtube.com/@HomeServeUSA)<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

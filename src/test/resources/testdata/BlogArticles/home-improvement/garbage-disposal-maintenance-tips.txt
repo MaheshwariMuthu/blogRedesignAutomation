@@ -1,0 +1,57 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Garbage Disposal dos and donts
+headline: Garbage Disposal do's and don'ts
+author: Team HomeServe
+tags: ['post', 'DIY']
+publishDate: 2017-08-09
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: garbagedisposal-homerepair.jpg
+heroAltDescription: Garbage Disposal Repair
+metaDescriptions: Garbage disposals are the unsung home appliance heroes of any modern home so long as they're maintained , they certainly do make things easier in the kitchen!
+articleAbstract: While the task they perform is hardly a glamorous one, garbage disposals are the unsung home appliance heroes of any modern home. So long as they're maintained and used properly, they certainly do make things easier in the kitchen!
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Garbage Disposal dos and donts
+  parent: Appliances
+---
+
+While the task they perform is hardly a glamorous one, garbage disposals are the unsung home appliance heroes of any modern home. So long as they're maintained and used properly, they certainly do make things easier in the kitchen! However, when your disposal begins to malfunction due to improper use, that convenience will turn into a real headache.
+Read on for some do’s and don’ts so your garbage disposal keeps running problem free.
+
+## DO
+
+::: list-disc
+* Avoid buildups by running cold water through your disposal on a regular basis.     
+* Run your disposal on a regular basis to help keep it running at peak efficiency.     
+* Keep your disposal blades nice and sharp by feeding it some frozen vinegar ice cubes from time to time. It’s a great way to give it a nice cleaning, sharpen the blades and take care of strange food smells.     
+* Try putting food items down in small pieces, one at a time, instead of shoving them all down at once.     
+* Let the water run for up to 15 seconds (or more) after it has finished grinding so that it flushes the food down the drain.     
+* Add a quarter cup of baking soda to the disposal and let it sit overnight once a week. The next morning, pour vinegar into the disposal to create a chemical reaction that will effectively clean the insides of your unit.     
+* Use three to four tablespoons of Borax for smelly garbage disposals. Dropping in lemon or orange slices as the water runs will also clean and deodorize the pipelines.     
+* Check the disposal for fallen items like spoons, bottle caps, jewelry and other small things before running the disposal. For safety purposes, always use tongs rather than hands to retrieve items that may have fallen into the garbage disposal. 
+:::
+
+## DON’T 
+
+::: list-disc
+* Overload your disposal as it may cause clogs.     
+* Put in anything that in your disposal that isn’t food, like glass, plastic, metal, paper, cigarette butts, wood, sponges or anything that might be combustible.     
+* Throw in large bones, coffee grounds or harsh chemicals. Many of these chemicals damage the blades and can even eat away at the pipes.     
+* Pour any oil, fats, or grease in your disposal. It could accumulate around the blade system and clog your drains.     
+* Throw in foods with fibrous materials, starchy consistencies, or expanding capabilities like celery, cornhusks, artichokes, onion skins, rice and pasta, or potato peels.     
+* Use hot water to flush the disposal. It can cause the grease to liquefy and clog the drain.     
+* Reach into the garbage disposal. Never, ever put your hands into the disposal unit. Instead, you can safely use needle-nose pliers, tongs or even a bent coat hanger to pry out whatever fell in.     
+* Call a plumber without resetting first if the unit isn't working. If that doesn't work, check to make sure it's still plugged in and receiving power. If the power is still flowing in, you can then try hand cranking it.     
+* Put eggshells in the garbage disposal because the thin membrane on the inside of the shell can wrap itself around the blade of the disposal and begin clogging your drain.     
+* Throw in fruit pits from avocados, peaches, mangoes, apricots, plums or other similar fruits.     
+:::
+
+Want some help diagnosing a problem garbage disposal? If your drain is smelly then [check out this guide](/en-us/blog/home-improvement/shower-drain-smells/){target="_blank"} to 5 ways to keep your drains smelling fresh!
+
+Don’t get caught off guard if a malfunctioning garbage disposal causes bigger plumbing problems.  [Learn More]({{ migrationData.homepage }}){target="_blank"} about the home repair plans HomeServe offers in your area!
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5j759jOLiwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

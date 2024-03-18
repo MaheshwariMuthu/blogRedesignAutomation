@@ -1,0 +1,134 @@
+Browser Used: firefox
+
+Article Page URL:  https://contentful-blogs-dev.netlify.app/blogs/how-to/load-dishwasher
+
+Article title <A Definitive Guide to Loading the Dishwasher> MATCHED
+
+Article author <Michael Franco> MATCHED
+
+Article publishDate <March 01, 2023> MATCHED
+
+Article image <https://library.homeserve.com/m/51249bb27d017f25/Blog-GettyImages-511810759.jpg> MATCHED
+
+Block1_Paragraph 1 MATCHED
+
+	Loading the dishwasher can be a simple and efficient task, but it's not always clear how to load it for the best results.
+
+Block1_Paragraph2_link 1 MATCHED
+
+	Weird Sound Coming From the Dishwasher? How to Diagnose Dishwasher Noises|https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-making-noise/
+
+Block1_Paragraph 2 MATCHED
+
+	This May Also Interest You: Weird Sound Coming From the Dishwasher? How to Diagnose Dishwasher Noises
+
+Block1_Paragraph 3 MATCHED
+
+	There are several important factors to keep in mind when loading the dishwasher to ensure that your dishes come out clean and sparkling. Here, we'll go over some tips and best practices for loading your dishwasher.
+
+Heading 1: < Preparing Your Dishes > MATCHED
+
+Block2_Paragraph1_link 1 MATCHED
+
+	many experts recommend|https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/
+
+Block2_Paragraph 1 NOT MATCHED
+
+	Before you start loading your dishwasher, it's essential to prepare your dishes properly. This means removing any large pieces of food, scraping off excess sauce or gravy and pre-rinsing any stubborn stains. If you're running the dishwasher immediately after dinner, you might not even need to rinse the dishes, as modern models are powerful enough to blast away left-behind food coatings; a good scrape should be enough. In fact, many experts recommend not rinsing your dishes because detergents are meant to stick to food particles to work their best.
+
+	Before you start loading your dishwasher, it's essential to prepare your dishes properly. This means removing any large pieces of food, scraping off excess sauce or gravy and pre-rinsing any stubborn stains. If you're running the dishwasher immediately after dinner, you might not even need to rinse the dishes, as modern models are powerful enough to blast away left-behind food coatings; a good scrape should be enough. In fact, many experts recommendnot rinsing your dishes because detergents are meant to stick to food particles to work their best.
+
+Block2_Paragraph 2 MATCHED
+
+	However, if you're loading the dishwasher over a more extended period, it's a good idea to rinse them more thoroughly to prevent food from hardening on them, and from creating odors in the dishwasher.
+
+Heading 2: < Loading the Dishwasher > MATCHED
+
+Block3_Paragraph 1 MATCHED
+
+	When loading your dishwasher, it's best to start with the larger items first. This means placing your pots, pans and larger dishes in the bottom rack of the dishwasher. If you can, place them completely upside down so that they get the benefit of a full blast of water from the spray arms. That being said, make sure that you don't block the spray arms when loading your items, as this can prevent water and detergent from reaching all areas of the dishwasher.
+
+Block3_Paragraph 2 MATCHED
+
+	If you have any plastic containers, regardless of size, you may want to place them on the top rack of the dishwasher. This gets them away from the heating element, which is likely at the bottom of the machine, and can keep them from warping.
+
+Heading 3: < Placing Dishes and Utensils > MATCHED
+
+Block4_Paragraph 1 MATCHED
+
+	When loading dishes and utensils, it's important to face them toward the center of the dishwasher. This ensures that they get a thorough cleaning from the spray arms. Plates and bowls should be placed horizontally in the slots designed for holding these items, with their dirtier surfaces facing toward the center of the dishwasher. Place forks and spoons with their handles down. When loading knives, keep their blades pointing downwards to avoid injury when unloading.
+
+Block4_Paragraph 2 MATCHED
+
+	Place glasses, cups and smaller bowls on the top rack of the dishwasher, making sure they're stable so they don't tip over during the wash cycle. Also, leave a small amount of space between these more delicate items so that they don't break should they get jostled by the jets of water inside the machine.
+
+Block4_Paragraph 3 MATCHED
+
+	If your dishwasher has a third shallow shelf at the top, this is a great place to put larger utensils like serving spoons or spatulas. Never put wooden spoons or any other wooden items in the dishwasher, as the high heat and pressure from the spray arms can cause them to warp or crack. You also might not want to put your sharp chef knives in the dishwasher as the machine-cleaning process could dull them faster than hand washing.
+
+Block4_Paragraph 4 MATCHED
+
+	More Related Articles:
+
+Block4_List5_link 1 MATCHED
+
+	Install a Dishwasher Yourself: A 10-Step Guide|https://www.homeserve.com/en-us/blog/how-to/install-dishwasher/
+
+Block4_List5_link 2 MATCHED
+
+	How Much Does a Dishwasher Cost?|https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/
+
+Block4_List5_link 3 MATCHED
+
+	The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes|https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/
+
+Block4_List5_link 4 MATCHED
+
+	What’s the Deal With Countertop Dishwashers?|https://www.homeserve.com/en-us/blog/home-improvement/countertop-dishwashers/
+
+Block4_List5_link 5 MATCHED
+
+	How Much Do Countertop Dishwashers Cost?|https://www.homeserve.com/en-us/blog/cost-guide/countertop-dishwashers/
+
+Block4_List 5 MATCHED
+
+	Install a Dishwasher Yourself: A 10-Step Guide
+How Much Does a Dishwasher Cost?
+The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes
+What’s the Deal With Countertop Dishwashers?
+How Much Do Countertop Dishwashers Cost?
+
+Heading 4: < Avoiding Nesting > MATCHED
+
+Block5_Paragraph 1 MATCHED
+
+	Nesting dishes and utensils is a common mistake when loading the dishwasher. This happens when you stack dishes and utensils on top of each other or overlap them in the racks, which can prevent water and detergent from reaching all areas of the dishes. Instead, place dishes and utensils in a single layer and avoid placing anything on top of them.
+
+Block5_Paragraph 2 MATCHED
+
+	The same holds true for spoons in the silverware basket. It's best to spread spoons out among the compartments in the basket because of their proclivity to nest.
+
+Heading 5: < Maximizing Space > MATCHED
+
+Block6_Paragraph 1 MATCHED
+
+	Now that you know where your items should go inside your dishwasher, there are a few steps to take to get as many items in the machine as possible before you run it. The more items you can get in the dishwasher, the more efficient each cycle will be, as you won't be wasting water and energy on just a few items.
+
+Block6_Paragraph 2 MATCHED
+
+	To that end, don't forget about using the sides of the dishwasher racks. Here is a great place to put sheet pans, cutting boards, or any other thin items that could benefit from a spin in the dishwasher. Also, if you have a particularly large load of dishes to clean, you might consider removing the silverware basket to gain space. You can soak your silverware in a soapy solution in a bucket or in your sink and then either put them in the next cycle, or give them a quick wipe and rinse to get them clean.
+
+Block6_Paragraph 3 MATCHED
+
+	If your dishwasher has tines that fold down, experiment with doing so, especially if you have a lot of larger items to clean. Foldable tines let you basically customize your dishwasher to fit each load perfectly.
+
+Heading 6: < Make Room, Make Room! > MATCHED
+
+Block7_Paragraph 1 MATCHED
+
+	Finally, get creative! After the main items in your dishwasher are placed, you may be amazed at how many additional items you fit between them. Remember, a fully loaded dishwasher is the best way to operate it. That said, you never want to overload the dishwasher because crowded items won't get as clean.
+
+Block7_Video 2 MATCHED
+
+	https://youtube.com/embed/ByKX1s5TgBY
+

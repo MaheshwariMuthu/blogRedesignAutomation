@@ -1,0 +1,108 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Allergies Are Nothing to Sneeze at. Here Are 12 Ways to Allergy-Proof Your Home"
+headline: "Allergies Are Nothing to Sneeze at. Here Are 12 Ways to Allergy-Proof Your Home"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-05-03
+basePath: https://library.homeserve.com/m/
+heroImage: 389db0099694c94e/Blog-GettyImages-1209792313-jpg.jpg
+heroAltDescription: "smiling pug on counter with ionizer"
+metaDescriptions: "Suffer from allergies? Here are 12 ways to reduce the level of common allergens in your home — from pollen to mold. "
+articleAbstract: "Allergens are microscopic particles like pollen and mold spores. When you inhale them, they may trigger an allergic reaction. Here are 12 ways to lessen your exposure in your home."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Allergy-Proof Your Home"
+  parent: Interior-Home-How-To
+---
+  Sneezing, congestion, itching nose and watering eyes — many seasonal allergy sufferers can’t get through spring or fall without experiencing these symptoms, often referred to collectively as “hay fever.” These uncomfortable reactions are caused by allergens, according to the [Asthma and Allergy Foundation of America](https://www.aafa.org/control-indoor-allergens/). In the case of seasonal allergies, pollen is usually to blame. Other common allergens include mold, residue from insects and pet dander.
+
+**This May Also Interest You:** [**5 Reasons You Need a Dehumidifier in Your Home**](https://www.homeserve.com/en-us/blog/home-improvement/dehumidifier-benefits/)
+
+Allergens are microscopic particles. Once in your home, they settle into furniture and on hard surfaces. When you inhale them, they may trigger an allergic reaction. Reducing your exposure to these allergens — especially in your home — can help curb some of these annoying immune responses.
+
+Here are 12 ways to reduce allergen levels in your house:
+
+1\. Wash Washables
+------------------
+
+Allergens easily stick to textiles and plush items. Not everything will survive a trip through the washing machine, but if you can wash it, you should. [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/allergies/in-depth/allergy/art-20049365) recommends washing these items in hot water (130 degrees or hotter) at least once a week:
+
+*   Bedding (pillowcases, sheets, blankets, duvet covers, comforters)
+*   Pet bedding and toys
+*   Stuffed toys
+*   Rugs
+*   Window treatments
+
+Similarly, you should shampoo your carpet and upholstered furniture regularly, too.
+
+2\. Vacuum Frequently
+---------------------
+
+Vacuum once or twice per week to keep allergen counts low. Make sure your vacuum cleaner has either a small-particle or a high-efficiency particulate air [(HEPA) filter](https://www.epa.gov/indoor-air-quality-iaq/what-hepa-filter-1). According to the AAFA, these filters trap allergens and prevent them from being blown back into the air.
+
+3\. Reduce Dust
+---------------
+
+Dust mites are small insects that live in the dust that collects around your house. They settle into carpeting and bedding, too. Some people are [allergic to dust mites](https://www.mayoclinic.org/diseases-conditions/dust-mites/symptoms-causes/syc-20352173#:~:text=Dust%20mite%20allergy%20is%20an,as%20wheezing%20and%20difficulty%20breathing.). To lessen their impact, dust your house frequently — from the crown molding to the baseboards. Don’t forget to dust books, decorations, knickknacks and storage items. Use damp or dust-locking cloths to avoid spreading particles through the air.
+
+4\. Cover Up
+------------
+
+Another way to combat a dust mite allergy is by reducing your exposure to the insects. Purchase [allergen-resistant covers](https://www.asthmaandallergyfriendly.com/USA/bedding/) for your pillows, mattresses and box springs. These covers will help protect you from dust mites living in your unwashable bedding.
+
+5\. Remove Mold and Mold Sources
+--------------------------------
+
+Mold is another [major allergen](https://www.aafa.org/mold-allergy/). If you’re allergic to it, you don’t want it anywhere near you. Do a mold check around your home, or hire a professional to perform a mold inspection. Keep an eye on your bathroom, where mold is most likely to grow due to the frequent dampness. Wash your shower curtain and wipe down your shower or tub after use. If you’re allergic to mold, it’s best not to try to remove it yourself — as you may kick up mold spores that can cause allergic reactions when inhaled.
+
+6\. Leave After You Clean
+-------------------------
+
+Cleaning — dusting, sweeping, mopping, etc. — can stir up all kinds of allergens. Wear a mask while you clean and try to use cleaning instruments that trap dust rather than spread it around. If you can, the [AAFA recommends](https://www.aafa.org/control-indoor-allergens/) leaving the house for a few hours after cleaning to further reduce your exposure.
+
+**More Related Articles:**
+
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [Replacing Your HVAC Air Filter is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+*   [How Much Do UV Lights Cost for HVAC Systems?](https://www.homeserve.com/en-us/blog/cost-guide/uv-lights-hvac/)
+*   [How Much Does a Mold Inspection Cost?](https://www.homeserve.com/en-us/blog/cost-guide/mold-inspection/)
+
+7\. Get a Dehumidifier or Air Purifier
+--------------------------------------
+
+The best way to rid your house of allergens is to physically clean surfaces and furniture, but dehumidifiers and air purifiers can help. The [American College of Allergy, Asthma and Immunology](https://acaai.org/allergies/allergy-treatment/air-filters) recommends buying a purifier that works _with_ a filter; electrostatic air cleaners can actually _worsen_ allergies. Keep relative humidity levels below 50% for fewer dust mites and less mold growth.
+
+The AAFA suggests looking for devices certified as asthma- and allergy-friendly. Certified devices meet [certain standards](https://www.asthmaandallergyfriendly.com/USA/air-cleaners/) and are proven to reduce allergen levels in the air.
+
+8\. Change HVAC Air Filters
+---------------------------
+
+Don’t neglect your heating, ventilation and air conditioning ([HVAC](https://www.homeserve.com/en-us/blog/buying-guide/hvac/)) systems. Change the air filters every three months — or more often if you have pets. For the best allergen elimination, [Lowe’s](https://www.lowes.com/n/how-to/reduce-allergens-in-home) advises seeking out pleated filters and those designed to filter out microscopic particles.
+
+9\. No Smoke
+------------
+
+Reduce your use of wood-burning fireplaces and stoves as the smoke can exacerbate allergies. The same goes for cigarette smoke; ask household members to smoke outside if possible.
+
+10\. Keep Critters at Bay
+-------------------------
+
+According to [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/allergies/in-depth/allergy/art-20049365), residue from cockroaches and mice can irritate some peoples’ allergies. Seal cracks and other entry points like windows and doors to keep pests out. Consider professional treatment to deter insects and mice, or call an exterminator if they’ve already found their way in.
+
+The [Environmental Protection Agency](https://www.epa.gov/sites/production/files/2014-01/documents/preventpest.pdf) recommends controlling food and waste to cut off pests’ food sources. Store food in tightly sealed containers, take out your trash regularly and rinse your recyclables. Never leave food (including pet food) out overnight, and clean dirty dishes as soon as possible.
+
+11\. Replace Your Furniture
+---------------------------
+
+This is an extreme (and expensive) measure, but one you should consider if other methods of allergen removal haven’t been successful. Hard surfaces are much easier to clean, and they don’t hold onto allergens the way textiles do. Swap upholstered furniture for leather or wood. You may also want to take up your carpet and switch to hardwood or laminate. Replace cloth curtains with plastic or wood blinds.
+
+12\. Proper Pet Practices
+-------------------------
+
+If you’re allergic or sensitive to pet dander — dead skin cells shed by animals — you shouldn’t bring animals with fur or feathers into your home. If you can’t part with your pets, there are ways to mitigate the impact of dander. Keep pets out of your bedroom or other areas of the house to create zones with less dander than others. Frequent bathing and grooming can reduce your pet’s dander levels. However, the [AAFA](https://www.aafa.org/control-indoor-allergens/) warns that you may not want to groom your pet yourself if you have allergies.
+
+Even if you aren’t allergic to pet dander, your long-furred friends may be tracking pollen or other allergens inside with them. In that case, it may be best to keep them inside.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/mqKjnP3zEmw?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

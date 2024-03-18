@@ -1,0 +1,40 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Home Depot Wood Windsor Dining Chair Recall"
+headline: "Watch Your Seat: 3,100 StyleWell Dining Chair Sets Recalled for Fall Risk"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-03-19
+basePath: https://library.homeserve.com/m/
+heroImage: 32b511c45debf88e/webimage-WoodWindsorDiningChairRecall_HomeDepot_0001.jpg
+heroAltDescription: "dining chair recall"
+metaDescriptions: "The Home Depot has recalled about 3,100 StyleWell Wood Windsor Dining Chair sets due to a fall risk."
+articleAbstract: "Have a set of StyleWell Wood Windsor Dining Chairs? If so, you might want to sit down for this — in a different chair. The Home Depot has recalled about 3,100 of these chair sets due to a fall risk."
+category: ["How To"]
+eleventyNavigation:
+  key: "Home Depot Wood Windsor Dining Chair Recall"
+  parent: Interior-Home-How-To
+---
+  Have a set of StyleWell Wood Windsor Dining Chairs? If so, you might want to sit down for this — in a different chair. The Home Depot has recalled about 3,100 of these chair sets due to a fall risk.
+
+**This May Also Interest You:** [**How Much Does It Cost to Remodel a Kitchen?**](https://www.homeserve.com/en-us/blog/cost-guide/kitchen-remodel-costs/)
+
+According to [The Home Depot](https://www.homedepot.com/hdus/en_US/DTCCOMNEW/fetch/Policies/Alerts/Recalls/Recall-Poster-StyleWell-Chairs.pdf), the backs of these chairs can detach from the base, which could cause the seated person to fall. The Atlanta, Ga.-based company said this issue only affects chairs without screw holes and wood screws on the bottom of the seat.
+
+The recall was announced Feb. 25. Sets included in the recall have model numbers C-08, C-08-1, C-08-2 and C-08-3.
+
+According to the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/Home-Depot-Recalls-Wood-Windsor-Dining-Chair-Sets-Due-to-Fall-Hazard-Recall-Alert), The Home Depot has received 17 reports of chair backs becoming detached from their bases. No injuries have been reported. The chairs, sold in sets of two for around $150, were manufactured in China. They were sold online via The Home Depot’s website between September 2019 and January 2021.
+
+If your set has an affected model number, you’ll want to inspect the chairs to determine whether they fall under the recall. Flip the chairs over and look for screw holes or wood screws on the bottom of the seat. Only chairs _without_ these screw holes and screws are affected by the recall. The Home Depot is contacting buyers directly to aid the inspection process.
+
+If your set has been recalled, use [this form](https://app.smartsheet.com/b/form/47ba664865344ff282194c0cddc9def1) on The Home Depot’s website to request a refund. For assistance, you can email [Product\_Safety@HomeDepot.com](mailto:Product_Safety@HomeDepot.com) or call 1-800-430-3376 and select Option 2.
+
+For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [Top 5 Kitchen Gadgets to Help You Eat Healthier](https://www.homeserve.com/en-us/blog/buying-guide/kitchen-gadgets/)
+*   [8 Easy DIY Home Maintenance Tips](https://www.homeserve.com/en-us/blog/home-improvement/home-maintenance-tips/)
+*   [What You Need to Know About Gas Safety](https://www.homeserve.com/en/blog/2019/june/about-gas-safey)
+*   [5 DIY Home Fixes for Common Accidents](https://www.homeserve.com/en-us/blog/home-improvement/common-home-repair-accidents/)
+*   [5 Tips for Carbon Monoxide Safety](https://www.homeserve.com/en-us/blog/home-improvement/carbon-monoxide-safety-tips/)

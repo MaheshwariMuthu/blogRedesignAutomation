@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Watt Light Bulb Do I Need?"
+headline: "What Are Watts? Here's How to Find Out What Watt Lightbulb You Need"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-12-04
+basePath: https://library.homeserve.com/m/
+heroImage: 14f33d463162378a/original/Bulb_pulse_Erossi_1273790906.gif
+heroAltDescription: "animated light bulb slowly glows and then dims"
+metaDescriptions: "What watt lightbulb do you need? Here's what lightbulb wattage means and which bulb to pick for each fixture type."
+articleAbstract: "Choosing the right lightbulb wattage is essential for your safety, so it's important to understand how to choose the correct wattage for each household fixture. Find out what lightbulb wattage means and which bulb to pick for each fixture type."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Watt Lightbulb Do I Need?"
+  parent: Electrical-Home-Improvement
+---
+  If you ever find yourself feeling baffled by the wide range of lightbulbs available in stores, you're not alone. The mind-boggling array of types and power ratings can make choosing the right bulb a real headache.
+
+**This May Also Interest You:** [**Let’s Shed Some Light on the Situation: How to Change a Lightbulb**](https://www.homeserve.com/en-us/blog/how-to/change-lightbublb/)
+
+Choosing the right lightbulb wattage is essential for your safety, so it's important to understand how to choose the correct wattage for each household fixture. Find out what lightbulb wattage means and which bulb to pick for each fixture type.
+
+What Is Wattage in Terms of Lightbulbs?
+---------------------------------------
+
+Lightbulb wattage measures the amount of energy a lightbulb uses every hour. Therefore, a higher wattage lightbulb requires more electricity. However, lightbulb wattage doesn't necessarily correlate with brightness.
+
+For example, some modern lightbulbs have a low wattage but are relatively bright because they use energy efficiently. Meanwhile, old-school incandescent lightbulbs use a lot of energy but aren't particularly bright because they emit a lot of that energy as heat, making them a popular choice as heat lamps.
+
+When considering lightbulb brightness, it's more helpful to look at the lumen rating than the wattage. Lumens measure how much light a bulb emits.
+
+To help consumers understand bulb brightness, many manufacturers print [two wattage ratings](https://www.thespruce.com/wrong-light-bulb-wattage-1152517) on their products. For example, an LED lightbulb may be labeled as "60 watts (uses 10 watts).” This means the bulb produces the same brightness as a regular 60-watt incandescent bulb, but it only uses 10 watts of energy.
+
+You only need to worry about how many watts a bulb actually uses when you're choosing a safe wattage for your fixture.
+
+How Do I Know What Wattage Lightbulb to Use For...
+--------------------------------------------------
+
+Buying a lightbulb used to be a simple matter, but things aren't as straightforward nowadays. Different modern light fittings require different lightbulb wattages. Below, you can find out what watt lightbulb to use for various household light fixtures.
+
+### … A Lamp?
+
+You should check the label on the lamp to find out what lightbulb wattage to use. Most lamps can accommodate a maximum of [60 watts](https://www.npr.org/2014/01/28/267185097/in-the-dark-about-picking-a-light-bulb-this-faq-can-help), and you shouldn't exceed the maximum wattage. However, you can use a lower wattage lightbulb than the stated maximum, even if it's brighter than average. Safety ratings refer to maximum lightbulb power, which, as we mentioned, doesn't always correspond to brightness.
+
+### … A Ceiling Light Fixture or Recessed Lights?
+
+You can usually find the maximum lightbulb wattage for a ceiling light or recessed lights by checking the labels on the bulb sockets. For fixtures with a single bulb, you can use a lightbulb of any wattage up to the safety limit.
+
+If your fixture has multiple bulbs, it may have a combined maximum wattage limit. This means that you should ensure the total wattage of all bulbs used doesn't exceed the stated limit.
+
+### … Other Appliances That Take Lightbulbs?
+
+The required wattage for an appliance depends on the make, type and model. Many refrigerators and ovens take a 40-watt bulb, but this varies by manufacturer. You should defer to the manufacturer's instructions when selecting an appliance lightbulb. Avoid exceeding the safety limit.
+
+**More Related Articles:**
+
+*   [Lightbulb Moment! Here are 5 Ways to Remove a Broken Lightbulb](https://www.homeserve.com/en-us/blog/how-to/remove-broken-lightbulb/)
+*   [How to Replace an Oven Lightbulb](https://www.homeserve.com/en-us/blog/how-to/oven-light-bulb-replacement/)
+*   [Deck the House: How to Hang Outdoor Holiday Lights](https://www.homeserve.com/en-us/blog/how-to/holiday-lighting-installation/)
+*   [How to Install a Ceiling Light: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-ceiling-light/)
+*   [Recessed Lights or Ceiling Lights? Here’s How to Choose What’s Best for Your Space](https://www.homeserve.com/en-us/blog/home-improvement/recessed-lighting-vs-ceiling-lights/)
+
+What Is the Standard Lightbulb Wattage?
+---------------------------------------
+
+The most common maximum wattage for domestic light fixtures is 60 watts. However, appliances with lightbulbs are more likely to have a lower maximum wattage limit.
+
+What Can Happen If You Use the Wrong Wattage?
+---------------------------------------------
+
+Exceeding your fixture's maximum lightbulb wattage limit is called “overlamping.” Overlamping is potentially dangerous because it can cause the fixture to overheat, melting the plastic components and increasing the risk of an electrical fire. Overheating can also cause serious and permanent damage to your fixture.
+
+Light fixtures with enclosed bulbs — such as lamps with a glass case — are at a higher risk of overheating than unenclosed lights. Therefore, you should be particularly careful not to overlamp enclosed fixtures.
+
+If you accidentally overlamp a light fixture, you may notice a burning smell or see signs of scorching or melting around the bulb socket. In this situation, you should switch the light off immediately and turn the electricity off at the main. Allow the fixture to cool before taking a closer look for signs of burning. Damage caused by overheating could make your fixture unsafe to use, so you should get it checked by an electrician before changing the lightbulb and using it again.
+
+It's perfectly safe to use a lower lightbulb wattage than your fixture's maximum. Lower-wattage lightbulbs are better for the environment because they consume less energy. There's a common misconception that using a lower lightbulb wattage means compromising brightness, but many modern lightbulbs can produce a lot of light on minimal energy. For example, a 10-watt LED lightbulb [could provide the same brightness](https://www.npr.org/2014/01/28/267185097/in-the-dark-about-picking-a-light-bulb-this-faq-can-help) as a standard 60-watt incandescent bulb.

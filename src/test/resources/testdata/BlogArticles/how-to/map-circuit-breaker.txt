@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Map Your Circuit Breaker Panel"
+headline: "Which Switch Is Which? How to Map Your Circuit Breaker Panel"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-07-08
+basePath: https://library.homeserve.com/m/
+heroImage: 573f6b7d4347c5a/Blog-ElectricalSchedule_Erossi_4616-jpg.jpg
+heroAltDescription: "electrical circuit panel with switches"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "This guide covers the steps you can take to map your circuit breaker."
+articleAbstract: "Do the switches on your circuit breaker have labels? This guide covers some simple steps you can take to create your own circuit breaker mapping tool. "
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Map Your Circuit Breaker Panel"
+  parent: Electrical-How-To
+---
+  Have you ever needed to shut power off to a single area of the house, but you had to flip every circuit in the breaker box before finding the correct one? Having a circuit breaker map helps you work safer around electricity and saves you a ton of time when locating a tripped fuse.
+
+**This May Also Interest You:** [**Wrong Kind of Blowout? Why Your Hairdryer Trips the Circuit Breaker**](https://www.homeserve.com/en-us/blog/home-improvement/hair-dryer-tripping-circuit-breaker/)
+
+This guide covers some simple steps you can take to create your own circuit breaker mapping tool.
+
+What Is the Purpose of a Circuit Breaker?
+-----------------------------------------
+
+Whenever you’re working with electricity, it’s important to shut off any electrical current that could be running through the wiring you’re installing or repairing. Circuit breakers are useful during repairs because you can isolate power to areas of a home while working. They’re not simply designed to switch electricity on and off, however; they’re built to protect your home.
+
+If your hairdryer trips the circuit breaker, for example, it was drawing too much energy from your main circuit. Every electrical appliance in your home could be at risk of damage when there’s an electrical surge. The circuit breaker automatically cuts off power to each individual circuit when it detects a surge, mitigating any impact on the other areas of your house.
+
+How to Create a Circuit Breaker Map
+-----------------------------------
+
+The main circuit breaker in your home has a series of numbered switches that control electrical currents to different outlets in your house. If you’ve moved into a new home and opened the breaker panel, you might see that the list on the door is empty. Even if you never plan on performing your own electrical repairs on your house, you should have an idea of what switches correspond to which rooms, just in case something trips a circuit and you want to flip the power back on without needing to flip every single breaker.
+
+Creating the circuit breaker map is as simple as identifying which switch powers each room in the house. In some cases, one switch might supply power to several rooms if those rooms have outlets that are close together. Once you’ve identified which switch turns power on and off to each area, you can write this down on the space provided inside your breaker panel.
+
+**More Related Articles:**
+
+*   [Why U Trippin’? 3 Reasons Your Circuit Breaker Trips](https://www.homeserve.com/en-us/blog/home-improvement/circuit-breaker-tripping/)
+*   [How Your Home’s Electrical System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-electrical-system/)
+*   [What Happens If You Touch a Hot Wire?](https://www.homeserve.com/en-us/blog/home-improvement/touch-hot-wire/)
+*   [How to Read Your Utility Meters](https://www.homeserve.com/en-us/blog/how-to/read-meters/)
+*   [How to Fix Electrical Cords and Charging Cables](https://www.homeserve.com/en-us/blog/how-to/fix-electrical-cords/)
+
+How Do You Figure Out Which Circuit Goes to Which Breaker Switch?
+-----------------------------------------------------------------
+
+There are two popular household items that can be used as a circuit breaker mapping tool: lights and radios.
+
+### Lights
+
+If you have an extension cord and a light or lamp, you can plug the extension cord into the outlet you’re testing and then return to the breaker box. Identifying the circuit is as easy as flipping switches until the light goes on or off. This is a great circuit breaker mapping tool if someone else is able to help you out. They can move from room to room, plugging the light in and reporting back when the circuit breaks.
+
+### Portable Radio
+
+If you’re alone, a radio works a lot better than a lightbulb because you can quickly hear when it goes silent. Turn the radio to a high volume and then go back to the breaker box to flip switches. Once you hear music or stop hearing it, you’ve identified the switch.
+
+What Causes Circuits to Trip?
+-----------------------------
+
+### The Circuit Is Overloaded
+
+Modern devices draw much more power than some homes were originally equipped to handle. You can make this problem worse if you use outlet splitters because you’re increasing the demand on the circuit. When more amperage passes through the circuit than it was designed for, it breaks the connection as a safety measure.
+
+In most cases, all you need to do is unplug something from that circuit to make the problem go away. If that doesn’t help, you may have a wiring issue you need to inspect.
+
+### A Short Circuit Results in a Trip
+
+This cause is a little more worrisome because it could be evidence of damage to your wiring. If animals have chewed through the wires in your home, they’ve become corroded or connections have loosened over time, you may hear a popping sound, see sparks or smell smoke when the circuit is tripped. Seek the advice of a professional electrician if this occurs.
+
+### The Trip Is the Result of a Ground Fault
+
+The ground wire might make contact with an active wire in the system, causing a system overload. Your circuit breaker shuts off the power to your house or an individual circuit to limit the extent of any potential damage. You shouldn’t attempt to fix this problem yourself and should refer to a professional. You might need a new circuit breaker.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

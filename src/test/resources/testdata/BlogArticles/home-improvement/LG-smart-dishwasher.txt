@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "LG Smart Dishwasher Features"
+headline: "LG Smart Dishwashers: Smart Features and Functionality"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-01-03
+basePath: https://library.homeserve.com/m/
+heroImage: 3c6157b7a6a2e3a6/Blog-LGSmartDishwasher_ManufacturerImage_0002.jpg
+heroAltDescription: "A stainless steel LG brand smart dishwasher with its door open and visible dishes inside is set against a white background"
+metaDescriptions: "What do you get for the price of a smart dishwasher? Here’s what you should know about LG smart dishwashers."
+articleAbstract: "It’s common knowledge that smart appliances carry a higher price tag than their non-smart counterparts. But what do you get for the price? Here’s what you should know about LG smart dishwashers."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "LG Smart Dishwashers: Smart Features and How They Work"
+  parent: Appliances
+---
+  
+
+_Manufacturer image_
+
+The humble dishwasher is an invention that saves homeowners a huge amount of time every year. It frees people from having to soak, scrub and rinse dishes by hand. The LG smart dishwasher takes the idea of labor-saving to the next level, connecting your dishwasher to the [Internet of Things](https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/).
+
+**This May Also Interest You:** [**Should You Repair or Replace Your Dishwasher?**](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-repair-replacement/)
+
+It’s common knowledge that smart appliances carry a higher price tag than their non-smart counterparts. But what do you get for the price? Here’s what you should know about LG smart dishwashers.
+
+What Is a Smart Dishwasher and How Does It Work?
+------------------------------------------------
+
+Smart dishwashers are Wi-Fi-connected home appliances that offer a variety of time-saving features. The main thing that smart dishwashers offer compared to regular models is remote-control features. You'll still need to load the dishwasher yourself, but you can start the appliance via a smartphone app or using voice controls. This could be useful if you want to schedule your dishwasher's operation around times of day when electricity is cheaper, or when you'll be out of the house.
+
+What Features Do LG Smart Dishwashers Have?
+-------------------------------------------
+
+LG smart dishwashers support the [LG ThinQ app](https://www.lg.com/us/discover/thinq/kitchen). This app lets you control your dishwasher, see its current status, and interact with other LG smart appliances. If you are having problems with your dishwasher, you can also use the LG smart diagnosis features to troubleshoot or fix the issue. Should you need to contact customer service, the feedback from the diagnostic tool and the ThinQ app will help the customer service agents provide better support.
+
+Another useful feature of LG's smart dishwasher range is the ability to download new types of cycles. This means if LG comes up with a more efficient or powerful cycle option, you can install it on your dishwasher, effectively giving you an upgrade to a better model without having to switch out the hardware.
+
+LG offers several different models, including stainless steel models and models with QuadWash technology for more powerful cleaning.
+
+<img class="detail-image" src="https://library.homeserve.com/m/71dcb57e030ca775/Blog-LGSmartDishwasher_ManufacturerImage_0001.jpg" alt="A stainless steel LG brand smart dishwasher with its door open and visible dishes inside is set against a white background"/>
+
+_Manufacturer image_
+
+**More Related Articles:**
+
+*   [How to Remove a Dishwasher in 3 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/remove-dishwasher/)
+*   [Don’t Get Lost in the Wash: How to Use Your Dishwasher Efficiently](https://www.homeserve.com/en-us/blog/how-to/use-dishwasher/)
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)
+*   [What’s the Deal With Countertop Dishwashers?](https://www.homeserve.com/en-us/blog/home-improvement/countertop-dishwashers/)
+*   [How Much Do Countertop Dishwashers Cost?](https://www.homeserve.com/en-us/blog/cost-guide/countertop-dishwashers/)
+
+How Do You Connect an LG Smart Dishwasher to Your Phone?
+--------------------------------------------------------
+
+When you first start using your smart dishwasher, you'll need to install the LG ThinQ app on your smartphone. Follow the instructions in the app. When the app tells you to pair your dishwasher with your phone, press and hold the “Delay Start” button on the dishwasher until the Wi-Fi light starts to blink.
+
+Return to your phone and open the Wi-Fi selection page. Choose your dishwasher from the list of available Wi-Fi spots. Return to the ThinQ app and follow the on-screen prompts to connect the dishwasher to your home's network. Once you've done this, you can use your dishwasher via your phone, Google Nest, Amazon Alexa or other smart home assistants.
+
+After working through the setup process, you may need to wait for a minute for the device to be properly registered on the network. Once the setup is complete, you should not have to do it again unless there's a power outage or a change to your network settings.
+
+How Long Does an LG Smart Dishwasher Last?
+------------------------------------------
+
+With proper care and an average level of use, you can expect a dishwasher to last for about 10 years. If you think it's time for a dishwasher repair or replacement, upgrading to a smart appliance could well be worth the money.

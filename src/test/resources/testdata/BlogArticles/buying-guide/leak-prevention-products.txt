@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Leak Detectors: Prevent Leaks With These Products"
+headline: "3 Products You Need to Prevent Leaks"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-06-19
+basePath: https://library.homeserve.com/m/
+heroImage: 6f02eb5c9de2b585/Blog-GettyImages-1155196026.jpg
+heroAltDescription: "leaking pipe under sink"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Here are three products on the market designed to protect your home from leaks."
+articleAbstract: "There are several products on the market that make safeguarding your home from leaks a breeze. Here are three you should know about. "
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "X Products You Need to Prevent Leaks"
+  parent: Plumbing-Buying-Guide
+---
+  
+
+Although protecting your home from leaks may not be the most glamorous part of homeownership, it is an important one that should not be overlooked. The good news is that there are several products on the market that make safeguarding your home from leaks a breeze.
+
+**This May Also Interest You:** [**How to Fix or Replace a Leaky Outdoor Faucet**](https://www.homeserve.com/en-us/blog/how-to/outdoor-faucet-repair/)
+
+Better yet, many of these products are smart devices that you can operate from the convenience of your phone, even when you’re away from home. Below is a list of three of the most helpful products for helping to prevent home leaks.
+
+<img class="detail-image" src="https://library.homeserve.com/m/749906d89d68f29b/Blog-Moen-Flo.jpg" alt="water leak detector"/>
+
+Flood and Freeze Sensor
+-----------------------
+
+For a localized and relatively affordable leak-detection option, you can try a flood and freeze sensor, like the [SimpleSence Water Leak and Freeze Detector](https://www.amazon.com/dp/B07LB6S92P?maas=maas_adg_02DAD537DCE7A0014ED5004C9877F4E9_afap_abs&ref_=aa_maas&gclid=CjwKCAiA4KaRBhBdEiwAZi1zzjr6EntzSMO_Xe4jaMl6CNjqgtF7_IjodjMRB5hBpF2D3T6B6qGiRBoCtYwQAvD_BwE&th=1). Using smart technology that connects to an app on your phone, this small device alerts you via alarm and text when it detects water or ice. These are handy because they are small and battery-powered, and they can be placed in areas where leaks are most likely to occur — behind toilets and under sinks, or next to washing machines, dishwashers, hot water heaters or even basement sump pumps.
+
+The downside here is that if you have multiple areas of concern, purchasing multiple sensors could get pricey. That said, if you’re only in need of the alarm portion of the alert and can do without the smart notifications, a more basic and budget-friendly [multi-pack option](https://www.amazon.com/Pack-Water-Leak-Detector-Detection/dp/B07888CVYR/ref=sr_1_26?crid=1AC1QKIG1W51O&keywords=freeze+and+leak+sensor&qid=1646956423&s=hi&sprefix=freeze+and+leak+sensor%2Ctools%2C89&sr=1-26) may do the trick.
+
+<img class="detail-image" src="https://library.homeserve.com/m/4a7f24901cc47714/webimage-Guardian.png" alt="water leak detector"/>
+
+Water Control Systems
+---------------------
+
+If you have both indoor and outdoor leak concerns and want to provide more comprehensive whole house protection, you might consider springing for a smart-enabled water control system like the [GROHE Sense Guard Smart Water Controller](https://www.homedepot.com/b/Smart-Home-Smart-Plumbing-Smart-Water-Sensors/GROHE/N-5yc1vZ3znZ1z18gi4) or the [Moen Flo Smart Water Monitor](https://www.lowes.com/pd/Moen-Outdoor-Water-Leak-Detector/1001035618?cm_mmc=shp-_-c-_-prd-_-plb-_-ggl-_-LIA_PLB_142_Pipe-Fittings-_-1001035618-_-local-_-0-_-0&ds_rl=1286981&gclid=CjwKCAiA4KaRBhBdEiwAZi1zzsXr5R3TbbUiwgdS_CK8Pyy6kiPV4eu3CLYZwZZGvNe9-r0bh5vKHhoC9wsQAvD_BwE&gclsrc=aw.ds) with an electronic shut-off valve.
+
+These devices connect to an app to provide live data about your home’s water flow rate and pressure and alert you to any irregularities or issues with your water flow. They can detect even the most minor leaks (as small as one drop per minute), will notify you if a fixture wasn’t turned off properly and can also send freeze alerts.
+
+These systems also give you the option to turn off your home’s water remotely from the app, so you could theoretically prevent a whole-house flood while miles away from home with a mere tap of a button on your phone. The added layer of leak security these whole house systems provide may be well worth their $500+ (CAD 630+) price tag to those who crave that extra peace of mind.
+
+<img class="detail-image" src="https://library.homeserve.com/m/5bb725f88039eb9e/webimage-phyn.png" alt="water leak detector"/>
+
+**More Related Articles:**
+
+*   [How to Fix a Leaky Radiator in 4 Steps](https://www.homeserve.com/en-us/blog/how-to/fix-radiator-leak/)
+*   [9 Common Plumbing Myths — Busted](https://www.homeserve.com/en-us/blog/home-improvement/plumbing-system-myths/)
+*   [How Your Home’s Plumbing System Works](https://www.homeserve.com/en-us/blog/home-improvement/home-plumbing-system/)
+*   [Got Plumbing Problems? Here’s What Plumbing Issues Homeowners Insurance Covers ... and What It Doesn’t](https://www.homeserve.com/en-us/blog/buying-guide/plumbing-system-home-warranty-coverage/)
+*   [Pipe Burst? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/home-improvement/frozen-pipe-burst/)
+
+Drip Trays
+----------
+
+If purchasing another high-tech smart product feels like overkill for your home’s leak concerns, you can always go the low-tech route. If your primary worry is about leaky appliances, you can always purchase some plastic trays to slide under each appliance to safeguard against dripping, like [these for under the sink](https://www.amazon.com/InterDesign-Protector-Kitchen-Bathroom-Entryways/dp/B075FL9DW2/ref=asc_df_B075FL9DW2/?tag=hyprod-20&linkCode=df0&hvadid=216553642992&hvpos=&hvnetw=g&hvrand=2711102873315200575&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010265&hvtargid=pla-361069741195&psc=1), or [this one for your washing machine](https://www.lowes.com/pd/CAMCO-WM-Drain-Pan-30-5x34-5OD-LowProfilew-PVCFittingGraphite/1002829152?cm_mmc=shp-_-c-_-prd-_-app-_-ggl-_-LIA_APP_174_Laundry-_-1002829152-_-local-_-0-_-0&ds_rl=1286890&gclid=CjwKCAiA4KaRBhBdEiwAZi1zzkM2jYEy0XV3eDZsRV8MrAGDrI3Js1UBH4l3H97LlMfGaslgO9noAhoCCaQQAvD_BwE&gclsrc=aw.ds). These trays are an easy and affordable way to help safeguard against water damage to your home’s floors from leaky appliances, and they can also serve to alert you to minor leaks before they get more serious.
+
+Keep It Simple
+--------------
+
+When looking for leak prevention products online, the options may seem overwhelming. But the truth is that most products out there are some iteration of the devices listed above, with price tags varying based on brand, capabilities and bonus features. To help hone in on what product will best serve you and your home, think about the minimum protection you’re seeking, consider whether a smart-enabled product best fits your needs or not, and narrow down your options from there based on what fits your budget.
+
+With these products, you can stop leaks before they get out of hand and spend your energy on the more glamorous aspects of homeownership ... like hosting an elaborate dinner party or pruning your shrubs into exotic animal shapes.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

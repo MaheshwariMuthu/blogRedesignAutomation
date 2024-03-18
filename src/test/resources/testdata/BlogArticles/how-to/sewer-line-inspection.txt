@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Sewer Line Inspection Cost?"
+headline: "How Much Does a Sewer Line Inspection Cost?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-12-20
+basePath: https://library.homeserve.com/m/
+heroImage: 21d8ed891608ce0/Blog-HomeServe_SSL_SHMQB324F4DF_13.jpg
+heroAltDescription: "Septic sewer line repair scope down the sewer line"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Sewer line inspections can reduce the risk of a backed-up sewer system and other unpleasant issues. Here's a cost guide."
+articleAbstract: "Regular sewer line inspections can significantly reduce the risk of a backed-up sewer system and other unpleasant issues. Here's a cost guide."
+category: ["How To"]
+eleventyNavigation:
+  key: "How Much Does a Sewer Line Inspection Cost?"
+  parent: Plumbing-How-To
+---
+  Nobody likes spending too much time thinking about their sewer line, and contemplating sewer line problems is even less appealing. Fortunately, regular sewer line inspections can significantly reduce the risk of a backed-up sewer system and other unpleasant issues.
+
+**This May Also Interest You:** [**How Much Does Sanitary Sewer Line Maintenance and Repair Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/sewer-line-repair-and-replacement/)
+
+While there are more enjoyable ways to spend your hard-earned cash, a sewer line inspection could pay dividends if you catch a problem early.
+
+What Is a Sewer Line Inspection?
+--------------------------------
+
+Your sewer line is an essential part of your plumbing system, carrying sewage and wastewater away from your toilet and other fixtures. Over time, the pipe can become blocked with debris or develop damage and leaks. A sewer line inspection can help you diagnose and repair problems quickly and avoid expensive (and stinky) damage to your home. During a sewer inspection, a licensed plumber will use a specialized camera to examine the inside of your sewer line.
+
+Many homeowners schedule regular sewer line inspections, and experts sometimes recommend annual inspections to detect issues as early as possible. You may also choose to hire a plumber to inspect a sewer line before purchasing a house or if you've noticed signs of sewer line problems, such as sluggish water pressure or backed-up drains.
+
+How Much Does a Sewer Line Inspection Cost?
+-------------------------------------------
+
+According to [Forbes](https://www.forbes.com/home-improvement/plumbing/sewer-line-camera-inspection-cost/), a sewer line inspection costs $285 (CAD 390) on average. However, costs vary significantly depending on where you live and the age and condition of your plumbing system. Overall, you should expect to spend somewhere between $70 and $1,000 (CAD 96 and CAD 1,367).
+
+Unless you're a trained plumber, DIY sewer line inspections are usually a bad idea. While it's possible to inspect your sewer line yourself, the equipment is extremely expensive, and you might not spot subtle signs of damage that would be obvious to a professional. If you want to give it a try, you can rent a specialized camera for around $200 (CAD 273) per day. Purchasing a sewer line camera outright could cost as much as $15,000 (CAD 20,501), which is beyond the budget of many homeowners.
+
+While shelling out up to $1,000 (CAD 1,367) per year on a sewer inspection may make you wince, it's often money well spent. Replacing an irreparably damaged sewer system costs at least $20,000 (CAD 27,335), so regular inspections are usually a more economical option.
+
+**More Related Articles:**
+
+*   [What to Do When Your Sewer Backs Up](https://www.homeserve.com/en-us/blog/how-to/sewer-backup/)
+*   [Never Flush These 11 Things Down Your Toilet](https://www.homeserve.com/en-us/blog/home-improvement/things-to-never-flush-down-toilet/)
+*   [Can You Pour Cooking Grease Down the Drain? No. Here’s Why](https://www.homeserve.com/en-us/blog/home-improvement/do-not-pour-grease-down-drain/)
+*   [8 Things You Should Never Put Down the Garbage Disposal (and 5 Things You Can)](https://www.homeserve.com/en-us/blog/home-improvement/garbage-disposal-dos-and-donts/)
+*   [What’s a Fatberg? (Spoiler: It’s as Gross as It Sounds)](https://www.homeserve.com/en-us/blog/home-improvement/what-is-a-fatberg/)
+
+What Factors Affect the Cost of a Sewer Line Inspection?
+--------------------------------------------------------
+
+The length of your sewer line can impact how much you pay for an inspection. Generally, plumbers charge more to examine longer sewer lines, simply because there's a larger area to inspect. Therefore, it's wise to take your plumber's quote with a grain of salt, unless you happen to know the length of the drain. Your plumber may recalculate their fees if your sewer line is significantly longer or shorter than expected.
+
+The price of your inspection may also depend on why you're having it done. For example, you may be entitled to a free or significantly discounted sewer line inspection as part of a more comprehensive home inspection when you purchase a property.
+
+Having a "cleanout" (a small outdoor line providing access to your sewer pipe) often reduces the cost of a sewer line inspection because it makes the sewer line more accessible. If you don't have a sewer cleanout, it could be worth installing one to minimize the cost of future inspections and repairs. Sewer cleanout installation usually costs between $500 and $2,000 (CAD 683 and CAD 2,734), according to data from [HomeGuide](https://homeguide.com/costs/sewer-line-installation-cost).
+
+Finally, bear in mind that your final bill could be much higher if your plumber discovers a problem with your sewer line. How much sewer line repairs cost depends on the extent of the issue, with minor repairs costing around $650 (CAD 888) on average. However, [Forbes](https://www.forbes.com/home-improvement/plumbing/sewer-line-repair-replace-cost/) says the average repair bill is roughly $4,000 (CAD 5,467), and you could spend as much as $7,500 (CAD 10,251) to replace a 30-foot section of your sewer line.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/a-9SAcEgcOs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Yeah, maybe put down the plunger and call a plumber."></iframe>

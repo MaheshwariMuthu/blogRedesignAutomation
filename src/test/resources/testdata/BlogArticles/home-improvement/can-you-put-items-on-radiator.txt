@@ -1,0 +1,79 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Can Steam Radiators Catch Things on Fire?"
+headline: "Is It Safe to Put Things on or Near Your Radiator?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-12-04
+basePath: https://library.homeserve.com/m/
+heroImage: 4138fee4caa985c9/Blog-GettyImages-1292722781.jpg
+heroAltDescription: "Sleeping cat on the heating radiator"
+metaDescriptions: "Exercise caution when putting items on or near your steam or electric radiator. Here's what you need to know."
+articleAbstract: "Radiators have kept our homes warm for centuries. But just because they're tried-and-true doesn't mean they're 100% safe. Exercise caution when putting items on or near your steam or electric radiator. Here's what you need to know."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Can You Put Things On Top of Your Radiator?"
+  parent: HVAC-Home-Improvement
+---
+  Radiators have been around [since the 1800s](https://www.thevictorianemporium.com/publications/history/article/heating-and-radiators), providing much-needed warmth during colder seasons. Whether you're cozying up with the warmth of a radiator and a good book for the first time this season, or you're heating your home on a frigid midwinter day, radiator safety can be a concern.
+
+**This May Also Interest You:** [**Noisy Radiator: Why Does My Heating System Clang?**](https://www.homeserve.com/en-us/blog/home-improvement/heating-system-clang/)
+
+Your main question may be whether your electric or steam radiator can catch items on fire. Here’s what you should know.
+
+Can Items on or Touching Radiator Catch on Fire?
+------------------------------------------------
+
+Because radiators generate heat, a common concern among homeowners and apartment dwellers is whether the units are fire hazards — especially when things like bedding, curtains and furniture sit on or near them. The answer is yes, but the details depend on the type of radiator you have.
+
+In general, it's a bad idea to set most items on any type of radiator. The units get very hot, and even if they don't cause items to catch fire, they may damage objects in other ways.
+
+### Is a Steam Radiator a Fire Hazard?
+
+Steam radiators use boiling water to create steam, which causes the unit to radiate heat into your space. Steam doesn't cause items to catch fire. However, steam radiators can cause fires due to malfunctions when they are [improperly installed](https://temperaturemaster.com/are-radiators-fire-hazards/). [Dust and debris build-up](https://www.hunker.com/12261917/home-radiator-safety) inside the radiator can also lead to fires, and flammable items can easily combust when set on top of a strong heat source.
+
+The heat that steam radiators generate can also dry out items that are set on top or within close proximity to the unit. This can make fire hazards of the items themselves — even those that would otherwise be fairly inflammable on their own — and they could more easily catch fire from other sources due to being dried out.
+
+### Is an Electric Radiator a Fire Hazard?
+
+Electric radiators, especially older models, can overheat, [which can lead to fires](https://www.fire-magazine.com/are-your-electric-radiators-safe). They can also cause nearby items to catch fire due to sparks or other issues.
+
+Can You Put Fabric and Textiles on a Radiator?
+----------------------------------------------
+
+Electric baseboard radiators can cause fabric items to become burned or scorched. Placing fabric over an electric radiator can also cause a fire, so you should avoid draping anything over such units.
+
+Some people do recommend draping a steam radiator with a blanket or sheet as a [form of climate control](https://www.thespruce.com/make-your-hot-apartment-more-bearable-in-winter-3017412) in a room. That's because once a steam radiator heats up, it takes a while to cool and radiates heat into your space during that time. If you become overheated, a temporary nonflammable fabric blocker may cut down on how much heat is spread through the room.
+
+If you wish to cover your radiator long-term for a more aesthetically pleasing look, consider purchasing a [radiator cover](https://www.lowes.com/pl/Radiator-covers-Heating-cooling/4294395587) designed for that purpose. These provide an attractive accent while adding a layer of protection between the radiator and your household items.
+
+**More Related Articles:**
+
+*   [How to Fix a Radiator Leak in 4 Steps](https://www.homeserve.com/en-us/blog/how-to/fix-radiator-leak/)
+*   [How Much Does Boiler Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-repair/)
+*   [How Much Does It Cost to Install or Replace a Boiler?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-replacement/)
+*   [How Much Does Radiant Floor Heating Cost to Install?](https://www.homeserve.com/en-us/blog/cost-guide/radiant-floor-heating/)
+*   [Don’t Get Cold Feet! Everything You Need to Know About Radiant Floor Heating](https://www.homeserve.com/en-us/blog/home-improvement/radiant-floor-heating/)
+
+Is It Safe To Put a Shelf Over a Radiator?
+------------------------------------------
+
+While you want to steer away from resting items, including shelves, directly on the radiator, a heat-resistant radiator shelf can be installed above the unit via wall brackets. Radiator covers with built-in shelves are also safe as long as they are made for use with radiators.
+
+Can You Put Furniture Against a Radiator?
+-----------------------------------------
+
+Putting furniture against a running electric or steam radiator can create a significant fire hazard and is not recommended. Upholstery is often treated with chemicals that can easily ignite when combined with extreme heat, and some radiators can become hot enough to scorch wood, fabric and other furniture materials.
+
+If you've got limited space, it can be tempting to place furniture, bookcases and other large pieces up against the radiator, but it's important to leave a space of at least three feet between the radiator and furniture to prevent injuries and potential fires. Furniture that crowds the unit can also hinder heat distribution throughout your space and make the radiator less efficient.
+
+Should You Leave Electronics on a Radiator?
+-------------------------------------------
+
+It's a good idea to avoid placing electronic devices, like your phone, laptop or tablet, on a radiator. The heat from both steam and electric radiators can cause their materials to [melt and warp](https://www.homecrux.com/reasons-to-have-radiator-in-hallway-2/117697/), which in turn can cause serious damage to the internal components.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Many Air Conditioners Does My Home Need?"
+headline: "How Many Air Conditioners Does My Home Need?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-10-08
+basePath: https://library.homeserve.com/m/
+heroImage: 3528e878b7ec71ec/Blog-GettyImages-183302196.jpg
+heroAltDescription: "Air Conditioner Pair"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If the summer heat makes your home unbearable, you may have the incorrect number of air conditioners."
+articleAbstract: "If the summer heat makes your home unbearable, you may have the incorrect number of air conditioners. Many people assume that a single, central AC is enough to cool a family home, but that not all homes are created equal."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Many Air Conditioners Does My Home Need?"
+  parent: HVAC-Home-Improvement
+---
+  If the summer heat makes your home unbearable, you may have the incorrect number of air conditioners.
+
+**This May Also Interest You:** [**10 Ways to Make Your Central Air Conditioner More Efficient**](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioner-energy-efficiency-tips/)
+
+Many people assume that a single, central AC is enough to cool a family home, but that not all homes are created equal.
+
+How Many Air Conditioners Do I Need?
+------------------------------------
+
+Most average-sized homes need one or two air conditioners. How many units you need depends on your home's layout and size.
+
+Your home's square footage can help you calculate your air conditioning needs more precisely. As a rule of thumb, you need around 25 BTUs of [cooling capacity per square foot](https://www.thespruce.com/air-conditioner-sizing-1152666). Therefore, you can calculate what size air conditioner you require by multiplying your home's square footage by 25. For example, a 2,500-square-foot home needs an air conditioner delivering around 62,500 BTUs.
+
+Most air conditioning manufacturers state the cooling capacity of AC units in tons. There are 12,000 BTUs in a ton. You can work out your tonnage requirements by dividing the BTUs you need by 12,000.
+
+A single central air conditioner can often cool an average-sized family home, assuming your model has the right cooling capacity. However, you may need two or more units in some situations.
+
+Why Do Some Homes Need More Than One Air Conditioner?
+-----------------------------------------------------
+
+There are several possible reasons for needing multiple air conditioners. A single air conditioner may not be capable of cooling a home with a very large square footage. The building's layout can also impact the number of AC units you need. Generally, a single unit can cool a single-story home because the temperature is usually more consistent over a single floor.
+
+You'll often need two units for a two-story home to achieve an even temperature. Hot air rises, so the upper floors are usually warmer than the lower floors. A single unit may cool the lower story rapidly and struggle to achieve your desired temperature on the upper floor.
+
+Complex layouts can also impact the airflow around your home, causing warm spots. In this situation, you could consider installing additional window units or mini-split air conditioners to cool problem areas alongside a central AC system.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+Why Might You Need More AC Units Over a Larger Unit?
+----------------------------------------------------
+
+Some homeowners choose to install a window air conditioner or mini-split unit in each room instead of installing larger central air conditioning systems. Installing smaller AC units could be worth considering if your home doesn't have existing ductwork.
+
+According to data from [HomeGuide](https://homeguide.com/costs/cost-to-replace-ductwork), installing new ducts is expensive — most homeowners spend between $1,400 and $5,600 (CAD 1,901 to CAD 7,604) to install a new duct system or replace worn or faulty ductwork. These prices don't include the cost of a new central air conditioner. Adding a central AC costs $3,800 to $7,500 (CAD 5,160 to CAD 10,183), [Architectural Digest](https://www.architecturaldigest.com/reviews/hvac/air-conditioner-cost) says. Window air conditioners are significantly cheaper at $150 to $550 (CAD 204 to CAD 747) each, while mini-split units typically cost around $2,000 to $14,000 (CAD 2,716 to CAD 19,009).
+
+Therefore, installing a smaller unit in each room often works out cheaper than installing new ducts and a central AC. Some mini-split systems can supply up to four indoor air handlers, so you won't necessarily need a separate unit for each room.
+
+Another factor to consider is zoning. Installing a window air conditioner or mini-split air handler inside each room allows you to control the temperature in each room separately. You can also turn off individual units when you don't need them, potentially reducing your cooling bills.
+
+Determining the correct cooling system for your home can be challenging. A knowledgeable HVAC professional can advise you on the best setup based on your home's unique characteristics.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="HVAC Maintenance | 5 Tune-Up Tasks for your AC Unit"></iframe>

@@ -1,0 +1,151 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Sump Pump Installation: How to Install a Sump Pump"
+headline: "How to Install a Sump Pump: A Step-by-Step Guide"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-05-12
+basePath: https://library.homeserve.com/m/
+heroImage: 313983e2e44f742d/webimage-SumpPit_Erossi_1204.png
+heroAltDescription: "Photo of an unfinished basement with a newly installed sump pump pit "
+metaDescriptions: "A sump pump is an invaluable upgrade for homeowners dealing with basement flooding issues. Here's a guide to installing one in your home."
+articleAbstract: "A sump pump can save you hours of cleanup time. It’ll also help keep your basement free of standing water that can cause mold and affect the integrity of your foundation over time. Here’s everything you need to know about sump pumps, including how to install one."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0919
+stickyDisplayText: Call today for a local plumber.
+lightboxCopy: Local plumbing pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/plumbers/hs/same_day
+  large:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner1.png
+      alt: Plumbing eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner2.jpg
+      alt: Plumbing eLocal Banner 2
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install a Sump Pump"
+  parent: Plumbing-How-To
+---
+  
+
+**Installing a Sump Pump at a Glance**
+
+* **Step 1:** Position and outline basin
+* **Step 2:** Cut hole in basement floor
+* **Step 3:** Dig 3-foot hole
+* **Step 4:** Wrap with filter fabric
+* **Step 5:** Place basin in hole
+* **Step 6:** Add gravel and level
+* **Step 7:** Place sump pump
+* **Step 8:** Run drainage pipe
+* **Step 9:** Fill hole with concrete
+* **Step 10:** Test pump
+
+A flooded basement is no joke. Water can damage everything from carpet to drywall, and it can be difficult to remove. If there’s any water left behind, it can lead to mold or mildew growth. For many homeowners, a flooded basement isn’t an isolated incident, but rather a routine occurrence every rainy season.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**How Much Does It Cost to Replace or Install a Sump Pump?**](https://www.homeserve.com/en-us/blog/cost-guide/sump-pump-installation/)
+
+A sump pump can save you hours of cleanup time. It’ll also help keep your basement free of standing water that can cause mold and affect the integrity of your foundation over time. Here’s everything you need to know about sump pumps, including how to install one.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6752ceee29082ebb/Blog-182498744.jpg" alt="Sump pump basin with pvc pipe"/>
+-------------------------------------------
+
+What Is a Sump Pump?
+--------------------
+
+A sump pump sits in a sump pit, which is a basin made from fiberglass or plastic. It’s installed at the lowest point of the basement floor or in the location where water tends to accumulate first during basement flooding. When water rises under the basement floor, it infiltrates the pit, triggering a floater device in the pump. When the sump pump kicks in, it pumps floodwater outside through a pipe connected to the pump. Once the water level recedes, the sump pump’s floater senses the drop in the water level and automatically shuts the pump off.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+Do You Need a Plumber to Install a Sump Pump?
+---------------------------------------------
+
+You don't have to have a plumber to install a sump pump, but [This Old House](https://www.thisoldhouse.com/basements/21097137/how-to-install-a-sump-pump) recommends professional installation. Sometimes, it’s best to err on the side of caution and take advantage of a pro's expertise. Sump pumps have definite value to homeowners who need to protect their homes from possible flooding, but they must be installed a certain way to meet code requirements.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+Can I Install a Sump Pump Myself?
+---------------------------------
+
+That said, it is possible to install a sump pump yourself. Prior to installing your sump pump, you’ll need to determine the best location for it and decide which type of pump is best for your needs. You'll also need to factor in the availability of a power source. Then, check for local guidelines on allowable discharge and drainage methods for wastewater to make sure everything is up to code.
+
+<img class="detail-image" src="https://library.homeserve.com/m/3a11e6b18f4f407e/Blog-OneWayValve_ERossi3795.jpg" alt="Close up of a green check valve on a residental sump pump"/>
+-------------------------------------------
+
+How to Install a Sump Pump
+--------------------------
+
+Once you’ve got all that down, the process of installing a sump pump is fairly straightforward. Follow these steps:
+
+1.  Position the sump pump basin upside down on the floor wherever it’s going to be installed. Use a marker to draw its outline.
+2.  Cut through the basement floor’s concrete with a demolition hammer, using the outline as a guide.
+3.  Once the concrete is cleared, dig a hole that is sufficiently deep to accommodate the sump pump basin. A sump pump should be placed at least 3 feet deep, and the rim of the basin should be flush with your basement floor.
+4.  Wrap filter fabric around the base of the sump pump basin. This keeps silt from obstructing the motor.
+5.  Position the basin in the hole.
+6.  Add several layers of gravel to the basin and position a paver stone over the gravel to provide a sturdy, level base for the sump pump.
+7.  Place your sump pump on top of the paver.
+8.  Connect the one-way check valve on the pump to a PVC pipe for sump pump drainage. Run this pipe up the wall and out of your basement. This pipe needs to extend to the exterior of your home, and it should empty out through a downspout.
+9.  Mix concrete and use it to fill in the crevice surrounding the sump pump basin. Add concrete to fill in the basin to its top. Smooth the concrete using a trowel.
+10.  Test your sump pump by filling the basin with water. It should automatically turn on.
+
+**More Related Articles:**
+
+*   [Sump Pumps: Everything You Need to Know](https://www.homeserve.com/en-us/blog/home-improvement/how-sump-pump-works/)
+*   [Sump Pump Alarm Going Off? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/buying-guide/sump-pump-alarm/)
+*   [What to Do When Your Basement Floods](https://www.homeserve.com/en-us/blog/home-improvement/basement-flooding-tips/)
+*   [How Much Does It Cost to Waterproof a Basement?](https://www.homeserve.com/en-us/blog/cost-guide/basement-waterproofing/)
+*   [Au Revoir, Standing Water! How to Install a French Drain in 8 Steps](https://www.homeserve.com/en-us/blog/how-to/how-to-install-a-french-drain/)
+
+Do You Need a Sump Pump?
+------------------------
+
+Not every home needs a sump pump, but they’re invaluable for homes that experience even occasional flooding. Compared to cleaning up after flood damage, sump pumps are relatively cheap to purchase and fairly easy to install.
+
+However, in some cases, a sump pump is more of a bandage than a cure. If your basement floods due to landscape grade errors, the slopes of walkways and driveways, from roof downspout drainage or some other poorly designed feature of your property, your basement will continue to take on water until that’s fixed.
+
+While not all homes stand to benefit from sump pump installation, many do. You can reap the rewards of a sump pump if:
+
+*   Your property has previously flooded. A history of flooding is the strongest indicator that sump pump installation is a smart decision. If your basement has flooded once, chances are that it will flood again.
+*   You live in an area that gets a lot of rain or snow. Frequent wet conditions and extreme weather can lead to flooding, even in homes that have not previously flooded.
+*   Your home is located on a floodplain. If your home is in a low-lying area or flat area, it may be apt to flood.
+
+It’s worth mentioning that if you have a finished basement, drainage problems can be hidden from view. This can lead to serious home repairs later on. It might be a good idea to install a sump pump, especially if you have a lot of valuables in your basement that can be damaged by floodwater.
+
+Are Sump Pumps Only for Basements?
+----------------------------------
+
+Sump pumps are generally installed in basements, but they can be beneficial in other water-prone areas of the home, too. If you install one in a crawlspace or even in the backyard, it can keep water from infiltrating your home, where it can leave behind mildew, mold and rot.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2ebfe32ce4ec6d3e/Blog-GettyImages-488828627.jpg" alt="Replacing the old sump pump in a basement"/>
+-------------------------------------------
+
+Does Your Old Sump Pump Need to Be Replaced?
+--------------------------------------------
+
+Sometimes, it would cost you more to repair a sump pump that’s acting up than it would to replace it. Your sump pump may be ready to set out to pasture if:
+
+*   It’s making weird noises. This can indicate damaged or worn sump pump parts.
+*   The repair technician has been out one too many times. If you are constantly calling out for sump pump repair, your out-of-pocket costs can be exorbitant.
+*   It vibrates a lot when it’s running. This is a sign of interior damage.
+*   It runs more than necessary or even constantly.
+*   It cycles irregularly.
+*   It’s starting to rust. Once oxidation sets in, it needs to be replaced.
+*   It’s old. No sump pump is built to run in optimal condition forever. Once it hits seven years of use, it is time to consider replacing it.
+*   The motor fails or gets stuck.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}

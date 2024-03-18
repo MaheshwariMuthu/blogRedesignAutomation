@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Safety Recall: 5,400 NESCO Coffee Bean Roasters"
+headline: "Fire Risk: Metal Ware Recalls NESCO Coffee Bean Roasters Over Reports of ‘Flames and Smoke’"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-04-30
+basePath: https://library.homeserve.com/m/
+heroImage: 1907283bb2ebbb80/webimage-CoffeeBeanRoasterRecall_NESCO.jpg
+heroAltDescription: "recall product"
+metaDescriptions: "Metal Ware has recalled nearly 5,400 NESCO coffee bean roasters due to a fire hazard. Here's what you need to know."
+articleAbstract: "Metal Ware has recalled nearly 5,400 NESCO coffee bean roasters due to a fire hazard. If you own one, first find an alternate way to make your morning cup. Then, read this.  "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Metal Ware Recalls NESCO Coffee Bean Roasters Due to Fire Hazard"
+  parent: Appliances
+---
+  Metal Ware has recalled nearly 5,400 NESCO coffee bean roasters due to a fire hazard. If you own one, first find an alternate way to make your morning cup. Then, read this.
+
+**This May Also Interest You:** [**Learn How to Install a Smoke Detector Safely**](https://www.homeserve.com/en-us/blog/how-to/install-smoke-detector/)
+
+In the April 21 recall, the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2021/Metal-Ware-Recalls-NESCO-Coffee-Bean-Roasters-Due-to-Fire-Hazard) reported that some NESCO coffee bean roasters could overheat, causing the plastic to melt or coffee beans to burn. Metal Ware has received 20 reports of incidents in which the roasters overheated, melted, smoked or caught fire; no injuries have been reported.
+
+According to the Two Rivers, Wis.-based [distributor](https://www.nesco.com/recall-notice/), this recall affects Model CR-04-13 roasters that have date codes 2520 or 3220. You can find the model number and date code printed on the label on the bottom of the roaster; it's also printed on the bottom of the box the roaster came in.
+
+The NESCO coffee bean roasters were manufactured in China and sold between August and December 2020. The roasters were sold nationwide at Blains Supply and Burman Coffee Traders stores, and [several online retailers](https://www.cpsc.gov/Recalls/2021/Metal-Ware-Recalls-NESCO-Coffee-Bean-Roasters-Due-to-Fire-Hazard), including Kohls.com and Wayfair.com.
+
+If you purchased a recalled coffee bean roaster, you should stop using it immediately. Contact the manufacturer for a full refund of $85 or a $100 refund in the form of store credit. Call Metal Ware toll-free at 888-993-9243 or email [beanroaster@nesco.com](mailto:beanroaster@nesco.com). Metal Ware will provide a prepaid mailer for return shipping.
+
+For additional information about this recall, visit [NESCO’s website](https://www.nesco.com/recall-notice/), and for more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov/).
+
+**More Related Articles:**
+
+*   [‘Burning, Smoking, Melting’: 800 PureLine Pool Pump Motors Recalled for Fire Danger](https://www.homeserve.com/en-us/blog/home-improvement/pureline-pool-pump-motor-recall/)
+*   [Shock Hazard Sparks Recall of 25,000 National Presto Smokers](https://www.homeserve.com/en-us/blog/)
+*   [Don’t Sleep on This: 700 HOFISH Mattresses Recalled Over Fire Risk](https://www.homeserve.com/en-us/blog/home-improvement/hofish-mattress-recall/)
+*   [5 Tips for Cabon Monoxide Safety](https://www.homeserve.com/en-us/blog/home-improvement/carbon-monoxide-safety-tips/)
+*   [Wood-Burning Stove and Fireplace Safety](https://www.homeserve.com/en-us/blog/home-improvement/fireplace-wood-burning-stove-safety/)

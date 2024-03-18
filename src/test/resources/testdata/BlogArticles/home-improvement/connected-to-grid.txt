@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Do You Have to Be Connected to the Grid?"
+headline: "Do You Have to Be Connected to the Grid?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-12-14
+basePath: https://library.homeserve.com/m/
+heroImage: 21dd99b7e02d9e55/Blog-Getty_172742316_MeterBox_EE_CMYK.jpg
+heroAltDescription: "external electrical meter"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Have you ever thought about living off the grid? If you’re curious and wondering about the pros and cons of this unique lifestyle, read on. "
+articleAbstract: "Have you ever thought about living off the grid? If you’re curious and wondering about the pros and cons of this unique lifestyle, read on. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Do You Have to Be Connected to the Grid?"
+  parent: Electrical-Home-Improvement
+---
+  Have you ever thought about living off the grid? What does living off the grid mean exactly? And is it legal in all fifty states?
+
+**This May Also Interest You:** [**When’s the Best Time to Install Solar Panels?**](https://www.homeserve.com/en-us/blog/home-improvement/install-solar-panels/)
+
+If you’re curious about off-grid living and wondering about the pros and cons of being connected to the grid versus going off it, read on.
+
+What’s the Grid?
+----------------
+
+The grid is the massive network of power lines and transformers that generate electricity and provide power for most homes and businesses. Folks who choose to live “off the grid” will forgo being connected to this network and may utilize other independent sources of power, like solar or wind power, instead. Technically, the grid only refers to this power network, but oftentimes off-grid living eschews other public utilities, like water, gas and sewer systems as well, opting for independent water sources (like a private well) and alternative waste solutions instead. Essentially, off-the-grid living is an attempt to live independently and collect resources in a way that’s disconnected from traditional societal means.
+
+Do You Have to Be Connected to the Power Grid?
+----------------------------------------------
+
+Off-grid living proponents have various reasons for wanting to utilize alternative energy sources rather than stay connected to the power grid. For some, the primary motivator is environmental concerns; for others, it’s a worry about the dependability of the U.S. power system, especially in the event of a national disaster or security threat. Others simply crave a more independent, self-sustaining life.
+
+Currently, there are no states that explicitly outlaw going off-grid, but there are some states where off-the-grid living is easier than others. Rural areas tend to be the best spots for living off the grid for obvious reasons, as off-gridders can have more space and privacy. Plus, rural areas often have fewer property regulations and laxer local statutes. This is why the more rural states like Alabama, Texas, Tennessee, New Mexico and Missouri are considered some of the best states for living off the grid.
+
+There are also local laws in some areas that make certain parts of off-grid living tricky, so you’ll need to research what the regulations surrounding building codes, water collection, hunting, and disconnecting from the grid are like in your area. In some parts of the U.S., you may even be charged a flat-rate fee for opting out of the grid, so you’ll want to check on that too.
+
+All in all, going off the grid requires careful planning and thought, and it’s no easy task. That’s why you’ll need to weigh the pros and cons of being connected to the grid before deciding whether off-grid living is for you.
+
+**More Related Articles:**
+
+*   [What’s It Like to Go Solar? 5 Things They Don’t Tell You in the Brochure](https://www.homeserve.com/en-us/blog/home-improvement/solar-panels/)
+*   [How Much Does It Cost to Install Solar Panels?](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+*   [What Are Solar Shingles … and Do They Work?](https://www.homeserve.com/en-us/blog/home-improvement/solar-shingles/)
+*   [How Much Do Solar Shingles Cost?](https://www.homeserve.com/en-us/blog/cost-guide/solar-shingles/)
+*   [Thinking About a Solar Water Heater? Here Are the Pros and Cons](https://www.homeserve.com/en-us/blog/home-improvement/solar-water-heater/)
+
+Pros and Cons of Being Connected to the Grid
+--------------------------------------------
+
+Staying connected to the grid certainly has its pros. Even if you want to utilize alternative power sources, like solar, a grid-tied solar system often makes better financial sense than an independent one, since you can sell your excess energy production back to the energy company to help reduce costs. Working with a utility company to install solar in your home can also help defray the costs of solar panels, which is quite the expense upfront if you are installing them on your own. Furthermore, you’ll likely still be responsible for property taxes when living off the grid if you own land, the bulk of which goes toward state and local services like schools and public services that you are probably not taking advantage of with off-grid living.
+
+For some folks who are wary of the largely coal-powered grid with environmental considerations as their primary concern, using a [grid-connected renewable energy system](https://www.energy.gov/energysaver/grid-connected-renewable-energy-systems) may be a good alternative to off-grid living. You’ll still be connected to the grid, but you’ll be generating your own power in a more eco-friendly way. But if seeking more independence is your aim, you may want to disconnect from the grid entirely. Just keep in mind that with independence comes quite a bit of pressure, as you’ll be fully responsible for generating your own power, and if the power systems you’ve devised fail, you’ll be up the proverbial creek without a power company to call on for assistance.
+
+Alternatives to All or Nothing
+------------------------------
+
+Because of the risks and expenses associated with disconnecting from the grid, some people opt to stay on-grid with their power but still seek out other independent ways of living. This may include things like building their own home, growing food, raising livestock, [harvesting rainwater](https://www.homeserve.com/en-us/blog/cost-guide/rainwater-collection-system/), pulling water from a well and staying disconnected from cell phones and the internet.
+
+The truth is, there is no _one way_ to go off-grid, as these days, off-grid living is a catchall term for more than disconnecting from the power grid alone. How you ultimately decide you want to live is up to you and should align with your goals and no one else’s. Just keep in mind that there are all sorts of ways to establish independence and self-sufficiency with homesteading, and that going off the power grid, while doable and legal, isn’t mandatory.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

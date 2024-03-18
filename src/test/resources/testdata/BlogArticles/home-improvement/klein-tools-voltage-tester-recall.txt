@@ -1,0 +1,34 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Danger: High Voltage! Klein Tools Recalls 1.7 Million Voltage Testers for Shock Hazard"
+headline: "Danger: High Voltage! Klein Tools Recalls 1.7 Million Voltage Testers for Shock Hazard"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-06-22
+basePath: https://library.homeserve.com/m/
+heroImage: 379dd2968993f32/webimage-VoltageTesterRecall_KleinTools_0001.png
+heroAltDescription: "recall product"
+metaDescriptions: "Klein Tools is recalling nearly 1.7 million non-contact voltage testers due to a shock hazard that has already been cited in an injury."
+articleAbstract: "Klein Tools is recalling nearly 1.7 million non-contact voltage testers due to a shock hazard that has already been cited in an injury. In the recall alert, announced June 9, the Consumer Product Safety Commission reports that the device’s on/off button can remain depressed during the power-on or power-off cycle, causing the tester to function improperly and resulting in a failure for users testing electrical sources to be warned of the presence of live voltage."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Non-Contact Voltage Testers Recalled by Klein Tools Due to Shock Hazard"
+  parent: Appliances
+---
+  Klein Tools is recalling nearly 1.7 million non-contact voltage testers due to a shock hazard that has already been cited in an injury. In the recall alert, [announced June 9](https://www.cpsc.gov/Recalls/2021/Non-Contact-Voltage-Testers-Recalled-by-Klein-Tools-Due-to-Shock-Hazard), the Consumer Product Safety Commission reports that the device’s on/off button can remain depressed during the power-on or power-off cycle, causing the tester to function improperly and resulting in a failure for users testing electrical sources to be warned of the presence of live voltage.
+
+**This May Also Interest You:** [**4 Steps for Proper Electrical Maintenance**](https://www.homeserve.com/en-us/blog/home-improvement/electrical-maintenance/)
+
+Affected devices include Klein Tools Non-Contact Voltage Testers bearing model number NCVT-1 and date codes ending in H7, as well as units sold separately as part of a kit for roughly $17 to $68, between January 2020 and March 2021 at The Home Depot stores, industrial distributors, electrical wholesalers and some hardware stores nationwide. The meters, manufactured in China and rated CAT IV and measure electricity up to 1,000 volts, have a yellow body housing with a tinted gray tip and a black pocket clip/battery cap on the back. Owners can find the model number on top of each unit, above the brand name, Klein Tools, whereas the date codes are printed on the bottom of the unit, _under_ the brand name; compare the model number to the [recall list, here](https://www.cpsc.gov/Recalls/2021/Non-Contact-Voltage-Testers-Recalled-by-Klein-Tools-Due-to-Shock-Hazard).
+
+The Lincolnshire, Ill.-based distributor of the devices, Klein Tools, said it has received two reports of incidents involving malfunctioning voltage testers, including one shock injury. In addition to the 1.69 million sold in the United States, an additional 67,800 were sold in Canada. The company urges owners to stop using the devices immediately and contact Klein Tools for a free replacement.
+
+Owners can call Klein Tools at 800-527-3099, email [ncvt1support@kleintools.com](mailto:ncvt1support@kleintools.com) or go to the company’s [product recalls page](https://www.kleintools.com/product-recalls) for more information. For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov).
+
+**More Related Articles:**
+
+*   [Electrical Repair Cost Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+*   [IKEA Recalls 148,000 Bowls, Plates and Mugs Over Burn Risk](https://www.homeserve.com/en-us/blog/home-improvement/ikea-dishes-recall/)
+*   [5.4 Million Clothing Steamers Recalled by HSN Over 'Severe Burn Hazard'](https://www.homeserve.com/en-us/blog/home-improvement/hsn-clothing-steamer-recall/)
+*   [Fall Risk: Cheyenne Products Recalls 795,000 Chairs and Barstools](https://www.homeserve.com/en-us/blog/home-improvement/mainstay-chair-barstool-recall/)
+*   [Over 19,000 Log Splitters with Briggs & Stratton Engines Recalled Due To Injury Risk](https://www.homeserve.com/en-us/blog/home-improvement/briggs-stratton-log-splitter-recall/)<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/8VoPsAM69RQ?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

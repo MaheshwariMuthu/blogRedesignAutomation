@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Do I Find the Serial Number on My LG TV?"
+headline: "How Do I Find the Serial Number on My LG TV?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-04-06
+basePath: https://library.homeserve.com/m/
+heroImage: 500812933d170c83/Blog-LG-SUPER-UHD-TV-MODEL-SJ95-06-1100x825.jpg
+heroAltDescription: "A couple sit on the couch in their living room in front of an LG brand flatscreen TV with a colorful pattern on the large screen"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "You may need to find your LG TV’s serial number to register a new television or get repairs. Here’s how to do that."
+articleAbstract: "You may need to find your LG TV’s serial number to register a new television or get repairs. Here’s how to do that."
+category: ["How To"]
+eleventyNavigation:
+  key: "How Do I Find the Serial Number on My LG TV?"
+  parent: Appliances-How-To
+---
+  _Manufacturer image_
+
+Whether you just purchased a new TV or have an older TV, model and serial numbers can provide important information about your LG electronics.
+
+**This May Also Interest You:** [**How to Find the Serial Number on Your Appliances and Gadgets**](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+You may need to find your LG TV’s serial number to register a new television or get repairs. Here’s how to do that.
+
+What Is a TV Serial Number?
+---------------------------
+
+All LG televisions have model numbers and serial numbers. LG TV model numbers provide general information about the TV design and series. Model numbers also provide information about:
+
+*   Screen size
+*   TV series
+*   Year manufactured
+*   Specifications, like whether the unit is a smart TV
+
+Model numbers aren't unique to individual TVs, and many individual units have the same model number.
+
+However, each LG TV has a unique serial number that identifies that individual TV set. Serial numbers provide information about the country or region where the TV was made.
+
+Why You Might Need to Know Your TV's Serial Number
+--------------------------------------------------
+
+If you purchase a new LG TV and want to register it for warranty purposes, you’ll need to know the serial number. You’ll also need the serial number to use the warranty if the TV stops working. The serial number may be helpful if your TV needs repairs, you want to purchase insurance or the TV is stolen.
+
+How to Find Your LG TV’s Serial Number
+--------------------------------------
+
+LG TV serial numbers can be found on the back of the TV or the television’s on-screen menu. You may also find the number on a sticker on the box a new television comes in.
+
+### Finding the Serial Number on the Back of the TV
+
+LG prints the serial number on a white box on the back of each television. You'll see a model number, barcode and other important information in the box.
+
+LG TV serial numbers typically follow this pattern: Three numbers, four numbers and then a string of numbers.
+
+Remember not to confuse the serial number with the model number, which will follow a different format. It may begin with letters like "OLED," depending on the type of television.
+
+**More Related Articles:**
+
+*   [Can You Buy a TV That’s Not Smart?](https://www.homeserve.com/en-us/blog/buying-guide/non-smart-tvs/)
+*   [How Do I Find the Serial Number on My Android Phone?](https://www.homeserve.com/en-us/blog/how-to/find-android-smartphone-serial-number/)
+*   [How Do I Find the Serial Number on my Samsung Smartphone?](https://www.homeserve.com/en-us/blog/how-to/find-samsung-smartphone-serial-number/)
+*   [How to Do a Home Inventory Before Disaster Strikes](https://www.homeserve.com/en-us/blog/how-to/create-home-inventory/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+
+### Using the On-Screen Menu
+
+You can also find the serial number using an on-screen menu. This feature can be helpful if the TV is wall-mounted or the back is otherwise hard to access. How to find the serial number depends on the model of the television. On newer TVs:
+
+*   Access the settings menu (indicated by a gear icon)
+*   Click the icon with three vertical dots
+*   Then click “General,” followed by “Devices” and then “TV.” The “TV Information” menu will provide the serial number.
+*   If there is no “General” option, click “Support TV” followed by “Information.”
+
+For older models, you may need to look for an “About TV” option on the general menu.

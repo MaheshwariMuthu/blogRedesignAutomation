@@ -1,0 +1,82 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Heat Pump Cost?"
+headline: "How Much Does a Heat Pump Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-10-30
+basePath: https://library.homeserve.com/m/
+heroImage: 7decbef7898e3fdb/Blog-GettyImages-1402691595.jpg
+heroAltDescription: "Heatpump air-condition units installed in the backyard"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Installing a heat pump can save you money on your energy bills and maintenance fees. Here's what to know about installation costs."
+articleAbstract: "Installing a heat pump can save you money on your energy bills and maintenance fees. However, the difference between types of heat pumps and the installation costs involved can be confusing. Here's a breakdown."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does a Heat Pump Cost?"
+  parent: HVAC-Cost-Guide
+---
+  Heat pumps are an efficient way to heat your home, and they work by transferring heat in or out of your property. Installing a heat pump can save you money on your energy bills and maintenance fees. However, the difference between types of heat pumps and the installation costs involved can be confusing.
+
+**This May Also Interest You:** [**How Much Does an Air-Source Heat Pump Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/air-source-heat-pump/)
+
+Below, we sort this out for you. Here's how much a heat pump costs on average and what factors affect the overall price.
+
+What's the Average Total Cost to Install a Heat Pump?
+-----------------------------------------------------
+
+According to [HomeGuide](https://homeguide.com/costs/heat-pump-cost), the national average cost to install a heat pump is about $5,819 (CAD 7,985), with the typical price range being $3,749 to $8,162 (CAD 6,144 to CAD 11,199). However, how much your heat pump costs to purchase and install varies widely depending on various factors. A basic heat pump system for a small property could cost as little as $1,200 (CAD 1,647), while more expensive residential systems could cost up to $25,000 (CAD 34,304).
+
+How Much Do Different Types of Heat Pump Systems Cost?
+------------------------------------------------------
+
+One of the most significant factors affecting how much your heat pump costs is the type of system you choose. These are some of the most common:
+
+### Ground-Source or Geothermal Heat Pump
+
+A geothermal or ground-source heat pump uses heat from the earth to warm your home. These systems are generally the most expensive to purchase and install, but they can save you a significant amount on your energy bills because they're highly efficient.
+
+The national average cost to [install a geothermal heat pump](https://homeguide.com/costs/geothermal-heat-pump-cost) system in a typical family home is around $25,000 (CAD 34,304). The average range is between $15,000 and $35,000 (CAD 20,582 and CAD 48,025). However, you could pay about $10,000 (CAD 13,722) at the lowest end, depending on your system model and home size.
+
+### Water-Source Heat Pump
+
+Water-source heat pumps transfer heat from a body of water to your home. They're usually highly efficient, so you may make back some of the installation cost in utility bill savings. The average cost to purchase and install a water-source heat pump system is around $22,000 (CAD 30,187), according to [Modernize](https://modernize.com/hvac/heating-repair-installation/heat-pump). Most homeowners spend between $20,000 and $25,000 (CAD 27,443 and CAD 34,304) for the heat pump itself, plus installation.
+
+### Air-Source Heat Pump
+
+Air-source heat pumps transfer heat from the air inside your home to the outside in hot weather and move heat from the outside air inside when it gets cold. The average air-source heat pump costs between $4,000 and $8,000 (CAD 5,489 and CAD 10,977) installed, according to HomeGuide.
+
+The most affordable air-source heat pumps are ductless heat pumps, costing between $1,500 and $5,000 (CAD 2,058 and CAD 6,861), based on data from [This Old House](https://www.thisoldhouse.com/heating-cooling/reviews/heat-pump-cost#:~:text=Ductless%20mini%2Dsplits%20are%20one,an%20average%20of%20%241%2C500–%245%2C000.).
+
+### Hybrid Heat Pump
+
+Hybrid heat pump systems combine a heat pump with a regular gas furnace. They're a suitable option for homes in cooler climates because the heat pump provides energy-efficient heating in moderate temperatures while the furnace provides additional heat during cold weather.
+
+The average cost to buy and install a hybrid heat pump system is $2,500 to $6,000 (CAD 3,430 to CAD 8,233) if you connect it to an existing furnace. Installing a new furnace will increase your costs to around $4,500 to $10,000 (CAD 6,175 to CAD 13,722).
+
+**More Related Articles:**
+
+*   [What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+*   [How Much Does It Cost to Install or Replace an Air Handler?](https://www.homeserve.com/en-us/blog/cost-guide/air-handler/)
+*   [HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+*   [The Do’s and Don'ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+
+How Much Does Installation Cost?
+--------------------------------
+
+How much it costs to install a heat pump depends on the job complexity and how long it takes. Professional contractors generally charge between $75 and $150 (CAD 103 to CAD 206) per hour to install a heat pump. It usually takes around a day to install a single ductless unit. Projects requiring duct installation can take considerably longer. You may also have to pay an additional $150 to $400 (CAD 206 to CAD 549) if you need to remove an existing furnace first.
+
+What Other Factors May Affect the Cost of a Heat Pump Installation?
+-------------------------------------------------------------------
+
+Apart from the type of heat pump you choose, several other factors affect the cost of installing your heat pump system. These include:
+
+*   Going rates for installation labor in your local area
+*   Whether you need to install or replace ductwork
+*   Your system's quality, efficiency and heat output
+*   Your home's size and energy efficiency
+*   Soil conditions (for geothermal heat pumps)
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-vh1RDJC1M8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Change an HVAC Filter"></iframe>

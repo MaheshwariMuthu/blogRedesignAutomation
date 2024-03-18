@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Furnace replacement and installation costs
+headline: How much does it cost to install a Furnace?
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment']
+publishDate: 2019-11-25
+basePath: /en-us/assets/images/blog/cost-guide/
+heroImage: furnace-installation-cost-01-full.png
+heroAltDescription: Furnace Installation Cost
+metaDescriptions: Get tips on how to heat your home, furnace efficiency, furnace replacement costs and more.
+articleAbstract: When your furnace isn’t working, what do you do to heat your home?
+category: ['Cost Guide']
+
+eleventyNavigation:
+  key: Furnace replacement and installation costs
+  parent: HVAC-Cost-Guide
+---
+
+:::: blog-info
+A few years ago, I was busy getting into the holiday spirit when I noticed some frost on the _inside_ of my window. Maybe it was because I was caught up in the whirlwind of days of meal prep and holiday decorating that I didn’t notice. But when I finally paused to take a breather, there was a definite chill in the air.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+::::
+
+Even though my initial reaction was to panic, I was able to gather my senses enough to check the furnace and the furnace efficiency. Sure enough, it wasn’t working. I scrambled to find a HVAC contractor to install a furnace replacement before family arrived for Thanksgiving. During this process, I learned a lot about furnace installation costs - and its hefty price tag.
+
+My biggest takeaway from this entire situation? First – be prepared before things go wrong. Second - always invest in furnace routine maintenance to help you out in the long run. And third, furnace installation costs can be drastically different depending on the type of furnace you need or want.
+
+## Gas Furnace
+
+Gas furnaces are the most popular option for homeowners looking for a cost-effective option that can heat their home quickly, according to _HomeGuide<span>.</span>com_. On average, the system costs $1,150, but added labor costs for the installation brings the [total to $3,100](https://homeguide.com/costs/new-furnace-replacement-cost#labor){target="_blank"}.
+
+## Electric Furnace
+
+An electric furnace is slightly more expensive, around $700, but its lifespan is nearly double that of a gas furnace (upwards of 30 years). Even though installation is made easier without the need for gas lines, it can still take an entire working day to set up. Adding in labor costs, you’re looking at a [grand total of $2,095](https://homeguide.com/costs/new-furnace-replacement-cost#labor){target="_blank"} according to _HomeGuide<span>.</span>com_.
+
+[Learn More About Home Repair Plans Near You]({{ migrationData.homepage }}){target="_blank"}
+
+An alternative to an electric furnace is an electric heat pump, but make sure you [know the difference](/en-us/blog/buying-guide/furnace-heat-pump-differences){target="_blank"} in their capabilities before making a decision.
+
+## Oil Furnace
+
+By far the most expensive option, the oil furnace itself usually costs around $1,795. Added labor and parts bump the average [overall cost to $5,900](https://homeguide.com/costs/new-furnace-replacement-cost#labor){target="_blank"}. It’s always advised to get an expert to handle a furnace installation to avoid potential mistakes, so think about what you want and need from your furnace as well as the energy source your home can support.
+
+## So, what’s the norm?
+
+As you can see, there is no one set price for furnace installation as it can depend on where in the US you live. But _Thumbtack_ found that, on average, HVAC contractors [charge around $75/hour](https://www.thumbtack.com/p/furnace-replacement-cost){target="_blank"} for their services. Considering it can take upwards of a full working day to install a new furnace, installation is a major portion of your new furnace expense.
+
+[Other factors to consider](/en-us/blog/cost-guide/new-furnace-cost){target="_blank"} when installing a new furnace are its location, any additional ductwork repairs, it’s physical size and removal, which can all affect the final labor and parts cost.
+
+A new furnace is no doubt expensive, and installation fees can make it even more so. While it may feel like an instant blow to your wallet, a new furnace is actually a great investment. Newer models are not only more energy-efficient, but they also have a longer lifespan.
+
+:::: blog-info
+Don’t be left unprepared for repairs or replacements. Find out how repair [plans from HomeServe can help]({{ migrationData.homepage }}){target="_blank"} with costs of covered home repairs.
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+::::
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6RoqfIe7HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

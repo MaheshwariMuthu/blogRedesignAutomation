@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Fix a Sink Stopper"
+headline: "How to Fix a Sink Stopper (and When It May Come Up)"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-11-02
+basePath: https://library.homeserve.com/m/
+heroImage: 4f651981bef4763/Blog-SinkStopper_MSchmitz_0002.jpg
+heroAltDescription: "pipes and plumbing under bathroom sink"
+metaDescriptions: "Sink stopper repair and replacement is an easy task that’s also pretty inexpensive. Just follow these steps."
+articleAbstract: "Sink stopper repair and replacement is an easy task that’s also pretty inexpensive. Follow these steps to get your sink back to life in a jiffy. "
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Fix a Sink Stopper (and When It May Come Up)"
+  parent: Plumbing-How-To
+---
+  **Fixing a Sink Stopper at a Glance**
+
+* **Step 1:** Remove stopper and inspect
+* **Step 2:** Remove pivot rod
+* **Step 3:** Reassemble stopper
+
+There’s nothing worse than going to wash your hands at your bathroom sink and the sink refuses to drain, or trying to fill up a sink basin with a stopper that won’t shut. A malfunctioning sink stopper is an annoyance we’ve all likely experienced.
+
+**This May Also Interest You:** [**How to Remove a Sink Drain Flange: A 3-Step Guide**](https://www.homeserve.com/en-us/blog/how-to/remove-sink-flange/)
+
+The reality is that you’ll need to perform regular maintenance and repair to your sink stoppers to make sure they’re in good working order, but they do simply wear out over time. Luckily, sink stopper repair and replacement is an easy task you can do yourself that’s also pretty inexpensive.
+
+Got stink stopper troubles? Follow these steps to get your sink back to life in a jiffy.
+
+How a Pop-Up Stopper Works
+--------------------------
+
+Pop-up sink stoppers are fairly simple devices. They use a system of levers and linkages that move a drain stopper up and down. When the lift rod is pulled or pushed, it moves a flat, U-shaped bar called clevis, which is in turn connected to a pivot rod that opens or closes the stopper.
+
+Sink stoppers can naturally trap a lot of debris and mildew, which causes slow drains and stopper malfunctions. And sometimes, sink stopper issues can occur when a pivot rod rusts and breaks loose from the stopper. Whatever the case may be, removing your pop-up assembly is an essential first step to troubleshoot your problem.
+
+Fixing a Stopper with Drainage Issues
+-------------------------------------
+
+There are a number of reasons why your sink isn’t functioning properly, but in any case, you’ll need to disassemble the mechanism in order to repair or replace any of its parts. Before you begin, make sure the bottom of the sink is accessible. If your sink is clogged, you may even need a bucket or towel handy to catch any water that falls.
+
+### Step 1: Remove and Inspect the Stopper
+
+Start by removing the nut that holds the horizontal pivot rod in place. It’s generally made of plastic, and you should be able to remove it by hand. However, if the nut gets stuck, you may need to use a pair of slip-joint pliers to help loosen it. From there, pull the pivot rod out and away from the stopper. Once the pivot rod is disconnected, twist and lift the stopper out of the sink.
+
+Once the stopper is out, take a moment to clean off any hair or gunk that’s been trapped. Take a close look: If the stopper’s rubber seal is broken or shows other signs of wear, you’ll need to install a replacement stopper.
+
+### Step 2: Remove and Inspect the Pivot Rod
+
+After you’ve assessed the condition of your stopper, you’ll then want to remove and inspect the horizontal pivot rod as well. Pull the pivot rod out of the sink drain pipe in order to examine it carefully. When you remove the rod, you should notice the small white ball on the pivot rod. The other side of the white ball attaches to the drain plug. If the pivot rod is rusted, the connection to the plug can start to come loose, resulting in a plug that won’t stay up or down. Sometimes, it can be due to crud that’s accumulated around the seal ball. Either way, you’ll need to remove the pivot rod.
+
+To remove the rod, remove the spring clip that connects the pivot rod to the clevis. The spring clip looks like a piece of bent metal that you’ll need to squeeze and slide off the rod. When the spring clip has been removed, you’ll need to determine if you need to replace your pivot rod. If so, make sure you choose the right ball size and pivot rod length from the repair kit.
+
+**More Related Articles:**
+
+*   [How to Remove a Sink Stopper](https://www.homeserve.com/en-us/blog/how-to/remove-sink-stopper/)
+*   [Got a Stopped-up Sink With a Sink Stopper? Pull Out All the Stops](https://www.homeserve.com/en-us/blog/how-to/unclog-bathroom-sink-stopper/)
+*   [How to Tighten A Faucet Handle](https://www.homeserve.com/en-us/blog/how-to/tighten-faucet-handle/)
+*   [Effort Down the Drain: How to Sanitize Your Sink Hole](https://www.homeserve.com/en-us/blog/how-to/clean-sink-drain/)
+*   [How to Retrieve Your Wedding Ring From the Sink Drain](https://www.homeserve.com/en-us/blog/how-to/wedding-ring-down-sink/)
+
+### Step 3: Reassemble the Stopper
+
+Whether or not you’re replacing any parts of the stopper assembly, you’ll need to reassemble it underneath your sink. If you’re replacing the pivot rod, start by threading the seal ball onto the end of the rod and then setting the ball into the drainpipe to test it. The pivot rod should span the distance from the drainpipe to the clevis, so slide the ball up or down to adjust it if you need to.
+
+Then, re-hook the drain plug to the pivot rod. Find the hole at the bottom of the plug and place it in the drain so that the hole faces the opening that the pivot rod goes into. From there, push the ball end of the rod into the hole.
+
+Once you’ve connected the pivot rod to the drain, tighten the plastic nut back onto the rod. The nut should fully cover the ball. Finally, reattach the pivot rod to the clevis with the spring clip. Push the pivot rod into the appropriate slot on the clevis. When everything has been attached properly, go ahead and test your stopper mechanism and make sure it’s functional. If it seems to be connected properly, turn on your water and check for leaks.
+
+Keep Your Sink Working Great
+----------------------------
+
+Repairing a pop-up stopper assembly is one of the more straightforward DIY projects you’ll face. And while they do wear out from time to time, regular maintenance is key to making sure they last their full lifetime. Regularly take some time to keep your sink drain clear of hair and other debris that might lead to undesired clogs and other stopper issues.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/5j759jOLiwc?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

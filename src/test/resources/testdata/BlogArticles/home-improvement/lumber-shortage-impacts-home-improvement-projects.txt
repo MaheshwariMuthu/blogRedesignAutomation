@@ -1,0 +1,78 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Home Improvement Projects Get Nailed by Lumber Shortages, Price Increases"
+headline: "Home Improvement Projects Get Nailed by Lumber Shortages, Price Increases"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-05-19
+basePath: https://library.homeserve.com/m/
+heroImage: 71fab2bb966ca2de/Blog-Lumber_BrettJodan_Unsplash_0001.jpg
+heroAltDescription: "stack of lumber leaning against a wall"
+metaDescriptions: "Lumber prices have gone up, but it's not just new homes that will cost more. If you're planning any kind of home renovation, expect a high price tag."
+articleAbstract: "According to the National Association of Home Builders, softwood lumber — the kind used in structural framing — has more than tripled in price over the past year. The increase has added almost $36,000 to the average price to build a new home, but it’s also impacting the price of home improvements, renovations and remodels."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Lumber Shortage Impact on Home Improvement Projects"
+  parent: Interior-Home-Home-Improvement
+---
+  Emily Bylund started talking to a general contractor in February about a few small home renovation projects — adding a door and creating a closet space under her stairs. The contractor just started work last week, more than three months later. Had she known the contractor was fully booked and that the process would be this drawn-out, Bylund said she would have done the work herself.
+
+“I was like, it’s probably faster if a professional does it,” she said. “And now a week into it, I’m wondering if I really would have been faster.”
+
+**This May Also Interest You:** [**What Is a Home Improvement Loan and How Do You Get One?**](https://www.homeserve.com/en-us/blog/home-improvement/home-improvement-loan/)
+
+Bylund is one of many Americans in on the recent home improvement boom. Amid a global health crisis that had us confined in our homes for long periods, many sought to build new houses or renovate their existing spaces. According to a [Fortune-Researchscape International poll](https://fortune.com/2021/04/16/lumber-prices-home-depot-lowes-construction/), 41% of homeowners have done some kind of home project since the beginning of the COVID-19 pandemic. Elevated sales from home improvement stores like [Lowe’s](https://corporate.lowes.com/newsroom/press-releases/lowes-reports-fourth-quarter-2020-sales-and-earnings-results-02-24-21) and [The Home Depot](https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/reports-and-presentations/quarterly-earnings/2020/4Q/q4-2020-press-release.pdf) show huge increases in do-it-yourself projects, too.
+
+Across the country, many contractors are booked out for months constructing additions, remodeling kitchens and building decks. But it’s not just [contractors that are in short supply](https://www.propelleraero.com/blog/how-to-adapt-to-the-skilled-labor-shortage-in-construction/), but also the materials they use to renovate homes.
+
+“I can definitely tell you that projects have certainly been delayed significantly or shelved outright, purely because of the rise in materials costs,” said [National Association of Home Builders](https://www.nahb.org/?utm_source=NAHBNow&utm_campaign=Social2017&utm_medium=Social&_ga=2.233890014.1985217419.1621366688-141252450.1620836505) Senior Economist David Logan. “The situation has persisted for a while and is likely to persist for some time simply because remodelers have a large backlog of contracts.”
+
+## Low Lumber Supply = Higher Home Improvement Prices
+
+According to the NAHB, softwood lumber — the kind used in structural framing — has more than [_tripled_ in price](https://www.nahb.org/news-and-economics/industry-news/press-releases/2021/04/skyrocketing-lumber-prices-add-nearly-36000-to-new-home-prices) over the last year. The increase has added almost $36,000 to the average price to build a new home, but it’s also impacting the price of home improvements, renovations and remodels.
+
+Just a few years ago, you could get 1,000 board feet of lumber for less than $400. In the past few weeks, the [lumber futures market](https://www.nasdaq.com/market-activity/commodities/lbs) has surpassed $1,600 per 1,000 board feet. As of May 18, it has since dropped back to about $1,300.
+
+The drastic price increase is a simple problem of supply and demand. Demand for lumber shot up due to all these home improvement projects taking place. The unexpected boom caught the lumber industry somewhat off guard, leading to problems in the supply chain.
+
+According to the [Associated General Contractors of America](https://www.agc.org/news/2021/03/29/agc-construction-inflation-alert), the pandemic caused many factories, mills and fabrication facilities to shutter. Some contractors planned on decreased demand during the pandemic and canceled supply orders. Others took safety precautions that limited production of two-by-fours, plywood, fiberboard and more. Then, when facilities were allowed to reopen, it was difficult to get back to full capacity, let alone meet this increased demand.
+
+## It’s Not Just a Wood Issue
+
+A low supply of wood has an impact not just on the price of structural components, but also on materials you’re planning to use for your next home improvement project. According to [Floor Covering Weekly](https://www.floorcoveringweekly.com/main/retail/cost-of-lumber-hits-alltime-high-impacts-wood-floors-33343), high lumber costs have cramped the production of engineered hardwood floors, increasing what consumers will have to pay. NAHB’s Logan said cabinets, fencing, decking and other wood products have also jumped in price.
+
+Wood fencing has seen a 20% increase in price since the beginning of the year, Logan said. The price of decking is about 150% higher than it was a year ago, and 66% higher than it was at the beginning of the year. But even if the project you have planned doesn’t involve wood, you may still want to prepare yourself for some sticker shock.
+
+“Lumber is the headline item, for sure,” Logan said. “Building materials as a whole ... the prices have increased about four times the rate of inflation over the past year.”
+
+Ready-mix concrete, steel, aluminum siding, roofing materials, insulation and plastics like moisture barriers, vinyl siding and PVC piping are all more expensive than they used to be, said Ken Simonson, [AGC](https://www.agc.org) chief economist. Though AGC members mostly do multifamily housing and nonresidential work, he said “unprecedented price increases” can be felt across the board. Gypsum wallboard — aka drywall — has also gone up, which will especially hurt the pockets of renovators, Simonson said.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Remodel a Kitchen?](https://www.homeserve.com/en-us/blog/cost-guide/kitchen-remodel-costs/)
+*   [How Much Does a Shower Remodel Cost?](https://www.homeserve.com/en-us/blog/cost-guide/shower-remodel/)
+*   [How Much Does a Basement Remodel or Renovation Cost?](https://www.homeserve.com/en-us/blog/cost-guide/bathroom-remodel/)
+*   [How Much Does a Detached Garage Cost?](https://www.homeserve.com/en-us/blog/cost-guide/detached-garage/)
+*   [How Much Do Professional Painters Charge?](https://www.homeserve.com/en-us/blog/cost-guide/detached-garage/)
+
+## A DIYer Delayed
+
+Bylund, who writes the [Breezing Through](http://breezingthrough.com/) DIY and lifestyle blog, experienced the shortage of gypsum board firsthand. She said she was lucky to get what she needed for her project but was told by her Chattanooga, Tenn.,-based contractor that sheetrock was completely out of stock. Her contractor said sheetrock was backordered to the point that suppliers weren’t fulfilling orders for anything less than enough wallboard to build five or six homes, meaning a lot of small projects may have to wait.
+
+An avid DIYer, Bylund said she’s also noticed price increases on elements as small and essential as screws. She posted a [TikTok](https://www.tiktok.com/@breezingthroughblog/video/6960820832566299910?_d=secCgYIASAHKAESMgowxd%2B7NZyDEHNLEcusWx93%2FUzyh5GaJuBWywZqIIVcd68vJ1gZQjXJ9SQGoZcot5m2GgA%3D&language=en&preview_pb=0&share_app_id=1233&share_item_id=6960820832566299910&share_link_id=5CB5F547-99E2-4DD3-8F38-4C607A2B1C12&source=h5_m&timestamp=1621363829&tt_from=copy&u_code=0&utm_campaign=client_share&utm_medium=ios&utm_source=copy&_r=1) about how lumber costs have caused her to postpone several projects, like converting a kitchen bar into a storage space, refreshing the coat closet and making some bathroom updates.
+
+“I’m working on designing and building out a pantry, but I really put the brakes on that one quite a bit because I know I’m going to need a lot of stuff for that,” she said.
+
+## Prices Not Coming Down Anytime Soon
+
+Bylund might have to leave some projects on the backburner for a while. Logan said the outlook on material costs is grim, with prices of building materials expected to remain elevated through the end of the year. Some materials may come down in price, but not everything will bounce back quickly.
+
+“Lumber is its own animal,” Logan said. “Everything but lumber will be quicker to turn around as those supply chain interruptions get disentangled. Production by lumber mills was just so far behind.”
+
+Building materials may never return to prices remodelers are used to, Simonson said. He said it “seems clear” that prices won’t retreat to pre-pandemic levels — or even what they were in summer 2020 — in the short- or mid-term.
+
+## In the Meantime...
+
+With that in mind, Bylund said she is still finding ways to do as many home improvement projects as possible. She recommends shopping local and hitting up your city’s lumber yard for materials. They may be expensive, she said, but they will likely be in stock. She has also been using scrap wood from previous renovations to work on new, small projects. And if you just can’t afford the prices, she said using this time to plan and research can be helpful.
+
+“I’m going around, planning and figuring out exactly what I want. That way, when it is time, I’m not spinning my wheels trying to plan it out then.”

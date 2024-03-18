@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is My Water Heater Dripping?"
+headline: "Why Is My Water Heater Dripping?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-07-11
+basePath: https://library.homeserve.com/m/
+heroImage: 27897bd5d85a0fff/Blog-3W0A0122.jpg
+heroAltDescription: "water heater"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Read on to discover some of the most common water heater leaks and how to fix them."
+articleAbstract: "As with most repairs, the first step is to properly diagnose your issue. Read on to discover some of the most common water heater leaks and how to fix them."
+category: ["How To"]
+eleventyNavigation:
+  key: "Why Is My Water Heater Dripping?"
+  parent: Plumbing-How-To
+---
+  It’s true that water heaters can be intimidating. After all, they’re these large, powerful plumbing fixtures that involve gas, electricity and _a whole lot_ of water. Needless to say that when a water heater develops a leak, it can unsettle even the most seasoned homeowner. But the truth is, a water heater leak doesn’t always have to spell disaster. Instead, many leaks can be easily (and inexpensively) repaired at home without having to replace the entire unit.
+
+**This May Also Interest You:** [**Should I Test My Water Heater’s Pressure Relief Valve?**](https://www.homeserve.com/en-us/blog/home-improvement/water-heater-pressure-relief-valve/)
+
+As with most repairs, the first step is to properly diagnose your issue. Read on to discover some of the most common water heater leaks and how to fix them.
+
+Is My Water Heater Leaking?
+---------------------------
+
+Before you start to panic, make sure that your water heater is, in fact, leaking. Often, water heaters located in cooler areas of your home can develop a fair amount of condensation that can drip off the unit and onto the floor. You can test this by wiping dry the water heater and closely watching the surface to see if moisture develops across the exterior of the unit.
+
+If you determine that you’ve got bigger problems than condensation, your next step is figuring out where the leak is coming from.
+
+### Water Heater Leaking from the Top
+
+Although it’s true that no leak is a “good leak,” if your water heater is leaking from the top of the tank, it’s typically the best-case scenario. In the vast majority of cases, the solution to this issue is a pretty simple fix.
+
+A water heater leaking from the top typically signals an issue with the water inlet valve. The water inlet valve might be leaking due to the fitting being loose, or there could be a leak in the pipe delivering the water. This may require you to tighten the valve with a pipe wrench, or call a plumber to replace the section of pipe that is leaking. If the valve looks corroded, tightening may not prove effective. In this case, the inlet valve itself may need to be replaced altogether.
+
+If you have an electric water heater, a leak on top of your tank could signal a faulty gasket. Over time, gaskets can get worn out and start to leak. Replacing your gaskets will require you to disconnect the unit from the power source and remove the heating element from the tank.
+
+### Water Heater Leaking From the Drain Valve
+
+If you discover your water heater is leaking from the bottom of the tank, it can feel worrisome. That said, more often than not, the solution to this is also relatively straightforward and inexpensive.
+
+One of the most common water heater issues is a leaking drain valve. Every water heater has a drain valve near the bottom of the tank, and sometimes these connections can become loose with age and overuse. If you notice your water heater leaking from the drain valve, take a pipe wrench and tighten it slightly, making sure not to overtighten. If you notice that the leak has not stopped, even after tightening, you’ll probably end up needing to replace the valve entirely.
+
+**More Related Articles:**
+
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [How to Turn Off Your Water Heater — and When It May Come Up](https://www.homeserve.com/en-us/blog/how-to/turn-off-water-heater/)
+*   [How Much Does It Cost to Repair or Replace Your Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/repair-or-replace-water-heater/)
+*   [How Do I Turn My Water Heater On?](https://www.homeserve.com/en-us/blog/how-to/turn-on-water-heater/)
+*   [How to Relight Your Water Heater’s Pilot Light](https://www.homeserve.com/en-us/blog/how-to/light-water-heater-pilot-light/)
+
+### Water Heater Leaking from the T&P Valve
+
+Another common reason that a water heater will leak from the bottom of the tank is due to a faulty temperature and pressure relief valve, otherwise called the T&P valve. These valves let steam or water exit the tank in the event of excessive temperature or pressure inside the tank. Typically, the T&P valve is connected to a discharge tube that extends to a few inches above the floor.
+
+It’s perfectly normal for T&P valves to relieve water and pressure from time to time. That said, if you notice a steady drip from the discharge tube, it’s possible the valve is stuck in the open position. In this case, you can open and close the valve several times, which might solve the issue. If not, your best bet is to replace the T&P valve itself.
+
+**Note:** There’s also the possibility that your water temperature is set too high. Before replacing the valve, make sure your water temperature is not set above 140 degrees Fahrenheit (60 degrees Celsius).
+
+### Water Heater Leaking From the Tank
+
+In most cases, a water heater that leaks near the bottom points toward an issue with your drain or T&P valves. Even so, it’s also entirely possible that the leak is actually coming from a hole in the tank itself. Most modern water heaters have an insulated tank that holds the hot water. Over time, these internal tanks will fill up with sediment, which leads to corrosion, causing the tank to crack. Unfortunately, this is a worst-case scenario. If water is leaking out of your tank itself, you’ll need to replace the entire tank or get a new water heater.
+
+Leak No More
+------------
+
+Water heater leaks can be a headache, but with the proper diagnosis, it isn’t necessarily a death sentence for your appliance. Instead, it all comes down to finding the leak and determining if a small repair can solve your problem and extend the life of your unit, while also saving you some serious cash.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

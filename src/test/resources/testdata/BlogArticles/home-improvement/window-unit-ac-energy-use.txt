@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Energy Does a Window AC Unit Use?"
+headline: "How Much Energy Does a Window AC Unit Use?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2023-06-28
+basePath: https://library.homeserve.com/m/
+heroImage: 73dd32d829c2dd02/Blog-IMG_4926.jpg
+heroAltDescription: "A window unit air conditioner is positioned in a window."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "How much energy a window unit uses depends on a few factors, including your unit's size, efficiency and manufacturer."
+articleAbstract: "How much energy a window unit uses depends on a few factors, including your unit's size, efficiency and manufacturer. We delve into window AC energy ratings and explain how to calculate the impact on your electricity bills."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Much Energy Does a Window AC Unit Use?"
+  parent: HVAC-Home-Improvement
+---
+  Window air conditioners are an affordable alternative to central ACs, especially if you don't have existing ductwork. However, that's just the upfront costs. When deciding which HVAC system is right for your home, you should also consider how much energy each system uses. Over time, it could be more cost-effective to spend more on an energy-efficient system to reduce how much you spend on utilities.
+
+**This May Also Interest You:** [**How Long Does a Window Unit Air Conditioner Last?**](https://www.homeserve.com/en-us/blog/home-improvement/how-long-does-window-unit-last/)
+
+How much energy a window unit uses depends on a few factors, including your unit's size, efficiency and manufacturer. Below, we'll delve into window AC energy ratings and explain how to calculate the impact on your electricity bills.
+
+How Much Energy Does a Window Unit Use?
+---------------------------------------
+
+Deducing how much energy a window AC unit uses can be complicated — particularly because the unit's cooling capacity doesn't necessarily correspond to its energy usage. Generally, larger units require more energy, but that isn't always the case. Furthermore, selecting the wrong size window air conditioner for the space could force the unit to work harder to keep your home cool, leading to a spike in your energy bills.
+
+Therefore, the wattage stated in your air conditioner's manual is more useful for calculating its energy usage than its BTU rating, which describes the unit's cooling capacity. However, even the wattage doesn't reveal the full picture. Your window AC's wattage rating describes the amount of energy required to power your unit when it draws the most power, and this is usually more than it uses during normal operation. For instance, a typical [950-watt window unit](https://news.energysage.com/how-many-watts-does-an-air-conditioner-use/) actually uses 618 watts per hour.
+
+### Small Window Units
+
+The smallest window units have wattage ratings starting from 500 watts. These air conditioners are generally only suitable for compact rooms because they typically have low cooling capacities — often around 2,000 BTU. However, you may find a few larger, ultra-efficient units in this power range.
+
+### Medium Window Units
+
+A standard mid-sized window air conditioner typically runs on around 950 watts and generally offers cooling capacities of between 3,000 and 4,000 BTU. These units are the most common size used in domestic settings and can cool an average living space effectively.
+
+### Large Window Units
+
+Powerful window ACs delivering 5,000 BTU may require up to 1,400 watts to run. At the top end, extra-large [10,000 BTU window ACs](https://www.jackery.com/blogs/news/how-many-watts-does-a-window-ac-use) could run on up to 2,931 watts. Generally, these units are most suitable for large, open-plan living areas and commercial buildings.
+
+**More Related Articles:**
+
+*   [What Happens If You Leave Your Window AC Unit in All Winter?](https://www.homeserve.com/en-us/blog/home-improvement/window-ac-unit-during-winter/)
+*   [Keep Your Cool With Our Top 5 Picks for Window AC Units](https://www.homeserve.com/en-us/blog/buying-guide/best-apartment-window-air-conditioners/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [Hot or Cold in Your Household? Split the Difference With a Mini Split Air Conditioner](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/)
+*   [No AC? No Sweat. Here’s How to Keep Cool](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+
+How Much Does It Cost to Run a Window Unit Air Conditioner?
+-----------------------------------------------------------
+
+Now for some math. Your electricity provider calculates your bill by the kilowatt, and there are 1,000 watts per kilowatt. Therefore, you can divide the wattage by 1,000 to calculate how many kilowatts it uses. A typical 950-watt mid-size window unit uses roughly 0.618 kilowatts per hour, based on an actual usage of 618 watts per hour.
+
+Once you've calculated your unit's hourly energy usage in kilowatts, you can work out exactly what it costs to run per hour by checking the [cost of energy](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a) in your area. The cost of energy can vary significantly between states. For instance, homeowners in Connecticut paid 33.23 (CAD 0.44) cents per kilowatt in March 2023 compared to just 9.72 (CAD 0.13) cents in North Dakota.
+
+Let's assume you have a typical 950-watt window unit and pay the national average energy cost of 15.85 (CAD 0.21) cents. In this scenario, running your AC unit for 1 hour using 0.618 kilowatts of energy would cost you $0.10 (CAD 0.13) to the nearest cent. Running your air conditioner continuously for an entire day would cost around $2.35 (CAD 3.14), while an entire 30-day month would cost $70.52 (CAD 64.25).
+
+However, most people don't run their HVAC systems constantly. EnergySage estimates that a typical window unit costs roughly $320 (CAD 428) per year to run in areas with a 5-month hot season. Therefore, running a window AC will likely add around $27 (CAD 36) on average to your monthly energy bill. However, you'll likely pay much more during warmer weather and significantly less during the winter.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Insulate Windows | Cheap and Easy with Plastic Film"></iframe>

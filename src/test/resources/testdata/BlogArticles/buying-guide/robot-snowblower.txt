@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Robot Snowblowers"
+headline: "Smart Snowblowers and Plows Make Snow Removal Cool"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-11-22
+basePath: https://library.homeserve.com/m/
+heroImage: 1a9862110de68dc0/Blog-Snowbot1.jpg
+heroAltDescription: "robot snowblower blows snow"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Wouldn't it be nice if you could automate snow removal? Now, thanks to the invention of the robot snowblower, you can."
+articleAbstract: "Wouldn't it be nice if you could automate snow removal? Now, thanks to the invention of the robot snowblower, you can."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Smart Snowblowers and Plows Make Snow Removal Cool"
+  parent: Exterior-Home-Buying-Guide
+---
+  _Manufacturer image_
+
+The changing seasons bring with them different outdoor maintenance tasks. From mowing the lawn in the summer to raking leaves in the autumn and shifting snow in the winter, there's always something to do.
+
+**This May Also Interest You:** [**5 Tips For Dealing With Wet, Heavy Snow**](https://www.homeserve.com/en-us/blog/home-improvement/wet-heavy-snow/)
+
+Snow removal is particularly tedious. Wouldn't it be nice if you could automate that job? Now, thanks to the invention of the robot snowblower, you can.
+
+How Do Robot Snowblowers and Plows Work?
+----------------------------------------
+
+Robot snowblowers, such as the Kobi, are machines that can navigate your driveway and clear snow. There are some remote-control snowplow designs. Others use sensors and are self-driving, meaning you can set them off and have them clear your driveway for you without intervention. These remote-control devices let you stay indoors, or close to an outdoor heater, while you manage the device. The self-driving ones will often need sensors installed around your drive to help the robot understand where the edges are.
+
+Once your autonomous robot has mapped out the driveway, it should be able to plan efficient, safe routes and navigate them properly. As long as the layout of the drive doesn't change, the robot can be left to its own devices. It's easy to understand why some homeowners see these robots as a more convenient option than snow removal services.
+
+What’s the Kobi Snowblower?
+---------------------------
+
+The [Kobi Snowblower](https://thekobi.com/) markets itself as being like a Roomba, but for snow and leaves. It claims to be able to blow snow up to 40 feet. It can't dig out big snowdrifts, but it can clear light snow on your drive. The Kobi snow-removal robot is autonomous and relies on two base stations placed at the end of your driveway to ensure it stays within its designated area.
+
+**More Related Articles:**
+
+*   [Digging Out: 6 Things Homeowners Should Do Right After a Blizzard](https://www.homeserve.com/en-us/blog/home-improvement/after-blizzard-safety-tips/)
+*   [How Much Do Snow Removal Services Cost?](https://www.homeserve.com/en-us/blog/cost-guide/snow-removal-services/)
+*   [Winter Exterior Home Maintenance Checklist: 6 Things to Do to Prepare Your House for Winter](https://www.homeserve.com/en-us/blog/home-improvement/home-winterization-checklist/)
+*   [Dreaming of a Heated Driveway? Here’s What You Need to Know Before Installing One](https://www.homeserve.com/en-us/blog/home-improvement/heated-driveway/)
+*   [Your Definitive Guide to Shoveling Snow](https://www.homeserve.com/en-us/blog/how-to/shovel-snow/)
+
+What’s the Snowbot?
+-------------------
+
+The [Snowbot](https://thesnowbot.com/?gclid=CjwKCAjwiY6MBhBqEiwARFSCPoduQyibocpn1GR9hUPo9Vm-yKQSwseWQY-X45dgUDNyJjesSZIZIRoCB6YQAvD_BwE) is a smart, autonomous snow removal robot. The product debuted at [CES 2022](https://www.thesnowbot.com/pages/meet-us-at-ces-2022). It is capable of intelligently planning snow-clearing routes and can detect and manage its position to within one centimeter for maximum accuracy and safety. It also has a remote control for when you want to take charge of the snow removal process. This robot is bigger than the Kobi and is capable of clearing larger amounts of snow.
+
+What’s the RT-1000 Tractor?
+---------------------------
+
+This commercial-grade [remote-control snowblower](https://www.youtube.com/watch?v=bZKOfndO5Tg) was initially developed by Left Hand Robotics. The company has since been acquired by Toro, which is keeping the product line alive. The RT-1000 could be thought of as Kobi's big brother because it's capable of doing the same jobs. It's used by landscaping companies for lawn mowing and clearing snow.
+
+The RT-1000 is a substantial piece of snow-removal equipment designed for use in large, open spaces. It comes equipped with sensors to help the machine avoid obstacles and pedestrians.
+
+Are Robot Snowblowers Worth the Money?
+--------------------------------------
+
+Most of these options — if they’re even currently available to consumers — cost in the thousands of dollars. A robot snowblower is a substantial investment. Considering the average cost of snow-clearing services is [$75 to $150](https://www.homeserve.com/en-us/blog/cost-guide/snow-removal-services/) per session, it would take several winters for a snow-removing robot to pay for itself.
+
+However, being able to plow snow yourself whenever you need to _is_ a major benefit. If you have an unexpected snowstorm, local snow removal services could be fully booked. You don't want to have to wait for a service to be available to clear your drive. Plus, some of these robots can also mow and remove leaves. That convenience — plus the labor-saving nature of these robots — makes them an appealing investment if you have the cash.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

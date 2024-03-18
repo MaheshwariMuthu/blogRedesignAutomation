@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Ejector Pump Vs. Sump Pump: What's the Difference?"
+headline: "What's the Difference Between a Sump Pump and an Ejector Pump?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-05-02
+basePath: https://library.homeserve.com/m/
+heroImage: 399dbf674d2472fa/Blog-1209045181.jpg
+heroAltDescription: "Sump pump basin with pvc pipe"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Despite their similarities, sump and ejector pumps serve very different purposes for keeping your home in top form."
+articleAbstract: "What’s the difference between sump pumps and ejector pumps? Despite the similarities, they serve very different purposes for keeping your home in top form."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's the Difference Between a Sump Pump and an Ejector Pump?"
+  parent: Plumbing-Home-Improvement
+---
+  
+
+When it comes to home maintenance, keeping up with what’s what can feel overwhelming. Which appliances are gas and which are electric? Are you on septic or sewer? Do you have a sump pump or (and?) an ejector pump?
+
+**This May Also Interest You:** [**Protect Your Home Against Flooding With This Sump Pump Maintenance Checklist**](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-maintenance/)
+
+If the terms "sump pump" and "ejector pump" cause your eyes to glaze over in confusion, don’t worry. These two pumps perplex lots of folks. They look fairly similar and are both typically found in your basement. They also rely on some of the same technology to function properly.
+
+So what’s the difference between these two pumps? Despite the similarities, they serve very different purposes for keeping your home in top form.
+
+What's a Sump Pump?
+-------------------
+
+A sump pump removes water from the lowest point of your home to prevent flooding. This can be especially helpful for houses below the water table. Often, water collects in basements or crawl spaces after heavy rains or snow. A sump pump is designed to pump this water outside and away from your home, helping to minimize water damage and mold caused by such prolonged wetness.
+
+For homes at risk for significant water accumulation issues, a sump pump may be necessary. Any standing water will be diverted into the sump basin or pit, then pumped outside through a pipe.
+
+A sump pump uses a float sensor (similar to the one in a toilet tank) to help identify when there’s a standing water issue, and its pump mechanism is then automatically triggered. Pumps can also be activated manually, if needed.
+
+There are two primary types of sump pumps: a pedestal sump pump that is attached at the floor level above the sump basin, and a submersible sump pump, which is housed in the sump basin and therefore hidden.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2ebfe32ce4ec6d3e/Blog-GettyImages-488828627.jpg" alt="Replacing the old sump pump in a basement"/>
+
+**More Related Articles:**
+
+*   [How to Install a Sump Pump: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/sump-pump-installation/)
+*   [Sump Pump Alarm Going Off? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/buying-guide/sump-pump-alarm/)
+*   [How Much Does It Cost to Replace or Install a Sump Pump?](https://www.homeserve.com/en-us/blog/cost-guide/sump-pump-installation/)
+*   [Sump Pumps: Everything You Need to Know](https://www.homeserve.com/en-us/blog/home-improvement/how-sump-pump-works/)
+*   [How Much Do Flood Damage Repairs Cost?](https://www.homeserve.com/en-us/blog/cost-guide/water-damage-restoration/)
+
+What’s an Ejector Pump?
+-----------------------
+
+An ejector pump is a sewage pump system that helps pump wastewater from below-grade (basement) drains that cannot rely on gravity alone. For example, toilets, sinks, showers or even washing machines in a basement that fall below a home’s main septic or sewer line can’t use gravity in the way that other household plumbing systems do. Situations like this are when a sewage ejector pump is needed to lend a helping hand and get the wastewater to where it needs to go.
+
+A basement ejector pump works much like its name implies — by ejecting water upward and out of the basement. It first collects water from low-lying drains into an ejector bit, which, like a sump basin, has typically been cut in the basement floor and dug underground. The waste is then pumped up and out of your home and into your sewer or septic lines. Like the sump pump, an ejector pump uses a float switch mechanism to recognize incoming water and resume operation.
+
+<img class="detail-image" src="https://library.homeserve.com/m/2eaef30121df55e9/Blog-PNG-Transparent-Background.jpg" alt="A Liberty Pumps brand sewage ejector pump is displayed against a white background"/>
+
+_Manufacturer image_
+
+Pump It Up
+----------
+
+Although both have basins and share the basement, a sump pump funnels unwanted outside water back out, whereas an ejector pump deals exclusively in sewage wastewater. While not the most glamorous items of one’s home, understanding their functions and differences can save you some major homeowner head-scratching.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Ground Assessment Cost?"
+headline: "How Much Does a Ground Assessment Cost?"
+author: Lee Soren
+tags: ["post"]
+publishDate: 2023-08-24
+basePath: https://library.homeserve.com/m/
+heroImage: 53c19e1fe8685691/Blog-GettyImages-1495651605.jpg
+heroAltDescription: "Safety hardhat for construction worker. Labor PPE object."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The information a ground assessment provides can be critical for designing a home that's structurally sound. Here’s what you need to know to plan your budget."
+articleAbstract: "Although a ground assessment can run several thousand dollars, it’s usually money well spent. The information it provides can be critical for designing a home that's structurally sound. Here’s what you need to know to plan your budget."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does a Ground Assessment Cost?"
+  parent: Exterior-Cost-Guide
+---
+  Your home is your castle, but even a castle is only as strong as the ground it stands on. So, if you’re getting ready to design and build your dream home, don’t forget to check out the soil and rock that sits below.
+
+**This May Also Interest You:** [**How Much Does Foundation Repair Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/foundation-repair/)
+
+Although a ground assessment can run several thousand dollars, it’s usually money well spent. The information it provides can be critical for designing a home that's structurally sound. Here’s what you need to know to plan your budget.
+
+What Is a Ground Assessment or Geotechnical Survey and What Can It Tell You?
+----------------------------------------------------------------------------
+
+A ground assessment — or geotechnical survey — investigates the properties and behaviors of rock and soil and how they may affect structures that are built on top of them. The survey, which is performed by a licensed geotechnical engineer, may be done using intrusive or nonintrusive methods.
+
+Essentially, data is collected and analyzed to determine whether the land is strong and stable enough for the proposed building. Laboratory tests assess what type of rock or soil you’ll be building on and its chemical and physical characteristics. The resulting report should include detailed information on surface and subsurface conditions, such as:
+
+*   Soil contaminants
+*   Soil consistency
+*   Soil settling
+*   Groundwater level
+*   Evidence of compaction
+*   Organic material present
+
+A geotechnical investigation can also identify potential hazards and recommend an appropriate foundation design or help you incorporate seismic design elements if you live in an area that’s prone to seismic activity. More importantly, if the ground risk assessment uncovers a problem, the engineer can advise you if or how it can be fixed.
+
+How Much Does a Ground Assessment Cost?
+---------------------------------------
+
+According to [HomeGuide](https://homeguide.com/costs/geotechnical-report-cost), a ground assessment averages $2,900 (CAD 3,891). However, depending on the complexity of the site, the information you need from the survey and the techniques used to obtain the data, costs can range anywhere from $100 to $5,800 (CAD 134 to CAD 7,782).
+
+For example, if your geotechnical survey requires samples from deep underground, holes must be bored to obtain them. Although boring can let you access soil from 15 to 20 feet below the surface, drilling is often costly and can run from $700 to $1,500 (CAD 939 to CAD 2,013) for just two holes. If you need additional samples, you can expect to pay between $300 and $900 (CAD 403 and CAD 1,208) per additional hole.
+
+If you opt for a nonintrusive method that doesn’t cause damage to the ground, you can often expect to pay less. For example, if you commission a scan with ground-penetrating radar, you can expect to pay between $50 and $200 (CAD 67 and CAD 268) per hour, depending on the type of terrain and the type of information you need. However, nonintrusive techniques may not tell you everything you need to know, so it’s often best to combine techniques for the most comprehensive report possible.
+
+**More Related Articles:**
+
+*   [Make Sure Your Window Wells are Well Maintained With This Checklist](https://www.homeserve.com/en-us/blog/home-improvement/window-well-maintenance/)
+*   [How Much Does It Cost to Install or Replace a Basement Window Well?](https://www.homeserve.com/en-us/blog/cost-guide/window-well-replacement/)
+*   [6 Ways to Make Your Window Wells Look Great From the Inside or Outside](https://www.homeserve.com/en-us/blog/how-to/decorate-window-wells/)
+*   [How to Install or Replace a Window Well](https://www.homeserve.com/en-us/blog/how-to/window-well-installation/)
+*   [How Much Does It Cost to Waterproof a Basement?](https://www.homeserve.com/en-us/blog/cost-guide/basement-waterproofing/)
+
+What Are the Costs of Soil Testing Alone?
+-----------------------------------------
+
+Sometimes all you’ll need is soil testing, which can be considerably less expensive than a thorough geotechnical survey. That’s because you’re only examining the soil's composition, rather than getting a comprehensive report that also includes groundwater levels, structural elements and seismic issues. However, preconstruction soil tests can still help you determine the safety and stability of a building site. The types of soil tests include:
+
+* **Soil compaction testing:** Costing between $10 and $100 (CAD 13 and CAD 134) per sample, this test measures a soil’s density. It can reveal air pockets and other ground weaknesses.
+* **Soil percolation testing:** This test measures the rate at which the soil absorbs water so builders can plan for appropriate drainage. The cost ranges between $250 and $700 (CAD 335 and CAD 939).
+* **Advanced soil composition testing:** To determine what the soil is made of, you’ll probably need advanced soil composition testing, which averages between $100 and $500 (CAD 134 and CAD 671).
+
+If you’re planning on building on a site that once housed a commercial structure, such as a factory, you may also want to test for specific contaminants, which can cost about $70 per test, according to [Forbes](https://www.forbes.com/home-improvement/lawn-care/soil-testing-cost/).
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

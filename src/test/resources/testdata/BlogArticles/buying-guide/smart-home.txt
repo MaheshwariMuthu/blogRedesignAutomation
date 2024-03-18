@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Smart-Home-Buying-Guide
+  parent: Buying Guide
+  title: Smart Home
+permalink: false
+---

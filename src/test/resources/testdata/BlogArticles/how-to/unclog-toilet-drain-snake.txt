@@ -1,0 +1,82 @@
+---
+layout: layouts/post-layout.njk
+titleTag: How to Snake a Toilet
+headline: How to Use a Drain Snake and Unclog Your Toilet
+author: Team HomeServe
+tags: ['post']
+publishDate: 2020-10-09
+basePath: /en-us/assets/images/blog/how-to/
+heroImage: unclogged-backup-toilet-01-full.jpg
+heroAltDescription: How to Snake a Toilet
+metaDescriptions: Learn how to snake a toilet by using a drain snake. It is easy to unclog your toilet using these simple steps.
+articleAbstract: Toilet clogged? Learn how to snake a toilet or drain with this easy to follow set of instructions for using toilet augers and drain cleaning tools.
+category: ['How To']
+
+eleventyNavigation:
+  key: How to Snake a Toilet
+  parent: Plumbing-How-To
+---
+
+::: blog-info
+You've just discovered that your sink or toilet is blocked. It's time to break out the rubber gloves and the plunger. A little hard work and a few minutes later, the sink is still blocked. You can try pouring a harsh drain cleaner to unclog the sink, but it doesn't work.
+
+[1]: {{ migrationData.homepage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}
+
+Do you give up and call a plumber?
+
+Not yet. Instead, you can try using a drain or plumbing snake to remove the blockage. Drain snakes are also known as drain augers, which are tools for unclogging toilets and drains.
+:::
+
+## Tools Needed to Unclog a Sink Using a Drain Snake
+
+* Rubber gloves
+* 20 to 25-foot toilet snake or drain auger
+* Adjustable pliers
+* Rags
+* Bucket
+* Drain Cleaners
+
+## Preparing to Use Drain Snakes
+**Step 1:** Check under your sink and flush the toilet. Pay attention to how well the water drains from both areas. Most [bathroom sinks](/en-us/blog/cost-guide/plumbing-repair-costs){target="_blank"} will have a U-shaped pipe (sink trap) located under the sink. A modern sink trap has a clean-out plug for convenience.
+
+**Step 2:** Place the bucket underneath the sink and keep the rags ready as water may spill out.
+
+**Step 3:** For a clean-out plug, use adjustable pliers to turn it clockwise to remove the plug. If you do not have a clean-out plug, then you will have to remove the U-shaped sink trap by removing the slip nuts at either end. Loosen the trap to avoid cracking the trap assembly. Wait until the water has emptied before moving forward.
+
+**Step 4:** The sink trap collects hair, dirt, and other debris. The sink trap could be blocked, but if cleaning it out does not resolve the issue, then it's time to insert the drain snake.
+
+## Snaking a Toilet With a Drain Snake
+**Step 1:** Manually feed the head of the snake into the pipe, slowly lowering it 8 to 12 inches into the pipe at a time, then spin the handle clockwise. Rotate the handle at a steady pace.
+
+**Step 2:** Eventually, you will hit an obstacle. This could be the blockage or a turn in the pipe. Do not force the snake too hard, as you may damage the pipe.
+
+**Step 3:** When you hit the blockage, wiggle, and rotate the head of the drain snake by pushing the toilet auger through the blockage to break it up. Stop if you hear any scraping noises.
+
+**Step 4:** Try to re-adjust the position of the head and break up the blockage. Turning clockwise, use the toilet auger to push through the obstruction.
+
+**Step 5:** When the blockage is removed, take out the drain snake and check the auger head for the remains of the blockage. Clean it off.
+
+**Step 6:** Put plumber's tape around the threads below the drain to ensure a tight seal. Screw back the clean-out plugs and reassemble the sink trap parts.
+
+**Step 7:** Run the water and ensure that the sink drains easily and flush the toilet. Both drain cleaners and drain snakes may remove blockages together, but be careful what products you use because they can damage your pipes.
+
+## What to Do When a Drain Snake Does Not Work
+If you've followed these steps and you still have a blockage, try snaking the sink or toilet again. However, if further snaking does not resolve the problem, you may need to call in a professional plumber.
+
+## Where can I buy a drain snake?
+You can buy a drain snake from most hardware stores, and it costs between $20 to $50. However, it will cost significantly more to buy a drain auger, which is what plumbers use.
+
+## Plumbing Plans from HomeServe
+::: blog-info
+If you feel that some tasks should be left to the professionals, then you’ll want to be prepared with a [plan from HomeServe]({{ migrationData.homepage }}){target="_blank"}. That way you can avoid the high cost of covered plumbing repairs with a home repair plan. You can count on us to get the job done professionally and with your safety in mind. See what plans are available in your area.
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5j759jOLiwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+:::

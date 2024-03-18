@@ -1,0 +1,77 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Snow Roof Load: How Much Snow Can a Roof Hold?"
+headline: "How Much Is Too Much? Here's a Guide to How Much Snow Your Roof or Deck Can Hold"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-03-22
+basePath: https://library.homeserve.com/m/
+heroImage: 599a874bde92510f/Blog-IcicleCoveredGutter_ERossi-1116.jpg
+heroAltDescription: "gutters covered in ice and snow"
+metaDescriptions: "How much snow is too much? Here's how to tell whether there's too much snow on your deck or roof."
+articleAbstract: "How much snow can a residential roof and wooden deck can sustain? Residential roofs are only built to withstand a certain amount of weight, and heavy snowfall can be a cause for concern. Here are some helpful tips to determine if you have too much snow."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Much Snow Weight Can Your Roof, Deck Sustain?"
+  parent: Exterior-Home-Home-Improvement
+---
+  
+
+Understanding the weight limits of your roof and deck during the winter months is essential to your safety. Without monitoring the buildup of snow on the roof, there's no way to know when it's time to get up there and remove it. Some homes will never have this problem thanks to their roof’s steep pitch, but others will require frequent clearing to prevent collapse.
+
+**This May Also Interest You:** [**Frozen Gutters be Dammed! 6 Ways to Eliminate Ice Dams**](https://www.homeserve.com/en-us/blog/how-to/thaw-frozen-gutters/)
+
+The amount of snow your roof or deck can hold depends on whether it's fresh or packed snow. Here are some tips to help you determine if your roof or deck is holding too much weight.
+
+How Much Does Snow Weigh?
+-------------------------
+
+The weight of snow varies. Fresh snow weighs less than packed snow. Roughly 12 inches of fresh snow on your roof or deck [weighs 5 pounds per square foot](https://www.icedamremovalguys.com/how-much-does-roof-snow-weigh/). However, only 5 inches of packed snow amounts to this same weight. It's crucial to understand the maximum capacity your roof can support so you know when it’s time to clear it.
+
+<img class="detail-image" src="https://library.homeserve.com/m/459f1512bfa2f32b/Blog-GettyImages-152537871.jpg" alt="a beige residential home covered with a massive amount of snow on a clear day "/>
+-------------------------------------------
+
+What is the Maximum Snow Load on a Roof?
+----------------------------------------
+
+To find out how much your roof can support, there are a few things you can do. One option is to check a snow load calculator, like [this one](https://www.omnicalculator.com/construction/snow-load). You can put in the measurements of your home to get an idea of how much snow your roof can safely support.
+
+You can also check building codes. Each state has its own building code that dictates how much snow a roof should be able to hold. Building officials in each region abide by their own guidelines for calculating the maximum snow load on a house.
+
+For most residential roofs, the maximum weight of snow should not exceed 30 pounds per square foot. To calculate how many inches of snow your roof can handle, multiply the depth of the snow in feet by the weight of a cubic foot of snow.
+
+If you do have to clear the snow off your roof, you should never clear all of it, as this can damage your shingles. Always leave roughly 2 inches of snow behind. Using a roof rake is a safer option than climbing onto the roof of the house. Icy conditions increase the risk of a fall.
+
+How Much Snow Can a Deck Handle?
+--------------------------------
+
+According to [Deck Expressions](https://www.deckexpressions.com/blog/winter-deck-tips/), decks that comply with building codes can withstand 40 to 60 pounds of snow per square foot — or about 3.5 feet of snow buildup. Before a big snowfall, make sure your deck is sturdy. Tighten any loose screws or boards.
+
+**More Related Articles:**
+
+*   [How to Prepare for a Snowstorm](https://www.homeserve.com/en-us/blog/how-to/snow-storm-preparation/)
+*   [5 Things You Can Do to Protect Your Home From a Polar Vortex](https://www.homeserve.com/en-us/blog/home-improvement/polar-vortex-protection/)
+*   [How to Winterize a House: Your No-Chill Checklist](https://www.homeserve.com/en-us/blog/how-to/winterize-house/)
+*   [How Much Do Roof Shingles Cost?](https://www.homeserve.com/en-us/blog/cost-guide/roofing-shingles/)
+*   [Overhead Expenses: A Leaky Roof Doesn’t Have to Mean Pricey Repairs](https://www.homeserve.com/en-us/blog/home-improvement/roof-leak-repair/)
+
+Signs of an Overloaded Roof
+---------------------------
+
+In addition to knowing your maximum snow load, you should also be aware of when your roof needs to be cleared based on current weather conditions. Here are some signs you need to clear off the roof.
+
+### Creaking, Popping or Cracking Sounds
+
+Consider these noises a warning bell that the roof is under tremendous strain. Hearing creaking, groaning or cracking sounds from above indicates there's too much weight on the roof. Clear the snow as soon as you can.
+
+### Warping or Water Stains on the Ceiling
+
+Check your ceilings for subtle signs of damage like water stains. These can be indicators that your roof has been damaged.
+
+<img class="detail-image" src="https://library.homeserve.com/m/1f7480dce9b5828a/Blog-IceDam_Erossi_0009.jpg" alt="exterior of a home loaded with frozen waterfalls of ice creating a dam on the roof"/>
+
+### Ice Dams Forming
+
+Ice dams form around the edge of your roof when the snow melts and refreezes. They can damage the shingles on the roof. They also add a lot of weight, which can put immense pressure on your roof and put it at risk for collapse.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="394" height="281" src="https://www.youtube.com/embed/x8ltbtfp1nY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

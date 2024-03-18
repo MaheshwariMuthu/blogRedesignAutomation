@@ -1,0 +1,91 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Find Product Serial Numbers"
+headline: "How to Find the Serial Number on Your Appliances and Gadgets"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-11-10
+basePath: https://library.homeserve.com/m/
+heroImage: 54d53ac3d99222ba/Blog-DishwasherSerialNumber_MSchmitz_0001.jpg
+heroAltDescription: "Open door of dishwasher reveals dirty dishes inside as well as where you can find the serial number and model number of the appliance."
+metaDescriptions: "Knowing your products’ serial numbers can come in handy for warranties, insurance and more. Here's how to find it."
+articleAbstract: "Knowing your products’ serial numbers can come in handy for warranty work, support from the company or insurance purposes. Learn where to find this important number on all types of items."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Find the Serial Number on Your Appliances and Gadgets"
+  parent: Appliances-How-To
+---
+  
+
+Would you be able to produce serial numbers for your major appliances and tools if you needed them? Most of those items have unique serial numbers that can be found on the product somewhere as well as in the packaging or product documentation. Seeking it out can be difficult if you don't know what you're looking for.
+
+**This May Also Interest You:** [**How to Do a Home Inventory Before Disaster Strikes**](https://www.homeserve.com/en-us/blog/how-to/create-home-inventory/)
+
+Knowing your products’ serial numbers can come in handy for warranty work, support from the company or insurance purposes. Learn where to find this important number on all types of items.
+
+<img class="detail-image" src="https://library.homeserve.com/m/694741c2ce127036/Blog-DishwasherSerialNumber_MSchmitz_0002.jpg" alt="Open door of dishwasher reveals dirty dishes inside as well as where you can find the serial number and model number of the appliance."/>
+
+How Can I Find My Serial Number?
+--------------------------------
+
+The location of the serial number can vary by item and by manufacturer. Even the same products from the same manufacturer can vary. Most items have the number engraved somewhere on the product, or they have a label attached to the item. You can also typically find the information in the packaging. Here are some general guidelines for finding the serial number:
+
+<img class="detail-image" src="https://library.homeserve.com/m/189e8b8b20cf2308/Blog-FridgeSerialNumber_MSchmitz_0001.jpg" alt="A refrigerator door is open to reveal food inside as well as where you can find the silver placard with the serial number and model number of the appliance."/>
+
+### Large Appliances
+
+Large appliances like dishwashers, refrigerators and water heaters typically display the serial number on the appliance in a protected location. It's common to find the serial number inside the appliance. Common spots include:
+
+*   Inner edge of the door
+*   Bottom inside the appliance
+*   Back or side wall
+*   Behind drawers in refrigerators
+
+<img class="detail-image" src="https://library.homeserve.com/m/59bd112a9cf96e72/Blog-FridgeSerialNumber_MSchmitz_0002.jpg" alt="A refrigerator door is open to reveal food inside as well as where you can find the silver placard with the serial number and model number of the appliance."/>
+
+Some appliances also put the label with the serial number on the outside of the appliance, in a hidden spot such as the back or side.
+
+### Small Appliances
+
+<img class="detail-image" src="https://library.homeserve.com/m/15c1f397ea01eb90/Blog-MicrowaveSerialNumber_MSchmitz_0001.jpg" alt="Open door of microwave reveals interior of appliance as well as the tag where you can find the serial number and model number."/>
+
+Small appliances like coffee makers and toasters don't have doors or easily accessible internal compartments for the serial number tag. You'll often find a label on the bottom or back of the appliance with the serial number on it. You can also check the box or product documentation that came with it if you still have the packaging.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6f08f55328498c0f/Blog-MicrowaveSerialNumber_MSchmitz_0002.jpg" alt="Open door of microwave reveals interior of appliance as well as the tag where you can find the serial number and model number."/>
+
+### Electronics
+
+The location of the serial number can vary on different electronics, which means finding a serial number can take a little investigating. On items like TVs, the serial number is often on the back where you can't see it during normal use. Some items might have the tag on the bottom.
+
+For phones and tablets, the serial number is sometimes engraved somewhere on the outside of the device. If the device has a removable battery, you might find the label with the serial number behind the battery. Other mobile devices don't have the number printed on the exterior. Instead, you need to go into the settings menu to find information about the phone.
+
+**More Related Articles:**
+
+*   [How Do I Find the Serial Number on My Android Phone?](https://www.homeserve.com/en-us/blog/how-to/find-android-smartphone-serial-number/)
+*   [How Do I Find the Serial Number on My Samsung Smartphone?](https://www.homeserve.com/en-us/blog/how-to/find-samsung-smartphone-serial-number/)
+*   [How Do I Find the Serial Number on My iPhone?](https://www.homeserve.com/en-us/blog/how-to/find-iphone-serial-number/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [Does Homeowners Insurance Cover My Major Appliances?](https://www.homeserve.com/en-us/blog/buying-guide/home-insurance-appliance-coverage/)
+
+### Power Tools
+
+In order to access the warranties on your power tools, you may need the serial number. Tools can be valuable and might be a target of theft, so recording the serial numbers gives you documentation in case yours get stolen.
+
+Power tools have their serial numbers located somewhere on the tool, either engraved into the product or on a label attached to it. On battery-powered tools, check under the battery for the information. If you have electric power tools that plug into an outlet, check for the label near the motor.
+
+How Can I Check If a Serial Number Is Stolen?
+---------------------------------------------
+
+The serial number can come in handy to tell if an item has been stolen. This is most common for electronics or mobile devices, which are easier to steal and sell. If you buy a stolen phone or other device, you likely won't be able to activate it with your cell provider. You'll be out the money you paid — and have a device that you can't use.
+
+You can often find databases online that let you search by serial number, or the IMEI number in the case of smartphones. The Cellular Telecommunications Industry Association offers the [Stolen Phone Checker](https://stolenphonechecker.org/spc/about.jsp) website that pulls from multiple databases to find out if a device has been reported stolen. Knowing how to find a serial number and check it can prevent you from wasting your money on a stolen device.
+
+Why Do I Need to Know My Serial Number?
+---------------------------------------
+
+The serial numbers for your belongings might not seem important, but you might need them for various reasons. Some reasons to know your serial numbers include:
+
+* **Product registrations:** Many companies offer product registration, which might require the serial number. When you register your product, you'll get notifications if there's a recall or other issues with the product.
+* **Product warranties:** You might need the serial number for an item with a warranty to set up or use the warranty.
+* **Insurance and home inventories:** It's a good idea to have a home inventory of all of your major belongings in your home. The numbers might be necessary if you need to file an insurance claim for a loss due to fire or theft. It can also help police track stolen items if they're recovered.
+* **Support from the company:** You might need your serial number if you need support from the company. For example, some safe companies will only send you a new key or your combination if you have the serial number. Having your serial number handy can make it easier for a customer service representative to help you troubleshoot a situation.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

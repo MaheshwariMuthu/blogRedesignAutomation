@@ -1,0 +1,44 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Avoid Halloween-Related Injuries at Home"
+headline: "Spooky Stat: 3,200 People Are Injured on Halloween Each Year. Here's How to Stay Safe"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2023-10-31
+basePath: https://library.homeserve.com/m/
+heroImage: 6036ea0a1c40cc73/Blog-HalloweenSafety_MSchmitz_0001.jpg
+heroAltDescription: "Two glowing"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "On average, 3,200 people are treated for Halloween-related injuries in U.S. emergency departments every year. Stay safe with these tips."
+articleAbstract: "It’s not just the ghosts and goblins that make Halloween so spooky; turns out, some things about this holiday are actually pretty scary. On average, 3,200 people are treated for Halloween-related injuries in U.S. emergency departments every year."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Spooky Stat: 3,200 People Are Injured on Halloween Each Year. Here's How to Stay Safe"
+  parent: Exterior-Home-Home-Improvement
+---
+  It’s Halloween! For many families, that means trick-or-treating, pumpkin carving, haunted houses, creepy decorations and all manner of costumes. But it’s not just the ghosts and goblins that make All Hallows’ Eve so spooky; turns out, some things about this holiday are _actually_ pretty scary. On average, 3,200 people are treated for Halloween-related injuries in U.S. emergency departments every year. That’s down about 11% from two years ago.
+
+**This May Also Interest You:** [**Creepy Critters: How to Get Rid of Common Household Pests**](https://www.homeserve.com/en-us/blog/home-improvement/get-rid-of-household-pests/)
+
+According to the [Consumer Product Safety Commission](https://www.cpsc.gov/Newsroom/News-Releases/2023/CPSC-Offers-Safety-Tips-to-Keep-Hazards-from-Haunting-Your-Halloween)’s data from the past three years, most of those injured were adults, but 46% were under 18 years old. Ten percent of injuries were suffered by children 6 years old and younger.
+
+The majority — 55% — of the injuries were related to pumpkin carving accidents. Trips and falls while decorating or trick-or-treating made up another 25% of injuries. Twenty percent of the injuries were due to non-pumpkin-carving-related lacerations, as well as ingestions, allergic reactions, rashes and other injuries caused by holiday costumes, pumpkins and decorations.
+
+**More Related Articles:**
+
+*   [What Do You Do When a Product Is Recalled? Here’s Everything You Need to Know](https://www.homeserve.com/en-us/blog/home-improvement/what-is-product-recall/)
+*   [Keep Children Safe Around Blinds: Go Cordless](https://www.homeserve.com/en-us/blog/home-improvement/window-covering-safety/)
+*   [Hot Tips! 5 Backyard Fire Safety Suggestions](https://www.homeserve.com/en-us/blog/how-to/fire-pit-safety/)
+*   [Haunted (Smart) House: The 5 Spookiest Smart Home Features and Products](https://www.homeserve.com/en-us/blog/buying-guide/spooky-smart-home-products/)
+*   [Toxic Relationship: Never Mix These Household Cleaners and Chemicals Together](https://www.homeserve.com/en-us/blog/home-improvement/household-cleaners-not-to-mix/)
+
+To help you stay safe this Halloween, the CPSC has recommended these safety precautions:
+
+*   Make pumpkin carving a family activity. Leave the sharp knives to the adults and let younger children scoop out the pumpkin innards with a spoon. Let your kids draw their design on the pumpkin before you carve it out. Or, avoid knives altogether and paint your pumpkins.
+*   Use battery-operated lights instead of open-flame candles for your decorations. If real candles are essential for the spooky vibe, make sure you keep them away from combustibles and never leave them unattended. According to a [CPSC report](https://www.cpsc.gov/content/2017-to-2019-Residential-Fire-Loss-Estimates), candles were related to an average of 5,600 fires per year in the U.S. from 2017 through 2019.
+*   Wear — and make sure your children wear — costumes that fit. That hand-me-down superhero suit that’s still a little too big might be a tripping hazard. When choosing costumes, it’s best to choose something that won’t get in the way while your child’s walking.
+*   Loose fabrics can also be a fire hazard. Reduce the chance of an incident by making sure all costumes are made of polyester or nylon, not cotton or rayon. No matter what it’s made from, keep the sleeves of your witch’s robe away from open flames!
+*   Test all your decorations before putting them up. Look for frayed wires, broken sockets and loose connections before plugging in strings of lights.
+*   If you’re using a ladder to put up decorations, practice [ladder safety](https://onsafety.cpsc.gov/blog/2011/12/03/ladder-safety-101/). Have a helper hold the base of the ladder, do not stand on the top rungs of the ladder and never leave a ladder unattended.
+*   It’s not trick-or-treating if a few neighborhood kids don’t pull off a few tricks (often despite receiving a bounty of treats). Stay safe while you’re cleaning up toilet paper in your trees or Silly String in the lawn. Here’s a guide to [Halloween prank cleanup](https://www.homeserve.com/en-us/blog/how-to/halloween-prank-cleanup/).<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/0wQqGQ0IvTI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Your household product has been recalled. Now what?"></iframe>

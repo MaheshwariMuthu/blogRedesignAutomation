@@ -1,0 +1,90 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Whirlpool Washing Machine Error Codes"
+headline: "Whirlpool Washing Machine Error Codes"
+author: John Warbuck
+tags: ["post"]
+publishDate: 2023-07-24
+basePath: https://library.homeserve.com/m/
+heroImage: 4cc67c03dcfdc3b3/Blog-P140210_31z.jpg
+heroAltDescription: "hand selecting washing options on whirlpool washer"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Don't know what your Whirlpool washing machine error codes are trying to tell you? We've got you covered with this comprehensive guide."
+articleAbstract: "Before you go ahead and call a technician, you may want to check the error code to see if your Whirlpool washer is telling you about an issue you can fix yourself."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Whirlpool Washing Machine Error Codes"
+  parent: Appliances
+---
+  Before you go ahead and call a technician, you may want to check to see if your Whirlpool washer is telling you about an issue you can fix yourself.
+
+**This May Also Interest You:** [**What Do You Do With an Old Appliance? How to Recycle Fridges, Washers, Ovens and More**](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+This guide reviews the most common error codes for Whirlpool washing machines.
+
+What Are Whirlpool Washing Machine Error Codes?
+-----------------------------------------------
+
+If you’re experiencing a problem with your washing machine that can be fixed in under 10 minutes with a little bit of patience and know-how, it’s frustrating to call a technician to learn you’ve wasted your time and money. Error codes are designed to help you troubleshoot an issue quickly before determining whether you really need to call a repair person. While Whirlpool has done its best to streamline error codes, the system isn’t foolproof.
+
+Whirlpool Duet washer error codes may be different from Whirlpool Cabrio error codes, for example. In general, however, Whirlpool has attempted to make its error codes uniform across all model types.
+
+How Whirlpool Washer Error Codes Can Save You Time and Money
+------------------------------------------------------------
+
+Whenever your washing machine is down, you need to set aside time for a repair, which likely means you'll have to deal with the additional hassle of being unable to wash your clothing. Labor is the most expensive part of any repair, so having someone else do what you could do yourself is a waste of your money. You could save several hundred dollars by learning what Whirlpool washer error codes mean.
+
+**More Related Articles:**
+
+*   [Should You Buy a Used Appliance? Weigh the Risks and Rewards](https://www.homeserve.com/en-us/blog/buying-guide/used-appliances/)
+*   [7 Ways Your Kitchen Will Evolve in the Next 10 Years](https://www.homeserve.com/en-us/blog/home-improvement/advancements-kitchen-technology/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+Most Common Front Load Washer Error Codes
+-----------------------------------------
+
+Here are some of the most common [Whirlpool washing machine error codes](https://producthelp.whirlpool.com/Laundry/Washers/Product_Info/Washer_Product_Assistance/Error_Codes_in_Front_Load_Washers), along with some simple fixes.
+
+### Loc/LC
+
+This is a simple error that means your washing machine’s control lock is turned on. Find the control lock button and press it to reset the control panel. Depending on your model, you might need to hold this button down for a few moments before it responds.
+
+### Int
+
+When you see this error code, it means your washing machine stopped in the middle of a wash cycle. You may have opened the door or canceled the load while it was still washing. The machine won’t be usable again until it finishes draining, which can take up to 30 minutes.
+
+### Sud/Sd
+
+This error code indicates an overabundance of suds. If you've added too much detergent to your laundry, start using less. Soap that becomes too foamy can interfere with the rinse cycle. If you aren't using high-efficiency (HE) soap and your particular model requires it, start using HE detergent. If you see this error code but don't notice excessive suds, check your drain hose.
+
+### dET
+
+This message can be ignored unless you’re using a detergent dispenser cartridge. If so, check to make sure you’ve inserted it correctly.
+
+### rL/F34
+
+This code means your washing machine sensed there were clothes in the machine while it was attempting to run the clean washer cycle. To fix this issue, empty your washing machine and restart the cycle.
+
+### F5/E2
+
+This code means your washer door is open, or it isn't locking correctly. Make sure nothing is hindering the door from opening, and ensure you’ve closed it. If that doesn't fix the issue, the lock may need to be fixed.
+
+### F7/E1
+
+This error code means you've either overloaded your washing machine or you have a malfunctioning motor. If reducing the amount of clothing doesn’t fix the issue, it's time to call a repair technician.
+
+### F8/E1/Lo Fl
+
+When you see this error code, it means there's a problem with the water supply to the washing machine, and it’s unable to work due to low water flow. Check all lines for kinks, and make sure your water supplies are turned on.
+
+### F9/E1
+
+If it takes longer than 8 minutes for your washing machine to drain, you’ll see this code. Check your hoses for kinks and your laundry for excessive suds before investigating other potential causes.
+
+Do I Need to Call a Repair Tech or Can I Fix These Errors on My Own?
+--------------------------------------------------------------------
+
+If the error codes don’t go away after your attempts at a simple fix, it's time to call a washing machine repair technician. You could make the problem worse if you attempt to fix it yourself. Whirlpool washer error codes are helpful because they help you reduce the need for repair professionals, but there are times when you absolutely need to call in the experts.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/qpoqCRPHjqE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Find Your iPhone or Android Smartphone Serial Number"></iframe>

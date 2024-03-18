@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Drain a Toilet"
+headline: "Taking Out a Toilet? Be Sure to Drain It First"
+author: James Fitzgerald
+tags: ["post"]
+publishDate: 2023-03-12
+basePath: https://library.homeserve.com/m/
+heroImage: 6121adb1e5c849bb/original/FlushToilet_ERossi_4286.gif
+heroAltDescription: "female hand flushing a kohler toilet"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Draining a toilet is necessary before removing it or performing certain repairs. Learn how to drain a toilet in three steps."
+articleAbstract: "Draining a toilet is necessary before removing it or performing certain repairs. Learn how to drain a toilet in three simple steps."
+category: ["How To"]
+eleventyNavigation:
+  key: "Taking Out a Toilet? Be Sure to Drain It First"
+  parent: Plumbing-How-To
+---
+  Whether you’re removing your toilet to replace it or repairing a leaking base, draining it completely of water is an essential first step. Otherwise, the 1.2 to 1.6 gallons of water held in modern toilets — or up to 7 gallons of water in older toilets — is going to wind up on your bathroom floor as soon as it’s lifted off the ground.
+
+**This May Also Interest You:** [**My Toilet Tank Is Spraying Water! How to Fix a Toilet Fill Valve**](https://www.homeserve.com/en-us/blog/how-to/fix-toilet-fill-valve/)
+
+In addition to preparing for a removal, draining the toilet may be necessary before performing some internal repairs. Regardless of your reason, these are the steps you’ll need to follow.
+
+How to Drain a Toilet: 3 Easy Steps
+-----------------------------------
+
+### Things You’ll Need
+
+*   5-gallon bucket
+*   Plunger
+*   Small cup
+*   Wet-dry shop vac
+*   Rubber gloves
+*   Large sponge
+
+### Step 1: Shut off the Water and Flush
+
+Locate the shutoff valve for your toilet, which can usually be found on the wall behind your toilet and has a football-shaped handle. Turn the valve fully clockwise to shut off the water supply to your toilet.
+
+Once the water is off, flush the toilet by holding down the flush lever to empty the toilet tank. Look inside the bowl to verify that the tank is empty and that it’s not filling up with water. If it’s filling up with water despite having closed the shutoff valve, you will need to shut off the water supply to your entire home by closing the valve on your main water line before removing the toilet.
+
+### Step 2: Remove the Water From the Bowl
+
+With the water drained from the toilet tank, the next step is to remove the standing water in the toilet bowl. There are a number of ways to do this.
+
+#### Pour Water Into the Bowl
+
+As counterintuitive as it sounds, dumping water into the toilet bowl simulates the effect of a flush and will force the majority of the water in the bowl down the drain.
+
+Fill up a 5-gallon bucket with about 3 gallons of water and pour it directly into the drain hole in the bowl. To enhance the effectiveness of this method, start by holding the bucket just a few inches above the bowl and progressively raise the bucket as you pour until it’s about a foot above the bowl. Doing so speeds up the flow of water coming from the bucket to help force more water down the drain.
+
+#### Plunge the Toilet
+
+The act of plunging removes clogs by forcing water down the drain to blast out the clog. This same mechanism of action can be used to empty the toilet bowl by forcing the standing water down the drain.
+
+Place the plunger’s flange firmly onto the bowl’s drain hole so that it’s sealed around the drain. Without breaking the seal, pump the plunger vigorously for around 20 seconds. Remove the plunger and inspect the bowl to verify that the water has drained.
+
+#### Scoop Out the Water
+
+A small cup can be used to manually bail the water out of the bowl. After putting on a pair of rubber gloves, use the cup to scoop water out of the bowl and dump it into a bucket, tub or sink. Repeat this process until you’ve removed as much water as possible from the bowl.
+
+#### Use a Wet-Dry Shop Vac
+
+If you own a wet-dry shop vac, using it to empty your toilet bowl will be the quickest and least labor-intensive method at your disposal. Start by placing it into “wet mode” by removing the filter from inside the vacuum bin. Insert the hose into the drain hole in the bowl and turn on the vacuum to suck out the water. As you do this, keep a close eye on the water level inside the vacuum bin to ensure it doesn’t become overloaded and cause water to overflow.
+
+**More Related Articles:**
+
+*   [Condensation on Your Toilet? Don’t Sweat It](https://www.homeserve.com/en-us/blog/home-improvement/condensation-toilet-tank/)
+*   [How to Fix Your Toilet Handle in 6 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/fix-toilet-handle/)
+*   [What’ll a New Toilet Do to Your Bottom Line? Here’s What It Costs](https://www.homeserve.com/en-us/blog/cost-guide/toilet-installation/)
+*   [Time to Swap Seats? Here’s How to Install or Replace a Toilet Seat](https://www.homeserve.com/en-us/blog/how-to/replace-toilet-seat/)
+*   [Never Flush These 11 Things Down Your Toilet](https://www.homeserve.com/en-us/blog/home-improvement/things-to-never-flush-down-toilet/)
+
+### Step 3: Sponge Up the Remaining Water
+
+Even after you drained the water out of the tank and bowl, there will still be some residual water in each that you can remove with a large sponge. Put on a pair of rubber gloves and insert the sponge into the tank. Allow the sponge to soak up the water and squeeze it out into a bucket, tub, or sink once it becomes full. Repeat as many times as necessary until the tank is completely dry, then repeat on the toilet bowl.
+
+Your toilet should now be completely drained and ready to remove.
+
+Can You Drain a Clogged Toilet?
+-------------------------------
+
+You can absolutely drain a clogged toilet, but you first need to clear the clog so that you can flush the toilet and clear the tank. While there are many ways to [clear a clogged toilet](https://www.homeserve.com/en-us/blog/how-to/unclog-backed-up-toilet/), one of the best is to use a plunger. Along with being one of the simplest and most effective methods, you can also use a plunger to drain the bowl after the clog has been cleared and the tank is emptied. However, you may need to use a toilet auger, pour down drain cleaner or even call a plumber if plunging fails to clear the clog.
+
+After the clog has been cleared, you can drain your toilet by following the three-step process outlined above.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nk_hBpyP3Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How Much Does Sewer Line Maintenance and Repair Cost?"></iframe>

@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Propane Tank Cost?"
+headline: "How Much Does a Propane Tank Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2024-01-25
+basePath: https://library.homeserve.com/m/
+heroImage: 6681003cbb9962db/Blog-GettyImages-512541538.jpg
+heroAltDescription: "Large Propane Tank situated alongside a residentual home."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If you're considering switching to propane as a fuel source, you'll want to know how much a propane tank costs to install."
+articleAbstract: "Propane is a cost-effective way to fuel your home, and it's better for the environment than other fossil fuels. If you're considering switching to propane as a fuel source, you'll want to know how much a propane tank costs to install."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does a Propane Tank Cost?"
+  parent: Exterior-Cost-Guide
+---
+  Propane is a cost-effective way to fuel your home, and it's better for the environment than other fossil fuels. You can use large propane tanks for household heating and cooking or smaller tanks to fuel outdoor grills.
+
+**This May Also Interest You:** [**Here’s How to Turn Off Your Gas Supply Valves**](https://www.homeserve.com/en-us/blog/how-to/gas-shutoff-valve/)
+
+If you're considering switching to propane as a fuel source, you'll want to know how much a propane tank costs to install. Below, you can find average propane tank costs, including the price difference between underground and above-ground installations.
+
+**How Much Does Propane Cost Per Gallon?**
+------------------------------------------
+
+According to [Bob Vila](https://www.bobvila.com/articles/propane-price-per-gallon/), propane generally costs between $3 and $5 (CAD 3.80 and CAD 6.30) per gallon.
+
+The cost of purchasing and installing a propane tank increases based on the tank’s capacity. [Fixr](https://www.fixr.com/costs/propane-tank-installation#new-propane-tank-cost-by-capacity) says the national average cost to install an above-ground, 500-gallon propane tank is $2,500, with a typical range being between $700 and $5,000 (CAD 890 and CAD 6,300).
+
+You should select a propane tank size based on your fuel usage. Although smaller propane tanks are cheaper upfront, it's generally more cost-effective in the long run to install the recommended tank size for your needs because you'll save money on fuel delivery fees.
+
+**How Much Does It Cost to Install an Inground Propane Tank?**
+--------------------------------------------------------------
+
+It usually costs more to install a propane tank underground because it's a more complex job. Generally, you should expect to pay between $1,500 and $3,000 (CAD 1,890 and CAD 3,780) to install a 500-gallon tank, and $2,500 to $5,000 (CAD 3,150 to CAD 6,300) for a 1,000-gallon tank. Smaller propane tanks are usually more suitable for above-ground installation.
+
+Although installing an inground propane tank costs more, it offers certain benefits. Underground installation can help maximize your yard space and protect your tank from cold temperatures. However, underground installation is unsuitable for flood-prone areas or areas with a high water table.
+
+**Should You Rent or Buy a Propane Tank?**
+------------------------------------------
+
+You can choose between renting a propane tank from a supplier or buying and installing your own. The primary advantage of renting a propane tank is that most suppliers install and maintain the tank and cover the cost of repairs. Often, you won't need to pay for the tank itself if you purchase a certain amount of fuel per year. However, renting a propane tank ties you to your supplier, and you may have to pay termination fees if you want to switch.
+
+Installing your own propane tank costs more upfront, but it lets you buy propane from any supplier and could make it easier to negotiate prices. Furthermore, you won't need to pay rental fees. The main downside of propane tank ownership is that you are responsible for installing and maintaining the tank. Fuel suppliers often prioritize their rental customers during fuel shortages, and your home insurance policy may not cover fuel leaks.
+
+Whether you should buy or rent your propane tank depends on your finances and whether you want to take on the maintenance involved in tank ownership. It can be helpful to obtain a quote for both options to help you decide which is most cost-effective — both now and in the long term.
+
+**More Related Articles:**
+
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How Much Does It Cost to Replace an Oil Furnace?](https://www.homeserve.com/en-us/blog/cost-guide/oil-furnace-replacement/)
+*   [Gas Stove Vs. Electric Stove: Which is Best For You?](https://www.homeserve.com/en-us/blog/buying-guide/gas-vs-electric-stove/)
+*   [Electric Vs. Gas Heaters: Which Kind Is Best for Your Patio?](https://www.homeserve.com/en-us/blog/home-improvement/gas-versus-electric-patio-heater/)
+*   [How Much Does a Patio Heater Cost to Rent or Buy?](https://www.homeserve.com/en-us/blog/cost-guide/patio-heaters-cost/)
+
+**Should You Refill or Exchange Your Tank?**
+--------------------------------------------
+
+Some outdoor grills use propane as fuel, and you have the option to refill the tank when it runs empty or exchange it for a fresh one. It's usually significantly cheaper to refill your propane tank because you're only paying for the fuel. Some propane exchanges don't fill tanks to their maximum capacity, so you may get more for your money by refilling your existing tank.
+
+However, exchanging your tank has certain advantages. It's usually easier to find an exchange station, and several major retailers like Wal-Mart and The Home Depot offer propane tank exchange services. Some companies also provide exchange deliveries to your home. Another benefit is that the company inspects and cleans the tanks, so you don't need to worry about performing leak tests and other maintenance tasks.
+
+Refilling your propane tank might be the best option if you're on a tight budget, but you'll need to get your tank recertified as it ages. Exchanging your propane tank is a good option if you don't want to worry about tank maintenance.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Clean Your Oven | Cleaning Oven Tips and Tricks"></iframe>

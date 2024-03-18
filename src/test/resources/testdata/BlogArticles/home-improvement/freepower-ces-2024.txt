@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "CES 2024: Soon, You'll be Charging Your Phone and Chopping Broccoli on the Same Surface"
+headline: "CES 2024: Soon, You'll be Charging Your Phone and Chopping Broccoli on the Same Surface"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2024-01-04
+basePath: https://library.homeserve.com/m/
+heroImage: 469d6a08c6c30568/Blog-GettyImages-1135457487.jpg
+heroAltDescription: "A hand grabbing and picking up mobile phone on the table"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Mobile devices are everywhere, but charging stations can be hard to come by. One of this year's CES Innovation Award honorees solves this issue."
+articleAbstract: "Mobile devices are everywhere, but mobile charging stations can still be hard to come by. One of this year's CES Innovation Award honorees solves this issue."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "CES 2024: Soon, You'll be Charging Your Phone and Chopping Broccoli on the Same Surface"
+  parent: Electrical-Home-Improvement
+---
+  Anyone who's ever asked a bartender to charge their phone behind the counter or needed to use a friend's car charger to get a quick boost of power on the way to an event is all too familiar with this disparity between our reliance on smartphones and the availability of charging stations. Mobile devices that run on rechargeable batteries are ubiquitous in today’s connected society, but places where we can charge those devices can be maddeningly elusive at times. Wireless-charging solutions company FreePower hopes to address this issue with its award-winning innovation being honored at CES 2024.
+
+**This May Also Interest You:** [**What’s the Internet of Things?**](https://www.homeserve.com/en-us/blog/home-improvement/internet-of-things/)
+
+Each year in Las Vegas, CES (formerly known as the Consumer Electronics Show) allows tech inventors to showcase their latest and greatest advances. As part of the show's proceedings, a series of Innovation Awards are handed out in 29 different categories, including AI, Digital Health and “Sustainability, Eco-Design & Smart Energy.” In 2024, a total of 522 products nabbed one of these honors, with FreePower achieving three awards in the categories of Smart Cities, Smart Homes and Embedded Technologies for their product, an in-counter phone charger.
+
+With its [FreePower for Countertop](https://www.freepower.io/countertop) solution, FreePower embeds wireless charging technology into surfaces such as desks, kitchen islands and really any other flat surface on which you could imagine placing your mobile device. The charge can penetrate through a multitude of surfaces, including thick materials such as marble and granite. The result is that all you need to do is place your device on the surface and go about the rest of your day while it drinks up a charge.
+
+This year, the company built an LED halo design that lights up through the counter material to let you know exactly where the charging zone is.
+
+Here's more about how the FreePower for Countertop system works:
+
+Precision Power Delivery and Efficient Energy Management
+--------------------------------------------------------
+
+Beyond its flexible design, FreePower's most interesting feature lies in its tailored power delivery capabilities. The technology analyzes the power requirements of each device, ensuring optimal energy distribution without compromising efficiency. This intelligent approach not only prolongs device lifespan but also streamlines the charging process, reducing the time spent tethered to power sources.
+
+**More Related Articles:**
+
+*   [Samsung Smart Refrigerators: Smart Features and How They Work](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-refrigerator/)
+*   [What Is a Google Nest Learning Thermostat and What’s It Do?](https://www.homeserve.com/en-us/blog/buying-guide/google-nest-thermostat/)
+*   [How to Set Up a Ring Doorbell](https://www.homeserve.com/en-us/blog/how-to/setup-ring-doorbell/)
+*   [Everything You Need to Know about Samsung Smart Microwaves: Features and Functionality](https://www.homeserve.com/en-us/blog/buying-guide/samsung-smart-microwave/)
+*   [How Much Does It Cost to Install a Keyless Door Lock?](https://www.homeserve.com/en-us/blog/cost-guide/keyless-door-lock/)
+
+Induction Charging
+------------------
+
+FreePower for Countertop makes use of magnetic charging technology. "When a wire-wound coil is energized, it forms a magnetic field," [FreePower](https://www.freepower.io/technology) said of their technology. "When a receiving coil is placed over this field, it couples with the transmitter and power flows from coil to coil."
+
+The tech combines the power of multiple overlapping coils to penetrate the charging surface and allow the multi-charging of multiple devices. It is also able to activate a varying degree of coils based on the charging demands of the devices placed on the surface. Currently, the system can ship containing anywhere from three to 30 coils.
+
+Qi Compatible
+-------------
+
+The system makes use of the Qi standard, a wireless charging protocol that is quickly becoming the most prevalent style of charging system on the market. So, pretty much any device that employs the Qi protocol can charge using the FreePower system, including Android and Apple tech. Theoretically, it could even juice up power tools embedded with the protocol. The system can also charge a wide range of Qi-enable devices simultaneously, meaning you could charge your Google Pixel phone and your Apple iPad on the same surface at the same time.
+
+Motion Tolerant
+---------------
+
+If you've ever used a wireless charging pad for your smartphone, you know just how fiddly they can be. If you don't lay your phone on it just right, or you nudge it off-center, the charging won't work. FreePower for Countertop solves that problem by delivering a charge no matter where you slide your device in the charging zone.
+
+Future Proof
+------------
+
+FreePower for Countertop ensures compatibility with the latest device protocols and evolving charging standards thanks to its over-the-air update functionality that keeps the system agile and adaptable.
+
+What's Next
+-----------
+
+Speaking of the future, unlike some of the innovations that are shown at CES that might still have years to go before being commercially available, FreePower is already shipping its tech.
+
+"Countertop power isn't just a dream for the future – it’s already here," the company said in a [press release](https://www.freepower.io/news/ces-innovation-awards-2024#:~:text=FreePower%20for%20Countertop%20was%20recognized,for%20residential%20and%20commercial%20surfaces). "We're deploying our solution with leading homebuilders and developers, including Taylor Morrison, the fifth-largest homebuilder in the U.S., and Marriott, as well as other restaurant groups, commercial builders, and hospitality groups. Our first installations have already started rolling out, with mass deployment starting at the Kitchen and Bath Industry Show in Las Vegas early next year."<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/qpoqCRPHjqE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Find Your iPhone or Android Smartphone Serial Number"></iframe>

@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Heat Your Home With a Fireplace"
+headline: "Common Questions About Heating With a Fireplace — Asked and Answered"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-09
+basePath: https://library.homeserve.com/m/
+heroImage: 4e1fb19d90461ebf/Blog-iStock-639397654.jpg
+heroAltDescription: "warm wood fireplace"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Understanding how a fireplace works might help you decide whether they’re a good fit for your home."
+articleAbstract: "A crackling fire in a fireplace adds a warm ambiance, but is it enough to heat your whole house? Understanding how a fireplace works might help you decide whether they’re a good fit for your home."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Common Questions About Heating With a Fireplace — Answered"
+  parent: HVAC-Buying-Guide
+---
+  A crackling fire in a fireplace adds a warm ambiance, but is it enough to heat your whole house? Fireplaces are typically used as supplemental heat sources along with options like wood-burning stoves.
+
+**This May Also Interest You:** [**What Do I Do If My Heat Goes Out?**](https://www.homeserve.com/en-us/blog/home-improvement/broken-furnace-stopgaps/)
+
+Understanding how a fireplace works might help you decide whether they’re a good fit for your home.
+
+Can You Heat an Entire House With a Fireplace?
+----------------------------------------------
+
+If you’re here because you want to know how to heat a whole house with a single fireplace, you might need to consider alternatives.
+
+One traditional fireplace can't produce enough heat to warm your entire house. Fireplaces typically generate enough heat to warm the room they're in, and they can be very effective at heating that space. To heat your entire home, you would need a fireplace in every room that you want to be heated. Some fireplaces have forced air components that help push the heated air beyond the immediate area, but most are still designed primarily for supplemental heating rather than as the primary heat source. You can use a fireplace as part of zoned heating, which can be more cost-effective.
+
+What Is Zoned Heating?
+----------------------
+
+Zone heating means you only heat a certain part of your home based on which areas you're using. Instead of heating all rooms all the time, you only heat the rooms you're currently using. For example, at night, you might only heat the bedrooms where family members sleep. During the day, you might mainly heat the living room where you spend time.
+
+To achieve zoned heating, a fireplace could successfully heat a specific area of your home in the room where it's located. This lets you significantly lower the thermostat for your home's heating system with the fireplace, the pellet stove or a similar source heating the area where you are.
+
+**More Related Articles:**
+
+*   [How Much Does a Gas Fireplace Cost?](https://www.homeserve.com/en-us/blog/cost-guide/gas-fireplace-installation/)
+*   [How to Light a Gas Fireplace: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/light-gas-fireplace/)
+*   [Ventless Gas Fireplaces: Pros and Cons You Should Take to ‘Hearth’ Before Installing One](https://www.homeserve.com/en-us/blog/buying-guide/ventless-gas-fireplaces/)
+*   [How Much Does Chimney Repair and Removal Cost?](https://www.homeserve.com/en-us/blog/cost-guide/chimney-repair/)
+*   [How Does a Pellet Stove Work?](https://www.homeserve.com/en-us/blog/how-to/light-gas-fireplace/)
+
+Types of Fireplaces
+-------------------
+
+### Gas or Wood?
+
+Wood fireplaces tend to be the least efficient option for heating a home. A large amount of heat goes up through the flue instead of into the room. Gas fireplaces are generally more efficient at creating heat, which can help them heat your home better than a wood fireplace. You also don't have to add more fuel to them like you do with a wood fireplace, which can create a more consistent heat source without a lot of work on your part.
+
+### Vented or Unvented?
+
+If you're leaning toward a gas fireplace, you'll need to choose between a vented and unvented model. A vented gas fireplace is very similar to a wood-burning fireplace, with some heat going out of the flue. It also vents all the byproducts of combustion out of the house.
+
+An unvented fireplace can be installed if you aren't able to install a vented fireplace. This type doesn't use a traditional flue, which means all the heat stays inside your home instead of being lost through the flue. This can make an unvented gas fireplace more efficient and effective at warming your home. However, they come with a higher risk of carbon monoxide poisoning since they're not vented to the outside, and they can produce higher moisture levels and odors than vented models.
+
+Does a Fireplace Need Regular Maintenance?
+------------------------------------------
+
+No matter what type of fireplace you choose, it requires regular maintenance to keep it running safely and properly. The maintenance tasks can vary slightly between gas and wood fireplaces, but here are some general ones to follow.
+
+* **Perform a yearly inspection.** Your chimney and fireplace should be inspected yearly to ensure everything is working properly.
+* **Clean the chimney.** It's also important to have your chimney swept regularly when the creosote builds up. This is best left to a professional chimney sweep, who has the right tools and experience to remove the buildup safely.
+* **Remove ash.** If you have a wood-burning fireplace, you'll need to remove the ash each time you use the fireplace. Let the ashes cool for at least 12 hours before disposing of them. You can use the ashes from fireplaces and outdoor fire pits as a fortifier in soil or compost.
+* **Clean the fireplace itself.** Cleaning in and around the fireplace is important. Wipe down the doors and the interior of the firebox. For a gas fireplace, vacuum the decorative logs occasionally to keep them clean.
+* **Check the gas connections.** For a gas fireplace, have a professional inspect all gas components, including the connections and valves.
+
+How Do You Use a Fireplace Safely?
+----------------------------------
+
+Proper fireplace maintenance is the foundation for using it to heat your home safely, but you can also keep these best practices in mind:
+
+* **Don't leave the fire unattended.** You should always keep a fire attended. This is another reason why using a fireplace as the primary heating source is difficult to do.
+* **Clear flammable objects.** Move any flammable objects away from the fireplace area to prevent an accidental fire.
+* **Use a carbon monoxide detector.** A working carbon monoxide detector on every level of your home alerts you if the fireplace is causing a buildup of the deadly gas.
+* **Have a fire extinguisher handy.** You need to be prepared in case a stray spark escapes the fireplace.
+* **Use a fireplace screen.** A wood-burning fireplace needs a fireplace screen to catch any stray embers. It also serves as a barrier to keep pets and kids away from the heat.

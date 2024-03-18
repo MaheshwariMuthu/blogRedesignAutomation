@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Reversible Door Refrigerator: How to Adjust Refrigerator Door Swing"
+headline: "How to Change the Direction Your Refrigerator Door Swings"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-09-05
+basePath: https://library.homeserve.com/m/
+heroImage: 76ae9cffae71add8/Blog-ReverseFridgeDoor_MSchmitz_0001.jpg
+heroAltDescription: "Open refrigerator door"
+metaDescriptions: "Does your fridge open on the wrong side? Here's how to adjust the door swing."
+articleAbstract: "Does your fridge open on the wrong side? A lot of refrigerator doors are reversible and it's relatively simple to change the direction they swing. Here’s how."
+category: ["How To"]
+eleventyNavigation:
+  key: "Can I Change the Door Swing on My Fridge and How?"
+  parent: Appliances-How-To
+---
+  
+
+**Reversing a Refrigerator Door at a Glance**
+
+* **Step 1:** Prep fridge
+* **Step 2:** Unbolt bracket
+* **Step 3:** Switch bottom bracket and hinge
+* **Step 4:** Reposition handle and replace door
+* **Step 5:** Reattach top bracket and hinge
+
+You measured the space, and now the delivery has arrived. You put your new refrigerator in its place only to realize that the door swings right into the wall.
+
+**This May Also Interest You:** [**We Gotta Move These Refrigerators: A Step-by-Step Guide to Moving Your Fridge**](https://www.homeserve.com/en-us/blog/how-to/move-refrigerator/)
+
+Fortunately, this doesn't usually mean a trip back to the hardware store. A lot of refrigerator doors are reversible for this reason. It's relatively simple to change the swing on your reversible-door refrigerator. Here’s how.
+
+How Do You Determine Which Way Your Refrigerator Door Should Swing?
+-------------------------------------------------------------------
+
+People often get confused about how to determine whether a refrigerator is a right or left door swing. The answer depends on which side the hinge is from your perspective when facing the door as if to open it. If the hinge is on the right and the door swings to the right, it's a right-hand swing door, and vice-versa.
+
+There's no universal rule for which way you should configure your reversible door refrigerator, so it boils down to a matter of practicality and preference. Some people prefer for the door to open in a way that allows them to reach straight in with their dominant hand, which means having the door hinge on the same side as their non-dominant hand.
+
+However, it's also worth keeping in mind the layout of your kitchen when deciding which way to hang your refrigerator door. You may have a wall next to the fridge that stops the door from swinging open all the way, in which case it makes sense to have the hinge on the opposite side. If you have a countertop next to one side of the fridge, it's probably practical to place the hinge on the opposite side so that you can open the refrigerator door and unload ingredients straight onto the counter.
+
+<img class="detail-image" src="https://library.homeserve.com/m/14b2b1c151a0daca/Blog-ReverseFridgeDoor_MSchmitz_0002.jpg" alt="Open refrigerator door"/>
+
+How Do You Reverse Your Refrigerator Door?
+------------------------------------------
+
+If you accidentally purchase a refrigerator with a right-hand door swing when you need one with a left-hand door swing (or the other way around), there's no need to worry. You simply need to flip the side the hinges are on. This job is achievable in under 20 minutes for most modern fridges. Here’s what to do:
+
+### Step 1: Prepare the Refrigerator
+
+It's easiest to change the door swing on your refrigerator if there's no food in the door to come tumbling out on top of you. It's also worth unplugging it so that you don't waste power while the doors are off. You could consider changing the swing on your fridge door at the same time as de-icing or repairing it when the fridge will be turned off anyway. If the fridge is in a tight spot, it may be easier to move it to allow yourself enough space to work.
+
+### Step 2: Unbolt the Bracket
+
+Use a wrench to unscrew the door hinge and put it somewhere safe. You may need to remove the door trim first to gain access. Once the hinge is off, you can unscrew the top bracket from the refrigerator and lift the door upwards until it's free of the bottom hinge.
+
+### Step 3: Switch the Bottom Bracket and Hinge
+
+Remove the bottom bracket and hinge and reattach them on the opposite side using the outermost hole. Some larger fridge models have additional brackets. If that’s the case, you'll need to relocate these at the same time.
+
+### Step 4: Reposition the Handle and Replace the Door
+
+Next, remove any trim covering the screws on the door handles and then unscrew them. You can then move the handles to the opposite side and screw them in tightly. Slide the fridge door back onto the lower hinge to reattach it.
+
+### Step 5: Reattach the Top Bracket and Hinge
+
+Finally, replace the top bracket and hinge opposite their original location and replace any plastic trim. Most reversible door refrigerators allow you to simply transfer the bracket and hinge from one side to the other, but you may need to invert it. It's worth checking the manufacturer's instructions to find out which way to attach the bracket and hinge to save time.
+
+Once you've finished reversing your fridge door, check that the door swings correctly and closes tightly. You can then plug in and restock your refrigerator.
+
+**More Related Articles:**
+
+*   [Will the Fridge Fit? How to Measure a Refrigerator](https://www.homeserve.com/en-us/blog/how-to/measure-refrigerator/)
+*   [How Do I Reset My Samsung Refrigerator?](https://www.homeserve.com/en-us/blog/how-to/reset-samsung-refrigerator/)
+*   [Ever Cleaned Your Refrigerator Coils? Sure, We Believe You (But Here’s How, Just in Case)](https://www.homeserve.com/en-us/blog/how-to/clean-refrigerator-coils/)
+*   [How to Organize Your Fridge in 5 Steps](https://www.homeserve.com/en-us/blog/how-to/fridge-organization/)
+*   [Fridge Filthy? Here’s Your 7-Step Deep-Cleaning To-Do List](https://www.homeserve.com/en-us/blog/how-to/refrigerator-cleaning/)
+
+How Do You Reverse Fridge Freezer Doors?
+----------------------------------------
+
+If you have a fridge freezer that opens on a hinge and want to reverse both doors, you can use the basic steps above for how to adjust a refrigerator door. When you take off the doors, start by removing the top bracket and hinge on the freezer door and then lifting the door up and away from the middle bracket to detach it. You can then remove the middle bracket, allowing you to lift the fridge door off. Replace the brackets in the order that you removed them (from the bottom up), reattaching the fridge door before reattaching the freezer door.

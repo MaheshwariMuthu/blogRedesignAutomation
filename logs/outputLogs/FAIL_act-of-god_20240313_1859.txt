@@ -1,0 +1,137 @@
+Browser Used: firefox
+
+Article Page URL:  https://contentful-blogs-dev.netlify.app/blogs/home-improvement/act-of-god
+
+Article title <What Is an 'Act of God' Where Homeownership Is Concerned?> MATCHED
+
+Article author <Team HomeServe> MATCHED
+
+Article publishDate <October 24, 2021> MATCHED
+
+Article image <https://library.homeserve.com/m/25e56009bbccf104/Blog-GettyImages-177321396.jpg> MATCHED
+
+Block1_Paragraph 1 MATCHED
+
+	Homeowners insurance policies provide financial coverage in the event of common disasters like fires, floods and theft. The amount of coverage and the specific issues covered depend on the specifics of each policy.
+
+Block1_Paragraph2_link 1 MATCHED
+
+	How Much Does Homeowners Insurance Cost?|https://www.homeserve.com/en-us/blog/cost-guide/homeowners-insurance/
+
+Block1_Paragraph 2 NOT MATCHED
+
+	This May Also You: How Much Does Homeowners Insurance Cost?
+
+	This May Also Interest You: How Much Does Homeowners Insurance Cost?
+
+Block1_Paragraph 3 MATCHED
+
+	So, what is an “act of God” where homeownership is concerned? It's a common question, and whether you're a first-time homebuyer looking into purchasing coverage or a seasoned homeowner dealing with damage from a recent natural disaster, this guide should give you an overview of what you need to know.
+
+Heading 1: < What Is the Definition of an Act of God in Terms of Homeowners Insurance? > MATCHED
+
+Block2_Paragraph1_link 1 MATCHED
+
+	Policy Genius|https://www.policygenius.com/homeowners-insurance/what-is-an-act-of-god-in-homeowners-insurance/
+
+Block2_Paragraph 1 MATCHED
+
+	According to Policy Genius, an act of God is any type of natural event that is considered out of human control. Common acts of God covered in standard insurance policies include hurricanes, wildfires and hailstorms, while complex disasters, such as earthquakes and severe flooding, are generally not covered.
+
+Heading 2: < What Are Some Examples of an Act of God? > MATCHED
+
+Block3_Paragraph 1 NOT MATCHED
+
+	Examples of some common acts of God
+
+	Examples of some common acts of God include:
+
+Block3_List 2 MATCHED
+
+	Wildfires
+Earthquakes
+Volcanic eruptions
+Windstorms
+Hailstorms
+Major ice storms
+Flooding
+Lightning storms
+
+Heading 3: < Is ‘Force Majeure’ the Same as an Act of God? > MATCHED
+
+Block4_Paragraph1_link 1 MATCHED
+
+	Lien Zone|https://www.thelienzone.com/force-majeure-contracts/
+
+Block4_Paragraph 1 MATCHED
+
+	According to the Lien Zone, the term “force majeure” refers to events caused by human error and human acts. Examples of force majeure acts include electrical system failure, terrorist acts, acts of war and labor disputes.
+
+Block4_Paragraph 2 MATCHED
+
+	While a common belief is that force majeure acts and acts of God are one and the same in terms of insurance policies, the two phrases have different meanings. Acts of God, in terms of insurance policies, are situations that occur in which humans have no control over and no ability to control, like the natural disasters we mentioned.
+
+Block4_Paragraph 3 MATCHED
+
+	Force majeure clauses in contracts and insurance policies free parties from personal liabilities and contractual obligations when an extraordinary event caused by a person or persons occurs that is out of their control.
+
+Block4_Paragraph 4 MATCHED
+
+	For example, if a strike, riot or system failure directly resulted in a business owner being unable to pay their insurance premiums, the business owner would not be liable due to the force majeure clause. Force majeure provisions are often included in commercial contracts. These provisions specifically state the obligations of all parties if they are no longer able to fulfil their contractual obligations.
+
+Block4_Paragraph 5 MATCHED
+
+	More Related Articles:
+
+Block4_List6_link 1 MATCHED
+
+	Earthquake Insurance: What It Covers and How Much It Costs|https://www.homeserve.com/en-us/blog/home-improvement/what-is-earthquake-insurance/
+
+Block4_List6_link 2 MATCHED
+
+	Flood Insurance: What Does It Cover and How Much Does It Cost?|https://www.homeserve.com/en-us/blog/home-improvement/what-is-flood-insurance/
+
+Block4_List6_link 3 MATCHED
+
+	Homeowners Vs. Renters Insurance: What’s the Difference?|https://www.homeserve.com/en-us/blog/home-improvement/homeowners-vs-renters-insurance/
+
+Block4_List6_link 4 MATCHED
+
+	How to Do a Home Inventory Before Disaster Strikes|https://www.homeserve.com/en-us/blog/how-to/create-home-inventory/
+
+Block4_List6_link 5 MATCHED
+
+	Got Plumbing Problems? Here’s What Plumbing Issues Homeowners Insurance Covers … and What It Doesn’t|https://www.homeserve.com/en-us/blog/buying-guide/plumbing-system-home-warranty-coverage/
+
+Block4_List 6 MATCHED
+
+	Earthquake Insurance: What It Covers and How Much It Costs
+Flood Insurance: What Does It Cover and How Much Does It Cost?
+Homeowners Vs. Renters Insurance: What’s the Difference?
+How to Do a Home Inventory Before Disaster Strikes
+Got Plumbing Problems? Here’s What Plumbing Issues Homeowners Insurance Covers … and What It Doesn’t
+
+Heading 4: < What Kind of Insurance Policy Covers Acts of God? > MATCHED
+
+Block5_Paragraph 1 MATCHED
+
+	Typically, a standard homeowners insurance policy should cover common acts of God that include lighting strikes, thunderstorms and windstorms, hailstorms and wildfires. The two major acts of God that are not usually covered in homeowners insurance policies are flooding and earthquakes.
+
+Block5_Paragraph 2 MATCHED
+
+	When an insurance policy does not cover certain acts of God, you can purchase an add-on or rider to ensure that you're covered in the event of a disaster. Common add-on policies include earthquake insurance, sinkhole insurance, flooding insurance and tornado insurance.
+
+Heading 5: < Does My Insurance Policy Cover Acts of God? > MATCHED
+
+Block6_Paragraph1_link 1 MATCHED
+
+	Insure.com|https://www.insure.com/home-insurance/homeowners-insurance-policy.html
+
+Block6_Paragraph 1 MATCHED
+
+	In most cases, standard homeowner insurance policies have common acts of God clauses that provide coverage for certain types of fires, hailstorms, thunderstorms, windstorms and hurricanes. To find out exactly what your insurance policy covers, Insure.com says you can start by reading your policy's declaration page.
+
+Block6_Paragraph 2 MATCHED
+
+	The declaration page on an insurance policy names the insured individuals, along with their insurance agent and lenders (when applicable). It clearly lists all areas of coverage, premium amounts, deductibles and discounts, making it easy for policyholders to determine which acts of God are covered. Declaration pages provide a wide range of information, so be sure to consult with your insurance agent if you are unclear on coverage specifics.
+

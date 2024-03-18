@@ -1,0 +1,109 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Baseboard Installation: How to Install a Baseboard"
+headline: "How to Install Baseboards: A 7-Step Guide"
+author: Mark Soto
+tags: ["post"]
+publishDate: 2021-04-28
+basePath: https://library.homeserve.com/m/
+heroImage: 3ad227ea6b795c74/webimage-BaseBoards_MSchmitz_0001.jpg
+heroAltDescription: "indoor hallway baseboard"
+metaDescriptions: "The process to install baseboards isn't complicated, but you'll need the right tools. Learn how to install baseboards with this step-by-step guide."
+articleAbstract: "Adding or replacing baseboards is a simple enough DIY task, so long as you have a miter saw at your disposal. While the baseboard installation process isn’t difficult, the most challenging part is measuring and cutting the trim at the correct angles. Here's a step-by-step guide."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Install Baseboards"
+  parent: Interior-Home-How-To
+---
+  
+
+**Baseboard Installation at a Glance**
+
+* **Tools & equipment:** Angle ruler, tape measure, miter saw, nail gun, spackle, caulk, trim
+* **Step 1:** Measure room
+* **Step 2:** Cut trim
+* **Step 3:** Cut and add returns
+* **Step 4:** Nail pieces to wall
+* **Step 5:** Spackle nail holes
+* **Step 6:** Caulk gaps
+* **Step 7:** Paint
+
+Baseboards make a room look complete. They’re more than just an aesthetic feature; they also cover the joints between the floors and walls. Baseboards are a lot like crown molding, but they tend to be less elaborate design-wise — they are placed well below your line of sight, after all.
+
+**This May Also Interest You:** [**How Much Does It Cost to Install Crown Molding?**](https://www.homeserve.com/en-us/blog/cost-guide/crown-molding-installation/)
+
+Adding or replacing baseboards is a simple enough DIY task, so long as you have a miter saw at your disposal. While the installation process for baseboards isn’t difficult, the most challenging part is measuring and cutting the trim at the correct angles.
+
+Types of Baseboards
+-------------------
+
+Before buying the trim, you should consider several different styles and materials based on the walls and floors of your home. Some of the most commonly used materials for baseboards are PVC, hardwood and vinyl. A few of the various styles are flat, stepped, sculpted mid-height and taller sculpted baseboards. Each of these provides a different look, so choose the one that is best suited for the room it’s placed in.
+
+Tools Needed
+------------
+
+While the installation process isn’t complicated, you will need specific tools to do the job correctly and efficiently. As always, take precautions while working. Safety should be a top priority whenever doing any DIY project. Make sure to wear safety glasses and gloves, especially while operating the saw.
+
+To install baseboards, you’ll need:
+
+*   Angle ruler
+*   Tape measure
+*   Miter saw
+*   Nail gun
+*   Spackle
+*   Caulk gun
+*   CA Glue
+*   Trim (baseboards)
+
+How to Install Baseboards
+-------------------------
+
+Follow these seven baseboard installation steps:
+
+### 1\. Measure Twice...
+
+Before you even buy the material, you need to know how much you will need. Carefully measure the dimensions of the room you plan to install baseboards in it. As the old adage goes, you should always measure twice to prevent any mistakes when it comes time to cut. Once you’ve measured the space, you’re ready to buy the material. You should buy extra in case you make any mistakes while cutting the pieces. You can find baseboards at your local hardware store, big-box store or online.
+
+<img class="detail-image" src="https://library.homeserve.com/m/25f956bcf39c097e/Blog-ShiplapInstall_Erossi_3627.jpg" alt="worker uses a battery-powered Milwaukee miter saw to make cuts on primed shiplap boards"/>
+
+### 2\. ...Cut Once
+
+At this point, you should use your angle ruler to measure the angles of the corners. In theory, corner angles should be 90 degrees, but that’s not always the case in practice. Similarly, if your trim runs into the door, the point where it meets may not be a straight 90-degree angle. For odd angles, [Nassrin’s DIY recommends](https://youtu.be/s8xFxdsi5Pk?t=150) using an angle ruler. Measure the corner, then place it against the baseboard and mark the spot. You can later use this mark to cut it using the miter saw. By measuring and cutting trim at precise angles, you’ll get a much cleaner installation. If you don’t have an angle ruler, it’s fine to assume the angle is 90 degrees.
+
+For inside corners, you’ll want to cut the two pieces of trim at 45-degree angles. According to [woodworker Wes Hamstra’s tutorial](https://www.youtube.com/watch?v=jjurVQ1NkWw&t=87s), place the trim on your saw table and cut it at a 45-degree angle. Cut the second piece of trim at a 45-degree angle on the side where it will meet the first piece. If you have to make a cut where the trim meets the door, you can either do a straight cut or cut at an odd angle, depending on how they meet.
+
+<img class="detail-image" src="https://library.homeserve.com/m/4f4fe63cc6194cb0/Blog-GettyImages-179582551.jpg" alt="New skirting board"/>
+
+### 3\. Cut the Corners
+
+It might be tempting to leave the sides of the outside corner pieces the way you cut them and simply paint them to match. However, for appearance’s sake, it’s worthwhile to cover the raw edge with what is called a “return.” To [make a return](https://youtu.be/jjurVQ1NkWw?t=147), simply cut off a small piece of the trim at a 45-degree angle. Then, use CA glue to glue it onto the end of the larger piece of trim facing the other direction.
+
+**More Related Articles:**
+
+*   [What Is Wainscoting?](https://www.homeserve.com/en-us/blog/home-improvement/wainscoting/)
+*   [How Much Does Drywall Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-is-the-cost-of-drywall/)
+*   [How to Hang Drywall: A 7-Step Overview](https://www.homeserve.com/en-us/blog/how-to/how-to-hang-drywall/)
+*   [Ensure Your Shiplap Walls Are Shipshape With This Step-by-Step Installation Guide](https://www.homeserve.com/en-us/blog/how-to/shiplap-wall-installation/)
+*   [How to Fix a Hole in the Wall like a Pro](https://www.homeserve.com/en-us/blog/how-to/fix-hole-wall/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/58617066e8496fc9/Blog-PnumaticNailer_Erossi_3648.jpg" alt="close up of a pneumatic nailer being used to mount shiplap to a wall "/>
+
+### 4\. Nail in Place
+
+After the baseboards are all cut, it’s time to nail them. A nail gun is the best tool to use for this; a hammer can damage the trim if you’re not careful. Place the baseboards against the wall and add nails to the bottom and top portion of the baseboard. Each nail should be spaced out about 16 inches. Use a stud finder to find where to start nailing the top portion, then put a nail every 16 inches in either direction from there. Do the same for the bottom of the trim.
+
+### 5\. Spackle the Nail Holes
+
+After you have nailed the baseboards to the wall, you’ll probably notice a lot of nail holes. Spackle is the best material to use to fill them. Other materials shrink with time, so there will be noticeable dents in your baseboards when you paint them. Use a spackle knife to apply the spackle and make it level. You can also use your finger to add the spackle to the holes.
+
+### 6\. Caulk Gaps
+
+Use caulk to fill up any gaps and small cracks. Add caulk across the top of the trim and in any gaps you find in between. Smooth and flatten the caulk using your finger or knife to give it a sharper look.
+
+### 7\. Paint
+
+Depending on the type of trim you bought, you might want to paint it after you install it. Painting the trim isn’t complex, but you should be cautious in order to get a professional look. Some baseboards come pre-primed, so figure out whether you will need to prime your trim before painting it. You should also research what type of paint works best on the type of baseboards you bought.
+
+You will first need to wait for the caulk to dry. Depending on the type you buy, this can take 30 minutes to an hour or more. Once it’s dry, add painter’s tape to the floor and the wall to avoid getting paint everywhere. Paint across the trim using long strokes.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._

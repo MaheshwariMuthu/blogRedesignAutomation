@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Insulate Window Air Conditioner and How to Insulate Wall Air Conditioner"
+headline: "How to Insulate a Wall or Window AC Units for Winter"
+author: Mark Soto
+tags: ["post"]
+publishDate: 2022-02-23
+basePath: https://library.homeserve.com/m/
+heroImage: 58b0637dc7ecc1f2/Blog-FrigidaireWindowACUnit_AWiesen_012.jpg
+heroAltDescription: "window ac unit"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "To prevent unnecessary heat loss, it’s essential to insulate your window or wall AC units. Here's how."
+articleAbstract: "To prevent unnecessary heat loss and save money on your utility bills, it’s essential to insulate your window or wall AC units. Here's how."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Insulate a Wall or Window AC Units for Winter"
+  parent: HVAC-How-To
+---
+  **Insulating a Window or Wall AC Unit at a Glance**
+
+* **Step 1:** Measure
+* **Step 2:** Cut foam
+* **Step 3:** Add foam panels
+* **Step 4:** Cover outside of unit
+
+Once winter arrives, insulating a window or wall air conditioner is an important maintenance task to keep your unit safe during the colder months. While standalone air conditioners have advantages (and disadvantages) over central air conditioning systems, one of the downfalls is the openings they leave in your windows or walls. Heat loss that occurs due to the open spaces of these AC units can be quite high.
+
+**This May Also Interest You:** [**What Happens If You Leave Your Window AC Unit in All Winter?**](https://www.homeserve.com/en-us/blog/home-improvement/window-ac-unit-during-winter/)
+
+To prevent unnecessary heat loss and save money on your utility bills, it’s essential to insulate the unit. There are some differences between insulating a window air conditioner and a wall unit, but they’re relatively minimal.
+
+While a draft coming from a standalone unit in the living room might not be too noticeable, it’s a different scenario when you have it in a bedroom. Here are the exact steps you should take to insulate a window or wall unit.
+
+### 4 Steps to Insulate a Window or Wall Air Conditioner
+
+### Step 1: Measure
+
+To insulate the unit, you need to buy flexible foam insulation material that goes around the entire air conditioner and prevents air leaks. For a window AC, use a measuring tape to measure the length needed for the foam panel above the appliance and the width for both the sliders. While it can be tempting to cut the same size for the slider panel, that’s a mistake; a window air conditioner isn’t always centered in the middle, so the width for the other slider might be slightly different.
+
+For wall air conditioners, simply measure the AC unit width, length and height. For this type of unit, you will add foam panels that cover the entire unit instead of just the sliders and the top part of a window-mounted unit.
+
+### Step 2: Cut the Foam
+
+Once you have the measurements, use a ruler and marker to mark a line on the insulation foam material to cut. You should always try to mark a longer piece than what you might need according to the measurements since the foam can always be squished down to fit. On the other hand, if you don’t cut it long enough, this can cause air to seep out or in.
+
+Depending on the material you use, you can either use scissors or a box cutter to cut it. With the lines marked, carefully cut across horizontally and vertically. Try to maintain good precision with your cuts so that you don’t end up with too short or too long a panel.
+
+For a window unit, you will need to cut three panels: two for each side and one for the top portion. For wall units, you will need to cut five panels: one for the top, one for the bottom, two for the sides and one for the front.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [Hot or Cold in Your Household? Split the Difference With a Mini Split Air Conditioner](https://www.homeserve.com/en-us/blog/buying-guide/mini-split-air-conditioner/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+
+### Step 3: Add the Foam Panels
+
+After you have the panels ready, stick them to the air conditioner and sides using duct tape. Some foam panels come with adhesive, but they might not always be sticky enough to hold up for long. To ensure it’s secured, use duct tape.
+
+### Step 4 (Optional): Cover the AC Unit From the Outside
+
+This step is optional because you might not be able to reach your AC unit from the outside. If you have a wall AC at a height that you can safely reach, you can follow similar steps to insulate it from the outside. This involves creating a similar foam box and covering the outside portion of the air conditioner on all sides. It helps increase the efficiency of the insulation and keeps the cold air from coming in through the unit. While it’s not necessary to do (and it might not even be possible if you’re on a second floor or higher), it’s worth the extra effort.
+
+While you can also do this for window AC units, you might be better off just removing them completely for the winter.
+
+### Other Ways to Insulate AC Units
+
+There’s more than one way to insulate an AC unit. A simpler way is by essentially using an insulation cover. The main problem with only using an insulation cover is that they don’t cover the sides. The majority of the heat loss that occurs comes from spaces in the sides of the window units and not necessarily the AC itself.
+
+While an insulation cover is a great addition to your task, it shouldn’t be treated as an overall solution. Instead, adding a cover to your AC during the winter should be an additional step to help minimize any open areas and increase efficiency. Plus, they aren’t always the most aesthetically pleasing.
+
+If you have a window air conditioner, the best thing to do is simply remove it. While you can’t do this for a wall unit, a window AC unit should be removed once winter arrives. While it can be a pain depending on how heavy it is or how it was installed, the amount of money saved on heating costs alone is worth the added effort. It’s also probably more work to insulate the unit than it is to simply remove it.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

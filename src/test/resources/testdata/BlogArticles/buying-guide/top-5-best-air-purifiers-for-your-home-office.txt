@@ -1,0 +1,102 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Top 5 Best Air Purifiers for Your Home Office"
+headline: "5 Best Air Purifiers for Your Home Office"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-02-01
+basePath: https://library.homeserve.com/m/
+heroImage: 45c555a96a748b0d/Blog-GettyImages-1164496581.jpg
+heroAltDescription: "A woman working with a laptop on her black leather couch while a white air purifier runs in the foreground"
+metaDescriptions: "Considering buying an air purifier for your home office? Learn which are the best air purifier brands for your needs."
+articleAbstract: "Considering buying an air purifier for your home office? Learn which are the best air purifier brands for your needs."
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "Top 5 Best Air Purifiers for Your Home Office"
+  parent: Appliances-Buying-Guide
+---
+
+Now that more people than ever are working from home, setting up a comfortable and functional home office has become a top home improvement task. While many people will take design and decor into account while planning this space, an often overlooked aspect of home-office planning is the air quality. More than likely, this is the room you occupy the most (after your bedroom), so the air you breathe while working should be a top concern.
+
+**This May Also Interest You:** [**5 Tips for Fresher Indoor Air This Winter**](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+
+That being said, it's important to understand what air filters can and cannot do.
+
+## Do Air Purifiers Work?
+
+Because large particles in your home fall to the ground and other surfaces quickly, it's unlikely that an air purifier will be able to catch them. This includes mites and mold particles. However, smaller particles that stay airborne such as those from cigarette smoke, VOCs (volatile organic compounds), pollen and dust, can indeed be sucked into an air purifier and captured by its filter.
+
+Of course, the amount of air cleaned by an air filter depends on the model you choose and the features it has, but overall, there is enough research to prove that high-quality air purifiers do work well to improve air quality, allergy and asthma symptoms, and even [vascular health](https://pubmed.ncbi.nlm.nih.gov/17932377/).
+
+## What to Look for in an Air Purifier
+
+First, you'll likely want to choose an air purifier with a HEPA filter system. HEPA stands for high-efficiency particulate air, and, according to many studies, these filters reduce the particles in your air by 50 percent or more, according to [several studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4587002/).
+
+You'll also want to look for air purifiers with washable pre-filters, which scrub the air before it hits your HEPA filter, not only providing cleaner output, but lengthening the life of your filter, which typically needs to be changed every six months to a year.
+
+## What to Avoid
+
+Many air purifiers will tout features that are not necessarily effective. According to Consumer Reports, ultraviolet light filtration doesn't really work because the particles it claims to kill, such as viruses and fungal spores, are not exposed to the light long enough.
+
+The organization also warns against filters that create ozone, a potentially harmful molecule that doesn't seem to zap indoor contaminants. In addition to purifiers that produce ozone directly, those that use electronic precipitators and ionizers can produce ozone as well and are best avoided, as are machines that use a technology called photocatalytic oxidation (PCO or PECO).
+
+Finally, you might see filters advertising activated charcoal filters. While they can be effective and certainly can't hurt, the thickness of these filters is rarely enough to remove odor particles from the air, which is their main claim.
+
+## Top 5
+
+Here are our recommendations for the best air purifiers on the market in 2020:
+
+### [1\. Blue Pure 211+ Air Purifier](https://www.blueair.com/us/air-purifiers/blue-pure-211-plus/1695.html)
+
+Best Air Purifier: Overall
+
+Price: $299
+
+This model tops our list as the best air purifier because it hits the sweet spot between price and performance. It also tops Consumer Report's list at being especially effective at doing what it's designed to do: cleaning the air, either at high or low speed. It has a machine-washable pre-filter which boosts its ability to catch larger particles and can help the main filter last longer. A nice touch is that the pre-filter also serves as the grill on the front of the unit and you can choose from a range of vibrant colors to match your decor. On top of that, the air in your room will also go through two additional filters, one carbon and the other HEPA.
+
+This air purifier is Energy Star certified, so it will save you money on your electric bill over the long haul. On the down side, the filter can be a bit noisy on high speed, but because it is meant for rooms up to 540 square feet, you should be able to place it far enough away from where you sit for that not to be an issue.
+
+### [2\. Alen BreatheSmart Classic Air Purifier](https://alen.com/products/alen-breathesmart-hepa-air-purifier?gclid=CjwKCAjw-5v7BRAmEiwAJ3DpuJS2ZkVHJLnGiy088PDaeP3bEi2kwZVhlPzIbFwpWJmr0rKmQsaeahoCI5MQAvD_BwE)
+
+Best Air Purifier: Large Rooms
+
+Price: $769
+
+This air purifier from Alen is unique in that it lets you choose the type of filter material you'd like it to contain. All the filters are HEPA, but they offer four categories. "Fresh" is good at zapping cooking odors, smoke and VOCs; "Pet" sucks in more dander and pet odors; "Heavy Odor" works on strong smells like those from diapers; and "Pure" is the base level which, as with all the others, works on allergens, dust, mold, bacteria and more.
+
+This air purifier also features a light ring around the main power button that changes color to let you know the state of the air in your room. The BreatheSmart can work in rooms up to a whopping 1,300 square feet, so it's best for people whose home office is located in a section of a large room. At its highest setting, even in a room that size, Alen claims the air will be changed every 30 minutes and indeed, independent testing backs that up.
+
+### [3\. Honeywell HPA 300](https://www.honeywellstore.com/store/products/hpa300-true-hepa-whole-room-air-purifier-with-allergen-remover.htm)
+
+Best Air Purifier: Average-Sized Rooms
+
+Price: $262
+
+This Honeywell model changes the air an impressive five times an hour in a room sized up to 465 square feet, which makes it a great choice for small to average-sized rooms. This claim is backed up through the AHAM Verifide program, an independent testing program from the Association of Home Appliance Manufacturers. On top of that, it is also Energy Star certified, making it friendly on your power usage.
+
+It has a ribbed, curved design that gives it a modern look, and it's noted for quiet operation, even at high speed. Four speed levels, including "Turbo" lets you ramp things up if the air is in need of quick cleaning, and lower back down for normal operation.
+
+As with other air purifiers on this list, it has a pre-filter that catches larger particles and a HEPA filter for the rest. The pre-filter isn't washable though, and should be replaced every three months; this adds a little to the cost of operating this unit. The HEPA filter only needs replacement once a year though, which helps even it out.
+
+### [4\. Dyson Pure Hot+Cool Cryptomic HP06](https://www.dyson.com/air-treatment/purifiers/dyson-pure-hot-cool-cryptomic/dyson-pure-hot-cool-cryptomic-gunmetal-bronze)
+
+Best Air Purifier: Multi-Use
+
+Price: $749
+
+If the name of this air purifier seems like mouthful, that's because this gizmo does a lot. It not only purifies your air, but it uses Dyson's trademark bladeless fan to shoot that air back into your room on either a heat or cool setting that can help you get the temperature right in your room. It uses a charcoal and HEPA filter system, but in this case, the filters are round instead of flat, which offers the benefit of the device being able to pull in air from a circular pattern around it.
+
+What truly sets this apart though, is the purifier's Cryptomic system. This is a permanent filter that mimics the structure of cryptomelane, a mineral criss-crossed with microscopic tunnels. Dyson claims, and has backed up with testing, that this allows the purifier to continuously remove formaldehyde from the air, something no other purifier on the market can claim. There is some debate about whether or not formaldehyde in the home is a true threat, so read up before splurging on this expensive unit if you feel it's something that concerns you.
+
+### [5\. Levoit Core 300](<https://www.levoit.com/allproducts/core300-true-hepa-air-purifier>)
+
+Best Air Purifier: Budget
+
+Price: $99
+
+It's hard to beat this air filter in terms of what it can do and how cheaply it can do it. If the room where you want to put an air purifier is 215 square feet or less, this model is probably the one you'll want. It employs a pre-filter, HEPA filter, and activated carbon filter to get your air clean and, like the Honeywell, it changes the air in a room five times in one hour.
+
+It's also going to be efficient to operate thanks to its Energy Star rating, and it meets CARB compliance, which is a new 2020 law put forth by the California Air Resources Board to certify that air purifiers don't give off harmful ozone. On top of that, the purifier also has impressive CADR ratings, [a measurement provided by AHAM](https://ahamverifide.org/ahams-air-filtration-standards/) that certifies how quickly an air purifier cleans the air.
+
+*While air purifiers can certainly help improve the environment in individual rooms, keeping your home's HVAC system in top working order — with [filters that are changed regularly](https://www.homeserve.com/blog/2018/march/how-to-change-a-furnace-filter) — can help to boost your indoor air quality as well. Being prepared with a plan from [HomeServe](https://www.homeserve.com/) brings peace of mind. If something goes wrong with your heating or cooling home systems, you can simply call the 24/7 repair hotline. A local, licensed and expert contractor will be sent out to you to get the job done to your satisfaction. See what plans are available in your area.*
+

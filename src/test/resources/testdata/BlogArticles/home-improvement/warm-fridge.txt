@@ -1,0 +1,79 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is My Fridge Warm?"
+headline: "Here's Why Your Fridge Is Warm — and How to Fix It"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-01-11
+basePath: https://library.homeserve.com/m/
+heroImage: 189e8b8b20cf2308/Blog-FridgeSerialNumber_MSchmitz_0001.jpg
+heroAltDescription: "A refrigerator door is open to reveal food inside as well as where you can find the silver placard with the serial number and model number of the appliance."
+metaDescriptions: "Find out why your fridge isn't cooling correctly, plus some DIY ways to fix it."
+articleAbstract: "A warm fridge can cause your food to go bad, increasing the risk of food poisoning. Here’s how to fix a warm fridge yourself and when to call a professional."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My Fridge Warm?"
+  parent: Appliances
+---
+  A fridge that doesn't cool properly is a common household annoyance. A warm fridge can cause your food to go bad, increasing the risk of food poisoning. Furthermore, it could cost you a significant amount of money if you have to replace all the food and drink inside your fridge.
+
+**This May Also Interest You:** [**What Temperature Should Your Fridge Be?**](https://www.homeserve.com/en-us/blog/home-improvement/refrigerator-temperature/)
+
+Here’s how to fix a warm fridge yourself and when to call a professional.
+
+What Would Cause a Refrigerator to Stop Getting Cold or Become Warm?
+--------------------------------------------------------------------
+
+### It’s Too Full
+
+A refrigerator keeps your food cold by circulating air cooled by the evaporator coils. One of the most common causes of a warm fridge is overfilling it with food. Air can't circulate properly when you stuff your fridge to the rafters, making it hard for your system to maintain a safe food storage temperature.
+
+### Something’s Wrong With the Evaporator
+
+If you have a warm fridge that isn't overfilled, chances are there's an issue with your evaporator coils or evaporator fan. A faulty defrost function can cause the evaporator coils to clog up with frost and stop cooling your fridge correctly. A damaged or frosted evaporator fan won't circulate air efficiently and could also cause your fridge to warm up.
+
+### The Control Board is Acting Up
+
+A warm refrigerator could signify a faulty electrical control board. Your fridge's control board communicates with heat sensors to control the internal temperature. If the control board isn't working correctly, it may not adjust the temperature appropriately to keep your fridge cool enough to store food safely.
+
+Why Is the Freezer Cold but the Fridge Is Warm?
+-----------------------------------------------
+
+### The Vents Are Blocked
+
+Fridges with integrated freezers stay cool thanks to cold air from the freezer section. Vents allow the cold air to escape from the freezer, and the fan circulates the cold air inside your fridge. If you have a warm fridge, but your freezer is still cold, your first port of call should be to check if your freezer is overloaded. Overfilling your freezer can block the vents and prevent cold air from reaching the fridge.
+
+### Or, It’s That Darn Evaporator Again...
+
+Like a regular fridge, a faulty evaporator fan or frozen evaporator coils can cause a warm fridge compartment, even if the freezer compartment remains cold. A problem with your freezer's defrost system can cause your fridge's evaporator coils and other components to ice over, preventing it from cooling correctly.
+
+**More Related Articles:**
+
+*   [How to Clean Your Icemaker and Change the Filter](https://www.homeserve.com/en-us/blog/how-to/clean-icemaker-filter/)
+*   [Ever Cleaned Your Refrigerator Coils? Sure, We Believe You (But Here’s How, Just in Case)](https://www.homeserve.com/en-us/blog/how-to/clean-refrigerator-coils/)
+*   [We Gotta Move These Refrigerators: A Step-by-Step Guide to Moving Your Fridge](https://www.homeserve.com/en-us/blog/how-to/move-refrigerator/)
+*   [Fridge Filthy? Here’s Your 7-Step Deep-Cleaning To-Do List](https://www.homeserve.com/en-us/blog/how-to/refrigerator-cleaning/)
+*   [Iced Out? Why Your Fridge Is Freezing Over](https://www.homeserve.com/en-us/blog/home-improvement/ice-buildup-fridge/)
+
+What Are Some DIY Fixes for a Warm Fridge?
+------------------------------------------
+
+### Sometimes It’s a Simple Solution
+
+Start by checking that the fridge's power supply is switched on and that you haven't accidentally turned the thermostat down.
+
+### Unload Some Items
+
+If the power supply and thermostat setting are OK, take some items out of your fridge to allow more air to circulate. Check the areas around the vents in your freezer compartment and remove any items that could be blocking cold airflow. Close the doors and check the temperature after a couple of hours. If your fridge cools down, you probably just overloaded your fridge.
+
+### Try Cleaning the Fan
+
+Otherwise, check the fan to see if it's in good condition. First, switch off the power supply to your fridge to protect yourself from an electric shock. Pull the refrigerator away from the wall and remove any debris obstructing the fan blades. Clean the blades thoroughly and plug the fridge back in to see if the fan runs correctly. If it doesn't, you'll need to replace the fan.
+
+### Clean the Coils
+
+It's also worth cleaning the evaporator coils to try and get your fridge back to an optimal temperature. Turn the power off and locate the coils beneath or behind the refrigerator unit. Remove any large debris by hand and then vacuum the coils thoroughly to get rid of accumulated dust and dirt.
+
+### If All Else Fails, Call a Technician
+
+If none of these DIY warm fridge fixes work, there could be a problem with your fridge's defrost function or control board. These issues are often too complex to fix yourself, so consider calling a professional technician to get your fridge up and running again.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

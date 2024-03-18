@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What's a Lighting Control System?"
+headline: "What's a Lighting Control System?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-09-20
+basePath: https://library.homeserve.com/m/
+heroImage: 2f90d44981cb0a55/Blog-482662790.jpg
+heroAltDescription: "person using universal tablet remote"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Lighting control systems give you unmatched control over how light operates in your home. Here's everything you need to know. "
+articleAbstract: "Lighting control systems give you unmatched control over how light operates in your home. Here's everything you need to know. "
+category: ["Buying Guide"]
+eleventyNavigation:
+  key: "What's a Lighting Control System?"
+  parent: Electrical-Buying-Guide
+---
+  Lighting is an essential part of any room. The right kind of light can lift your spirits and even make you more productive. That’s why it’s important to consider how light operates in your home. For example, most experts agree that just having one overhead light [doesn’t cut it](https://www.marthastewart.com/2126982/how-to-layer-your-lighting): You need to mix it up with a variety of lighting, like task or accent lighting. Of course, putting additional lighting options throughout your home leads to more to keep up with on a daily basis — not to mention the higher energy bill.
+
+**This May Also Interest You:** [**Light Work: How to Clean Your Light Fixtures**](https://www.homeserve.com/en-us/blog/how-to/clean-lighting-fixtures/)
+
+Looking to upgrade the lighting in your home, but want push-of-a-button simplicity? Consider installing an automated lighting control system to maximize the full potential of your home lighting without sacrificing any control on your part. As a bonus, lighting automation can help reduce energy costs as well.
+
+What Is an Automated Lighting Control System?
+---------------------------------------------
+
+Sometimes referred to as smart lighting, an automated lighting control system is an integrated system of devices that controls a variety of lights (task, accent, ambient, etc.) in a single room or throughout an entire home. These lighting systems can be linked to your home’s Wi-Fi network and remotely operated via smartphone, tablet or another device.
+
+Along with myriad other benefits, controlled lighting gives you the ability to manage the lighting inside and outside your home at the push of a button. Additionally, home lighting automation systems do more than simply light your home; they also easily integrate with other building management systems and other smart home devices. That said, they aren’t without their downsides.
+
+Advantages of Lighting Control Systems
+--------------------------------------
+
+### Convenience
+
+Home lighting automation is an incredibly convenient solution for managing the lighting in your home, allowing you to control lighting from a wall-mounted lighting control panel, remote control, smartphone or tablet. You can even manage your lighting when you’re away, or schedule them to adjust at certain times of the day while you’re at work or on vacation.
+
+### Enhanced Energy Efficiency
+
+With custom home lighting systems, you’ll know when and where your lights are on, allowing you to turn off those that aren’t being used. Moreover, a lighting system can be programmed to match your daily schedule and routines, ensuring that you don’t have any lights turned on when you don’t need them. Using lighting controls like dimmers will help reduce energy costs, too. Reducing the intensity of your lights can impact your energy usage significantly. Plus, dim lighting helps provide a calming environment to help you relax.
+
+### Increased Safety and Security
+
+In addition to being energy efficient, home lighting automation improves the safety and security of your home. An automated lighting system can alternate lights on and off while you’re on vacation, helping to deter break-ins by making it appear like your home is occupied. Additionally, light controls like motion sensors can help keep you safe by turning on lights when you walk through a dark hallway or up and down the stairs in the middle of the night.
+
+**More Related Articles:**
+
+*   [How to Wire a Three-way Light Switch With Multiple Lights](https://www.homeserve.com/en-us/blog/how-to/wire-three-way-light-switch/)
+*   [What Are Watts? Here’s How to Find Out What Watt Lightbulb You Need](https://www.homeserve.com/en-us/blog/home-improvement/what-watt-light-bulb/)
+*   [Why Are My Lights Flickering (And How Do I Get Them to Stop?)](https://www.homeserve.com/en-us/blog/home-improvement/flickering-lights/)
+*   [Recessed Lights or Ceiling Lights? Here’s How to Choose What’s Best for Your Space](https://www.homeserve.com/en-us/blog/home-improvement/recessed-lighting-vs-ceiling-lights/)
+*   [How Much Does It Cost to Install a Ceiling Light?](https://www.homeserve.com/en-us/blog/cost-guide/install-ceiling-light/)
+
+Disadvantages of Lighting Control Systems
+-----------------------------------------
+
+### Installation Costs
+
+Despite the long-term energy bill savings, installation costs for automated control lights are still on the more expensive end. According to [Homewyse](https://www.homewyse.com/services/cost_to_install_lighting_control_system.html), the average cost to install a lighting control system is between about $3,600 and $4,500 (CAD 4,700 and CAD 5,900) per system. This price can get even higher depending on the size and scope of your lighting installation. While a high installation price tag does make a lighting control system less cost-effective overall, a lighting system can be an essential addition to any building management system you already have in place.
+
+### Maintenance Costs
+
+Another downside to controlled lighting is the high maintenance and repair costs. When installed correctly, custom home lighting systems can last for years, but when items are damaged or malfunctions occur, repairs are expensive. After all, lighting control systems are complex electronic systems, and in order to repair them, you’ll need the help of a professional.
+
+Getting Control of Your Lights
+------------------------------
+
+Lighting control systems give you unmatched control over how light operates in your home. From improving your home’s security and safety, to increasing your energy efficiency and even augmenting the style and feel of your home, lighting automation offers a unique lighting control solution.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

@@ -1,0 +1,7 @@
+---
+eleventyNavigation:
+  key: Water-Heater-Buying-Guide
+  parent: Buying Guide
+  title: Water Heater
+permalink: false
+---

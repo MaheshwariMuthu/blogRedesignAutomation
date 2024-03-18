@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is My Fridge Leaking?"
+headline: "Why Is My Fridge Leaking?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-07-04
+basePath: https://library.homeserve.com/m/
+heroImage: 1332566b4e8f0554/Blog-LeakyFridge_MSchmitz_0001-copy.jpg
+heroAltDescription: "A puddle sits on the gray hardwood floor underneath a stainless steel refrigerator in a modern domestic kitchen"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A leaking fridge can be a minor concern or a major issue if it causes food to begin to rot. Here's why your fridge may be leaking and how to fix it."
+articleAbstract: "A leaking fridge can be a minor concern or a major issue if it causes food to begin to rot. Here's why your fridge may be leaking and how to fix it."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is My Fridge Leaking?"
+  parent: Appliances
+---
+  A refrigerator is an essential appliance in any home, keeping our food fresh and our beverages cold. Usually, it does its important work tirelessly and without fuss. However, sometimes our fridges can start to leak, which can be a minor concern or a major issue if it causes food to begin to rot.
+
+**This May Also Interest You:** [**What Temperature Should Your Fridge Be?**](https://www.homeserve.com/en-us/blog/home-improvement/refrigerator-temperature/)
+
+That's why it's important to address this issue promptly to prevent further damage to your appliance and the surrounding area. Here are some common reasons why your fridge may be leaking and a few potential solutions you can try.
+
+Leveling
+--------
+
+One of the most frequent causes of a leaking fridge is a buildup of water inside the unit. There are several possible explanations for this occurrence. Firstly, check if your fridge is properly leveled. If it's tilting too far forward, water may not flow toward the back, causing it to accumulate and eventually leak. Adjusting the leveling legs or using shims to achieve a balanced position should resolve this problem.
+
+Frozen Defrost Drain
+--------------------
+
+Another potential culprit is a clogged or frozen defrost drain. During the defrosting cycle, water accumulates in the drain pan and evaporates. However, if the drain is obstructed by food particles or ice, the water can't escape and ends up leaking inside your fridge. To fix this issue, unplug the fridge, locate the drain hole (usually found at the back of the freezer) and use warm water to flush out any debris. A turkey baster can be handy for this task. Once the drain is clear, the leaking should cease.
+
+Leaking Icemaker
+----------------
+
+Sometimes, a refrigerator leak can be traced back to the icemaker or water dispenser. If you have either of these features, check the water supply line for any signs of damage or freezing. A frozen water supply line can lead to pressure buildup, causing leaks. If you find ice formation, defrost the line by using a hairdryer on low heat. Be cautious and avoid melting any plastic components. Additionally, inspect the connections between the water supply line and the fridge, ensuring they are tight and secure. Tightening or replacing faulty connections may resolve the issue.
+
+Leaking Water Dispenser
+-----------------------
+
+A dripping water dispenser is another source of potential leakage. If you notice water dripping from the dispenser even when it's not in use, the problem may lie with the control valve. This valve controls the water flow to the dispenser and can sometimes become defective or loose. To address this, locate the control valve — which is usually found behind the fridge or under the sink — and tighten or replace it as necessary.
+
+**More Related Articles:**
+
+*   [How to Clean Your Icemaker and Change the Filter](https://www.homeserve.com/en-us/blog/how-to/clean-icemaker-filter/)
+*   [Ever Cleaned Your Refrigerator Coils? Sure, We Believe You (But Here’s How, Just in Case)](https://www.homeserve.com/en-us/blog/how-to/clean-refrigerator-coils/)
+*   [We Gotta Move These Refrigerators: A Step-by-Step Guide to Moving Your Fridge](https://www.homeserve.com/en-us/blog/how-to/move-refrigerator/)
+*   [Fridge Filthy? Here’s Your 7-Step Deep-Cleaning To-Do List](https://www.homeserve.com/en-us/blog/how-to/refrigerator-cleaning/)
+*   [Iced Out? Why Your Fridge Is Freezing Over](https://www.homeserve.com/en-us/blog/home-improvement/ice-buildup-fridge/)
+
+Faulty Door Seal
+----------------
+
+The door seal on your fridge is designed to keep the cold air inside and the warm air out. If the door seal is damaged or worn, it can allow warm air to enter the fridge, which can cause condensation to form and eventually lead to leaks. To check the door seal, you can try closing the door on a piece of paper. If the paper can be pulled out easily, the door seal is not sealing properly. You can also try shining a flashlight around the edge of the door to see if there are any gaps or cracks. If the door seal is damaged, you will need to replace it.
+
+Condenser Coils
+---------------
+
+When the condenser coils are dirty or obstructed, they can't efficiently release heat from the refrigerator, resulting in inadequate cooling. As a result, the freezer temperature rises, leading to frost accumulation. Excessive frost formation can cause several issues, including a blocked defrost drain. When the defrost cycle activates, the frost should melt and flow down the drain into the drain pan. However, if the drain is clogged due to ice buildup, the water has nowhere to go and can start leaking inside the fridge, as we mentioned earlier.
+
+To fix clogged condenser coils, first unplug the refrigerator. Then use a vacuum cleaner with a brush attachment or a coil cleaning brush to gently remove dust, dirt and debris from the coils. Work carefully to avoid damaging the delicate fins. After cleaning the coils, vacuum the surrounding area to remove any loose dirt or debris, plug the refrigerator back in, and let it cool down to the desired temperature.
+
+Professional Help
+-----------------
+
+If none of these solutions resolve the issue, it might be time to seek assistance from an appliance repair professional. These trained technicians have the expertise to diagnose and fix complex refrigerator problems. Additionally, they possess the necessary tools and equipment to safely handle repairs.
+
+Knowing when to contact an appliance repair pro is crucial to prevent further damage and avoid potential hazards. If you're experiencing persistent leaks despite trying some of these troubleshooting steps, it's a clear sign that the issue requires professional attention. Similarly, if you're uncomfortable performing repairs yourself or lack the technical knowledge, it's best to leave it to the experts. They can accurately assess the problem and provide the most appropriate solution, ensuring your fridge operates smoothly and efficiently.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Clean Refrigerator Condenser Coils at Home"></iframe>

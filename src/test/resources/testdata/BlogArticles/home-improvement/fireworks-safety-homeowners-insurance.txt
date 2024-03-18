@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Homeowners, Don't Get Burned July 4th: What You Need to Know About Fireworks and Home Insurance"
+headline: "Homeowners, Don't Get Burned July 4th: What You Need to Know About Fireworks and Home Insurance"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-29
+basePath: https://library.homeserve.com/m/
+heroImage: 6a2601436b99406c/Blog-Sparkler_LeonardVonBibraUnsplash_0001.jpg
+heroAltDescription: "sparkler on fire"
+metaDescriptions: "Planning to set off bottle rockets and firecrackers this year? Here are a few things to keep in mind — especially as it relates to your homeowners insurance. "
+articleAbstract: "When fires or injuries occur on your property, your homeowners insurance policy will usually cover you. However, fireworks add another layer of complexity. So if you’re planning to light sparklers or set off bottle rockets and firecrackers this year, here are a few things to keep in mind — especially as it relates to your homeowners insurance. "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Homeowners Need to Know to Not Get Burned by Fireworks on Fourth of July"
+  parent: Exterior-Home-Home-Improvement
+---
+  Fourth of July is _the_ day for fireworks — from large community displays to sparklers in the backyard. Unfortunately, the holiday is also one of the biggest days of the year for property fires. According to the [National Fire Protection Association](https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Seasonal-fire-causes/Fireworks), fireworks cause about $105 million in property damage across 19,500 fires every year.
+
+**This May Also Interest You:** [**What Does Homeowners Insurance Cover … and What Doesn’t It?**](https://www.homeserve.com/en-us/blog/home-improvement/what-does-homeowners-insurance-cover/)
+
+But fires aren’t the only adverse consequences of setting off fireworks in the backyard. In 2019, fireworks were involved in 10,000 injuries, mainly to the eyes and extremities. Data by the [Consumer Product Safety Commission](https://www.cpsc.gov/s3fs-public/2019-Fireworks-Annual-Report.pdf?La_ZzaoEeI_FXhMNJSoIyO8BhrBbcA4B) showed that, in 2019, almost three-quarters of all fireworks-related injuries happened in the few weeks surrounding Independence Day.
+
+When fires or injuries occur on your property, your homeowners insurance policy will usually cover you. However, fireworks add another layer of complexity. So if you’re planning to light sparklers or set off bottle rockets and firecrackers this year, here are a few things to keep in mind — especially as it relates to your homeowners insurance.
+
+Fireworks and Homeowners Insurance: What You Need to Know
+---------------------------------------------------------
+
+If you’re using fireworks, any resulting accidental fires or injuries will be covered by your homeowners (not health) insurance policy, said Scott Holeman, director of media relations at the [Insurance Information Institute](http://iii.org). But if you intentionally set fire to property and it causes damage or injury, your insurance will not protect you — “intentionally” also potentially defined as “recklessly” in cases of incidents resulting from illegal or unsafe fireworks use.
+
+Say a neighbor’s fireworks land on your roof and start a fire in your house. Holeman said _their_ policy should pay for the damage to your property. That said, you may need to file a claim under your own insurance if the fireworks that caused the damage are not legal in your state or city. According to [Forbes](https://www.forbes.com/advisor/homeowners-insurance/fireworks/), your neighbor may be denied liability coverage because they committed an illegal act. If you don’t know who set off the fireworks that caused property damage, you’d also file a claim under your insurance.
+
+Similarly, if _you_ use fireworks that are illegal in your state, you may be liable for any ensuing damage or injury. Your insurance policy won’t cover damage caused by illegal activity. Consumer fireworks are legal in some capacity in most states, but some states have a limited range of varieties available based on local laws. Not sure which fireworks are allowed where you live? Check this list by the [American Pyrotechnics Association](https://www.americanpyro.com/state-law-directory).
+
+Something else to keep in mind is that filing claims usually increases your homeowners insurance premium. According to [Insurance.com](https://www.insurance.com/home-and-renters-insurance/coverage/home-insurance-and-4th-of-july-fireworks.aspx), one fire claim can increase your annual premium by an average of $273. A single liability claim could make your premium jump $260.
+
+Holeman recommends double-checking with your insurer that you’ll be covered in case of a fireworks-related accident. He said you might want to consider an umbrella policy to protect your family. An [umbrella policy](https://www.iii.org/article/what-umbrella-liability) covers you when you reach the cap of the liability coverage provided by your homeowners insurance.
+
+**More Related Articles:**
+
+*   [What’s the Difference Between a Home Warranty and Home Insurance?](https://www.homeserve.com/en-us/blog/buying-guide/home-warranty-home-insurance-differences/)
+*   [How to Do a Home Inventory Before Disaster Strikes](https://www.homeserve.com/en-us/blog/how-to/create-home-inventory/)
+*   [Learn How to Install a Smoke Detector Safely](https://www.homeserve.com/en-us/blog/how-to/install-smoke-detector/)
+*   [How Much Does It Cost to Install a Home Fire Sprinkler System?](https://www.homeserve.com/en-us/blog/cost-guide/residential-fire-sprinkler-system/)
+*   [How to Install a Fire Sprinkler System in Your House](https://www.homeserve.com/en-us/blog/how-to/fire-sprinkler-installation/)
+
+Use Fireworks Safely
+--------------------
+
+The [CPSC](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Fireworks) says the best way to avoid fireworks-related fires, injuries and insurance claims is to take an entirely hands-off approach and attend a professional show. But if you do decide to set off your own fireworks, follow these safety guidelines:
+
+*   Use consumer fireworks that are legal to buy and use where you live. Avoid professional-grade fireworks and homemade or unregulated explosives. Fireworks wrapped in brown paper are often professional-grade fireworks.
+*   Read the label on the fireworks’ packaging and follow the ignition instructions to the letter.
+*   Never allow young children to light fireworks. Older children should only light fireworks with adult supervision.
+*   Don’t light fireworks while impaired.
+*   Light fireworks one at a time, distance yourself after lighting and make sure fireworks are never pointed at a person or structure.
+*   Don’t hold lit fireworks in your hands or light fireworks in any kind of metal or glass container.
+*   Never try to relight malfunctioning, “dud” fireworks.
+*   Take the appropriate wildfire precautions. Do not light fireworks if conditions are especially dry or if local authorities have discouraged it. Have water or a fire extinguisher at the ready.
+*   When you’re done with your home fireworks display, soak both the used and unused fireworks in water for several hours.
+*   Don’t forget that [sparklers can also be dangerous](https://www.nfpa.org/-/media/Files/Public-Education/Resources/Safety-tip-sheets/FireworksSafetyTips.pdf), so supervise children while using them. They burn at extremely high temperatures and can cause severe burns or ignite clothing.

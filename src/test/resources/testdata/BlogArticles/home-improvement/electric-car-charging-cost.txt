@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Charge an Electric Car?"
+headline: "How Will Installing an Electric Vehicle Charging Station Impact My Electric Bill?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-10
+basePath: https://library.homeserve.com/m/
+heroImage: 6e2d7768647c6930/Blog-2018TeslaModel3_LQuiroga-02.jpg
+heroAltDescription: "Blue 2018 Tesla Model 3 in a residential driveway getting charged "
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Understanding how much it will cost to charge your electric car at home can help you figure out if home charging is the right choice for you."
+articleAbstract: "Understanding how much it will cost to charge your electric car at home and how much an electric car could increase your electric bill can help you figure out if home charging is the right choice for you."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Will Installing an Electric Vehicle Charging Station Impact My Electric Bill?"
+  parent: Electrical-Home-Improvement
+---
+  More and more Americans are choosing to make the switch to electric cars. Driving an electric vehicle can help you reduce your carbon footprint, and it can save you money on gas. However, electricity isn’t free.
+
+**This May Also Interest You:** [**Electric Car Charging at Home: Everything You Need to Know**](https://www.homeserve.com/en-us/blog/how-to/charge-electric-vehicle/)
+
+Understanding how much it will cost to charge your car at home and how much an electric car could increase your electric bill can help you figure out if home charging is the right choice for you.
+
+How Much Does It Cost to Charge an Electric Car on Average?
+-----------------------------------------------------------
+
+According to [MarketWatch](https://www.marketwatch.com/story/how-much-does-it-cost-to-charge-an-electric-car-we-do-the-math-11615580227), the average cost of electricity in the U.S. is around 12 cents (CAD 0.15) per kWh. Most electric cars require 1kWh for every three to four miles driven. You can work out roughly how much it will cost to charge each month by dividing the miles you drive by three and multiplying by the price per kWh. Therefore, every 100 miles will cost you around $4 (CAD 5).
+
+Is There a Difference Between Level 1 and Level 2 Chargers?
+-----------------------------------------------------------
+
+Most electric vehicles come with a Level 1 charger so that you can charge your car at home. However, Level 2 chargers can charge a car significantly faster. According to home charger manufacturer [EvoCharge](https://evocharge.com/resources/the-difference-between-level-1-2-ev-chargers/), it takes between 11 and 20 hours to fully charge an electric car using a Level 1 charger, while a Level 2 charger can do the job within three to eight hours. Different Level 2 chargers have different charging capabilities, so how long it takes to charge your car depends on how many kWh the charger delivers per hour.
+
+Another difference between Level 1 and Level 2 chargers is that a Level 2 charger needs a 240V outlet. Most modern properties have 240V outlets, but you may need to install one if you live in an older home.
+
+There are also Level 3 chargers available that deliver energy even faster than Level 2 chargers. Level 3 chargers vary in power output, but some can fully charge an electric car in around 15 minutes. These chargers require large converters to handle such fast delivery, which means that the unit itself tends to be much larger than regular home chargers. Therefore, you'll usually only see Level 3 chargers in commercial locations like service stations.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Electric Car Charging Station?](https://www.homeserve.com/en-us/blog/cost-guide/ev-charging-station-installation/)
+*   [Top 5 Home EV Chargers](https://www.homeserve.com/en-us/blog/buying-guide/best-ev-chargers/)
+*   [How Much Does Electricity Cost?](https://www.homeserve.com/en-us/blog/cost-guide/electricity-cost/)
+*   [How to Take Advantage of Time-of-Use Rates and Lower Your Electricity Bill](https://www.homeserve.com/en-us/blog/how-to/save-electricity-during-peak-hours/)
+*   [How Much Electricity Do Holiday Lights Use?](https://www.homeserve.com/en-us/blog/home-improvement/holiday-lights-electricity-use/)
+
+What Other Factors Impact the Cost of Charging an Electric Car?
+---------------------------------------------------------------
+
+A significant factor affecting the cost of charging an electric car is how much you pay for electricity per kWh, and your vehicle's energy efficiency also affects the overall cost. Your car's efficiency is measured by how much electricity it needs to travel 100 miles.
+
+It's also important to factor in the cost of installing an electric car charger at home when you're considering potential savings. The average total cost to install a charger is [$1,200](https://www.homeserve.com/en-us/blog/cost-guide/ev-charging-station-installation/) (CAD 1,530), with a typical range between $850 and $2,200 (CAD 1,080 and CAD 2,800).
+
+Comparing Fuel Costs: Electric Vs. Gas
+--------------------------------------
+
+[Investopedia](https://www.investopedia.com/how-much-does-it-cost-to-charge-an-electric-car-5186285) says you should expect to see an energy bill increase between $30 and $60 (CAD 38 and CAD 76) per month if you mainly charge your electric car at home. The exact figure depends on how far you drive each month.
+
+According to the [Energy Information Administration](https://www.eia.gov/todayinenergy/detail.php?id=33232), the average U.S. household spends about $165 (CAD 210) per month on gasoline — though that figure may be higher as fuel costs rise.
+
+On average, that means you may save over $100 per month in fuel costs by charging your electric car at home. Considering it costs about $1,200 to install a home charging station, you could recoup the installation cost in a year or less.

@@ -1,0 +1,94 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Have Hard Water? Here's How to Know — and How to Treat It"
+headline: "Have Hard Water? Here's How to Know — and How to Treat It"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-02
+basePath: https://library.homeserve.com/m/
+heroImage: 138278bf857b99d2/Blog-GettyImages-1131353685.jpg
+heroAltDescription: "Close-up of a kitchen sink with lime scale"
+metaDescriptions: "Untreated, hard water can impact the day-to-day operations of your home, leading to costly repairs or replacements. We have your hard water questions, answered."
+articleAbstract: "According to the U.S. Geological Survey, 85% of Americans have hard water. However, just 30% of these people use a water softener to treat it. Untreated, hard water can impact the day-to-day operations of your home, occasionally leading to costly repairs or replacements. We have your hard water questions, answered. "
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Spot and Treat Hard Water [VIDEO REPURPOSE]"
+  parent: Plumbing-How-To
+---
+  
+
+You pull the dishes out of the dishwasher, and your glasses and silverware are covered in chalky white spots. Then, you go to rinse these dishes in the sink — only to find that the faucet is caked in crusty limescale. If this sounds like your home, you might have a hard water problem.
+
+**This May Also Interest You:** [**What Is a Water Softener?**](https://www.homeserve.com/en-us/blog/home-improvement/water-softener-explained/)
+
+According to the [U.S. Geological Survey](https://www.usgs.gov/special-topic/water-science-school/science/hardness-water?qt-science_center_objects=0#qt-science_center_objects), 85% of Americans have hard water. However, [just 30%](https://homewater101.com/articles/hard-water-across-us) of these people use a water softener to treat it. Untreated, hard water can impact the day-to-day operations of your home, occasionally leading to costly repairs or replacements.
+
+Got hard water questions? We’ve got easy answers.
+
+What Is Hard Water?
+-------------------
+
+Hard water has high levels of dissolved minerals — namely calcium and magnesium. As groundwater moves through soil and rock, it picks up these minerals, which eventually end up in the water you drink, bathe in and use to clean.
+
+Water hardness varies depending on where you live. [This map](https://www.usgs.gov/media/images/map-water-hardness-united-states) shows where water has the highest calcium concentrations. The [metro areas](https://homewater101.com/articles/hard-water-across-us) around Indianapolis, Las Vegas, San Antonio and Tampa, Fla., have some of the hardest water in the country.
+
+How Do You Know If You Have Hard Water?
+---------------------------------------
+
+There are several telltale signs that you have hard water, including:
+
+### Your Drinking Water Tastes Weird
+
+Compared to bottled or filtered water, does the water that comes out of your tap taste … _off_? It might taste or smell minerally, metallic or like dirt. There are many causes of off-tasting water — including rusty pipes, bacteria or actual dirt — but the weird taste may be coming from dissolved minerals.
+
+### Soap Scum & Water Stains
+
+If you have reddish-brown stains in your toilet bowl, around your sink drain or on the walls of your shower, you probably have iron in your water. White water spots and soap scum left behind on your shower doors or tile are caused by high calcium levels in your water. You may also notice cloudy spots on your dishes or coffee maker. A less obvious sign of hard water is gray laundry. [Better Homes and Gardens](https://www.bhg.com/homekeeping/laundry-linens/tips-checklists/hard-water-laundry/) says hard water can leave soap residue on your clothes when you put them through the wash.
+
+<img class="detail-image" src="https://library.homeserve.com/m/5bdc621a819f42a1/Blog-GettyImages-639313418.jpg" alt="Hard water deposit and rust on shower tap"/>
+
+### Skin or Hair Issues
+
+Calcium and magnesium can build up on your skin over time, giving you dry, itchy patches or exacerbating conditions like eczema. Hard water can also make your hair feel dry, frizzy or flat.
+
+### Recurring Plumbing Problems
+
+The minerals in your water can build up in your pipes and fixtures, causing or contributing to clogs. One of the first things you may notice is that your showerhead loses water pressure and eventually stops up. Because the holes are so small, they’re easily blocked by buildup and scale.
+
+### Appliance Breakdowns & Higher Utility Bills
+
+Hard water can also wreak havoc on appliances like your clothes washer, dishwasher, refrigerator or water heater. The valves and other components can become clogged by scale the same way your pipes can. This can cause frequent leaks and full-on breakdowns, but it can also cause your appliances to [run less efficiently](https://homewater101.com/hard-waters-impact-pipes-appliances). They’ll have to work harder to pump water through obstructed pipes, driving up your energy bills.
+
+**More Related Articles:**
+
+*   [Installing a Water Softener Isn’t So Hard: A 6-Step Guide](https://www.homeserve.com/en-us/blog/how-to/water-softener-installation/)
+*   [How Much Does a Water Softener Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-a-water-softener-cost/)
+*   [How to Know If Your Bathtub Has Hard Water](https://www.homeserve.com/en-us/blog/home-improvement/hard-water/)
+*   [How Much Do Home Water Filtration Systems Cost?](https://www.homeserve.com/en-us/blog/cost-guide/water-filter-installation/)
+*   [Scrub-a-Dub-Dub: How to Clean Your Bathtub](https://www.homeserve.com/en-us/blog/how-to/clean-bathtub/)
+
+How to Test for Hard Water
+--------------------------
+
+While the symptoms listed above can point you toward a potential hard water problem, the surefire way to know whether your water has high levels of minerals is to have it tested. [SpringWell Water Filtration Services](https://www.springwellwater.com/3-easy-ways-to-test-for-hard-water/) says you can ask your water provider (often your city) for a water quality report. Your utility company may also provide water quality tests. If you have a private well, you can purchase a test kit at the hardware store.
+
+There’s also a simple DIY test you can do with a plastic bottle and some dish soap. According to [The Spruce](https://www.thespruce.com/how-to-test-for-hard-water-1824904), you’ll want to fill the bottle one-third of the way with water from the faucet. Then, add about 10 drops of dish soap, screw on the lid and shake. If you get the foamy, sudsy solution you would expect, you probably have soft water. No suds? You may have hard water.
+
+Is Hard Water Harmful?
+----------------------
+
+Scale buildup can harm your pipes and appliances over time. But other than potential skin issues, hard water isn’t harmful to your health. In fact, the [World Health Organization](https://www.who.int/water_sanitation_health/dwq/chemicals/hardness.pdf) found that _some_ magnesium and calcium in drinking water can contribute to dietary needs.
+
+<img class="detail-image" src="https://library.homeserve.com/m/5a805b7bab3dc8b2/Blog-GettyImages-646137702.jpg" alt="close up of a blue residential water softener"/>
+-------------------------------------------
+
+What Do You Do If You Have Hard Water?
+--------------------------------------
+
+You can either treat the cause of hard water or the symptoms.
+
+To clean hard water stains, look for products that claim to remove soap scum, water spots and limescale. If you want to go the natural route, vinegar, lemon juice and baking soda can also effectively remove scale. Soak your showerhead, faucet and other fixtures in a solution of white vinegar and water. Scrub hard water stains in your bathtub with hydrogen peroxide.
+
+You can get to the root of the problem by installing a water softener. The basic option is a faucet or under-sink water softener. Usually, these are installed on the kitchen sink to remove minerals from your drinking water. But if you want to avoid the issues caused by hard water throughout your home, you should invest in a whole-house water softener. Water softeners remove dissolved minerals in your water before it’s piped to your faucets, fixtures and appliances.
+
+_Since we’re all home now more than ever, being prepared for unexpected home repairs with a plan from HomeServe is important. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available in your neighborhood._<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/oX-jGd6sMF4?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What's a Free-to-Air Antenna and How Do You Set It Up?"
+headline: "What's a Free-to-Air Antenna and How Do You Set It Up?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-05-08
+basePath: https://library.homeserve.com/m/
+heroImage: 38553de94d71758f/Blog-HDAntenna_Erossi_4330.jpg
+heroAltDescription: "A free-to-air HD antenna suction cupped to a residential window"
+metaDescriptions: "If you're looking to cut costs and still have access to local news and sports, consider a free-to-air antenna. Here's what you need to know."
+articleAbstract: "There are a lot of ways you can watch TV these days: satellite, cable, streaming boxes, etc. If you’re looking to cut costs while keeping your access to local news and sports, you may want to consider free-to-air services. You can take advantage of this free content with an antenna."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is a Free-to-Air Antenna and Why Should You Care?"
+  parent: Appliances
+---
+  
+
+There are a lot of ways you can watch TV these days: satellite, cable, streaming boxes, computer browser or mobile device. If you’re looking to cut costs while keeping your access to local news and sports, you may want to consider free-to-air services.
+
+**This May Also Interest You:** [**How to Mount a Flatscreen TV to a Wall**](https://www.homeserve.com/en-us/blog/how-to/mount-flatscreen-tv/?utm_source=organic_tw&utm_medium=social&utm_campaign=howto&utm_content=appliances_flastscreen)
+
+FTA services are TV and radio services that broadcast in an unencrypted form. Any person with the correct receiving equipment can access the signal and view or listen to the content. You don't need a subscription, and there’s no ongoing cost or even an initial signup fee. They’re pretty much as easy to install as screwing a cable into the back of your TV and perhaps providing power.
+
+FTA has been growing in popularity as the cost to access content in other ways is also increasing. You can watch local news and sports without committing to a package or paying exorbitant pay-per-view fees. Some people choose FTA in addition to a video streaming service to receive local stations that might not be included in their package.
+
+So how can you take advantage of this free content? With an antenna. Read on to learn more.
+
+<img class="detail-image" src="https://library.homeserve.com/m/12aaa62b307fdffc/Blog-HDAntenna_Erossi_4331.jpg" alt="The back of a TV showing the coaxial HD powered antenna plugged into the TV"/>
+-------------------------------------------
+
+Free-to-Air Antenna Basics
+--------------------------
+
+There are a variety of antennas available at a range of price points. Make sure you purchase one that will receive both VHF (very high frequency) and UHF (ultra-high frequency) channels. It should say this on the packaging or in the product description. In order to get all the stations available in your area, you will need to have an antenna that receives both types of channels. Some antennas will provide good reception for only VHF or only UHF channels.
+
+The quality of the reception you get from an FTA antenna will also be based on your distance from broadcast towers. This may affect your signal. Your reception may also be affected by obstacles, like mountains or even tall buildings, which could interfere with signals. If you live in a remote or mountainous location, you may want to purchase an amplified antenna, which can help you receive more stations from broadcast towers that are farther away.
+
+Remember those old-fashioned “rabbit ears” that used to sit on top of the TV? You can still use similar indoor antennas, but your reception might not be as good. With rabbit ear-type antennas, you may only be able to access VHF channels. You’ll probably want to supplement your rabbit ears with either a wire loop or bowtie antenna. These will improve your signal strength and give you the UHF channels as well. Antennas sold as HDTV antennas are good at receiving UHF channels but don’t do so well delivering the VHF ones.
+
+Alternatively, modern flat-panel FTA antennas are also available. These consist of a sheet of plastic connected to an RF (radio frequency) cable that screws into the back of your TV. They can be placed on a wall with two small nails or adhesive. If you have trouble getting a signal, you can hang it in your window. If you choose an amplified FTA antenna, there will also be a small power box that will need to be connected to either the USB port on your TV or plugged into an outlet.
+
+In either case, be sure to consider the antenna's range and buy one that would work best for your location. [This tool](https://www.antennasdirect.com/transmitter-locator.html) from Antennas Direct can help you locate broadcast transmitters — and the channels they provide — near you.
+
+Get Outside
+-----------
+
+In general, outdoor antennas will get better reception than indoor antennas. These are your best bet for the most reliable reception. You might see signal strength calculations provided on the packaging or in the product description. This estimate is based on an outdoor antenna located 30 feet above ground level. If you are struggling to get good reception or access channels with your outdoor antenna, you may want to relocate it or alter its position. You may need to adjust your antenna in order to get the best signal from the stations. Sometimes moving the antenna’s location higher or lower or shifting it even slightly will improve your signal strength.
+
+**More Related Articles:**
+
+*   [Amazon Echo Vs. Google Home: The Voice Command Speaker Battle Begins](https://www.homeserve.com/en-us/blog/buying-guide/amazon-echo-google-home-differences/)
+*   [Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load](https://www.homeserve.com/en-us/blog/how-to/are-phantom-loads-adding-to-your-electric-bill/)
+*   [Your Definitive Guide For the Best Smart Home Devices](https://www.homeserve.com/en-us/blog/buying-guide/best-smart-home-devices/)
+*   [How to Install a Video Doorbell](https://www.homeserve.com/en-us/blog/how-to/install-video-doorbell/)
+*   [Heat Check: The 5 Best Smart Thermostats for Your Home](https://www.homeserve.com/en-us/blog/cost-guide/best-smart-thermostats/)
+
+Rescanning
+----------
+
+Occasionally, you may have to rescan your TV. During a rescan, your TV’s tuner will do an automated update to look for new channels. If you reposition your antenna, you’ll definitely want to do a rescan. Stations may sometimes change the frequency they use. Keep in mind that even if the frequency has changed, the channel number will not. If ABC is on Channel 2, it will always be on Channel 2.
+
+Scanning means you’ll always be able to access your favorite channels. Rescanning may also allow you to access new subchannels. Many stations have digital subchannels which offer additional programming like nature programs, weather or classic TV shows.
+
+To scan (or rescan) your TV, find the set-up or menu button on your remote control. Select the option that allows you to search for available digital broadcast channels.
+
+Time for Popcorn
+----------------
+
+Now that you’ve got your FTA antenna set up, sit back and enjoy watching free TV from local broadcast channels, including ABC, CBS, Fox, NBC and PBS.
+
+Important note: Don’t confuse FTA with free-to-view. FTV is also available without a subscription, but it’s digitally encoded. This means it may be geographically restricted. Also, if you have — or decide to purchase — a digital-to-analog converter box, you’ll still need to use an antenna to receive the FTA signals we’ve been discussing.
+
+_While DIY can be enjoyable, major repairs may require professional knowledge and can be costly. Be prepared for unexpected repair bills with a plan from HomeServe. Having a plan in place gives you peace of mind knowing that you can simply call our 24/7 repair hotline for covered breakdowns. See what plans are available where you live._

@@ -1,0 +1,62 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Home Wind Turbine Cost?"
+headline: "How Much Does a Home Wind Turbine Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-03-22
+basePath: https://library.homeserve.com/m/
+heroImage: 564baada625f5140/Blog-GettyImages-465782521.jpg
+heroAltDescription: "A motionless Vertical Axis residential Wind Turbine with a clear blue sky in the background"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The cost of a home wind turbine depends on its size and how much energy it can generate."
+articleAbstract: "You may have heard that wind turbines don’t come cheap. How much does one cost? It depends largely on the size of the turbine and how much energy it can generate."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does a Home Wind Turbine Cost?"
+  parent: Electrical-Cost-Guide
+---
+  Homeowners have a variety of alternative energy options, from solar shingles to home wind turbines. Installing a home wind turbine could help you cut ties with the grid, or at least reduce your utility bills.
+
+**This May Also Interest You:** [**Thinking About a Solar Water Heater? Here Are the Pros and Cons**](https://www.homeserve.com/en-us/blog/home-improvement/solar-water-heater/)
+
+But you may have heard that wind turbines don’t come cheap. Exactly how much does one cost? It depends largely on the size of the turbine and how much energy it can generate.
+
+**What Size Turbine Do You Need to Power a Home?**
+--------------------------------------------------
+
+Wind turbines are sized based on how much electricity they generate. According to the [U.S. Department of Energy](https://www.energy.gov/energysaver/installing-and-maintaining-small-wind-electric-system), the average home needs a turbine that can generate between 5 and 15 kilowatts to handle a large portion of the electrical demand. Several factors go into the sizing, including the average wind speed in your area and how much electricity you use.
+
+You can get microturbines that generate 20 to 500 watts. (For reference, 1 kW equals 1,000 watts.) These are mainly used for charging batteries for small vehicles. The minimum size for residential use is typically 400 watts, with options ranging up to 100 kW for high demands.
+
+Your wind turbine installer will help you choose the size you need. Some people choose a smaller turbine to power only part of their home, while others want the turbine to handle most, if not all, of their electrical needs.
+
+**How Much Does It Cost to Install a Wind Turbine at Home?**
+------------------------------------------------------------
+
+Alternative energy sources, like wind turbines and solar panels, aren't cheap initially. Small wind projects for residential use (under 100 kilowatts) range between $3,000 and $5,000 (CAD 4,100 and CAD 6,800) per kW of energy capacity, according to the [American Wind Energy Association](https://www.nrel.gov/docs/fy07osti/41961.pdf). Because you'll likely want a system between 5 kW and 15 kW capacity for your home, you could expect to pay $15,000 to $75,000 (CAD 20,500 to CAD 103,000). The exact capacity you need — and, thus, the total cost — will vary based on local pricing.
+
+[Ananta Energy Source](https://www.goananta.com/how-much-does-a-home-wind-turbine-cost) says there are additional factors that impact the cost of home wind turbine installation, including the quality of the turbine, the type of turbine and the minimum required windspeed for the unit to function.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install a Solar Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/solar-water-heater/)
+*   [What Are Solar Shingles … and Do They Work?](https://www.homeserve.com/en-us/blog/home-improvement/solar-shingles/)
+*   [How Much Do Solar Shingles Cost?](https://www.homeserve.com/en-us/blog/cost-guide/solar-shingles/)
+*   [What’s It Like to Go Solar? 5 Things They Don’t Tell You in the Brochure](https://www.homeserve.com/en-us/blog/home-improvement/solar-panels/)
+*   [How Much Does It Cost to Install Solar Panels?](https://www.homeserve.com/en-us/blog/cost-guide/install-solar-panels/)
+
+**How Long Does It Take for a Wind Turbine to Pay for Itself?**
+---------------------------------------------------------------
+
+The time it takes for the wind turbine to pay for itself depends on several factors, one of which being the amount of energy the turbine creates. If it generates enough electricity to handle all your power needs, you'll recoup your costs much faster than you would if you still have to pay for some electricity from the grid.
+
+The cost of electricity is another factor. In areas where electricity rates are low, it takes longer to recoup your costs. If you pay high electrical rates, you'll save more money and reach the point where the turbine pays for itself faster.
+
+If you paid $75,000 for the turbine and save $325 on your electric bill monthly, you would recoup the costs in savings in a little over 19 years. If you only saved $150 on your electric bill, it would take over 41 years to reach the payback point. It comes down to how much you pay for the system and how much you save on electricity by using wind power.
+
+**Are Wind Turbines Worth It?**
+-------------------------------
+
+Wind turbines are an expensive investment, and it can take years to see a return on that investment. It can be worth it if you want an environmentally friendly power source or to reduce your reliance on the power grid. It's often only worth it if you have plenty of space for the turbine and receive enough wind to generate ample power. You can combine the wind turbine with other energy sources, such as solar shingles, to provide more power.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2K4e4feg7_8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="EV Charger Installation | 4 Things to Consider"></iframe>

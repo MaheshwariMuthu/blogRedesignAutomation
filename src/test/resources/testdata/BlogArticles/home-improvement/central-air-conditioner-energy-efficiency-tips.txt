@@ -1,0 +1,86 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Make Your Air Conditioner More Efficient"
+headline: "10 Ways to Make Your Central Air Conditioner More Efficient"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-05-10
+basePath: https://library.homeserve.com/m/
+heroImage: 4a5cd5f245a00dab/Blog-Getty_AC_Unit_Outdoor_Red_Tool_Bag.jpg
+heroAltDescription: "technician bag"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Explore these methods to make your air conditioner more efficient, keep your home cool and lower your utility bills."
+articleAbstract: "Soaring temperatures and skyrocketing utility bills in the summer may leave you wondering how to make your air conditioner more efficient. Learn how you can stay cool without seeing red when you open your power bill."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "X Ways to Make Your Central Air Conditioner More Efficient"
+  parent: HVAC-Home-Improvement
+---
+  Soaring temperatures and skyrocketing utility bills in the summer may leave you wondering how to make your air conditioner more efficient. Everything from the size of the unit to how you use it can impact how much energy it uses.
+
+**This May Also Interest You:** [**How to Prep Your AC Unit for Summer**](https://www.homeserve.com/en-us/blog/how-to/prepare-air-conditioner/)
+
+Learn how you can stay cool without seeing red when you open your power bill.
+
+Should I Get a Newer Unit to Improve Efficiency?
+------------------------------------------------
+
+Determining whether you should upgrade your air conditioning unit depends largely on its age and efficiency. The older your air conditioner is, the less efficient it operates, in general. It will likely take you years to recoup the costs of buying and installing a new air conditioner, but you might also save on repair costs if your current AC needs frequent repairs.
+
+Improving Air Conditioner Efficiency
+------------------------------------
+
+### 1\. Choose the Proper Size
+
+Buying the right size air conditioning unit is an important factor in energy efficiency. If the AC is too small for the space, it'll run constantly to reach the set temperature. In some cases, it might never get cool enough. The constant running increases energy consumption and can overwork the unit, causing it to die sooner. An oversized unit might start and stop frequently because it’s overpowered, which can also hurt energy efficiency.
+
+### 2\. Clean or Replace the Filters
+
+AC units include air filters that need to be replaced periodically for efficient operation. If you skip this maintenance step, the air filters become clogged, making it difficult for the air to pass. This makes the unit work harder and use more energy.
+
+### 3\. Clean the AC Unit
+
+Don't forget to clean the rest of the AC unit as well. If you have central air conditioning, clean the exterior unit, which can get clogged with leaves and other debris. Make sure the drain line is clean and free of obstructions to allow the condensation to flow freely.
+
+### 4\. Limit the Use of Hot Appliances
+
+If you run heat-generating appliances — such as your stove, clothes dryer and hairdryer — frequently, you'll increase the overall temperature inside your home. This forces your air conditioner to work harder to cool your home. Limit how much you use these appliances and use them during the coolest part of the day when possible. If possible, locate the thermostat or window air conditioning unit away from heat-generating appliances, as they can affect the thermostat reading and cause the AC to run more often.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+### 5\. Seal Up Your Home
+
+Gaps and leaks throughout your home make it less efficient. The cooler air that your AC produces can escape, causing the air conditioner to work harder and run longer to keep your house comfortable. Seal those gaps and cracks, which often happen around windows, in foundations or where things like pipes and wires enter your home. Keep your doors and windows closed while you're running your air conditioner for increased efficiency. For a window air conditioner, ensure the window closes tightly around the unit.
+
+### 6\. Adjust Your Thermostat
+
+You might prefer your room chilly, but bumping up the thermostat by a few degrees can save energy. You can also program your thermostat to run at a warmer temperature while you're gone.
+
+### 7\. Keep Air Moving
+
+Ample air movement around the air conditioning unit helps it run more efficiently. While shade over your outdoor condenser can help it work more efficiently, you don't want shrubs or trees so close to the unit that they block airflow. Cut back vegetation if necessary to leave a minimum of 2 feet (60 centimeters) of clearance around the air conditioner.
+
+### 8\. Schedule Professional Maintenance
+
+If you have a central air conditioning unit, have an HVAC professional inspect it at least once per year. The technician can deep-clean the unit and look for potential issues that you can repair before they become major problems.
+
+### 9\. Block the Sunlight
+
+Your air conditioning can work more efficiently when you block sunlight from entering your home. Close your window treatments during the part of the day when the sunlight hits the windows. This prevents the sun from making your home hotter, which makes the AC work overtime and use more energy.
+
+### 10\. Insulate Ductwork
+
+If you're trying to figure out how to make your air conditioner more efficient with a central air system, insulate the ductwork that's exposed. Use duct-sealing tape to repair any gaps before adding the layer of insulation. This helps reduce the loss of cooled air as it travels through the ducts to the registers throughout your home.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/l6RoqfIe7HA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

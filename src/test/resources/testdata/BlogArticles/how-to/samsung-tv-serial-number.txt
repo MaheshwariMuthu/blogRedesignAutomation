@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Samsung TV Serial Number: How to Find a Serial Number on a Samsung TV"
+headline: "How to Find a Serial Number on a Samsung TV"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-02-25
+basePath: https://library.homeserve.com/m/
+heroImage: 35a6b68ac4fc0b03/Blog-SamsungTV_MSchmitz_0001.jpg
+heroAltDescription: "A wall mounted Samsung brand LED flatscreen TV displays entertainment and information"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "You might need to know your TV's serial number for registration or warranty reasons. Here's how to find it on a Samsung TV."
+articleAbstract: "Knowing the serial number for your TV can offer peace of mind if something goes wrong with your TV. Locating a Samsung TV serial number is easy if you know where to look."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Find a Serial Number on a Samsung TV"
+  parent: Appliances-How-To
+---
+  
+
+_HomeServe photo by Matt Schmitz_
+
+Knowing the serial number of your TV can offer peace of mind if something goes wrong or if your device is stolen.
+
+**This May Also Interest You: How to Find the Serial Number on Your Appliances and Gadgets**
+
+Locating a Samsung TV serial number is easy if you know where to look.
+
+Two Ways to Find the Serial Number on a Samsung TV
+--------------------------------------------------
+
+There are two places you can look to find the serial number for your TV: printed on the television and in an on-screen menu.
+
+Once you locate the serial number, you may want to write it down in a safe place for easy access in case your TV is stolen or severely damaged.
+
+### Finding the Serial Number on the TV Set
+
+All Samsung TVs have the serial number printed in a white box on the TV's back or right-hand side. If you have an older TV, the serial number will likely be on the back of the device. However, Samsung recently started placing the serial number on the right-hand side of the device to make it easier to locate on wall-mounted televisions.
+
+Samsung TV serial numbers are usually found directly under the TV's model code. These numbers may look the same, but it's important not to mix them up. A model code provides general information about the type of TV, while the serial number identifies the individual device. Every Samsung TV has a unique serial number.
+
+**More Related Articles:**
+
+*   [When’s the Best Time to Buy a TV?](https://www.homeserve.com/en-us/blog/buying-guide/best-time-to-buy-tv/)
+*   [Can You Buy a TV That’s Not Smart?](https://www.homeserve.com/en-us/blog/buying-guide/non-smart-tvs/)
+*   [How Much Does TV Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/tv-repair/)
+*   [What’s the Samsung TV Upgrade Program and Is It Worth It?](https://www.homeserve.com/en-us/blog/cost-guide/samsung-tv-upgrade-program/)
+*   [Watch What You’re Doing! How to Move Your Flatscreen TV Damage-Free](https://www.homeserve.com/en-us/blog/how-to/move-tv/)
+
+### Using the On-Screen Menu
+
+Samsung smart TV serial numbers can be located using an on-screen menu. If you have a newer model smart TV, follow these steps to get the serial number:
+
+*   Open the menu
+*   Select “Support”
+*   Select “Contact Samsung”
+
+The TV will display contact information for Samsung and product information, including the TV's serial number. Non-smart TVs may not have this option available.
+
+You may also find the serial number within the “Support” menu under options like “About This TV.”
+
+<img class="detail-image" src="https://library.homeserve.com/m/2dc303da089d42f9/Blog-SamsungTV_MSchmitz_0002.jpg" alt="A wall mounted Samsung brand LED flatscreen TV displays entertainment and information"/>
+
+_HomeServe photo by Matt Schmitz_
+
+Why Do You Need to Know Your TV's Serial Number?
+------------------------------------------------
+
+Using the serial number to register a new TV with Samsung can ensure that you get product information and recall notices. Samsung offers a one-year warranty on new TVs, and you can get your TV repaired or replaced if it stops working during the warranty period. Samsung also offers a 10-year screen burn warranty on its new QLED televisions. Warranties can save you a lot of money in repair costs. You'll need to know the serial number to get these warranty benefits.
+
+The serial number will also be required if you want to buy a third-party warranty and may be needed if you want insurance on your TV. Knowing your serial number can also be helpful if your TV is stolen.

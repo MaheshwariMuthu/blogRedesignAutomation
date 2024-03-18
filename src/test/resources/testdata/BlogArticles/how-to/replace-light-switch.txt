@@ -1,0 +1,88 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Replace a Light Switch"
+headline: "Switch Your Switch: Here's How to Replace a Light Switch"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2022-11-26
+basePath: https://library.homeserve.com/m/
+heroImage: 42559f2d366a187e/Blog-GettyImages-1221644141.jpg
+heroAltDescription: "Electrician"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Hooking up a light switch is a straightforward project that you could accomplish in about half an hour, saving you electrician fees. Here's how."
+articleAbstract: "Hooking up a light switch is a straightforward project that you could accomplish in about half an hour, saving you electrician fees. Here's how."
+category: ["How To"]
+hrefLangTags: [['https://www.homeserve.com/en-us/blog/how-to/replace-light-switch/', 'en-us'], ['https://www.homeserve.co.uk/living/electrical/how-to-replace-a-light-switch/', 'en-gb']]
+eleventyNavigation:
+  key: "How to Replace a Light Switch"
+  parent: Electrical-How-To
+---
+  Light switches may be one of the most utilized electrical devices in your home. And yet, you totally take them for granted. You walk into a room, flip the switch and _boom_, there’s light.
+
+**This May Also Interest You:** [**How to Wire a Three-Way Light Switch to Multiple Lights**](https://www.homeserve.com/en-us/blog/how-to/wire-three-way-light-switch/)
+
+But despite the fact that they seem to last forever, there are times when you may want to replace your existing light switch. For example, after you’ve painted a room, you may want to upgrade your plates and switches. Or maybe you’d like to install a light switch that has a dimmer. Of course, there’s also the possibility that an existing light switch has started to malfunction, and in that case, you’ll need to install a new one as soon as possible.
+
+Can You Change a Light Switch Yourself?
+---------------------------------------
+
+When you need to replace a light switch, your first impulse might be to call an electrician. After all, home electrical systems can seem rather complicated and mysterious. However, hooking up a light switch is actually a pretty straightforward project, and one that you could very well accomplish yourself in about half an hour, saving you the expense of having to hire an electrician.
+
+Replacing a Light Switch: 3 Easy Steps
+--------------------------------------
+
+Want to know how to switch a light switch? This step-by-step guide will walk you through the process of this common household electrical repair.
+
+### Things You’ll Need
+
+*   Small screwdriver
+*   Wire stripper
+*   Needle-nose pliers
+*   No-contact voltage tester
+*   New light switch
+
+### Step-by-Step Instructions
+
+#### Step 1: Safety Precautions
+
+As with any home improvement project involving electricity, it’s always best to play it safe. Before attempting any electric repairs, locate the correct circuit breaker at your breaker panel and turn off the power to the light switch. Once you switch off the breaker, double-check the circuit with a voltage tester to ensure that it’s not receiving electricity. Do this by removing the faceplate and holding a no-contact voltage tester about a 1/2 inch from the screw terminals. If the tester doesn’t indicate there’s an electrical current, you’re good to go.
+
+Accidents involving electricity can result in serious injury or death, so make sure you’re taking the proper safety precautions before beginning the project. If at any point you feel unsure of yourself, don’t hesitate to call a licensed electrician to do the project for you.
+
+#### Step 2: Remove the Old Switch
+
+Next, remove the light switch from the wall. Start by unscrewing the screws at the bottom and top of the switch that hold it to the electrical box. Then, pull the switch out from the wall and inspect the switch’s wiring. Typically, a single-pole switch will have wires that loop around the screw terminals on the side of the switch. However, some newer switches are “back-wired,” meaning the wires are connected via specially designed holes in the back of the switch. In this case, lightly pull on each wire while inserting your small screwdriver into the slot underneath the hole. This should free the wire and allow you to disconnect.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install Light Switch Dimmers?](https://www.homeserve.com/en-us/blog/cost-guide/dimmer-light-switch-installation/)
+*   [How to Fix Electrical Cords and Charging Cables](https://www.homeserve.com/en-us/blog/how-to/fix-electrical-cords/)
+*   [How to Install a Ceiling Light: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-ceiling-light/)
+*   [How Much Does It Cost to Install Different Types of Decorative Lighting?](https://www.homeserve.com/en-us/blog/cost-guide/installing-decorative-light-fixture/)
+*   [How Much Do Electrical Repairs Cost? A Comprehensive Guide](https://www.homeserve.com/en-us/blog/cost-guide/electrical-repair/)
+
+#### Step 3: Note the Wiring Situation
+
+Make sure you keep track of where each wire is connected. In most cases, the wiring from your house will be color-coded. The “hot” wire (black or red) typically attaches to the same side as the brass screw, while the “neutral” wire (white) attaches to the same side as the silver screw. There will also be a bare copper wire that’s attached to a green terminal screw on the switch that acts as a ground wire.
+
+In some situations, your wiring may not be color-coded. Either way, it’s always a good idea to snap a photo of the switch with your smartphone before disconnecting the wiring. That way, you’ll have it to reference when you install your new switch.
+
+#### Step 4: Install the Replacement Switch
+
+If you need to, use the wire stripper to remove roughly 1/2 inch of insulation of both the hot and neutral wires coming from the wall. When the wires are ready to be connected, make sure your new switch is oriented correctly based on the on-off labeling.
+
+#### Step 5: Connect the Wiring
+
+Start connecting the wiring to the new switch, starting with the “hot” wire first. If the new switch uses terminal screws, twist the wire clockwise around the screw and then tighten it with a screwdriver. If the new switch uses “back-wiring,” guide the wire into the hole until it connects.
+
+Once the “hot” wire has been attached to the replacement switch, continue on to the neutral wire. If a ground wire was connected to the old switch, you’ll need to connect it to the new one as well. However, if the ground is still connected to the electrical box, leave it there.
+
+#### Step 6: Restore Power and Test
+
+When you’ve connected all the wiring to the replacement switch, push it back into the electrical box. Then, fasten it to the wall with the screws at the top and bottom. Once the switch has been secured to the electrical box, head back to your breaker panel and turn the power back on and give the switch a test. If it works, screw the faceplate over the switch in the correct position and enjoy your new switch.
+
+When to Hire a Pro
+------------------
+
+In terms of home electrical repairs, knowing how to connect a light switch is a fairly straightforward one. But keep in mind that any electrical project has the potential for serious injury. That’s why it is crucial for you to follow any and all safety precautions before you begin any work on a light switch. If at any point you feel unsure about the work you’re doing, you should probably go ahead and call a licensed electrician to finish the task. For example, if you have an older home, your internal wiring may not be straightforward at all. When it comes to electrical projects, it’s always better to be safe than sorry.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

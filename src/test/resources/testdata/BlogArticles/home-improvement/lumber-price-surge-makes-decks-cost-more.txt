@@ -1,0 +1,52 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Lumber Prices Hit the Deck: Surging Material Costs Make Your DIY Deck More Expensive"
+headline: "Lumber Prices Hit the Deck: Surging Material Costs Bump Up Expense of Your DIY Deck"
+author: Lauren Leazenby
+tags: ["post"]
+publishDate: 2021-06-03
+basePath: https://library.homeserve.com/m/
+heroImage: 4ed9b71b38a96bed/Blog-GettyImages-1219218904.jpg
+heroAltDescription: "Male construction worker building a wooden deck frame for a resideential terrace deck"
+metaDescriptions: "High lumber costs equal higher prices for almost every product made out of wood, including decking. Here's what that means for your DIY project."
+articleAbstract: "Sticker shock. If you had planned to build a new backyard deck this summer, you — like many Americans — are probably feeling it. High lumber costs equate to higher prices for almost every product made out of wood, including decking. According to Consumer Reports, more than half of all decks built in the U.S. are made of wood.  "
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Lumber Prices Hit the Deck"
+  parent: Exterior-Home-Home-Improvement
+---
+  Sticker shock. If you had planned to build a new backyard deck this summer, you — like many Americans — are probably feeling it. Elevated lumber prices have made what was once a relatively modest do-it-yourself project a cost-prohibitive addition.
+
+**This May Also Interest You:** [**Home Improvement Projects Get Nailed by Lumber Shortages, Price Increases**](https://www.homeserve.com/en-us/blog/home-improvement/lumber-shortage-impacts-home-improvement-projects/)
+
+Two or three years ago, you could purchase 1,000 board feet of lumber for less than $400. At the beginning of May, the [lumber futures market](https://www.nasdaq.com/market-activity/commodities/lbs) surpassed $1,600 per 1,000 board feet. While it has since dropped back to about $1,300 as of June 1, lumber prices are expected to remain high through the end of 2021.
+
+High lumber costs equate to higher prices for almost every product made out of wood, including decking. According to [Consumer Reports](https://www.consumerreports.org/decking/lumber-shortage-and-building-a-deck-a4704551478/), more than half of all decks built in the U.S. are made of wood.
+
+David Logan, [National Association of Home Builders](https://www.nahb.org/?utm_source=NAHBNow&utm_campaign=Social2017&utm_medium=Social&_ga=2.233890014.1985217419.1621366688-141252450.1620836505) senior economist, said the price of pressure-treated wood for decking is 150% higher than it was around this time last year. Decking materials are up 66% from the beginning of 2021.
+
+In December, [we reported](https://www.homeserve.com/en-us/blog/cost-guide/cost-to-build-deck/) that a new wood deck cost between $4,000 and $11,000, depending on its size. For example, if you built a 14-foot by 20-foot deck, it would have cost you roughly $6,000. At that time, 1,000 board feet of lumber cost about $800. Based on a 66% increase, that same deck would cost over $10,000 to build today.
+
+Surging lumber prices are a problem of supply and demand. During the pandemic, the supply of lumber decreased. [According to the Associated General Contractors of America](https://www.agc.org/news/2021/03/29/agc-construction-inflation-alert), COVID-19 caused factories, mills and fabrication facilities to close temporarily. The supply problem was further aggravated when contractors anticipated decreased demand and canceled material orders.
+
+But these contractors guessed incorrectly. Demand for lumber and other building materials increased drastically as just about everyone got in on the booming DIY trend. About 41% of homeowners have done some kind of home renovation or remodeling project since March 2020, according to a [Fortune-Researchscape International poll](https://fortune.com/2021/04/16/lumber-prices-home-depot-lowes-construction/). All that time spent at home during quarantine led many to add decks, remodel kitchens and build additions. This unexpected demand spelled disaster for the lumber supply chain, leading to a shortage of materials and skyrocketing prices.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Build a Deck?](https://www.homeserve.com/en-us/blog/cost-guide/cost-to-build-deck/)
+*   [How to Build a Deck](https://www.homeserve.com/en-us/blog/how-to/build-deck/)
+*   [How to Stain and Seal Your Deck](https://www.homeserve.com/en-us/blog/how-to/stain-seal-deck/)
+*   [How Much Is Too Much? Here’s a Guide to How Much Snow Your Roof or Deck Can Hold](https://www.homeserve.com/en-us/blog/home-improvement/roof-snow-load/)
+*   [What Is a Home Improvement Loan and How Do You Get One?](https://www.homeserve.com/en-us/blog/home-improvement/home-improvement-loan/)
+
+Other decking options — like composite and aluminum — are traditionally more expensive than wood, though they are known for higher durability and longer lifespans. Elevated costs have put these materials at a similar price to wood decking. But if you think you can bypass price increases by building a deck from a different material, think again.
+
+For one, most decks made out of these alternative materials [still use wood framing](https://www.consumerreports.org/decking/lumber-shortage-and-building-a-deck-a4704551478/). Plus, lumber isn’t the only product surging in price. While it’s the “headline item,” Logan said nearly all building materials have increased in price about four times the rate of inflation in the last year — from the ready-mix concrete used to create deck footings to the screws needed to hold it all together.
+
+Building plastics, especially, have seen “unprecedented price increases,” said Ken Simonson, [AGC](https://www.agc.org/) chief economist. This includes the vinyl or PVC used to make some kinds of decking.
+
+Simonson said it’s likely that building materials won’t decrease to pre-pandemic prices in the short- or mid-term, meaning that your trip to the hardware store will continue to hurt your wallet a bit more than usual, at least through the end of this year.
+
+If your deck dreams have been dashed or your budget blown, you may find some light at the end of the tunnel. While lumber will continue to hover around its current price for a while, expect materials like vinyl decking, screws and concrete — and most other non-wood building materials — to come down sooner.
+
+“Lumber is its own animal,” said NAHB’s Logan. “Everything but lumber will be quicker to turn around as those supply chain interruptions get disentangled. Production by lumber mills was just so far behind.”

@@ -1,0 +1,74 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Do I Do If My Furnace Goes Out?"
+headline: "What Do I Do If My Heat Goes Out?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-02-13
+basePath: https://library.homeserve.com/m/
+heroImage: 526f938f218cc0f5/Blog-iStock-136508021.jpg
+heroAltDescription: "cold customer touching thermostat"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Furnace failure? Here are some ways to keep warm while you wait for repairs."
+articleAbstract: "If your furnace suddenly quits, the temperature in your home can drop — and fast. While you wait for repairs, having alternative heat sources can keep your home safe and your family comfortable."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Do I Do If My Heat Goes Out?"
+  parent: HVAC-Home-Improvement
+---
+  If your furnace suddenly quits, the temperature in your home can drop — and _fast._ Unlike a broken AC that you can sweat through, a broken furnace can put the temperature below freezing, which puts your plumbing and health at risk.
+
+**This May Also Interest You:** [**Is It Safe to Warm Your House With a Gas Oven or Stove?**](https://www.homeserve.com/en-us/blog/home-improvement/gas-stove-for-heat/)
+
+While you wait for repairs, having alternative heat sources can keep your home safe and your family comfortable.
+
+What Are Some Ways to Heat the House If the Furnace Breaks?
+-----------------------------------------------------------
+
+Alternative heating sources come with some risks, but many of them are safe and can provide emergency heat when used correctly.
+
+* **Run space heaters.** Portable space heaters can warm up small spaces. They draw lots of power, so be careful not to overwhelm your electrical system with too many space heaters.
+* **Turn on fireplaces.** If your home has a gas, electric or wood-burning fireplace, you have a built-in heat source.
+* **Block cold air.** Add temporary insulation over doors and windows by closing drapes or hanging blankets over them. You can also push a rolled-up towel or blanket along the bottoms of drafty doors and windows.
+* **Heat one room.** Focus your heating efforts on one main room. You might choose a living room with a furnace and add a space heater for additional warmth, for example. Close the doors or block open doorways with blankets to keep the heat in the room, and encourage your family to stay in the one warm space.
+* **Layer on clothes.** Start adding extra clothing layers to combat the dropping temperature.
+* **Pile on blankets.** Whether you're sitting around waiting for the HVAC tech or you're trying to sleep with no furnace, pile on sleeping bags and blankets for extra warmth. If you've successfully kept one room warm with various heating sources, consider a slumber party in that room to huddle together for warmth.
+* **Do laundry.** Some appliances generate a little heat and can warm up your home temporarily. Your clothes dryer is the biggest help in heating the house. Knock out all of your laundry while you wait for the HVAC tech to add a little warmth.
+* **Use heating pads or heated blankets.** You can make your bed toasty warm by using heating pads and heated blankets before you fall asleep. It's safest to shut these items off before you go to sleep, but they can make your space warmer.
+* **Stay active.** Moving around helps increase your body temperature and makes you feel warmer.
+* **Eat and drink warm things.** Another way to warm yourself up temporarily is to sip warm beverages or enjoy hot foods, like soup.
+
+How Do I Keep My Pipes From Freezing While My Furnace Is Out?
+-------------------------------------------------------------
+
+If the inside temperatures drop to below freezing, you can have a major plumbing issue on your hands. Open your cabinets under sinks where your plumbing pipes run to let as much warm air in as possible before the house cools down. Running a space heater near vulnerable pipes can also help. If you're concerned about imminent freezing, turn on your faucet just enough to let a little water run through. Keeping the water moving can prevent it from freezing in the pipes.
+
+**More Related Articles:**
+
+*   [Heat Your Home Safely This Winter: Carbon Monoxide Safety Tips](https://www.homeserve.com/en-us/blog/home-improvement/carbon-monoxide-safety/)
+*   [What’s the Best Heater for Your Space? Space Heater Buying Guide](https://www.homeserve.com/en-us/blog/buying-guide/space-heaters-pros-cons/)
+*   [Space Heater Safety Guide: 8 Tips to Avoid Fires and Burns](https://www.homeserve.com/en-us/blog/home-improvement/space-heater-safety/)
+*   [4 Signs Your Boiler Needs to Be Repaired or Replaced](https://www.homeserve.com/en-us/blog/home-improvement/boiler-repair-replacement/)
+*   [How Does a Pellet Stove Work?](https://www.homeserve.com/en-us/blog/home-improvement/pellet-stove/)
+
+Avoid These Hazardous Heat Sources
+----------------------------------
+
+Some methods of keeping your house warm are dangerous and should be avoided. Many options can produce deadly carbon monoxide in your home or significantly increase the risk of a fire.
+
+* **Heating with a gas stove or oven.** While normal use is safe, using your gas stove to heat your home can introduce high levels of carbon monoxide.
+* **Grills.** Never wheel a grill inside to heat your home, as it can also create carbon monoxide.
+* **Uncontained flames.** Starting a fire in a wood-burning fireplace is a good way to heat your home, but don't use a fire pit or other methods to start open flames in your home.
+* **Unattended heat sources.** All heating sources should be supervised. Don't leave space heaters or other heating sources unattended for any period.
+
+Prevent Furnace Breakdowns
+--------------------------
+
+Taking care of your HVAC system with regular professional tune-ups can help keep it running well. It's easier for all involved if an HVAC professional spots problems early when they're simple to fix and don't cause your furnace to shut down completely. Keep your filter changed regularly to prevent unnecessary strain that can damage key parts.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

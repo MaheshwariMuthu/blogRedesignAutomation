@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Can I Add a Second Floor to My Home and How Much Does It Cost?"
+headline: "Can I Add a Second Floor to My Home and How Much Does It Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2023-07-26
+basePath: https://library.homeserve.com/m/
+heroImage: 189627846b8b5a44/Blog-GettyImages-1222273617.jpg
+heroAltDescription: "Construction of the second floor inside home. Interior decoration. Flooring"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Building a second story is a major undertaking and an expensive project. Learn more about the associated costs."
+articleAbstract: "Adding a second story to a house could double your living space, making it a potential solution for families who have outgrown their current spaces. However, building a second story is a major undertaking and an expensive project."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "Can I Add a Second Floor to My Home and How Much Does It Cost?"
+  parent: Interior-Cost-Guide
+---
+  If your current home layout just isn't working for you anymore, you may be wondering if it's possible to build a second story. Adding a second story to a house will double your living space, making it a potential solution for families who have outgrown their current spaces.
+
+**This May Also Interest You:** [**Will Building an Addition Add to Your Home Value?**](https://www.homeserve.com/en-us/blog/home-improvement/addition-home-value/)
+
+However, building a second story is a major undertaking and an expensive project. So, how much does it cost to add a second story, and is it worth it? Find out below.
+
+Can I Add a Second Story to My House?
+-------------------------------------
+
+Many homeowners will be able to build a second-story addition, but whether it's a feasible option depends on a few factors.
+
+First, you'll need to check whether your existing structure can support an additional story. Some homes are unsuitable because of their design or the type of land they're built on. Even if it is possible, you may need to alter or reinforce the structure before you can start building. A professional builder can tell you whether adding a second story is possible, so start there.
+
+You'll also need to determine whether your local building restrictions let you extend your home upwards. Check that any builder you hire is aware of local regulations and has obtained the correct permits.
+
+How Much Does It Cost to Add a Second Story?
+--------------------------------------------
+
+How much it costs to add a second story depends on the type of addition you want, the materials you choose, and whether you need to replace the roof. It's sometimes possible to retain the existing roofing materials and reinstall them, but many projects require a new roof. Labor rates also vary widely according to location.
+
+Generally, you can expect to pay a professional contractor between $100 and $300 (CAD 133 and CAD 398) per square foot to add a second story to a house, so says [Forbes](https://www.forbes.com/home-improvement/home/cost-to-add-second-story/#:~:text=On%20average%2C%20the%20cost%20to,%24450%2C000%20for%20a%20full%20addition.). These figures assume that you're building a couple of extra bedrooms and a bathroom. This works out to a total cost between $100,000 and $300,000 (CAD 132,696 and CAD 398,088) for an additional 1,000 square feet. However, [Bankrate](https://www.bankrate.com/homeownership/adding-a-2nd-story/#cost-to-add-a-second-story) says costs per square foot could reach as high as $500 (CAD 663) if you want a complex design or premium materials.
+
+**More Related Articles:**
+
+*   [How Much Value Does a Bathroom Add to Your Home?](https://www.homeserve.com/en-us/blog/home-improvement/bathroom-addition-home-value/)
+*   [Keep the Mud Out: Here’s How to Build a Mudroom Addition](https://www.homeserve.com/en-us/blog/how-to/build-mudroom/)
+*   [How Much Does a Mudroom Addition Cost?](https://www.homeserve.com/en-us/blog/cost-guide/mudroom-addition/)
+*   [What Is a Home Improvement Loan and How Do You Get One?](https://www.homeserve.com/en-us/blog/home-improvement/home-improvement-loan/)
+*   [I Live in a Flood Zone … Should I Finish My Basement?](https://www.homeserve.com/en-us/blog/home-improvement/finished-basement-flood-zone/)
+
+Is It Cheaper to Build Up or Out?
+---------------------------------
+
+It's generally cheaper to build out than up. According to data from [Forbes](https://www.forbes.com/home-improvement/home/home-additions-cost/#:~:text=By%20size%2C%20assume%20you%27ll,hire%20to%20tackle%20the%20job.), you should expect to spend between $80 and $200 (CAD 106 and CAD 265) per square foot for building a ground-floor home addition, but costs will vary depending on labor rates in your area, the design and what materials you select.
+
+Is It Worth It to Add a Second Story?
+-------------------------------------
+
+Whether it's worth it to build a second story addition depends on your circumstances. Although it's generally cheaper to add a ground-floor addition to a house than to build a second story, many people find living in a two-story house more practical. Unless you own a lot of land, you probably won't have enough space to build an addition equaling the square footage of your existing property, whereas a second story could effectively double your square footage.
+
+Another factor to consider is how much upheaval you're prepared to tolerate during the build. Building a second story involves removing the roof, so your house will likely be uninhabitable for most of the process. Therefore, you'll need to shoulder the cost and inconvenience of living elsewhere until the project is complete. It's important to factor in the costs of renting alternative accommodations when deciding whether you can afford to build a second story.
+
+Once you've added up the cost of building a second story and compared it to building an addition, it's also worth considering if you might be better off moving instead. Selling your property and buying a larger one comes with its own costs, but it may work out to be cheaper than either option. It will also save you the inconvenience of undertaking a major building project.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/reJaChMAC_w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Roof Replacement Costs | How Much Does it Cost to Replace a Roof?"></iframe>

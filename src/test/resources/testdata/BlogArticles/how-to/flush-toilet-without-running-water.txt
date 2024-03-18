@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Flush a Toilet Without Running Water"
+headline: "How Do You Flush a Toilet Without Running Water?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-10-16
+basePath: https://library.homeserve.com/m/
+heroImage: 53cec31cfb91c144/Blog-GettyImages-1145363810.jpg
+heroAltDescription: "Inside water tank of toilet with float raised"
+metaDescriptions: "Got a planned water shut-off or an outage? Here's how to flush your toilet without running water."
+articleAbstract: "Whether you've got an upcoming water shut-off or you're dealing with an unexpected plumbing matter that's left you without running water, read this guide to learn how to flush a toilet without running water."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Flush a Toilet Without Running Water "
+  parent: Plumbing-How-To
+---
+  Running water is an essential function for homeowners and apartment dwellers, as it's pretty much impossible to take a hot shower, wash dishes and even thoroughly wash your hands without it. Figuring out how to flush a toilet without running water is a common dilemma when that running water is shut off. While certain tasks cannot be completed until the running water is restored, the good news is that there are ways to flush the toilet during water shut-offs, ranging from manual flushing of the remaining water to pouring water into the back of the tank.
+
+**This May Also Interest You:** [**How to Fix Your Toilet Handle in 6 Simple Steps**](https://www.homeserve.com/en-us/blog/how-to/fix-toilet-handle/)
+
+Whether you've got an upcoming water shut-off or you're dealing with an unexpected plumbing matter that's left you without running water, read on to learn how to flush a toilet without running water.
+
+Can You Flush a Toilet When the Power Is Out?
+---------------------------------------------
+
+In most cases, it's perfectly safe to flush a toilet when the power is out if the home plumbing is connected to a gravity-fed system, as these systems do not utilize electricity. However, if your plumbing is connected to an [electric pump-based system](https://toiletsexpert.com/can-you-flush-the-toilet-when-the-power-is-out/), you won't be able to flush the toilet until the power comes back on.
+
+How Do You Flush a Toilet When the Water Is Off?
+------------------------------------------------
+
+Gravity-fed flushing systems usually allow for one last flush after the water has been shut off. However, it's important to double-check to make sure that there's enough water in the back of the tank to complete a flush. First, remove the toilet lid. Check inside to ensure the water level is at least an [inch below the overflow tube](https://bathroomer.org/how-to-adjust-water-level-in-toilet-bowl/). Your toilet may also be equipped with a fill line for you to reference. If the water levels look good, you can flush the toilet like you normally would. If the water level seems low, you may have to add more water to the tank before manually flushing.
+
+Can You Flush a Toilet With a Bucket of Water?
+----------------------------------------------
+
+When the water is shut off, you can easily flush the toilet with a bucket of water. If you have a planned shut-off coming up, it's always a good idea to fill up a few buckets or water jugs — or even the whole bathtub — with water so you have a supply on standby. If the water shut-off was sudden and you don't have access to running water, you can also pick up a few gallon jugs at a local convenience store.
+
+Remove the top cover to the toilet tank and set it aside. Next, pour the water into the tank until it reaches the built-in fill line. If your toilet isn't equipped with a fill line, fill the tank until the water is one to two inches below the fill valve and overflow tube. When the tank is properly filled, simply replace the lid and flush the toilet using the handle or the flush valve button located on top of the lid.
+
+You can also flush by pouring water directly into the toilet bowl. Pour slowly at first, then quickly dump the water in to create enough pressure for a flush.
+
+**More Related Articles:**
+
+*   [Taking Out a Toilet? Be Sure to Drain It First](https://www.homeserve.com/en-us/blog/how-to/drain-toilet/)
+*   [Condensation on Your Toilet? Don’t Sweat It](https://www.homeserve.com/en-us/blog/home-improvement/condensation-toilet-tank/)
+*   [Never Flush These 11 Things Down Your Toilet](https://www.homeserve.com/en-us/blog/home-improvement/things-to-never-flush-down-toilet/)
+*   [Stop Flushing Money Down the Toilet: Go Low-Flow](https://www.homeserve.com/en-us/blog/buying-guide/low-flow-toilet/)
+*   [15 Common Plumbing Problems Every Homeowner Needs to Watch Out For](https://www.homeserve.com/en-us/blog/how-to/plumbing-drainage-problems/)
+
+How Much Water Do You Need to Flush a Toilet?
+---------------------------------------------
+
+The amount of water needed to flush a toilet depends on the make and model of the toilet. For example, toilets manufactured in 1980 and beyond can use between 1.5 and 3.5 gallons of water per flush, but older toilets may use up to 7 gallons of water per flush.
+
+Can You Manually Fill the Toilet Tank to Flush a Toilet?
+--------------------------------------------------------
+
+Toilet tanks can be manually filled to flush toilets, as long as the toilet utilizes a gravity-fed flushing system. Remove the lid from the toilet tank and pour water into the tank until it hits the fill line or sits approximately an inch or two below the overflow tube. When you're ready to flush the toilet, do so as you normally would.
+
+If the toilet uses an electric pump system and both the water and power are shut off, the pump may malfunction and lead to excess water inside the tank. Adding water may cause your toilet to overflow, so it's best to contact a professional plumber in this scenario.<br><iframe width="1072" height="603" src="https://www.youtube.com/embed/ut21k0-1KZQ?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

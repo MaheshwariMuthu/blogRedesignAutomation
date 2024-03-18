@@ -1,0 +1,116 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Build a Wheelchair Ramp"
+headline: "How to Build a Wheelchair Ramp"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2021-03-15
+basePath: https://library.homeserve.com/m/
+heroImage: b435d52f3f9ab06/Blog-1131957965.jpg
+heroAltDescription: "Home Improvement DIY Installation of a residential wheelchair ramp"
+metaDescriptions: "If a family member has mobility issues that aren’t likely to improve, it may be necessary to install a wheelchair ramp to the entrance of your home. Here's how."
+articleAbstract: "If a family member has mobility issues, it may be necessary to install a DIY wheelchair ramp to the entrance of your home. Here's how to build a ramp."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Build a Wheelchair Ramp"
+  parent: Exterior-Home-How-To
+---
+  **Wheelchair Ramp Installation at a Glance**
+
+*   Check local building codes and ADA standards
+*   Choose location and identify obstacles
+*   Calculate proper slope and width
+*   Choose appropriate ramp configuration
+*   Gather materials: Both 2-inch by 6-inch and 2-inch by 4-inch pressure-treated boards; composite deck board; 4-inch by 4-inch treated lumber; concrete mix; 2-inch and 2 1/2-inch galvanized screws
+*   Dig postholes, install posts and fill with concrete
+*   Frame up ramp
+*   Install decking and railing
+
+If someone in your family uses a wheelchair to get around or has mobility issues that aren’t likely to improve, it may be necessary to install a wheelchair ramp to the entrance of your home. While you can certainly hire a pro to build one for you, you may also be able to tackle this project on your own, depending on your skill level and particular needs and specifications.
+
+**This May Also Interest You:** [**Is a Concrete or Asphalt Driveway Cheaper?**](https://www.homeserve.com/en-us/blog/cost-guide/is-a-concrete-or-asphalt-driveway-cheaper/)
+
+If you have some basic construction know-how and access to the necessary tools (and if you don’t mind breaking out some of that 10th-grade geometry), this is a project you can likely handle on your own in a weekend.
+
+Getting Started
+---------------
+
+Before you start building, it’s a good idea to check in with your municipality’s building office, as chances are you’ll need to obtain a permit for your project. This is also a good time to read up on the design standards implemented by the [Americans with Disabilities Act](https://www.ada.gov/). While the ADA doesn’t generally apply to private residences, understanding the ADA’s standards can help ensure your ramp is safe and functional for those who use it. Also note that, just because the ADA doesn’t enforce these standards on residential homes, many state and local building codes require their own design protocols that most likely will be enforced. Double check these specifications before getting started — you’ll be glad you did.
+
+How Do You Make a Simple Ramp for a Wheelchair?
+-----------------------------------------------
+
+Building a wheelchair ramp can be a straightforward project depending on your carpentry skills. If you’re at ease with a circular saw and other power tools, and feel comfortable with basic framing and construction principles, then making a simple ramp shouldn’t be out of your wheelhouse. That said, if you feel that the project might be out of your comfort zone, find a contractor who’s a [Certified Aging-in-Place Specialist](https://www.nahb.org/education-and-events/education/designations/Certified-Aging-in-Place-Specialist-CAPS) by the [National Home Association of Home Builders](https://www.nahb.org/).
+
+As you begin, it’s important to first determine where your wooden wheelchair ramp will need to go. You’ll find that many aspects of ramp design are impacted by space limitations or obstacles, like bushes or trees. Oftentimes, constructing a U-shaped ramp is needed to save space and increase usability.
+
+What Is the Proper Slope for a Wheelchair Ramp?
+-----------------------------------------------
+
+Before you begin constructing your do-it-yourself wheelchair ramp, make sure you spend time determining the size and slope of your ramp. Calculating the slope of the ramp can be a challenge, but it’s best understood as the relationship between the height and angle of the ramp. Slope is usually written as a ratio of the two measurements. For example, the ADA requires all businesses and public use ramps to adhere to a 1:12 slope, which means that, for every inch of vertical rise, there must be 12 horizontal inches of ramp space.
+
+Keep in mind that 1:12 is the highest slope permitted by the ADA, so creating a more gradual slope, say at 1:16, will be even easier to use and navigate. That said, a more gradual slope means your ramp will be longer and, thus, will require more materials.
+
+To calculate how far the ramp will extend, multiply the height of the ramp by your desired slope. Then, convert that unit into feet by dividing by 12.
+
+How Wide Should Your Wheelchair Ramp Be?
+----------------------------------------
+
+According to the ADA, and most building codes, the minimum width inside the handrails must be at least 36 inches, which will accommodate most wheelchairs. Bear in mind that this means your ramp needs a few inches of additional space for handrails, which will take up at least an inch and a half on each side.
+
+Choosing a Shape
+----------------
+
+Generally speaking, there are three main ramp designs that most homeowners use. Choosing a design for your ramp generally comes down to your personal aesthetic preferences, yet is often impacted by the shape and slope of your yard and any trees or other obstacles in the way.
+
+### In-Line Ramp
+
+The most common style is a straight, in-line ramp, which, as you may suspect, is the simplest design, extending straight out from the entrance of the home to ground level.
+
+### U-Shaped Ramp
+
+Another style is a U-shaped design, which utilizes a 180-degree switchback with at least two additional intermediate landings. An intermediate landing is a break in the sloped area of a ramp that creates a level spot for a wheelchair to land.
+
+### L-Shaped Ramp
+
+Another popular design is an L-shaped ramp, which turns at a 90-degree angle at the intermediate landing.
+
+Gather Materials
+----------------
+
+Before you begin purchasing your materials, always remember that, because the ramp is an outside structure, you should always use pressure-treated lumber. Treated lumber can handle the elements better than non-treated wood, and it’s far more durable, as well.
+
+The amount of materials required for this project obviously depends upon the size and scope of your ramp but, in general, you’ll need:
+
+*   Both 2-inch by 6-inch and 2-inch by 4-inch pressure-treated boards and some composite deck board for the frame of the ramp and the ramp itself, respectively
+*   Four-inch by 4-inch treated lumber and concrete mix for the ramp’s posts
+*   Plenty of 2-inch and 2 1/2-inch galvanized screws
+
+Dig the Postholes and Frame the Ramp
+------------------------------------
+
+*   To ensure that the ramp is structurally sound and secure, you should dig postholes that are spaced around 6 feet apart; if needed, the posts can be spaced as far apart as 8 feet.
+*   Make sure the posts are plumb (straight vertically) and pour concrete mix into each hole.
+*   Once the concrete mix has been poured in, fill the hole with water. Note that concrete takes about 24 hours to 48 hours to dry, so you’ll need to plan accordingly.
+*   Once the concrete dries, it’s a good idea to add cross braces to each post for greater lateral stability.
+*   Once your posts are set, use joist hangers and attach the rim joists and interior joists to the posts.
+*   Every 4 feet, use cross braces on the joists to ensure your ramp is secure.
+
+Install the Decking and Railing
+-------------------------------
+
+After the framing is built, attach your composite decking material to the joists. While you can use any type of decking material, such as pressure-treated decking or other similar options, a composite material is a superior choice; composite is low-maintenance and will last for a long time.
+
+Once the decking has been installed according to the manufacturer’s guidelines, you can install railing. Before installing, make sure you double check your local building codes for any specific requirements and permits you might need. Again, a good option is to use composite railing, which usually makes for an easier install if you follow the recommended process from the manufacturer.
+
+After you’ve installed the railings and double-checked the overall stability of the structure, the wheelchair ramp should be ready for use. Applaud yourself for a job well done and rest easy knowing that your wheelchair- or walker-using loved one now has a much safer and easier entrance into the home.
+
+**More Related Articles:**
+
+*   [Non-Salt Awesome Sauce Alternatives for De-icing Your Driveway](https://www.homeserve.com/en-us/blog/how-to/deicing-driveway/)
+*   [How Much Does a Concrete Driveway Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-a-concrete-driveway-cost/)
+*   [How Much Does an Asphalt Driveway Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-paving-an-asphalt-driveway-cost/)
+*   [How Much Does a Heated Driveway Cost?](https://www.homeserve.com/en-us/blog/cost-guide/heated-driveway/)
+*   [Step Up Your Storage Game by Installing an Attic Ladder](https://www.homeserve.com/en-us/blog/how-to/how-to-install-an-attic-ladder/)
+
+_Designing our homes to accommodate the needs of our families can be rewarding. Another way to ensure that your home stays safe and comfortable is by having a plan in place from HomeServe. When you’re prepared with a plan from HomeServe, you can keep your appliances and the major systems in your home working properly. When an issue arises, you can call our 24/7 repair hotline, and we will send a local, expert technician to handle repairs, up to the benefitted amount. Learn more about plans from HomeServe today._

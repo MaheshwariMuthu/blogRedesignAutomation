@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Do Smart Garage-Door Openers Cost?"
+headline: "How Much Do Smart Garage-Door Openers Cost?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-09-08
+basePath: https://library.homeserve.com/m/
+heroImage: 4bc1e382f72858ba/Blog-SmartGarage_graphic.jpg
+heroAltDescription: "Simulated image of a smart garage door app being used on an iPhone"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Wondering how much smart garage-door openers cost? Here's a price breakdown."
+articleAbstract: "Wondering how much smart garage-door openers cost? Here's a price breakdown."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Do Smart Garage-Door Openers Cost?"
+  parent: Exterior-Cost-Guide
+---
+  
+
+As more homeowners invest in smart technologies and home security systems, smart garage-door openers are becoming increasingly commonplace. They can add an extra layer of protection to your garage. But perhaps the biggest reason for purchasing a smart garage-door opener is the convenience factor. A normal garage-door opener allows for remote operation from a few feet away, but smart openers take it a step further by allowing you to open and close your garage door from wherever you are — even if you aren’t sitting in your driveway.
+
+**This May Also Interest You:** [**Is a Smart Garage Door a Wise Investment? Here’s What You Need to Know**](https://www.homeserve.com/en-us/blog/home-improvement/smart-garage-door/)
+
+On board, yet? If so, you may be wondering how much these smart garage-door openers cost. Here's a price breakdown.
+
+What’s a Smart Garage-Door Opener?
+----------------------------------
+
+Normal garage-door openers allow you to open or close your garage door remotely. Smart garage-door openers pair with your smart devices for increased functionality. This might include your smartphone, tablet or a virtual assistant like Amazon Echo or Google Home.
+
+When you invest in a garage-door opener with smart device compatibility, you can receive notifications to your phone. You’ll know if the garage door opens when you're not home, alerting you to potential theft or unauthorized visitors. With some devices, you may also be able to lock or close the garage door remotely if you forgot to do so when you were leaving for work.
+
+However, most of these devices come with an additional cost for these services. This might be a monthly subscription for pairing your garage door opener with smart devices. You might have to pay a monthly fee if you want professional security monitoring of your garage. This option takes away the pressure of self-monitoring while you’re out.
+
+Smart Garage-Door Openers: Monthly Costs
+----------------------------------------
+
+One popular model is the myQ from Chamberlain. The units themselves cost between [$179 and $419](https://www.chamberlain.com/garage-door-openers/c/smart-garage-door-openers#tab=products&numberOfResults=30&sortCriteria=%40ch_pricevalue_usd_double%20ascending) (CAD 230 and CAD 540). MyQ offers connectivity to [Google Assistant](https://www.myq.com/google-assistant) and [IFTTT](https://ifttt.com/) — software that connects devices and triggers automations — free. However, you'll need to pay a subscription fee if you want to store videos. [Seven-day video storage](https://www.myq.com/solutions/video-storage-subscription) costs $3 (CAD 4) per month or $30 (CAD 40) per year, while 30-day storage costs $10 (CAD 13) per month or $100 (CAD 130) per year.
+
+Subscription fees for other smart garage-door openers range dramatically depending on the service, brand and product you're connecting to your smart devices. In general, the monthly fee is fairly low for the level of comfort and convenience these smart home services provide.
+
+It's possible to find smart garage door openers that pair with Apple Home Kit for free, like [iSmartGate](https://ismartgate.com/homekit-garage-door/). According to data from [Fixr](https://www.fixr.com/costs/garage-door-opener-installation#chamberlain-garage-door-opener-price), other popular brands may charge between $150 and $600 (CAD 190 and CAD 770) for the hardware, plus the fees for Google Assistant or IFTTT connectivity.
+
+If you're not concerned about home security in the first place, you might not be willing to pay for these services, and that's completely fair. However, if you're someone who regularly worries about potential break-ins — or if you have trouble remembering if the garage door was locked or shut when you left — these low monthly fees might prove worth it for your peace of mind.
+
+<img class="detail-image" src="https://library.homeserve.com/m/6d466cf5ab0052d7/Blog-SmartGarageOpenerERossi-1127.jpg" alt="garage door opener"/>
+
+**More Related Articles:**
+
+*   [Common Garage Door Problems and How to Repair Them](https://www.homeserve.com/en-us/blog/how-to/common-garage-door-problems/)
+*   [A DIY Guide to Replacing Your Garage-Door Spring](https://www.homeserve.com/en-us/blog/how-to/replace-garage-door-spring/)
+*   [How to Open a Garage Door Manually](https://www.homeserve.com/en-us/blog/how-to/open-garage-door-manually/)
+*   [What Do You Do If Your Garage Door’s Spring Breaks?](https://www.homeserve.com/en-us/blog/home-improvement/broken-garage-door-spring/)
+*   [How Much Does an Insulated Garage Door Cost?](https://www.homeserve.com/en-us/blog/cost-guide/insulated-garage-door/)
+
+Why Should I Invest in Monthly Subscription Smart Garage-Door Opener Services?
+------------------------------------------------------------------------------
+
+There are several reasons to consider paying for smart garage-door opener services. As previously mentioned, anyone who stresses about leaving the door open or unlocked will probably like being able to check their phone from work to see that their garage is safe and secure at home.
+
+Individuals who live in an area where thefts have recently taken place may also feel safer with the ability to monitor their garage from afar, especially if you own other vehicles that are still sitting in your garage while you're out. Items like a four-wheeler or motorcycle are smaller and easier to steal, and with no car in the driveway, it's a dead giveaway to thieves that no one is home to stop them. If you have an ultra-modern glass garage door where passersby can see what's inside, that's an even better reason to drop the money on monitoring your valuables remotely via your smartphone.
+
+For some people, the biggest factor isn’t security, but convenience. If you simply don't want to deal with clunky manual keypads, or if you hate constantly changing the batteries in your remote opener, it might be worth the subscription fees to make your smartphone a garage-door opener. Whether you're in the house and need to take the trash out, or you're pulling up in your car after a long day at the office, being able to control the door from your phone will certainly make your life easier.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/qpoqCRPHjqE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Find Your iPhone or Android Smartphone Serial Number"></iframe>

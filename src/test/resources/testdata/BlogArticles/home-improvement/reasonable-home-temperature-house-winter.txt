@@ -1,0 +1,42 @@
+---
+layout: layouts/post-layout.njk
+titleTag: What is a reasonable temperature for a House in Winter?
+headline: Keep your Home nice and toasty in the Winter
+author: Team HomeServe
+tags: ['post', 'Heating & Cooling', 'Top Tips and Lists' , 'Know Your Equipment']
+publishDate: 2019-01-09
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: SnowCoveredHouses.jpg
+heroAltDescription: What is a reasonable temperature for a House in Winter?
+metaDescriptions: Here's how to set your thermostat for comfort and energy savings all winter long.
+articleAbstract: Looking to keep your house warm this winter without having to pay too much? We’ve got some suggestions...
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: What is a reasonable temperature for a House in Winter?
+  parent: HVAC-Home-Improvement
+---
+
+:::: blog-info
+While I'm all for my home feeling luxuriously toasty when it's cold outside, I also can't help but worry about the additional money I have to spend by turning up the heat. _(Every winter I’m amazed at the how my monthly bill spikes from December to March.)_ So, this year’s winter life goal is to find the temperature that feels comfortable for me to hang in my house but doesn’t leave me eating instant ramen all winter long.
+
+Here's how to set your thermostat for comfort and energy savings:
+
+## When you're home: Around 68 degrees
+
+According to the Department of Energy,  [68 degrees Fahrenheit is the sweet spot](https://www.energy.gov/energysaver/thermostats){target="_blank"} when you're home during the winter. You can also drop it down a few degrees when you're sleeping to save more energy, as you'll be under the blankets for extra warmth. A common recommendation is to [set the heat to 62 degrees](https://www.directenergy.com/learning-center/energy-efficiency/recommended-thermostat-settings-winter){target="_blank"} for the best energy efficiency when you're sleeping, but if that's too chilly, aim for no higher than 66 degrees.
+
+You can always ease into the lower settings if you're uncomfortable at 68 degrees initially. As you get used to the colder weather outside, try lowering the temperature inside by just one degree each week. Even that slight difference can help reduce your energy bills, and over time you'll be able to maintain the recommended 68 degrees for longer periods of time. You can also use [space heaters to boost the warmth factor](/en-us/blog/buying-guide/best-space-heaters){target="_blank"} in the areas of your home where you still feel a chill.
+
+## When you're away: Around 50 degrees
+
+You may be tempted to turn off the heat entirely when you leave the house, but that can actually cause more harm than good. Instead, lower the temperature to about 50 degrees to prevent frozen pipes and other system issues. Turning the heat down will still reduce energy consumption, so you won't waste money on heating your home while you're at work or headed on vacation.
+
+## Boost your heating efficiency
+
+The best way to control the temperature in your home is to [install a programmable or smart thermostat](/en-us/blog/how-to/install-thermostat){target="_blank"}. The Nest thermostat, for instance, [learns your heating patterns](/en-us/blog/buying-guide/nest-thermostat-review){target="_blank"} and automatically alters the temperature when you're home during the day versus when you're away or sleeping. That way, you won't have to worry about manually adjusting the temperature each day. Despite what kind of thermostat you have, you can [maintain the unit with regular cleanings](/en-us/blog/how-to/clean-thermostat){target="_blank"} to further improve energy efficiency.
+
+Other ways to conserve heat include sealing cracks around windows or doors, maintaining optimum insulation throughout the house, keeping exterior doors and windows closed when the heat is on and even dressing in an extra layer when inside your home. Additionally, make sure your heating system is in tip-top shape before the cold weather settles in for good, scheduling a professional annual inspection well in advance.
+
+The last thing you want is to be stuck without heat in the dead of winter. That’s why being prepared before a home heating system emergency occurs is always a good idea. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+::::

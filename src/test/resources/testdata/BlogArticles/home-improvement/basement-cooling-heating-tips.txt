@@ -1,0 +1,56 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Best way to heat and cool a Basement
+headline: Tips for cooling and heating your Basement
+author: Team HomeServe
+tags: ['post', 'Cooling']
+publishDate: 2018-08-17
+basePath: /en-us/assets/images/blog/home-improvement/
+heroImage: BasementCooling.jpg
+heroAltDescription: Best way to heat and cool a Basement
+metaDescriptions: Did you know that your basement needs proper wall insulation and subflooring to help keep your HVAC system performing at its best?
+articleAbstract: Help to ensure your basement is cool in the summer and warm in the winter with these heating and cooling tips.
+category: ['Home Improvement']
+
+eleventyNavigation:
+  key: Best way to heat and cool a Basement
+  parent: HVAC-Home-Improvement
+---
+
+::: blog-info
+An unfinished basement can be a haunting space that houses spillover boxes, laundry units and the cat litter box. Finished basements add square footage to your home, opening the door for game rooms, guest spaces, playrooms, hobby areas and much more. To take full advantage of this added lower level, it helps to maintain a comfortable temperature in an otherwise dingy and chilly room.
+
+Follow these tips to properly heat and cool your basement:
+
+## Extend your HVAC system
+
+If your current HVAC system is up for the job, you can extend it to heat and cool your basement in addition to the rest of your house. This expansion requires a professional calculation based on unit capacity, equipment and building type, so contact an HVAC professional to determine whether your system can handle the extra square footage.
+
+If the answer is “yes”, contractors can install additional vents and extend existing ductwork to reach the basement. Note that extending your HVAC system can be done to an already finished basement, this step may be easier to complete during a remodeling process. This allows you to conceal the new ductwork as you finish the basement.
+
+## Install additional units    
+
+If your existing system is unable to handle the extra space, you'll need to install additional units to increase the power and capacity. However, keep in mind that installing equipment dedicated to exclusively heating and cooling the basement requires finding room for the supplementary units, as well as installing new circuits on your main electrical panel. While still a large investment, upgrading your current system with higher-capacity equipment can be less expensive and save you from finding space for multiple furnaces and air conditioning systems.
+
+## Amp up the insulation
+
+Without proper insulation, your HVAC system will have to work twice as hard to keep your home at a comfortable temperature. Make sure your basement has enough padding, including wall insulation and subflooring, to help your units tackle their heating and cooling jobs.
+
+## Take advantage of natural ventilation
+
+You can also boost your system's performance by improving the air circulation in the basement, as proper air flow is key for your HVAC units to work efficiently. If your basement has windows, try opening them for natural ventilation, plus install window fans or air conditioning units to help with natural air flow. You may also want to install exhaust fans, which connect to the vents, to improve air flow and reduce unwanted moisture (which can cause mold, mildew or water damage.) Follow these ventilation tips to further [improve the air quality of your home and basement](/en-us/blog/home-improvement/air-duct-ventilation-maintenance-tips){target="_blank"}.
+
+## Consider additional heating and cooling solutions
+
+To further increase the coziness of your basement during the chillier months, you can install a fireplace or wood-burning stove, which can provide relatively immediate warmth when you need it. Electric baseboard heaters are also a simple way to warm the space, especially as they don't require ducts and are relatively easy to install. Space or wall-mounted heaters and heated flooring can also help increase the temperature in the basement.
+
+Basements are generally cooler than the rest of the house, so it should be easy to maintain comfortable temperatures even when it's hot outside. However, you can help your system cool down the space with ceiling fans or freestanding/box fans. If you don't think you need a central cooling system, you can install different types of units, such as a ductless, mini-split air conditioning system. Rather than relying on ductwork extension, these mini-split units include an outdoor compressor and indoor air handler that are connected by tubing with the cooling refrigerant.
+
+Along with these heating and cooling tactics, proper upkeep can keep your HVAC system running efficiently. Be sure to schedule a yearly professional HVAC tune-up to help avoid potential emergencies.
+
+Being prepared before home repair issues arise is always a good strategy. Plans from HomeServe can help with the costs of covered repairs. [See what plans]({{ migrationData.homepage }}){target="_blank"} are available in your area.
+:::
+
+::: responsive-iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8mzG-IJupUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

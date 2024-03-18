@@ -1,0 +1,38 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Safety Recall: Toro"
+headline: "Amputation Risk Prompts Recall of 6,700 Toro Snowthrowers"
+author: Matt Schmitz
+tags: ["post"]
+publishDate: 2021-02-26
+basePath: https://library.homeserve.com/m/
+heroImage: 46af0e7ddcd07544/webimage-ToroSnowthrower_Manufacturer_002.png
+heroAltDescription: "recalled model of Toro Snowthrower snowblower"
+metaDescriptions: "Toro, manufacturer of Power Max Snowthrowers, is recalling about 6,700 of the snow-removal devices to repair a defect that poses an amputation hazard."
+articleAbstract: "If you purchased a Toro-brand snowthrower between November 2020 and January 2021, you’re going to want to pay attention. Toro, the Bloomington, Minn.-based manufacturer of Power Max Snowthrowers, is recalling about 6,700 of the snow-removal devices to repair a defect that poses an amputation hazard."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Toro Snowthrower Recall"
+  parent: Appliances
+---
+  If you purchased a Toro-brand snowthrower between November 2020 and January 2021, you’re going to want to pay attention. Toro, the Bloomington, Minn.-based manufacturer of Power Max Snowthrowers, is recalling about 6,700 of the snow-removal devices to repair a defect that poses an amputation hazard.
+
+**This May Also Interest You:** [**Frozen Gutters be Dammed! 6 Ways to Eliminate Ice Dams**](/en-us/blog/how-to/thaw-frozen-gutters/)
+
+[According to Toro](https://www.toro.com/en/product-safety-information/my21-power-max-826-snowthrower-recall), the auger can fail to disengage when the control lever is released, potentially resulting in serious injury. Affected by the voluntary recall — [announced Feb. 17](https://www.cpsc.gov/Recalls/2021/Toro-Recalls-Power-Max-Snowthrowers-Due-to-Amputation-Hazard) by the U.S. Consumer Product Safety Commission — are model-year 2021 Toro Power Max 826 OHAE Snowthrowers, Model Number 37802. The Juarez, Mexico-built snowthrowers sell for around $1,200 at The Home Depot, Ace Hardware and other authorized dealers.
+
+Toro stated that it has received five reports of the issue, but was not aware of any related injuries.
+
+“Consumers should immediately stop using the recalled Toro Power Max Snowthrower and contact a Toro authorized dealer for a free repair,” the manufacturer said in a statement.
+
+If you think your Toro snowthrower might be subject to the recall, find the model number and serial number on the back of the device, then check your serial number against those [listed at the bottom of the page, here](https://www.toro.com/en/product-safety-information/my21-power-max-826-snowthrower-recall).
+
+To find a Toro dealer near you for repairs, call the company’s 24-hour toll-free number, 833-254-8856, or go to [https://www.toro.com/locator](https://www.toro.com/locator). For more consumer product safety information, go to [cpsc.gov](https://www.cpsc.gov).
+
+**More Related Articles:**
+
+*   [5 Things You Can Do to Protect Your Home From a Polar Vortex](/en-us/blog/home-improvement/polar-vortex-protection/)
+*   [Non-Salt Awesome Sauce Alternatives for De-icing Your Driveway](/en-us/blog/how-to/deicing-driveway/)
+*   [How to Prepare for a Snowstorm](/en-us/blog/how-to/snow-storm-preparation/)
+*   [What Do You Do When a Product Is Recalled? Here's Everything You Need to Know](/en-us/blog/home-improvement/what-is-product-recall/)
+*   [How To Winterize a House: Your No-Chill Check](/en-us/blog/how-to/winterize-house/)<br><iframe width="520" height="281" src="https://www.youtube.com/embed/INZAQqxT59k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

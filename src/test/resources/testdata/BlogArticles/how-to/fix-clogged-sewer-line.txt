@@ -1,0 +1,146 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What To Do When You Have a Clogged Sewer Line"
+headline: "Got a Clogged Sewer Line? Here’s What to Do"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-02-01
+basePath: https://library.homeserve.com/m/
+heroImage: 7e127332593f234a/Blog-131.jpg
+heroAltDescription: "clogged sewer line"
+metaDescriptions: "Being able to quickly recognize and address a clogged sewer line will keep you from dealing with major flooding and other serious problems."
+articleAbstract: "A clogged sewer line can cause major damage to your home. Learn how to recognize the signs of a clogged sewer line and what to do to get things flowing again."
+stickyFooter: true
+stickyZip: false
+phoneNumber: 877-340-0919
+stickyDisplayText: Call today for a local plumber.
+lightboxCopy: Local plumbing pros are ready to handle your repairs.
+bannerArticle: true
+banner:
+  url: https://callapro.com/plumbers/hs/same_day
+  large:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner1.png
+      alt: Plumbing eLocal Banner 1
+  thin:
+      image: /en-us/assets/images/blog/plumbing_elocal_banner2.jpg
+      alt: Plumbing eLocal Banner 2
+category: ["How To"]
+
+eleventyNavigation:
+  key: "What To Do When You Have a Clogged Sewer Line"
+  parent: Exterior-Home-Home-Improvement
+---
+
+When you have a clogged drain in your house, your first instinct is probably to grab a plunger. Little do you know, there are some cases where standard plunging is almost useless — like when the main sewer line in your home gets clogged. When this happens, you can end up with widespread flooding and plumbing problems all over your home.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+
+**This May Also Interest You:** [**Water Sewer Line Repair: DIY or Plumbing Pro**](https://www.homeserve.com/en-us/blog/home-improvement/water-sewer-line-repair/)
+
+To prevent serious damage, you need to be able to identify clogged sewer lines and know how to handle them.
+
+## Are Your Main Sewer Lines Clogged?
+
+Throughout your home, you have drain lines carrying wastewater away from sinks, toilets, tubs and more. All of these lines lead to the main sewer line. This huge pipe sends all the waste from your home right to your sewer or septic system. When it gets clogged, drains all over your home are unable to work — and you could even end up with water backing up out of your fixtures, leaky pipes and other problems. *Yikes!*
+
+
+If you find yourself with a main sewer line clog, there's not really any do-it-yourself way of fixing it. These drain lines are often buried deep under the ground far away from your home. You typically need special equipment and professional know-how to handle them. Though you usually cannot repair it yourself, that doesn't mean you're helpless. There are still a couple things you can do to keep the problem from getting worse until a plumber can help you.
+
+<img class="detail-image" src="https://library.homeserve.com/m/225e0cacd2f08fba/Blog-56.jpg" alt="clogged sewer line"/>
+
+## Clogged Sewer Line Causes
+
+This type of clog is fairly rare, since most sewer lines are around 4 to 6 inches wide. It usually only happens if something has gone seriously wrong in your plumbing system. One of the most common causes of a clog is damage to the sewer line itself. If a pipe collapses or bends, the damage can keep waste from moving through the line properly. There are all sorts of things that can harm a sewer line, including:
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+- Shifting soil around the pipe
+- Corrosion within the pipe
+- Construction near the line
+- Heavy traffic above the sewer pipe
+- Damaged pipe joints
+
+<!-- -->
+
+Another big reason sewer lines clog is that they gradually sag over time. This bend in the pipe makes it easy for debris to collect, eventually causing a clog.
+
+<img class="detail-image" src="https://library.homeserve.com/m/58abdc2e5e1ae61b/Blog-iStock_000024642906_Full.jpg" alt="water service line"/>
+
+The most common type of debris that clogs a sewer line is fat. If you pour greases, fats or oils down a sink drain, they will eventually cool and harden. Even if you run hot water with the grease, it typically firms up by the time it reaches your main sewer line. Then, the fat sticks to your lines and causes a clog.
+
+Other types of debris that often causes clogs includes paper towels, so-called *flushable* wipes, sanitary products and other bulky items flushed down the toilet. You should never send anything besides liquids and toilet paper down your drains.
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.thin.image, banner.thin.alt %}
+{% endif %}
+
+A final cause of clogged sewer pipes is tree roots. Trees are surprisingly powerful. Even tiny roots can worm their way into your pipes over time. You may not notice a significant leak since the root will clog up the broken area in the line. However, as the roots keep growing inside of the pipe, they form a mass through which sewage has a hard time passing.
+
+## Signs Your Sewer Line May Be Clogged
+
+Most clogged sewers happen gradually. Being able to identify them in the early stages will help you address problems *before* you end up with sewage water flooding your entire house. Here are some things to look out for if you suspect that you may need a sewer line cleaning:
+
+### Dark Water
+
+One of the signature symptoms of a main-drain clog is water backing up in your tubs or showers. This happens when you try to drain water but there's nowhere for it to go because the sewer line is clogged. The water then moves backward, seeking the lowest point of entry. In most homes, this will be the shower, tub or floor drain in a basement.
+
+Unlike flooding fixtures caused by a leaky pipe, the water will not be clear. Since a lot of waste material is mixed in, it will usually be dark, stinky and gross-looking. Keep in mind that this water can have raw sewage, so you need to be cautious around it. Use proper protective gear and powerful cleaners when cleaning up after dark water flows into your drains.
+
+### Slow-Moving Drains
+
+Take a minute to think about the drains in your home. Are they draining rapidly, or do you notice water pooling whenever you run the water? Your drains tend to slow down when there's a clog because most sewer line clogs do not suddenly block 100% of the pipe. Instead, debris accumulates over time, making it harder and harder for waste to move through.
+
+If all the drains in your home are starting to slow down, the problem is most likely a clogged sewer line. Typically, the first drains you will notice slowing down are the toilet drains. When you flush the toilet, the water may seem to hang there for a moment before gradually sinking down. [Toilets](https://www.homeserve.com/en-us/blog/how-to/unclog-toilet/) are often the first drain affected by a mainline clog because they’re usually connected directly to your sewer line.
+
+### Gurgling Sounds
+
+Because a mainline clog keeps your drains from working properly, you might get some weird reactions as you use your plumbing system. When you run a sink, flush a toilet or use a washing machine, water and air bubbles can form. All this stuff rumbling around in your pipes can cause noises. Since sound travels strangely through pipes, these noises can seem to come from plumbing fixtures, walls other rooms, or even the floor and ceiling.
+
+The most frequent sound people report is a gurgling noise that happens while they're using a drain. However, you may also notice strange hissing, bubbling or trickling noises. If your main sewer line is almost entirely clogged, it can take a while for stuff to drain through. Therefore, you may keep hearing weird noises long after you quit using a drain.
+
+### Clogged Plumbing Fixtures
+
+If your clogged sewer line goes unnoticed for too long, you’ll start noticing this sign: As the clog builds up, almost no wastewater will be able to move through the pipe. When this happens, your drains quit working altogether. Instead of just slightly slow drainage, your plumbing fixtures will seem to quit draining entirely.
+
+Remember that all the plumbing fixtures in your home are connected, so a clogged sewer pipe will keep draining from happening all over the house. If you run the kitchen sink, you may walk into the bathroom to find a shower that seems clogged. Your toilets on the upper floor might seem to work fine, but then when you go downstairs, all the sinks may be clogged.
+
+## What to Do When Your Sewer Line Is Clogged
+
+Noticing that your sewer line is clogged is half the battle. Once you realize it's happening, the solution is simple. You just need to keep calm and follow these two simple steps:
+
+### 1\. Turn Off the Water
+
+First of all, turn off the water in your home. This step is important because it keeps the situation from getting worse. You don't want to absentmindedly turn on a [clogged sink](https://www.homeserve.com/en-us/blog/how-to/unclog-kitchen-sink/) and end up flooding one of your bathrooms with raw sewage. It also keeps leaking pipes or automatic processes — like a dishwasher on a timer — from trying to drain more water into your clogged line.
+
+To turn off your water, you need to identify your water main, which is the line that supplies your home with water. Often, you can find it near your home's water meter, or sometimes it's outside the home near a corner of your house. It typically has a large wheel, handle or lever. Turn it until it’s entirely closed off.
+
+### 2\. Call a Plumber
+
+It's technically possible to clear out some small sewer line clogs yourself, but this is rarely advisable. The problem with DIY repair is that the majority of sewer line clogs are caused by broken pipes, tree roots and other issues deep within your plumbing system. Most people who know how to handle a basic drain clog don't have the tools for sewer drain clogs.
+
+Professionals have heavy-duty main sewer line cleaners and other equipment that lets them clear away all sorts of clogs. They also have the knowledge and experience to diagnose the primary issue. Just dumping some main drain cleaner down a toilet yourself won't help you identify and repair tree root growth or other serious plumbing problems.
+
+Getting a professional to examine your whole plumbing system will help ensure the real problem is addressed. Depending on your situation, you may need to replace sewer pipes entirely, which can involve digging up the yard and doing some major plumbing.
+
+## How Do You Unclog a Sewer Line?
+
+Ultimately, you do need a professional who knows how to unclog a sewer line. However, there are a few things you can do to at least try mitigating the clog before your contractor arrives.
+
+Many homes have a sewer line cleanout, which is a large pipe with a cap on the end, found in your basement or on the side of your home. You can remove this cap to access your main sewer line. If you get very lucky, the clog might have been forced against your cleanout, in which case, you can just pull it out manually.
+
+You can also try running a plumbing auger through the sewer line. This may break up the clog or enable you to pull out some of the debris. However, sewer line clogs are often big enough that the standard drain auger can't fix the clog.
+
+Most of the time, snaking your sewer line yourself will just get things moving a little, making it easier to clean up backflow and get your home in livable condition. Keep in mind that clogs will probably keep happening until you get a thorough sewer line cleaning. You'll still need to call in a licensed plumber to handle the main clog.
+
+*When you have coverage from HomeServe, even big plumbing problems don't have to be a hassle. We help cover the cost of repairs up to your benefit amount, so your finances are protected from unexpected issues. With our 24/7 repair hotline, you can always speak to someone about scheduling a visit from a plumber. Get access to these benefits and more by signing up for a [plumbing plan](/en-us/repair-plans/) from HomeServe today.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mlM1kuECosQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% if bannerArticle %}
+{% bannerArticleImage banner.url, banner.large.image, banner.large.alt %}
+{% endif %}
+

@@ -1,0 +1,115 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Adjust Your Water Heater's Temperature"
+headline: "Tired of Tepid? Here's How to Turn Up the Temp on Your Water Heater"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-07-08
+basePath: https://library.homeserve.com/m/
+heroImage: 6e25acdf1bf9ccc6/original/WHTemperatureDaveNoonan-23of247.gif
+heroAltDescription: "a close up of a gas water heater s temperate control knob as it animates the temperature rising up and back down "
+metaDescriptions: "If you're getting lukewarm water in your shower, the temperature may be set too low. Adjust the temperature of your water heater by following a few easy steps."
+articleAbstract: "A hot shower after a long day is soothing, but if your water heater is set too low, that’s a comfort you may be denied. If the water coming out of your tap is only lukewarm, it may not kill harmful bacteria or get your dishes clean. Adjust the temperature of your water heater by following a few easy steps."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Turn Up Your Water Heater"
+  parent: Plumbing-How-To
+---
+  
+
+**Turning Up Your Water Heater at a Glance**
+
+* **Step 1:** Shut off power
+* **Step 2:** Remove access panel
+* **Step 3:** Pull back insulation
+* **Step 4:** Adjust thermostat temperature
+* **Step 5:** Replace insulation
+* **Step 6:** Reinstall access panel
+* **Step 7:** Turn power back on
+* **For gas water heaters:** Relight pilot light
+
+A hot shower after a long day is soothing, but if your water heater is set too low, that’s a comfort you may be denied. Proper water temperature isn’t just about comfort. If the water coming out of your tap is only lukewarm, it may not kill harmful bacteria or get your dishes clean.
+
+**This May Also Interest You:** [**How Do I Turn My Water Heater On?**](https://www.homeserve.com/en-us/blog/how-to/turn-on-water-heater/)
+
+Adjust the temperature of your water heater by following a few easy steps.
+
+Why Might You Need to Turn Up Your Water Heater?
+------------------------------------------------
+
+Although most homeowners want hotter water because of personal preference, there are two main reasons to consider raising the temperature on your water heater's thermostat:
+
+### Safety
+
+If your water heater is set too low, it can create an environment that’s ideal for bacteria. Disease-causing microorganisms such as Legionella — which causes Legionnaires’ Disease — thrive in lower temperatures. SFGATE says some health experts recommend setting your water heater to at least [120 degrees Fahrenheit](https://homeguides.sfgate.com/turning-water-heater-up-kill-bacteria-54596.html) to minimize bacterial growth.
+
+### Cleaning
+
+If your dishwasher doesn't have a booster heater, it may require higher temperatures for optimal cleaning. According to the U.S. Department of Energy, the ideal range typically falls between [130 and 140 degrees Fahrenheit](https://www.energy.gov/energysaver/services/do-it-yourself-energy-savings-projects/savings-project-lower-water-heating).
+
+Where Is My Water Heater Located?
+---------------------------------
+
+In most houses, the water heater is located against an exterior wall in the garage or basement. You may also find your water heater in several other common places:
+
+*   Utility closets
+*   Crawlspaces
+*   Attics
+*   Bedroom closets
+
+<img class="detail-image" src="https://library.homeserve.com/m/f3c1c326de99bad/Blog-HomeServeUSA-THW-PhotoShoot-2019ModernFotographicbyDaveNoonan-23of247.jpg" alt="technician with water heater"/>
+-------------------------------------------
+
+How to Turn Up Your Water Heater
+--------------------------------
+
+Depending on the type of water heater, the temperature interface may vary. Tankless heaters typically feature an easy-to-use digital control panel to set temperatures, whereas traditional electric or gas water heaters may feature a dial near the unit’s base that can be adjusted by turning it to the desired temperature.
+
+Adjusting the temperature on newer gas or electric water heaters may be more involved and can be completed by following these simple steps:
+
+1.  Shut off power to the water heater at the circuit breaker.
+2.  Locate and remove the thermostat’s access panel.
+3.  Pull back the insulation.
+4.  Adjust the thermostat’s temperature setting using a flathead screwdriver. If your heater has two thermostats, both need to be adjusted the same amount, with the top thermostat set a few degrees higher than the bottom thermostat.
+5.  Replace the insulation.
+6.  Reinstall the access panel.
+7.  Return the circuit breaker to the ON position.
+8.  For gas water heaters, you may also need to relight the pilot light.
+
+Before adjusting the temperature setting of any hot water heater, you should test the thermostat's accuracy. To get an accurate reading, run hot water from the faucet nearest the heater for at least three minutes. Then, hold a cooking thermometer under the hot water stream to get a temperature reading.
+
+After adjusting the thermostat, wait at least three hours and check the temperature again using a thermometer. If the temperature needs additional adjustment, repeat the appropriate steps.
+
+**More Related Articles:**
+
+*   [Your Guide to Draining a Water Heater](https://www.homeserve.com/en-us/blog/how-to/drain-water-heater/)
+*   [How to Test a Water Heater Element](https://www.homeserve.com/en-us/blog/how-to/test-water-heater-element/)
+*   [How to Relight Your Water Heater’s Pilot Light](https://www.homeserve.com/en-us/blog/how-to/light-water-heater-pilot-light/)
+*   [Don’t Forget to Flush! A 6-Step Guide for Flushing Your Gas or Electric Water Heater](https://www.homeserve.com/en-us/blog/how-to/flush-water-heater/)
+*   [How Much Does It Cost to Repair or Replace a Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/repair-or-replace-water-heater/)
+
+What Precautions Should You Take When Turning Up Your Water Heater?
+-------------------------------------------------------------------
+
+Turning up the temperature on your hot water heater may have its benefits, but it can also cause safety risks. [Water above 130 degrees Fahrenheit](https://www.thinktankhome.com/water-heater-safety/) can scald you, and water above 140 degrees Fahrenheit can cause third-degree burns. Young children and the elderly are especially susceptible.
+
+In extreme cases where the water in a heater tank reaches [212 degrees Fahrenheit](https://www.thinktankhome.com/water-heater-safety/), it can turn to steam, which can cause the tank to burst, potentially resulting in major injuries and severe damage. If your faucet is releasing steam instead of hot water, or if your heater’s T&P valve has escaping steam or water, shut down your unit immediately.
+
+How Hot or Cold Does Your Water Heater Go?
+------------------------------------------
+
+Water heaters can typically be set anywhere from 60 degrees to 160 degrees Fahrenheit. However, some units feature dials that include settings ranging from “warm” to “very hot.” Most modern units have a default setting of 140 degrees Fahrenheit.
+
+Will Turning Up Your Water Heater Increase Your Utility Bills?
+--------------------------------------------------------------
+
+Yes. The higher your water heater is set, the more energy you’ll use, resulting in higher utility bills. The opposite is also true. For every 10 degrees you lower your thermostat, you can save between 3% to 5% on energy costs. A smart water heater can also help improve energy efficiency.
+
+What If Turning It Up Doesn't Solve the Issue?
+----------------------------------------------
+
+The thermostat setting isn’t always the cause of a lack of hot water. Other reasons for low or no hot water include:
+
+* **Sediment:** Over time, sediment can accumulate in your water heater. If your tank isn’t drained periodically, it could lead to reduced efficiency and clogs that reduce the water temperature.
+* **A pilot light that’s out:** On gas heaters, the pilot light can go out due to a breeze or downdraft, leaving your heater nonfunctional.
+* **Power surges:** Power surges can interfere with your heater. If you’ve recently had a storm, turning your unit off and then on again may solve the problem.

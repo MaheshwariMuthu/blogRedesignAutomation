@@ -1,0 +1,71 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Won’t My Dishwasher Latch or Lock? (And How Do I Fix It?)"
+headline: "Why Won’t my Dishwasher Latch or Lock? (And How Do I Fix It?)"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2023-09-30
+basePath: https://library.homeserve.com/m/
+heroImage: 54d53ac3d99222ba/Blog-DishwasherSerialNumber_MSchmitz_0001.jpg
+heroAltDescription: "Open door of dishwasher reveals dirty dishes inside as well as where you can find the serial number and model number of the appliance."
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Here are some reasons why the dishwasher door might malfunction. Learn how you might be able to fix these issues yourself or know when it's time to call a pro."
+articleAbstract: "Dishwashers won't run unless the door is securely closed and latched — and that's a good thing! But when your dishwasher’s door won’t close or stay close, you’ve got a problem on your hands."
+category: ["How To"]
+eleventyNavigation:
+  key: "Why Won’t my Dishwasher Latch or Lock? (And How Do I Fix It?)"
+  parent: Appliances-How-To
+---
+  Dishwashers won't run unless the door is securely closed and latched — and that's a good thing! Otherwise, you could wind up with a mess of soap and water all over your kitchen floor otherwise. But when your dishwasher’s door won’t close or stay closed, you’ve got a problem on your hands.
+
+**This May Also Interest You:** [**Weird Sound Coming From the Dishwasher? How to Diagnose Dishwasher Noises**](https://www.homeserve.com/en-us/blog/home-improvement/dishwasher-making-noise/)
+
+Several factors could contribute to these issues, ranging from simple misalignments to faulty components.
+
+7 Reasons Your Dishwasher Isn’t Latching
+----------------------------------------
+
+### Obstructed Door Path
+
+One of the most common reasons for a dishwasher door not closing properly is also the simplest to address: an obstruction in its path. Items like large pots, pans or utensils might be sticking out from the racks and preventing the door from closing fully. Carefully inspect the interior of the dishwasher and remove any objects that could be blocking the door's path.
+
+Also, overloading the dishwasher with too many dishes or improperly placing them can put pressure on the door, preventing it from closing correctly. Ensure that the dishwasher is loaded according to the manufacturer's guidelines, and avoid overcrowding the racks.
+
+### Misaligned Door Latch
+
+*   A misaligned or bent door latch can prevent the dishwasher door from latching correctly. This typically happens due to rough handling or accidentally slamming the door shut. When the latch doesn't engage properly with the locking mechanism, the door won't stay closed during the wash cycle. Inspect the latch and realign it if needed, or replace it if it appears damaged. You can do both of these tasks yourself if you're comfortable with basic DIY projects. Otherwise, you might want to let an appliance repair professional take care of it for you.
+
+### Damaged Door Strike
+
+Your door latch connects to a component known as a door strike. This is the part of the machine that lets the latch slot into something stable. If the strike is cracked or otherwise damaged, it won't be able to hold the latch and should be replaced.
+
+### Worn Door Gasket
+
+*   The door gasket is a rubber seal that runs along the edge of the dishwasher door, creating a watertight seal when the door is closed. Over time, the gasket can become worn, torn or dirty, compromising its ability to create a proper seal. This can lead to leaks and prevent the door from staying closed. Regularly clean the gasket and replace it if you notice any visible signs of wear. Gasket replacement is a straightforward process you should be able to tackle yourself.
+
+**More Related Articles:**
+
+*   [Install a Dishwasher Yourself: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-dishwasher/)
+*   [How Much Does a Dishwasher Cost?](https://www.homeserve.com/en-us/blog/cost-guide/dishwasher/)
+*   [The Filth Shall Get Them Clean: Why You Don’t Need to Pre-Rinse Your Dishes](https://www.homeserve.com/en-us/blog/home-improvement/should-you-prerinse-dishes/)
+*   [What’s the Deal With Countertop Dishwashers?](https://www.homeserve.com/en-us/blog/home-improvement/countertop-dishwashers/)
+*   [How Much Do Countertop Dishwashers Cost?](https://www.homeserve.com/en-us/blog/cost-guide/countertop-dishwashers/)
+
+### Faulty Door Springs or Cables
+
+*   Dishwashers typically have door springs or cables that help to support the weight of the door and keep the door balanced and on track. If these components become damaged or broken, the door may not close or stay closed properly. Inspect the springs and cables for any signs of damage or wear, and replace them if necessary. Sometimes, you'll need to deal with the full weight of the door during this process, so you'll likely want a helper to work on the task with you.
+
+### Warped or Damaged Door
+
+*   A warped or damaged dishwasher door can make it challenging to achieve a proper seal, leading to closure issues. Heat, moisture and constant use can cause the door to warp over time. Check the door for any visible signs of damage and consider replacing it if it's beyond repair. This is a major repair that is best handled by a pro. Also, if your dishwasher is more than 10 years old, you might want to consider replacing the entire unit if the door is damaged.
+
+### Control Panel Malfunction
+
+*   In some cases, the dishwasher door may not close due to an issue with the control panel or electronic controls. A faulty control panel might not send the correct signals to engage the door lock properly.
+*   If you suspect an electronic malfunction, you can test what's known as the microswitch using a multimeter. If the switch fails to conduct a current, you'll know that it is faulty and needs to be replaced. You can do this yourself if you are comfortable with basic electronic repairs. Otherwise, consider seeking professional assistance to diagnose and fix the problem. If you choose to replace the switch yourself, be sure the unit is disconnected from its power source throughout the procedure.
+
+Dishwasher Maintenance Can Prevent Door Issues
+----------------------------------------------
+
+As you can see, dishwasher door problems can stem from various causes, ranging from simple obstructions to faulty components. By identifying the underlying issues and applying the appropriate solutions, you can ensure your dishwasher door closes properly, latches securely and stays closed during operation. Regular maintenance and proper care will not only extend the lifespan of your dishwasher but also ensure smooth and efficient performance for years to come.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/nWCVeH6wPmM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Dishwasher Cleaning Hack Exposed!!"></iframe>

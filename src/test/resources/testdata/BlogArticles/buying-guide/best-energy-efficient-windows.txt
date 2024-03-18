@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: Best Energy Efficient Windows
+headline: The Best Energy Efficient Windows for the Home
+author: Team HomeServe
+tags: ['post', 'Top Tips and Lists', 'Know Your Equipment', 'Heating & Cooling']
+publishDate: 2019-03-27
+basePath: /en-us/assets/images/blog/buying-guide/
+heroImage: windows HS.jpg
+heroAltDescription: Woman Looking Out window
+metaDescriptions: Learn how you can keep your home warm in winter and cool in summer with the best energy efficient windows.
+articleAbstract: We’ve got the details on how you can keep your home warm in winter and cool in summer with the best energy efficient windows.
+category: ['Buying Guide']
+
+eleventyNavigation:
+  key: Best Energy Efficient Windows
+  parent: Exterior-Home-Buying-Guide
+---
+
+:::: blog-info
+I'm a fan of all things that support the environment, from using cruelty-free products to composting at home and conserving energy in as many ways possible. Unsurprisingly, upgrading my windows with energy efficient replacements was a no-brainer for me. And while reducing my carbon footprint was certainly a motivating factor, lowering my utility bills is, of course, was a welcome bonus.
+
+[1]: {{ migrationData.planspage }}
+[2]: /en-us/assets/images/blog/HomeServe-CTAsAvailablePlan.jpg
+[3]: /en-us/assets/images/blog/HomeServe-CTAsViewPlan.jpg
+
+[![HomeServeViewPlan][3]][1]{target="_blank"}
+
+If you're ready to make the switch, here's how to choose the most energy efficient windows for your home:
+
+## The factors to consider
+
+When you're shopping around for energy efficient windows, there are several selection factors to keep in mind. These include:
+
+### Energy performance:
+
+Only consider [Energy Star certified products](https://www.energystar.gov/products/building_products/residential_windows_doors_and_skylights/key_product_criteria){target="_blank"}, as windows with this seal of approval passed rigorous performance tests and fulfilled strict energy efficiency guidelines set by the Environmental Protection Agency. All Energy Star-certified windows will also have National Fenestration Rating Council ratings, which will help you compare the energy properties of different window models. The Department of Energy has a [guide to these performance ratings](https://www.energy.gov/energysaver/design/windows-doors-and-skylights/energy-performance-ratings-windows-doors-and){target="_blank"} to help you understand the information on window labels.
+
+### Materials:
+
+Vinyl, wood, fiberglass and some composite frame materials provide more thermal resistance than metal or aluminum frames, according to the DOE. What's more, window glass can have special coatings designed to resist heat loss and reduce emissivity. Along with efficiency, you'll need to consider how much it [costs to replace](/en-us/blog/cost-guide/window-replacement-cost){target="_blank"} windows, climate and architectural style when selecting the right window materials for your home.
+
+[Learn More About Home Repair Plans Near You]({{ migrationData.planspage }}){target="_blank"}
+
+### Design:
+
+Some window types are inherently more efficient than others. For instance, [HGTV](https://www.hgtv.com/){target="_blank"} notes that some of the most common styles available in efficiency conscious designs are [double-hung, casement and picture windows](https://www.hgtv.com/remodel/interior-remodel/choosing-energy-efficient-windows-for-your-home){target="_blank"}.
+
+### Installation:
+
+Even the most energy efficient windows will lose their efficacy if they aren't installed properly. Flashing and sealing also need to meet the manufacturer's guidelines for optimum performance. As such, it's generally a smart idea to have trained professionals install your new windows.
+
+## The notable window brands
+
+Some of the best brands on the market are [Andersen, Marvin, Pella and Jeld-Wen](https://www.consumerreports.org/cro/replacement-windows/buying-guide/index.htm){target="_blank"}, all of which _Consumer Reports_ names as leading window manufacturers. _Better Homes & Gardens_ selected some of the [most efficient window models from these brands](https://www.bhg.com/home-improvement/windows/window-buying-guide/energy-efficient-windows/?){target="_blank"}, which include:
+
+::: list-square
+* Andersen 400 Series
+* Andersen SmartSun
+* Integrity Wood-Ultrex Series (Marvin company)
+* Infinity Replacement Window with EverWood (Marvin company)
+* Marvin Ultimate Casement Window
+* Pella Designer Series Triple-Pane Windows
+* Pella Impervia
+* Pella ThermaStar 20 Series
+* Jeld-Wen Premium Vinyl
+* Jeld-Wen SFI-Certified Wood
+* Jeld-Wen Premium Wood Double-Hung Pocket Window
+:::
+
+With new windows in place, you'll probably notice a huge difference in your energy savings. These home improvement investments are important for the efficiency and comfort of your household. Maybe [solar panels](/en-us/blog/how-to/install-home-solar-panels){target="_blank"} will be next?
+::::
+
+Another smart investment is being prepared for emergency home repairs. See how [plans from HomeServe]({{ migrationData.homepage }}){target="_blank"} can help with the costs of covered repairs.
+
+[![HomeServeAvailablePlan][2]][1]{target="_blank"}

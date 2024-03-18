@@ -1,0 +1,151 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Wire an Outlet"
+headline: "How to Replace an Electrical Outlet: A Step-by-Step Guide"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2021-03-04
+basePath: https://library.homeserve.com/m/
+heroImage: b3de133134f6d8d/Blog-AdobeStock_94805438.jpg
+heroAltDescription: "electrician fixing electrical outlet"
+metaDescriptions: "When replacing an electrical outlet, choose a GFCI outlet for better protection from electrical shock. Learn how to wire an outlet with these tips."
+articleAbstract: "When replacing an electrical outlet, choose a GFCI outlet for better protection from electrical shock. Learn how to wire an outlet with these tips."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Wire an Outlet"
+  parent: Electrical-How-To
+---
+  
+
+**Electrical Outlet Replacement at a Glance**
+
+* **Gather Tools and Materials:** Screwdriver, non-contact voltage tester, pliers, electrical tape
+* **Step 1:** Turn off power
+* **Step 2:** Unscrew cover plate
+* **Step 3:** Test circuit
+* **Step 4:** Unscrew receptacle
+* **Step 5:** Remove wires
+* **Step 6:** Use pliers to attach wires to new receptacle
+* **Step 7:** Push receptacle back into wall
+* **Step 8:** Screw cover plate back on
+* **Step 9:** Turn power back on
+* **Step 10:** Test your electrical outlet
+
+You plug an appliance into an outlet and the appliance turns on — that’s the extent of most homeowners’ electrical knowledge. So, when something goes wrong and your outlets stop working, the cause can seem especially mysterious. In reality, outlets can stop working for a laundry list of reasons. But if you wait until they stop working properly before you address the problem, it can pose a risk to everyone in your home.
+
+**This May Also Interest You:** [**Hiring for Wiring? 5 Tips for Finding a Trusted Electrician**](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+
+It's important that you replace a damaged or outdated outlet as quickly as possible. Here’s how to do it yourself.
+
+Signs It's Time to Replace an Electrical Outlet
+-----------------------------------------------
+
+There are several signs that indicate that it may be time to replace one or more of the electrical outlets in your home. Along with the various types of damage that can be done to electrical outlets, it's also possible your outlets are outdated.
+
+According to [Amos Electric](https://www.amoselectric.com/3-warning-signs-its-time-to-replace-your-electrical-outlets/), there are three common signs you should be aware of:  
+
+### Discolored Outlets
+
+Discoloration of an outlet occurs when the outlet has been burned, damaged or was installed incorrectly. The discoloration is likely the result of a short circuit. This cause fires, so you should promptly remove any plugs from the outlet if you notice discoloration. If you believe a fire may start, contact an electrician to handle the replacement of the outlet.
+
+### Two Prongs
+
+If your electrical outlet only consists of two prongs, a replacement may be needed. Two-pronged outlets are usually found in older homes. Modern appliances need to be plugged into three-pronged outlets so they can get an adequate amount of power.  
+  
+That third hole also connects a grounding wire to your appliances. So, the main danger with two-pronged outlets is that they aren't grounded. This poses a fire risk. Upgrading from a two-pronged to a three-pronged outlet typically requires a fair amount of rewiring, so you’ll want assistance from an expert electrician.  
+
+### Cords Fall Out
+
+You may need to replace an electrical outlet if cords often fall out of the outlet or easily become unplugged. This indicates the outlets have become worn down to the point that electrical connections with cords are looser than they should be. This increases the possibility of an electrical fire.  
+
+<img class="detail-image" src="https://library.homeserve.com/m/462038cbd4c678b8/Blog-iStock_12748128_outlet_plug_CMYK_XLARGE.jpg" alt="plugging in to a wall outlet"/>
+-------------------------------------------
+
+Tools and Materials
+-------------------
+
+  
+Replacing a ground fault circuit interrupter (GCFI) outlet is a relatively straightforward process that requires just some basic tools. Here’s what you’ll need:
+
+*   Screwdriver
+*   Non-contact voltage tester
+*   Pliers
+*   Electrical tape
+
+  
+The GFCI outlet you purchase as a replacement will be either a 15-amp or 20-amp receptacle. Once you have collected all of these tools and have them on hand, you should be ready to replace an electrical outlet.
+
+Electrical Outlet Replacement: 10 Steps
+---------------------------------------
+
+  
+The process of replacing an electrical outlet is pretty simple and should be completed in about two hours. It's essential that you adhere to each step without skipping one or taking shortcuts. When dealing with an electrical component in your home, safety is of the utmost importance. By strictly following the right guidelines for replacing a wall outlet, you should be able to avoid electric shocks and the development of a fire.
+
+Here’s the step-by-step guide to replacing an electrical outlet:
+
+### 1\. Turn off the Power
+
+The first — and likely most important — step is to turn off the power for your electrical outlets. Go to the main service panel in your home, which is referred to as the circuit breaker. Once the panel is opened, all you need to do is switch off the correct circuit breaker for the receptacle circuit that's being replaced. You can confirm that power is no longer being sent to the electrical outlet by using a voltage tester.  
+  
+Place the tester directly into the outlet and it will inform you if a current is being sent to the outlet or not. If the outlet still has current, go back to the service panel and turn off other circuits. It's possible that you initially turned off the incorrect switch. From there, you should retest the outlet. Once there is no current, you can be confident the outlet is safe to replace.  
+  
+Keep in mind that different voltage testers emit different signals to indicate that the outlet still has access to electricity. Make sure the tester you're using is equipped with working batteries before you proceed with replacing the outlet.
+
+### 2\. Unscrew the Cover Plate
+
+Unscrew the cover plate to the outlet, which can be done by removing the center screw that's situated between the two receptacles. When the screw has been removed, it's safe to take off the cover plate.
+
+### 3\. Test the Circuit
+
+At this point, you should test for current again before you proceed with the rest of the project. Place the probe of your voltage tester between the small spaces around the main portion of the receptacle. The probe should also have contact with every wire within the box. Make sure you have no current.
+
+  
+The wires of a damaged receptacle may indicate they aren't powered even when they still have access to current. To make sure this isn't the case with your outlet, touch the probes of the tester to the uppermost pair of screws. Then, test the lower pair of screws as well. These are known as terminal screws.
+
+### 4\. Unscrew the Receptacle
+
+You should notice some mounting screws that keep the receptacle strap in place on the electrical box. Remove these screws before taking the receptacle out of the box. When you remove the receptacle, make sure you hold it by the top and bottom portions of the receptacle. The wires should then be further examined before they are removed.  
+  
+With most receptacles, there are three separate wires that will eventually need to be removed. The black wires are “hot wires,” which means they are designed to carry the current to the outlet. Black wires are usually attached to bronze-colored screw terminals.
+
+White wires are neutral wires. They are attached directly to silver screw terminals. You will also notice a green wire or bare copper wire, which is a grounding wire. These wires are attached to green grounding screws.  
+  
+Many receptacles consist of a single neutral wire and a single black wire, but some will have two black wires and two neutral wires. It's important to identify the exact method of wiring that has been used with your electrical outlet. With this image in mind, you will eventually re-create the exact wiring placement with your new outlet.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-it-cost-to-replace-or-upgrade-an-electrical-panel/)
+*   [How to Replace a Light Switch](https://www.homeserve.com/en-us/blog/how-to/replace-light-switch/)
+*   [Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-it-cost-to-replace-or-upgrade-an-electrical-panel/)
+*   [Wrong Kind of Blowout? Why Your Hair Dryer Trips the Circuit Breaker](https://www.homeserve.com/en-us/blog/home-improvement/why-does-hair-dryer-trip-circuit-breaker/)
+*   [15 Ways to Save on Your Electric Bill](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+
+### 5\. Remove the Wires
+
+The next step involves removing the wires for the old receptacle, which will allow you to completely remove this receptacle. You can disconnect receptacle wires by removing the screws from their terminal connections.
+
+It's also possible for older outlets to use back-wire connections. If the wires are pushed through slots toward the back of your receptacle, you can remove these wires by placing a flat-head screwdriver into the standard release slot beside each wire. When the wire connection loosens, you should be able to remove the wire from the receptacle body. For terminal connections with screws, all you need to do is loosen the screws before removing the wire loops from the screws.
+
+### 6\. Use Pliers to Attach the Wires to the New Receptacle
+
+Once the wires and old receptacle have been removed, you can now work on connecting the new receptacle to the correct wires. This typically requires a pair of pliers. As touched upon previously, the newer receptacle should be attached just like the old one. Every black wire should be connected to a basic brass terminal. White wires should be connected to silver terminals.
+
+When these connections have been made, consider wrapping electrical tape around every bare wire and terminal to keep the connections protected. Use pliers to tighten the wires around their connections.
+
+### 7\. Push the Receptacle Back into the Wall
+
+From here, gently push the receptacle back into the wall. It should appear to be very similar to your old receptacle. If the receptacle seems loose or is not in the correct position, you may need push it back into the wall at a different angle. Tighten any mounting screws. The receptacle should be straightened at this point.
+
+### 8\. Screw the Cover Plate Back On
+
+When the receptacle is in its correct position, screw the cover plate back on.
+
+### 9\. Turn the Power Back On
+
+Once the receptacle and screw plate have been installed, it should be safe to turn the power back on. To do so, go back to the breaker box and flip the circuits that were turned off at the beginning of this process. Power should be restored.
+
+### 10\. Test Your Electrical Outlet
+
+Now, test your electrical outlet. This involves the voltage tester you used earlier. Place the probes directly into the two slots on the receptacle. The tester should now indicate that current is being sent to the outlet.  
+  
+_You can avoid costly electrical repairs in your home with an electrical plan from HomeServe. With a plan in place, you can call our 24/7 repair hotline when a covered issue arises. We’ll send out a licensed, local contractor to assist you. See what plans are available in your area._

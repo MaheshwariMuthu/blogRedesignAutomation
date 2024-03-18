@@ -1,0 +1,136 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Install an Electric Car Charging Station?"
+headline: "How Much Does It Cost to Install an Electric Car Charging Station?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2022-08-08
+basePath: https://library.homeserve.com/m/
+heroImage: 192efe8de30dbf4/Blog-2018TeslaModel3_LQuiroga-01.jpg
+heroAltDescription: "Blue 2018 Tesla Model 3 in a residential driveway getting charged "
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Worried the price to install an electric charging station will give you sticker shock? Here’s a breakdown of what it’ll cost."
+articleAbstract: "Worried the price to install an electric charging station will give you sticker shock? Here’s a breakdown of what it’ll cost."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Install an Electric Car Charging Station?"
+  parent: Electrical-Cost-Guide
+---
+  **Electric Vehicle Charging Station Costs at a Glance**
+
+* **Average total cost:** $1,000-$2,500 (CAD 1,300-CAD 3,200)
+* **Level 2 charger cost:** $300-$1,200 (CAD 390-CAD 1,500)
+* **Labor cost:** $40-$100 (CAD 50-CAD 130) per hour
+
+In many places in the U.S., you might be able to get away with charging your electric vehicle exclusively at public charging stations. Other areas have yet to build up electric vehicle infrastructure. Whatever the case, installing a charging station in your home can do a lot to reduce your range anxiety — that is, the fear you’ll get stranded far from a charging station when your electric vehicle runs out of charge.
+
+**This May Also Interest You:** [**Electric Car Charging at Home: Everything You Need to Know**](https://www.homeserve.com/en-us/blog/how-to/charge-electric-vehicle-at-home/)
+
+Worried the price of installing an electric charging station will give you sticker shock? Here’s a breakdown of what it’ll cost.
+
+Cost to Install a Charging Station
+----------------------------------
+
+When it comes to charging an electric vehicle, a standard wall outlet just won’t do. Most EVs come with a Level 1 charger that allows you to plug into standard 120-volt outlets, but these can take up to 12 hours to fully charge your vehicle.
+
+The cost of installing a new electric vehicle charger depends on several factors. One of the most common EV charging stations is a wall-mounted system with a Level 2, 240-volt outlet. According to [Fixr](https://www.fixr.com/costs/home-electric-vehicle-charging-station), these systems cost between $1,000 and $2,500 (CAD 1,300 and CAD 3,200) installed.
+
+Itemized Installation Costs
+---------------------------
+
+Expect to pay $300 and $1,200 (CAD 390 and CAD 1,500) for the EV Level 2 charging station itself. There will be additional costs for labor and other materials.
+
+### Materials
+
+For an average, 240-volt system, new circuits cost between $300 and $800 (CAD 390 and CAD 1,000) with a 50-amp outlet. Conduits, which protect electrical wiring, cost between [$3 and $5](https://www.fixr.com/costs/electrical-wiring#conduit-wiring) (CAD 4 and CAD 6) per square foot. New outlets cost between [$10 and $20](https://www.forbes.com/advisor/home-improvement/outlet-installation-cost/) (CAD 13 and CAD 25) each.
+
+### Labor
+
+Labor is usually charged per hour. The hourly rate should be included in your electrician’s quote, as should the expected time to complete the project. Most electricians charge between $40 and $100 (CAD 50 and CAD 130) per hour, depending on their level of expertise and experience. An electrician who specializes in installing electric car charging stations may offer a flat rate.
+
+### Other Factors
+
+An initial walk-through with your electrician should give you a good idea of the end price. As with any electrical service, the average cost increases when additional work is required, like:
+
+*   Adding a dedicated circuit to the electrical panel: [$100 to $150](https://homeguide.com/costs/cost-to-rewire-a-house#outlets) (CAD 130 to CAD 195)
+*   Replacing an old electrical panel: $1,800 to $2,500 (CAD 2,300 to CAD 3,200)
+*   Wiring from the charging station to the electrical panel: $6 to $8 (CAD 7 to CAD 10) per linear foot
+
+Types of Charging Stations
+--------------------------
+
+Price also varies based on the type of system you install. Here are some of the most common ones:
+
+### Level 1 or Level 2?
+
+A Level 1 charging station works through a 120-volt alternating current plug — the standard household outlet. Though they require a dedicated circuit, Level 1 EV chargers don’t require professional installation. They’re also portable. They work with a standard three-prong household plug, with one end plugging into the vehicle and the other plugging into the connector. Level 1 charging stations will take 8 to 12 hours to completely charge a depleted battery, so you’ll have to leave your vehicle plugged in overnight.
+
+Level 2 charging stations use 240 volts with an AC plug, the same as electric dryers or ovens. These stations require professional installation and a dedicated 40-amp circuit. Compatible with all electric and hybrid-electric vehicles, they utilize the same port to which Level 1 chargers connect. Level 2 chargers take 4 to 6 hours to fully charge a vehicle’s battery. These chargers are also more expensive.
+
+### Hardwired or Plug-In?
+
+A hardwired EV charger comes with a flexible conduit that allows you to easily install it into a junction box. They work both indoors and outdoors. Hardwired chargers are also more permanent. Though you can move them, you’ll need a professional electrician to do so.
+
+Plug-in EV chargers use a high-quality, 240-volt plug without a conduit. Though all are 240 volts, these come with a wide variety of plugs. Many homes already have 240-volt receptacles, in which case there is no additional cost to install.
+
+Amperage
+--------
+
+Amperage is the measure of the flow of electricity. The higher the flow, the higher the amperage. The cost to install an EV charging station depends on your vehicle’s capabilities and your home’s wiring. Most electric vehicles can charge at up to 32 amps. A 32-amp EV charger adds about 25 miles to the vehicle’s range per hour of charging.
+
+The National Electrical Code requires that a home’s electrical circuit is rated for 25% greater amperage than the charger. To install a 32-amp charger, for example, the amperage of your home’s electrical circuit would need to be 40 amps. A smaller, 16-amp charger would require an electrical circuit rated for 20 amps and would give your vehicle 12 miles of range per hour of charging.
+
+**More Related Articles:**
+
+*   [Hiring for Wiring? 5 Tips for Finding a Trusted Electrician](https://www.homeserve.com/en-us/blog/how-to/hire-electrician/)
+*   [How Much Does It Cost to Replace an Electrical Panel?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-it-cost-to-replace-or-upgrade-an-electrical-panel/)
+*   [Don’t Let Vampire Power Suck You Dry: Learn to Lighten Your Phantom Load](https://www.homeserve.com/en-us/blog/how-to/are-phantom-loads-adding-to-your-electric-bill/)
+*   [How Much Does Electricity Cost?](https://www.homeserve.com/en-us/blog/cost-guide/how-much-does-electricity-cost/)
+*   [15 Ways to Save On Your Electric Bill](https://www.homeserve.com/en-us/blog/how-to/save-on-electric-bill/)
+
+EV Charger Maintenance
+----------------------
+
+Regularly inspecting your EV charging station will help you identify potential issues early and keep problems from becoming severe. Include these tasks in your routine preventive maintenance:
+
+*   Check that the connections and controls operate correctly.
+*   Inspect surrounding areas to ensure safety and optimal charging conditions.
+*   Visually inspect to ensure components are clean and functioning properly.
+
+A Wi-Fi-enabled charging station allows you to monitor its functions while it’s in use. This will let you know when the station isn’t working at its full potential and will help diagnose issues as they arise.
+
+Additional Costs
+----------------
+
+On top of the installation costs, you may have to shell out a little bit extra to ensure your charger works optimally. Depending on your situation, these are some added costs you may need to consider:
+
+### Garage Alterations
+
+EV chargers are generally mounted on walls and connected via cabling up to 25 feet long. Installers can usually do this in an existing garage or driveway, though sometimes it’s necessary to modify your garage to make it easier to access. Modifying your garage costs $150 (CAD 195) per square foot on average.
+
+### New Electrical Circuit Panel
+
+If your current circuit board is unable to handle the additional load of an EV charger, you may need to install a new one. The price will vary depending on distance and load it needs to carry, but expect to pay between [$850 and $2,500](https://homeguide.com/costs/cost-to-replace-electrical-panel) (CAD 1,100 and CAD 3,200).
+
+### Pedestal Kit
+
+While most people opt for wall-mounted or portable chargers, it’s possible to purchase pedestal kits, which are particularly useful when charging two vehicles. These cost $500 to $2,000 (CAD 650 to CAD 2,600).
+
+### Wi-Fi Capabilities
+
+Some chargers allow you to monitor charging from a smartphone via mobile apps. These are only available in select models but are especially useful as many manufacturers recommend only charging batteries up to 90% capacity. There’s no additional cost associated with Wi-Fi capabilities, though a charger with Wi-Fi capabilities may cost you more than one without.
+
+How Much Does It Cost to Charge an Electric Car?
+------------------------------------------------
+
+The average price per kilowatt-hour in the United States is [13.7 cents](https://www.investopedia.com/how-much-does-it-cost-to-charge-an-electric-car-5186285) (CAD 0.18). Charging your electric vehicle increases electricity usage by about 3,500 kW per year.
+
+On average, this will cost you between $30 and $60 per month (CAD 40 and CAD 80), or between $0.99 and $1.97 (CAD 1 and CAD 2.50) per day.
+
+By pairing an EV charger with a rooftop solar panel, you can reduce both your overall energy consumption and the costs associated. Solar installers may offer package deals that include a charging station for an electric car.
+
+Can I Charge a Tesla at Home?
+-----------------------------
+
+With the mobile connector, Tesla vehicles can plug directly into standard 110- or 120-volt electrical outlets. However, Tesla recommends owners use this only as a backup charging option. The EV manufacturer recommends owners install wall connectors as described above for efficient home charging and faster charging speeds. Tesla's own brand of wall connector starts at $500 (CAD 650).<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/fJO-ZnL118A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Electrical Safety | Tips and Tricks for New Homeowners"></iframe>

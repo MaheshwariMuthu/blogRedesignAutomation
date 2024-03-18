@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Whirlpool Fridge Error Codes"
+headline: "Whirlpool Fridge Error Codes"
+author: Lee Soren
+tags: ["post"]
+publishDate: 2023-07-17
+basePath: https://library.homeserve.com/m/
+heroImage: 313726c4082d214e/Blog-P170039_9z.jpg
+heroAltDescription: "control panel on whirlpool refrigerator"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Appliances can often tell you where it “hurts” by displaying diagnostic codes — so if your fridge is flashing a warning, don’t panic."
+articleAbstract: "Fortunately, modern appliances can often tell you where it “hurts” by displaying preprogrammed diagnostic codes — so if your fridge is flashing a warning, don’t panic."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Whirlpool Fridge Error Codes"
+  parent: Appliances
+---
+  If your child has an injury or accident, you may find yourself asking, “Where does it hurt?” The bad news is, you can’t ask a malfunctioning fridge the same question.
+
+**This May Also Interest You:** [**What Do You Do With an Old Appliance? How to Recycle Fridges, Washers, Ovens and More**](https://www.homeserve.com/en-us/blog/how-to/appliance-recycling/)
+
+Fortunately, modern appliances can often tell you where it “hurts” by displaying preprogrammed diagnostic codes, so if your fridge is flashing a warning, don’t panic.
+
+What Is an Error Code?
+----------------------
+
+Appliance error codes, which are sometimes called fault codes, indicate problems with a household appliance, such as a refrigerator, washing machine or microwave. They typically consist of letters and/or numbers, which appear on the appliance’s digital display. Each unique code correlates to a specific type of malfunction. A key to an appliance’s error codes can often be found in the operator’s manual that came with the unit.
+
+Common Whirlpool Refrigerator Error Codes
+-----------------------------------------
+
+Error codes may vary by model and features. However, many Whirlpool refrigerators have the following common error codes:
+
+* **C:** If you see a C blinking on either your refrigerator or freezer display, the temperature sensor has failed in that section of your fridge.
+* **PO:** The Whirlpool refrigerator PO code means the power supply to your fridge has been off, and the freezer temperature has reached 18 degrees Fahrenheit or higher. This power failure error code is accompanied by an audio alert that sounds three times. The temperature reading, indicating freezer temperature may blink in addition to or instead of the letters PO.
+* **CF:** If your freezer display shows a blinking CF code, it means the unit’s main board isn’t communicating with the user interface.
+
+It’s important to remember that there isn’t a standardized set of codes for all Whirlpool fridges. If you aren’t sure what your refrigerator’s error code means, check your operator’s manual or contact Whirlpool for additional information.
+
+What Do Flashing Lights on a Whirlpool Refrigerator Mean?
+---------------------------------------------------------
+
+[Refrigerator malfunctions](https://producthelp.whirlpool.com/Refrigeration/Full-Size_Refrigerators/French_Door_Bottom_Freezer_Refrigerator/Control_Concerns/Error_Codes%2C_Blinking%2C_Flashing_Lights) may also be indicated by the flashing lights on the control panel. These lights are typically associated with specific icons, such as:
+
+* **The air filter icon:** Colored lights on the air filter icon indicate the status of your filter. If the light is blue, the air filter is in good shape. When it lights up yellow, it’s time to order a replacement, and if it’s red, it's time to replace the filter. When the light turns red, the words “replace filter” may also light up or flash.
+* **The door open icon:** The door open icon lights up when the refrigerator or freezer door is open for 2 to 5 minutes. It’s typically accompanied by an audio alert. However, the audio tone may be turned off during cleaning.
+* **The water filter status icon:** If your water filter status light turns red, it’s time to replace your water filter.
+* **The cooling off indicator icon:** If the words “cooling off” are lit up on your display, it means your refrigerator isn’t cooling. This can happen after a power surge or failure.
+
+**More Related Articles:**
+
+*   [Should You Buy a Used Appliance? Weigh the Risks and Rewards](https://www.homeserve.com/en-us/blog/buying-guide/used-appliances/)
+*   [7 Ways Your Kitchen Will Evolve in the Next 10 Years](https://www.homeserve.com/en-us/blog/home-improvement/advancements-kitchen-technology/)
+*   [What’s the Difference Between a Warranty and a Protection Plan for Appliances?](https://www.homeserve.com/en-us/blog/home-improvement/appliance-warranty-vs-protection-plan/)
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Find the Serial Number on Your Appliances and Gadgets](https://www.homeserve.com/en-us/blog/how-to/find-serial-number/)
+
+Do I Need to Call a Repair Tech, or Can I Fix These Errors on My Own?
+---------------------------------------------------------------------
+
+If a Whirlpool refrigerator diagnostic code pops up on your fridge, or you see flashing lights on your display, you don’t automatically have to reach for your phone. [Many errors can be fixed](https://applianceassistant.com/Refrigerator-Repair/W10503278-Refrigerator-Control-Diagnostics-Repair.php) without a repair technician’s assistance. For example, filter replacement lights simply indicate that it’s time to change out your filters, and if the door open icon lights up, just close the door.
+
+You can also attempt to clear fridge error codes by:
+
+* **Resetting the PO code:** To perform a Whirlpool refrigerator PO code reset, just acknowledge the message by pressing “measured fill” under the word “confirm.”
+* **Turning the cooling on:** If your fridge indicates that cooling is turned off, you may have to turn it back on manually, particularly if you've had a power outage. Refer to your owner’s manual for instructions on turning your fridge back on.
+* **Checking the power supply:** If you’re having trouble getting your fridge to turn on, or the PO code keeps flashing, check the connection to its power supply.
+* **Running the Whirlpool refrigerator diagnostic mode:** Many modern Whirlpool appliances include a diagnostic mode, which can diagnose operational problems. Check your owner’s manual for instructions on initiating a diagnostic check.
+
+If these steps don’t work, and your error code persists, it’s probably time to call in a professional appliance repair technician. A properly working refrigerator is essential to ensuring food safety, so make sure stored food hasn’t reached an unsafe temperature after addressing any Whirlpool refrigerator error codes or if your refrigerator hasn’t been cooling for an extended period of time.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Clean Refrigerator Condenser Coils at Home"></iframe>
