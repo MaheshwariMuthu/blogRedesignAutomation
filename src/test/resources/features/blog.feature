@@ -12,7 +12,7 @@ Feature: Blogs feature file
     Then User validates the links in "Header" section
     Then User validates the links in "Footer" section
     
-   @TC_0002 @blogArticle
+  @TC_0002 @blogArticle
   Scenario: Validate all the details in the Blog article
     #When User click on the Blog link
     Then User read the data from "appliance-filters.txt" file
@@ -21,18 +21,18 @@ Feature: Blogs feature file
     Then User validates the article "publishDate"
     Then User validates the article "image"
     Then User validates the article content "headings"
-   Then User validates the article content "paragraphs"
-   Then User validates the article content "links"
-   Then User validates the article content "Lists"
+    Then User validates the article content "paragraphs"
+    Then User validates the article content "links"
+    Then User validates the article content "Lists"
    
-   @TC_0009 @blogArticle
+   @TC_0012 @blogArticle
    Scenario: Validate all the details in the Blog article
     #When User click on the Blog link
     Then User read the data from "appliance-filters.txt" file
     Then User validates the article content
         
    @TC_0003 @blogLightboxSignup
-  Scenario: Validate whether able to signup to homeserve through lightbox
+   Scenario: Validate whether able to signup to homeserve through lightbox
     #When User click on the Blog link
     Then User enter the "email" in "LightBox" section
     And Click on the "Signup" button in "LightBox"
@@ -45,7 +45,7 @@ Feature: Blogs feature file
     And Click on the "Signup" button in "Footer"
     Then Validate the success message in "Footer"
     
-  @TC_0005 @blogLeaveUsFeedback
+   @TC_0005 @blogLeaveUsFeedback
    Scenario: Validate whether able to submit the feeback
     #When User click on the Blog link
     Then User enter the "comments" in "Feedback" section
@@ -72,6 +72,14 @@ Feature: Blogs feature file
     #When User click on the Blog link
     And Click on the "Print" button in "Article"
     Then User save the article content
+    
+   @TC_0009 @blogSearchArticle
+   Scenario: Validate whether able to search the article
+    #When User click on the Blog link
+    And Click on the "Search" button in "Article"
+    Then User enter the "search content" in "search" section
+    Then User press "ENTER" key
+    Then Validate the search result
     
    @TC_0011 @blogArticle @linkNavigation
    Scenario: Validate whether all the links navigate to the expected url

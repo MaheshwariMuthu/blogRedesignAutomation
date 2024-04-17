@@ -60,25 +60,24 @@ public class blogArticleFunctions {
 	 * Method Name	: verifyArticleHeading
 	 * Description	: To validate the article heading in the body as expected
 	 ---------------------------------------------------------------------------------------------------------*/
-	
-	public static void verifyArticleHeading() {
-		try {
-			String article = csvFileReader.dataMapping.get("Heading");
-			WebElement element = null;
-			//element = articlePageObjects.ArticleTitle1(article);
-			if(verifyWebElementPresent(element)) {
-				pageActions.scrollToElement(element);
-				pageActions.setHighlight(element);
-				System.out.println("Article heading '" + article + "' is present in the Blog Page");
-			}else {
-				System.out.println("Article heading '" + article + "' is not present in the Blog Page");
-				Assert.fail("Article heading '" + article + "' is not present in the Blog Page");
+		public static void verifyArticleHeading() {
+			try {
+				String article = csvFileReader.dataMapping.get("Heading");
+				WebElement element = null;
+				//element = articlePageObjects.ArticleTitle1(article);
+				if(verifyWebElementPresent(element)) {
+					pageActions.scrollToElement(element);
+					pageActions.setHighlight(element);
+					System.out.println("Article heading '" + article + "' is present in the Blog Page");
+				}else {
+					System.out.println("Article heading '" + article + "' is not present in the Blog Page");
+					Assert.fail("Article heading '" + article + "' is not present in the Blog Page");
+				}
+			}catch(Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
 			}
-		}catch(Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
 		}
-	}
 	
 	/*------------------------------------------------------------------------------------------------------
 	 * Author		: Maheswari Muthu
@@ -86,16 +85,15 @@ public class blogArticleFunctions {
 	 * Method Name	: verifyArticleNavigationLink
 	 * Description	: To validate the article navigated URL as expected
 	 ---------------------------------------------------------------------------------------------------------*/
-	
-	public static void verifyArticleNavigationLink() {
-		try {
-			String url = csvFileReader.dataMapping.get("URL");
-			commonFunctions.validateURL(url);
-		}catch(Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+		public static void verifyArticleNavigationLink() {
+			try {
+				String url = csvFileReader.dataMapping.get("URL");
+				commonFunctions.validateURL(url);
+			}catch(Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 		}
-	}
 	
 	/*------------------------------------------------------------------------------------------------------
 	 * Author		: Maheswari Muthu
@@ -103,93 +101,77 @@ public class blogArticleFunctions {
 	 * Method Name	: verifyArticleDetails
 	 * Description	: To validate the article title, created By and date details in the body as expected
 	 ---------------------------------------------------------------------------------------------------------*/
-	
-	public static void verifyArticleDetails(String key) throws ParseException {
-			String value = "";
-			WebElement element = null;
-			switch(key) {
-				case "title":
-					value = articleContent.get("headline");
-					element = articlePageObjects.ArticleTitle();
-					break;
-				case "author":
-					value = articleContent.get("author");
-					element = articlePageObjects.ArticleAuthor();
-					break;
-				case "publishDate":
-					value = articleContent.get("publishDate");
-					SimpleDateFormat dat = new SimpleDateFormat("yyyy-MM-dd");
-					Date d = dat.parse(value);
-					SimpleDateFormat dat1 = new SimpleDateFormat("MMMM dd, yyyy");
-					value = (dat1.format(d));
-					element = articlePageObjects.ArticleCreatedDate();
-					break;
-				case "image":
-					value = articleContent.get("heroImage");
-					//value = value.replaceAll("Blog", "webimage");
-					//value = value.replaceAll(".jpg", "");
-					//value = value.replaceAll(".png", "");
-					element = articlePageObjects.ArticleImage();
-					break;
-				default:
-					log.info("Case not defined for the key:"+key);
-					break;
-			}
-				if(element!=null) {
-					pageActions.scrollToElement(element);
-					pageActions.setHighlight(element);
-					if(key.equals("image")) {
-						if(element.getAttribute("src").contains(value)) {
-							log.info("Article " + key + " <" + element.getAttribute("src") + "> MATCHED\n");
-							logResult =logResult + "Article " + key + " <" + element.getAttribute("src") + "> MATCHED\n\n";
-							output = output+"|"+"Pass\t|";
+		public static void verifyArticleDetails(String key) throws ParseException {
+				String value = "";
+				WebElement element = null;
+				String webValue = "";
+				switch(key) {
+					case "title":
+						value = articleContent.get("headline");
+						element = articlePageObjects.ArticleTitle();
+						break;
+					case "author":
+						value = articleContent.get("author");
+						element = articlePageObjects.ArticleAuthor();
+						break;
+					case "publishDate":
+						value = articleContent.get("publishDate");
+						SimpleDateFormat dat = new SimpleDateFormat("yyyy-MM-dd");
+						Date d = dat.parse(value);
+						SimpleDateFormat dat1 = new SimpleDateFormat("MMMM dd, yyyy");
+						value = (dat1.format(d));
+						element = articlePageObjects.ArticleCreatedDate();
+						break;
+					case "image":
+						value = articleContent.get("heroImage");
+						//value = value.replaceAll("Blog", "webimage");
+						//value = value.replaceAll(".jpg", "");
+						//value = value.replaceAll(".png", "");
+						element = articlePageObjects.ArticleImage();
+						break;
+					default:
+						log.info("Case not defined for the key:"+key);
+						break;
+				}
+					webValue = element.getText().replaceAll("﻿﻿﻿\u200B", "");
+					webValue = element.getText().replaceAll("\u00A0", " ");
+					if(element!=null) {
+						pageActions.scrollToElement(element);
+						pageActions.setHighlight(element);
+						if(key.equals("image")) {
+							if(element.getAttribute("src").contains(value)) {
+								log.info("Article " + key + " <" + element.getAttribute("src") + "> MATCHED\n");
+								logResult =logResult + "Article " + key + " <" + element.getAttribute("src") + "> MATCHED\n\n";
+								output = output+"|"+"Pass\t|";
+							}else {
+								log.error("Article " + key + " <" + element.getAttribute("src") + "> NOT MATCHED");
+								logResult = logResult + "Article " + key + " <" + element.getAttribute("src") + "> MATCHED\n\n";
+								output = output+"|"+"Fail\t|";
+								flagFail = 1;
+							}
 						}else {
-							log.error("Article " + key + " <" + element.getAttribute("src") + "> NOT MATCHED");
-							logResult = logResult + "Article " + key + " <" + element.getAttribute("src") + "> MATCHED\n\n";
-							output = output+"|"+"Fail\t|";
-							flagFail = 1;
+							if((webValue.trim()).equals(value)) {
+								log.info("Article " + key + " <" + webValue + "> MATCHED");
+								logResult =logResult + "Article " + key + " <" + element.getText() + "> MATCHED\n\n";
+								output = output+"|"+"Pass\t";
+							}else {
+								log.error("Article " + key + " <" + webValue + "> NOT MATCHED");
+								logResult =logResult + "Article " + key + " <" + element.getText() + "> NOT MATCHED\n\n";
+								output = output+"|"+"Fail\t";
+								flagFail = 1;
+							}
 						}
 					}else {
-						if((element.getText().replaceAll("\u00A0", " ").trim()).equals(value)) {
-							log.info("Article " + key + " <" + element.getText() + "> MATCHED");
-							logResult =logResult + "Article " + key + " <" + element.getText() + "> MATCHED\n\n";
-							output = output+"|"+"Pass\t";
-						}else {
-							log.error("Article " + key + " <" + element.getText() + "> NOT MATCHED");
-							logResult =logResult + "Article " + key + " <" + element.getText() + "> NOT MATCHED\n\n";
-							output = output+"|"+"Fail\t";
-							flagFail = 1;
+						if(key.equals("title")) {
+							migrateStatus = "FAIL";
 						}
+						log.error("Article " + key + "NOT MATCHED FOUND");
+						logResult =logResult + "Article " + key + "NOT MATCHED FOUND\n\n";
+						output = output+"|"+"Fail\t\n";
+						flagFail = 1;
 					}
-				}else {
-					if(key.equals("title")) {
-						migrateStatus = "FAIL";
-					}
-					log.error("Article " + key + "NOT MATCHED FOUND");
-					logResult =logResult + "Article " + key + "NOT MATCHED FOUND\n\n";
-					output = output+"|"+"Fail\t\n";
-					flagFail = 1;
-				}
-				
-	}
-	
-	/*------------------------------------------------------------------------------------------------------
-	 * Author		: Maheswari Muthu
-	 * Date			: 10-01-2024
-	 * Method Name	: articleContentCheck
-	 * Description	: 
-	 ---------------------------------------------------------------------------------------------------------*/
-	public static void articleContentCheck() {
-		
-		WebElement element = null;
-		/*List<WebElement> contentHead = driver.findElements(By.xpath("//div[contains(@class,'templates_main')]/h2"));
-		WebElement element = blogPageObjects.articleContent(Integer.toString(contentHead.size()));
-		//element = blogPageObjects.articleContent;
-		System.out.println(element.getText());*/
-		element = articlePageObjects.articleContent;
-		System.out.println(element.getText());
-		//div[contains(@class,'templates_main')]/h2[3]/parent::div
-	}
+					
+		}
 	
 	/*------------------------------------------------------------------------------------------------------
 	 * Author		: Maheswari Muthu
@@ -197,36 +179,34 @@ public class blogArticleFunctions {
 	 * Method Name	: validateFeedbackSection
 	 * Description	: To submit the feedback and check the response
 	 ---------------------------------------------------------------------------------------------------------*/
-	
-	public static void validateFeedbackSection() {
-		
-		WebElement element = null;
-		//element = blogPageObjects.divfeedback;
-		if(verifyWebElementPresent(element)) {
-			pageActions.scrollToElement(element);
-			pageActions.setHighlight(element);
-			try {
-			//	element = articlePageObjects.chkboxIamNotARobot;
+		public static void validateFeedbackSection() {
+			
+			WebElement element = null;
+			//element = blogPageObjects.divfeedback;
+			if(verifyWebElementPresent(element)) {
+				pageActions.scrollToElement(element);
 				pageActions.setHighlight(element);
-				pageActions.clickElement(element, "I am not a Robot checkbox", false);
-				//element = articlePageObjects.windowImageSelect;
-				if(verifyWebElementPresent(element)) {
+				try {
+				//	element = articlePageObjects.chkboxIamNotARobot;
 					pageActions.setHighlight(element);
+					pageActions.clickElement(element, "I am not a Robot checkbox", false);
+					//element = articlePageObjects.windowImageSelect;
+					if(verifyWebElementPresent(element)) {
+						pageActions.setHighlight(element);
+					}
+				} catch (InterruptedException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
 				}
-			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
+				element = articlePageObjects.btnSendFeedback;
+				pageActions.setHighlight(element);
+				System.out.println("Validate feedback section in the article page is validated successfully");
+			}else {
+				System.out.println("Validate feedback section in the article page is not validated");
+				Assert.fail("Validate feedback section in the article page is not validated");
 			}
-			element = articlePageObjects.btnSendFeedback;
-			pageActions.setHighlight(element);
-			System.out.println("Validate feedback section in the article page is validated successfully");
-		}else {
-			System.out.println("Validate feedback section in the article page is not validated");
-			Assert.fail("Validate feedback section in the article page is not validated");
+			
 		}
-		
-	}
-	
 		
 	/*------------------------------------------------------------------------------------------------------
 	 * Author		: Maheswari Muthu
@@ -234,30 +214,29 @@ public class blogArticleFunctions {
 	 * Method Name	: rightPanelSocialLinkCheck
 	 * Description	: To validate teh social links in blog article page right panel.
 	 ---------------------------------------------------------------------------------------------------------*/
-	
-	public static void rightPanelSocialLinkCheck() {
-		
-		String links = blogProperties.getProperty("rightPanelSocialLink");
-		String[] temp_split = links.split("\\|");
-		String linkName = "";
-		WebElement element = null;
-		try {
-			for(int i=0; i < temp_split.length ; i++) {
-				linkName = temp_split[i];
-				element = articlePageObjects.rightPanelSocialLink(linkName);
-				if(verifyWebElementPresent(element)) {
-					pageActions.setHighlight(element);
-					System.out.println("'" + commonFunctions.boldString(linkName) + "' logo is present in the Blog Page Right panel");
-				}else {
-					System.err.println("'" + commonFunctions.boldString(linkName) + "' logo is not present in the Blog Page Right panel");
+		public static void rightPanelSocialLinkCheck() {
+			
+			String links = blogProperties.getProperty("rightPanelSocialLink");
+			String[] temp_split = links.split("\\|");
+			String linkName = "";
+			WebElement element = null;
+			try {
+				for(int i=0; i < temp_split.length ; i++) {
+					linkName = temp_split[i];
+					element = articlePageObjects.rightPanelSocialLink(linkName);
+					if(verifyWebElementPresent(element)) {
+						pageActions.setHighlight(element);
+						System.out.println("'" + commonFunctions.boldString(linkName) + "' logo is present in the Blog Page Right panel");
+					}else {
+						System.err.println("'" + commonFunctions.boldString(linkName) + "' logo is not present in the Blog Page Right panel");
+					}
 				}
+				pageActions.scrollToElement(element);
+			}catch(Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
 			}
-			pageActions.scrollToElement(element);
-		}catch(Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
 		}
-	}
 	
 	/*------------------------------------------------------------------------------------------------------
 	 * Author		: Maheswari Muthu
@@ -265,556 +244,391 @@ public class blogArticleFunctions {
 	 * Method Name	: enterCaptcha
 	 * Description	: To enter the captcha in feedback section
 	 ---------------------------------------------------------------------------------------------------------*/
-	public static void clickCaptcha() {
-		By element = null;
-		try {
-			Thread.sleep(10000);;
-			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(25));
-	        wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(
-	                By.xpath("//iframe[starts-with(@name, 'a-') and starts-with(@src, 'https://www.google.com/recaptcha')]")));
-	       
-	        wait.until(ExpectedConditions.elementToBeClickable(
-	                    By.xpath("//div[@class='recaptcha-checkbox-border']"))).click();
-	        log.info("Clicked the captcha successfully");
-		}catch(Exception e) {
-			log.error("Error in clicking the captcha: "+e);
-			Assert.fail("Error in clicking the captch");
+		public static void clickCaptcha() {
+			By element = null;
+			try {
+				Thread.sleep(10000);;
+				WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(25));
+		        wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(
+		                By.xpath("//iframe[starts-with(@name, 'a-') and starts-with(@src, 'https://www.google.com/recaptcha')]")));
+		       
+		        wait.until(ExpectedConditions.elementToBeClickable(
+		                    By.xpath("//div[@class='recaptcha-checkbox-border']"))).click();
+		        log.info("Clicked the captcha successfully");
+			}catch(Exception e) {
+				log.error("Error in clicking the captcha: "+e);
+				Assert.fail("Error in clicking the captch");
+			}
 		}
-	}
+		
 	/*------------------------------------------------------------------------------------------------------
 	 * Author		: Maheswari Muthu
 	 * Date			: 29-01-2024
 	 * Method Name	: checkArticleContent
 	 * Description	: To check the content of the article
 	 ---------------------------------------------------------------------------------------------------------*/
-	public static void checkArticleContent(String type) {
-		
-		List<WebElement> element = null;
-		WebElement ele = null;
-		String value = "";
-		String data = "";
-		int paraCOunt = 0;
-		int count = 0;
-		switch(type) {
-			case "headings":
-				element = articlePageObjects.articleHeading();
-				for (int i=0; i<element.size(); i++) {
-					value = element.get(i).getText();
-					data = articleHeading.get("Heading"+(i+1));
-					if(value.equals(data)) {
-						log.info("Heading"+(i+1)+" Matched\n"+data+"\n"+value);
-					}else {
-						log.info("Heading"+(i+1)+" not Matched\n"+data+"\n"+value);
-						flagFail = 1;
+		public static void checkArticleContent(String type) {
+			
+			List<WebElement> element = null;
+			WebElement ele = null;
+			String value = "";
+			String data = "";
+			int paraCOunt = 0;
+			int count = 0;
+			switch(type) {
+				case "headings":
+					element = articlePageObjects.articleHeading();
+					for (int i=0; i<element.size(); i++) {
+						value = element.get(i).getText();
+						data = articleHeading.get("Heading"+(i+1));
+						if(value.equals(data)) {
+							log.info("Heading"+(i+1)+" Matched\n"+data+"\n"+value);
+						}else {
+							log.info("Heading"+(i+1)+" not Matched\n"+data+"\n"+value);
+							flagFail = 1;
+						}
 					}
-				}
-				
-				count = Integer.parseInt(articleContent.get("ParagraphCount"));
-				if(count>0) {
-					int subCOunt =0;
-					for(int i=1; i<=count; i++) {
-							subCOunt = Integer.parseInt(articleContent.get("SubHeading"+(i)));
-							if(subCOunt>0) {
-								for(int k=1;k<=subCOunt; k++) {
-									if(i==1) {
-										ele = articlePageObjects.articleSubHead(k);
-									}else if(i==count){
-										ele = articlePageObjects.articleSubHead2(i-1,k);
-									}else {
-										ele = articlePageObjects.articleSubHead1(i,i-1,k);
+					
+					count = Integer.parseInt(articleContent.get("ParagraphCount"));
+					if(count>0) {
+						int subCOunt =0;
+						for(int i=1; i<=count; i++) {
+								subCOunt = Integer.parseInt(articleContent.get("SubHeading"+(i)));
+								if(subCOunt>0) {
+									for(int k=1;k<=subCOunt; k++) {
+										if(i==1) {
+											ele = articlePageObjects.articleSubHead(k);
+										}else if(i==count){
+											ele = articlePageObjects.articleSubHead2(i-1,k);
+										}else {
+											ele = articlePageObjects.articleSubHead1(i,i-1,k);
+										}
+										data = articleHeading.get("Sub_Heading"+i+"_"+(k));
+										value = ele.getText();
+										if(((value.trim().replaceAll("\n", ""))).equals(data)) {
+											log.info("Sub_Heading"+i+"_"+(k)+" Matched\n"+data+"\n"+value);
+										}else {
+											log.info("Sub_Heading"+i+"_"+(k)+" not Matched\n"+data+"\n"+value);
+											flagFail = 1;
+										}
 									}
-									data = articleHeading.get("Sub_Heading"+i+"_"+(k));
-									value = ele.getText();
-									if(((value.trim().replaceAll("\n", ""))).equals(data)) {
-										log.info("Sub_Heading"+i+"_"+(k)+" Matched\n"+data+"\n"+value);
+								}
+						}
+					}
+					break;
+					
+				case "paragraphs":
+					count = Integer.parseInt(articleContent.get("ParagraphCount"));
+					System.out.println("ParagraphCount:"+count);
+					for(int i=1; i<=count; i++) {
+						if(i==1) {
+							element = articlePageObjects.articleParagraph();
+						}else if(i==count){
+							element = articlePageObjects.articleParagraph2(i-1);
+						}else {
+							element = articlePageObjects.articleParagraph1(i,i-1);
+						}
+						paraCOunt = Integer.parseInt(articleContent.get("ParagraphCount"+(i)));
+						for (int j=0; j<element.size(); j++) {
+							value = element.get(j).getText();
+							data = articleContent.get("Paragraph"+i+"_"+(j+1));
+							if(((value.trim().replaceAll("\n", ""))).equals(data)) {
+								log.info("Paragraph"+i+"_"+(j+1)+" Matched\n"+data+"\n"+value);
+							}else {
+								log.error("Paragraph"+i+"_"+(j+1)+" not Matched\n"+data+"\n"+value);
+								flagFail = 1; 
+							}
+						}
+					}
+					break;
+					
+				case "links":
+					count = Integer.parseInt(articleContent.get("ParagraphCount"));
+					int linkCOunt =0;
+					String[] link = null;
+					// To validate links in Paragraphs
+					for(int i=1; i<=count; i++) {
+						paraCOunt = Integer.parseInt(articleContent.get("ParagraphCount"+(i)));
+						for (int j=0; j<paraCOunt; j++) {
+							linkCOunt = Integer.parseInt(articleContent.get("Paragraph"+i+"_"+(j+1)+"_linkCount"));
+							if(linkCOunt>0) {
+								for(int k=1;k<=linkCOunt; k++) {
+									if(i==1) {
+										ele = articlePageObjects.articleLink(((paraCOunt-(j+1))+1) ,k);
+									}else if(i==count){
+										ele = articlePageObjects.articleLink2((paraCOunt-j),i-1,k);
 									}else {
-										log.info("Sub_Heading"+i+"_"+(k)+" not Matched\n"+data+"\n"+value);
+										ele = articlePageObjects.articleLink1((paraCOunt-j),i,i-1,k);
+									}
+									data = articleLink.get("Paragraph"+i+"_"+(j+1)+"_link"+k);
+									link = data.split("\\|");
+									value = ele.getAttribute("href");
+									if((value.trim()).equals(link[1])) {
+										log.info("Paragraph"+i+"_"+(j+1)+"_link"+k+" Matched\n"+data+"\n"+ele.getText()+"|"+value);
+									}else {
+										log.info("Paragraph"+i+"_"+(j+1)+"_link"+k+" not Matched\n"+data+"\n"+ele.getText()+"|"+value);
 										flagFail = 1;
 									}
 								}
 							}
-					}
-				}
-				break;
-				
-			case "paragraphs":
-				count = Integer.parseInt(articleContent.get("ParagraphCount"));
-				System.out.println("ParagraphCount:"+count);
-				for(int i=1; i<=count; i++) {
-					if(i==1) {
-						element = articlePageObjects.articleParagraph();
-					}else if(i==count){
-						element = articlePageObjects.articleParagraph2(i-1);
-					}else {
-						element = articlePageObjects.articleParagraph1(i,i-1);
-					}
-					paraCOunt = Integer.parseInt(articleContent.get("ParagraphCount"+(i)));
-					for (int j=0; j<element.size(); j++) {
-						value = element.get(j).getText();
-						data = articleContent.get("Paragraph"+i+"_"+(j+1));
-						if(((value.trim().replaceAll("\n", ""))).equals(data)) {
-							log.info("Paragraph"+i+"_"+(j+1)+" Matched\n"+data+"\n"+value);
-						}else {
-							log.error("Paragraph"+i+"_"+(j+1)+" not Matched\n"+data+"\n"+value);
-							flagFail = 1; 
 						}
 					}
-				}
-				break;
-				
-			case "links":
-				count = Integer.parseInt(articleContent.get("ParagraphCount"));
-				int linkCOunt =0;
-				String[] link = null;
-				// To validate links in Paragraphs
-				for(int i=1; i<=count; i++) {
-					paraCOunt = Integer.parseInt(articleContent.get("ParagraphCount"+(i)));
-					for (int j=0; j<paraCOunt; j++) {
-						linkCOunt = Integer.parseInt(articleContent.get("Paragraph"+i+"_"+(j+1)+"_linkCount"));
-						if(linkCOunt>0) {
-							for(int k=1;k<=linkCOunt; k++) {
-								if(i==1) {
-									ele = articlePageObjects.articleLink(((paraCOunt-(j+1))+1) ,k);
-								}else if(i==count){
-									ele = articlePageObjects.articleLink2((paraCOunt-j),i-1,k);
-								}else {
-									ele = articlePageObjects.articleLink1((paraCOunt-j),i,i-1,k);
+					// To validate links in List
+					for(int i=1; i<=count; i++) {
+						paraCOunt = Integer.parseInt(articleContent.get("ListCount"+(i)));
+						for (int j=0; j<paraCOunt; j++) {
+							linkCOunt = Integer.parseInt(articleContent.get("List"+i+"_"+(j+1)+"_linkCount"));
+							if(linkCOunt>0) {
+								for(int k=1;k<=linkCOunt; k++) {
+									if(i==1) {
+										ele = articlePageObjects.articleULink(k,1);
+									}else if(i==count){
+										ele = articlePageObjects.articleULink2(i-1,k,1,1);
+									}else {
+										ele = articlePageObjects.articleULink1(i,i-1,k,1,1);
+									}
+									//data = articleLink.get("List"+i+"_"+(j+1)+"_link"+k,1);
+									link = data.split("\\|");
+									value = ele.getAttribute("href");
+									if((value.trim()).equals(link[1])) {
+										log.info("List"+i+"_"+(j+1)+"_link"+k +" Matched\n"+data+"\n"+ele.getText()+"|"+value);
+									}else {
+										log.info("List"+i+"_"+(j+1)+"_link"+k +" not Matched\n"+data+"\n"+ele.getText()+"|"+value);
+										flagFail = 1;
+									}
 								}
-								data = articleLink.get("Paragraph"+i+"_"+(j+1)+"_link"+k);
-								link = data.split("\\|");
-								value = ele.getAttribute("href");
-								if((value.trim()).equals(link[1])) {
-									log.info("Paragraph"+i+"_"+(j+1)+"_link"+k+" Matched\n"+data+"\n"+ele.getText()+"|"+value);
+							}
+						}
+					}
+						
+					// To validate links in Sub Headings
+					for(int i=1; i<=count; i++) {
+						paraCOunt = Integer.parseInt(articleContent.get("SubHeading"+(i)));
+						for (int j=0; j<paraCOunt; j++) {
+							linkCOunt = Integer.parseInt(articleContent.get("Sub_Heading"+i+"_"+(j+1)+"_linkCount"));
+							if(linkCOunt>0) {
+								for(int k=1;k<=linkCOunt; k++) {
+									if(i==1) {
+										ele = articlePageObjects.articleHeadLink((j+1));
+									}else if(i==count){
+										ele = articlePageObjects.articleHeadLink2(i-1,(j+1));
+									}else {
+										ele = articlePageObjects.articleHeadLink1(i,i-1,(j+1));
+									}
+									data = articleLink.get("Sub_Heading"+i+"_"+(j+1)+"_link"+k);
+									link = data.split("\\|");
+									pageActions.setHighlight(ele);
+									value = ele.getAttribute("href");
+									if((value.trim()).equals(link[1])) {
+										log.info("Sub_Heading"+i+"_"+(j+1)+"_link"+k +" Matched\n"+data+"\n"+ele.getText()+"|"+value);
+									}else {
+										log.info("Sub_Heading"+i+"_"+(j+1)+"_link"+k +" not Matched\n"+data+"\n"+ele.getText()+"|"+value);
+										flagFail = 1;
+									}
+								}
+							}
+						}
+					}	
+					break;
+				case "Lists":
+					count = Integer.parseInt(articleContent.get("ParagraphCount"));
+					int listCOunt =0;
+					// To validate links in Paragraphs
+					for(int i=1; i<=count; i++) {
+						listCOunt = Integer.parseInt(articleContent.get("ListCount"+(i)));
+						if(listCOunt>0) {
+							for(int k=1;k<=listCOunt; k++) {
+								if(i==1) {
+									ele = articlePageObjects.articleList(k);
+								}else if(i==count){
+									ele = articlePageObjects.articleList2(i-1,k);
 								}else {
-									log.info("Paragraph"+i+"_"+(j+1)+"_link"+k+" not Matched\n"+data+"\n"+ele.getText()+"|"+value);
+									ele = articlePageObjects.articleList1(i,i-1,k);
+								}
+								data = articleContent.get("List"+i+"_"+(k));
+								value = ele.getText();
+								if(((value.trim())).equals(data)) {
+									log.info("List"+i+"_"+(k)+" Matched\n"+data+"\n"+value);
+								}else {
+									log.info("List"+i+"_"+(k)+" not Matched\n"+data+"\n"+value);
 									flagFail = 1;
 								}
 							}
 						}
 					}
-				}
-				// To validate links in List
-				for(int i=1; i<=count; i++) {
-					paraCOunt = Integer.parseInt(articleContent.get("ListCount"+(i)));
-					for (int j=0; j<paraCOunt; j++) {
-						linkCOunt = Integer.parseInt(articleContent.get("List"+i+"_"+(j+1)+"_linkCount"));
-						if(linkCOunt>0) {
-							for(int k=1;k<=linkCOunt; k++) {
-								if(i==1) {
-									ele = articlePageObjects.articleULink(k,1);
-								}else if(i==count){
-									ele = articlePageObjects.articleULink2(i-1,k,1);
-								}else {
-									ele = articlePageObjects.articleULink1(i,i-1,k,1);
-								}
-								//data = articleLink.get("List"+i+"_"+(j+1)+"_link"+k,1);
-								link = data.split("\\|");
-								value = ele.getAttribute("href");
-								if((value.trim()).equals(link[1])) {
-									log.info("List"+i+"_"+(j+1)+"_link"+k +" Matched\n"+data+"\n"+ele.getText()+"|"+value);
-								}else {
-									log.info("List"+i+"_"+(j+1)+"_link"+k +" not Matched\n"+data+"\n"+ele.getText()+"|"+value);
-									flagFail = 1;
-								}
-							}
-						}
-					}
-				}
-					
-				// To validate links in Sub Headings
-				for(int i=1; i<=count; i++) {
-					paraCOunt = Integer.parseInt(articleContent.get("SubHeading"+(i)));
-					for (int j=0; j<paraCOunt; j++) {
-						linkCOunt = Integer.parseInt(articleContent.get("Sub_Heading"+i+"_"+(j+1)+"_linkCount"));
-						if(linkCOunt>0) {
-							for(int k=1;k<=linkCOunt; k++) {
-								if(i==1) {
-									ele = articlePageObjects.articleHeadLink((j+1));
-								}else if(i==count){
-									ele = articlePageObjects.articleHeadLink2(i-1,(j+1));
-								}else {
-									ele = articlePageObjects.articleHeadLink1(i,i-1,(j+1));
-								}
-								data = articleLink.get("Sub_Heading"+i+"_"+(j+1)+"_link"+k);
-								link = data.split("\\|");
-								pageActions.setHighlight(ele);
-								value = ele.getAttribute("href");
-								if((value.trim()).equals(link[1])) {
-									log.info("Sub_Heading"+i+"_"+(j+1)+"_link"+k +" Matched\n"+data+"\n"+ele.getText()+"|"+value);
-								}else {
-									log.info("Sub_Heading"+i+"_"+(j+1)+"_link"+k +" not Matched\n"+data+"\n"+ele.getText()+"|"+value);
-									flagFail = 1;
-								}
-							}
-						}
-					}
-				}	
-				break;
-			case "Lists":
-				count = Integer.parseInt(articleContent.get("ParagraphCount"));
-				int listCOunt =0;
-				// To validate links in Paragraphs
-				for(int i=1; i<=count; i++) {
-					listCOunt = Integer.parseInt(articleContent.get("ListCount"+(i)));
-					if(listCOunt>0) {
-						for(int k=1;k<=listCOunt; k++) {
-							if(i==1) {
-								ele = articlePageObjects.articleList(k);
-							}else if(i==count){
-								ele = articlePageObjects.articleList2(i-1,k);
-							}else {
-								ele = articlePageObjects.articleList1(i,i-1,k);
-							}
-							data = articleContent.get("List"+i+"_"+(k));
-							value = ele.getText();
-							if(((value.trim())).equals(data)) {
-								log.info("List"+i+"_"+(k)+" Matched\n"+data+"\n"+value);
-							}else {
-								log.info("List"+i+"_"+(k)+" not Matched\n"+data+"\n"+value);
-								flagFail = 1;
-							}
-						}
-					}
-				}
-				break;
-			case "content":
-				element = articlePageObjects.articleHeading();
-				ele = articlePageObjects.articleContent(Integer.toString(element.size()));
-				System.out.println(ele.getText());
-				break;
-			default:
-				break;
+					break;
+				case "content":
+					element = articlePageObjects.articleHeading();
+					ele = articlePageObjects.articleContent(Integer.toString(element.size()));
+					System.out.println(ele.getText());
+					break;
+				default:
+					break;
+			}
+			if(flagFail>0) {
+				output = output+"|"+"Fail\t";
+			}else {
+				output = output+"|"+"Pass\t";
+			}
+			
 		}
-		if(flagFail>0) {
-			output = output+"|"+"Fail\t";
-		}else {
-			output = output+"|"+"Pass\t";
-		}
-		
-	}
 	
 	/*------------------------------------------------------------------------------------------------------
 	 * Author		: Maheswari Muthu
 	 * Date			: 06-02-2024
 	 * Method Name	: checkArticleContentInOrder
-	 * Description	: To check the content of the article
+	 * Description	: To check the content of the article along with md file data in order
 	 ---------------------------------------------------------------------------------------------------------*/
-	public static void checkArticleContentInOrder() throws ParseException {
-		
-		flagFail = 0;
-		checkArticleBaseData();
-		
-		if(!migrateStatus.equals("FAIL")) {
-			List<WebElement> element = null;
-			WebElement ele = null;
+		public static void checkArticleContentInOrder() throws ParseException {
 			
-			String prevTitle = "";
-	
+			flagFail = 0;
+			checkArticleBaseData();
 			
-			int headingCount = Integer.parseInt(articleContent.get("ParagraphCount"))-1;
-			int blockCount = Integer.parseInt(articleContent.get("ParagraphCount"));
-			int paraCount = 0;
-			int listCount = 0;
-			int linkCount = 0;
-			int ordlistCount = 0;
-			int subHeadingCount = 0;
-			int subHeading4Count = 0;
-			int imageCount = 0;
-			int videoCount = 0;
-			int count = 0;
-			int headK = 0;
-			
-			//For storing pass and fail count
-			int headPassResult = 0, headFailResult = 0, headResult = 0;
-			int paraPassResult = 0, paraFailResult = 0, paraResult = 0;
-			int listPassResult = 0, listFailResult = 0, listResult = 0;
-			int linkPassResult = 0, linkFailResult = 0, linkResult = 0;
-			int imagePassResult = 0, imageFailResult = 0, imageResult =0;
-			int videoPassResult = 0, videoFailResult = 0, videoResult =0;
-			
-			String resultLog = "";
-			
-			String appValue = "";
-			String fileValue = "";
-			
-			String parakey = "";
-			String paraValue = "";
-			
-			String listKey = "";
-			String listValue = "";
-			
-			String subHeadKey = "";
-			String subHeadValue = "";
-			
-			String headKey = "";
-			String headValue = "";
-			
-			String linkKey = "";
-			String linkValue = "";
-			
-			String imgKey = "";
-			String imgValue = "";
-			
-			String ordListKey = "";
-			String ordListValue = "";
-			
-			String videoKey = "";
-			String videoValue = "";
-			
-			String subHead4Key = "";
-			String subHead4Value = "";
-			
-			String type = "";
-			//Loop for checking the blocks
-			for (int i=1; i<=blockCount; i++) {
-				paraCount = Integer.parseInt(articleContent.get("ParagraphCount"+i));
-				listCount = Integer.parseInt(articleContent.get("ListCount"+i));
-				subHeadingCount = Integer.parseInt(articleContent.get("SubHeading"+i));
-				imageCount = Integer.parseInt(articleContent.get("Image"+i));
-				ordlistCount = Integer.parseInt(articleContent.get("OrdListCount"+i));
-				videoCount = Integer.parseInt(articleContent.get("Video"+i));
-				subHeading4Count = Integer.parseInt(articleContent.get("Sub4Heading"+i));
-				linkCount = 0;
-				int listK = 1;
-				int ordlistK = 1;
-				int paraK = 0;
-				int subHeadK = 1;
-				int subHead4K = 1;
-				int paralinkK = 1;
-				int subHeadLinkK = 1;
-				int imageK = 1;
-				int videoK = 1;
-				count = paraCount+listCount+subHeadingCount+ordlistCount;
+			if(!migrateStatus.equals("FAIL")) {
+				List<WebElement> element = null;
+				WebElement ele = null;
 				
-				//For validating paragraphs under each block
-				for (int j=0; j<count; j++) {
+				String prevTitle = "";
+		
+				
+				int headingCount = Integer.parseInt(articleContent.get("ParagraphCount"))-1;
+				int blockCount = Integer.parseInt(articleContent.get("ParagraphCount"));
+				int paraCount = 0;
+				int listCount = 0;
+				int linkCount = 0;
+				int ordlistCount = 0;
+				int subHeadingCount = 0;
+				int subHeading4Count = 0;
+				int imageCount = 0;
+				int videoCount = 0;
+				int count = 0;
+				int headK = 0;
+				
+				//For storing pass and fail count
+				int headPassResult = 0, headFailResult = 0, headResult = 0;
+				int paraPassResult = 0, paraFailResult = 0, paraResult = 0;
+				int listPassResult = 0, listFailResult = 0, listResult = 0;
+				int linkPassResult = 0, linkFailResult = 0, linkResult = 0;
+				int imagePassResult = 0, imageFailResult = 0, imageResult =0;
+				int videoPassResult = 0, videoFailResult = 0, videoResult =0;
+				
+				String resultLog = "";
+				
+				String appValue = "";
+				String fileValue = "";
+				
+				String parakey = "";
+				String paraValue = "";
+				
+				String listKey = "";
+				String listValue = "";
+				
+				String subHeadKey = "";
+				String subHeadValue = "";
+				
+				String headKey = "";
+				String headValue = "";
+				
+				String linkKey = "";
+				String linkValue = "";
+				
+				String imgKey = "";
+				String imgValue = "";
+				
+				String ordListKey = "";
+				String ordListValue = "";
+				
+				String videoKey = "";
+				String videoValue = "";
+				
+				String subHead4Key = "";
+				String subHead4Value = "";
+				
+				String type = "";
+				//Loop for checking the blocks
+				for (int i=1; i<=blockCount; i++) {
+					paraCount = Integer.parseInt(articleContent.get("ParagraphCount"+i));
+					listCount = Integer.parseInt(articleContent.get("ListCount"+i));
+					subHeadingCount = Integer.parseInt(articleContent.get("SubHeading"+i));
+					imageCount = Integer.parseInt(articleContent.get("Image"+i));
+					ordlistCount = Integer.parseInt(articleContent.get("OrdListCount"+i));
+					videoCount = Integer.parseInt(articleContent.get("Video"+i));
+					subHeading4Count = Integer.parseInt(articleContent.get("Sub4Heading"+i));
+					linkCount = 0;
+					int listK = 1;
+					int ordlistK = 1;
+					int paraK = 0;
+					int subHeadK = 1;
+					int subHead4K = 1;
+					int paralinkK = 1;
+					int subHeadLinkK = 1;
+					int imageK = 1;
+					int videoK = 1;
+					count = paraCount+listCount+subHeadingCount+ordlistCount;
 					
-					parakey = "Paragraph"+i+"_"+(j+1);
-					paraValue = articleContent.get(parakey);
-					
-					listKey = "List"+i+"_"+(j+1);
-					listValue = articleContent.get(listKey);
-					
-					subHeadKey = "Sub_Heading"+i+"_"+(j+1);
-					subHeadValue = articleHeading.get(subHeadKey);
-					
-					imgKey = "Image"+i+"_"+(j+1);
-					imgValue = articleContent.get(imgKey);
-					
-					ordListKey = "OrdList"+i+"_"+(j+1);
-					ordListValue = articleContent.get(ordListKey);
-					
-					videoKey = "Video"+i+"_"+(j+1);
-					videoValue = articleContent.get(videoKey);
-					
-					subHead4Key = "Sub4_Heading"+i+"_"+(j+1);
-					subHead4Value = articleHeading.get(subHead4Key);
-	
-					if(!(paraValue==null)) {
+					//For validating paragraphs under each block
+					for (int j=0; j<count; j++) {
 						
-						prevTitle = parakey;
+						parakey = "Paragraph"+i+"_"+(j+1);
+						paraValue = articleContent.get(parakey);
 						
-						if(headingCount!=0) {
-							if(i==1) {
-								element = articlePageObjects.articleParagraph();
-							}else if(i==blockCount){
-								element = articlePageObjects.articleParagraph2(i-1);
-							}else {
-								element = articlePageObjects.articleParagraph1(i,i-1);
-							}
-						}else {
-							element = articlePageObjects.articlePara();
-						}
-						type = "Paragraph ";
-						fileValue = paraValue;
-						appValue = element.get(paraK).getText();
-						appValue = appValue.trim().replaceAll("\\n", "");
-						paraK = paraK+1;
-						linkCount = Integer.parseInt(articleContent.get(parakey+"_linkCount"));
-						if(linkCount>0) {
+						listKey = "List"+i+"_"+(j+1);
+						listValue = articleContent.get(listKey);
+						
+						subHeadKey = "Sub_Heading"+i+"_"+(j+1);
+						subHeadValue = articleHeading.get(subHeadKey);
+						
+						imgKey = "Image"+i+"_"+(j+1);
+						imgValue = articleContent.get(imgKey);
+						
+						ordListKey = "OrdList"+i+"_"+(j+1);
+						ordListValue = articleContent.get(ordListKey);
+						
+						videoKey = "Video"+i+"_"+(j+1);
+						videoValue = articleContent.get(videoKey);
+						
+						subHead4Key = "Sub4_Heading"+i+"_"+(j+1);
+						subHead4Value = articleHeading.get(subHead4Key);
+		
+						if(!(paraValue==null)) {
 							
-							String[] link = null;
-							String value = "";
-							String temp = "";
-							for(int k=1;k<=linkCount; k++) {
-								if(headingCount!=0) {
-									if(i==1) {
-										ele = articlePageObjects.articleLink(((paraCount+1)-paraK),k);
-									}else if(i==blockCount){
-										ele = articlePageObjects.articleLink2(paraK,i-1,k);
-									}else {
-										ele = articlePageObjects.articleLink1(((paraCount+1)-paraK),i,i-1,k);
-									}
+							prevTitle = parakey;
+							
+							if(headingCount!=0) {
+								if(i==1) {
+									element = articlePageObjects.articleParagraph();
+								}else if(i==blockCount){
+									element = articlePageObjects.articleParagraph2(i-1);
 								}else {
-									ele = articlePageObjects.articleLinkwithoutHead(paraK,k);
+									element = articlePageObjects.articleParagraph1(i,i-1);
 								}
-								linkKey = parakey+"_link"+k;
-								linkValue = articleLink.get(linkKey);
-								link = linkValue.split("\\|");
-								temp = linkValue;
-								linkValue = link[1];
-								if(!linkValue.contains("http")) {
-									if(!linkValue.contains("mailto"))
-										linkValue = configProperties.getProperty("linkURL") + linkValue;
-								}
-								value = ele.getAttribute("href");
-								
-								if(((value.trim())).contains(linkValue)) {
-									if(configProperties.getProperty("report").equals("simple")) {
-										log.info("Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED\n");
-										logResult =logResult + "Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED\n\n";}
-									else if(configProperties.getProperty("report").equals("detail")) {
-										log.info("Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n");
-										logResult =logResult + "Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n\n";}
-									else {
-										if(j==0) {
-											log.info("Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n");
-											logResult =logResult + "Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n\n";}
-										else {
-											log.info("Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED\n");
-											logResult =logResult + "Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED\n\n";}
-									}
-									linkPassResult = linkPassResult+1;
-									//log.info("Link"+i+"_"+(j+1)+"_link"+k+" MATCHED\n\n"+temp+"\n");
-									//log.info(keyValue+"\n"+appValue);
-								}else {
-									log.info("Block"+i+"_Paragraph"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n");
-									logResult = logResult + "Block"+i+"_Paragraph"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n\n";
-									flagFail = 1; 
-									linkFailResult = linkFailResult+1;
-								}
-							}
-							paralinkK = paralinkK + 1;
-							
-						}
-						
-					}else if(!(listValue==null)) {
-						
-						prevTitle = listKey;
-						
-						if(headingCount!=0) {
-							if(i==1) {
-								ele = articlePageObjects.articleList((listCount+1)-listK);
-							}else if(i==blockCount){
-								ele = articlePageObjects.articleList2(i-1,listK);
 							}else {
-								ele = articlePageObjects.articleList1(i,i-1,(listCount+1)-listK);
+								element = articlePageObjects.articlePara();
 							}
-						}else {
-							ele = articlePageObjects.articleListWithoutHead(listK);
-						}
-						listK = listK+1;
-						type = "List ";
-						fileValue = listValue;
-						appValue = ele.getText().replaceAll("\\t", "");
-						
-						linkCount = Integer.parseInt(articleContent.get(listKey+"_linkCount"));
-						
-						if(linkCount>0) {
-							
-							String[] link = null; 
-							String value = "";
-							String temp = "";
-							int listLinkCount = 0;
-							listLinkCount = Integer.parseInt(articleContent.get(listKey+"_ListlinkCount"))-1;
-							for(int k=1;k<=listLinkCount; k++) {
-								linkCount = Integer.parseInt(articleContent.get(listKey+"_linkCount"+k));
-								if(linkCount>0) {
-									for(int s=1; s<=linkCount; s++) {
-										if(headingCount!=0) {
-											if(i==1) {
-												ele = articlePageObjects.articleULink(k,s);
-											}else if(i==blockCount){
-												ele = articlePageObjects.articleULink2(i-1,k,s);
-											}else {
-												ele = articlePageObjects.articleULink1(i,i-1,k,s);
-											}
-										}else {
-											if(linkCount == 1) {
-												ele = articlePageObjects.articleULinkWithoutHead(listK-1,k,s);
-											}else {
-												ele = articlePageObjects.articleULinkWithoutHead1(listK-1,k,s);
-											}
-										}
-										linkKey = listKey+"_list"+k+"_link_"+s;
-										linkValue = articleLink.get(linkKey);
-										link = linkValue.split("\\|");
-										temp = linkValue;
-										linkValue = link[1];
-										if(!linkValue.contains("http")) {
-											if(!linkValue.contains("mailto"))
-												linkValue = configProperties.getProperty("linkURL") + linkValue;
-										}
-										value = ele.getAttribute("href");
-										
-										if(((value.trim())).contains(linkValue)) {
-											if(configProperties.getProperty("report").equals("simple")) {
-												log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n");
-												logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n";}
-											else if(configProperties.getProperty("report").equals("detail")) {
-												log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n");
-												logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n\n";}
-											else {
-												if(j==0) {
-													log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n");
-													logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n\n";}
-												else {
-													log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n");
-													logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n";}
-											}
-											linkPassResult = linkPassResult+1;
-											//log.info("Link"+i+"_"+(j+1)+"_link"+k+" MATCHED\n\n"+temp+"\n");
-											//log.info(keyValue+"\n"+appValue);
-										}else {
-											log.info("Block"+i+"_List"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n");
-											logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n\n";
-											flagFail = 1; 
-											linkFailResult = linkFailResult+1;
-										}
-									}
-								}
-							}
-						}
-	
-					}else if(!(subHeadValue==null)) {
-						
-						prevTitle = subHeadKey;
-						
-						if(headingCount!=0) {
-							if(i==1) {
-								ele = articlePageObjects.articleSubHead((subHeadingCount+1)-subHeadK);
-							}else if(i==blockCount){
-								ele = articlePageObjects.articleSubHead2(i-1,subHeadK);
-							}else {
-								ele = articlePageObjects.articleSubHead1(i,i-1,(subHeadingCount+1)-subHeadK);
-							}
-						}else {
-							ele = articlePageObjects.articleSubHead3(subHeadK);
-						}
-						
-						subHeadK =subHeadK+1;
-						type = "Sub Heading ";
-						fileValue = subHeadValue;
-						appValue = ele.getText();
-							linkCount = Integer.parseInt(articleContent.get(subHeadKey+"_linkCount"));
-							
+							type = "Paragraph ";
+							fileValue = paraValue;
+							appValue = element.get(paraK).getText();
+							appValue = appValue.trim().replaceAll("\\n", "");
+							paraK = paraK+1;
+							linkCount = Integer.parseInt(articleContent.get(parakey+"_linkCount"));
 							if(linkCount>0) {
-								
-								String[] link = null; 
+								System.out.println("paraCount:"+paraCount);
+								String[] link = null;
 								String value = "";
 								String temp = "";
 								for(int k=1;k<=linkCount; k++) {
-									if(i==1) {
-										ele = articlePageObjects.articleHeadLink((subHeadingCount+1)-subHeadK);
-									}else if(i==blockCount){
-										ele = articlePageObjects.articleHeadLink2(i-1,subHeadLinkK);
+									if(headingCount!=0) {
+										if(i==1) {
+											ele = articlePageObjects.articleLink(((paraCount+1)-paraK),k);
+										}else if(i==blockCount){
+											ele = articlePageObjects.articleLink2(paraK,i-1,k);
+										}else {
+											ele = articlePageObjects.articleLink1(((paraCount+1)-paraK),i,i-1,k);
+										}
 									}else {
-										ele = articlePageObjects.articleHeadLink1(i,i-1,subHeadLinkK);
+										ele = articlePageObjects.articleLinkwithoutHead(paraK,k);
 									}
-									//div[contains(@class,'templates_main')]/h2[3]/preceding-sibling::h2[2]/following-sibling::h3[4]/a
-									System.out.println("subHeadLinkK:"+subHeadLinkK);
-									subHeadLinkK = subHeadLinkK+1;
-									linkKey = subHeadKey+"_link"+k;
+									linkKey = parakey+"_link"+k;
 									linkValue = articleLink.get(linkKey);
 									link = linkValue.split("\\|");
 									temp = linkValue;
@@ -827,230 +641,371 @@ public class blogArticleFunctions {
 									
 									if(((value.trim())).contains(linkValue)) {
 										if(configProperties.getProperty("report").equals("simple")) {
-											log.info("Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED\n");
-											logResult =logResult + "Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED\n\n";}
+											log.info("Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED\n");
+											logResult =logResult + "Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED\n\n";}
 										else if(configProperties.getProperty("report").equals("detail")) {
-											log.info("Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n");
-											logResult =logResult + "Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n\n";}
+											log.info("Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n");
+											logResult =logResult + "Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n\n";}
 										else {
 											if(j==0) {
-												log.info("Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n");
-												logResult =logResult + "Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n\n";}
+												log.info("Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n");
+												logResult =logResult + "Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n\n";}
 											else {
-												log.info("Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED\n");
-												logResult =logResult + "Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED\n\n";}
+												log.info("Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED\n");
+												logResult =logResult + "Block"+i+"_Paragraph"+(j+1)+"_link "+k+" MATCHED\n\n";}
 										}
 										linkPassResult = linkPassResult+1;
-										//log.info("Link"+i+"_"+(j+1)+"_link"+k+" MATCHED\n\n"+temp+"\n");
-										//log.info(keyValue+"\n"+appValue);
 									}else {
-										log.info("Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n");
-										logResult =logResult + "Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n\n";
+										log.info("Block"+i+"_Paragraph"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n");
+										logResult = logResult + "Block"+i+"_Paragraph"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n\n";
 										flagFail = 1; 
 										linkFailResult = linkFailResult+1;
 									}
 								}
+								paralinkK = paralinkK + 1;
 								
-						}else {
-							subHeadLinkK = subHeadLinkK+1;
-						}
-						
-					}else if(!(subHead4Value==null)) {
-						
-						if(i==1) {
-							ele = articlePageObjects.articleSub4Head(subHead4K);
-						}else if(i==blockCount){
-							ele = articlePageObjects.articleSub4Head2(i-1,subHead4K);
-						}else {
-							ele = articlePageObjects.articleSub4Head1(i,i-1,(subHeading4Count+1)-subHead4K);
-						}
-						subHead4K =subHead4K+1;
-						type = "Sub Heading ";
-						fileValue = subHead4Value;
-						appValue = ele.getText();
-						
-					}else if(!(imgValue==null)) {
-						
-						System.out.println("paraCount"+((paraCount+1)));
-						if(headingCount!=0) {
-							if(i==1) {
-								ele = articlePageObjects.articleImage((count-j));
-								paraK = paraK+1;
-							}else if(i==blockCount){
-								paraK = paraK+1;
-								ele = articlePageObjects.articleImage2(paraK,i-1);
-							}else {
-								paraK = paraK+1;
-								ele = articlePageObjects.articleImage1(((paraCount+1)-paraK),i,i-1);
 							}
-						}else {
-							paraK = paraK+1;
-							ele = articlePageObjects.articleImage3(paraK);
-						}
-						imageK =imageK+1;
-						type = "Image ";
-						fileValue = imgValue;
-						if(!(ele==null)) {
-							appValue = ele.getAttribute("src").replaceAll("_", "");
-						}else {
-							appValue = "Image NOT FOUND";
-						}
-						
-					}else if(!(videoValue==null)) {
-						
-						paraK = paraK+1;
-						
-						if(headingCount!=0) {
-							if(prevTitle.contains("List")) {
-								ele = articlePageObjects.articleListVideo(listK-1,i-1);
-							}else {
-								if(i==1) {
-									ele = articlePageObjects.articleVideo((count-j));
-								}else if(i==blockCount){
-									ele = articlePageObjects.articleVideo2(paraK,i-1);
-								}else {
-									ele = articlePageObjects.articleVideo1(((paraCount+1)-paraK),i,i-1);
-								}
-							}
-						}else {
-							if(prevTitle.contains("List")) {
-								ele = articlePageObjects.articleListVideo1(listK-1);
-							}else {
-								ele = articlePageObjects.articleVideo3(paraK);
-							}
-						}
-						
-						videoK =videoK+1;
-						type = "Video ";
-						fileValue = videoValue.replaceAll("www.", "");
-						if(!(ele==null)) {
-							appValue = ele.getAttribute("src").replaceAll("_", "");
-						}else {
-							appValue = "Video NOT FOUND";
-						}
-						
-					}else if(!(ordListValue==null)) {
-						
-						
-						if(headingCount!=0) {
-							if(i==1) {
-								ele = articlePageObjects.articleOrdList(ordlistK);
-							}else if(i==blockCount){
-								ele = articlePageObjects.articleOrdList2(i-1,ordlistK);
-							}else {
-								ele = articlePageObjects.articleOrdList1(i,i-1,(ordlistCount+1)-ordlistK);
-							}
-						}else {
-							ele = articlePageObjects.articleOrdListWithoutHead(ordlistK);
-						}
-						
-						ordlistK = ordlistK+1;
-						type = "List ";
-						fileValue = ordListValue;
-						appValue = ele.getText().replaceAll("\\t", "");
-						linkCount = Integer.parseInt(articleContent.get(ordListKey+"_linkCount"));
-						
-						if(linkCount>0) {
 							
-							String[] link = null; 
-							String value = "";
-							String temp = "";
-							for(int k=1;k<=linkCount; k++) {
+						}else if(!(listValue==null)) {
+							
+							prevTitle = listKey;
+							
+							if(headingCount!=0) {
 								if(i==1) {
-									ele = articlePageObjects.articleOLink(k);
+									ele = articlePageObjects.articleList((listCount+1)-listK);
 								}else if(i==blockCount){
-									ele = articlePageObjects.articleOLink2(i-1,k);
+									ele = articlePageObjects.articleList2(i-1,listK);
 								}else {
-									ele = articlePageObjects.articleOLink1(i,i-1,k);
+									ele = articlePageObjects.articleList1(i,i-1,(listCount+1)-listK);
 								}
-								linkKey = ordListKey+"_link"+k;
-								linkValue = articleLink.get(linkKey);
-								link = linkValue.split("\\|");
-								temp = linkValue;
-								linkValue = link[1];
-								if(!linkValue.contains("http")) {
-									if(!linkValue.contains("mailto"))
-										linkValue = configProperties.getProperty("linkURL") + linkValue;
-								}
-								value = ele.getAttribute("href");
+							}else {
+								ele = articlePageObjects.articleListWithoutHead(listK);
+							}						
+							type = "List ";
+							fileValue = listValue;
+							appValue = ele.getText().replaceAll("\\t", "");
+							
+							linkCount = Integer.parseInt(articleContent.get(listKey+"_linkCount"));
+							
+							if(linkCount>0) {
 								
-								if(((value.trim())).contains(linkValue)) {
-									if(configProperties.getProperty("report").equals("simple")) {
-										log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n");
-										logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n";}
-									else if(configProperties.getProperty("report").equals("detail")) {
-										log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n");
-										logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n\n";}
-									else {
-										if(j==0) {
-											log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n");
-											logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n\n";}
-										else {
-											log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n");
-											logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n";}
+								String[] link = null; 
+								String value = "";
+								String temp = "";
+								int listLinkCount = 0;
+								listLinkCount = Integer.parseInt(articleContent.get(listKey+"_ListlinkCount"))-1;
+								for(int k=1;k<=listLinkCount; k++) {
+									linkCount = Integer.parseInt(articleContent.get(listKey+"_linkCount"+k));
+									if(linkCount>0) {
+										for(int s=1; s<=linkCount; s++) {
+											System.out.println("(listCount+1)-listK:"+((listCount+1)-listK));
+											System.out.println("k:"+k);
+											if(headingCount!=0) {
+												if(i==1) {
+													ele = articlePageObjects.articleULink(k,s);
+												}else if(i==blockCount){
+													ele = articlePageObjects.articleULink2(i-1,listK,k,s);
+												}else {
+													ele = articlePageObjects.articleULink1(i,i-1,(listCount+1)-listK,k,s);
+												}
+											}else {
+												if(linkCount == 1) {
+													ele = articlePageObjects.articleULinkWithoutHead(listK,k,s);
+												}else {
+													ele = articlePageObjects.articleULinkWithoutHead1(listK,k,s);
+												}
+											}
+											linkKey = listKey+"_list"+k+"_link_"+s;
+											linkValue = articleLink.get(linkKey);
+											link = linkValue.split("\\|");
+											temp = linkValue;
+											linkValue = link[1];
+											if(!linkValue.contains("http")) {
+												if(!linkValue.contains("mailto"))
+													linkValue = configProperties.getProperty("linkURL") + linkValue;
+											}
+											value = ele.getAttribute("href");
+											
+											if(((value.trim())).contains(linkValue)) {
+												if(configProperties.getProperty("report").equals("simple")) {
+													log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n");
+													logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n";}
+												else if(configProperties.getProperty("report").equals("detail")) {
+													log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n");
+													logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n\n";}
+												else {
+													if(j==0) {
+														log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n");
+														logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n\n";}
+													else {
+														log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n");
+														logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n";}
+												}
+												linkPassResult = linkPassResult+1;
+											}else {
+												log.info("Block"+i+"_List"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n");
+												logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n\n";
+												flagFail = 1; 
+												linkFailResult = linkFailResult+1;
+											}
+										}
 									}
-									linkPassResult = linkPassResult+1;
-									//log.info("Link"+i+"_"+(j+1)+"_link"+k+" MATCHED\n\n"+temp+"\n");
-									//log.info(keyValue+"\n"+appValue);
-								}else {
-									log.info("Block"+i+"_List"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n");
-									logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n\n";
-									flagFail = 1; 
-									linkFailResult = linkFailResult+1;
 								}
 							}
-						}
-	
-					}
-					
-					if(imgValue==null && videoValue==null) {
-						if(appValue.replaceAll("_", "").equals(fileValue)) {
-							if(configProperties.getProperty("report").equals("simple")) {
-								log.info("Block"+i+"_"+type+(j+1)+" MATCHED\n");
-								logResult = logResult + "Block"+i+"_"+type+(j+1)+" MATCHED\n\n";}
-							else if(configProperties.getProperty("report").equals("detail")) {
-								log.info("Block"+i+"_"+type+(j+1)+" MATCHED\n\n\t"+appValue+"\n");
-								logResult = logResult + "Block"+i+"_"+type+(j+1)+" MATCHED\n\n\t"+appValue+"\n\n";}
-							else {
-								if(j==0) {
-									log.info("Block"+i+"_"+type+(j+1)+" MATCHED : "+appValue+"\n");
-									logResult = logResult + "Block"+i+"_"+type+(j+1)+" MATCHED : "+appValue+"\n\n";}
-								else {
-									log.info("Block"+i+"_"+type+(j+1)+" MATCHED\n");
-									logResult = logResult + "Block"+i+"_"+type+(j+1)+" MATCHED\n\n";}
-							}
+							listK = listK+1;
 		
-							switch(type){
-								case "Paragraph ":
-									paraPassResult = paraPassResult+1;
-									break;
-								case "List ":
-									listPassResult = listPassResult+1;
-									break;
-								case "Sub Heading ":
-									headPassResult = headPassResult+1;
-									break;
+						}else if(!(subHeadValue==null)) {
+							
+							prevTitle = subHeadKey;
+							
+							if(headingCount!=0) {
+								if(i==1) {
+									ele = articlePageObjects.articleSubHead((subHeadingCount+1)-subHeadK);
+								}else if(i==blockCount){
+									ele = articlePageObjects.articleSubHead2(i-1,subHeadK);
+								}else {
+									ele = articlePageObjects.articleSubHead1(i,i-1,(subHeadingCount+1)-subHeadK);
+								}
+							}else {
+								ele = articlePageObjects.articleSubHead3(subHeadK);
 							}
-							//log.info(keyValue+"\n"+appValue);
-						}else {
-							log.info("Block"+i+"_"+type+(j+1)+" NOT MATCHED\n\n\t"+fileValue+"\n\n\t"+appValue+"\n\n");
-							logResult = logResult + "Block"+i+"_"+type+(j+1)+" NOT MATCHED\n\n\t"+fileValue+"\n\n\t"+appValue+"\n\n";
-							flagFail = 1; 
-							switch(type){
-							case "Paragraph ":
-								paraFailResult = paraFailResult+1;
-								break;
-							case "List ":
-								listFailResult = listFailResult+1;
-								break;
-							case "Sub Heading ":
-								headFailResult = headFailResult+1;
-								break;
+							
+							subHeadK =subHeadK+1;
+							type = "Sub Heading ";
+							fileValue = subHeadValue;
+							appValue = ele.getText();
+								linkCount = Integer.parseInt(articleContent.get(subHeadKey+"_linkCount"));
+								
+								if(linkCount>0) {
+									
+									String[] link = null; 
+									String value = "";
+									String temp = "";
+									for(int k=1;k<=linkCount; k++) {
+										if(i==1) {
+											ele = articlePageObjects.articleHeadLink((subHeadingCount+1)-subHeadK);
+										}else if(i==blockCount){
+											ele = articlePageObjects.articleHeadLink2(i-1,subHeadLinkK);
+										}else {
+											ele = articlePageObjects.articleHeadLink1(i,i-1,subHeadLinkK);
+										}
+										//div[contains(@class,'templates_main')]/h2[3]/preceding-sibling::h2[2]/following-sibling::h3[4]/a
+										System.out.println("subHeadLinkK:"+subHeadLinkK);
+										subHeadLinkK = subHeadLinkK+1;
+										linkKey = subHeadKey+"_link"+k;
+										linkValue = articleLink.get(linkKey);
+										link = linkValue.split("\\|");
+										temp = linkValue;
+										linkValue = link[1];
+										if(!linkValue.contains("http")) {
+											if(!linkValue.contains("mailto"))
+												linkValue = configProperties.getProperty("linkURL") + linkValue;
+										}
+										value = ele.getAttribute("href");
+										
+										if(((value.trim())).contains(linkValue)) {
+											if(configProperties.getProperty("report").equals("simple")) {
+												log.info("Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED\n");
+												logResult =logResult + "Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED\n\n";}
+											else if(configProperties.getProperty("report").equals("detail")) {
+												log.info("Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n");
+												logResult =logResult + "Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n\n";}
+											else {
+												if(j==0) {
+													log.info("Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n");
+													logResult =logResult + "Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n\n";}
+												else {
+													log.info("Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED\n");
+													logResult =logResult + "Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" MATCHED\n\n";}
+											}
+											linkPassResult = linkPassResult+1;
+										}else {
+											log.info("Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n");
+											logResult =logResult + "Block"+i+"_Sub_Heading"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n\n";
+											flagFail = 1; 
+											linkFailResult = linkFailResult+1;
+										}
+									}
+									
+							}else {
+								subHeadLinkK = subHeadLinkK+1;
 							}
+							
+						}else if(!(subHead4Value==null)) {
+							
+							if(i==1) {
+								ele = articlePageObjects.articleSub4Head(subHead4K);
+							}else if(i==blockCount){
+								ele = articlePageObjects.articleSub4Head2(i-1,subHead4K);
+							}else {
+								ele = articlePageObjects.articleSub4Head1(i,i-1,(subHeading4Count+1)-subHead4K);
+							}
+							subHead4K =subHead4K+1;
+							type = "Sub Heading ";
+							fileValue = subHead4Value;
+							appValue = ele.getText();
+							
+						}else if(!(imgValue==null)) {
+							
+							System.out.println("paraCount"+((paraCount+1)));
+							if(headingCount!=0) {
+								if(i==1) {
+									ele = articlePageObjects.articleImage((count-j));
+									paraK = paraK+1;
+								}else if(i==blockCount){
+									paraK = paraK+1;
+									ele = articlePageObjects.articleImage2(paraK,i-1);
+								}else {
+									paraK = paraK+1;
+									ele = articlePageObjects.articleImage1(((paraCount+1)-paraK),i,i-1);
+								}
+							}else {
+								paraK = paraK+1;
+								ele = articlePageObjects.articleImage3(paraK);
+							}
+							imageK =imageK+1;
+							type = "Image ";
+							fileValue = imgValue;
+							if(!(ele==null)) {
+								appValue = ele.getAttribute("src").replaceAll("_", "");
+							}else {
+								appValue = "Image NOT FOUND";
+							}
+							
+						}else if(!(videoValue==null)) {
+							
+							paraK = paraK+1;
+							
+							if(headingCount!=0) {
+								if(prevTitle.contains("List")) {
+									ele = articlePageObjects.articleListVideo(listK-1,i-1);
+									if(ele==null) {
+										if(i==1) {
+											ele = articlePageObjects.articleVideo((count-j));
+										}else if(i==blockCount){
+											ele = articlePageObjects.articleVideo2(paraK,i-1);
+										}else {
+											ele = articlePageObjects.articleVideo1(((paraCount+1)-paraK),i,i-1);
+										}
+									}
+								}else {
+									if(i==1) {
+										ele = articlePageObjects.articleVideo((count-j));
+									}else if(i==blockCount){
+										ele = articlePageObjects.articleVideo2(paraK,i-1);
+									}else {
+										ele = articlePageObjects.articleVideo1(((paraCount+1)-paraK),i,i-1);
+									}
+								}
+							}else {
+								if(prevTitle.contains("List")) {
+									ele = articlePageObjects.articleListVideo1(listK-1);
+									if(ele==null) {
+										ele = articlePageObjects.articleVideo3(paraK);
+									}
+								}else {
+									ele = articlePageObjects.articleVideo3(paraK);
+								}
+							}
+							
+							videoK =videoK+1;
+							type = "Video ";
+							fileValue = videoValue.replaceAll("www.", "");
+							if(!(ele==null)) {
+								appValue = ele.getAttribute("src").replaceAll("_", "");
+							}else {
+								appValue = "Video NOT FOUND";
+							}
+							
+						}else if(!(ordListValue==null)) {
+							
+							
+							if(headingCount!=0) {
+								if(i==1) {
+									ele = articlePageObjects.articleOrdList(ordlistK);
+								}else if(i==blockCount){
+									ele = articlePageObjects.articleOrdList2(i-1,ordlistK);
+								}else {
+									ele = articlePageObjects.articleOrdList1(i,i-1,(ordlistCount+1)-ordlistK);
+								}
+							}else {
+								ele = articlePageObjects.articleOrdListWithoutHead(ordlistK);
+							}
+							
+							//ordlistK = ordlistK+1;
+							type = "List ";
+							fileValue = ordListValue;
+							appValue = ele.getText().replaceAll("\\t", "");
+							linkCount = Integer.parseInt(articleContent.get(ordListKey+"_linkCount"));
+							
+							if(linkCount>0) {
+								String[] link = null; 
+								String value = "";
+								String temp = "";
+								int listLinkCount = 0;
+								listLinkCount = Integer.parseInt(articleContent.get(ordListKey+"_ListlinkCount"))-1;
+								for(int k=1;k<=listLinkCount; k++) {
+									linkCount = Integer.parseInt(articleContent.get(ordListKey+"_linkCount"+k));
+									if(linkCount>0) {
+										for(int s=1; s<=linkCount; s++) {
+											if(headingCount!=0) {
+												if(i==1) {
+													ele = articlePageObjects.articleOLink(k,s);
+												}else if(i==blockCount){
+													ele = articlePageObjects.articleOLink2(i-1,ordlistK,k,s);
+												}else {
+													ele = articlePageObjects.articleOLink1(i,i-1,(ordlistCount+1)-ordlistK,k,s);
+												}
+											}else {
+												if(linkCount == 1) {
+													ele = articlePageObjects.articleOLinkWithoutHead(ordlistK,k,s);
+												}else {
+													ele = articlePageObjects.articleOLinkWithoutHead1(ordlistK,k,s);
+												}
+											}
+											linkKey = ordListKey+"_list"+k+"_link_"+s;
+											linkValue = articleLink.get(linkKey);
+											link = linkValue.split("\\|");
+											temp = linkValue;
+											linkValue = link[1];
+											if(!linkValue.contains("http")) {
+												if(!linkValue.contains("mailto"))
+													linkValue = configProperties.getProperty("linkURL") + linkValue;
+											}
+											value = ele.getAttribute("href");
+											
+											if(((value.trim())).contains(linkValue)) {
+												if(configProperties.getProperty("report").equals("simple")) {
+													log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n");
+													logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n";}
+												else if(configProperties.getProperty("report").equals("detail")) {
+													log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n");
+													logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n\t"+ele.getText()+"|"+value+"\n\n";}
+												else {
+													if(j==0) {
+														log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n");
+														logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED : "+ele.getText()+"|"+value+"\n\n";}
+													else {
+														log.info("Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n");
+														logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" MATCHED\n\n";}
+												}
+												linkPassResult = linkPassResult+1;
+											}else {
+												log.info("Block"+i+"_List"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n");
+												logResult =logResult + "Block"+i+"_List"+(j+1)+"_link "+k+" NOT MATCHED\n\n\t"+temp+"\n\n\t"+ele.getText()+"|"+value+"\n\n";
+												flagFail = 1; 
+												linkFailResult = linkFailResult+1;
+											}
+										}
+									}
+								}
+							}
+							ordlistK = ordlistK+1;
+		
 						}
-					}else {
-						if(!(appValue.contains("NOT FOUND"))) {
-							if(fileValue.contains(appValue)) {
+						
+						if(imgValue==null && videoValue==null) {
+							if(appValue.replaceAll("_", "").equals(fileValue)) {
 								if(configProperties.getProperty("report").equals("simple")) {
 									log.info("Block"+i+"_"+type+(j+1)+" MATCHED\n");
 									logResult = logResult + "Block"+i+"_"+type+(j+1)+" MATCHED\n\n";}
@@ -1065,13 +1020,71 @@ public class blogArticleFunctions {
 										log.info("Block"+i+"_"+type+(j+1)+" MATCHED\n");
 										logResult = logResult + "Block"+i+"_"+type+(j+1)+" MATCHED\n\n";}
 								}
+			
 								switch(type){
-									case "Image ":
-										imagePassResult = imagePassResult+1;
+									case "Paragraph ":
+										paraPassResult = paraPassResult+1;
 										break;
-									case "Video ":
-										videoPassResult = videoPassResult+1;
+									case "List ":
+										listPassResult = listPassResult+1;
 										break;
+									case "Sub Heading ":
+										headPassResult = headPassResult+1;
+										break;
+								}
+							}else {
+								log.info("Block"+i+"_"+type+(j+1)+" NOT MATCHED\n\n\t"+fileValue+"\n\n\t"+appValue+"\n\n");
+								logResult = logResult + "Block"+i+"_"+type+(j+1)+" NOT MATCHED\n\n\t"+fileValue+"\n\n\t"+appValue+"\n\n";
+								flagFail = 1; 
+								switch(type){
+								case "Paragraph ":
+									paraFailResult = paraFailResult+1;
+									break;
+								case "List ":
+									listFailResult = listFailResult+1;
+									break;
+								case "Sub Heading ":
+									headFailResult = headFailResult+1;
+									break;
+								}
+							}
+						}else {
+							if(!(appValue.contains("NOT FOUND"))) {
+								if(fileValue.contains(appValue)) {
+									if(configProperties.getProperty("report").equals("simple")) {
+										log.info("Block"+i+"_"+type+(j+1)+" MATCHED\n");
+										logResult = logResult + "Block"+i+"_"+type+(j+1)+" MATCHED\n\n";}
+									else if(configProperties.getProperty("report").equals("detail")) {
+										log.info("Block"+i+"_"+type+(j+1)+" MATCHED\n\n\t"+appValue+"\n");
+										logResult = logResult + "Block"+i+"_"+type+(j+1)+" MATCHED\n\n\t"+appValue+"\n\n";}
+									else {
+										if(j==0) {
+											log.info("Block"+i+"_"+type+(j+1)+" MATCHED : "+appValue+"\n");
+											logResult = logResult + "Block"+i+"_"+type+(j+1)+" MATCHED : "+appValue+"\n\n";}
+										else {
+											log.info("Block"+i+"_"+type+(j+1)+" MATCHED\n");
+											logResult = logResult + "Block"+i+"_"+type+(j+1)+" MATCHED\n\n";}
+									}
+									switch(type){
+										case "Image ":
+											imagePassResult = imagePassResult+1;
+											break;
+										case "Video ":
+											videoPassResult = videoPassResult+1;
+											break;
+									}
+								}else {
+									log.info("Block"+i+"_"+type+(j+1)+" NOT MATCHED\n\n\t"+fileValue+"\n\n\t"+appValue+"\n\n");
+									logResult = logResult + "Block"+i+"_"+type+(j+1)+" NOT MATCHED\n\n\t"+fileValue+"\n\n\t"+appValue+"\n\n";
+									flagFail = 1; 
+									switch(type){
+										case "Image ":
+											imageFailResult = imageFailResult+1;
+											break;
+										case "Video ":
+											videoFailResult = videoFailResult+1;
+											break;
+									}
 								}
 							}else {
 								log.info("Block"+i+"_"+type+(j+1)+" NOT MATCHED\n\n\t"+fileValue+"\n\n\t"+appValue+"\n\n");
@@ -1086,137 +1099,136 @@ public class blogArticleFunctions {
 										break;
 								}
 							}
+						}
+						
+					} // For Loop End - j
+					//For validating Headings
+					if(!(i==blockCount)) {
+						headKey = "Heading"+i;
+						headValue = articleHeading.get(headKey);
+						element = articlePageObjects.articleHeading();	
+						appValue = element.get(headK).getText();
+						headK = headK + 1;
+						if(appValue.equals(headValue)) {
+							log.info("Heading "+i+": < "+headValue+" > MATCHED\n");
+							logResult = logResult + "Heading "+i+": < "+headValue+" > MATCHED\n\n";
+							headPassResult = headPassResult+1;
 						}else {
-							log.info("Block"+i+"_"+type+(j+1)+" NOT MATCHED\n\n\t"+fileValue+"\n\n\t"+appValue+"\n\n");
-							logResult = logResult + "Block"+i+"_"+type+(j+1)+" NOT MATCHED\n\n\t"+fileValue+"\n\n\t"+appValue+"\n\n";
-							flagFail = 1; 
-							switch(type){
-								case "Image ":
-									imageFailResult = imageFailResult+1;
-									break;
-								case "Video ":
-									videoFailResult = videoFailResult+1;
-									break;
-							}
+							log.info("Heading "+i+" NOT MATCHED\n\n"+headValue+"\n"+appValue+"\n");
+							logResult = logResult + "Heading "+i+" NOT MATCHED\n\n\t"+headValue+"\n\n\t"+appValue+"\n\n";
+							flagFail = 1;
+							headFailResult = headFailResult+1;
 						}
 					}
 					
-				} // For Loop End - j
-				//For validating Headings
-				if(!(i==blockCount)) {
-					headKey = "Heading"+i;
-					headValue = articleHeading.get(headKey);
-					element = articlePageObjects.articleHeading();	
-					appValue = element.get(headK).getText();
-					headK = headK + 1;
-					if(appValue.equals(headValue)) {
-						log.info("Heading "+i+": < "+headValue+" > MATCHED\n");
-						logResult = logResult + "Heading "+i+": < "+headValue+" > MATCHED\n\n";
-						headPassResult = headPassResult+1;
-					}else {
-						log.info("Heading "+i+" NOT MATCHED\n\n"+headValue+"\n"+appValue+"\n");
-						logResult = logResult + "Heading "+i+" NOT MATCHED\n\n\t"+headValue+"\n\n\t"+appValue+"\n\n";
-						flagFail = 1;
-						headFailResult = headFailResult+1;
-					}
-				}
+				} // For loop End - i
+				//csvFileReader.createAndwriteToFile(logResult, articleContent.get("FileName"));
+				outputReult = outputReult + "\t|Pass: "+headPassResult+" Fail: "+headFailResult+"\t|Pass: "+paraPassResult+" Fail: "+paraFailResult+
+						"\t|Pass: "+linkPassResult+" Fail: "+linkFailResult+"\t|Pass: "+listPassResult+" Fail: "+listFailResult + 
+						"\t|Pass: "+imagePassResult+" Fail: "+imageFailResult + "\t|Pass: "+videoPassResult+" Fail: "+videoFailResult + "\t|\n";
 				
-			} // For loop End - i
-			//csvFileReader.createAndwriteToFile(logResult, articleContent.get("FileName"));
-			outputReult = outputReult + "\t|Pass: "+headPassResult+" Fail: "+headFailResult+"\t|Pass: "+paraPassResult+" Fail: "+paraFailResult+
-					"\t|Pass: "+linkPassResult+" Fail: "+linkFailResult+"\t|Pass: "+listPassResult+" Fail: "+listFailResult + 
-					"\t|Pass: "+imagePassResult+" Fail: "+imageFailResult + "\t|Pass: "+videoPassResult+" Fail: "+videoFailResult + "\t|\n";
-			
-		}else {
-			outputReult = outputReult + "\t|Not Migrated\t|\n";
+			}else {
+				outputReult = outputReult + "\t|Not Migrated\t|\n";
+			}
 		}
-	}
 	
 	/*------------------------------------------------------------------------------------------------------
 	 * Author		: Maheswari Muthu
 	 * Date			: 09-02-2024
 	 * Method Name	: checkAllArticleContent
-	 * Description	: To check the content of the article
+	 * Description	: To check the whole content of the article in loop
 	 ---------------------------------------------------------------------------------------------------------*/
-	public static void checkAllArticleContent() throws IOException, ParseException, InterruptedException {
-		int i=1;
-		outputReult = outputReult+"------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n";
-		outputReult = outputReult+"|ArticleName\t\t\t\t|Heading\t\t|Paragraph\t\t|Link\t\t\t|List\t\t\t|Image\t\t\t|Video\t\t\t|\n";
-		outputReult = outputReult+"------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n";
-		output = output+"--------------------------------------------------------------------------\n";
-		output = output+"|ArticleName\t\t\t\t|Title\t|Author\t|Date\t|Image\t|\n";
-		output = output+"--------------------------------------------------------------------------";
-		for (Entry<String, String> entry : csvFileReader.dataMapping.entrySet()) {
-		    String key = entry.getKey();
-		    String temp = entry.getValue();
-		    String[] split = temp.split("\\|");
-		    String file = split[1];
-
-		    //For getting category to frame url
-		    String category = split[0];
-		    
-		    String fileName = category + "/" + file +".txt";
-		    
-		    //read the article content from md file and store it in HashMap
-		    commonFunctions.readArticleContent1(fileName);
-		    
-		    //Storing the framed url
-		    String url = configProperties.getProperty("articleUrl")+category+"/"+file;
-			log.info("Article "+i+": "+file+"\n");
-			
-			//Navigate to the particular article page url
-		    navigateToArticlePage(url);
-		    
-		    //validate the particular article contents
-		    if(file.length()>=10 && file.length()<15) {
-		    	outputReult = outputReult+"|"+ file + "\t\t\t";
-		    	output = output+"\n|"+ file + "\t\t\t\t";
-		    } else if(file.length()>=15 && file.length()<=20) {
-		    	outputReult = outputReult+"|"+ file + "\t\t";
-		    	output = output+"\n|"+ file + "\t\t\t";
-			}else if(file.length()>20 && file.length()<=25) {
-		    	outputReult = outputReult+"|"+ file + "\t\t";
-		    	output = output+"\n|"+ file + "\t\t\t";
-			}else if(file.length()<10) {
-		    	outputReult = outputReult+"|"+ file + "\t\t\t";
-		    	output = output+"\n|"+ file + "\t\t\t\t";
-			}else if(file.length()>25 && file.length()<=39) {
-		    	outputReult = outputReult+"|"+ file;
-		    	output = output+"\n|"+ file + "\t";
-			}else if(file.length()>=40 && file.length()<=50) {
-		    	outputReult = outputReult+"|"+ file;
-		    	output = output+"\n|"+ file;
-			}
-		    
-			blogArticleFunctions.checkArticleContentInOrder();
-			commonFunctions.clearHashMap();
-			i= i+1;
-			//outputReult = outputReult+"-----------------------------------------------------------------------------------------------------------------\n";
-			if(migrateStatus.equals("FAIL")) {
-				csvFileReader.createAndwriteToFile(logResult, "NOTMIGRATED_"+file);
-			}else {
-				if(flagFail == 1)
-					csvFileReader.createAndwriteToFile(logResult, "FAIL_"+file);
-				else
-					csvFileReader.createAndwriteToFile(logResult, "PASS_"+file);
-			}
-			logResult = ""; 
-			migrateStatus = "";
-		}
-		outputReult = outputReult+"-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n";
-		output = output+"\n--------------------------------------------------------------------------\n";
-		log.info(output+"\n"+outputReult);
-	}
+		public static void checkAllArticleContent() throws IOException, ParseException, InterruptedException {
+			int i=1;
+			outputReult = outputReult+"-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n";
+			outputReult = outputReult+"|Category\t|ArticleName\t\t\t\t\t|Heading\t\t|Paragraph\t\t|Link\t\t\t|List\t\t\t|Image\t\t\t|Video\t\t\t|\n";
+			outputReult = outputReult+"-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n";
+			output = output+"-------------------------------------------------------------------------------------------------------\n";
+			output = output+"|Category\t|ArticleName\t\t\t\t\t|Title\t|Author\t|Date\t|Image\t|\n";
+			output = output+"-------------------------------------------------------------------------------------------------------";
+			for (Entry<String, String> entry : csvFileReader.dataMapping.entrySet()) {
+			    String key = entry.getKey();
+			    String temp = entry.getValue();
+			    String[] split = temp.split("\\|");
+			    String file = split[1];
 	
-	public static void checkArticleBaseData() throws ParseException {
-		verifyArticleDetails("title");
-		if(!migrateStatus.equals("FAIL")) {
-			verifyArticleDetails("author");
-			verifyArticleDetails("publishDate");
-			verifyArticleDetails("image");
+			    //For getting category to frame url
+			    String category = split[0];
+			    
+			    String fileName = category + "/" + file +".txt";
+			    
+			    //read the article content from md file and store it in HashMap
+			    commonFunctions.readArticleContent1(fileName);
+			    
+			    //Storing the framed url
+			    String url = configProperties.getProperty("articleUrl")+category+"/"+file;
+				log.info("Article "+i+": "+file+"\n");
+				
+				//Navigate to the particular article page url
+			    navigateToArticlePage(url);
+			    
+			    //validate the particular article contents
+			    if(file.length()>=10 && file.length()<15) {
+			    	outputReult = outputReult+"|"+category+"\t|"+ file + "\t\t\t";
+			    	output = output+"\n|"+category+"\t|"+ file + "\t\t\t\t";
+			    } else if(file.length()>=15 && file.length()<=20) {
+			    	outputReult = outputReult+"|"+category+"\t|"+ file + "\t\t";
+			    	output = output+"\n|"+category+"\t|"+ file + "\t\t\t";
+				}else if(file.length()>20 && file.length()<=25) {
+			    	outputReult = outputReult+"|"+category+"\t|"+ file + "\t\t";
+			    	output = output+"\n|"+category+"\t|"+ file + "\t\t\t";
+				}else if(file.length()<10) {
+			    	outputReult = outputReult+"|"+category+"\t|"+ file + "\t\t\t";
+			    	output = output+"\n|"+category+"\t|"+ file + "\t\t\t\t";
+				}else if(file.length()>25 && file.length()<=39) {
+			    	outputReult = outputReult+"|"+category+"\t|"+ file;
+			    	output = output+"\n|"+category+"\t|"+ file + "\t";
+				}else if(file.length()>=40 && file.length()<=50) {
+			    	outputReult = outputReult+"|"+category+"\t|"+ file;
+			    	output = output+"\n|"+category+"\t|"+ file;
+				}
+			    
+				blogArticleFunctions.checkArticleContentInOrder();
+				commonFunctions.clearHashMap();
+				i= i+1;
+				//outputReult = outputReult+"-----------------------------------------------------------------------------------------------------------------\n";
+				if(migrateStatus.equals("FAIL")) {
+					csvFileReader.createAndwriteToFile(logResult, "NOTMIGRATED_"+category+"_"+file);
+				}else {
+					if(flagFail == 1)
+						csvFileReader.createAndwriteToFile(logResult, "FAIL_"+category+"_"+file);
+					else
+						csvFileReader.createAndwriteToFile(logResult, "PASS_"+category+"_"+file);
+				}
+				logResult = ""; 
+				migrateStatus = "";
+			}
+			outputReult = outputReult+"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n";
+			output = output+"\n-------------------------------------------------------------------------------------------------------\n";
+			log.info(output+"\n"+outputReult);
 		}
-	}
 	
+	/*------------------------------------------------------------------------------------------------------
+	 * Author		: Maheswari Muthu
+	 * Date			: 09-02-2024
+	 * Method Name	: checkArticleBaseData
+	 * Description	: To check the article title, author, publish date and hero image.
+	 ---------------------------------------------------------------------------------------------------------*/ 
+		public static void checkArticleBaseData() throws ParseException {
+			verifyArticleDetails("title");
+			if(!migrateStatus.equals("FAIL")) {
+				verifyArticleDetails("author");
+				verifyArticleDetails("publishDate");
+				verifyArticleDetails("image");
+			}
+		}
+	
+	/*------------------------------------------------------------------------------------------------------
+	 * Author		: Maheswari Muthu
+	 * Date			: 09-02-2024
+	 * Method Name	: validataMetaDesc
+	 * Description	: To check the meta description of the article page
+	 ---------------------------------------------------------------------------------------------------------*/ 
 	   public static void navigateToArticlePage(String url)
 	            throws InterruptedException, IOException, ParseException {
 	        driver.get(url);
@@ -1227,14 +1239,104 @@ public class blogArticleFunctions {
 	    	  // commonPageActions.signupPopupClose();
 		   //closeCookiesBottom();
 	    }
+	   
+	/*------------------------------------------------------------------------------------------------------
+	* Author		: Maheswari Muthu
+	* Date			: 09-02-2024
+	* Method Name	: validataMetaDesc
+	* Description	: To check the meta description of the article page
+	---------------------------------------------------------------------------------------------------------*/ 
+	  public static void validataMetaDesc(String fileData) {
+		   WebElement ele = null;
+		   ele = ArticlePageObjects.metaDescription;
+
+		   String data = driver.findElement(By.xpath("/html/head/meta[@name='meta_desc']")).getAttribute("content");
+		   if(!fileData.equals("null")) {
+			   if(fileData.trim().equals(data.trim())) {
+				   log.info("Meta Description: MATCHED\n\n"+data+"\n");
+				   output = output + "|PASS\t\t|";
+			   }else {
+				   log.info("Meta Description: NOT MATCHED\n\n"+data+"\n"+fileData+"\n");
+				   output = output + "|FAIL\t\t|";
+			   }
+		   }else {
+			   log.info("Meta Description: NOT FOUNDs\n\n"+data+"\n"+fileData+"\n");
+			   output = output + "|FAIL\t\t|";
+		   }
+	   }
 	
-	
-	public static blogArticleFunctions getInstance() {
-		blogArticleFunctions blogfunctions = null;
-		if(blogfunctions == null) {
-			blogfunctions = new blogArticleFunctions();
+	/*------------------------------------------------------------------------------------------------------
+	* Author		: Maheswari Muthu
+	* Date			: 09-02-2024
+	* Method Name	: checkAllArticleMetaDesc
+	* Description	: To check the meta description of the article in loop
+	---------------------------------------------------------------------------------------------------------*/
+		public static void checkAllArticleMetaDesc() throws IOException, ParseException, InterruptedException {
+			
+			output = output+"---------------------------------------------------------------------------\n";
+			output = output+"|Category/ArticleName\t\t\t\t\t|Meta Description|\n";
+			output = output+"---------------------------------------------------------------------------";
+			
+			int i=1;
+			
+			for (Entry<String, String> entry : csvFileReader.dataMapping.entrySet()) {
+			    String key = entry.getKey();
+			    String temp = entry.getValue();
+			    String[] split = temp.split("\\|");
+			    String file = split[1];
+
+			    //For getting category to frame url
+			    String category = split[0];
+			    
+			    String fileName = category + "/" + file +".txt";
+			    
+			    //read the article content from md file and store it in HashMap
+			    commonFunctions.readMetaContent(fileName);
+			    
+			    //Storing the framed url
+			    String url = configProperties.getProperty("articleUrl")+category+"/"+file;
+				log.info("Article "+i+": "+file+"\n");
+				
+				//Navigate to the particular article page url
+			    navigateToArticlePage(url);
+			    
+			    if((category+"/"+ file).length()>=25 && (category+"/"+ file).length()<30) {
+			    	output = output+"\n|"+category+"/"+ file + "\t\t\t\t\t";
+			    } else if((category+"/"+ file).length()<25) {
+			    	output = output+"\n|"+category+"/"+ file + "\t\t\t\t\t\t";
+				}else if((category+"/"+ file).length()>=30 && (category+"/"+ file).length()<35) {
+			    	output = output+"\n|"+category+"/"+ file + "\t\t\t\t";
+				}else if((category+"/"+ file).length()>=35 && (category+"/"+ file).length()<40) {
+					output = output+"\n|"+category+"/"+ file + "\t\t\t";
+				}else if((category+"/"+ file).length()>=40 && (category+"/"+ file).length()<45) {
+					output = output+"\n|"+category+"/"+ file + "\t\t";
+				}else if((category+"/"+ file).length()>=45) {
+					output = output+"\n|"+category+"/"+ file + "\t";
+				}
+			    
+			    blogArticleFunctions.validataMetaDesc(articleContent.get("metaDescriptions"));
+				commonFunctions.clearHashMap();
+				i= i+1;
+				
+			}
+			output = output+"\n---------------------------------------------------------------------------";
+			
+			csvFileReader.createAndwriteToFile(blogArticleFunctions.output, "ExecutionLog");
+			
 		}
-		return blogfunctions;
-	};
+	
+	/*------------------------------------------------------------------------------------------------------
+	* Author		: Maheswari Muthu
+	* Date			: 09-02-2024
+	* Method Name	: blogArticleFunctions
+	* Description	: Instance method object creation
+	---------------------------------------------------------------------------------------------------------*/	
+		public static blogArticleFunctions getInstance() {
+			blogArticleFunctions blogfunctions = null;
+			if(blogfunctions == null) {
+				blogfunctions = new blogArticleFunctions();
+			}
+			return blogfunctions;
+		};
 
 }

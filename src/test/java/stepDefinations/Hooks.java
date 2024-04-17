@@ -21,6 +21,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
+import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 import BlogRedesign.blogArticleFunctions;
@@ -41,6 +42,8 @@ import java.io.PrintStream;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Collection;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 import static BlogRedesign.blogArticleFunctions.logResult;
@@ -69,7 +72,7 @@ public class Hooks extends StartDriver {
         DataReader.loadPropertyFile("articleProperties");
         Collection<String> tags = scenario.getSourceTagNames();
         TC_ID = (tags.stream().findFirst().get()).substring(1);
-        if(TC_ID.equals("TC_0010")) {
+        if(TC_ID.equals("TC_0010") ||TC_ID.equals("TC_0015") ) {
         	DataReader.getTestData("blogMigration");
         }else if(TC_ID.equals("TC_0011")) {
         	DataReader.getTestData("linkNavigation");
@@ -111,6 +114,18 @@ public class Hooks extends StartDriver {
             
         	System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir") + configProperties.getProperty("firefoxDriver"));
         	driver = new FirefoxDriver(); //Creating an object of FirefoxDriver
+        	
+        /*	FirefoxProfile prof = new FirefoxProfile();
+            FirefoxOptions options = new FirefoxOptions();
+
+            System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir") + configProperties.getProperty("firefoxDriver"));
+           
+            prof.setPreference("browser.download.folderList", 2);
+             prof.setPreference("browser.download.dir","C:\\Users\\train\\OneDrive\\Desktop");
+           // prof.setPreference("browser.helperApps.neverAsk.saveToDisk", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet");
+            options.setProfile(prof);
+            driver = new FirefoxDriver(options);*/
+            
         	driver.manage().deleteAllCookies();
         	driver.manage().window().maximize();
         	
@@ -130,6 +145,9 @@ public class Hooks extends StartDriver {
             scenario.attach(imageBytes, "image/png", "image");
             if(TC_ID.equals("TC_0010")) {
             	csvFileReader.createAndwriteToFile(blogArticleFunctions.output+"\n\n"+blogArticleFunctions.outputReult, "ExecutionLog");
+            }
+            if(TC_ID.equals("TC_0015")){
+            	csvFileReader.createAndwriteToFile(blogArticleFunctions.output, "ExecutionLog");
             }
             
     }

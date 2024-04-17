@@ -15,7 +15,7 @@ eleventyNavigation:
   key: "LG Sustainable Solutions"
   parent: Appliances
 ---
-   
+               
 
 _Manufacturer image_ 
 

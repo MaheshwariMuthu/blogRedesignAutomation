@@ -136,6 +136,7 @@ public class PageActions extends StartDriver {
 				setHighlight(element);
 				sleep(3);
 				waitUntilClickable(element);
+				System.out.println("Before click");
 				element.click();
 				log.info("Clicked on " + sElementName);
 			} catch (StaleElementReferenceException e) {
@@ -242,6 +243,11 @@ public class PageActions extends StartDriver {
 	public void pressTabKey() throws AWTException, InterruptedException {
 		Robot robot = new Robot();
 		robot.keyPress(KeyEvent.VK_TAB);
+	}
+	
+	public void pressEnterKey() throws AWTException, InterruptedException {
+		Robot robot = new Robot();
+		robot.keyPress(KeyEvent.VK_ENTER);
 	}
 
 	/**

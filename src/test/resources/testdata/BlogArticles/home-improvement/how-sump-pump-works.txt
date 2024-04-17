@@ -1,7 +1,7 @@
 ---
 layout: layouts/post-layout.njk
-titleTag: How Does a Sump Pump Work?
-headline: 'Sump Pumps: Everything You Need to Know'
+titleTag: "How Does a Sump Pump Work?"
+headline: "Sump Pumps: Everything You Need to Know"
 author: Kim Causey
 tags: ['post']
 publishDate: 2021-01-04

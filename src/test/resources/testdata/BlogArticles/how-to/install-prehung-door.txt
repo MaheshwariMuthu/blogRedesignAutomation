@@ -1,7 +1,7 @@
 ---
 layout: layouts/post-layout.njk
 titleTag: "How to Install a Prehung Door"
-headline: "﻿How to Install a Prehung Door"
+headline: "How to Install a Prehung Door"
 author: Team HomeServe
 tags: ["post"]
 publishDate: 2021-09-18

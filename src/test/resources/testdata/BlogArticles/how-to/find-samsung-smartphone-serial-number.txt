@@ -1,7 +1,7 @@
 ---
 layout: layouts/post-layout.njk
 titleTag: "﻿How Do I Find the Serial Number on My Samsung Smartphone?"
-headline: "﻿How Do I Find the Serial Number on My Samsung Smartphone?"
+headline: "How Do I Find the Serial Number on My Samsung Smartphone?"
 author: Matt Schmitz
 tags: ["post"]
 publishDate: 2021-07-26

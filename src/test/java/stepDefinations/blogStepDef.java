@@ -84,6 +84,11 @@ public class blogStepDef {
 		blogArticleFunctions.checkAllArticleContent();
 	}
 	
+	@Then("User validates all the article meta description")
+	public void User_validates_all_the_article_meta_description() throws Exception {
+		blogArticleFunctions.checkAllArticleMetaDesc();
+	}
+	
 	@Then("User read the data from {string} file")
 	public void User_read_the_data_from_file(String fileName) throws Exception {
 		commonFunctions.readArticleContent1(fileName);
@@ -130,4 +135,15 @@ public class blogStepDef {
 	public void User_save_the_article_content () throws Exception {
 		blogFunctions.printArticle();
 	}
+	
+	@Then("User press {string} key")
+	public void User_press_key (String key) throws Exception {
+		blogFunctions.pressKey(key);
+	}
+	
+	@And("Validate the search result")
+	public void Validate_the_search_result () throws Exception {
+		blogFunctions.checkSearchResult();
+	}
+	
 }

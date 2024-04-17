@@ -18,7 +18,22 @@ public class ArticlePageObjects {
 	 public ArticlePageObjects() {
 	        PageFactory.initElements(driver, this);
 	 }
+	 
+	 	@FindBy(xpath = "//meta[@name='description']")
+		public static WebElement metaDescription;
+	
 		
+	 //Search Section
+	 	@FindBy(xpath = "//div[contains(@class,'nav-wrapper')]/div/button[contains(@class,'search-btn')]")
+		public static WebElement buttonSearch;
+	 
+	 	@FindBy(xpath = "//div[contains(@class,'nav-wrapper')]/div/input[contains(@class,'search-text')]")
+		public static WebElement inputSearch;
+	 	
+	 	@FindBy(xpath = "//h2[contains(@class,'font-semibold text-lg mb')]")
+		public static WebElement searchResult;
+	 	
+	 	
 	//ZipIn section
 		@FindBy(xpath = "//input[@id='home-zip-input']")
 		public static WebElement inputZipCode;
@@ -115,7 +130,7 @@ public class ArticlePageObjects {
 			return articleContent;
 		}
 		
-		//Method to check the article links
+	//Method to check the article links
 		public WebElement articleImage(int p1){
 			if(driver.findElements(By.xpath("//div[contains(@class,'templates_main')]/h2[1]/preceding-sibling::p["+p1+"]/img")).isEmpty()) {
 				return null;
@@ -146,7 +161,7 @@ public class ArticlePageObjects {
 			}
 		}
 		
-		//Method to check the article links
+	//Method to check the article links
 		public WebElement articleImage3(int p1){
 			if(driver.findElements(By.xpath("//div[contains(@class,'templates_main')]/p["+p1+"]/img")).isEmpty()) {
 				return null;
@@ -156,7 +171,7 @@ public class ArticlePageObjects {
 			}
 		}
 		
-		//Method to check the article links
+	//Method to check the article links
 		public WebElement articleVideo(int p1){
 			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2[1]/preceding-sibling::p["+p1+"]/div/iframe"));	
 			return articleContent;
@@ -172,15 +187,15 @@ public class ArticlePageObjects {
 			}
 		}
 		
-		//Method to check the article links
-				public WebElement articleVideo3(int p1){
-					if(driver.findElements(By.xpath("//div[contains(@class,'templates_main')]/p["+p1+"]/div/iframe")).isEmpty()) {
-						return null;
-					}else {
-						WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/p["+p1+"]/div/iframe"));	
-						return articleContent;
-					}
-				}
+	//Method to check the article links
+		public WebElement articleVideo3(int p1){
+			if(driver.findElements(By.xpath("//div[contains(@class,'templates_main')]/p["+p1+"]/div/iframe")).isEmpty()) {
+				return null;
+			}else {
+				WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/p["+p1+"]/div/iframe"));	
+				return articleContent;
+			}
+		}
 				
 	//Method to check the article links
 		public WebElement articleVideo1(int p1, int head1,int head2){
@@ -231,33 +246,33 @@ public class ArticlePageObjects {
 		}
 		
 
-		//Method to check the article links
+	//Method to check the article links
 		public WebElement articleULinkWithoutHead(int list, int link, int l){
 			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/ul["+list+"]/li["+link+"]/p/a["+l+"]"));	
 			return articleContent;
 		}
 		
-		//Method to check the article links
+	//Method to check the article links
 		public WebElement articleULinkWithoutHead1(int list, int link, int l){
 			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/ul["+list+"]/li["+link+"]/p/a["+l+"]"));	
 			return articleContent;
 		}
 		
-		//Method to check the article links
+	//Method to check the article links
 		public WebElement articleULink(int list,int link){
 			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2[1]/preceding-sibling::ul/li["+list+"]/p/a["+link+"]"));	
 			return articleContent;
 		}
 				
 	//Method to check the article links
-		public WebElement articleULink2(int head,int list,int link){
-			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2["+head+"]/following-sibling::ul/li["+list+"]/p/a["+link+"]"));	
+		public WebElement articleULink2(int head,int list, int link,int link1){
+			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2["+head+"]/following-sibling::ul["+list+"]/li["+link+"]/p/a["+link1+"]"));	
 			return articleContent;
 		}
 				
 	//Method to check the article links
-		public WebElement articleULink1(int head1, int head2,int list,int link){
-			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2["+head1+"]/preceding-sibling::ul[preceding-sibling::h2["+head2+"]]/li["+list+"]/p/a["+link+"]"));	
+		public WebElement articleULink1(int head1, int head2,int list,int link, int link1){
+			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2["+head1+"]/preceding-sibling::ul[preceding-sibling::h2["+head2+"]]["+list+"]/li["+link+"]/p/a["+link1+"]"));	
 			return articleContent;
 		}
 		
@@ -327,7 +342,7 @@ public class ArticlePageObjects {
 			return articleContent;
 		}
 		
-		//Method to check the article links
+	//Method to check the article links
 		public WebElement articleOrdList(int link){
 			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2[1]//preceding-sibling::ol["+link+"]"));	
 			return articleContent;
@@ -345,27 +360,39 @@ public class ArticlePageObjects {
 			return articleContent;
 		}
 		
-		//Method to check the article links
+	//Method to check the article links
 		public WebElement articleOrdListWithoutHead(int link){
 			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/ol["+link+"]"));	
 			return articleContent;
 		}
 		
-		//Method to check the article ol links
-		public WebElement articleOLink(int link){
-			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2[1]/preceding-sibling::ol/li["+link+"]/p/a"));	
+	//Method to check the article links
+		public WebElement articleOLinkWithoutHead(int list, int link, int l){
+			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/ol["+list+"]/li["+link+"]/p/a["+l+"]"));	
 			return articleContent;
 		}
 				
-	//Method to check the article ol links
-		public WebElement articleOLink2(int head,int link){
-			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2["+head+"]/following-sibling::ol/li["+link+"]/p/a"));	
+	//Method to check the article links
+		public WebElement articleOLinkWithoutHead1(int list, int link, int l){
+			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/ol["+list+"]/li["+link+"]/p/a["+l+"]"));	
 			return articleContent;
 		}
-				
+		
 	//Method to check the article ol links
-		public WebElement articleOLink1(int head1, int head2,int link){
-			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2["+head1+"]/preceding-sibling::ol[preceding-sibling::h2["+head2+"]]/li["+link+"]/p/a"));	
+		public WebElement articleOLink(int list,int link){	
+			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2[1]/preceding-sibling::ul/li["+list+"]/p/a["+link+"]"));	
+			return articleContent;
+		}
+		
+	//Method to check the article ol links
+		public WebElement articleOLink2(int head,int list, int link,int link1){
+			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2["+head+"]/following-sibling::ol["+list+"]/li["+link+"]/p/a["+link1+"]"));	
+			return articleContent;
+		}
+						
+	//Method to check the article ol links
+		public WebElement articleOLink1(int head1, int head2,int list,int link, int link1){
+			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2["+head1+"]/preceding-sibling::ol[preceding-sibling::h2["+head2+"]]["+list+"]/li["+link+"]/p/a["+link1+"]"));	
 			return articleContent;
 		}
 		
@@ -377,14 +404,22 @@ public class ArticlePageObjects {
 		
 	//Method to get video inside list
 		public WebElement articleListVideo(int list, int head1) {
-			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2["+head1+"]/following-sibling::ul["+list+"]/li/p/div/iframe"));	
-			return articleContent;
+			if(driver.findElements(By.xpath("//div[contains(@class,'templates_main')]/h2["+head1+"]/following-sibling::ul["+list+"]/li/p/div/iframe")).isEmpty()) {
+				return null;
+			}else {
+				WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/h2["+head1+"]/following-sibling::ul["+list+"]/li/p/div/iframe"));	
+				return articleContent;
+			}
 		}
 		
 	//Method to get video inside list
 		public WebElement articleListVideo1(int list) {
-			WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/ul["+list+"]/li/p/div/iframe"));	
-			return articleContent;
+			if(driver.findElements(By.xpath("//div[contains(@class,'templates_main')]/ul[\"+list+\"]/li/p/div/iframe")).isEmpty()) {
+				return null;
+			}else {
+				WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,'templates_main')]/ul[\"+list+\"]/li/p/div/iframe"));	
+				return articleContent;
+			}
 		}
 					
 	//Article body

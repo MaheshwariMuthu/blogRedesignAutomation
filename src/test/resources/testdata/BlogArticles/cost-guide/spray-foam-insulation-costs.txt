@@ -1,63 +1,87 @@
 ---
-layout: layouts/post-layout.njk
-titleTag: "How Much Do Blown-in and Spray Foam Insulation Cost?"
-headline: "How Much Do Blown-in and Spray Foam Insulation Cost?"
+# layout: layouts/post-layout.njk
+titleTag: "How Much Does Spray Foam Insulation Cost?"
+headline: "How Much Does Spray Foam Insulation Cost?"
 author: Team HomeServe
 tags: ["post"]
-publishDate: 2024-02-04
+publishDate: 2022-05-23
 basePath: https://library.homeserve.com/m/
-heroImage: 
-heroAltDescription: ""
+heroImage: 7c920e60cff0137/Blog-GettyImages-185211977.jpg
+heroAltDescription: "close up shot of spray foam being applied on to a wall"
 heroImageWidth: 1080
 heroImageHeight: 800
-metaDescriptions: "Learn how much spray foam insulation costs and whether it's the right insulation solution for your home."
-articleAbstract: "This type of insulation project is more costly than using traditional methods like fiberglass batt insulation to seal off a house, but it may do a more thorough job. Learn how much spray foam insulation costs and whether it's the right insulation solution for your home."
+metaDescriptions: "Learn how much spray foam insulation costs and whether it's the right insulation solution for your home."
+articleAbstract: "Spray foam is more costly than traditional insulation materials like fiberglass batt insulation, but it may do a more thorough job. Learn how much spray foam insulation costs and whether it's the right insulation solution for your home."
+stickyFooter: true
+stickyZip: false
+stickyDisplayText: Call today for a local HVAC contractor.
+phoneNumber: 844-887-9342
+lightboxCopy: Local HVAC pros are ready to handle your repairs.
+bannerArticle: true
 category: ["Cost Guide"]
 eleventyNavigation:
-  key: "How Much Do Blown-in and Spray Foam Insulation Cost?"
+  key: "How Much Does Spray Foam Insulation Cost?"
   parent: HVAC-Cost-Guide
 ---
-  Spray foam insulation is designed to fill up the spaces between studs and wall cavities to create an impervious barrier and restrict the flow of outside air into your house. Sealing off spaces like your attic helps keep the house warm in the winter and cool in the summer, which may help lower your energy bills by reducing your energy consumption.
+  
 
-**This May Also Interest You:** [**Here's How to Apply Plastic Film to Insulate Your Windows**](https://www.homeserve.com/en-us/blog/how-to/window-insulation-film-installation/)
+**Spray Foam Insulation Costs at a Glance**
 
-This type of insulation project is more costly than using traditional methods like fiberglass batt insulation to seal off a house, but it may do a more thorough job. Learn how much spray foam insulation costs and whether it's the right insulation solution for your home.
+* **Open-cell spray foam:** 44 cents-65 cents (CAD 0.55-CAD 0.80) per board foot
+* **Closed-cell spray foam:** $1-$1.50 (CAD 1.25-CAD 1.90) per board foot
+* **Whole-house insulation cost:** $8,000-$20,000 (CAD 10,000-CAD 25,000)
+
+Spray foam insulation is designed to fill up the spaces between studs and wall cavities to create an impervious barrier and restrict the flow of outside air into your house. Sealing off spaces like your attic helps keep the house warm in the winter and cool in the summer, which may help lower your energy bills by reducing your energy consumption.
+
+**This May Also Interest You:** [**Here’s How to Apply Plastic Film to Insulate Your Windows**](https://www.homeserve.com/en-us/blog/how-to/window-insulation-film-installation/)
+
+This type of insulation project is more costly than using traditional methods like fiberglass batt insulation to seal off a house, but it may do a more thorough job. Learn how much spray foam insulation costs and whether it's the right insulation solution for your home.
 
 Spray Foam Insulation Installation Costs
 ----------------------------------------
 
-There are two primary types of spray foam insulation: open-cell and closed-cell. Spray insulation is made with tiny polyurethane bubbles. With open-cell spray foam, the bubbles aren't completely encapsulated. This makes it malleable and softer. It also expands after it's applied. According to [LawnStarter](https://www.lawnstarter.com/blog/cost/spray-foam-insulation-price/), the average cost per board foot for open-cell spray foam is 45 cents to 75 cents (CAD 0.60 to CAD 1). A board foot is equal to 1 square foot at 1-inch thickness.
+There are two primary types of spray foam insulation: open-cell and closed-cell. Spray insulation is made with tiny polyurethane bubbles. With open-cell spray foam, the bubbles are not completely encapsulated. This makes it malleable and softer. It also expands after it is applied. According to [Bob Vila](https://www.bobvila.com/articles/spray-foam-insulation-cost/), the average cost per board foot for open-cell spray foam is 44 cents to 65 cents (CAD 0.55 to CAD 0.80). A board foot is equal to 1 square foot at 1-inch thickness.
 
-With closed-cell spray insulation, the tiny bubbles are encapsulated, producing a sturdier and more rigid layer of foam. This helps if you need extra support along the walls and ceilings. Closed-cell foam is usually water-resistant. On average, it costs $1 to $1.60 (CAD 1.34 to CAD 2.14) per board foot.
+With closed-cell spray insulation, the tiny bubbles are encapsulated, producing a more sturdy and rigid layer of foam. This helps if you need extra support along the walls and ceilings. Closed-cell foam is usually water-resistant. On average, it costs [$1 to $1.50](https://www.bobvila.com/articles/spray-foam-insulation-cost/) (CAD 1.25 to CAD 1.90) per board foot.
+
+<img class="detail-image" src="https://library.homeserve.com/m/40209cd0ff84c33/Blog-GettyImages-185327254.jpg" alt="Worker in protective gear is Spraying Expandable Foam Insulation between Wall Studs"/>
 
 Is Spray Foam Insulation Worth It?
 ----------------------------------
 
-Although spray insulation costs more than fiberglass batt insulation, it offers superior performance. Spray foam seals off the house better than batt, and it lasts [upward of 80 years](https://www.paragon-protection.com/spray-foam-vs-fiberglass-insulation-side-by-side-comparison/). The life span for fiberglass can be as high as 100 years, but if it gets wet or is broken, it’ll deteriorate much faster.
+Although spray insulation costs more than fiberglass batt insulation, it offers superior performance. Spray foam seals off the house better than batt, and it lasts [upward of 80 years](https://www.paragon-protection.com/spray-foam-vs-fiberglass-insulation-side-by-side-comparison/). The lifespan for fiberglass can be as high as 100 years, but if it gets wet or is broken, it’ll deteriorate much faster.
 
-So, while fiberglass is more budget-friendly up front, it may have to get replaced sooner and won’t provide the same level of protection from outside temperatures as spray foam.
+So, while fiberglass is more budget-friendly upfront, it may have to get replaced sooner and won’t provide the same level of protection from outside temperatures as spray foam.
 
 Can You Install It Yourself?
 ----------------------------
 
 You can apply spray foam insulation yourself, but it’s not recommended. Professionals have the tools and experience to properly apply the foam without wasting it and increasing the cost of the project.
 
-However, there are open-cell foam kits available, ranging from $40 (CAD 53) per 12 to 15 board feet to $700 (CAD 936) per 600 to 650 board feet, according to data from [Forbes](https://www.forbes.com/home-improvement/insulation/diy-spray-foam-insulation-cost/). Closed-cell kits are roughly $150 (CAD 201) more per kit than open-cell ones.
+However, there are open-cell foam [kits](https://www.forbes.com/advisor/home-improvement/diy-spray-foam-insulation-cost/) available, ranging from $40 (CAD 50) per 12 to 15 board feet to $700 (CAD 880) per 600 to 650 board feet. Closed-cell kits are roughly $150 (CAD 190) more per kit than open-cell ones.
+
+**More Related Articles:**
+
+*   [How Much Does an Insulated Garage Door Cost?](https://www.homeserve.com/en-us/blog/cost-guide/insulated-garage-door/)
+*   [How to Insulate Your Garage Door?](https://www.homeserve.com/en-us/blog/how-to/insulate-garage-door/)
+*   [How to Insulate Windows](https://www.homeserve.com/en-us/blog/how-to/insulate-windows/)
+*   [No AC? No Sweat. Here’s How to Keep Cool](https://www.homeserve.com/en-us/blog/how-to/cool-home-without-ac/)
+*   [Smart AC Not a Dumb Idea If You’re Looking to Cut Climate-Control Costs](https://www.homeserve.com/en-us/blog/buying-guide/smart-ac/)
 
 How Much More Expensive Is Spray Foam Insulation Than Batt Insulation?
 ----------------------------------------------------------------------
 
-[Foam insulation](https://homeguide.com/costs/spray-foam-insulation-cost), on average, costs about $1 to $4.50 (CAD 1.34 to CAD 6.02) per board foot. Fiberglass batt material costs about 80 cents to $2.60 (CAD 1.07 to CAD 3.48) per square foot.
+Foam insulation, on average, costs about 90 cents to $1.50 (CAD 1.15 to CAD 1.90) per board foot. Fiberglass batt material costs about 40 cents (CAD 0.50) per square foot.
 
-With those numbers in mind, it would cost up to $9,000 (CAD 12,035) to put spray foam in a home that needs about 2,000 feet of insulation. Filling the same space with fiberglass batt insulation would cost around $1,600 to $5,200 (CAD 2,140 to CAD 6,954), according to [HomeGuide](https://homeguide.com/costs/batt-roll-insulation-cost).
+With those numbers in mind, it would cost up to $3,000 (CAD 3,800) to put spray foam in a home that needs about 2,000 feet of insulation. Filling the same space with fiberglass batt insulation would cost around $900 (CAD 1,130).
 
 How Much Does It Cost to Foam Insulate a House?
 -----------------------------------------------
 
-The average price to foam insulate an entire home starts around $4,000 (CAD 5,349) and can go up to $26,000 (CAD 34,769) or more. The two major cost factors to consider are how big an area is going to be sprayed and how difficult it is to apply the foam to those areas.
+The average price to foam insulate an entire home starts around $8,000 (CAD 10,000) and can go up to $20,000 (CAD 25,000) or more. The two major cost factors to consider are how big of an area is going to be sprayed and how difficult it is to apply the foam to those areas.
 
 The size of an area includes the attic walls, crawl spaces and height of exterior walls in total (meaning a two-story house would have an exterior wall height of about [20 feet](https://weekendbuilds.com/how-tall-is-a-house/)).
 
 The type of siding on a house can make the job more difficult and increase its cost. Vinyl and aluminum siding is easy to remove and replace, so holes can be drilled into the side of the house to shoot the spray foam into the walls. Brick is much more difficult to breach and will take a lot more work, increasing costs.
 
-_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Insulate Windows | Cheap and Easy with Plastic Film"></iframe>
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/tbq6uZ9Y0nQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

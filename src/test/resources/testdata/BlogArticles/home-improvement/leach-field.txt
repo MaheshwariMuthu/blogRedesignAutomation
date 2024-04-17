@@ -17,7 +17,7 @@ eleventyNavigation:
   key: "What Is a Leach Field?"
   parent: Plumbing-Home-Improvement
 ---
-  _EPA image_
+_EPA image_
 
 If the term “leach field” makes you picture a sprawling meadow full of blood-sucking bugs … you’re thinking of the wrong type of leach.
 
@@ -64,7 +64,7 @@ How Can I Prevent Problems With My Septic Leach Field?
 
 Under ideal conditions, a leach drain system can last as long as 25 years, and preventing damage can save homeowners from having to pay for costly repairs. To keep it working properly, follow these simple dos and don’ts.
 
-**Do:**
+**Do:     **
 
 *   Flush only body waste and toilet paper
 *   Limit garbage disposal use
