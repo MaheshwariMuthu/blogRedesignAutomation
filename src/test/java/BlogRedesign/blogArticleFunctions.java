@@ -1191,15 +1191,20 @@ public class blogArticleFunctions {
 				blogArticleFunctions.checkArticleContentInOrder();
 				commonFunctions.clearHashMap();
 				i= i+1;
+				String status = "";
 				//outputReult = outputReult+"-----------------------------------------------------------------------------------------------------------------\n";
 				if(migrateStatus.equals("FAIL")) {
 					csvFileReader.createAndwriteToFile(logResult, "NOTMIGRATED_"+category+"_"+file);
+					status = "NOTMIGRATED";
 				}else {
-					if(flagFail == 1)
+					if(flagFail == 1) {
 						csvFileReader.createAndwriteToFile(logResult, "FAIL_"+category+"_"+file);
-					else
+						status = "FAIL";
+					}else {
 						csvFileReader.createAndwriteToFile(logResult, "PASS_"+category+"_"+file);
+						status = "PASS";}
 				}
+				csvFileReader.writeExcel(file,category,status);
 				logResult = ""; 
 				migrateStatus = "";
 			}
