@@ -2,6 +2,9 @@ package BlogRedesign;
 
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -22,6 +25,10 @@ import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVPrinter;
 import org.apache.commons.csv.CSVRecord;
+import org.apache.poi.xssf.usermodel.XSSFCell;
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import com.opencsv.CSVWriter;
 
@@ -165,6 +172,53 @@ public class csvFileReader {
 				return fileName+"_$1$.pdf".replace("$1$", sdf.format(currentTime));
 			}else {
 				return fileName+"_$1$.txt".replace("$1$", sdf.format(currentTime));
+			}
+		}
+	
+	/*------------------------------------------------------------------------------------------------------
+	* Author		: Maheswari Muthu
+	* Date			: 07-Feb-2023
+	* Method Name	: writeExcel
+	* Description	: To update a test result to excel file
+	---------------------------------------------------------------------------------------------------------*/
+		public static void writeExcel(String articleName, String category, String status) {
+			File file = new File(System.getProperty("user.dir") + "/src/test/resources/testdata/outputData.xlsx");
+			FileInputStream input;
+			try {
+				input = new FileInputStream(file);
+				XSSFWorkbook workbook = new XSSFWorkbook(input);
+				XSSFSheet sheet = workbook.getSheet("blogMigration");
+				XSSFRow row = sheet.getRow(0);
+				int rowCount = sheet.getLastRowNum();
+				int columnCount = row.getLastCellNum();
+				System.out.println("rowCount:"+rowCount);
+				String tcID = "", article = "", categoryValue = "";
+				for(int i=1; i<rowCount; i++) {
+					//columnName = sheet.getRow(0).getCell(i).getStringCellValue();
+					categoryValue = sheet.getRow(i).getCell(2).getStringCellValue();
+					if(categoryValue.equals(category)) {
+						article = sheet.getRow(i).getCell(3).getStringCellValue();
+						if(article.equals(articleName)) {
+							XSSFCell cell = sheet.getRow(i).getCell(12);
+							cell.setCellValue(status);
+							break;
+						}
+					}
+				}
+				input.close();
+				FileOutputStream output = new FileOutputStream(file);
+				workbook.write(output);
+				workbook.close();
+				output.close();
+			} catch (FileNotFoundException e) {
+				System.out.println("Error in writing data in excel" +e);
+				e.printStackTrace();
+			} catch (IOException e) {
+				System.out.println("Error in writing data in excel" +e);
+				e.printStackTrace();
+			}catch (Exception e) {
+				System.out.println("Error in writing data in excel" +e);
+				e.printStackTrace();
 			}
 		}
 	

@@ -1448,7 +1448,7 @@ $150 to $400
 1421,SET3,home-improvement,furnace-vs-heat-pump,N,,,Yes,PASS,PASS,PASS,,,,PASS,
 1422,SET3,home-improvement,garage-door-home-value,N,,,Yes,PASS,PASS,PASS,,,,PASS,
 1423,SET3,home-improvement,garbage-disposal-leaking,N,,,Yes,PASS,PASS,PASS,,,,PASS,
-1424,SET3,cost-guide,georgia-sewer-line-costs,Y,,,Yes,PASS,PASS,PASS,,,,PASS,
+1424,SET3,cost-guide,georgia-sewer-line-costs,N,,,Yes,PASS,PASS,PASS,,,,PASS,
 1425,SET3,home-improvement,GE-profile-smart-range,N,FAIL,? Issue,Yes,PASS,PASS,PASS,,Automation,,PASS,
 1426,SET3,home-improvement,get-rid-of-bedbugs,N,,,Yes,PASS,PASS,PASS,,,,PASS,
 1427,SET3,cost-guide,glass-garage-door,N,,,Yes,PASS,PASS,PASS,,,,PASS,
@@ -1665,7 +1665,7 @@ $150 to $400
 1638,SET4,how-to,sump-pump-installation,N,,,Yes,FAIL,,,,Banner Image Issue,Amy,PASS,
 1639,SET5,buying-guide,nest-thermostat-review,N,,,Yes,FAIL,,,,"Extra content added-:::list, {target=""_blank""}.,::Blog",Amy,PASS,
 1640,SET5,buying-guide,plumbing-vents,N,FAIL,Banner File Issue,Yes,FAIL,,,,"Extra content added-:::list, {target=""_blank""}.,::Blog",Amy,PASS,
-1641,SET5,buying-guide,radiant-in-floor-heating-system,Y,,,Yes,FAIL,,,,"Extra content added-{target=""_blank""}.,::Blog",Amy,PASS,
+1641,SET5,buying-guide,radiant-in-floor-heating-system,N,,,Yes,FAIL,,,,"Extra content added-{target=""_blank""}.,::Blog",Amy,PASS,
 1642,SET5,buying-guide,oven-cooktop,N,,,Yes,FAIL,,,,"Extra content added-{target=""_blank""}.,::Blog;inline image not rendered",Amy,PASS,
 1643,SET5,buying-guide,refrigerator,N,,,Yes,FAIL,,,,"Extra content added-{target=""_blank""}.,::Blog",Amy,PASS,
 1644,SET5,buying-guide,toxic-cleaning-products,N,,,Yes,FAIL,,,,"Extra content added-{target=""_blank""}.,::Blog",Amy,PASS,
@@ -1756,3 +1756,92 @@ Expected: Losing your hot water can be concerning. Here are eight possible reaso
 1728,SET6,home-improvement,samsung-dryer-error-codes,N,FAIL,? Issue,Yes,PASS,,PASS,,Automation,,PASS,
 1729,SET6,home-improvement,shower-lost-hot-water,N,FAIL,H1 content,Yes,PASS,,PASS,,Manual,,PASS,
 1730,SET6,how-to,tighten-faucet-handle,N,,,Yes,PASS,,PASS,,,,PASS,
+1731,SET7,cost-guide,high-velocity-hvac-system,Y,,,,,,PASS,,,,,
+1732,SET7,cost-guide,moving-costs,Y,,,,,,PASS,,,,,
+1733,SET7,cost-guide,new-radiator,Y,,,,,,PASS,,,,,
+1734,SET7,cost-guide,salt-free-water-softener,Y,,? Issue,,,,PASS,,,,,
+1735,SET7,cost-guide,water-heater-filter,Y,,,,,,PASS,,,,,
+1736,SET7,home-improvement,afue-rating,Y,,space issue,,,,FAIL,,"Extra space in list. 
+Expected: Low-efficiency: These appliances, while meeting minimum standards, are considered outdated and wasteful. They convert less than 70% of fuel into heat, leading to higher energy bills and carbon emissions. If your furnace or boiler is in this range, you should seriously consider replacing it.
+
+	Low-efficiency:  These appliances, while meeting minimum standards, are considered outdated and wasteful. They convert less than 70% of fuel into heat, leading to higher energy bills and carbon emissions. If your furnace or boiler is in this range, you should seriously consider replacing it.",,,
+1737,SET7,home-improvement,air-quality-test,Y,,space issue,,,,FAIL,,"Extra space in paragraph.
+Expected:How much a professional home air quality test costs depends on what you're testing for. Professional air testers can perform general whole-house checks to identify areas of concern. These tests can detect most common pollutants, such as VOCs and asbestos. Hiring a pro for an indoor air quality test typically costs around $436 (CAD 587), although prices depend on your home's size and the cost of living in your area.
+
+	How much a professional home air quality test costs depends on what you're testing for. Professional air testers can perform general whole-house checks to identify areas of concern. These tests can detect most common pollutants, such as VOCs and asbestos. Hiring a pro for an  indoor air quality test typically costs around $436 (CAD 587), although prices depend on your home's size and the cost of living in your area.",,,
+1738,SET7,home-improvement,air-vent-deflectors,Y,,,,,,PASS,,,,,
+1739,SET7,home-improvement,boiler-explosion,Y,,,,,,PASS,,,,,
+1740,SET7,home-improvement,commonly-repaired-air-conditioner-parts,Y,,,,,,PASS,,,,,
+1741,SET7,home-improvement,commonly-repaired-dryer-parts,Y,,Link () Issue,,,,PASS,,,,,
+1742,SET7,home-improvement,commonly-repaired-dishwasher-parts,Y,,,,,,PASS,,,,,
+1743,SET7,home-improvement,commonly-repaired-refrigerator-parts,Y,,Link () Issue,,,,PASS,,,,,
+1744,SET7,home-improvement,commonly-repaired-furnace-parts,Y,,Link () Issue,,,,PASS,,,,,
+1745,SET7,home-improvement,commonly-repaired-water-heater-parts,Y,,Link () Issue,,,,PASS,,,,,
+1746,SET7,home-improvement,commonly-repaired-washer-parts,Y,,Link () Issue,,,,PASS,,,,,
+1747,SET7,home-improvement,do-i-need-air-purifier,Y,,Space Issue,,,,FAIL,,"Extra space in paragraph. 
+Expected: For example, if you're using an air purifier that includes a HEPA filter, it's supposed to be able to remove 99.97% of particles in the air that measure 0.3 microns in diameter or larger. That's a pretty effective air purifier that will cleanse air to a noticeable degree. You do have to ensure you're changing filters appropriately and otherwise maintaining your air purifier to support effective operation.
+
+	For example, if you're using an air purifier that includes a HEPA filter, it's supposed to be able to remove  99.97% of particles in the air that measure 0.3 microns in diameter or larger. That's a pretty effective air purifier that will cleanse air to a noticeable degree. You do have to ensure you're changing filters appropriately and otherwise maintaining your air purifier to support effective operation.",,,
+1748,SET7,home-improvement,formaldehyde,Y,,,,,,PASS,,,,,
+1749,SET7,home-improvement,high-velocity-hvac-system,Y,,,,,,PASS,,,,,
+1750,SET7,home-improvement,how-does-a-boiler-work,Y,,,,,,PASS,,,,,
+1751,SET7,home-improvement,hvac-register-filters,Y,,,,,,PASS,,,,,
+1752,SET7,home-improvement,hvac-register-vs-hvac-return,Y,,,,,,PASS,,,,,
+1753,SET7,home-improvement,hvac-register-clearance,Y,,,,,,PASS,,,,,
+1754,SET7,home-improvement,install-own-boiler,Y,,,,,,PASS,,Need to check,,,
+1755,SET7,home-improvement,install-radiator-myself,Y,,,,,,PASS,,,,,
+1756,SET7,home-improvement,mold-in-the-fridge,Y,,,,,,PASS,,Need to check,,,
+1757,SET7,home-improvement,zooglea,Y,,,,,,PASS,,,,,
+1758,SET7,how-to,balance-radiator,Y,,,,,,PASS,,,,,
+1759,SET7,how-to,clean-trash-compactor,Y,,,,,,PASS,,,,,
+1760,SET7,how-to,iron-ochre,Y,,,,,,PASS,,,,,
+1761,SET7,how-to,mold-in-dishwasher,Y,,,,,,PASS,,,,,
+1762,SET7,how-to,mold-in-hvac-system,Y,,,,,,PASS,,,,,
+1763,SET7,home-improvement,reasons-to-switch-to-electric-dryer,Y,,,,,,PASS,,,,,
+1764,SET7,home-improvement,reasons-to-switch-to-electric-furnace,Y,,,,,,PASS,,,,,
+1765,SET7,home-improvement,reasons-to-switch-to-electric-stove-range-oven,Y,,,,,,PASS,,,,,
+1766,SET7,home-improvement,reasons-to-switch-from-furnace-to-heat-pump,Y,,,,,,PASS,,,,,
+1767,SET7,home-improvement,return-air-vent-clearance,Y,,,,,,PASS,,Need to check,,,
+1768,SET7,home-improvement,salt-free-water-softener,Y,,? Issue,,,,PASS,,,,,
+1769,SET7,home-improvement,short-cycling,Y,,,,,,PASS,,,,,
+1770,SET7,home-improvement,smart-thermostat-issues,Y,,,,,,PASS,,,,,
+1771,SET7,home-improvement,smart-thermostat-requirements,Y,,,,,,PASS,,,,,
+1772,SET7,home-improvement,thermostatic-radiator-valve,Y,,Space Issue,,,,FAIL,,"Extra space in paragraph.
+Expected: However, this is a one-time investment that can pay off in the long run by lowering your heating bills and improving your comfort. According to the U.S. Department of Energy, installing TRVs on your radiators can save you up to 15% on your heating costs, depending on your usage and climate. This means a TRV can pay for itself in as little as 1 to 5 years, depending on your initial cost and your energy savings.
+
+	However, this is a one-time investment that can pay off in the long run by lowering your heating bills and improving your comfort. According to the U.S. Department of Energy, installing TRVs on your radiators can save you up to  15% on your heating costs, depending on your usage and climate. This means a TRV can pay for itself in as little as 1 to 5 years, depending on your initial cost and your energy savings.",,,
+1773,SET7,home-improvement,smart-hvac-registers,Y,,Space Issue,,,,FAIL,,"Extra space in paragraph.
+Expected: Smart registers are relatively inexpensive. The Flair Smart Vent Starter Pack for one room costs around $218 (CAD 296). If you go with Keen, their Starter Kit for up to two rooms, including the Smart Bridge, starts at $389 (CAD 526). The SmartCocoon Smart Register Booster Fan costs $113 (CAD 153). You can add individual vents and thermostat components to extend these systems to other rooms of the house.
+
+	Smart registers are relatively inexpensive. The Flair Smart Vent Starter Pack for one room costs around $218 (CAD 296). If you go with Keen, their Starter Kit for up to two rooms, including the Smart Bridge, starts at $389 (CAD 526). The  SmartCocoon Smart Register Booster Fan costs $113 (CAD 153). You can add individual vents and thermostat components to extend these systems to other rooms of the house.",,,
+1774,SET7,cost-guide,air-quality-monitor,Y,,Space Issue,,,,FAIL,,"Extra space in pragraph. 
+Expected: Air quality isn't just an outdoor issue — most Americans spend up to 90% of their time indoors, so the air quality inside your home? and workplace can significantly impact your health. Generally, indoor air quality? is worsening, and breathing in certain pollutants could increase your risk of respiratory problems, cardiovascular disease and cognitive issues.
+
+	Air quality isn't just an outdoor issue — most Americans spend up to 90% of their time indoors, so the  air quality inside your home? and workplace can significantly impact your health. Generally, indoor air quality? is worsening, and breathing in certain pollutants could increase your risk of respiratory problems, cardiovascular disease and cognitive issues.",,,
+1775,SET7,cost-guide,air-quality-test,Y,,,,,,PASS,,,,,
+1776,SET7,cost-guide,cost-to-switch-to-electric-dryer,Y,,,,,,PASS,,,,,
+1777,SET7,cost-guide,cost-to-switch-to-electric-stove-range-oven,Y,,,,,,PASS,,,,,
+1778,SET7,cost-guide,cost-to-switch-to-electric-water-heater,Y,,,,,,PASS,,,,,
+1779,SET7,cost-guide,cost-to-switch-to-electric-furnace,Y,,,,,,PASS,,,,,
+1780,SET7,cost-guide,thermostatic-radiator-valve,Y,,,,,,PASS,,,,,
+1781,SET7,cost-guide,washing-machine-belt-repair,Y,,,,,,PASS,,,,,
+1782,SET7,cost-guide,washing-machine-water-pump,Y,,,,,,PASS,,,,,
+1783,SET7,home-improvement,types-of-furnaces,Y,,,,,,PASS,,,,,
+1784,SET7,home-improvement,water-heater-explosion,Y,,,,,,PASS,,,,,
+1785,SET7,home-improvement,water-heater-filter,Y,,Space Issue,,,,FAIL,,"Extra space in paragraph.
+Expected: Most tanked and traditional water heaters have built-in air and water line filters that filter out dirt and dust and prevent limescale buildup from reaching the tanks or reservoirs. However, some models don't have these features. If your water heater lacks a filtering system, you may want to contact a professional plumber to assist with filter installation.
+
+	Most tanked and traditional water heaters have  built-in air and water line filters that filter out dirt and dust and prevent limescale buildup from reaching the tanks or reservoirs. However, some models don't have these features. If your water heater lacks a filtering system, you may want to contact a professional plumber to assist with filter installation.",,,
+1786,SET7,home-improvement,water-leak-detector,Y,,,,,,PASS,,,,,
+1787,SET7,home-improvement,which-hvac-filter-do-i-need,Y,,Space Issue,,,,FAIL,,"Extra space in pragraph. 
+Expected: The numbers aren't assigned arbitrarily. They're based on how efficient the filter is at filtering particles of a particular size. For instance, a filter with a MERV rating of 1 to 4 filters particles of 3.0 to 10.0 microns at an efficiency rate of less than 20%. Meanwhile, a filter with a MERV rating of 16 filters particles from 0.30 to 10.0 microns at an efficiency greater than or equal to 95%.
+
+	The numbers aren't assigned arbitrarily. They're based on how efficient the filter is at filtering particles of a particular size. For instance, a  filter with a MERV rating of 1 to 4 filters particles of 3.0 to 10.0 microns at an efficiency rate of less than 20%. Meanwhile, a filter with a MERV rating of 16 filters particles from 0.30 to 10.0 microns at an efficiency greater than or equal to 95%.",,,
+1788,SET7,home-improvement,why-does-my-house-have-a-boiler,Y,,,,,,PASS,,,,,
+1789,SET7,home-improvement,why-does-my-house-have-a-radiator,Y,,,,,,PASS,,,,,
+1790,SET7,how-to,determine-appliance-age,Y,,,,,,PASS,,,,,
+1791,SET7,how-to,grease-washing-machine,Y,,,,,,PASS,,,,,
+1792,SET7,how-to,heat-cool-addition,Y,,,,,,PASS,,,,,
+1793,SET7,how-to,heat-pump-short-cycling,Y,,,,,,PASS,,,,,
+1794,SET7,how-to,vacuum-cleaner-lost-suction,Y,,,,,,PASS,,,,,
+1795,SET7,how-to,vacuum-mattress,Y,,,,,,PASS,,,,,

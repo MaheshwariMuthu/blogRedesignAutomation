@@ -1,0 +1,70 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Boiler Alert: 5 Reasons Your Boiler Could Explode"
+headline: "Boiler Alert: 5 Reasons Your Boiler Could Explode"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-02-20
+basePath: https://library.homeserve.com/m/
+heroImage: 625bd6e0869dd6db/Blog-OilHeater_MDavis_IMG_0756.jpg
+heroAltDescription: "A modern residential boiler system in a historic East coast home"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Boilers can (and sometimes do) blow up. Learn how and why this happens."
+articleAbstract: "Boilers keep us nice and warm on chilly evenings. But are these heating systems as safe as the cozy, homey feeling they give you? Here's what to know about the potential risks."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Boiler Alert: 5 Reasons Your Boiler Could Explode"
+  parent: HVAC-Home-Improvement
+---
+  Boilers keep us nice and warm on chilly evenings. But are these heating systems as safe as the cozy, homey feeling they give you?
+
+**This May Also Interest You:** [**Everything You Need to Know About Boilers**](https://www.homeserve.com/en-us/blog/buying-guide/boilers/)
+
+Could your boiler possibly damage your property, or even risk your health and that of your loved ones? Is a boiler explosion even possible?
+
+Can a Boiler Explode?
+---------------------
+
+The answer is yes, it can. Boiler explosions are rare, but they can be dangerous and costly and cause serious injuries, property damage and death.
+
+Top 5 Causes of Boiler Explosions
+---------------------------------
+
+### 1\. Excessive Pressure
+
+One of the main causes of boiler explosions is excessive pressure. This can happen when the pressure relief valve fails to release the excess steam or water that builds up inside the boiler. The PRV is a safety device that regulates the pressure level and prevents it from going beyond a certain limit. If it’s faulty, blocked or set incorrectly, the pressure can rise uncontrollably, causing the boiler to rupture or explode.
+
+To avoid this, you should check the PRV regularly and make sure it’s working properly. Monitor the pressure gauge on your boiler and keep it within the recommended range. If you notice any signs of high pressure, such as hissing noises, leaks or dripping water, turn off the boiler and call a professional plumber immediately.
+
+### 2\. Gas Leaks
+
+Gas leaks can occur when gas pipes or fittings are damaged, corroded or poorly installed. They can create a highly flammable and explosive atmosphere around the boiler, especially if there’s a source of ignition nearby, such as a spark, a flame or an electrical appliance. Gas leaks can also pose a serious health risk, as they can cause carbon monoxide poisoning, which can be fatal.
+
+To prevent gas leaks, have a qualified gas engineer service your boiler annually. Inspect the gas pipes and fittings regularly and look for any signs of damage, corrosion or wear and tear. If you smell gas or suspect a leak, turn off the gas supply, open the windows, evacuate the premises and call the emergency gas service as soon as possible.
+
+### 3\. Water Supply Issues
+
+A third reason for boiler explosions is water supply issues. These can occur when the water level in the boiler drops too low, or the water flow is interrupted or restricted. There are various reasons for these issues, such as leaks, blockages, frozen pipes, faulty pumps and faulty sensors. When the water supply is insufficient, the boiler can overheat and produce steam at a very high temperature and pressure. This can cause the boiler to melt, crack or explode.
+
+To prevent water supply issues, check the water level in your boiler regularly and make sure it’s adequate. Check the water pipes and valves for any leaks, blockages or damage. If you notice any problems with the water supply, turn off the boiler and call a professional plumber as soon as you can.
+
+**More Related Articles:**
+
+*   [4 Signs Your Boiler Needs to Be Repaired or Replaced](https://www.homeserve.com/en-us/blog/home-improvement/boiler-repair-replacement/)
+*   [How Much Does Boiler Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-repair/)
+*   [What Do I Do If My Heat Goes Out?](https://www.homeserve.com/en-us/blog/home-improvement/broken-furnace-stopgaps/)
+*   [**How Much Does It Cost to Replace a Boiler?**](https://www.homeserve.com/en-us/blog/cost-guide/boiler-replacement/)
+*   [How Much Does Heating Oil Cost?](https://www.homeserve.com/en-us/blog/cost-guide/home-heating-oil/)
+
+### 4\. Poor Maintenance
+
+Poor maintenance can lead to various problems with the boiler, such as corrosion, rust, scale, dirt and debris. These can affect its performance and efficiency and increase the risk of malfunctions, breakdowns and explosions. Poor maintenance may also invalidate your boiler warranty and insurance and expose you to legal liabilities and penalties.
+
+To ensure good maintenance, follow the manufacturer's instructions and guidelines for your boiler. Have it serviced regularly by a qualified and registered engineer. Additionally, clean and flush the boiler system periodically to remove any impurities or contaminants that can cause damage or blockages.
+
+### 5\. Age and Wear and Tear
+
+Boilers have a limited life span, and they tend to deteriorate over time. As they age, they become less efficient, less reliable and more prone to faults and failures. They also become more susceptible to external factors, such as weather, temperature, humidity and vibration. These can cause the boiler to weaken, crack or leak, increasing the chances of an explosion.
+
+To prevent age and wear and tear issues, replace your boiler when it reaches the end of its useful life. The average life span of a boiler is around 10 to 15 years, depending on the type, model and usage. If your boiler is nearing the end of its life, consider upgrading your boiler to a newer and more efficient one, as this can save you money on energy bills, reduce your carbon footprint and improve your comfort and safety.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

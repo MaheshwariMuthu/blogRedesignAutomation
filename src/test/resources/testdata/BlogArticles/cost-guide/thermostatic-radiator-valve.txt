@@ -1,0 +1,67 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a Thermostatic Radiator Valve Cost?"
+headline: "How Much Does a Thermostatic Radiator Valve Cost?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-02-26
+basePath: https://library.homeserve.com/m/
+heroImage: e0d59e23944a872/Blog-GettyImages-115893872.jpg
+heroAltDescription: "Radiator thermostat set optimal"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Imagine a home where radiators communicate, so they can adjust heat output to your preferences. Enter the thermostatic radiator valve."
+articleAbstract: "Imagine a home where radiators communicate with each room’s temperature so they can adjust heat output to your preferences. This technology might sound expensive, but you may find a thermostatic radiator valve’s cost is lower than you think."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does a Thermostatic Radiator Valve Cost?"
+  parent: HVAC-Cost-Guide
+---
+  Imagine a home where radiators communicate with each room’s temperature so they can adjust heat output to your preferences.
+
+**This May Also Interest You:** [**It’s Too Hot in Here! How to Turn Down Your Radiator**](https://www.homeserve.com/en-us/blog/how-to/turn-down-radiator/)
+
+This technology might sound expensive, but you may find a thermostatic radiator valve’s cost is lower than you think.
+
+What Is a Thermostatic Radiator Valve?
+--------------------------------------
+
+A TRV is a type of radiator valve with a built-in thermostat that senses the air temperature around it. The thermostat controls a valve that opens or closes to adjust the amount of hot water entering the radiator. The device usually has a knob or dial. This allows you to set the desired temperature for the room, helping you save energy and money by reducing the amount of heat that’s wasted in unoccupied rooms and those that don't need to be as warm as others. Homes in colder climates sometimes have TRVs with a frost protection setting to prevent the radiator from freezing in cold weather.
+
+A TRV works best with a central heating system with a boiler and a pump that circulates hot water through a network of pipes and radiators. It can be installed on any radiator with a compatible valve connection, which is usually either a 15 mm or a 22 mm pipe. Additionally, a TRV can be fitted on either the flow or the return pipe of the radiator, but it’s normally better to install it on the flow pipe for better performance.
+
+How Much Does a Thermostatic Radiator Valve Cost?
+-------------------------------------------------
+
+Several factors determine the cost, including the brand, model and features. The cost range for a replacement TRV is $40 to $200 (CAD 54 to CAD 270) per valve, according to [HomeGuide](https://homeguide.com/costs/home-radiator-repair-cost). A professional installation increases these costs to between $130 and $500 (CAD 176 and CAD 675). This cost range takes into account smart thermostats, which are [the costliest option](https://www.thespruce.com/best-thermostats-4172532) currently on the market.
+
+However, this is a one-time investment that can pay off in the long run by lowering your heating bills and improving your comfort. According to the U.S. Department of Energy, installing TRVs on your radiators can save you up to [15% on your heating costs](https://www1.eere.energy.gov/buildings/publications/pdfs/building_america/thermostatic_radiator_valve.pdf), depending on your usage and climate. This means a TRV can pay for itself in as little as 1 to 5 years, depending on your initial cost and your energy savings.
+
+**More Related Articles:**
+
+*   [Noisy Radiator: Why Does My Heating System Clang?](https://www.homeserve.com/en-us/blog/home-improvement/heating-system-clang/)
+*   [Is It Safe to Put Things on or Near Your Radiator?](https://www.homeserve.com/en-us/blog/home-improvement/can-you-put-items-on-radiator/)
+*   [3 Reasons Your Radiator Is Hissing (and 3 Fixes You Can Try)](https://www.homeserve.com/en-us/blog/home-improvement/radiator-hissing/)
+*   [How to Bleed Your Radiator](https://www.homeserve.com/en-us/blog/how-to/bleed-furnace/)
+*   [How Much Does Boiler Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-repair/)
+
+What Factors Affect the Price of a Thermostatic Radiator Valve?
+---------------------------------------------------------------
+
+Let’s look at some of the main factors in cost.
+
+### Brand and Model
+
+There are many brands and models of TRVs available on the market, each with different features, quality and reputation. Some of the most popular and reputable brands include Honeywell, Danfoss and Caleffi.
+
+### Quality and Features
+
+A higher-quality TRV will have better materials, design and performance and will last longer and require less maintenance. It will also have more features, such as a digital display, remote control, timer and sensor. It may also have a smart function that can connect to your smartphone or smart home system. While these features enhance functionality and convenience, they also increase the price.
+
+### Installation
+
+The installation cost varies depending on the type and condition of the existing valve and the radiator’s accessibility. The number of valves to be replaced and the labor rate of the plumber are also factors. It’s prudent to get at least three quotes from different plumbers before making your choice.
+
+### Tax Credits and Rebates
+
+Depending on where you live, you may be eligible for a [tax credit](https://www.dsireusa.org/) or [rebate](https://www.energystar.gov/rebate-finder) for installing TRVs on your radiators. These incentives are offered by some federal, state and local governments — as well as some utility companies — to encourage energy efficiency and conservation.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

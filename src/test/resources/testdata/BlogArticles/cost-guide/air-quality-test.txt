@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does an Air Quality Test Cost?"
+headline: "How Much Does an Air Quality Test Cost?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2024-03-06
+basePath: https://library.homeserve.com/m/
+heroImage: 7f3895f4bb828971/Blog-GettyImages-1384789033.jpg
+heroAltDescription: "IAQ indoor air quality acronym handwritten on sticky notes"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Air quality issues can cause various health issues, from headaches to cancer, so monitoring pollutant levels inside your home is important."
+articleAbstract: "Air quality issues can cause various health issues, from headaches to cancer, so monitoring pollutant levels inside your home is important."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does an Air Quality Test Cost?"
+  parent: HVAC-Cost-Guide
+---
+  If you're anything like the average American, you probably spend up to 90% of your time inside. With so many people spending hours indoors, the [quality of indoor air](https://www.epa.gov/report-environment/indoor-air-quality) matters — yet many people never stop to think about what they inhale inside their homes or workplaces. Poor indoor air quality﻿ is also on the rise, with more synthetic ingredients in everyday products increasing exposure to potentially hazardous pollutants.
+
+**This May Also Interest You:** [**Concerned About Air Quality? Try These 10 Tips**](https://www.homeserve.com/en-us/blog/how-to/indoor-air-quality-tips/)
+
+Air quality issues can cause various health issues, from headaches to cancer, so monitoring pollutant levels inside your home is important.
+
+What Is a Home Air Quality Test?
+--------------------------------
+
+Pollutants can enter your home from the outside, potentially compromising indoor air quality. Furthermore, the materials used to construct your home can sometimes release harmful substances into the air you breathe. While you can't do much on an individual level to change the air quality in your local area, there are things you can do to improve air quality inside your home.
+
+Improving indoor air quality starts with a home air quality test. Air quality testing involves gathering air samples and checking them for specific toxins. Common toxins found in indoor air samples include:
+
+*   Radon
+*   Asbestos
+*   Carbon monoxide
+*   Mold
+*   Formaldehyde
+*   Volatile organic compounds (VOCs)
+
+Many homeowners only check their indoor air quality to confirm a known issue. For instance, you may decide to test for asbestos fibers if you recently completed asbestos remediation. However, some people pay for general air quality testing to uncover unknown risks, even if there's no reason to suspect an air quality problem.
+
+How Much Does a Professional Air Quality Test Cost?
+---------------------------------------------------
+
+How much a professional home air quality test costs depends on what you're testing for. Professional air testers can perform general whole-house checks to identify areas of concern. These tests can detect most common pollutants, such as VOCs and asbestos. Hiring a pro for an [indoor air quality test](https://www.bankrate.com/homeownership/how-to-test-air-quality-in-home/) typically costs around $436 (CAD 587), although prices depend on your home's size and the cost of living in your area.
+
+If tests detect problems with your indoor air quality, you may require a more detailed pollutant-specific test to assess the extent of the issue. The cost of detailed air quality testing depends on the substance. Most homeowners pay around $500 (CAD 676) for an asbestos or radon test and up to $1,000 (CAD 1,352) to test for mold spores.
+
+**More Related Articles:**
+
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Does Your Home Need a Whole-House Humidifier?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-humidifier/)
+
+DIY Solutions for Air Quality Testing
+-------------------------------------
+
+Professional air quality testing is expensive, so it's natural to wonder whether you can test your indoor air yourself. Generally, it's a good idea to hire a professional if you're aware of a local air quality issue, such as high radon levels, or notice visible signs of mold or dampness inside your house.
+
+However, you could consider a DIY solution if your house isn't in a high-risk area and is in good condition. DIY air quality test kits can also be a handy solution if you don't have the budget for professional testing.
+
+Home air quality monitors are an affordable way to monitor your indoor air quality in real time. These handy gadgets can often detect carbon monoxide, radon, VOCs and formaldehyde and alert you to emerging issues. They can also help you determine which activities and appliances impact indoor air quality, allowing you to make healthier choices. Budget-friendly [air quality monitors](https://www.thespruce.com/best-air-quality-monitors-4845803) start from around $70 (CAD 95), although you could pay several hundred dollars for models with smart connectivity and advanced features. Before purchasing a DIY monitor, it's wise to check which substances your model can detect, as well as read reviews.
+
+Carbon monoxide is a colorless, odorless gas that can cause serious health problems and may lead to death. Fortunately, testing your indoor air for carbon monoxide is straightforward and affordable. Many fire alarms can alert you to carbon monoxide, but you can purchase individual [carbon monoxide detectors](https://home.costhelper.com/carbon-monoxide-detectors.html) for around $20 to $50 (CAD 27 to CAD 68).
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

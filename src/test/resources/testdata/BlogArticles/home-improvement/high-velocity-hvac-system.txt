@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is a High-Velocity HVAC System — and How Does It Work?"
+headline: "What Is a High-Velocity HVAC System — and How Does It Work?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-03-17
+basePath: https://library.homeserve.com/m/
+heroImage: 2bd82bb5ac3bdb4a/Blog-HomeServe-High-Velocity-HVAC-System.jpg
+heroAltDescription: "illustration of a high velocity hvac system"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The high-velocity system is the new kid on the HVAC block. These systems offer several improvements on all that have come before."
+articleAbstract: "The high-velocity system is the new kid on the HVAC block. These systems offer several improvements on all that have come before."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is a High-Velocity HVAC System — and How Does It Work?"
+  parent: HVAC-Home-Improvement
+---
+  If you’ve ever walked through your home and found one room feels like a sauna while another feels like an icebox, it might be time to replace your conventional HVAC system with a high-velocity one.
+
+**This May Also Interest You:** [**How Much Does HVAC Maintenance and Repair Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+
+The high-velocity system is the new kid on the HVAC block. These systems offer several improvements on all that have come before.
+
+What Is a High-Velocity HVAC System?
+------------------------------------
+
+High-velocity air conditioning is a modern type of heating, ventilation and air conditioning (HVAC) system. Unlike conventional HVAC, which uses large, rigid ducts and low-pressure air, a high-velocity HVAC system can fit into tight spaces, reduce energy consumption and improve indoor air quality.
+
+It uses a central air handler and a network of small, flexible ducts to distribute cool or warm air in your home. The air handler is a unit containing a fan, a coil and a filter. The fan draws air from the outside or a return duct and passes it through the coil, where it’s either cooled or heated by a refrigerant or a heat pump. The filter removes dust, pollen and other contaminants from the air. The air handler then sends the conditioned air to the ducts, which are about 2 inches in diameter and made of flexible plastic or metal.
+
+The ducts run through the walls, ceilings, floors or crawl spaces of your home and connect to small outlets or vents, which are about 5 inches in diameter and can be round, square or rectangular. The air exits the outlets or vents at a high speed, creating a gentle suction that draws the room air into the air stream. This creates a continuous circulation of air that mixes the conditioned air with the room air, resulting in a uniform, comfortable temperature throughout your home.
+
+How Does a High-Velocity HVAC System Work?
+------------------------------------------
+
+It works by creating a phenomenon called aspiration, which is the process of mixing two streams of air with different temperatures and velocities. As the conditioned air exits the outlets or vents at a high speed, it creates a low-pressure zone around it, which causes the room air to be drawn into the air stream. The room air then mixes with the conditioned air, creating one comfortable temperature.
+
+The system also removes excess humidity from the air, which can make you feel cooler and more comfortable in the summer and prevent mold and mildew growth in your home. To achieve this, it uses a cooling coil that lowers the temperature of the air below its dew point, which is the temperature at which the air can no longer hold water vapor. The excess water vapor then condenses on the coil and drains away, leaving the air dry and cool. It also uses filters to improve air quality by preventing the infiltration of dust, pollen and other pollutants.
+
+**More Related Articles:**
+
+*   [Central Air Installation and Replacement Cost](https://www.homeserve.com/en-us/blog/cost-guide/central-air-installation-cost/)
+*   [What You Need to Know About AC Repair Costs](https://www.homeserve.com/en-us/blog/cost-guide/ac-repair-costs/)
+*   [How Much Do UV Lights Cost for HVAC Systems?](https://www.homeserve.com/en-us/blog/cost-guide/uv-lights-hvac/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Do You Need a Zoned HVAC System?](https://www.homeserve.com/en-us/blog/home-improvement/zoned-hvac-system/)
+
+What Types of Systems Are Currently on the Market?
+--------------------------------------------------
+
+There are several types currently on the market. Below are three popular types, all of which use either a conventional air conditioner or heat pump or a hydronic coil that connects to a boiler or water heater.
+
+### The Unico System
+
+This is one of the most popular and widely used high-velocity HVAC systems in the world. It’s designed to fit into any space, regardless of the age, size or style of your home. The Unico System uses a modular air handler that can be installed in an attic, basement, closet or crawl space and a series of small, flexible ducts that can run through any existing cavities in your home. It uses a sound attenuator and a plenum, which are devices that reduce the noise and vibration of the air handler and the ducts.
+
+### The SpacePak System
+
+The SpacePak System uses a cylindrical air handler that can be installed horizontally or vertically. Its ducts are also small and flexible, but unlike the Unico system, they're insulated and wrapped with a vapor barrier. It employs sound attenuation and a plenum but cleverly integrates them within the air handler for a streamlined look.
+
+### The Hi-Velocity System
+
+The Hi-Velocity System uses a smart air handler that adjusts its speed and output according to demand and the conditions of your home. Its series of ducts are the smallest of all — about 1 inch in diameter — and made of durable polyester. A sound attenuator and a plenum are also present in this system, but they're smaller and more compact than the other systems.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

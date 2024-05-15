@@ -1,0 +1,55 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Switch to an Electric Dryer?"
+headline: "How Much Does It Cost to Switch to an Electric Dryer?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-02-12
+basePath: https://library.homeserve.com/m/
+heroImage: 47cb1de9b94be5db/Blog-GettyImages-504308520.jpg
+heroAltDescription: "Series- Real installation of washer and dryer in laundry room"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Thinking of converting from a gas to an electric dryer? Discover the process and the costs and benefits for your home and wallet."
+articleAbstract: "If you love the smell of fresh laundry but hate paying high gas bills or you’re worried about the safety of gas appliances, maybe it’s time to switch to an electric dryer. Here's what to know about costs."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Switch to an Electric Dryer?"
+  parent: Appliances-Cost-Guide
+---
+  If you love the smell of fresh laundry but hate paying high gas bills or you’re worried about the safety of gas appliances, maybe it’s time to switch to an electric dryer.
+
+**This May Also Interest You:** [**5 Reasons to Switch to an Electric Dryer**](https://www.homeserve.com/en-us/blog/home-improvement/reasons-to-switch-to-electric-dryer/)
+
+Whatever your reason, converting from a gas dryer to an electric one can be a smart move for your home and your wallet.
+
+What Is the Process of Switching From a Gas Dryer to an Electric One?
+---------------------------------------------------------------------
+
+The first thing you need to do is check if you have an electric hookup in your laundry room. Most electric dryers need a 240-volt outlet, which is different from the standard 120-volt outlets in most homes. If you don't have an electric hookup, you’ll need to hire an electrician to install one for you.
+
+The next thing you need to do is disconnect your gas dryer and remove it from your home. You’ll need to turn off the gas valve and unplug the dryer from the wall. Then, detach the gas line and the exhaust vent from the dryer. Finally, you’ll need to seal the gas line. As you’ve probably guessed, these jobs are best left to professionals. You can either sell, donate or recycle your old gas dryer, depending on its condition and age.
+
+The final thing you need to do is buy and install your new electric dryer. Choose a model that fits your space, budget and needs. Additionally, you'll need to plug the dryer into the 240-volt outlet and attach the exhaust vent. You can either do this yourself, if you’re confident in your abilities, or hire a professional to do it for you.
+
+**More Related Articles:**
+
+*   [Here’s Why Your Clothes Dyer Is Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/dryer-making-noise/)
+*   [How Much Does a Clothes Dryer Cost?](https://www.homeserve.com/en-us/blog/cost-guide/clothes-dryer/)
+*   [Need to Vent? Here’s How to Install a Dryer Vent](https://www.homeserve.com/en-us/blog/how-to/install-dryer-vent/)
+*   [How Much Does It Cost to Install a Dryer Vent?](https://www.homeserve.com/en-us/blog/cost-guide/dryer-vent-installation/)
+*   [Here’s How to Change the Direction the Door Swings on Your Washer and Dryer](https://www.homeserve.com/en-us/blog/how-to/reverse-washer-dryer-door/)
+
+How Much Does It Cost to Switch From a Gas Dryer to an Electric One?
+--------------------------------------------------------------------
+
+The total cost of switching from a gas dryer to an electric one depends on several factors, such as the price of the electric dryer, the cost of the outlet installation, the cost of the gas dryer removal and the cost of the electric dryer installation. Here’s a breakdown of the average costs for each component:
+
+* **Electric dryer:** According to data from [Fixr](https://www.fixr.com/costs/dryer-installation), a new dryer will cost between $500 and $2,100 (CAD 600 and CAD 2,812), depending on the brand, size, features and energy efficiency. You can save money by looking for discounts, rebates or sales or by buying a used or refurbished model.
+* **Outlet installation:** [HomeGuide](https://homeguide.com/costs/cost-to-install-a-220v-or-240v-outlet) says you should expect to pay between $250 and $800 (CAD 335 and CAD 1,071), depending on the electrician's rate, the wiring complexity and the outlet location. You can save money by comparing quotes from different electricians or by doing it yourself if you have the skills and tools. Warning: If you do decide to install the outlet yourself, take all safety precautions to protect yourself and your home.
+* **Gas dryer removal:** Budget for around $50 to $100 (CAD 67 to CAD 134), depending on how you dispose of your old gas dryer, according to [Forbes](https://www.forbes.com/home-improvement/plumbing/gas-dryer-hook-up-cost/). You can save money by selling, donating or recycling your old gas dryer or by hauling it away yourself.
+* **Electric dryer installation:** Depending on the installer's rate and the installation difficulty, you can expect to pay in the region of [$50 to $200](https://www.fixr.com/costs/dryer-installation) (CAD 67 to CAD 268). You can save money by installing the dryer yourself or by negotiating a lower price with the installer.
+
+The total cost of switching from a gas dryer to an electric one can range from $850 to $3,200 (CAD 1,138 to CAD 4,284). This is a one-time-only expense, and you could recoup some of it in the long run through lower energy bills. Electric dryers are generally cheaper to operate than gas dryers, especially if you have a high-efficiency model that uses less electricity. The exact savings will depend on your electricity and gas rates, your usage frequency and your dryer settings.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/E7N374KASqs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Eco-friendly laundry hack!"></iframe>

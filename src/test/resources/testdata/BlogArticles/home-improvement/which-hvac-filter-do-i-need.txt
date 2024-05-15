@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Do I Know Which HVAC Filter I Need?"
+headline: "How Do I Know Which HVAC Filter I Need?"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2024-02-25
+basePath: https://library.homeserve.com/m/
+heroImage: 19d1eee24f331f1e/Blog-GettyImages-1452014453.jpg
+heroAltDescription: "Replacing dirty furnace filter in home"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "What HVAC filter do you need? You’re going to want to know — and write down — the type of filter you need for your HVAC system."
+articleAbstract: "What HVAC filter do you need? You’re going to want to know — and write down — the type of filter you need for your HVAC system."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Do I Know Which HVAC Filter I Need?"
+  parent: HVAC-Home-Improvement
+---
+  If this is your first time owning a home, chances are it’s your first time changing an HVAC filter as well. Or, maybe you’ve moved to a new home with a different system than you had before. In either case, you’re going to want to know — and write down — the type of filter you need for your HVAC system.
+
+**This May Also Interest You:** [**Is an Air Filter Subscription Service Worth the Cost?**](https://www.homeserve.com/en-us/blog/home-improvement/air-filter-subscription/)
+
+What Are the Different Types of HVAC Filters?
+---------------------------------------------
+
+Before you head to the hardware store, it can be helpful to know what different types of filters are available. Filters come in various materials and types, including:
+
+* **Spun glass/fiberglass:** These flat filters are affordable but aren't efficient at filtering smaller particles.
+* **Pleated:** Another affordable option, these filters use pleats or folds to create more surface area, helping them capture more particles.
+* **Electrostatic:** Cotton and paper fibers, along with static electricity, help attract contaminants.
+* **Washable:** Some filters are washable and reusable to reduce waste, but they're usually less efficient than disposable versions.
+* **HEPA:** The most efficient option, HEPA filters, remove up to 99.97% of particles in the air, but they're more expensive.
+
+What Is a MERV Rating?
+----------------------
+
+MERV, or the minimum efficiency reporting value, assigns a rating to how well a filter removes particles on a scale from 1 to 16. The higher the number, the better a product filters. Understanding MERV ratings can help you figure out what HVAC filter you need.
+
+The numbers aren't assigned arbitrarily. They're based on how efficient the filter is at filtering particles of a particular size. For instance, a [filter with a MERV rating](https://www.epa.gov/indoor-air-quality-iaq/what-merv-rating) of 1 to 4 filters particles of 3.0 to 10.0 microns at an efficiency rate of less than 20%. Meanwhile, a filter with a MERV rating of 16 filters particles from 0.30 to 10.0 microns at an efficiency greater than or equal to 95%.
+
+It would make sense, then, to always choose a filter with a MERV rating of 16. However, that's not always the best choice. To remove particles that small at that rate, the filter is tightly woven. That means it takes more effort for the system to push air through the filter. If your system can't handle the higher MERV rating, the filter could restrict airflow and make the equipment work harder, which uses more energy and can increase wear on your system. ASHRAE recommends a [MERV 13 or higher filter](https://www.ashrae.org/technical-resources/filtration-and-disinfection-faq) if your system can handle it.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Replace an HVAC System?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-system-replacement-cost/)
+*   [Do You Need a Zoned HVAC System?](https://www.homeserve.com/en-us/blog/home-improvement/zoned-hvac-system/)
+*   [As the Seasons Change, So Should the Direction of Your Ceiling Fan](https://www.homeserve.com/en-us/blog/home-improvement/ceiling-fan-direction/)
+*   [Does Your Home Need a Whole-House Humidifier?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-humidifier/)
+*   [When Should I Get My HVAC Tune-Up?](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+How Are HVAC Filters Sized?
+---------------------------
+
+Getting the correct air filter size is essential for efficient operation. If the filter is too large, it won't fit into the slot in your HVAC system. Buy a filter that's too small and it won't catch all the debris, since it won't cover the entire area.
+
+When asking yourself, "What size HVAC filter do I need?" pay attention to length and width as well as thickness. You'll see the size written as "20x25x1" or a similar measurement to show the width, height and thickness in inches.
+
+Standard filters are 1 or 2 inches thick, but you can find thicker options that are 3 to 6 inches deep. Not all HVAC systems can handle the thicker filters.
+
+How Do I Know What Type of HVAC Filter I Need for My System?
+------------------------------------------------------------
+
+Start by determining the correct air filter size. Look along the frame of your current air filter for a measurement designation or measure it to determine what size HVAC filter you need. You can also check the manual. Then, consider the MERV rating. If anyone in the home has allergies, a higher MERV rating or a HEPA filter can help remove allergens more effectively.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Top 3 Most Frequently Repaired Water Heater Parts"
+headline: "Top 3 Most Frequently Repaired Water Heater Parts"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-02-14
+basePath: https://library.homeserve.com/m/
+heroImage: 6be386263c005761/Blog-GettyImages-163520892.jpg
+heroAltDescription: "Man shines flashlight on hot water heater"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Dealing with a bad water heater? Here are the three most likely causes of the breakdown."
+articleAbstract: "Dealing with a leaky faucet might be a minor inconvenience, but with water heaters, the stakes are higher — in terms of comfort and cost. Here are the top three things that could go wrong."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Top 3 Most Frequently Repaired Water Heater Parts"
+  parent: Plumbing-Home-Improvement
+---
+  Dealing with a leaky faucet might be a minor inconvenience, but with water heaters, the stakes are higher — in terms of comfort and cost.
+
+**This May Also Interest You:** [**5 Tell-Tale Signs Your Water Heater Isn’t Doing So Hot**](https://www.homeserve.com/en-us/blog/home-improvement/water-heater-warnings-signs/)
+
+Imagine your morning shower turning unexpectedly cold or your utility bill skyrocketing because your water heater has a fault you didn’t know about.
+
+Most Frequently Repaired Water Heater Parts
+-------------------------------------------
+
+Water heater repair and replacement costs vary greatly. The tank option ranges from $150 to $700 (CAD 204 to CAD 952), according to [HomeGuide](https://homeguide.com/costs/water-heater-repair-cost#:~:text=Tips%20for%20hiring-,Hot%20water%20heater%20repair%20cost,-Hot%20water%20heater), and the tankless type from $300 to $1,300 (CAD 408 to CAD 1767). Let's look at the specific costs for the three most common water heater repair parts.
+
+### 1\. Heating Element
+
+The purpose of the heating element is to heat water efficiently. It’s typically constructed from noncorrosive materials, such as stainless steel and copper. It converts electrical energy into heat so the home has a regular hot water supply. However, it's not immune to faults.
+
+Here are some of the most common issues:
+
+*   Minerals in the water settle at the bottom of the tank, which reduces the appliance’s heating efficiency and can increase your energy costs as it consumes more energy to generate heat.
+*   Exposure to corrosive elements in the water, most commonly found in areas with hard water, can weaken the element and cause it to fail.
+*   Overheating due to an electrical issue or insufficient water levels in the tank can result in a complete loss of heating capacity.
+
+#### Price to Repair or Replace
+
+According to [HomeGuide](https://homeguide.com/costs/water-heater-repair-cost#:~:text=Heating%20element%20replacement), replacing a faulty heating element costs between $100 and $350 (CAD 136 and CAD 476).
+
+#### Maintenance Tips
+
+Periodically drain the tank to remove sediment buildup caused by minerals in the water (you’ll need to do this more frequently if you live in an area with hard water). Ideally, install a water softener to reduce the mineral content. Setting the water heater to a moderate temperature can help avoid putting excessive strain on the heating element.
+
+**More Related Articles:**
+
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)
+*   [How to Install a Tankless Electric Water Heater: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-tankless-electric-water-heater/)
+*   [How Much Does It Cost For a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+
+### 2\. Anode Rod
+
+An anode rod is a sacrificial metal rod, typically made of magnesium or aluminum, that’s embedded inside the water heater's tank. Its purpose is to be a sacrificial target for corrosion, preventing the tank from being damaged by minerals in the water. It becomes conductive when the water is heated, attracting corrosive minerals. Over time, the harsh water conditions gradually corrode the anode rod, reducing its ability to protect the tank. At some point, the anode rod will be fully consumed by minerals, and if it’s not replaced, the tank will begin to rust.
+
+#### Price to Repair or Replace
+
+Most anode rods should be replaced every two to five years, but you might need to do this more often if the water in your home has a high mineral content. The replacement cost is likely to be between [$150 and $350](https://homeguide.com/costs/water-heater-repair-cost#:~:text=cost%20to%20repair-,Anode%20rod%20replacement,-$150%20%E2%80%93%20$350) (CAD 204 and CAD 476).
+
+#### Maintenance Tips
+
+Set the water temperature to moderate to lessen the corrosive impact on the anode rod. Also, consider installing a water softener to reduce the mineral content. If you feel comfortable checking the rod, turn off the power source and the water supply, and always wear gloves and eye protection. Look to see if it's less than half an inch thick or shows obvious signs of corrosion.
+
+### 3\. Thermostat
+
+A water heater thermostat’s purpose is to maintain the desired water temperature in the tank. There are two main types: high-level thermostats and dual-stage thermostats. The former prevents water from reaching a predetermined maximum temperature, usually shutting off at 140 degrees Fahrenheit (60 degrees Celsius). The latter uses two elements; the first keeps water consistently at the lower temperature, and the second quickly increases the temperature when requested.
+
+Some common causes of faults include:
+
+*   An accidental adjustment or wear and tear, which can result in incorrect temperature settings and an increased risk of discomfort or scalding
+*   An older thermostat or one with an electrical malfunction giving an inaccurate temperature reading, increasing the risk of scalding
+*   A thermostat’s accuracy drifting over time
+
+#### Price to Repair or Replace
+
+There are many thermostats on the market, so costs can vary widely. However, you should expect to pay between $150 and $350 (CAD 204 and CAD 476), according to [HomeGuide](https://homeguide.com/costs/water-heater-repair-cost#:~:text=$100%20%E2%80%93%20$325-,Thermostat%20replacement,-$100%20%E2%80%93%20$350).
+
+#### Maintenance Tips
+
+Have the thermostat checked and calibrated by a qualified plumber every few years to ensure it's operating correctly. Regularly clean the thermostat housing and surrounding area to help prevent debris or corrosion from interfering with its operation. If you notice any unusual behavior from the thermostat, such as frequent cycling or not maintaining the desired temperature, consult a plumber for diagnosis.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

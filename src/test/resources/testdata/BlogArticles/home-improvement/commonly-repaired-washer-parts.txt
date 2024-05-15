@@ -1,0 +1,131 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Top 3 Most Frequently Repaired Washing Machine Parts"
+headline: "Top 3 Most Frequently Repaired Washing Machine Parts"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-02-16
+basePath: https://library.homeserve.com/m/
+heroImage: 7dca55c084303fe/Blog-IMG_3763_WashingMachine4_LL.jpg
+heroAltDescription: "view inside of a white washing machine with the door open"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The good news is that many washing machine malfunctions stem from a handful of common culprits, so identifying the rogue part is often easy."
+articleAbstract: "The good news is that many washing machine malfunctions stem from a handful of common culprits, so identifying the rogue part is often easy."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Top 3 Most Frequently Repaired Washing Machine Parts"
+  parent: Appliances
+---
+  The soothing hum of a well-functioning washing machine is a comforting melody of domestic life. That is, until it throws a laundry-day curveball, leaving you with a growing pile of unwashed clothes.
+
+**This May Also Interest You:** [**Avoid a Malfunction With These 9 Washing Machine Maintenance Tasks**](https://www.homeserve.com/en-us/blog/how-to/washing-machine-maintenance/)
+
+The good news is that many malfunctions stem from a handful of common culprits, so identifying the rogue part is often easy.
+
+Most Commonly Repaired Parts on a Washing Machine
+-------------------------------------------------
+
+A typical washer is composed of gears, valves and circuits that normally work harmoniously to clean fabrics efficiently and effectively. But if one of these components malfunctions, it can disrupt the entire cycle.
+
+Multiple factors determine your costs, including where you live, but you can expect to pay in the region of $50 to $125 (CAD 68 to CAD 170) per hour for repairs, according to [HomeGuide](https://homeguide.com/costs/washing-machine-repair-cost). Let’s look at the three parts that most frequently need fixing.
+
+### 1\. Water Inlet Valve
+
+The water inlet valve controls the flow of water into the machine. It's connected to the water supply hoses and the pressure switch, which senses the water level in the drum.
+
+A faulty valve can cause problems such as:
+
+*   No water or insufficient water entering the drum
+*   Water leaking from the valve or the hoses
+*   The temperature of the water being too hot or cold
+*   Water overflowing or not filling to the desired level
+*   Loud or humming noises from the valve
+
+It can malfunction due to various reasons, such as:
+
+*   Clogging by mineral deposits, dirt or debris
+*   Wear and tear
+*   Damage by corrosion, leaks or cracks
+*   Faulty wiring or connections
+
+#### Price to Repair or Replace
+
+Washing machine repairs involving a water inlet valve typically cost between [$100 and $300](https://homeguide.com/costs/washing-machine-repair-cost#:~:text=$100%20%E2%80%93%20$200-,Water%20inlet%20valve,-$100%20%E2%80%93%20$300) (CAD 136 and CAD 408), depending on your make and model.
+
+#### Maintenance Tips
+
+*   Regularly remove any dirt, debris or mineral deposits from the valve and hoses.
+*   Check for signs of damage, such as corrosion, leaks or cracks.
+*   Ensure the water pressure is adequate for your washing machine.
+*   Use the correct type and amount of detergent for your machine and avoid overloading it.
+*   Follow the manufacturer's instructions for operating and caring for your machine.
+
+**More Related Articles:**
+
+*   [When’s the Last Time You Replaced Your Appliances’ Hoses? Here’s How to Change All of Them](https://www.homeserve.com/en-us/blog/how-to/replace-appliance-hoses/)
+*   [How to Clean a Washing Machine Drain](https://www.homeserve.com/en-us/blog/how-to/clean-washing-machine-drain/)
+*   [Here’s How to Change the Direction the Door Swings on Your Washer and Dryer](https://www.homeserve.com/en-us/blog/how-to/reverse-washer-dryer-door/)
+*   [How to Move Your Washing Machine](https://www.homeserve.com/en-us/blog/how-to/move-washing-machine/)
+*   [Should You Repair or Replace Your Washing Machine?](https://www.homeserve.com/en-us/blog/home-improvement/washing-machine-repair-replacement/)
+
+### 2\. Drain Pump
+
+A drain pump drains the wastewater away. It has an impeller that rotates and creates suction to pull the water out of the drum and through the hose.
+
+Some common symptoms of a faulty or blocked drain pump include:
+
+*   The water in the drum not draining or draining slowly
+*   The washing machine stopping mid-cycle with water still in the drum
+*   The drum not spinning or spinning slowly
+*   The machine making strange noises during the wash or drain cycle
+
+Some possible causes are:
+
+*   A foreign object, such as a coin, hairpin or pen, caught in the filter or the pump
+*   The filter or the pump being clogged with debris, food or detergent residue
+*   The impeller of the pump being damaged or broken
+*   The drain hose becoming kinked, blocked or frozen
+
+#### Price to Repair or Replace
+
+[HomeGuide](https://homeguide.com/costs/washing-machine-repair-cost#:~:text=$100%20%E2%80%93%20$250-,Pump,-$150%20%E2%80%93%20$350) says washer repairs involving a drain pump can cost between $150 and $350 (CAD 204 and CAD 476). If the hose needs replacing, budget for between [$100 and $200](https://homeguide.com/costs/washing-machine-repair-cost#:~:text=%24300%20%E2%80%93%20%24700-,Drain%20hose,-%24100%20%E2%80%93%20%24200) (CAD 136 and CAD 272).
+
+#### Maintenance Tips
+
+*   Check and clean the filter at least once a month to remove any foreign objects or debris.
+*   Wash the filter and the pump with soapy water and wipe out the cavity where they sit.
+*   Avoid overloading the machine or using too much detergent or fabric softener.
+*   Check and straighten the drain hose and make sure it doesn't freeze in cold weather.
+
+### 3\. Control Board
+
+The control board lets you select and start different wash cycles, programs and functions. It usually consists of a display, buttons, knobs or dials. It's connected to the main circuit board, which controls the machine’s various components, such as the water valves, drain pump, heating element and the motor.
+
+Some common problems with control boards include:
+
+*   The display being blank or dim
+*   The buttons, knobs or dials being stuck or broken
+*   The timer registering inaccurately or not advancing
+*   The machine not responding to the selected settings
+*   The machine stopping mid-cycle or not starting
+
+Some possible causes are:
+
+*   Loose or faulty wiring
+*   A defective circuit board
+*   A power surge
+*   Water damage or general wear and tear
+
+#### Price to Repair or Replace
+
+Washer repair parts vary greatly between manufacturers, particularly control boards. Therefore, expect to pay in the region of [$350 to $550](https://homeguide.com/costs/washing-machine-repair-cost#:~:text=$100%20%E2%80%93%20$300-,Control%20board,-$350%20%E2%80%93%20$550) (CAD 476 to CAD 747).
+
+#### Maintenance Tips
+
+*   Clean the control board regularly with a soft cloth and mild detergent (don’t use abrasive cleaners or spray water directly on it).
+*   Avoid overloading the machine or using too much detergent.
+*   Use a surge protector to protect your machine from power fluctuations or outages.
+*   Follow the manufacturer's instructions for using and caring for your machine.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/E7N374KASqs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Eco-friendly laundry hack!"></iframe>

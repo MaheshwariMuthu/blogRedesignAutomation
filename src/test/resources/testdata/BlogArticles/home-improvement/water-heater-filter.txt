@@ -1,0 +1,57 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Does My Water Heater Have a Filter?"
+headline: "Does My Water Heater Have a Filter?"
+author: Elizabeth Michael
+tags: ["post"]
+publishDate: 2024-03-21
+basePath: https://library.homeserve.com/m/
+heroImage: 43bdc317d2cd0b95/Blog-GettyImages-872062242.jpg
+heroAltDescription: "blue water heater whole house filters"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If your water heater lacks a filtering system, you may want to contact a professional plumber to assist with filter installation."
+articleAbstract: "If your water heater lacks a filtering system, you may want to contact a professional plumber to assist with filter installation. This is what to know about water heater filtration."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Does My Water Heater Have a Filter?"
+  parent: Plumbing-Home-Improvement
+---
+  Nothing wakes you up faster than hopping in the shower and being hit by a rush of cold or lukewarm water instead of something warm and soothing. While water heaters can malfunction for many reasons, this is often due to a dirty air filter or sediment and limescale buildup that hinders your water heater's operation.
+
+**This May Also Interest You:** [**What’s the Difference Between Tank and Tankless Water Heaters?**](https://www.homeserve.com/en-us/blog/home-improvement/tank-vs-tankless-water-heater/)
+
+Most tanked and traditional water heaters have [built-in air and water line filters](https://jblantonplumbing.com/dont-skip-these-important-maintenance-tasks-for-tankless-water-heaters/) that filter out dirt and dust and prevent limescale buildup from reaching the tanks or reservoirs. However, some models don't have these features. If your water heater lacks a filtering system, you may want to contact a professional plumber to assist with filter installation.
+
+What Is a Water Heater Filter?
+------------------------------
+
+Air filters and water line filters are the two types of filters built into most tankless and traditional water heater models. [Air intake filters](https://www.whirlpoolwaterheaters.com/support/help/) protect the gas lines from dust, lint and other types of debris, while water line filters prevent sediment from entering the tank or tankless reservoir and forming limescale.
+
+When limescale builds up on the interior walls of a water heater, it can hinder operation and damage the heater itself. Heavy sediment that piles up in the bottom of the tank or reservoir can enter your plumbing system and cause cloudy or rust-colored water and reduced water pressure. Limescale on the water heater's interior walls can eventually lead to corrosion, and you may have to replace the entire unit. When maintained and cleaned on a regular basis, water heater filters can help extend the life of your system, improve water quality and ensure your water runs hot when you need it the most.
+
+Where Is a Water Heater Filter Located?
+---------------------------------------
+
+The location of your water heater filter (or filters) depends on whether you have a tankless or traditional model. Exact filter locations may also vary based on your water heater's make, model or brand. Here's a rundown of typical water heater filter locations.
+
+### Tankless Water Heaters
+
+Water line filters on tankless models ﻿are typically side-mounted between the heater's flush valves or on the center of the unit's exterior. Air intake filters on tankless units are usually found directly beneath the faceplate in a top corner of the unit. The faceplate must be removed to access the air intake filter.
+
+### Traditional Water Heaters
+
+On traditional water heaters, sediment/water line filters are usually found near the bottom of the water heater in close proximity to the inlet valve. Air intake filters are also generally located at the bottom of the water heater tank in front of the flame arrestor, a small metal screen that prevents flame ignition.
+
+**More Related Articles:**
+
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)
+*   [How to Install a Tankless Electric Water Heater: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-tankless-electric-water-heater/)
+*   [How Much Does It Cost For a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+
+Does My Water Heater Need a Filter?
+-----------------------------------
+
+If your water heater doesn't already have a water line or air intake filter, it may be a good idea to install one or the other (or both), especially if your home has hard water. Over time, sediment buildup and limescale can cause serious damage to your water heater, resulting in more frequent repairs and a shorter overall life span. Filters help keep unwanted debris out of the tank or tankless unit reservoir, allowing for optimal water heater efficiency. If you're unsure about installing a water heater filter, a licensed plumber can offer professional advice and help determine the best solutions to meet your needs.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

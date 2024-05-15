@@ -161,11 +161,17 @@ public class commonFunctions {
 			String[] temp = dummy[1].split("\n");
 			String[] data = null;
 			String title = "", value = "";
+			String[] imgTemp = null;
 			//FOr Reading basic details and store it in hashmap
 			for(int i=1; i<temp.length; i++) {
 				data = temp[i].split(":");
 				title = data[0];
 				System.out.println("title:"+title);
+				if(title.equals("heroImage")) {
+					imgTemp = value.split("Getty");
+					value = "Getty"+ imgTemp[1].replaceAll(".jpg", "");
+					System.out.println("Image src"+value);
+				}
 				if(!title.equals("eleventyNavigation")) {
 					value = data[1].replaceAll("\"", "");
 					if(title.equals("headline")) {
@@ -396,6 +402,7 @@ public class commonFunctions {
 			String spl3 = "\\";
 			String spl1 = "**";
 			String spl5 = "*";
+			String[] imgTemp = null;
 			int tempNum = 0;
 			//FOr Reading basic details and store it in hashmap
 			for(int i=1; i<temp.length; i++) {
@@ -413,6 +420,13 @@ public class commonFunctions {
 							value = value.replaceAll("﻿﻿﻿\u200B", "");
 							value = value.replaceAll("\u00A0", " ");						
 						}
+						System.out.println("title:"+title);
+						if(title.equals("heroImage")) {
+							imgTemp = value.split("/");
+							value = imgTemp[1].replaceAll(".jpg", "").replaceAll("Blog-", "");
+							System.out.println("Image src"+value);
+						}
+						
 						articleContent.put(title, value.trim());
 					}
 				}

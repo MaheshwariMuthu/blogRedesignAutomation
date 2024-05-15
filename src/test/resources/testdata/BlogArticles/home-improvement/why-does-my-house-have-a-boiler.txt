@@ -1,0 +1,79 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Does My House Have a Boiler Instead of a Furnace?"
+headline: "Why Does My House Have a Boiler Instead of a Furnace?"
+author: Michael Franco
+tags: ["post"]
+publishDate: 2024-03-27
+basePath: https://library.homeserve.com/m/
+heroImage: 7d3a6016f8eba538/Blog-GettyImages-1320642166.jpg
+heroAltDescription: "Woman setting temperature program on electric boiler"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Does your home have a boiler or furnace? Here's how to determine which system you have."
+articleAbstract: "Boilers and furnaces are the heating systems most commonly found in homes. Here’s how to determine which you have and why you might have one over the other."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Does My House Have a Boiler Instead of a Furnace?"
+  parent: HVAC-Home-Improvement
+---
+  Understanding your home's heating system is crucial for maintenance, energy efficiency, and comfort during the colder months. Two primary systems are prevalent in homes: boilers and furnaces.
+
+**This May Also Interest You:** [**The Do’s and Don’ts of HVAC Maintenance**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+
+Here’s how to determine which type of system is heating your home.
+
+Identifying Your Heating System: Boiler or Furnace?
+---------------------------------------------------
+
+### Boiler Systems
+
+Boilers heat water, providing either steam or hot water for heating. Steam is distributed via pipes to steam radiators, while hot water can be circulated to baseboard radiators or radiant floor systems. Boilers operate quietly and often provide comfortable, high-quality heat.
+
+#### To Identify a Boiler:
+
+* **Look for a large metal tank or container:** Typically located in the basement, this tank heats water or creates steam.
+* **Check for pipes:** Unlike furnaces, boilers distribute heat through pipes that lead to radiators or heating panels in rooms.
+* **No ducts:** Boilers do not use ductwork to move heat throughout the house.
+
+### Furnace Systems
+
+Furnaces generate heat by burning fuel (natural gas, propane or oil) or using electricity, and distribute this heat as warm air through a network of ducts. This process is known as forced-air heating because a blower forces the heated air through the ductwork. Furnaces can quickly heat a room and often include filters to clean the air.
+
+#### To Identify a Furnace:
+
+* **Search for a unit that connects to ducts:** This is usually a large metal box, often found in the attic, basement, or a dedicated closet.
+* **Look for vents:** Warm air is delivered to different rooms through vents in the floor, walls, or ceilings.
+* **Observe the heating process:** If you notice air blowing out of vents when the heat is on, you likely have a furnace.
+
+**More Related Articles:**
+
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [Replacing Your HVAC Air Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Is an HVAC Tune-up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+
+Why Might Your House Have a Boiler Instead of a Furnace?
+--------------------------------------------------------
+
+### Hydronic Heat
+
+If your home is equipped with either standard or baseboard radiators or has radiant floor heating, it's a clear indicator of having a boiler system. These methods distribute heat more evenly and can be more comfortable than the forced air from a furnace.
+
+### Fuel Source and Energy Efficiency
+
+The choice between a boiler and a furnace can also depend on the available fuel sources. Natural gas is common for both, but boilers can efficiently operate on oil, electricity or even renewable energy sources. Modern boilers can be highly energy efficient, converting most of the fuel to direct heat, with some high-efficiency models achieving 90% efficiency rates or higher.
+
+### Heating Preferences and Home Design
+
+Some homeowners prefer boilers due to the type of heat they provide. Boilers tend to deliver a more consistent heat without the drafts associated with forced air systems. The decision might also be influenced by the home’s design. Older homes with existing radiator systems might naturally opt for a boiler, whereas newer constructions might lean towards forced air furnaces for their ability to also support central air conditioning systems.
+
+### Regional Climate and Heating Needs
+
+In areas with harsh winters, the choice of a heating system can be crucial. Boilers can offer superior warmth and comfort in cold climates due to their efficient heat distribution methods. In contrast, furnaces might be favored in regions with milder winters or where the heating demand is lower, partly because they can easily switch between heating and cooling.
+
+Evaluate Your Heating Needs
+---------------------------
+
+Ultimately, whether a boiler or a furnace is best for your home depends on a comprehensive evaluation of your current and future heating needs, your home's layout and insulation, local climate conditions and your personal preferences for comfort and air quality. Consulting with heating professionals can provide valuable insights into the most cost-effective, efficient and comfortable options for your home.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

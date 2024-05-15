@@ -1,0 +1,73 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Move?"
+headline: "How Much Does It Cost to Move?"
+author: Team HomeServe
+tags: ["post"]
+publishDate: 2024-02-29
+basePath: https://library.homeserve.com/m/
+heroImage: 1345c49ebc266ba7/Blog-GettyImages-1158769814.jpg
+heroAltDescription: "Happy New Homeowner Welcomes Professional Mover with Hand Truck full of Cardboard Boxes"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Many factors affect the cost of moving. Read on to get an idea of how much it’ll cost to move."
+articleAbstract: "Many factors affect the cost of moving. Read on to get an idea of how much it’ll cost to move."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Move?"
+  parent: Interior-Cost-Guide
+---
+  Moving can be one of the more stressful events in life. It involves uprooting your family and belongings and landing in a new location that might be across town or on the other side of the country — not to mention the potentially high costs involved.
+
+**This May Also Interest You:** [**Moving? Renovating? Here’s Everything You Need to Know About Short-Term Storage Costs**](https://www.homeserve.com/en-us/blog/home-improvement/short-term-storage/)
+
+Many factors affect the cost of moving, including the size of your home, the number of items being moved, the distance you’re moving and whether you hire a professional moving company. By taking these factors into account, you can pick the lowest-stress option that still keeps you within your budget. Read on to get an idea of how much it’ll cost to move.
+
+How Much Does It Cost to Move a Three-Bedroom House?
+----------------------------------------------------
+
+According to [Consumer Affairs](https://www.consumeraffairs.com/movers/how-much-do-movers-cost.html), the average cost to move a three-bedroom house is between $600 and $1,000 (CAD 820 and CAD 1,367). This price is for a local move using professional movers. Moving costs vary based on how much you’re moving and how far you’re going. The more items you need to move, the more it will cost. The cost is also dependent on the size of your home. A one-bedroom residence typically has fewer items than a three-bedroom home, so the cost of the move would be much lower — more like $240 to $500 (CAD 328 to CAD 683).
+
+Long-distance moving costs are naturally higher. If you're moving more than 100 miles from your current location, the cost creeps up to around $5,000 (CAD 6,835). Longer moves, like a cross-country move, could send the cost up to as much as $10,000 (CAD 13,669). Simply put, the farther you move, the more it will cost.
+
+How Much Does It Typically Cost to Hire Movers?
+-----------------------------------------------
+
+For a local move, movers generally charge an hourly rate between $80 and $100 (CAD 109 and CAD 137) for a team of two. Larger teams will cost more per hour, but they'll also get the work done faster. That means fewer hours of work, so costs may equal out.
+
+For long-distance moves, moving companies typically charge a flat rate based on the distance of the move. The greater the distance, the higher the price.
+
+Also, consider how many items you have to move and the weight involved. Fewer and lighter items can be moved quicker, resulting in less moving time and cost. Conversely, heavier items like refrigerators and washing machines take longer for teams to move, which in turn costs you more money.
+
+**More Related Articles:**
+
+*   [Key Cost Factors: What’s the Price to Move a Piano?](https://www.homeserve.com/en-us/blog/cost-guide/piano-moving/)
+*   [A Chord-inated Effort: How to Move a Piano](https://www.homeserve.com/en-us/blog/how-to/move-piano/)
+*   [Watch What You’re Doing! How to Move Your Flatscreen TV Damage-Free](https://www.homeserve.com/en-us/blog/how-to/move-tv/)
+*   [How to Move Your Washing Machine](https://www.homeserve.com/en-us/blog/how-to/move-washing-machine/)
+*   [We Gotta Move These Refrigerators: A Step-by-Step Guide to Moving Your Fridge](https://www.homeserve.com/en-us/blog/how-to/move-refrigerator/)
+
+Is It Worth It to Hire Movers?
+------------------------------
+
+Hiring a moving company costs more money than doing it yourself, but it can also save you time and stress. No need to figure out how to get a large bed down a flight of stairs or safely move your 300-pound refrigerator. That alone may make it worth the expense for many families, especially if there are limitations on physical activity or how much time can be spent moving.
+
+How Much Does It Cost to Move If I Don’t Hire Movers?
+-----------------------------------------------------
+
+If you're considering a do-it-yourself move and think you can handle it, remember there are still costs involved. If you don’t have a vehicle big enough to transport larger furniture items, you’ll probably need to rent a truck or trailer. While this is cheaper than hiring a moving company, additional costs include mileage, gas refills and insurance liability, not to mention the physical cost of moving everything yourself.
+
+Depending on the size of truck you need, you may be able to pull off a local move for less than $100 if you can complete the job in a day, according to [Forbes](https://www.forbes.com/home-improvement/moving-services/moving-truck-rental-costs/). However, mileage is a huge factor in rental truck costs, and you can expect to pay an additional $0.59 to $1.00 (CAD 0.81 to CAD 1.37) per mile traveled.
+
+One popular option is moving pods. With this option, a company delivers an empty container to your house and you load the container with your items. The company then transports the pod to your new home, where you can unload it at your own pace.
+
+[MarketWatch](https://www.marketwatch.com/guides/moving-services/pods-moving-cost/) says a 12-foot pod for a 50-mile move costs around $298 (CAD 407), which includes the delivery fee and a month of storage. Remember, the cost of moving the pod to your new location can vary depending on the distance. While renting a pod is cheaper than hiring a moving company, you’ll still do all the heavy lifting yourself.
+
+Is It Cheaper to Buy New Furniture or Move It?
+----------------------------------------------
+
+All these moving costs may have you thinking … What if you just buy new furniture for your new home rather than messing with moving all the old stuff? It sounds simple, but new furniture can be costly. If you're buying multiple items like new beds and sofas, the costs can easily rise into thousands of dollars, quickly matching or overtaking the cost of hiring movers.
+
+For a local move, it doesn't typically make sense to buy new furniture. For a long-distance move — especially a cross-country or overseas one — it might be cheaper to buy new furniture when you get there. Make sure you weigh all the factors, including the cost of the move, the cost of new furniture and how many new items you’d need to buy.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

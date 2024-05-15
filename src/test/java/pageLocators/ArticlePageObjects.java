@@ -447,10 +447,10 @@ public class ArticlePageObjects {
 		
 	//Method to check the article created date in the body.
 		public WebElement ArticleImage(){
-			if(driver.findElements(By.xpath("//div[contains(@class,' mx-auto')]/*//div[contains(@class,'mb-3')]/img")).isEmpty()) {
+			if(driver.findElements(By.xpath("//div[contains(@class,' mx-auto')]/*//div[contains(@class,'mb-3')]/picture/img")).isEmpty()) {
 				return null;
 			}else {
-				WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,' mx-auto')]/*//div[contains(@class,'mb-3')]/img"));	
+				WebElement articleContent = driver.findElement(By.xpath("//div[contains(@class,' mx-auto')]/*//div[contains(@class,'mb-3')]/picture/img"));	
 				return articleContent;
 			}
 		}

@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Is There Mold in My Fridge?"
+headline: "Why Is There Mold in My Fridge?"
+author: Elizabeth Michael
+tags: ["post"]
+publishDate: 2024-04-07
+basePath: https://library.homeserve.com/m/
+heroImage: 592a148cee878c9b/Blog-DominionEnergy_APPLIANCES_SHMPC2B6828B_06.jpg
+heroAltDescription: "Appliance repair"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "From excess moisture to weakened rubber seals, there are many reasons your fridge may have a moldy odor or visible mold."
+articleAbstract: "From excess moisture to weakened rubber seals and even leftover food that's seen better days, there are many reasons your fridge may have a moldy odor or visible mold."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Is There Mold in My Fridge?"
+  parent: Appliances
+---
+  Opening your fridge and being greeted by unwelcome moldy odors can definitely put a damper on your lunch plans. From excess moisture to weakened rubber seals and even leftover food that's seen better days, there are many reasons your fridge may have a moldy odor or visible mold.
+
+**This May Also Interest You:** [**How Do I Reset My Samsung Refrigerator?**](https://www.homeserve.com/en-us/blog/how-to/reset-samsung-refrigerator/)
+
+Because mold spores can [pose health risks](https://www.cdc.gov/mold/faqs.htm) in certain people, it's important to get to the root cause of the moldy odors in your refrigerator and eliminate the mold as soon as possible. In many cases, simple home remedies and minor fridge repairs are enough to stop mold in its tracks and prevent its return.
+
+Why Is There Mold Growing in the Fridge?
+----------------------------------------
+
+Mold thrives in moist, dark places with minimal air circulation, making your fridge an ideal breeding ground. Moldy food is one of the most common causes of moldy odors. When you leave uncovered or improperly sealed food in the fridge for extended periods of time, mold can develop and lead to strong moldy or musty smells. Spilled foods and beverages can also cause moisture to pool on your refrigerator surfaces. Over time, these minor spills can evolve into messy mold.
+
+The rubber seal on your refrigerator door is another common culprit of mold growth. If the seal pulls away slightly from the door surface, it can create a small crevice that's perfect for trapping moisture. When you open the refrigerator door, the cold air from inside the fridge meets the warmer air in your kitchen and creates condensation. If the condensation finds its way behind the loose seal, mold growth can occur.
+
+Why Does My Fridge Smell Moldy (Even If There’s No Visible Mold)?
+-----------------------------------------------------------------
+
+Moldy odors in your fridge without the presence of visible mold may be due to a [moldy drip pan](https://reviewed.usatoday.com/refrigerators/features/why-does-my-fridge-smell) or moisture buildup in your refrigerator's internal drainage system. Drip pans sit beneath the fridge, and they should be cleaned every few months to prevent mold and mildew growth. If the issue is internal, it's always best to call in an experienced appliance repair professional to inspect your refrigerator and safely perform the necessary repairs.
+
+**More Related Articles:**
+
+*   [Will the Fridge Fit? How to Measure a Refrigerator](https://www.homeserve.com/en-us/blog/how-to/measure-refrigerator/)
+*   [How to Organize Your Fridge in 5 Steps](https://www.homeserve.com/en-us/blog/how-to/fridge-organization/)
+*   [Ever Cleaned Your Refrigerator Coils? Sure, We Believe You (But Here’s How, Just in Case)](https://www.homeserve.com/en-us/blog/how-to/clean-refrigerator-coils/)
+*   [How Do I Reset My Samsung Refrigerator?](https://www.homeserve.com/en-us/blog/how-to/reset-samsung-refrigerator/)
+*   [We Gotta Move These Refrigerators: A Step-by-Step Guide to Moving Your Fridge](https://www.homeserve.com/en-us/blog/how-to/move-refrigerator/)
+
+Is It Safe to Use If There’s Mold?
+----------------------------------
+
+Untreated mold or mildew in the refrigerator is a potential safety hazard, especially if anyone in your home has asthma or allergies. While there are [several types](https://www.hgtv.com/design/remodel/interior-remodel/what-is-mold) of common household mold, black mold is considered particularly dangerous. Black mold comes from the strain [Stachybotrys chartarum](file:///Users/lleazenby/Downloads/Stachybotrys%20chartarum), and contact with its spores may increase the risk of severe illness.
+
+To ensure your fridge is safe for use, it's important to discard any moldy food, beverages or dishes. You'll also want to deep clean your entire refrigerator to eradicate visible mold and mold spores. If you suspect black mold, it may be a good idea to consult with a mold remediation professional to ensure safe removal.
+
+How Do I Clean the Mold Out of My Fridge?
+-----------------------------------------
+
+To clean visible mold from your refrigerator, start by removing all food items and any removable shelves and drawers. Use paper towels to wipe down the inside of the fridge, ensuring all surfaces are completely dry. Once the fridge is dry, follow these steps:
+
+**1\.** Spray down the shelves, drawers and refrigerator surfaces with undiluted vinegar. Make sure to coat the hinges and spray along the rubber door seals to eradicate mold in small crevices. Allow the vinegar to sit for a few minutes.
+
+**2\.** Use a damp cloth to scrub each surface. Use a little pressure when scrubbing to loosen tough mold spots and give the fridge a thorough clean.  
+
+**3\.** After you thoroughly scrub each surface, wipe everything down again with a clean, damp cloth. Use paper towels to dry all surfaces, paying extra attention to the hinges and rubber seal.
+
+**4\.** Replace the drawers and shelves.
+
+**5\.** To help absorb humidity, remove lingering odors and prevent new odors, place an open box of baking soda on the bottom shelf of the fridge.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="How to Clean Refrigerator Condenser Coils at Home"></iframe>

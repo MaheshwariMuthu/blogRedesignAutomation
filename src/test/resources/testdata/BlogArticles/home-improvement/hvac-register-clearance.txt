@@ -1,0 +1,65 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Clearance Do My Registers Need?"
+headline: "How Much Clearance Do My Registers Need?"
+author: Jane Anderson
+tags: ["post"]
+publishDate: 2024-02-22
+basePath: https://library.homeserve.com/m/
+heroImage: 6a0c19974299e65b/Blog-GettyImages-511195400.jpg
+heroAltDescription: "Mand makes adjustments to a heater on the floor"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Airflow is the name of the game when it comes to your HVAC system. Here's what to know about blocking your registers."
+articleAbstract: "Airflow is the name of the game when it comes to your HVAC system. Here's what to know about blocking your registers."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Much Clearance Do My Registers Need?"
+  parent: HVAC-Home-Improvement
+---
+  Home makeover shows on TV make redecorating look _so_ easy. Interior designers transform a room in the blink of an eye, creating conversation areas, walkways and relaxing spaces. But when you try to recreate these setups in your own home, you might run into a situation where there’s an HVAC vent in an inconvenient spot.
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+You can’t move the vent, so it seems like you’re plum out of luck. Unless… Can you put furniture over a floor vent?
+
+How Much Clearance Do HVAC Registers Need?
+------------------------------------------
+
+Your home’s HVAC system breathes in and out through the air vents. You know the vents should be open, but what about furniture placement? How much clearance does a floor vent need? According to [Home Inspection Insider](https://homeinspectioninsider.com/10-ways-to-hide-your-return-air-vent-without-blocking-airflow/), floor vents need anywhere from six to 12 inches of space in all directions to ensure airflow.
+
+Your floor vent needs space on each side and overhead. Allow a minimum of six inches on top, and consider the direction of slats or louvers on your vent as well. You’ll want to ensure the area that faces the open angles is unobstructed.
+
+Heating and Cooling Vents
+-------------------------
+
+Forced air HVAC systems have two types of vents to ensure adequate airflow. The supply vents or registers distribute heated or cooled air; the return vents send air back to the furnace. Your furnace needs an equal amount of air coming and going to work correctly, just as your lungs inhale and exhale.
+
+### What Can Happen If You Block HVAC Registers?
+
+A blocked supply vent causes the furnace motor to work harder as it tries to send the same amount of conditioned air through fewer openings. Static pressure can build in your ductwork, and air may leak into areas it shouldn’t.
+
+What happens if a return air vent is blocked? Without a steady supply of incoming air, your HVAC system can overheat, causing you to replace expensive components more often.
+
+Other problems associated with blocked air vents include trapped moisture, which can affect air quality, and temperature fluctuations. For [greater energy efficiency](https://www.saveonenergy.com/resources/close-vents-in-unused-rooms/), you should ensure vents are free from obstruction, and doors are open between rooms.
+
+### What About Partially Blocking Heater Vents?
+
+As long as you leave the vent open slightly for adequate airflow, you can partially close off vents in rooms you're not using, particularly those further from the system — for example, an upper bedroom.
+
+**More Related Articles:**
+
+*   [What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps...](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [Is an HVAC Tune-Up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+Decorating Around HVAC Vents
+----------------------------
+
+Just because you need to leave air vents clear doesn’t mean you can’t have a fashionable furniture layout. Consider purchasing deflectors, which allow you to adjust airflow on floor supply vents, so you're not overheating potted plants or delicate accent pieces. When buying furniture, consider the current location of your floor registers and wall vents.
+
+Raised-legged sofas and chairs can make it easier to work around registers. End tables and TV stands with open shelving provide circulation for wall vents. You can also paint or purchase vents to match the color of your walls or floors to make them less noticeable.
+
+Balanced airflow can help keep your HVAC system running longer with fewer service calls, and over the long term, you can enjoy a more efficient heating and air conditioning system.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

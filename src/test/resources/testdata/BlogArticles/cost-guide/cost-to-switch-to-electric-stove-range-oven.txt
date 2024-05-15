@@ -1,0 +1,72 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Switch to an Electric Range, Stove or Oven?"
+headline: "How Much Does It Cost to Switch to an Electric Range, Stove or Oven?"
+author: Erin Wallace
+tags: ["post"]
+publishDate: 2024-02-15
+basePath: https://library.homeserve.com/m/
+heroImage: 6d4877ada0396620/Blog-GettyImages-138293985.jpg
+heroAltDescription: "Gas and electric energy types"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Are you thinking about switching from a gas stove to an electric range? Find out cost information and other considerations in this article."
+articleAbstract: "Maybe you're coping with consistently underdone potatoes or random gas leaks, or maybe you want to simplify your utility bills. Whatever the reason you're considering a swap from a gas to an electric stove, it's important to be mindful of the costs."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Switch to an Electric Range, Stove or Oven?"
+  parent: Appliances-Cost-Guide
+---
+  Maybe you're coping with consistently underdone potatoes or random gas leaks, or maybe you want to simplify your utility bills.
+
+**This May Also Interest You:** [**How to Choose the Right Oven or Cooktop for Your Kitchen**](https://www.homeserve.com/en-us/blog/home-improvement/oven-cooktop/)
+
+Whatever the reason you're considering a swap from a gas to an electric stove, it's important to be mindful of the costs.
+
+What’s the Process for Switching From a Gas Stove to an Electric One?
+---------------------------------------------------------------------
+
+Electric stoves require more amperage to operate than gas stoves, so the first step before you make the swap is to consult an experienced electrician to find out what kind of wiring needs to be updated.
+
+According to [This Old House](https://www.thisoldhouse.com/electrical/reviews/electrician-cost), an ﻿electrician charges $40 to $120 (CAD 54 to CAD 161) per hour, depending on where you live and project complexity. For something that may just be a consult, the electrician may charge an hourly rate. If you ultimately hire them to update wiring, the cost is likely to be higher.
+
+Next, you can find which electric stove model you prefer and narrow down your options to those that are within your price range. Then, you can find an electrician to install it. A gas plumber might also have to be called as well to handle disconnecting the gas lines safely and disposing of the old stove.
+
+**More Related Articles:**
+
+*   [How Much Does a Stove or Oven Cost?](https://www.homeserve.com/en-us/blog/cost-guide/stove-oven/)
+*   [Gas Stove Vs. Electric Stove: Which Is Best For You?](https://www.homeserve.com/en-us/blog/buying-guide/gas-vs-electric-stove/)
+*   [How to Clean an Electric Stovetop](https://www.homeserve.com/en-us/blog/how-to/clean-electric-stove-top/)
+*   [How to Clean Your Gas Stovetop](https://www.homeserve.com/en-us/blog/how-to/clean-gas-stove-top/)
+*   [Should You Use Your Oven’s Self-Cleaning Feature — and, If So, How?](https://www.homeserve.com/en-us/blog/how-to/oven-self-cleaning-feature/)
+
+How Much Does It Cost to Make the Switch?
+-----------------------------------------
+
+The overall cost for switching from a gas stove to an electric one ultimately depends on whether you need your electrical wiring updated, the electric stove model you purchase and whether a gas plumber needs to be involved to disconnect and seal off existing gas lines.
+
+Below is a basic cost breakdown, which provides ranges to help you calculate the total cost.
+
+### Hiring an Electrician
+
+As stated above, electricians may charge anywhere from $40 to $120 (CAD 54 to CAD 161) per hour. Hiring one is a good first step before making the switch because they can let you know whether any wiring needs updating, since electric stoves use more electricity to operate compared to gas models.
+
+### Purchasing an Electric Stove
+
+Prices for electric stoves run the gamut from very basic models with coil burners to ones with smart home features and built-in air frying functions. At [The Home Depot](https://www.homedepot.com/b/Appliances-Ranges-Electric-Ranges/N-5yc1vZc3ob), for example, electric stove prices range from $500 (CAD 671) for a no-frills option to about $2,500 (CAD 3,355) for an electric stove with a ceramic induction cooktop and advanced features.
+
+### Installing an Electric Stove
+
+An electrician may not be needed to install an electric stove if the proper wiring is all in place and has been inspected already. [HomeGuide](https://homeguide.com/costs/appliance-installation-costs) estimates the labor cost for installing a new electric stove or range to be $100 to $300 (CAD 134 to CAD 403).
+
+### Removing the Old Stove
+
+There may be an additional fee for removing the old gas unit. If you purchase your new unit from a big-box store like Home Depot or Lowe's, it may waive the disposal fee if you're purchasing a more expensive model. You can also dispose of the old unit yourself with your local waste management facility. The cost for disposal varies by location — [HomeWyse](https://www.homewyse.com/services/cost_to_remove_appliances.html) estimates it to be $40 to $200 (CAD 54 to CAD 268).
+
+### Hiring a Plumber
+
+If you need to hire a gas plumber to disconnect the old gas lines and seal them off, plumbers charge $45 to $150 (CAD 60 to CAD 201) per hour, according to [HomeGuide](https://homeguide.com/costs/plumber-cost). Rates may be higher or lower, depending on your location and the individual business.
+
+You may also need to notify the local natural gas supplier in your area to shut off gas service to your home if you're thinking about switching from gas to electric because they may need to do utility work in the street.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/ByKX1s5TgBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Clean Your Oven | Cleaning Oven Tips and Tricks"></iframe>

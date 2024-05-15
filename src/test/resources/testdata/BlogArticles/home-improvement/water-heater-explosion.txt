@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Can Your Water Heater Explode?"
+headline: "Can Your Water Heater Explode?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2024-03-12
+basePath: https://library.homeserve.com/m/
+heroImage: 467512151e78b8a4/Blog-GettyImages-1372564903.jpg
+heroAltDescription: "A close-up of a water heater leaking water on to the basement floor"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "A water heater explosion is as dangerous as it sounds, so knowing how to avoid this home maintenance nightmare is essential."
+articleAbstract: "A water heater explosion is as dangerous as it sounds, so knowing how to avoid this home maintenance nightmare is essential."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Can Your Water Heater Explode?"
+  parent: HVAC-Home-Improvement
+---
+  Your water heater is the unsung hero of your home, providing you with a steady supply of hot water in all seasons. However, when things go wrong with your water heater, they can really go wrong — occasionally with explosive results.
+
+**This May Also Interest You:** [**How Much Does It Cost to Replace a Water Heater?**](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-replacement-cost/)
+
+A water heater explosion is as dangerous as it sounds, so knowing how to avoid this home maintenance nightmare is essential.
+
+Can a Water Heater Explode?
+---------------------------
+
+Water heater explosions are relatively uncommon, but they can happen — particularly if you don't maintain your unit correctly or ignore common warning signs. Generally, water heater explosions occur when the temperature inside your water heater exceeds the safe limit, increasing the pressure inside the tank and potentially causing it to burst.
+
+How Do Water Heater Explosions Happen?
+--------------------------------------
+
+During a water heater explosion, your unit will likely release significant quantities of scalding water and steam into your home. An explosion can cause serious injuries, such as burns, to anyone near the unit.
+
+However, injuries aren't the only potential hazard of a burst water heater. Water released from the tank can cause severe damage to floors, walls and other materials inside your home. The force of the explosion may also damage your belongings.
+
+Gas water heater explosions can be particularly dangerous because they may damage the gas line supplying the unit, leading to a gas leak. Gas leaks increase the risk of house fires and can cause physical symptoms such as lightheadedness and nausea.
+
+What Causes Water Heater Explosions?
+------------------------------------
+
+The most common cause of a water heater blowing up is rust inside the unit. Rust prevents water and heat from circulating through your system correctly, leading to excessive pressure. Installing your water heater incorrectly can also cause pressure problems and increase the risk of an explosion. Therefore, hiring a professional plumber to install a new water heater is essential.
+
+Rust inside your water heater is challenging for a layperson to diagnose, but some common warning signs could indicate a build-up of rust and sediment inside your system. You can reduce the risk of a water heater explosion by scheduling a checkup with a qualified professional whenever you notice one or more of the following issues:
+
+*   Leaking or constantly open pressure release valve
+*   Hissing, banging or clanking noises coming from the water heater
+*   Discolored water
+*   Unpleasant, rotten egg smells coming from your water heater or fixtures
+
+**More Related Articles:**
+
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)
+*   [How to Install a Tankless Electric Water Heater: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-tankless-electric-water-heater/)
+*   [How Much Does It Cost For a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+
+How to Prevent Water Heater Explosions
+--------------------------------------
+
+Water heater explosions are extremely dangerous, so keeping your unit in good working order is essential. Hiring a professional plumber to inspect and clean your water heater at least once yearly can help you spot and fix issues before they become more serious.
+
+Running your water heater at the correct temperature can also prevent dangerous pressure from accumulating. Consult your user manual or ask your plumber to determine the optimal temperature for your water heater's make and model. Ensure anyone you hire to install or service your water heater has the correct license to avoid potentially hazardous errors.
+
+If the Worst Happens: What to Do If Your Water Heater Explodes
+--------------------------------------------------------------
+
+If your water heater explodes, seek immediate medical attention if anyone sustained burns or scalds. Turning off the water supply can help you avoid costly water damage to your home. If the stopcock is safely accessible, turn the valve clockwise to stop more water from flowing into your unit.
+
+Next, turn off the electrical supply to your water heater from the circuit breaker panel. The water released by a burst water heater can cause an electrical fire if it contacts the electrical elements of your unit. If you have a gas-powered water heater, prevent gas from escaping into your home by turning off the emergency shutoff valve.
+
+Finally, call an emergency plumber to repair any damage and replace the faulty unit. Avoid approaching the water heater or cleaning up standing water until your contractor tells you it's safe to do so.
+
+You can clean smaller leaks by soaking up standing water with old rags or towels and placing fans or dehumidifiers in the affected room to encourage drying. However, you may need to hire a specialized restoration company to repair extensive water damage.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

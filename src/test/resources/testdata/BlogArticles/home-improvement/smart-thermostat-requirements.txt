@@ -1,0 +1,58 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Make Sure Your Home Has This Before Installing a Smart Thermostat"
+headline: "Make Sure Your Home Has This Before Installing a Smart Thermostat"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-03-06
+basePath: https://library.homeserve.com/m/
+heroImage: 3d8f116351a68794/Blog-GettyImages-1093420446.jpg
+heroAltDescription: "Hand installing modern thermostat plate on wall"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Installing a smart thermostat? You're going to want to make sure you see a C-wire."
+articleAbstract: "Installing a smart thermostat? You're going to want to make sure you see a C-wire."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Make Sure Your Home Has This Before Installing a Smart Thermostat"
+  parent: HVAC-Home-Improvement
+---
+  If you’re planning on installing a smart thermostat, you’re probably looking forward to automatically controlling your home’s temperature, wherever you may be. You might also be visualizing lower energy bills because your energy consumption will drop as well.
+
+**This May Also Interest You:** [**Smart, Not Foolproof: 5 Common Smart Thermostat Issues**](https://www.homeserve.com/en-us/blog/home-improvement/smart-thermostat-issues/)
+
+But before you rush out to buy a smart thermostat, there’s something you should know. Your home needs to have a special wire that’s crucial for the device to work properly. It’s called a C-wire, or common wire.
+
+What Is a C-Wire?
+-----------------
+
+A C-wire is a low-voltage wire that provides continuous power to your thermostat. Unlike traditional thermostats that only use two or four wires to control the heating and cooling system, smart thermostats require more power to run their advanced features, such as Wi-Fi connectivity, touchscreen display, sensors and voice control. A C-wire acts as a neutral or ground wire that completes the circuit and delivers the extra power your smart thermostat needs.
+
+Why Is It Needed to Install a Smart Thermostat?
+-----------------------------------------------
+
+Without a C-wire, your smart thermostat may not work properly or at all. Some smart thermostats, such as Nest thermostats, claim they can work without a C-wire by using a technique called power stealing. This means they draw small amounts of power from the heating and cooling wires when the system is not running. However, this can cause problems, such as short cycling, battery drain, inconsistent performance and damage to your HVAC system. Therefore, it’s wise to have a C-wire installed to ensure the reliability and safety of your smart thermostat.
+
+How Do I Know If My Home Has a C-Wire?
+--------------------------------------
+
+The easiest way to check if your home has a C-wire is to look at your existing thermostat. First, you need to turn off the power to your HVAC system and remove the thermostat cover. Then, look at the wires connected to the terminals on the thermostat base. If you see a wire labeled C, COM or COMMON, that means you have a C-wire. If you don’t see a C-wire, you may still have one hidden behind the wall or in the furnace. You can use a multimeter to test the voltage of the wires or, if you’re not comfortable testing voltages, consult a professional to confirm if the C-wire is there.
+
+**More Related Articles:**
+
+*   [What Is a Google Nest Learning Thermostat and What’s It Do?](https://www.homeserve.com/en-us/blog/buying-guide/google-nest-thermostat/)
+*   [How to Install a Google Nest Learning Thermostat](https://www.homeserve.com/en-us/blog/how-to/nest-thermostat-installation/)
+*   [How Much Does It Cost to Install a Google Nest Learning Thermostat?](https://www.homeserve.com/en-us/blog/how-to/nest-thermostat-installation/)
+*   [Heat Check: The 5 Best Smart Thermostats for Your Home](https://www.homeserve.com/en-us/blog/cost-guide/best-smart-thermostats/)
+*   [How Much Do Thermostats Cost to Replace or Install?](https://www.homeserve.com/en-us/blog/cost-guide/thermostat-replacement/)
+
+Can You Install a Smart Thermostat Without a C-Wire?
+----------------------------------------------------
+
+If your home doesn’t have a C-wire, you have a few options to install a smart thermostat. One option is to use a C-wire adapter, also known as a power extender kit. This is a device that creates a C-wire by using an existing wire in your HVAC system. You need to install the adapter near your furnace or air handler and connect it to the wires running to your thermostat.
+
+Another option is to use a plug-in transformer, which is a device that plugs into a standard wall outlet and provides a C-wire to your thermostat. You need to run a wire from the transformer to your thermostat, which may require drilling holes or using a wire cover.
+
+A third option is to hire a professional to install a new C-wire for you. The technician may run a new wire from your furnace to your thermostat or replace your existing thermostat cable with a new one that has a C-wire.
+
+If you choose the first or second options, make sure you know exactly what you’re doing before you begin. Also, never work with electrical equipment until you’ve turned the power off at the mains, and always practice safety precautions. Follow these simple safety steps and soon you’ll be enjoying the comfort, convenience and financial benefits that smart thermostats are renowned for.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/8mzG-IJupUA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Ceiling Fan Direction | Summer vs. Winter"></iframe>

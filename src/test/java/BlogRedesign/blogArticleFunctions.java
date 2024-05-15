@@ -133,8 +133,6 @@ public class blogArticleFunctions {
 						log.info("Case not defined for the key:"+key);
 						break;
 				}
-					webValue = element.getText().replaceAll("﻿﻿﻿\u200B", "");
-					webValue = element.getText().replaceAll("\u00A0", " ");
 					if(element!=null) {
 						pageActions.scrollToElement(element);
 						pageActions.setHighlight(element);
@@ -145,11 +143,13 @@ public class blogArticleFunctions {
 								output = output+"|"+"Pass\t|";
 							}else {
 								log.error("Article " + key + " <" + element.getAttribute("src") + "> NOT MATCHED");
-								logResult = logResult + "Article " + key + " <" + element.getAttribute("src") + "> MATCHED\n\n";
+								logResult = logResult + "Article " + key + " <" + element.getAttribute("src") + "> NOT MATCHED\n\n";
 								output = output+"|"+"Fail\t|";
 								flagFail = 1;
 							}
 						}else {
+							webValue = element.getText().replaceAll("﻿﻿﻿\u200B", "");
+							webValue = element.getText().replaceAll("\u00A0", " ");
 							if((webValue.trim()).equals(value)) {
 								log.info("Article " + key + " <" + webValue + "> MATCHED");
 								logResult =logResult + "Article " + key + " <" + element.getText() + "> MATCHED\n\n";
@@ -1126,7 +1126,7 @@ public class blogArticleFunctions {
 				outputReult = outputReult + "\t|Pass: "+headPassResult+" Fail: "+headFailResult+"\t|Pass: "+paraPassResult+" Fail: "+paraFailResult+
 						"\t|Pass: "+linkPassResult+" Fail: "+linkFailResult+"\t|Pass: "+listPassResult+" Fail: "+listFailResult + 
 						"\t|Pass: "+imagePassResult+" Fail: "+imageFailResult + "\t|Pass: "+videoPassResult+" Fail: "+videoFailResult + "\t|\n";
-				
+				System.out.println("flagFail:"+flagFail);
 			}else {
 				outputReult = outputReult + "\t|Not Migrated\t|\n";
 			}
@@ -1216,10 +1216,14 @@ public class blogArticleFunctions {
 	 ---------------------------------------------------------------------------------------------------------*/ 
 		public static void checkArticleBaseData() throws ParseException {
 			verifyArticleDetails("title");
+			System.out.println("flagFail:"+flagFail);
 			if(!migrateStatus.equals("FAIL")) {
 				verifyArticleDetails("author");
+				System.out.println("flagFail:"+flagFail);
 				verifyArticleDetails("publishDate");
+				System.out.println("flagFail:"+flagFail);
 				verifyArticleDetails("image");
+				System.out.println("flagFail:"+flagFail);
 			}
 		}
 	
@@ -1249,18 +1253,22 @@ public class blogArticleFunctions {
 	  public static void validataMetaDesc(String fileData) {
 		   WebElement ele = null;
 		   ele = ArticlePageObjects.metaDescription;
-
-		   String data = driver.findElement(By.xpath("/html/head/meta[@name='meta_desc']")).getAttribute("content");
-		   if(!fileData.equals("null")) {
-			   if(fileData.trim().equals(data.trim())) {
-				   log.info("Meta Description: MATCHED\n\n"+data+"\n");
-				   output = output + "|PASS\t\t|";
+		   if(driver.findElements(By.xpath("/html/head/meta[@name='meta_desc']")).size()>0){
+			   String data = driver.findElement(By.xpath("/html/head/meta[@name='meta_desc']")).getAttribute("content");
+			   if(!fileData.equals("null")) {
+				   if(fileData.trim().equals(data.trim())) {
+					   log.info("Meta Description: MATCHED\n\n"+data+"\n");
+					   output = output + "|PASS\t\t|";
+				   }else {
+					   log.info("Meta Description: NOT MATCHED\n\n"+data+"\n"+fileData+"\n");
+					   output = output + "|FAIL\t\t|";
+				   }
 			   }else {
-				   log.info("Meta Description: NOT MATCHED\n\n"+data+"\n"+fileData+"\n");
+				   log.info("Meta Description: NOT FOUNDs\n\n"+data+"\n"+fileData+"\n");
 				   output = output + "|FAIL\t\t|";
 			   }
 		   }else {
-			   log.info("Meta Description: NOT FOUNDs\n\n"+data+"\n"+fileData+"\n");
+			   log.info("Meta Description: NOT FOUNDs\n\n");
 			   output = output + "|FAIL\t\t|";
 		   }
 	   }

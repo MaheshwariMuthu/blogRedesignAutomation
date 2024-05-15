@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is an Air Quality Monitor and How Much Do They Cost?"
+headline: "What Is an Air Quality Monitor and How Much Do They Cost?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2024-03-15
+basePath: https://library.homeserve.com/m/
+heroImage: 5873514900e32b53/Blog-GettyImages-1305331962.jpg
+heroAltDescription: "Pollution And Environment Smog Detector"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Home air quality monitors are nifty devices that can help you detect and tackle pollutants before they harm your health."
+articleAbstract: "Many harmful indoor pollutants are invisible, so measuring them can seem like a real head-scratcher. Enter the home air quality monitor — a nifty device that can help you detect and tackle pollutants before they harm your health."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "What Is an Air Quality Monitor and How Much Do They Cost?"
+  parent: HVAC-Cost-Guide
+---
+  Air quality isn't just an outdoor issue — most Americans spend up to 90% of their time indoors, so the [air quality inside your home](https://www.niehs.nih.gov/health/topics/agents/indoor-air)﻿ and workplace can significantly impact your health. Generally, indoor air quality﻿ is worsening, and breathing in certain pollutants could increase your risk of respiratory problems, cardiovascular disease and cognitive issues.
+
+**This May Also Interest You:** [**Concerned About Air Quality? Try These 10 Tips**](https://www.homeserve.com/en-us/blog/how-to/indoor-air-quality-tips/)
+
+Many harmful indoor pollutants are invisible, so measuring them can seem like a real head-scratcher. Enter the home air quality monitor — a nifty device that can help you detect and tackle pollutants before they harm your health. Below, we'll explain how air quality monitors work and how much you should expect to spend to purchase one.
+
+What Is an Air Quality Monitor?
+-------------------------------
+
+Home air quality monitors measure the levels of certain pollutants inside your home and alert you when they become a cause for concern. Many monitors allow you to check your indoor air quality in real time, enabling you to identify activities that could impact your well-being. For example, using certain cleaning products or burning fuel inside your home could [reduce indoor air quality](https://www.epa.gov/indoor-air-quality-iaq/introduction-indoor-air-quality).
+
+Sometimes, objects or building materials in your home could release potentially harmful substances. Certain types of upholstery, pressed wood and asbestos can negatively impact your health. An indoor air quality monitor can help you discover and rectify hidden issues.
+
+Many advanced monitors do more than just identify pollutants. Some models can also monitor humidity levels and indoor temperatures to help you avoid issues such as damp and mold. Wi-Fi-enabled monitors can connect with other smart home systems and provide real-time alerts and updates.
+
+Which pollutants your monitor detects depends on the make and model. Many brands can measure the following common substances:
+
+*   Volatile organic compounds (VOCs)
+*   Carbon monoxide
+*   Mold spores
+*   Sulfur dioxide
+*   Dust
+*   Pollen
+
+How Do Indoor Air Quality Monitors Work?
+----------------------------------------
+
+Indoor air quality monitors work by regularly sampling the air and testing it for either particles or gases. The monitor then sends the results to a handheld device or a phone or computer app, allowing you to check the levels of individual pollutants in your home.
+
+Some air quality monitors also combine results into a single score to show the overall quality of indoor air. Often, these monitors provide a score from 1 (the worst) to 100 (the best).
+
+**More Related Articles:**
+
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Does Your Home Need a Whole-House Humidifier?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-humidifier/)
+
+What Are the Different Types of Home Air Quality Monitors?
+----------------------------------------------------------
+
+There are two main types of home air quality monitors available: particle monitors and gas monitors. Using both types can help you keep track of most common pollutants. However, checking which substances your model detects is essential to ensure comprehensive results. Some air quality monitors test for both gases and particles in a single unit.
+
+### Particle Monitors
+
+[Particle air quality monitors](https://www.consumerreports.org/home-garden/indoor-air-quality-monitors/best-indoor-air-quality-monitors-of-the-year-a7500139084/) measure the levels of certain particles in the air, such as dust, smog and pollen. Which particles your monitor detects depends on its particulate matter sensitivity, measured in microns. Check the product packaging to determine your unit's particulate matter sensitivity.
+
+PM2.5 monitors can detect particles as small as 2.5 microns in diameter. Therefore, they can identify tiny pollutant particles present in smoke and exhaust fumes. PM10 monitors are less sensitive because they can only detect particles measuring 10 microns or larger, such as dust and pollen.
+
+### Gas Monitors
+
+Gas monitors can detect potentially harmful gases in your indoor air, such as sulfur dioxide and carbon dioxide. While carbon dioxide occurs naturally in the air, too much can cause mild physical symptoms and may indicate poor air circulation.
+
+Many gas air quality monitors also offer carbon monoxide detection. Carbon monoxide is a colorless, odorless gas that causes serious health problems and even death when inhaled. While detecting carbon monoxide using an air quality monitor can help boost safety, it may not meet the same standards as a specialized device. Therefore, you should always install specialized carbon monoxide detectors alongside an air quality monitor.
+
+How Much Do Air Quality Monitors Cost?
+--------------------------------------
+
+How much an air quality monitor costs depends on various factors, such as sensitivity and smart connectivity. According to [The Spruce](https://www.thespruce.com/best-air-quality-monitors-4845803), budget-friendly air quality monitors cost as little as $70 (CAD 94), while more advanced models could cost up to $299 (CAD 402) or more. Expect to pay more for monitors with integrated Wi-Fi or units offering dual gas and particle detection.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

@@ -1,0 +1,55 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does a New Radiator Cost?"
+headline: "How Much Does a New Radiator Cost?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-04-06
+basePath: https://library.homeserve.com/m/
+heroImage: 26540e9a00f745af/Blog-GettyImages-171333904.jpg
+heroAltDescription: "Detail of an old fashioned   retro radiator against a brick wall "
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Has a repair tech told you you're in for more than a repair? Learn about the costs associated with radiator replacement to budget for this project."
+articleAbstract: "Has a repair tech told you you're in for more than a repair? Learn about the costs associated with radiator replacement to budget for this project."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does a New Radiator Cost?"
+  parent: HVAC-Cost-Guide
+---
+  Radiators might not get the same love as crackling coal fires with dancing flames, but they’re better at producing heat. They’re such wallflowers that we don’t notice them until they stop working.
+
+**This May Also Interest You:** [**Noisy Radiator: Why Does My Heating System Clang?**](https://www.homeserve.com/en-us/blog/home-improvement/heating-system-clang/)
+
+When they do appear on our radar, our first thought is often, "How much is this going to cost me?"
+
+On Average, How Much Does a New Radiator Cost?
+----------------------------------------------
+
+The average cost of a new radiator can vary depending on several factors, such as the type of radiator you need for the room in your home. According to [HomeGuide](https://homeguide.com/costs/radiator-replacement-cost), you should expect to pay between $700 and $1,300 (CAD 947 and CAD 1,759) per radiator if you’re replacing them in your home.
+
+How Much Do Different Types of Radiators Cost?
+----------------------------------------------
+
+There's a wide array of radiator options available. Here's a brief breakdown of the most common types (not including installation costs).
+
+* **Single panel:** Because this type uses the least amount of material, it’s usually the most affordable option. Expect to pay between $100 and $300 (CAD 136 and CAD 406) if it’s the plumbed type and $100 to $450 (CAD 136 to CAD 609) for the electric version.
+* **Double panel:** This version typically uses twice as much material as a single panel radiator, so you should expect to pay more. Costs will likely be between $300 and $500 (CAD 406 and CAD 677) for plumbed versions and $300 to $1,500 (CAD 406 to CAD 2,030) for electrical ones.
+* **Column:** Column radiators are normally made from cast iron, steel or aluminum, giving them a classically elegant appearance. Costs reflect this, at between $500 and $1,200 (CAD 677 and CAD 1,624) for plumbed options and $300 and $1,400 (CAD 406 and CAD 1,894) for the electrical equivalent.
+* **Flat panel:** Plumbed versions of these slim, wall-mounted radiators typically cost between $200 and $1,200 (CAD 271 and CAD 1,624), while the electric type is between $300 and $900 (CAD 406 and CAD 1,218). However, you're likely to recoup some of your initial outlay through lower energy bills, as they're particularly energy-efficient.
+* **Baseboard:** The cost differences between plumbed and electric models aren’t as wide for this type of radiator. Both versions start at around $100 (CAD 136), but the plumbed version can be as much as $1,500 (CAD 2,030). The electric version could run up to $1,200 (CAD 1,624).
+
+**More Related Articles:**
+
+*   [How to Fix a Radiator Leak in 4 Steps](https://www.homeserve.com/en-us/blog/how-to/fix-radiator-leak/)
+*   [How Much Does Boiler Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-repair/)
+*   [It’s Too Hot in Here! How to Turn Down Your Radiator](https://www.homeserve.com/en-us/blog/how-to/turn-down-radiator/)
+*   [How Much Does It Cost to Install or Replace a Boiler?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-replacement/)
+*   [How Does Heating Your Home With Oil Work — and Who’s Still Using It?](https://www.homeserve.com/en-us/blog/home-improvement/home-heating-oil/)
+
+How Much Does Radiator Installation Cost?
+-----------------------------------------
+
+Plumbers typically charge between $45 and $150 (CAD 61 to CAD 203) per hour, while HVAC professionals charge between $75 and $150 (CAD 102 and CAD 203). As a rule of thumb, expect to pay between $200 and $800 (CAD 271 and CAD 1,083) per radiator, depending on several factors, such as the complexity of the installation and the unit type.
+
+You could reduce your costs if you know how to fit a radiator safely. However, you must have the necessary skills and tools to ensure you install it correctly to avoid any potential issues down the line. If you’re in doubt, contact a plumber or an HVAC technician.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

@@ -1,0 +1,61 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Can I Install a New Radiator Myself?"
+headline: "Can I Install a New Radiator Myself?"
+author: Elizabeth Michael
+tags: ["post"]
+publishDate: 2024-03-23
+basePath: https://library.homeserve.com/m/
+heroImage: 60c009c5968f07e8/Blog-GettyImages-1388212943.jpg
+heroAltDescription: "Maintaining a Radiator"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "If your radiator is completely shot, you may be wondering if you can just skip the middleman and install a new radiator yourself."
+articleAbstract: "Whether your radiator still has a bit of life left or it's completely shot, you may be wondering if you can just skip the middleman and install a new radiator yourself."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Can I Install a New Radiator Myself?"
+  parent: HVAC-Home-Improvement
+---
+  Can I Install a New Radiator Myself?
+
+Read about the radiator installation process, and find out if it's possible to self-install a radiator without the help of a professional.
+
+This article provides a detailed overview of the radiator installation process. It also offers insight on radiator self-installation without professional assistance and explains whether professional licenses or permits are necessary to install radiators. 
+
+Author: Elizabeth Michael
+
+Dealing with a malfunctioning radiator is no fun at all, especially in the middle of a cold snap. Whether your radiator still has a bit of life left or it's completely shot, you may be wondering if you can just skip the middleman and install a new radiator yourself. Electric wall radiators are pretty easy to install in a DIY fashion, but wall radiators that run on steam are a bit more complex and [may require professional assistance](https://www.forbes.com/home-improvement/hvac/radiator-replacement-cost/). Understanding the radiator installation process can help you make an informed decision on the future of your new heating system. 
+
+What Does the Radiator Installation Process Look Like? 
+-------------------------------------------------------
+
+Installing an electric radiator heat system is fairly simple. In most cases, all you'll need to do is unplug your existing unit and plug in your new radiator. However, depending on the size of your radiator, you may need some assistance with removal and installation. Specific weights can vary depending on the make, model and brand, but most electric radiators weigh between 37 and 124 pounds (17 and 55 kilograms). 
+
+Steam radiators generally weigh between 40 and 150 pounds and usually require a few sets of hands to move and set up. The [installation process](https://www.thisoldhouse.com/heating-cooling/21016120/how-to-replace-a-steam-radiator) for steam radiators is a bit more complex than their electric counterparts. Here's a quick overview of the process:
+
+*   Turn off your home's water supply and switch off the steam boiler.
+*   Use a wrench to loosen the nuts that mount the radiator to the wall. 
+*   Open the bleed valve and drain out any remaining water from the old radiator.
+*   Remove the old radiator and replace the hand valve and spud. 
+*   Use a wrench to connect the hand valve to the floor and spud, making sure the hand valve is completely parallel with the floor.
+*   Install the new radiator in place of the old unit, and use the wrench to connect it to the boiler pipe. 
+*   Open the hand valve and turn on the water supply and steam boiler.  
+    
+
+Can You Install a Radiator Yourself?
+------------------------------------
+
+While an electric radiator has a pretty straightforward installation, steam boiler radiators are a bit trickier. If you can handle the heavy lifting and you're comfortable with the detailed installation process for the steam-heated radiator, DIY installation is possible. However, if you run into any issues or have concerns about installing the unit safely, it's best to contact a licensed plumber for assistance. 
+
+If your home has a baseboard heating system that runs on hot water, this type of radiator should always be handled by a professional. Baseboard systems are powered by thermostats and connect to your home's boiler. While you may be able to mount the heater portion to the wall on your own, you'll need both a plumber and an electrician to ensure everything is set up safely and efficiently.
+
+Do You Need a Permit or License to Install a Radiator?
+------------------------------------------------------
+
+Permits or license requirements to install a radiator can vary from state to state. For example, the [state of Minnesota](https://www2.minneapolismn.gov/business-services/licenses-permits-inspections/construction-permits-certificates/mdr-permits/mechanical-heating-permits/) requires a permit to install heating appliances, including furnaces, boilers and baseboard heaters. In [New York](https://www.brickunderground.com/improve/renovate-replace-upgrade-radiator-energy-efficient-stylish-apartment-brownstone-townhouse-nyc), permits aren't required if you're simply swapping out the radiator and not performing any additional plumbing work. To determine whether you'll need a permit or license to install your new radiator, it's best to check with your city or state. 
+
+Is It a Good Idea to Install a Radiator Yourself?
+-------------------------------------------------
+
+Installing a radiator yourself may be a good idea if you're comfortable with heavy lifting and fully understand the installation process. Self-installation can help you save money and time, as long as the installation is completed safely. Before you attempt the installation, make sure to educate yourself on the steps to install a radiator and verify that your state or city allows for DIY installation without a permit or license.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

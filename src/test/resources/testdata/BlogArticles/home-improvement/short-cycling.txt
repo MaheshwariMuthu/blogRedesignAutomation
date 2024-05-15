@@ -1,0 +1,57 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Is Short-Cycling?"
+headline: "What Is Short-Cycling?"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2024-04-04
+basePath: https://library.homeserve.com/m/
+heroImage: 1bf9bd662d767179/Blog-GettyImages-1487606119.jpg
+heroAltDescription: "High efficiency furnace with air filter container"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Heating and AC short-cycling is a common issue with a range of causes. Learn what HVAC short-cycling is so you can get your system back on track."
+articleAbstract: "Heating and AC short-cycling is a common issue with a range of causes. Learn what HVAC short-cycling is and why it happens so you can get your system back on track."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Is Short-Cycling?"
+  parent: HVAC-Home-Improvement
+---
+  What Is HVAC Short-Cycling?
+
+Learn what HVAC short-cycling is and what it could mean for your home heating and cooling system.
+
+This article provides an overview of HVAC short-cycling. It breaks down what it is and why it happens.
+
+Author: Shelley Frost
+
+Your HVAC system probably isn't something you spend a lot of time thinking about ... until it stops working correctly. Homeowners are often quick to notice when something's not quite right. Heating and AC short-cycling is a common issue with a range of causes. Learn what HVAC short-cycling is and why it happens so you can get your system back on track. 
+
+What Does Short-Cycling Mean in HVAC Terms?
+-------------------------------------------
+
+AC or furnace short-cycling refers to an HVAC system that turns on and off more frequently than it should. It runs for a short time, shuts off for a short period and then turns back on, with each stage of the process happening faster than normal. 
+
+A system that turns on and off frequently uses more energy than it should and can cause strain on various parts, potentially leading to a system breakdown. That's due to the way the system works. It uses the greatest amount of energy when it first starts up to get the compressor running. When short-cycling happens, it's doing the startup process more frequently. Plus, AC and furnace short-cycling can make your home uncomfortable because the system doesn't run long enough to reach your desired temperature. 
+
+What Does Short-Cycling Look, Sound and Feel Like?
+--------------------------------------------------
+
+You can hear and feel the heating and cooling system turning on and off frequently if it's short-cycling. Pay attention to how long each cycle runs before the equipment shuts off. If it only runs for a few minutes and then stays off for only a few minutes, it's likely short-cycling. A higher utility bill with no obvious reason could be another subtle hint that the system is short-cycling because it uses more power. 
+
+You might also notice that your home doesn't feel comfortable. It won't likely reach the temperature you have set on the thermostat because it won't run long enough to reach that temperature. Your home might also feel humid, especially in the summer if you have AC short-cycling issues. That's because the system isn't running long enough to remove the excess moisture in the air before it shuts off. 
+
+What Are Some Common Reasons Heat Pumps, Furnaces and Air Conditioners Short-Cycle?
+-----------------------------------------------------------------------------------
+
+Short-cycling AC and furnace issues indicate a problem with the system. Something is causing the system to shut off before it should. Some possible causes of furnace and AC short-cycling include:
+
+* **Improper sizing.** If your HVAC equipment isn't sized properly for your home, it could cause constant short-cycling. You'll need a new system to stop the short-cycling if this is the cause. 
+* **Faulty thermostat.** When your thermostat malfunctions, it might tell the system to shut down too soon. This might happen if it reads the temperature incorrectly, for example. Replacing the thermostat typically fixes the issue. 
+* **Dirty air filter.** If you don't replace or clean your air filter regularly, it could become clogged, which reduces the airflow. It could also cause short-cycling AC problems. 
+* **Frozen evaporator coils.** The evaporator coils inside the unit can develop ice on them, typically because of a bigger issue such as restricted airflow or a refrigerant leak. This may cause short-cycling AC issues.
+* **Refrigerant leaks.** Your air conditioning needs refrigerant to cool your home properly. If the system has a leak, it can cause short-cycling. Refrigerant is dangerous and should only be handled by an HVAC professional. 
+
+Some of the issues, such as a clogged air filter, are easy to fix yourself. If you notice the issue, check the air filter to see if it's working. Check your thermostat to see if it has low batteries or shows any codes that indicate a problem. 
+
+Many causes of HVAC short-cycling are best left to professionals. They can accurately diagnose and fix the problem to get your system back on track. Having regular tune-ups done by an HVAC technician can keep the system in good working order and help prevent problems like HVAC short-cycling.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/kelkErNj5Dw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="What even is a condensate drain line???"></iframe>

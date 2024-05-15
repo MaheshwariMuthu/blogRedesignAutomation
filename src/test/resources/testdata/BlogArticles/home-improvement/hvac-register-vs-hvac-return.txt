@@ -1,0 +1,53 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What's the Difference Between HVAC Registers and HVAC Returns?"
+headline: "What's the Difference Between HVAC Registers and HVAC Returns?"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2024-02-24
+basePath: https://library.homeserve.com/m/
+heroImage: 4944abdf801d7893/Blog-GettyImages-185281243.jpg
+heroAltDescription: "HVAC Return Air Wall Register Vent"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Familiarizing yourself with the registers and vents of your HVAC system can help you determine if everything is working correctly."
+articleAbstract: "You probably don't pay much attention to the various registers and vents around your home. However, familiarizing yourself with the parts of your HVAC system can help you determine if everything is working correctly."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What's the Difference Between HVAC Registers and HVAC Returns?"
+  parent: HVAC-Home-Improvement
+---
+  Where's that rush of warm air coming from? And why isn't any air coming from that opening? You probably don't pay much attention to the various registers and vents around your home — unless you notice a buildup of dust bunnies when you walk by.
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+Familiarizing yourself with the parts of your HVAC system can help you determine if everything is working correctly.
+
+What Is an HVAC Register, and Where Is It Located?
+--------------------------------------------------
+
+A supply vent, sometimes called an HVAC register, is the grate-covered opening where heated or cooled air enters the room. When your HVAC system is running, you should feel air blowing out of the supply vents. You can think of your home comfort system as a circular motion. The furnace or AC pulls air from your home through the return vents, into the unit to heat or cool it and back into your home through the HVAC register system.
+
+The location of supply vents varies based on what the builder decides. You can find them on the floor near the edges of the room, on the wall or on the ceiling. Vents in older homes are typically on the floor, while newer homes often have them on the ceiling or high on the wall. Air tends to circulate better when the vents are higher in the room, and there's a lower chance of them getting blocked.
+
+What Is an HVAC Return Vent, and Where Is It Located?
+-----------------------------------------------------
+
+The return air vent is similar, but no air blows out of it. Instead, air from the room goes through the HVAC return vent and back to the main part of the system. From there, the air goes through the filter to remove contaminants. The system then heats or cools the air again. Having the right balance of supply and return vents helps keep the air circulating.
+
+Return vents often go near the floor on an interior wall. An ideal location is opposite the side of the supply vents to increase circulation. Most homes have fewer return vents than supply vents. Older homes often have only one return vent per floor, but newer construction homes may have one return vent per room. Keeping your return vents clear helps the system work efficiently.
+
+**More Related Articles:**
+
+*   [The Do’s and Don’ts of HVAC Maintenance](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+*   [Does My HVAC Filter Protect Against COVID-19?](https://www.homeserve.com/en-us/blog/home-improvement/hvac-filter-covid-19/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Is an HVAC Tune-Up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+What Are the Main Differences Between the Two?
+----------------------------------------------
+
+Both a supply vent and a return air vent have a grill-style cover over the opening. However, an HVAC return is often larger than a supply vent. Plus, the grills on supply vents usually have dampers built into them that you can adjust to open or close the vent. This controls how much air flows into that room. Return vents need to have a constant flow of air through them back to the main heating and cooling unit, so they don't have dampers on them.
+
+To identify which type of vent you're looking at, make sure your HVAC system is running. It can be on the heating or cooling setting. You may have to wait a few minutes for it to start blowing if you're just turning it on. Hold your hand next to the grate. If you feel air blowing out of it, you're dealing with a supply vent. If you feel a slight suction, it's a return vent. Holding a piece of paper to the vent can also help you differentiate between the two. A return vent should suction the paper against the grate, while a supply vent will blow it away. You can also look for a little lever, which controls the damper on a supply vent. If you don't see one, it's likely a return vent.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

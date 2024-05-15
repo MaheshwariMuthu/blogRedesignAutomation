@@ -1,0 +1,60 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Do My HVAC Registers Have Filters?"
+headline: "Do My HVAC Registers Have Filters?"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2024-02-23
+basePath: https://library.homeserve.com/m/
+heroImage: 6e9582cb48741517/Blog-GettyImages-1689733468.jpg
+heroAltDescription: "Air conditioning vent in floor of mobile home"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Changing your HVAC filter regularly keeps the system efficient and ensures the air flows freely through your HVAC registers. Some homes also have HVAC register filters for an extra layer of air filtration."
+articleAbstract: "Changing your HVAC filter regularly keeps the system efficient and ensures the air flows freely through your HVAC registers. Some homes also have HVAC register filters for an extra layer of air filtration."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Do My HVAC Registers Have Filters?"
+  parent: HVAC-Home-Improvement
+---
+  Your HVAC system keeps you cozy in the winter and cool in the summer without much thought or effort from you. But that doesn't mean it's a hands-off system.
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+Changing your HVAC filter regularly keeps the system efficient and ensures the air flows freely through your HVAC registers. Some homes also have HVAC register filters for an extra layer of air filtration.
+
+What Are HVAC Registers?
+------------------------
+
+An HVAC register, or a supply vent, delivers heated or cooled air from the central unit throughout your home. Every room that's connected to your HVAC system has at least one register in it, but some have more registers depending on the size. You can tell you're dealing with an HVAC register if you feel air blowing out of it when the system is on.
+
+Your home also has return vents, which pull air back to the main HVAC unit. They're usually larger than the registers, and they don't have louvers you can close like HVAC registers do. If you hold a piece of paper up to a return vent while the system is running, it should suction the paper to the grate slightly. You also won't feel air blowing out of a return vent.
+
+Where Are They Located?
+-----------------------
+
+Builders install HVAC registers strategically in each room to maximize energy efficiency. In older homes, you'll likely find the HVAC registers on the floor near your walls. New construction home builders typically install them on the wall near the ceiling or in the ceiling. The higher location helps the air circulate better, and the registers are less likely to get blocked by furniture or curtains.
+
+**More Related Articles:**
+
+[What’s an Air Handler?](https://www.homeserve.com/en-us/blog/home-improvement/what-is-air-handler/)
+
+[Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+
+[How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+
+[Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps...](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+
+[Is an HVAC Tune-Up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+
+Do My HVAC Registers Have Filters?
+----------------------------------
+
+Every system should have a main HVAC filter in the central unit inside the home. All the air that circulates through the heating and cooling system goes through that filter to remove debris. Some homes also have HVAC register filters as an extra air quality measure. They sit directly behind the cover of your registers or return vents.
+
+To determine if a vent has a filter, look through the slats to see if something is sitting behind the cover. Filters are typically white. You can also remove the cover to check behind it. Floor register covers often pull up without anything holding them in place. Wall and ceiling vents usually have two screws to secure them, so you'll need to remove the fasteners first. Filters for supply vents are usually thin and flexible, so they fit under the louvers. Return vent filters often look like regular HVAC filters with a cardboard frame.
+
+Do I Need Vent Filters?
+-----------------------
+
+Filters in your vents are optional, but they can offer a little extra air filtration. You might add them if you're concerned about allergens, if you have pets or if your home is particularly dusty. They don't replace your regular HVAC filter, though, so continue changing that filter regularly. Vent filters also aren't as efficient as main filters.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

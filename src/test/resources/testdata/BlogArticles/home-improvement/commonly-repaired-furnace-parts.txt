@@ -1,0 +1,92 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Top 3 Most Frequently Repaired Furnace Parts"
+headline: "Top 3 Most Frequently Repaired Furnace Parts"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-02-07
+basePath: https://library.homeserve.com/m/
+heroImage: 2a8178592162f7ad/Blog-GettyImages-1437589026.jpg
+heroAltDescription: "furnace repair"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Before you call a repair tech, get an idea of what you're dealing with. Here are the parts of your furnace that are most likely to fail."
+articleAbstract: "Before you call a furnace repair tech, get an idea of what you're dealing with. Here are the parts of your furnace that are most likely to fail."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Top 3 Most Frequently Repaired Furnace Parts"
+  parent: HVAC-Home-Improvement
+---
+  When the temperature drops and snow starts to fall, there’s nothing more comforting than a warm, cozy home. But unfortunately, some furnaces are aces when it comes to comedic timing, and they decide to call it quits _right_ in the middle of winter.
+
+**This May Also Interest You:** [**Smart HVAC Filters: What Are They and How Do They Work?**](https://www.homeserve.com/en-us/blog/home-improvement/smart-hvac-filters/)
+
+It’s at these times that homeowners typically contact a reputable HVAC repair service to get their heating system back on track. If you’re wondering what furnace repair parts are most likely to fail, we have the answer.
+
+Most Frequently Repaired Furnace Parts
+--------------------------------------
+
+Generally speaking, if you own an oil or gas furnace, repairs typically cost between $100 and $480 (CAD 136 and CAD 653), while the range for electric furnaces is between $100 and $380 (CAD 136 and CAD 517). Those are average figures for all types of repair or replacement. The following explores the three most common issues and their typical costs in more detail.
+
+### 1\. Starting Mechanism
+
+A furnace starting mechanism is the part of a home’s heating system that initiates the combustion process and ignites the fuel. Depending on the type of furnace, it can be a pilot light, an electronic igniter or a hot surface igniter. It’s therefore essential if the furnace is to produce heat and warm up the home’s air. If it malfunctions or fails, the furnace won’t start or run properly.
+
+Some common problems include:
+
+*   A dirty or clogged pilot light orifice preventing the gas from flowing and producing a steady flame
+*   A faulty thermocouple or flame sensor failing to detect the pilot light, so it shuts off the gas supply as a safety measure
+*   A worn-out or broken electronic igniter or hot surface igniter not producing a spark or enough heat to ignite the gas
+
+#### Price to Repair or Replace
+
+Many factors determine costs, including your location and your furnace’s make and model, so the following should be taken as a guide only. The likely cost of repairing the thermocouple is between [$100 and $300](https://homeguide.com/costs/furnace-repair-service-cost#:~:text=$100%20%E2%80%93%20$250-,Thermocouple,-$100%20%E2%80%93%20$300) (CAD 136 and CAD 408), according to [HomeGuide](https://homeguide.com/costs/furnace-repair-service-cost#:~:text=$100%20–%20$250-,Thermocouple,-$100%20–%20$300). For an igniter, it’s between $100 and $250 (CAD 136 and CAD 340).
+
+#### Maintenance Tips
+
+Regular maintenance can prevent or minimize starting mechanism issues, so you should have a qualified gas engineer service your furnace at least once a year. You should only contract with qualified experts who use quality furnace repair parts. One thing you can do, if you feel confident enough, is clean the pilot light orifice and the thermocouple or flame sensor with a soft brush or cloth to remove any dust, dirt or debris.
+
+**More Related Articles:**
+
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [How Much Do UV Lights Cost for HVAC Systems?](https://www.homeserve.com/en-us/blog/cost-guide/uv-lights-hvac/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+
+### 2\. Gas Flow
+
+A furnace gas flow issue is anything that affects the supply of natural gas or propane to the furnace burner. Without proper gas flow, the furnace won't work or will work inefficiently.
+
+Some common problems include:
+
+*   A closed or faulty gas valve preventing or restricting the gas from entering the furnace
+*   A clogged or damaged gas line blocking or leaking the gas, preventing it from reaching the furnace
+*   A dirty or faulty burner failing to ignite or burn the gas properly
+
+#### Price to Repair or Replace
+
+According to [HomeGuide](https://homeguide.com/costs/furnace-repair-service-cost#:~:text=$1,000%20%E2%80%93%20$3,000-,Gas%20valve,-$200%20%E2%80%93%20$800), the cost to replace a gas valve is anywhere between $200 and $800 (CAD 272 and CAD 1,088). Fixing a leak is likely to cost you between $100 and $400 (CAD 136 and CAD 544).
+
+#### Maintenance Tips
+
+Other than ensuring you get your furnace regularly serviced by a qualified technician, there’s little you can do to ensure gas flow. If you have an issue with the flow of gas, always leave it to an expert.
+
+### 3\. Thermostat
+
+A furnace thermostat controls the temperature of the air heated by the furnace. It works by sensing the temperature of the air in the room and sending signals to the furnace to turn on or off depending on your desired temperature setting. However, over time, thermostats can be prone to malfunctioning or failing.
+
+Some common problems include:
+
+*   The thermostat not having power due to dead batteries, a tripped breaker, a blown fuse or a loose wire
+*   Wires connecting it to the furnace being loose or damaged, preventing it from communicating with the appliance
+*   The thermostat having a dirty or faulty sensor, preventing it from sensing the temperature accurately or at all
+*   The setting being wrong or misadjusted for the type or model of the furnace or heating system
+
+#### Price to Repair or Replace
+
+Depending on your furnace’s make and model, the cost of repairing or replacing a thermostat can cost you between $190 and $480 (CAD 259 and CAD 653), based on data from [HomeGuide](https://homeguide.com/costs/furnace-repair-service-cost#:~:text=$100%20%E2%80%93%20$300-,Thermostat,-$190%20%E2%80%93%20$480).
+
+#### Maintenance Tips
+
+Check and replace the batteries or recharge the thermostat regularly, depending on your model. Clean the sensor and the screen with a soft cloth or brush to remove any dust, dirt or debris. Check and adjust the settings according to the type and model of your furnace and heating system.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

@@ -1,0 +1,93 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Top 3 Most Frequently Repaired Air Conditioner Parts"
+headline: "Top 3 Most Frequently Repaired Air Conditioner Parts"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-02-18
+basePath: https://library.homeserve.com/m/
+heroImage: 4d5c3bd81e5a990a/Blog-GettyImages-1436155137.jpg
+heroAltDescription: "Concentrated man doing maintenance service on a fan"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "AC went down? Don't sweat: These are the top three most common air conditioner problems."
+articleAbstract: "AC went down? Don't sweat: These are the top three most common air conditioner problems."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Top 3 Most Frequently Repaired Air Conditioner Parts"
+  parent: HVAC-Home-Improvement
+---
+  Probably the most unwelcome thing indoors is the air conditioner quitting right when it’s needed most. Imagine struggling through the sweat because your AC develops a fault while the sun’s blazing.
+
+**This May Also Interest You:** [**10 Ways to Make Your Central Air Conditioner More Efficient**](https://www.homeserve.com/en-us/blog/home-improvement/central-air-conditioner-energy-efficiency-tips/)
+
+We’ve made this guide to help you avoid this scenario, focusing on the three most common air conditioner repair parts. With a little bit of knowledge, your home can remain an oasis, no matter the temperature outdoors.
+
+Most Commonly Repaired Parts on an Air Conditioner
+--------------------------------------------------
+
+Many things can go wrong with an AC, but these three air conditioner repair parts are habitual culprits. Let’s look at what causes them to fail and how much the repairs might cost you. Keep in mind that your location and the brand and model of your HVAC system will influence the cost of your AC repair parts and labor fees.
+
+### 1\. Capacitors
+
+Capacitors initiate and maintain the electrical processes powering your AC's motor. They're like temporary storage units for electrical energy, ready to provide the jolt needed to start the motor and keep it running smoothly. When they fail, your AC unit might struggle to start, resulting in inadequate cooling and possible damage to other AC components. Increased energy consumption is another effect and will impact your utility bills.
+
+The most common causes of capacitor faults are:
+
+*   Weakening or failing due to the constant cycling and electrical demands
+*   Fluctuations in voltage or power surges placing electrical stress on them
+*   Struggle to initiate the startup sequence due to misalignment
+
+#### Price to Repair or Replace
+
+[HomeGuide](https://homeguide.com/costs/ac-capacitor-replacement-cost#:~:text=by%20HomeGuide%20members.-,AC%20capacitor%20cost,-An%20AC%20capacitor) says you’re likely to pay between $10 and $50 (CAD 14 and CAD 68) for a low-end part and between $60 and $140 (CAD 82 and CAD 191) for one of higher quality. The overall cost for the AC repair ranges between $80 and $400 (CAD 109 and CAD 544).
+
+#### Maintenance Tips
+
+Watch out for obvious signs of wear and tear, such as bulging or leaking. Consider investing in a quality surge protector to shield your air conditioner from electrical stress and voltage fluctuations. Ideally, schedule professional HVAC maintenance from a trusted air conditioning service provider.
+
+**More Related Articles:**
+
+*   [How Much Does It Cost to Install an Air Conditioner?](https://www.homeserve.com/en-us/blog/cost-guide/air-conditioner-installation-cost/)
+*   [What Size Air Conditioner Do I Need?](https://www.homeserve.com/en-us/blog/buying-guide/air-conditioner-size/)
+*   [HVAC System Going ‘Thump’ in the Night? Here’s Why It’s Making Noise](https://www.homeserve.com/en-us/blog/home-improvement/hvac-making-noise/)
+*   [So Your AC Went Kerplunk: Here’s What to Do Next](https://www.homeserve.com/en-us/blog/how-to/broken-air-conditioner/)
+*   [Hot This Summer? Here’s Everything You Need to Know to Keep Cool](https://www.homeserve.com/en-us/blog/home-improvement/fans-ac-everything-you-need-to-know/)
+
+### 2\. Compressors
+
+Compressors circulate refrigerant, facilitating its transformation from a gas to a liquid state. This phase change is crucial for absorbing and releasing heat, enabling the AC unit to regulate indoor temperatures effectively. Consequently, it’s a contender for the air conditioning repair part you’ll want fixed first, because when compressors fail, so does the unit’s heating and cooling capacity.
+
+The most common causes of compressor faults are:
+
+*   Simple wear and tear due to prolonged use, resulting in a gradual deterioration of its internal parts
+*   Inadequate or excessive refrigerant levels, as well as refrigerant cycle issues
+*   Voltage fluctuations, power surges or electrical imbalances placing excessive stress on the compressor
+
+#### Price to Repair or Replace
+
+Replacing or repairing a compressor is a particularly expensive air conditioning repair. The cost range varies wildly, from as little as [$450 to $3,500](https://homeguide.com/costs/ac-compressor-cost) (CAD 612 to CAD 4,757), depending on the quality of the part and local labor fees. The size of the compressor is also a factor, with 5-ton units costing substantially more than their 2-ton alternatives.
+
+#### Maintenance Tips
+
+Regularly inspect the unit for signs of wear and tear, such as oil leaks or unusual noises. Ensure the compressor has proper ventilation, and keep the surrounding area free from debris to optimize airflow. Replace air filters following the manufacturer’s advice and instructions, and schedule routine professional maintenance.
+
+### 3\. Thermostats
+
+Thermostats regulate your home’s temperature by monitoring and controlling the HVAC unit’s operation. Failure can lead to inaccurate temperature readings, unresponsiveness to your input or even a complete system breakdown. Inaccurate readings may cause the AC unit to run excessively, using more energy and increasing your utility bills. Uneven cooling is another unwelcome byproduct of a faulty thermostat.
+
+The most common causes of thermostat faults are:
+
+*   Dirt and dust in the thermostat's sensors and components
+*   Wiring problems, loose connections or faulty electrical components disrupting communication with the HVAC system
+*   Thermostats that rely on batteries for power becoming unresponsive or inaccurate due to low or dead batteries
+
+#### Price to Repair or Replace
+
+Including the unit and professional installation, [HomeGuide](https://homeguide.com/costs/thermostat-installation-cost) says you can expect to pay between $140 and $350 (CAD 191 and CAD 476) to replace a thermostat. A significant factor in costs will be the type of thermostat. A manual one can cost as little as $55 (CAD 75) to buy and install, while a top-of-the-range smart thermostat will be in the region of $470 (CAD 639).
+
+#### Maintenance Tips
+
+To prevent inaccurate temperature readings, place the thermostat away from direct sunlight, drafts and heat-emitting appliances. Regularly clean its sensors and components to remove anything that may affect its precision. Check and replace batteries as needed, typically on an annual basis, and periodically review and recalibrate the thermostat's settings for accurate temperature control.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

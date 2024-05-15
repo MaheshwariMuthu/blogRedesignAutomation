@@ -1,0 +1,53 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Why Does My House Have a Radiator?"
+headline: "Why Does My House Have a Radiator?"
+author: Elizabeth Michael
+tags: ["post"]
+publishDate: 2024-02-27
+basePath: https://library.homeserve.com/m/
+heroImage: 8d4b35e578a74ec/Blog-GettyImages-1442559062.jpg
+heroAltDescription: "mature adult man sits and warms himself by the radiator in the room"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Radiators are one of the oldest and most reliable types of heating systems, and many older homes continue to use boiler and radiator heat today."
+articleAbstract: "Radiators are one of the oldest and most reliable types of heating systems, and many older homes continue to use boiler and radiator heat today. Your home may also have a radiator instead of a furnace based on the climate you live in."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Why Does My House Have a Radiator?"
+  parent: HVAC-Home-Improvement
+---
+  While it can be a little confusing to discover a radiator in a new home or rental, there's really nothing to fear. Radiators are one of the oldest and most reliable types of heating systems, and many older homes continue to use boiler and radiator heat today. Your home may also have a radiator instead of a furnace based on the climate you live in.
+
+**This May Also Interest You:** [**Noisy Radiator: Why Does My Heating System Clang?**](https://www.homeserve.com/en-us/blog/home-improvement/heating-system-clang/)
+
+Radiators may appear antiquated, but they're true powerhouses in the heating game, especially in parts of the United States where freezing winter temperatures are common. Unlike furnaces that run on forced air, radiators are powered by hot water and steam. This helps keep the air warm, comfortable and consistent.
+
+Why Do Some Homes Have Radiators Instead of Furnaces?
+-----------------------------------------------------
+
+There are many reasons a home may have a radiator instead of a furnace. Some older homes, particularly in the Midwest and on the East Coast, were originally built with radiators and their, owners never made the switch. Some homeowners prefer radiator heat over forced air because radiators emit more humidity. Forced air furnaces use indoor air and cold outdoor air. When the furnace pulls in the cold air, it can actually [reduce the humidity](https://www.serviceexperts.com/blog/does-a-gas-furnace-dry-out-the-air-in-your-home/) in your home and dry out the indoor air. A homeowner may also opt for a radiator over a furnace because radiators are generally easy to install and maintain. Radiators don't need any ductwork, and they tend to run quietly.
+
+Where in the United States Are Radiators Most Common?
+-----------------------------------------------------
+
+Radiators are most common in the Pacific Northwest, in the Midwest and along the East Coast, where the seasons change and the winters are cold. In New York, approximately [80% of homes](https://www.ohmconnect.com/blog/home-improvement/surviving-winter-in-nyc-how-to-handle-an-overheated-or-freezing-apartment) use steam heat or radiator systems, and many older homes in states such as Washington and Minnesota still operate with boiler systems and radiators.
+
+Boilers perform well in climates with long winter seasons and temperatures that are known to drop below zero, as they provide consistent, even heat. While furnaces work great in mild to cold climates, they're known to take longer than radiators to fully heat spaces during severely cold weather. Additionally, when you use a traditional furnace with forced air heat, the hot air travels upward. Your room will still warm up, but it can also create cold spots as the heat rises. Hot air from a radiator also rises, but it falls back down to ground level and is reheated once it cools.
+
+**More Related Articles:**
+
+*   [How to Fix a Radiator Leak in 4 Steps](https://www.homeserve.com/en-us/blog/how-to/fix-radiator-leak/)
+*   [How Much Does Boiler Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-repair/)
+*   [It’s Too Hot in Here! How to Turn Down Your Radiator](https://www.homeserve.com/en-us/blog/how-to/turn-down-radiator/)
+*   [How Much Does It Cost to Install or Replace a Boiler?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-replacement/)
+*   [How Does Heating Your Home With Oil Work — and Who’s Still Using It?](https://www.homeserve.com/en-us/blog/home-improvement/home-heating-oil/)
+
+How Does Radiator Heat Work?
+----------------------------
+
+Radiators are connected to boilers or water heaters that create hot water and steam. When the radiator is running, the steam or heat travels through a series of pipes and into the traditional radiator or baseboard radiator. Traditional radiators are designed with vertical tubes that run from the top to the bottom of the unit, while baseboard radiators have horizontal tubes that run horizontally. Both types are connected to the pipes that receive heat from the boiler.
+
+The steam or hot water then works to heat up the radiator's coils, and the coils push the hot air out into your space. Traditional radiators are usually installed in the coldest spot of a room, and baseboard heat radiators are generally installed beneath windows and along the baseboards of interior walls. Many larger homes have several radiator units, while a single radiator provides plenty of heat for smaller spaces such as studio apartments.
+
+Similar to furnaces, you can adjust and control radiator temperature through a standard thermostat. Upright traditional radiators are also designed with knobs to adjust the heat levels from room to room.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

@@ -1,0 +1,113 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Top 3 Most Frequently Repaired Refrigerator Parts"
+headline: "Top 3 Most Frequently Repaired Refrigerator Parts"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-02-11
+basePath: https://library.homeserve.com/m/
+heroImage: 5d215bdc45cb44b3/Blog-GettyImages-1410733729.jpg
+heroAltDescription: "Handyman fixing a fridge at a house"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "We don’t realize how much we need refrigerators until something goes wrong. These are the three most common culprits."
+articleAbstract: "We don’t understand how much we need refrigerators until something goes wrong. These are the three most common culprits."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Top 3 Most Frequently Repaired Refrigerator Parts"
+  parent: Appliances
+---
+  We don’t understand how much we need refrigerators until something goes wrong. Normally, they’re ultra-reliable, but sometimes we open the door to find the food isn’t as cold as it should be or the freezer is full of frost and ice.
+
+**This May Also Interest You:** [**How Do I Reset My Samsung Refrigerator?**](https://www.homeserve.com/en-us/blog/how-to/reset-samsung-refrigerator/)
+
+If you recognize these scenarios, you may already have experience with refrigerator repairs. If not, let’s look at the top three most common refrigerator repair parts so you're more aware if it happens to you.
+
+Most Commonly Repaired Parts on a Refrigerator
+----------------------------------------------
+
+On average, refrigerator repairs typically range between $125 and $500 (CAD 170 and CAD 680), according to [HomeGuide](https://homeguide.com/costs/refrigerator-repair-cost#:~:text=Getting%20estimates-,Refrigerator%20repair%20cost,-Refrigerator%20repair%20costs). Keep in mind that the costs mentioned here can fluctuate due to your fridge’s make and model and the labor fees in your area.
+
+### 1\. Electronic Control Board
+
+The electronic control board regulates the temperature and functions of your fridge. It receives signals from various sensors and switches and sends commands to the compressor, fans, ice maker, water dispenser and other parts. Without it, your fridge wouldn’t be able to cool properly or perform its normal tasks.
+
+Some common causes of faults include:
+
+*   Power surges or fluctuations that damage it or its components
+*   Moisture or water leakage causing short circuits
+*   Wear and tear from age or frequent use
+
+You may notice some of these symptoms if it fails:
+
+*   The fridge is too warm or too cold.
+*   It doesn’t defrost properly.
+*   The ice maker stops working or makes too much ice.
+*   The water dispenser leaks or doesn’t dispense water.
+*   The fridge makes unusual noises or smells.
+
+#### Price to Repair or Replace
+
+According to [HomeGuide](https://homeguide.com/costs/refrigerator-repair-cost#:~:text=$250%20%E2%80%93%20$400-,Control%20board,-$400%20%E2%80%93%20$750), repairing or replacing this refrigerator repair part runs between $400 and $750 (CAD 544 and CAD 1020).
+
+#### Maintenance Tips
+
+Keep your fridge away from heat sources, direct sunlight and electrical appliances that may cause power surges. Avoid dropping, hitting or exposing your fridge to extreme temperatures. Finally, clean your fridge regularly and remove any dust, dirt, food particles or spills that may clog the vents or affect the airflow.
+
+**More Related Articles:**
+
+*   [Will the Fridge Fit? How to Measure a Refrigerator](https://www.homeserve.com/en-us/blog/how-to/measure-refrigerator/)
+*   [How to Organize Your Fridge in 5 Steps](https://www.homeserve.com/en-us/blog/how-to/fridge-organization/)
+*   [Ever Cleaned Your Refrigerator Coils? Sure, We Believe You (But Here’s How, Just in Case)](https://www.homeserve.com/en-us/blog/how-to/clean-refrigerator-coils/)
+*   [How Do I Reset My Samsung Refrigerator?](https://www.homeserve.com/en-us/blog/how-to/reset-samsung-refrigerator/)
+*   [We Gotta Move These Refrigerators: A Step-by-Step Guide to Moving Your Fridge](https://www.homeserve.com/en-us/blog/how-to/move-refrigerator/)
+
+### 2\. Defrost Thermostat
+
+A refrigerator's defrost thermostat is a small device that regulates your freezer's defrost cycle. It’s located behind the back panel of the freezer compartment and measures the temperature of the evaporator coils. When the temperature is too high, it signals the heater to turn on and melt any ice that's formed on the coils. This prevents frost buildup and ensures proper cooling of the freezer.
+
+Some reasons it might fail include:
+
+*   Wear and tear, power surges or water leaks
+*   Installation of an incompatible replacement 
+*   Incorrect installation
+*   Loose, broken or shorted wires
+
+The consequences of a failure might include:
+
+*   The freezer running continuously or intermittently, causing excessive noise and energy consumption
+*   The freezer not reaching the desired temperature setting, resulting in food spoilage and quality loss
+*   Uneven cooling, leading to frost accumulation and ice forming on food items
+
+#### Price to Repair or Replace
+
+The overall cost for repairing or replacing this refrigerator repair part is likely to be between [$100 and $400](https://homeguide.com/costs/refrigerator-repair-cost#:~:text=$220%20%E2%80%93%20$530-,Thermostat,-$100%20%E2%80%93%20$400) (CAD 136 and CAD 544).
+
+#### Maintenance Tips
+
+Check the thermostat regularly for signs of damage or malfunction, and keep the refrigerator clean and dry. Avoid spilling liquids or foods on the back panel of the freezer compartment. If you think the thermostat is faulty, contact a qualified technician as soon as you can.
+
+### 3\. Evaporator Fan Motor
+
+An evaporator fan motor helps cool the air inside the freezer and refrigerator compartments. It’s usually located behind the back panel of the freezer and draws air through the evaporator coils, where it removes heat from the air. The fan motor also distributes the cooled air throughout the appliance, ensuring all compartments are consistently cold.
+
+Some possible reasons why it might fail include:
+
+*   It’s worn out or damaged due to age, power surges or water leaks.
+*   It hasn’t been installed correctly or securely in its socket.
+*   The motor’s wires are loose, broken or shorted.
+
+The consequences of a failure could be:
+
+*   The freezer isn't reaching the desired temperature setting, resulting in food spoilage and quality loss.
+*   The freezer’s cooling is uneven, resulting in frost accumulating and ice forming on food items.
+*   The freezer is less efficient overall.
+*   Cooling is noticeably reduced, and it needs frequent defrosting.
+
+#### Price to Repair or Replace
+
+Figures from [HomeGuide](https://homeguide.com/costs/refrigerator-repair-cost#:~:text=Evaporator%20fan%20motor) suggest the likely costs for repairing or replacing this fridge repair part to be between $250 and $400 (CAD 340 and CAD 544)
+
+#### Maintenance Tips
+
+Check the fan motor regularly for signs of damage or malfunction, and avoid spilling liquids or foods onto the back panel, where they might enter its sensitive mechanisms. Finally, ensure you keep your refrigerator clean and dry.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/2aLs7X_hMxU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Clean Refrigerator Condenser Coils at Home"></iframe>

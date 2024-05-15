@@ -1,0 +1,81 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Does a Boiler Work?"
+headline: "How Does a Boiler Work?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-02-29
+basePath: https://library.homeserve.com/m/
+heroImage: 466af0ca6482f61c/Blog-GettyImages-186976805.jpg
+heroAltDescription: "boiler"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "How does a boiler work? Learn how these marvels keep homes warm while also supplying hot water."
+articleAbstract: "Learn how boilers generate warmth and hot water, as well as the different types of boilers, their advantages and disadvantages, and how they distribute heat throughout homes."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "How Does a Boiler Work?"
+  parent: HVAC-Home-Improvement
+---
+  How Does a Boiler Work?
+
+How does a boiler work? Learn how these marvels keep homes warm while also supplying hot water.
+
+This article explains how boilers generate warmth and hot water. It covers the different types of boilers, their advantages and disadvantages and how they distribute heat throughout homes.
+
+Author: Rowan Guthrie
+
+Nestled in the heart of homes across the country, boilers work tirelessly, silently transforming fuel into warmth to chase away the cold. But how does a boiler work? We’re going to delve into its inner workings and reveal the fascinating interplay of physics, engineering and comfort. So, settle in and let's see how this unsung hero can keep your home toasty warm.
+
+What Is a Boiler?
+-----------------
+
+A boiler is a closed vessel containing water or steam, which is heated by a fuel source and then circulated through pipes, radiators or underfloor heating systems. Its purpose is to warm rooms and provide hot water for faucets and showers. Boilers can also be connected to thermostats, letting you control your heating and hot water temperatures.
+
+What Are the Types of Boilers?
+------------------------------
+
+There are three main types of boiler heating systems, each with pros and cons, including different costs, levels of efficiency and eco-friendliness.
+
+### Combi Boilers
+
+Combi, or combination, boilers provide heating and hot water from a single unit without the need for a separate hot water cylinder or tank. They’re compact, efficient and easy to install, making them ideal for smaller homes and apartments. However, homes with larger families may find them wanting, as their capacity for producing heat and hot water isn’t as great as the next two options.
+
+### System Boilers
+
+These are similar to combi boilers but have a separate hot water cylinder that stores the hot water until needed. System boilers are more efficient than conventional boilers as they don’t have a cold water tank that can lose heat. However, they take up more space than combi boilers and are often the costliest of the three types of boilers covered here.
+
+### Conventional Boilers
+
+These are the oldest and most traditional types of boilers. They have a hot water cylinder and a cold water tank, which are usually located in the basement, a utility room or a dedicated room. They’re suitable for larger homes, especially those with low water pressure. However, they take up more space and require more pipework.
+
+How Does a Boiler Heat Water?
+-----------------------------
+
+The type of fuel plays a crucial part in how boilers heat water. There are three main types: gas, oil and electricity. Each has its advantages and disadvantages, depending on its availability, cost and environmental impact.
+
+### Gas Boilers
+
+Gas boilers use natural gas, which is supplied by the local gas company through gas lines. They’re cheaper and more eco-friendly than oil or electric boilers, as gas is a cleaner and more efficient fuel. They work by burning gas in a combustion chamber, which creates heat that's transferred to the water or steam in the boiler. Gas boilers require a flue or chimney to vent the waste gases and a condensate pipe to drain the excess water.
+
+### Oil Boilers
+
+Oil boilers are a solution when homes aren’t connected to a gas network. The oil is transported by trucks and stored in a tank on the property. Oil boilers are more expensive and less eco-friendly than gas, as oil is a fossil fuel that produces more carbon emissions and requires more maintenance. The boilers work by spraying oil into a combustion chamber, where it’s ignited by a spark, generating heat that’s transferred to the water or steam in the boiler. Like gas, oil boilers require a flue or chimney to vent the waste gases and a condensate pipe to drain the excess water.
+
+### Electric Boilers
+
+Another option for homes not connected to a gas network is an electric boiler. Supplied by the main electricity network, they’re cheaper and easier to install than gas or oil boilers, as they don’t require a flue, chimney or condensate pipe. They’re also more eco-friendly, as they don’t produce any carbon emissions or waste gases. Electric boilers work by using an electric element to heat the water or steam in the boiler.
+
+How Does a Boiler Distribute Heat?
+----------------------------------
+
+The heated water (or steam) travels through pipes installed throughout the house. Unlike forced air systems, such as HVAC, there are no ducts involved. The heat reaches individual rooms through different methods, such as:
+
+*   Radiators
+*   Baseboards, which are similar to radiators but smaller and installed along the base of walls
+*   Radiant (underfloor) heating
+*   Hydronic air handlers
+
+Once the water cools down after releasing its heat, it flows back to the boiler to be reheated, completing the cycle.
+
+Finally, some other points to remember about how boilers work are that they distribute heat more evenly than forced-air systems while also providing hot water. However, depending on local conditions, they might be slower to respond to thermostat changes than furnaces.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

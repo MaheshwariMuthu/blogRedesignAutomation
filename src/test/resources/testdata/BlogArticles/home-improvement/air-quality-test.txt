@@ -1,0 +1,68 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Do I Need an Air Quality Test?"
+headline: "Do I Need an Air Quality Test?"
+author: Elizabeth Michael
+tags: ["post"]
+publishDate: 2024-03-13
+basePath: https://library.homeserve.com/m/
+heroImage: 28b48678225233e0/Blog-GettyImages-1339982893.jpg
+heroAltDescription: "Touching the dust on a surface of furniture with finger"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Air quality tests measure pollutants, offering both peace of mind and an important heads-up in the event of an emergency."
+articleAbstract: "Air quality tests measure pollutants ranging from allergy-inducing dust to potentially dangerous gases, offering both peace of mind and an important heads-up in the event of an emergency."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Do I Need an Air Quality Test?"
+  parent: HVAC-Home-Improvement
+---
+  If your home tends to stay on the muggy side or you find yourself sneezing and reaching for the tissues whenever you run your HVAC system, there may be an air quality issue that should be tested and addressed. High humidity levels, mold growth and dust kicked out from your heater or air conditioner can all contribute to bad air inside the home.
+
+**This May Also Interest You:** [**Is an Air Filter Subscription Service Worth the Cost?**](https://www.homeserve.com/en-us/blog/home-improvement/air-filter-subscription/)
+
+Air quality tests measure pollutants ranging from allergy-inducing dust to potentially dangerous gases, offering both peace of mind and an important heads-up in the event of an emergency.
+
+What Is a Home Air Quality Test?
+--------------------------------
+
+A home air quality test checks for and measures levels of pollutants such as allergens, carbon monoxide, radon and chemicals in the home. Testing can be performed by a professional air quality specialist, and there are several over-the-counter test kit options that measure for pollutants and monitor air quality. Some common do-it-yourself tests include:
+
+* **Rapid mold testing kits:** These kits use assay tests to measure mold levels in as little as 5 minutes.
+* **Digital air quality monitors:** Available in several models, these tests are designed to consistently monitor various pollutant levels and provide digital readings.
+* **Sampling kits:** Sampling kits provide small tools and collection containers for consumers to collect air samples at home. The samples are then mailed to a laboratory and analyzed.
+
+What Types of Home Pollutants Do These Tests Show?
+--------------------------------------------------
+
+Specific pollutants detected on a home [air quality test](https://molekule.com/blogs/all/the-ultimate-guide-to-indoor-air-quality-testing) can vary, depending on the type of tests used and whether you're working with an IAQ specialist or using a home testing kit. Most tests are designed to detect some or all of the following home pollutants.
+
+* **Carbon monoxide:** [Carbon monoxide](https://www.cdc.gov/co/faqs.htm) or CO is a gas present in burning fuel. It's odorless and colorless, and high levels of CO in the home can cause illness in both humans and animals.
+* **Radon:** Radon is a natural gas that forms when certain metals in soil and water break down. Radon can make its way inside homes through cracks and gaps. While this gas is natural, constant exposure may increase the risk of developing [lung cancer](https://www.cancer.org/cancer/risk-prevention/radiation-exposure/radon.html).
+* **Particulate matter:** Particulate matter refers to tiny particles that circulate through the air. Dust, cigarette smoke, dirt and soot are some examples of particulate pollutants.
+* **Volatile organic compounds (VOCs):** VOCs are gases created from products such as paint, cleaning solutions and air fresheners. Wood-burning stoves and tobacco products can also emit VOCs.  
+    
+
+**More Related Articles:**
+
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [Replacing Your HVAC Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Does Your Home Need a Whole-House Humidifier?](https://www.homeserve.com/en-us/blog/home-improvement/whole-house-humidifier/)
+
+Is It Necessary to Have Home Air Quality Tests?
+-----------------------------------------------
+
+While there are [no current standards](https://worth.com/indoor-air-quality-no-standards-but-sudden-concern/) for indoor air quality testing, the process can be highly beneficial in detecting and eliminating potentially dangerous pollutants and allergens. Clean circulating air in your home may help prevent mold growth, reduce allergic symptoms and balance out high humidity or overly dry air.
+
+IAQ testing frequency recommendations can vary depending on your specific needs. In general, most air quality professionals suggest scheduling a baseline air testing appointment if you recently purchased or moved into a new home. If you have a specific concern, such as visible mold growth, water damage, radon or carbon monoxide, it's recommended to schedule testing right away.
+
+How Do You Know If You Need a Test in Your Home?
+------------------------------------------------
+
+There are many signs to look out for that may indicate it's time to schedule an air quality test. Musty or moldy odors can suggest hidden mold growth. Because mold can sometimes lead to health issues such as [allergies, asthma and headaches](http://www.idph.state.il.us/envhealth/factsheets/mold.htm), testing can provide fast results and notify homeowners if they need to take action.
+
+Heavy dust buildup on your vents or dust particles circulating through the air can point to an issue with your HVAC ventilation system. Dust and dirt are considered VOCs and may contribute to eye irritation and allergic symptoms. If your home's air feels [overly humid](https://extension.umn.edu/moisture-and-mold-indoors/do-you-have-too-much-moisture-your-home), there may be a ventilation issue or a plumbing leak that should be addressed as soon as possible to prevent mold growth, water damage and other potential issues.
+
+Radon and carbon monoxide are odorless and colorless, so it can be difficult to determine dangerous levels in your home. If you're concerned about the possible presence of these potentially dangerous gases, you may want to purchase an over-the-counter air quality monitor or schedule service with an IAQ specialist.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

@@ -1,0 +1,56 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Switch to an Electric Furnace?"
+headline: "How Much Does It Cost to Switch to an Electric Furnace?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-02-19
+basePath: https://library.homeserve.com/m/
+heroImage: 27fdcf0be878fbfe/Blog-GettyImages-1361606702.jpg
+heroAltDescription: "furnace in basement"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Tired of your gas furnace and looking for a cheaper, cleaner and safer option? Discover the process and costs of switching from a gas to an electric furnace."
+articleAbstract: "Tired of your gas furnace and looking for a cheaper, cleaner and safer option? Discover the process and costs of switching from a gas to an electric furnace."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Switch to an Electric Furnace?"
+  parent: HVAC-Cost-Guide
+---
+  A lot of homes use gas furnaces, but let’s face it — there are cheaper and safer ways to keep houses warm. Many homeowners are fed up with skyrocketing gas bills and the risks associated with a poisonous and combustible material like gas.
+
+**This May Also Interest You:** [**HVAC System Stop Working? Try These Troubleshooting Tips Before You Call for Service**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-troubleshooting-tips/)
+
+Switching from a gas furnace to an electric one can be a great option for you and your loved ones. Electric furnaces are increasingly popular because they’re easier to maintain than gas, as well as being safer and cheaper to run.
+
+What Is the Process of Switching From a Gas Furnace to an Electric One?
+-----------------------------------------------------------------------
+
+The process of switching from a gas furnace to an electric one involves several steps.
+
+* **Choosing an electric furnace.** There are different types of electric furnaces, including electric heat pump, electric resistance and electric hybrid. Each type has its pros and cons, depending on your climate, home size and energy needs. You’ll need to compare the features, performance and efficiency of each type to find the one that suits your situation best.
+* **Checking your electrical system.** Electric furnaces need a higher voltage and amperage than gas furnaces, which means you’ll probably need to upgrade your electrical wiring, circuit breaker and outlet to handle the increased load. For this job, you’ll have to hire a licensed electrician to inspect your electrical system and make the necessary changes.
+* **Removing your gas furnace.** You’ll need to disconnect your gas furnace from the gas line, the ductwork and the thermostat. Additionally, you’ll also need to cap off the gas line and seal the vent pipe. These jobs should be left to professionals. You can sell, donate or recycle your old gas furnace, depending on its condition and age.
+* **Installing your electric furnace.** Your electric furnace will have to be connected to the electrical wiring, the ductwork and the thermostat. You'll also need to install a new air filter and a condensate drain, which you can do yourself if you have the know-how, or you can hire a professional.
+
+**More Related Articles:**
+
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [Replacing Your HVAC Air Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Is an HVAC Tune-up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+
+How Much Does It Cost to Switch From a Gas Furnace to an Electric Furnace?
+--------------------------------------------------------------------------
+
+The total cost of switching depends on several factors, including the price of the electric furnace, the cost of the electrical system upgrade, the cost of the gas furnace removal and the cost of the electric furnace installation. Here’s a breakdown of the average costs for each component. (Pricing information via [HomeGuide](https://homeguide.com/costs/electric-furnace-cost).)
+
+* **Electric furnace:** $600 to $2,600 (CAD 803 to CAD 3,478) depending on the furnace type, size, brand and efficiency level. You can save money by looking for discounts, rebates or sales or by buying a used or refurbished model.
+* **Electrical system upgrade:** $1,300 to $2,500 (CAD 1,739 to CAD 3,344), depending on the electrician's rate, the wiring complexity and the outlet location. You can save money by comparing quotes from different electricians, or by doing it yourself if you have the skills and tools. Warning: If you’re doing it yourself, ensure you follow all safety precautions to keep you and your home safe.
+* **Gas furnace removal:** $150 to $400 (CAD 201 to CAD 535), depending on how you dispose of your old gas furnace. You can save money by selling, donating or recycling your old gas furnace or by hauling it away yourself.
+* **Electric furnace installation:** $850 to $4,000 (CAD 1,137 to CAD 5,350), depending on the installer's rate, permits and inspections and the installation difficulty. You can save money by installing the furnace yourself or by negotiating a lower price with the installer.
+
+The total cost of switching from a gas furnace to an electric furnace can range from $2,900 to $9,500 (CAD 3,879 to CAD 12,706), depending on the above factors. Fortunately, this is a one-time expense, some of which you could recoup through lower energy bills over time.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

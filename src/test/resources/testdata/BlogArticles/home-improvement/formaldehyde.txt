@@ -1,0 +1,88 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Is Formaldehyde Hiding in Your Home? An Air Quality Quandary"
+headline: "Is Formaldehyde Hiding in Your Home? An Air Quality Quandary"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-04-06
+basePath: https://library.homeserve.com/m/
+heroImage: 69f94d995226bebd/Blog-GettyImages-1414417731.jpg
+heroAltDescription: "Formaldehyde in bottle"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Discover the pervasive presence of formaldehyde in your home and how it impacts health. Learn detection methods and strategies for a safer indoor environment."
+articleAbstract: "This article reveals how common formaldehyde is in homes and the health risks it poses. It also provides easy-to-follow advice on spotting sources, checking levels and reducing exposure for a safer living environment."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Is Formaldehyde Hiding in Your Home? An Air Quality Quandary"
+  parent: HVAC-Home-Improvement
+---
+  Formaldehyde is a potentially harmful gas that permeates many aspects of our daily lives. From household products to combustion sources, its presence poses health risks that demand attention.
+
+**This May Also Interest You:** [**Allergies Are Nothing to Sneeze at. Here Are 12 Ways to Allergy-Proof Your Home**](https://www.homeserve.com/en-us/blog/how-to/allergy-proof-your-home/)
+
+What Is Formaldehyde?
+---------------------
+
+A colorless, flammable gas, formaldehyde, is widely used in various industries and products, such as plastics, textiles, cosmetics and disinfectants. It’s a volatile organic compound, which means it can easily evaporate into the air at room temperature. Exposure to it can cause various health problems, and long-term exposure to high levels can increase the risk of developing certain types of cancer, such as leukemia and nasopharyngeal cancer.
+
+What Are Some Sources of Formaldehyde in Your Home?
+---------------------------------------------------
+
+Formaldehyde can be found in many products and materials in your home, including:
+
+*   Pressed wood products, such as particleboard, plywood, fiberboard and laminated flooring
+*   Furniture, cabinets and doors, as well as products coated with paints, varnishes or sealants containing formaldehyde
+*   Carpets, rugs, drapes, upholstery and other fabrics that are treated with formaldehyde-based finishes or dyes to make them wrinkle-resistant, stain-resistant or flame-retardant
+*   Household cleaners, disinfectants, adhesives and other products containing formaldehyde derivatives, such as formalin, formic acid and methylene glycol
+*   Cosmetics, personal care products and medicines, such as quaternium-15, and sodium hydroxymethylglycinate
+*   Tobacco smoke, as this contains formaldehyde and other harmful chemicals
+*   Combustion sources, such as fireplaces, wood stoves, gas stoves, candles and incense
+
+How Do You Know If There Is Formaldehyde in Your Home?
+------------------------------------------------------
+
+At low levels, formaldehyde is invisible and odorless, so you'll likely not detect it by sight or smell. However, you may experience some symptoms or signs that indicate the presence of it in your home, such as:
+
+*   Burning, itching, redness or soreness of eyes, nose and throat
+*   Coughing, wheezing, shortness of breath and asthma attacks
+*   Skin rashes, itching, swelling and blisters
+*   Headaches, nausea, fatigue, dizziness or loss of appetite
+
+If you or your family members experience any of these symptoms or signs, you should consult your doctor and check your home for possible sources of formaldehyde. You should also ventilate your home by opening windows and doors, using fans or installing an air purifier to reduce formaldehyde levels in your indoor air.
+
+How Do You Measure Formaldehyde Levels?
+---------------------------------------
+
+You can measure formaldehyde levels using various methods. The following are the three most popular options.
+
+### Home Test Kits
+
+These are available online and at some hardware stores. They usually consist of a small device that you place in a room for a certain period and then send to a laboratory for analysis. The results tell you the average formaldehyde concentration in that room. However, these kits aren’t always accurate, reliable or consistent, and they may not capture the variations in formaldehyde levels throughout the day or across different rooms.
+
+### Professional Testing
+
+This involves hiring a qualified inspector or contractor to conduct a thorough assessment of your home. They use specialized equipment and techniques to measure the formaldehyde levels in different locations and sources and provide you with a detailed report and recommendations. This method is more effective than home test kits but can also be more expensive and time-consuming.
+
+### Indoor Air Quality Monitors
+
+You can install these devices in your home to continuously measure the formaldehyde and other pollutants in your indoor air. The monitors display the real-time readings on a screen or send them to your smartphone or computer. They can also alert you when formaldehyde levels exceed a certain threshold or standard. This method is more convenient, accessible and informative, but it can also be costly and complex.
+
+**More Related Articles:**
+
+*   [5 Reasons You Need a Dehumidifier in Your Home](https://www.homeserve.com/en-us/blog/home-improvement/dehumidifier-benefits/)
+*   [Heat Your Home Safely This Winter: Carbon Monoxide Safety Tips](https://www.homeserve.com/en-us/blog/home-improvement/carbon-monoxide-safety/)
+*   [Out With the Mold and in With the New: How to Clean Mold](https://www.homeserve.com/en-us/blog/how-to/mold-removal/)
+*   [How Much Does a Mold Inspection Cost?](https://www.homeserve.com/en-us/blog/cost-guide/mold-inspection/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+
+How Do You Lower Formaldehyde Levels?
+-------------------------------------
+
+There are several ways to lower the formaldehyde levels in your home, including:
+
+*   Choosing labeled or certified low-formaldehyde or formaldehyde-free products. Labels/certifications include California Air Resources Board (CARB) Phase 2 standard, the GREENGUARD Gold Certification and the Indoor airPLUS label
+*   Ventilating your home regularly, especially after bringing in new products or materials that may contain formaldehyde or using combustion sources that may produce formaldehyde
+*   Controlling the temperature and humidity in your home, as formaldehyde tends to evaporate faster and more easily in warmer and wetter conditions
+*   Cleaning and maintaining your home regularly, because dust, dirt and mold accumulating on surfaces and in crevices can release formaldehyde and other allergens into the air
+*   Reducing or eliminating your exposure to tobacco smoke, since smoking or being exposed to secondhand smoke can increase your intake of formaldehyde and other harmful chemicals<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/-w93u9ICMks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Who the Heck Is HomeServe???"></iframe>

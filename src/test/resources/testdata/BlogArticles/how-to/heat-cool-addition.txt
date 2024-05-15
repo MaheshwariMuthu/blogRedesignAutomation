@@ -1,0 +1,87 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Heat or Cool an Addition"
+headline: "How to Heat or Cool an Addition"
+author: Shelley Frost
+tags: ["post"]
+publishDate: 2024-03-12
+basePath: https://library.homeserve.com/m/
+heroImage: 59084ca29ff0ad39/Blog-GettyImages-1413870149.jpg
+heroAltDescription: "Carpenters on the roof of new building addition"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Building an addition? You'll want to learn about your HVAC options to keep it the perfect temperature year-round."
+articleAbstract: "If your home is at maximum capacity, an addition is a logical option. Unless you want the new space to be a personal sauna in the summer and a temporary deep freezer in the winter, you'll need HVAC options to keep it the perfect temperature year-round."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Heat or Cool an Addition"
+  parent: HVAC-How-To
+---
+  If your home is at maximum capacity, an addition is a logical option. Unless you want the new space to be a personal sauna in the summer and a temporary deep freezer in the winter, you'll need HVAC options to keep it the perfect temperature year-round.
+
+**This May Also Interest You:** [**How Much Does HVAC Maintenance and Repair Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+
+What Are My Options for Adding Heat to an Addition?
+---------------------------------------------------
+
+Even in warmer climates, having some type of heating system is usually necessary to keep your space cozy on chillier days. Here are some options when you're deciding how to add heat to a room:
+
+### Ductless Mini-Split Unit
+
+This system is similar to a traditional HVAC system because it has an outdoor condenser and an indoor air handler. You can connect multiple air handlers to one condenser if you have a large addition. As a bonus, ductless systems also cool, so you only need one unit for both heating and cooling.
+
+### Heat Pump
+
+A heat pump moves heat based on where you need it. In the winter, it pulls heat from the outside air and brings it into your home. It also works to cool your home in the summer like a ductless mini-split unit, making it another all-in-one solution.
+
+### Packaged Terminal Air Conditioner
+
+Never heard of a PTAC? You've likely used one if you've stayed at hotels. They're the wall units you often see in hotel rooms. A PTAC is a self-contained unit that goes through the wall and handles both heating and cooling.
+
+### Baseboard Heaters
+
+As the name suggests, this type of heater attaches at the bottom of the wall, where cold air naturally falls. The cold air goes into a vent, and the unit heats the air before blowing it back out. Naturally, the heated air rises, which helps heat the whole room from floor to ceiling.
+
+### Wall Heater
+
+This option is similar to a baseboard heater, but it uses a heating element and a fan to blow the warm air into the room. Wall heaters typically warm the room faster than baseboard heaters because of the fan.
+
+What Are My Options for Cooling an Addition?
+--------------------------------------------
+
+When things heat up, you'll want a cooling option for your addition or sunroom. Here are some options for cooling an extra room:
+
+### Ductless Mini-Split Unit
+
+The same ductless system that heats your space in the winter can cool it in the summer.
+
+### Heat Pump
+
+You can use a heat pump to keep your addition cool in the summer. In cooling mode, the heat pump pulls the hot air out of your home and moves it outdoors.
+
+### Packaged Terminal Air Conditioner
+
+A PTAC can also cool your room in the summer. Simply switch it to cooling mode when it gets warm outdoors.
+
+### Window Unit
+
+For an affordable option, install a window air conditioner in the room. You can choose units to fit various room sizes for efficient cooling. Wall units are also available — they go through a wall instead of in a window, so you don't lose any window area.
+
+### Portable Air Conditioner
+
+An alternative to a window air conditioner is a portable air conditioner. It's a freestanding unit that you can move around the space as needed. However, it needs to be vented outdoors to create an exhaust option for heat and moisture. Most models include window kits that allow you to vent the house out a window.
+
+**More Related Articles:**
+
+*   [Central Air Installation and Replacement Cost](https://www.homeserve.com/en-us/blog/cost-guide/central-air-installation-cost/)
+*   [What You Need to Know About AC Repair Costs](https://www.homeserve.com/en-us/blog/cost-guide/ac-repair-costs/)
+*   [How Much Do UV Lights Cost for HVAC Systems?](https://www.homeserve.com/en-us/blog/cost-guide/uv-lights-hvac/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Do You Need a Zoned HVAC System?](https://www.homeserve.com/en-us/blog/home-improvement/zoned-hvac-system/)
+
+Can I Connect My Addition to My Existing HVAC System?
+-----------------------------------------------------
+
+It's possible to run ductwork from your existing central heating and cooling system to your addition or sunroom, but it's not always feasible. When an HVAC unit is installed, it's sized for the home's square footage and features. Your system might keep up with your home comfort needs now, but extending it to the new space might stretch it too thin. Putting that much strain on the system can cause it to wear out sooner and leave you feeling cooler or warmer than you want.
+
+If you want one system for everything, consult with an HVAC pro. They can tell you if your existing system can handle the extra load. If you're ready to replace your old system anyway, you could install a new, larger system to cover the entire house. An HVAC company can evaluate the situation and recommend the most effective options for your addition.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/kt-8Q9ewSFo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="To cover or not to cover… that is the question."></iframe>

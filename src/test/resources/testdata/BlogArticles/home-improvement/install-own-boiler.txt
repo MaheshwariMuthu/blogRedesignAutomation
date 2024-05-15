@@ -1,0 +1,64 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Can You Install Your Own Boiler?"
+headline: "Can You Install Your Own Boiler?"
+author: Hannah Stephens
+tags: ["post"]
+publishDate: 2024-02-27
+basePath: https://library.homeserve.com/m/
+heroImage: 28da1376c5ace3bb/Blog-GettyImages-1298386903.jpg
+heroAltDescription: "Man in Bathroom Repairing Electric Boiler"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Boiler installation is a complex process requiring advanced plumbing and electrical skills. Learn whether it's possible (and legal) to install your own boiler."
+articleAbstract: "Boiler installation is a complex process requiring advanced plumbing and electrical skills. Learn whether it's possible (and legal) to install your own boiler."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Can You Install Your Own Boiler?"
+  parent: HVAC-Home-Improvement
+---
+  Being a confident DIYer can help you save money on home improvements (not to mention increasing your popularity with less DIY-savvy friends and family members). Learning to decorate your home, maintain essential fixtures and tackle minor plumbing jobs is great for your wallet. However, you may find yourself tempted to attempt bigger jobs to cut costs, such as DIY boiler installation.
+
+**This May Also Interest You:** [**It’s Too Hot in Here! How to Turn Down Your Radiator**](https://www.homeserve.com/en-us/blog/how-to/turn-down-radiator/)
+
+A new boiler can help your heating system run more efficiently, but this project is not for the faint-hearted.
+
+What Does Boiler Installation Involve?
+--------------------------------------
+
+If you have an existing boiler, your installer will remove your current unit and clean your heating system. Next, they'll install your new boiler, which may mean upgrading your plumbing system to suit a more modern model. Finally, they'll test your system to ensure it functions correctly.
+
+Generally, a straightforward like-for-like boiler installation takes around a day. However, the process may take longer (and be significantly more complicated) if you're switching to a different boiler type or have a very old heating system. For example, your plumber may need to upgrade your radiators or install your new boiler in a different position.
+
+Can You Install a Boiler Yourself?
+----------------------------------
+
+According to [Forbes](https://www.forbes.com/home-improvement/hvac/boiler-installation-replacement-cost/), plumbers charge around $2,500 (CAD 3,362) on average to install a boiler, excluding the cost of the unit itself. Therefore, it's hardly surprising some homeowners wonder if they can cut costs by installing a new boiler themselves.
+
+Installing a gas boiler yourself is rarely possible because fitting these units without a gas-safe certification is illegal. Therefore, you'll need to hire a professional to install your boiler to avoid falling afoul of the law unless you happen to have the correct certification.
+
+In any event, installing any boiler without extensive experience is challenging because the wiring and plumbing involved are beyond the abilities of even the most competent DIYers. You may also struggle to obtain building approval without hiring a suitably qualified plumber.
+
+**More Related Articles:**
+
+*   [Noisy Radiator: Why Does My Heating System Clang?](https://www.homeserve.com/en-us/blog/home-improvement/heating-system-clang/)
+*   [Is It Safe to Put Things on or Near Your Radiator?](https://www.homeserve.com/en-us/blog/home-improvement/can-you-put-items-on-radiator/)
+*   [3 Reasons Your Radiator Is Hissing (and 3 Fixes You Can Try)](https://www.homeserve.com/en-us/blog/home-improvement/radiator-hissing/)
+*   [How to Bleed Your Radiator](https://www.homeserve.com/en-us/blog/how-to/bleed-furnace/)
+*   [How Much Does Boiler Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-repair/)
+
+Do You Need a Permit or License to Install a Boiler Heating System?
+-------------------------------------------------------------------
+
+Most jurisdictions require you to obtain a building permit to install or replace a boiler. How much a boiler permit costs varies by area, but most homeowners spend between $50 and $300 (CAD 67 and CAD 403).
+
+As mentioned above, you'll need a gas-safe certification to install a gas boiler. Furthermore, some jurisdictions don't allow homeowners to install boilers of any type unless they have a boiler installer license.
+
+Is It a Good Idea to Install a Boiler Yourself?
+-----------------------------------------------
+
+Unless you're an experienced plumber, installing your own boiler is rarely a good idea. Unless you know what you're doing, you risk installing your boiler incorrectly. Incorrect installation can prevent you from getting building approval, so you may end up having to hire a professional to reinstall your unit. Therefore, attempting DIY installation could turn out to be more expensive than hiring a pro in the first place.
+
+However, building approval issues aren't the only potential pitfall of installing your own boiler. Installing a boiler heating system requires complex electrical and plumbing work (and gas work if you have a gas-powered model). Making a mistake during the installation could increase your risk of leaks, floods and a malfunctioning heating system. Furthermore, incorrect wiring or gas connections could cause a house fire or allow natural gas to enter your living space, potentially causing serious health issues or even explosions.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

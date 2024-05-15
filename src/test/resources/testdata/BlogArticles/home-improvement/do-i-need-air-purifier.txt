@@ -1,0 +1,75 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Do I Need an Air Purifier?"
+headline: "Do I Need an Air Purifier?"
+author: Sarah Stasik
+tags: ["post"]
+publishDate: 2024-03-08
+basePath: https://library.homeserve.com/m/
+heroImage: 5907966fe70c2657/Blog-BlueAirPurifier_AWiesen_IMG_0559.jpg
+heroAltDescription: "Room air purifier by Blue"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "What does an air purifier do and do you need one? Here's what to know."
+articleAbstract: "Air purifiers offer some assistance in this regard, and they can also make your home more enjoyable for people without allergies. But, if no one in your household has allergies, is it really worth it to splurge on one?"
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "Do I Need an Air Purifier?"
+  parent: HVAC-Home-Improvement
+---
+  Sneezing, wheezing and feelings of congestion come with the territory for people who suffer from allergies. What if you could remove allergens like dust from the air in your home, making it more comfortable to live in your own space?
+
+**This May Also Interest You:** [**An Owner’s Guide to Air Purifier Maintenance**](https://www.homeserve.com/en-us/blog/home-improvement/air-purifier-maintenance/)
+
+Air purifiers offer some assistance in this regard, and they can also make your home more enjoyable for people without allergies. But, if no one in your household has allergies, is it really worth it to splurge on one?
+
+What Does an Air Purifier Do?
+-----------------------------
+
+Air purifiers filter the air in a space to remove a variety of particles, including allergens like dust. The air is drawn into the air purifier, pushed through a filter or other structures and pumped back into the room cleaner than it was.
+
+Most air purifiers work via the following mechanics:
+
+*   A fan is used to move air, pulling it from the surrounding space into the air purifier.
+*   The fan pushes the air through a filter, where pollutants are removed. Filters work either by forcing air through very small holes that other particles can't get through or by using electricity to attract particles like dander, pollen and dust.
+*   The cleaned air is pushed back into the room.
+
+Air purifiers typically work 24-7, constantly pulling in air in a space and pumping it back out again cleaner than it was. The same air in the room is cycled through the air purifier over and over to help reduce pollutants.
+
+You can purchase individual room air purifiers as well as whole-home models that are installed alongside HVAC equipment.
+
+Who Can Benefit From an Air Purifier?
+-------------------------------------
+
+Air purifiers are beneficial in a number of circumstances to reduce unwanted dust and air pollutants. They can be used in homes, offices and commercial spaces ranging from hotels to health care environments.
+
+Some specific circumstances that might warrant an air purifier in a residential space include when:
+
+* **People in the home have allergies.** Air purifiers can help remove a variety of allergens in a space, reducing the severity of symptoms someone has to deal with in their own home.
+* **Someone in the home has asthma.** The same is true for protecting people with asthma. In some cases, dust or other air pollutants can trigger asthma symptoms, and an air purifier can cut down on those risks.
+* **There are pets in the home.** Pets can leave a lot of dander and other issues in the home, making it harder to keep an area clean and smelling fresh. An air purifier may be able to reduce those struggles.
+* **The home is usually dusty.** Depending on where you live, you may have more than an average amount of dust in your home. Homes in rural settings, those near open construction sites or residences with a gravel or dirt driveway are all prone to excessive amounts of dust accumulation. Air purifiers can help remove dust circulating in the air.
+
+**More Related Articles:**
+
+*   [5 Best Air Purifiers for Your Home Office](https://www.homeserve.com/en-us/blog/buying-guide/top-5-best-air-purifiers-for-your-home-office/)
+*   [Ionizer Vs. Air Purifier: What’s the Difference?](https://www.homeserve.com/en-us/blog/buying-guide/ionizer-vs-air-purifier/)
+*   [5 Tips for Fresher Indoor Air This Winter](https://www.homeserve.com/en-us/blog/how-to/fresher-indoor-air/)
+*   [How to Change a Whole-House Humidifier Filter](https://www.homeserve.com/en-us/blog/how-to/whole-house-humidifer-filter/)
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+
+How Effective Are Typical Residential Air Purifiers?
+----------------------------------------------------
+
+The effectiveness of an air purifier depends on factors such as:
+
+*   Whether you have the right purifier for the size of your space
+*   The type of filter you're using
+*   The quality of the air purifier
+
+For example, if you're using an air purifier that includes a HEPA filter, it's supposed to be able to remove [99.97% of particles](https://www.livescience.com/do-air-purifiers-work) in the air that measure 0.3 microns in diameter or larger. That's a pretty effective air purifier that will cleanse air to a noticeable degree. You do have to ensure you're changing filters appropriately and otherwise maintaining your air purifier to support effective operation.
+
+Are Air Purifiers Worth It?
+---------------------------
+
+Whether an air purifier is a worthy expense for your home depends on your personal preferences and needs. A good quality air purifier will definitely remove dust and other particles from the air, and this can help with allergies and other conditions, reduce the need to dust constantly and improve overall enjoyment of a space.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>

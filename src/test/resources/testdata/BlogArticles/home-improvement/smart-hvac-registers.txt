@@ -1,0 +1,69 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "What Are Smart HVAC Registers?"
+headline: "What Are Smart HVAC Registers?"
+author: Geoffrey Sperring
+tags: ["post"]
+publishDate: 2024-03-26
+basePath: https://library.homeserve.com/m/
+heroImage: 7a1fd721e3e2c0bc/Blog-GettyImages-1846844217.jpg
+heroAltDescription: "Close up of wooden floor with chrome ventilation grid of central heating against window"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Discover how to easily control the temperature in each room of your home with smart HVAC registers. Smart vents work with ducted air conditioning systems."
+articleAbstract: "Discover how to control the room-by-room temperatures in your home with smart HVAC registers without needing to make any changes to the central heating and air conditioning system."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "What Are Smart HVAC Registers?"
+  parent: HVAC-Home-Improvement
+---
+  Even the best HVAC system can struggle to provide comfortable temperatures in every room of your home. Depending on the layout of the house and ducting, some rooms will be slightly warmer and some cooler. Other factors that exacerbate this situation include the morning and afternoon sun, the distance from the HVAC air handler and personal temperature preferences.
+
+**This May Also Interest You:** [**The Do’s and Don’ts of HVAC Maintenance**](https://www.homeserve.com/en-us/blog/home-improvement/hvac-system-maintenance-tips/)
+
+Discover how to control the room-by-room temperatures in your home with smart HVAC registers without needing to make any changes to the central heating and air conditioning system.
+
+What Are Smart HVAC Registers?
+------------------------------
+
+Smart registers are HVAC air vents fitted with a controller that automatically adjusts the volume of air coming into a room from the air conditioning ducting. Each smart vent has a thermostat either fitted to the unit or mounted on the wall that precisely controls the room temperature. Smart vents help optimize home heating and cooling and reduce energy bills. They help eliminate cold rooms in winter and hot rooms in summer.
+
+How Do Smart Air Vents Work?
+----------------------------
+
+Smart air vents control the temperature in a room by automatically adjusting the volume of air coming out of the ducts. If the room is too cold in summer, the vents close to restrict the amount of cool air flowing into the room. If the room is too hot, the vent opens to allow more cool air into the room. They work best when all air vents in a room are converted.
+
+Types of Smart Vents
+--------------------
+
+There are two types of smart air vents:
+
+* **Static vents with adjustable vanes:** These vents have motorized vanes to control airflow. They typically use battery power or a low-voltage AC power adaptor. Their battery life is good. Adjustable vents are best when there's a good flow of warm or cool air through the ducts.
+* **Smart booster fan vents:** Register booster fans increase the flow of warm or cool air into the room. They’re effective for adjusting room temperature quickly and are almost exclusively AC-powered.
+
+Smart air vents use a thermostat to control the temperature in the room. Some have a built-in thermostat, while others communicate wirelessly to a wall-mounted thermostat. Most are compatible with smart thermostats and standard HVAC thermostats.
+
+Managing Your Home Temperature With Smart Registers
+---------------------------------------------------
+
+Smart registers and air vents are Wi-Fi compatible. The most common method of setting them up is to use an app on your smartphone, but some models also have PC apps. Kits consist of one or more smart vents, a smart thermostat for each room and a hub that communicates with your smartphone.  The hub also communicates with your smart home thermostat. To simplify the system and save money, some manufacturers use one of the room thermostats as the hub.
+
+**More Related Articles:**
+
+*   [How Often Should You Change Your Furnace Filter?](https://www.homeserve.com/en-us/blog/how-to/how-often-to-change-furnace-filter/)
+*   [Replacing Your HVAC Air Filter Is a Breeze! Follow These 7 Steps](https://www.homeserve.com/en-us/blog/how-to/install-air-filter/)
+*   [How Much Does HVAC Repair and Maintenance Cost?](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+*   [Is an HVAC Tune-up Worth the Price? (Yes, Yes It Is)](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tune-up/)
+*   [Gimme a Tax Break: 5 Things to Know to Get the Latest HVAC Tax Credits and Rebates](https://www.homeserve.com/en-us/blog/home-improvement/hvac-tax-credits/)
+
+Installing Smart Vents
+----------------------
+
+The installation of smart vents is a simple DIY task. You start with one room first and then extend the system to other rooms as needed. You remove the old vents and install new smart vents in their place. Then, you install a thermostat, often referred to as a puck, on a convenient wall. Once completed, use your smartphone to pair the vent and thermostat to the hub or to each other, depending on the system you’re using.
+
+How Much Do Smart Air Register Vents Cost?
+------------------------------------------
+
+Smart registers are relatively inexpensive. The [Flair Smart Vent Starter Pack](https://flair.co/pages/catalog) for one room costs around $218 (CAD 296). If you go with [Keen, their Starter Kit](https://keenhome.io/collections) for up to two rooms, including the Smart Bridge, starts at $389 (CAD 526). The [SmartCocoon Smart Register Booster Fan](https://mysmartcocoon.com/products/single-4x10-smart-booster-fan?variant=37444683432133) costs $113 (CAD 153). You can add individual vents and thermostat components to extend these systems to other rooms of the house.
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/elsf30t_Wms?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How To Beat the Summer Humidity"></iframe>

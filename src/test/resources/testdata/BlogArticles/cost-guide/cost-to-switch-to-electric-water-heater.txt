@@ -1,0 +1,66 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How Much Does It Cost to Switch to an Electric Water Heater?"
+headline: "How Much Does It Cost to Switch to an Electric Water Heater?"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-02-20
+basePath: https://library.homeserve.com/m/
+heroImage: c3da84a597dbe84/Blog-IMG_38310_WaterHeater1_LL.jpg
+heroAltDescription: "water heater"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Thinking of replacing your gas water heater with an electric water heater? Learn how to make the switch and how much the change might cost you."
+articleAbstract: "Thinking of replacing your gas water heater with an electric water heater? Learn how to make the switch and how much the change might cost you."
+category: ["Cost Guide"]
+eleventyNavigation:
+  key: "How Much Does It Cost to Switch to an Electric Water Heater?"
+  parent: Plumbing-Cost-Guide
+---
+  If your old gas water heater is creaking at the seams or you’d like hot water without the safety concerns of gas, maybe you should think electric.
+
+**This May Also Interest You:** [**How Much Does It Cost to Replace a Water Heater?**](https://www.homeserve.com/en-us/blog/cost-guide/water-heater-replacement-cost/)
+
+What Is the Process of Switching From a Gas Water Heater to an Electric One?
+----------------------------------------------------------------------------
+
+The process of switching from a gas water heater to an electric one involves several steps, including:
+
+*   Turning off the gas and water supply to the existing gas water heater and disconnecting it from the gas lines and the water pipes
+*   Removing the old gas water heater and disposing of it properly
+*   Installing a new electric water heater in the same location or a different one, depending on your preference and space availability
+*   Connecting the electric water heater to the water pipes and the electrical panel, which might involve upgrading your electrical panel or wiring to accommodate the higher voltage and amperage
+*   Turning on the water and electricity supply to the new electric water heater and testing it for proper functioning and safety
+
+How Much Does It Cost to Switch From a Gas to Electric Model?
+-------------------------------------------------------------
+
+Several factors determine the cost of switching from a gas to an electric water heater. Let’s look at the most common ones in more detail.
+
+### The Size and Type of Electric Water Heater
+
+Electric water heaters come in different sizes and types, such as tank and tankless, and have different capacities and features. Generally, the larger and more advanced the electric water heater, the more expensive it is. For example, [HomeGuide](https://homeguide.com/costs/water-heater-installation-cost) says one with a standard tank costs between $600 and $1,800 (CAD 804 and CAD 2,412), while a tankless version can cost between $800 and $3,500 (CAD 1,072 and CAD 4,689).
+
+### The Installation Costs
+
+The costs for installation depend on the complexity and duration of the job, the location and accessibility of the water heater and the labor rates of the plumber or electrician you hire. The installation costs can also include the costs of removing the old gas water heater, upgrading the electrical panel or wiring and obtaining the necessary permits and inspections. The average installation cost of an electric water heater with a tank can range from $500 to $2,100 (CAD 670 to CAD 2,813). If you opt for the tankless version, expect to pay in the region of $600 to $2,500 (CAD 804 to CAD 3,349).
+
+**More Related Articles:**
+
+*   [Why Is My Tankless Water Heater Banging?](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater-banging/)
+*   [How to Flush Your Tankless Water Heater: A 7-Step Guide](https://www.homeserve.com/en-us/blog/how-to/flush-tankless-water-heater/)
+*   [A Tankless Job? Decide Whether a Tankless Water Heater Works for Your Home](https://www.homeserve.com/en-us/blog/home-improvement/tankless-water-heater/)
+*   [How to Install a Tankless Electric Water Heater: A 10-Step Guide](https://www.homeserve.com/en-us/blog/how-to/install-tankless-electric-water-heater/)
+*   [How Much Does It Cost For a Tankless Water Heater?](https://www.homeserve.com/en-us/blog/cost-guide/tankless-water-heater/)
+
+### The Operating Costs
+
+While homeowners naturally budget for the installation costs, it’s equally important to consider the operating costs because, over time, these will have more of an impact on your wallet. The operating costs can depend on the appliance’s energy efficiency and your usage, as well as the electricity rates in your area. Electric water heaters are generally less energy-efficient than gas water heaters, as they use more electricity to heat water. However, they can also have lower maintenance and repair costs, as they have fewer parts and don’t require venting. The average annual operating cost of an electric water heater with a tank can be around $440 and $580 (CAD 590 and CAD 777). For a tankless version, expect to pay around $300 to $535 (CAD 402 to CAD 717).
+
+Therefore, the total cost of replacing a gas water heater with an electric water heater can be anywhere between $1,100 and $5,600 (CAD 1,473 and CAD 7,497). The differences are wide because of the cost differences between tank and tankless options. You should also consider other potential savings and benefits of switching, such as:
+
+*   Reducing your carbon footprint, especially if your electricity comes from renewable energy sources, such as solar or wind
+*   Increasing your safety by eliminating the risk of gas leaks, explosions and carbon monoxide poisoning
+*   Improving your comfort and convenience by having more control over the temperature and flow of hot water, as well as having more options over the appliance's size and location
+
+_All CAD conversions are based on the exchange rate on the date of publication._<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

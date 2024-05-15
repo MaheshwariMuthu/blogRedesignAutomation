@@ -1,0 +1,83 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "How to Balance Your Radiator"
+headline: "How to Balance Your Radiator"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-02-26
+basePath: https://library.homeserve.com/m/
+heroImage: 1cd14ccc90276a85/Blog-GettyImages-534943981.jpg
+heroAltDescription: "Adjusting heating radiator"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Are some of your radiators hotter or colder than others? Balancing your radiators could help."
+articleAbstract: "Are some of your radiators hotter or colder than others? Balancing your radiators could help."
+category: ["How To"]
+eleventyNavigation:
+  key: "How to Balance Your Radiator"
+  parent: HVAC-How-To
+---
+  If you’ve noticed that some of your radiators are hotter or colder than others or your heating system takes ages to warm up your home, you may need to balance your radiators.
+
+**This May Also Interest You:** [**Noisy Radiator: Why Does My Heating System Clang?**](https://www.homeserve.com/en-us/blog/home-improvement/heating-system-clang/)
+
+This practice can also reduce your energy bills and extend your heating system’s life. In this article, we’ll show you how to balance radiators step by step.
+
+What Does It Mean to Balance Your Radiator?
+-------------------------------------------
+
+Balancing your radiator means ensuring each radiator in your home receives the right amount of hot water, according to its size and location. If they’re not balanced, some radiators may get too much hot water, while others may get too little. This causes uneven heating, cold spots and wasted energy. Balancing solves these problems by regulating the flow of hot water to each radiator using valves located on the pipework. Let’s look at the two types of valves you need to know about.
+
+### Thermostatic Radiator Valves (TRVs)
+
+TRVs are usually located on the side or the bottom of the radiator and have a numbered dial or a knob you can turn to adjust the heat level. They automatically adjust the flow of hot water to each radiator, depending on the room temperature and your preference. However, TRVs can sometimes malfunction or become inaccurate and may not work well with other valves in the system. Therefore, you may still need to balance your radiator manually using the other type of valve.
+
+### Lockshield Valves
+
+These are usually located on the opposite end of the radiator from the TRV and have a plastic cap that covers a small valve. They’re meant to be adjusted only when you need to balance your radiator. Lockshield valves can control the flow of hot water to each radiator by opening or closing the valve, using a radiator bleeding key or using an adjustable spanner.
+
+**More Related Articles:**
+
+*   [How to Fix a Radiator Leak in 4 Steps](https://www.homeserve.com/en-us/blog/how-to/fix-radiator-leak/)
+*   [How Much Does Boiler Repair Cost?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-repair/)
+*   [How Much Does It Cost to Install or Replace a Boiler?](https://www.homeserve.com/en-us/blog/cost-guide/boiler-replacement/)
+*   [How Does Heating Your Home With Oil Work — and Who’s Still Using It?](https://www.homeserve.com/en-us/blog/home-improvement/home-heating-oil/)
+*   [How Much Does Heating Oil Cost?](https://www.homeserve.com/en-us/blog/cost-guide/home-heating-oil/)
+
+How Do You Balance a Radiator?
+------------------------------
+
+### Things You’ll Need
+
+*   A digital thermometer to measure the temperature of the pipework near each radiator
+*   A radiator bleeding key or an adjustable spanner to open and close the lockshield valves
+*   A pen and paper to record the temperature readings and the number of turns of each lockshield valve
+*   A cloth or bucket to catch any water that may leak from the valves
+
+### Step by Step
+
+**1\.** Turn off your heating system and let the radiators cool down completely.
+
+**2\.** Release trapped air with the bleeding key or adjustable spanner by opening the small valve located on the top or the side of each radiator, usually near the TRV.
+
+**3\.** First, you’ll hear a hissing sound as the air escapes, followed by dripping water. When this runs clear, close the valve.
+
+**4\.** Identify the radiator closest to the boiler, as this will be your reference point for balancing your other radiators.
+
+**5\.** Fully open this radiator’s lockshield valve with the radiator bleeding key or the spanner, turning it counterclockwise until it stops. (Open the TRV of this radiator by turning it to the highest setting.)
+
+**6\.** Turn on your heating system and wait for the radiators to heat up.
+
+**7\.** Use the digital thermometer to measure the temperature of the pipework near the TRV and the lockshield valve of the reference radiator. (Place the thermometer on the metal surface of the pipe and hold it until it gives a stable reading.)
+
+**8\.** Record the readings on your paper and calculate the difference between them. Ideally, the difference should be about 53.6 degrees F (12 degrees C). If the difference is more or less than that, you’ll need to adjust the lockshield valve of the reference radiator.
+
+**9.** Go to the radiator that's furthest away from the boiler and repeat the same process from the fifth step (On your paper, also record the number of turns it took to open the valve to get the proper temperature difference so you can do this with more accuracy for subsequent radiators.)
+
+**10\.** Continue to balance the rest of the radiators in your home, following the same steps, working your way from the radiator furthest from the boiler to the one closest.
+
+**11\.** Turn off your heating system and wait for the radiators to cool down completely.
+
+**12\.** Replace the plastic caps on the lockshield valves, and set the TRVs to your desired temperature settings.
+
+**13\.** Turn on your heating system, and check that your radiators are heating up evenly and efficiently.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/pM2NlhbKBH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Drain A Water Heater | Hot Water Tank Tips"></iframe>

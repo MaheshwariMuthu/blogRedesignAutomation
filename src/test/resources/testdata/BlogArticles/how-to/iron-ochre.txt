@@ -1,0 +1,76 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "Iron Ochre: What It Is and How to Get Rid of It"
+headline: "Iron Ochre: What It Is and How to Get Rid of It"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-03-13
+basePath: https://library.homeserve.com/m/
+heroImage: 1ae390dca19d3588/Blog-GettyImages-488828669.jpg
+heroAltDescription: "Old grungy rusted sump pump"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "Iron ochre is a reddish-brown slime that can wreak havoc on drainage systems, especially sump pumps, causing clogs and damage."
+articleAbstract: "Iron ochre is a reddish-brown slime that can wreak havoc on drainage systems, especially sump pumps, causing clogs and potentially expensive damage. But you don’t need to accept this problem as an inevitable consequence of where you live."
+category: ["How To"]
+eleventyNavigation:
+  key: "Iron Ochre: What It Is and How to Get Rid of It"
+  parent: Plumbing-How-To
+---
+  Iron ochre: It may sound like something out of a dense geology textbook, but if you're a homeowner dealing with it, you know it's anything but dull.
+
+**This May Also Interest You:** [**Learn a Little Sump’n Sump’n About Sump Pumps**](https://www.homeserve.com/en-us/blog/home-improvement/sump-pumps/)
+
+This reddish-brown slime can wreak havoc on drainage systems, especially sump pumps, causing clogs and potentially expensive damage. But you don’t need to accept this problem as an inevitable consequence of where you live.
+
+What Is Iron Ochre?
+-------------------
+
+Iron ochre, also known as iron bacteria or iron oxide, is a naturally occurring substance that forms when iron-rich groundwater comes into contact with oxygen. This interaction fosters the growth of iron bacteria, resulting in the formation of slimy, reddish-brown deposits. While it may resemble rust, iron ochre is a combination of iron and organic material produced by bacteria.
+
+Where, When and How Does It Form?
+---------------------------------
+
+Iron ochre is commonly found in areas with high levels of iron in the groundwater. It tends to form in damp, oxygen-rich environments, such as drainage pipes and sump pits. Factors such as a high water table, poor drainage and organic matter provide the ideal conditions for its growth. Iron ochre can develop over time, gradually accumulating and causing blockages in drainage systems. It’s difficult to pinpoint a specific time because several variables are at play, such as bacteria levels and oxygen exposure. It can be anywhere from weeks to years.
+
+Why Is Iron Ochre a Problem?
+----------------------------
+
+The presence of iron ochre poses several problems for homeowners, particularly those with sump pumps. First, it can clog drain pipes, impeding the flow of water and increasing the risk of flooding. Additionally, iron ochre buildup can damage sump pump components, leading to malfunctions and costly repairs. The foul odor it emits can permeate the air, creating an unpleasant environment in basements and crawl spaces. Left untreated, iron ochre can compromise the effectiveness of basement waterproofing systems, leaving your home vulnerable to water damage.
+
+**More Related Articles:**
+
+*   [Why Does My Sump Pump Run in the Winter?](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-running-winter/)
+*   [What’s the Difference Between a Sump Pump and an Ejector Pump?](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-ejector-pump/)
+*   [Protect Your Home Against Flooding With This Sump Pump Maintenance Checklist](https://www.homeserve.com/en-us/blog/home-improvement/sump-pump-maintenance/)
+*   [How to Install a Sump Pump: A Step-by-Step Guide](https://www.homeserve.com/en-us/blog/how-to/sump-pump-installation/)
+*   [Sump Pump Alarm Going Off? Here’s What to Do Next](https://www.homeserve.com/en-us/blog/buying-guide/sump-pump-alarm/)
+
+How Do You Clean Iron Ochre From Your Sump Pump?
+------------------------------------------------
+
+Now that we understand the nuisance that is iron ochre, let's explore how you can tackle it head-on and reclaim the functionality of your sump pump.
+
+### Inspection and Assessment
+
+Start by inspecting your sump pump and drainage system for signs of iron ochre buildup. Look for reddish-brown slime, clogged pipes and any unusual odors emanating from the sump pit. Pay particular attention to areas near your home’s foundation and weeping tile outlet (drain pipe). If you have a basement, check its walls and floors, as these may be stained if iron ochre has clogged your drains and caused water backups.
+
+### Drainage System Maintenance
+
+Regular maintenance of your drainage system is crucial for preventing iron ochre buildup. Ensure your gutters and downspouts are clear of debris and that water is directed away from your home's foundation. Consider installing gutter guards to minimize the influx of organic matter into your drainage system. Maintenance should at least be annual but may need to be two or three times per year if iron ochre buildup is particularly prevalent in your area.
+
+### Treatment Options
+
+Several treatment options are available. Sewer jetters use high-pressure water to remove moderate levels of iron ochre, although they can struggle with stubborn deposits. Chemical cleaners, such as hydrogen peroxide and oxalic acid, are effective methods but should be handled with care. It’s advisable to consult a professional to determine the most suitable treatment for your situation.
+
+### Chlorination
+
+Chlorination is a popular and effective method for eliminating iron ochre. Introducing chlorine into the sump pit can kill iron bacteria and prevent their proliferation. However, it's essential to use caution when handling chlorine, as it can be hazardous to your health if you don’t use it properly.
+
+### Professional Assistance
+
+If you're dealing with severe iron ochre buildup, or you’re unsure how to address the problem, don't hesitate to seek professional assistance. A qualified plumber or basement waterproofing specialist can assess the situation and recommend the most appropriate course of action.
+
+### Preventive Measures
+
+Once you've eradicated iron ochre from your sump pump, take steps to prevent its return. Regularly monitor your drainage system for signs of buildup and promptly address any issues that arise. Implementing preventive measures, such as installing a sediment filter or utilizing iron bacteria inhibitors, can help maintain the cleanliness and functionality of your sump pump. Placing chlorine tablets at access points to your drainage system is another option that can prevent iron ochre from returning.<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/kelkErNj5Dw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="What even is a condensate drain line???"></iframe>

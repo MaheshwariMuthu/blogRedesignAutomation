@@ -1,0 +1,118 @@
+---
+layout: layouts/post-layout.njk
+titleTag: "The 4 Types of Furnaces"
+headline: "The 4 Types of Furnaces"
+author: Rowan Guthrie
+tags: ["post"]
+publishDate: 2024-03-07
+basePath: https://library.homeserve.com/m/
+heroImage: 40987cd1c8a8e33e/Blog-HomeServe-Furnace-Types-All.jpg
+heroAltDescription: "illustration showing all types of furnaces"
+heroImageWidth: 1080
+heroImageHeight: 800
+metaDescriptions: "The differences between furnaces come in the different fuel types available. Here’s a look at your options so you can make an educated choice."
+articleAbstract: "The main differences between furnaces lie in the different fuel types available. Here’s a look at your options so you can make the most educated choice."
+category: ["Home Improvement"]
+eleventyNavigation:
+  key: "The 4 Types of Furnaces"
+  parent: HVAC-Home-Improvement
+---
+  
+
+Nothing’s cozier than the warmth furnaces generate on cold winter days, but they’re not all created equal.
+
+**This May Also Interest You:** [**How Much Does HVAC Maintenance and Repair Cost?**](https://www.homeserve.com/en-us/blog/cost-guide/hvac-repair/)
+
+So, if you’re looking for a new furnace, it’s worth comparing the options. The main differences between furnaces come in the different fuel types available. Here’s a look at your options so you can make the most educated choice.
+
+<img class="detail-image" src="https://library.homeserve.com/m/603ff43a98d0cf50/Blog-HomeServe-Furnace-Types-Gas.jpg" alt="illustration of a gas furnace"/>
+
+Gas Furnaces
+------------
+
+This is the most common type of furnace. The fuel source is natural gas, which is delivered through a gas line. These furnaces have a burner that ignites the gas and a heat exchanger that transfers the heat to the air. The warm air is then blown into the ductwork by a fan.
+
+Gas furnaces are usually rated by their annual fuel utilization efficiency, which measures how much of the fuel is converted into heat. The higher the AFUE, the more efficient the furnace. According to Energy Star, the [minimum AFUE](https://www.energystar.gov/products/heating_cooling/furnaces/key_product_criteria) should be 95% for northern states and 90% for southern states.
+
+**Advantages**
+
+*   Relatively inexpensive to install and operate, as natural gas is usually cheaper than other energy sources
+*   Can heat your home quickly and evenly, as natural gas burns at a high temperature and produces a lot of heat
+*   Can work with other gas appliances, such as water heaters, stoves and dryers
+
+**Disadvantages**
+
+*   Requires regular maintenance and inspection due to the risk of gas leaks, carbon monoxide poisoning and fire
+*   Depends on the availability and price of natural gas, which can fluctuate due to the market and the weather
+*   Emits greenhouse gases, such as carbon dioxide and methane, which contribute to global warming and climate change
+
+<img class="detail-image" src="https://library.homeserve.com/m/6b2462f06cf9f3ae/Blog-HomeServe-Furnace-Types-Propane.jpg" alt="illustration of a propane furnace"/>
+
+Propane Furnaces
+----------------
+
+These are similar to gas furnaces, except they use propane as their fuel source. Propane is a liquefied petroleum gas that's stored in tanks or cylinders and delivered to homes by trucks. Like gas furnaces, a burner ignites the propane, and a heat exchanger transfers the heat to the air and then into the ducts.
+
+Propane furnaces are also rated by their AFUE, which measures how much of the fuel is converted into heat. The efficiency rates are similar to those for natural gas.
+
+**Advantages**
+
+*   Slightly more efficient than gas furnaces, as propane burns cleaner and hotter and produces more heat per unit of fuel
+*   More versatile, as it can be used in areas where natural gas is not available or accessible
+*   More environmentally friendly than gas furnaces, as propane emits fewer greenhouse gases and pollutants
+
+**Disadvantages**
+
+*   More expensive to install and operate, as propane is usually costlier than natural gas and requires additional equipment, such as tanks, regulators and valves
+*   Requires more storage space and safety precautions, as propane tanks can be bulky, heavy and flammable
+*   Depends on the availability and price of propane, which can vary due to supply and demand
+
+**More Related Articles:**
+
+*   [Central Air Installation and Replacement Cost](https://www.homeserve.com/en-us/blog/cost-guide/central-air-installation-cost/)
+*   [What You Need to Know About AC Repair Costs](https://www.homeserve.com/en-us/blog/cost-guide/ac-repair-costs/)
+*   [How Much Do UV Lights Cost for HVAC Systems?](https://www.homeserve.com/en-us/blog/cost-guide/uv-lights-hvac/)
+*   [How to Clean Your AC Filter in 7 Simple Steps](https://www.homeserve.com/en-us/blog/how-to/clean-ac-filter/)
+*   [Do You Need a Zoned HVAC System?](https://www.homeserve.com/en-us/blog/home-improvement/zoned-hvac-system/)
+
+<img class="detail-image" src="https://library.homeserve.com/m/4320d2ae1c472019/Blog-HomeServe-Furnace-Types-Electric.jpg" alt="illustration of an electric furnace"/>
+
+Electric Furnaces
+-----------------
+
+As the name suggests, electricity is the energy source. This furnace type has elements that heat the air directly, without the need for a burner or a heat exchanger, which then flows through ducts in the normal way.
+
+An electric furnace’s AFUE rating is between [95% and 100%](https://www.energy.gov/energysaver/furnaces-and-boilers). This is primarily because there’s no loss from running electricity through coils to heat them, so all the energy is transferred to the air moving through the furnace.
+
+**Advantages**
+
+*   Easy to install and maintain, as they don’t require a gas line, tank or venting system
+*   Safe and clean, as they don’t produce any combustion, emissions or noise
+*   Compatible with other electrical appliances, such as air conditioners, heat pumps and humidifiers
+
+**Disadvantages**
+
+*   Expensive to operate, as electricity is usually costlier than other energy sources
+*   Environmentally unfriendly if the electricity is generated by burning fossil fuels
+*   Requires available and reliable electricity and may not suit homes prone to power outages or blackouts
+
+<img class="detail-image" src="https://library.homeserve.com/m/16cf8c08c5c048db/Blog-HomeServe-Furnace-Types-Oil.jpg" alt="illustration of an oil furnace"/>
+
+Oil Furnaces
+------------
+
+These furnaces use heating oil, a refined petroleum product that’s stored in tanks and delivered to homes by trucks. Oil furnaces have a burner that ignites the oil and a heat exchanger that transfers the heat to the air, which is then blown into rooms by a fan via the ductwork and vents.
+
+According to Energy Star, an oil furnace’s AFUE should be 85% or higher. This makes them the least efficient type of furnace.
+
+**Advantages**
+
+*   More powerful than gas or propane furnaces, as heating oil burns hotter and produces more heat per unit of fuel
+*   Typically more durable, as heating oil doesn’t corrode or damage furnace components as much as gas or propane
+*   More independent than gas or propane furnaces, as heating oil can be stored on-site and used as needed
+
+**Disadvantages**
+
+*   Costlier to install and operate, as heating oil is usually more expensive than natural gas or propane and requires additional equipment, such as tanks, pumps and filters
+*   Requires more maintenance and inspection, as heating oil can clog, leak or spill, causing fire hazards, environmental issues and health risks
+*   Emits more greenhouse gases and pollutants than gas or propane furnaces, as it produces more carbon dioxide, sulfur dioxide, nitrogen oxides and particulate matter<br><iframe title="YouTube video player" width="1072" height="603" src="https://www.youtube.com/embed/U4IFZzwZwdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="How to Install An Air Filter at Home | HVAC Maintenance"></iframe>
